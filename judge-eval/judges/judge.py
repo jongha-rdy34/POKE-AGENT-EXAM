@@ -33,9 +33,11 @@ from schema import parse, validate  # noqa: E402
 PROMPTS = EVAL / "judges" / "prompts"
 PACKETS = Path(os.environ.get("JUDGE_PACKETS_DIR") or EVAL / "packets")  # 시험용으로 바꿀 수 있다
 RUNS = 3                    # Claude·OpenAI 등 판정 모델 1개당 회차
-# Gemini 판정은 두 모델을 회차 단위로 섞는다(사용자 결정 2026-11-27: flash-lite 7 : flash 3).
-# 형식 "모델:회차수:호출간격초". 한 회차 = 절대 X·Y + 쌍비교 XY·YX 4건 → 두 모델이 앱·순서를 똑같이 나눠 받는다.
-GEMINI_PLAN_DEFAULT = "gemini-3.5-flash-lite:7:6,gemini-3.5-flash:3:20"
+# Gemini 판정은 두 모델을 섞는다(사용자 결정 2026-11-27 개정: 12건 = flash-lite 6 + flash 6, 3회차).
+# 형식 "모델:단위+단위:호출간격초". 단위: "1"=1회차 4건 전부, "3abs"=3회차 절대 X·Y, "3pw"=3회차 쌍비교 XY·YX.
+# 절대는 X·Y, 쌍비교는 XY·YX를 늘 짝으로 받으므로 모델마다 앱·순서가 균형을 이룬다.
+GEMINI_PLAN_DEFAULT = "gemini-3.5-flash-lite:1+3abs:6,gemini-3.5-flash:2+3pw:20"
+CLAUDE_JUDGE_MODEL = "claude-sonnet-5-5"   # 하위 에이전트 판정 모델(사용자 결정 2026-11-27: 제작 모델 Opus와 분리)
 RPD = {"gemini-3.5-flash-lite": 500, "gemini-3.5-flash": 20}   # 무료 등급 하루 한도(STATUS 6절)
 MAX_RETRY = 2
 RETRY_MSG = "출력 형식을 어겼습니다. 지정한 JSON 하나만, 다른 글자 없이 다시 출력하세요."
@@ -63,14 +65,20 @@ def load_env():
 
 
 # ---------------------------------------------------------------- 요청 목록
-def plan(runs=None):
-    """회차마다 4건: 절대 X·Y, 쌍비교 XY·YX."""
+def plan(units=None):
+    """단위마다 판정 목록. 정수(또는 "3")=그 회차 4건, "3abs"=절대 X·Y, "3pw"=쌍비교 XY·YX."""
     jobs = []
-    for r in (runs or range(1, RUNS + 1)):
-        for app in ("X", "Y"):
-            jobs.append({"run_id": f"abs_{app}_r{r}", "mode": "absolute", "app": app, "order": None, "run": r})
-        for order in ("XY", "YX"):
-            jobs.append({"run_id": f"pw_{order}_r{r}", "mode": "pairwise", "app": None, "order": order, "run": r})
+    for u in (units or range(1, RUNS + 1)):
+        m = re.fullmatch(r"(\d+)(abs|pw)?", str(u))
+        if not m:
+            raise SystemExit(f"판정 단위를 읽지 못함: {u!r} (예: 1, 3abs, 3pw)")
+        r, part = int(m.group(1)), m.group(2)
+        if part in (None, "abs"):
+            for app in ("X", "Y"):
+                jobs.append({"run_id": f"abs_{app}_r{r}", "mode": "absolute", "app": app, "order": None, "run": r})
+        if part in (None, "pw"):
+            for order in ("XY", "YX"):
+                jobs.append({"run_id": f"pw_{order}_r{r}", "mode": "pairwise", "app": None, "order": order, "run": r})
     return jobs
 
 
@@ -199,17 +207,17 @@ def judge_one(provider, job, gap):
 
 
 def gemini_plan(spec):
-    """"모델:회차수:간격" 목록 → [(모델, [회차 번호], 간격)]. 회차 번호는 모델이 고르게 섞이도록 배정한다
-    (부족분이 가장 큰 모델에 다음 회차를 준다: 7:3이면 L L F L L F L L F L 순)."""
-    items = []
+    """"모델:단위+단위:간격" 목록 → [(모델, [단위], 간격)]. 모든 모델을 합쳐 판정 하나가 두 번 배정되면 멈춘다."""
+    items, seen = [], {}
     for part in spec.split(","):
-        model, n, gap = (part.strip().split(":") + ["20"])[:3]
-        items.append([model, int(n), float(gap), []])
-    total = sum(i[1] for i in items)
-    for slot in range(1, total + 1):
-        best = max(items, key=lambda i: (i[1] * slot / total - len(i[3]), -i[1]))
-        best[3].append(slot)
-    return [(m, runs, gap) for m, _, gap, runs in items]
+        model, units, gap = (part.strip().split(":") + ["20"])[:3]
+        units = [u.strip() for u in units.split("+") if u.strip()]
+        for j in plan(units):
+            if j["run_id"] in seen:
+                raise SystemExit(f"{j['run_id']}이 {seen[j['run_id']]}와 {model}에 두 번 배정됨")
+            seen[j["run_id"]] = model
+        items.append((model, units, float(gap)))
+    return items
 
 
 def providers(args, env):
@@ -230,13 +238,14 @@ def providers(args, env):
 
 # ---------------------------------------------------------------- Claude 하위 에이전트용 작업 파일
 def write_claude_tasks():
-    """Claude 판정은 API가 아니라 진행 세션의 하위 에이전트가 한다. 작업마다 프롬프트 파일을 만든다.
+    """Claude 판정은 API가 아니라 진행 세션의 하위 에이전트가 한다(모델: CLAUDE_JUDGE_MODEL, Agent 도구의 model="sonnet").
+    작업마다 프롬프트 파일을 만든다.
     하위 에이전트는 이 폴더와 이미지 경로만 읽고, 응답 JSON을 judges/claude_answers/{run_id}.json에 저장한다.
     그다음 `python judges/import_manual.py judges/claude_answers`로 검사한다(출력: judges/raw/claude_answers.jsonl)."""
     out = EVAL / "judges" / "claude_tasks"
     out.mkdir(parents=True, exist_ok=True)
     for job in plan():
-        system, parts = render(job, "claude-subagent")
+        system, parts = render(job, CLAUDE_JUDGE_MODEL)
         lines = [system, ""]
         for kind, val in parts:
             lines.append(val if kind == "text" else f"\n[이미지: {Path(val).resolve()} 를 Read로 열어 볼 것]\n")
@@ -274,7 +283,8 @@ def main():
             warn = "" if rpd is None or len(jobs) * (1 + MAX_RETRY) <= rpd else " ⚠ 재요청까지 하면 하루에 못 끝날 수 있음"
             print(f"| {p.name} `{p.model}` | {','.join(map(str, p.runs))} | {len(jobs)} | 최대 {imgs} | {tin:,} | {tout:,} | "
                   f"{cost} {pr.get('note', '')} | {rpd if rpd else '?'}{warn} |")
-        print(f"Claude 하위 에이전트 {len(plan())}건은 이 세션 사용량으로 처리(API 비용 없음).")
+        print(f"Claude 하위 에이전트 `{CLAUDE_JUDGE_MODEL}` {len(plan())}건은 이 세션 사용량으로 처리(API 비용 없음). "
+              "OpenAI는 Codex 수동 12건.")
         if args.plan:
             return
     raw_dir = Path(os.environ.get("JUDGE_RAW_DIR") or EVAL / "judges" / ("raw_mock" if args.mock else "raw"))

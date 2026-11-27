@@ -113,21 +113,24 @@ class Aggregate(unittest.TestCase):
 
 
 class Mixing(unittest.TestCase):
-    """Gemini 판정: flash-lite 7회차 : flash 3회차 (사용자 결정 2026-11-27)."""
+    """Gemini 판정: 12건 = flash-lite 6 + flash 6 (사용자 결정 2026-11-27 개정)."""
 
-    def test_default_plan_is_7_to_3_and_interleaved(self):
-        plan = {m: runs for m, runs, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT)}
-        self.assertEqual(len(plan["gemini-3.5-flash-lite"]), 7)
-        self.assertEqual(len(plan["gemini-3.5-flash"]), 3)
-        self.assertEqual(sorted(plan["gemini-3.5-flash-lite"] + plan["gemini-3.5-flash"]), list(range(1, 11)))
-        self.assertNotEqual(plan["gemini-3.5-flash"], [8, 9, 10])     # 끝에 몰리지 않는다
+    def test_default_plan_is_6_and_6_covering_all_12_once(self):
+        plan = {m: jg.plan(units) for m, units, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT)}
+        self.assertEqual(len(plan["gemini-3.5-flash-lite"]), 6)
+        self.assertEqual(len(plan["gemini-3.5-flash"]), 6)
+        ids = sorted(j["run_id"] for jobs in plan.values() for j in jobs)
+        self.assertEqual(ids, sorted(j["run_id"] for j in jg.plan()))   # 3회차 12건을 한 번씩
 
     def test_each_model_gets_balanced_apps_and_orders(self):
-        for model, runs, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT):
-            jobs = jg.plan(runs)
-            self.assertEqual(sum(j["app"] == "X" for j in jobs), sum(j["app"] == "Y" for j in jobs))
-            self.assertEqual(sum(j["order"] == "XY" for j in jobs), sum(j["order"] == "YX" for j in jobs))
-            self.assertEqual(len(jobs), 4 * len(runs))
+        for model, units, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT):
+            jobs = jg.plan(units)
+            self.assertEqual(sum(j["app"] == "X" for j in jobs), sum(j["app"] == "Y" for j in jobs), model)
+            self.assertEqual(sum(j["order"] == "XY" for j in jobs), sum(j["order"] == "YX" for j in jobs), model)
+
+    def test_double_assignment_is_rejected(self):
+        with self.assertRaises(SystemExit):
+            jg.gemini_plan("a:1+3abs:6,b:3:20")
 
     def test_judges_are_equally_weighted_and_submodels_reported(self):
         # gemini 10회차 전부 5점, claude 3회차 전부 1점 → 단순 합산이면 약 4.08, 동일 가중이면 3.0
