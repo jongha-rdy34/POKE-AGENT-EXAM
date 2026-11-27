@@ -44,7 +44,8 @@ def load(raw_dir):
             recs.append({"judge": r.get("judge", judge) if r.get("judge") != "mock" else judge, "mode": mode,
                          "label": app, "order": order, "run": run, "ok": r.get("status") == "ok",
                          "parsed": r.get("parsed") if r.get("status") == "ok" else None,
-                         "retries": r.get("retries", 0), "judge_model": r.get("judge_model")})
+                         "retries": r.get("retries", 0),
+                         "judge_model": r.get("judge_model") or (r.get("parsed") or {}).get("judge_model")})
     return recs
 
 
@@ -251,7 +252,9 @@ def report(csv_path, out_path):
           f"4. 판정 모델 간 일치도(종합, Krippendorff's alpha nominal): {fmt(al)}.",
           f"5. 판정 실패율(스키마·HTTP): {fmt(fr, True)} (n={frn}). 조건마다 결과물이 1개라 차이의 원인은 가릴 수 없다.", ""]
 
-    L += ["## 1. 절대 평가 (평균 ± 표준편차, 1~5)", "", "| 항목 | A | B | n |", "|---|---|---|---|"]
+    L += ["## 1. 절대 평가 (판정 모델별 평균의 평균 ± 판정 모델 간 표준편차, 1~5)", "",
+          "판정 모델(공급사)을 동일 가중으로 평균했다. 실패한 판정이 있으면 판정 모델마다 건수가 달라질 수 있어서다.", "",
+          "| 항목 | A | B | n |", "|---|---|---|---|"]
     for item in ITEMS + ("total",):
         ma, na = get("abs_mean", app="A", item=item)
         sa, _ = get("abs_sd", app="A", item=item)
@@ -309,8 +312,10 @@ def report(csv_path, out_path):
           "- LLM 판정의 선호는 사람의 선호와 다를 수 있다(Phase 7 설문은 선택).",
           "- temperature는 API 판정(Gemini, OpenAI API를 쓴 경우)만 고정했다. Claude 하위 에이전트와 수동 판정(ChatGPT 앱·Codex)은 정할 수 없다.",
           "- Claude 하위 에이전트와 수동 판정은 각 도구의 시스템 프롬프트가 붙는다. 하위 에이전트가 패킷 밖의 파일을 읽지 않았다고 완전히 보장할 수 없다.",
-          "- 두 앱의 LLM과 Gemini 판정이 같은 계열이다. Gemini 판정은 gemini-3.5-flash-lite 7회차와 gemini-3.5-flash 3회차를 섞었다(무료 한도 때문). 세부 모델별 값은 1절 표에 따로 있다.",
-          "- 표본이 작다: Claude·OpenAI는 3회차(12건), Gemini는 10회차(40건). 판정 모델 간 일치도는 겹치는 1~3회차만 쓴다.", ""]
+          "- 두 앱의 LLM과 Gemini 판정이 같은 계열이다. Gemini 판정 12건은 gemini-3.5-flash-lite 6건(1회차 전체 + 3회차 절대 평가)과 gemini-3.5-flash 6건(2회차 전체 + 3회차 쌍비교)을 섞었다(무료 한도 때문). 두 세부 모델은 절대/쌍비교 비중이 4:2, 2:4로 다르다. 세부 모델별 값은 1절 표에 따로 있다.",
+          "- Claude 판정은 두 앱을 만든 모델(Opus 5.5)과 분리하려고 Sonnet(claude-sonnet-5-5) 하위 에이전트로 했다. 같은 Claude 계열이라 계열 편향은 남고, 판정 정교함은 Opus보다 낮을 수 있다.",
+          "- OpenAI 판정은 Codex 세션 수동 실행이다. 모델 이름은 화면 표기이고 temperature·시스템 프롬프트를 통제할 수 없다.",
+          "- 표본이 작다: 판정 모델 3곳 × 3회차 × 4건 = 36건.", ""]
     Path(out_path).write_text("\n".join(L), encoding="utf-8")
 
 
