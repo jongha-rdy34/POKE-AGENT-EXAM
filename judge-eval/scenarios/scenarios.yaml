@@ -1,50 +1,62 @@
-# 초안 v0 (확인 전). 두 앱에 같은 대전 상황을 쓴다.
-# 포켓몬은 A의 DB에서 in_champions=1인 것만 골랐다(챔피언스 싱글 기준). 스피드 종족값: 한카리아스 102, 포푸니크 120.
-version: 0
-status: draft            # 확인 후 approved로 바꾼다
+# v1 (2026-11-27 확정: 시나리오 5개). 두 앱에 같은 대전 상황을 쓴다.
+# 포켓몬은 A의 DB에서 in_champions=1인 것만 골랐다(챔피언스 싱글 기준).
+# 스피드 종족값: 포푸니크 120, 팬텀 110, 한카리아스 102.
+version: 1
+status: approved
 ruleset: {game: champions, battle: single, pick: 3}
+app_llm: {provider: gemini-openai-compatible, model: gemini-3.5-flash}   # 두 앱 동일
 viewports:
   desktop: {width: 1440, height: 900}
   mobile: {width: 390, height: 844}
+capture_limit_per_scenario_viewport: 2   # 판정 패킷 크기를 맞추기 위한 상한
 
 shared_situation:
   my_team: [한카리아스, 망나뇽, 어흥염, 대도각참, 팬텀, 워시로토무]
   opp_team: [포푸니크, 리자몽, 마기라스, 갸라도스, 님피아, 엘풍]
-  key_turn: "내 한카리아스가 상대 포푸니크보다 늦게 움직였고, 인파이트 한 방에 쓰러졌다"
 
 scenarios:
   S1_first_view:
     goal: 처음 들어온 사용자가 무슨 서비스인지 이해할 수 있는가
-    steps:
-      A: [접속(초대 토큰 쿠키 발급), 첫 화면 캡처]
-      B: [접속, 첫 화면 캡처]
-    captures: [first_view]
+    rubric_focus: [usability, ui]
+    A: [접속(초대 토큰 쿠키 발급), 첫 화면]
+    B: [접속, 첫 화면]
 
-  S2_core_once:
+  S2_core_main:
     goal: 같은 대전 상황으로 주 기능을 한 번 수행한다
-    steps:
-      A:
-        - 입력창에 key_turn 문장 입력 → 복기하기
-        - "이렇게 이해했어요" 확인 화면 캡처
-        - 이대로 복기 → 결과 화면 캡처(전체 스크롤)
-      B:
-        - 게임 챔피언스·싱글 6→3 선택
-        - 직접 선택으로 my_team, opp_team 입력
-        - 선출 추천 받기 → 결과 화면 캡처(전체 스크롤)
-        - 대면 판단에서 한카리아스 vs 포푸니크 → 캡처
-    captures: [input, confirm_or_setup, result]
-    requires: [LLM 키, B는 외부 데이터 API 네트워크]
+    rubric_focus: [accuracy, purpose_fit]
+    A:
+      text: "내 한카리아스가 상대 포푸니크보다 늦게 움직였고, 인파이트 한 방에 쓰러졌어"
+      steps: [입력 → 복기하기, 확인 화면, 이대로 복기 → 결과]
+    B:
+      steps: [챔피언스·싱글 6→3, 직접 선택으로 my_team·opp_team 입력, 선출 추천 받기 → 결과]
 
-  S3_bad_input:
+  S3_core_variant:
+    goal: 다른 대면 하나로 핵심 계산을 다시 본다(버팀·스피드)
+    rubric_focus: [accuracy]
+    A:
+      text: "상대 포푸니크가 내 팬텀보다 먼저 움직였는데, 내 팬텀은 HP 25~50% 남기고 버텼어"
+      steps: [입력 → 복기하기, 이대로 복기 → 결과]
+    B:
+      steps: [S2 상태에서 대면 판단: 내 팬텀 vs 상대 포푸니크 → 결과]
+
+  S4_bad_input:
     goal: 잘못된 입력·경계 사례 처리
+    rubric_focus: [usability, code]
     cases:
       - id: unknown_name
         A: "내 피카츄몽이 상대 포푸니크한테 한 방에 쓰러졌어"
-        B: 상대 팀에 "피카츄몽" 포함해 대화로 입력
+        B: 대화로 입력 "상대 팀은 피카츄몽, 리자몽, 마기라스, 갸라도스, 님피아, 엘풍"
       - id: empty
         A: 빈 입력으로 복기하기
-        B: 팀 비운 채로 선출 추천 받기
+        B: 팀을 비운 채 선출 추천 받기
       - id: rule_mismatch
-        A: "내 팬텀이 지진으로 상대 리자몽을 공격했어"   # 배우지 못하거나 면역인 조합
-        B: 상대 팀 5마리만 입력
-    captures: [each_case_result]
+        A: "내 팬텀이 지진으로 상대 리자몽을 공격했어"   # 면역(비행) 조합
+        B: 상대 팀 5마리만 입력하고 선출 추천 받기
+
+  S5_revise_and_rerun:
+    goal: 결과를 본 뒤 조건을 바꿔 다시 해 볼 수 있는가
+    rubric_focus: [usability, purpose_fit]
+    A:
+      steps: [S2 결과에서 조건 고치기 / 더 정확하게 적기, "내 한카리아스: 명랑, 스피드 SP 32" 입력, 다시 복기 → 결과]
+    B:
+      steps: [S2 결과에서 조건 바꾸기, 상대 엘풍 → 워시로토무로 교체, 다시 선출 추천 → 결과]
