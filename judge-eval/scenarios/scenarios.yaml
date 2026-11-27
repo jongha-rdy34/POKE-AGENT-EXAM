@@ -1,0 +1,50 @@
+# 초안 v0 (확인 전). 두 앱에 같은 대전 상황을 쓴다.
+# 포켓몬은 A의 DB에서 in_champions=1인 것만 골랐다(챔피언스 싱글 기준). 스피드 종족값: 한카리아스 102, 포푸니크 120.
+version: 0
+status: draft            # 확인 후 approved로 바꾼다
+ruleset: {game: champions, battle: single, pick: 3}
+viewports:
+  desktop: {width: 1440, height: 900}
+  mobile: {width: 390, height: 844}
+
+shared_situation:
+  my_team: [한카리아스, 망나뇽, 어흥염, 대도각참, 팬텀, 워시로토무]
+  opp_team: [포푸니크, 리자몽, 마기라스, 갸라도스, 님피아, 엘풍]
+  key_turn: "내 한카리아스가 상대 포푸니크보다 늦게 움직였고, 인파이트 한 방에 쓰러졌다"
+
+scenarios:
+  S1_first_view:
+    goal: 처음 들어온 사용자가 무슨 서비스인지 이해할 수 있는가
+    steps:
+      A: [접속(초대 토큰 쿠키 발급), 첫 화면 캡처]
+      B: [접속, 첫 화면 캡처]
+    captures: [first_view]
+
+  S2_core_once:
+    goal: 같은 대전 상황으로 주 기능을 한 번 수행한다
+    steps:
+      A:
+        - 입력창에 key_turn 문장 입력 → 복기하기
+        - "이렇게 이해했어요" 확인 화면 캡처
+        - 이대로 복기 → 결과 화면 캡처(전체 스크롤)
+      B:
+        - 게임 챔피언스·싱글 6→3 선택
+        - 직접 선택으로 my_team, opp_team 입력
+        - 선출 추천 받기 → 결과 화면 캡처(전체 스크롤)
+        - 대면 판단에서 한카리아스 vs 포푸니크 → 캡처
+    captures: [input, confirm_or_setup, result]
+    requires: [LLM 키, B는 외부 데이터 API 네트워크]
+
+  S3_bad_input:
+    goal: 잘못된 입력·경계 사례 처리
+    cases:
+      - id: unknown_name
+        A: "내 피카츄몽이 상대 포푸니크한테 한 방에 쓰러졌어"
+        B: 상대 팀에 "피카츄몽" 포함해 대화로 입력
+      - id: empty
+        A: 빈 입력으로 복기하기
+        B: 팀 비운 채로 선출 추천 받기
+      - id: rule_mismatch
+        A: "내 팬텀이 지진으로 상대 리자몽을 공격했어"   # 배우지 못하거나 면역인 조합
+        B: 상대 팀 5마리만 입력
+    captures: [each_case_result]
