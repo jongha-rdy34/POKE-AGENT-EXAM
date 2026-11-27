@@ -4,3 +4,6 @@
 __pycache__/
 *.pyc
 runs/*/server_*.log
+packets/mapping.secret.json
+judges/raw_mock/
+judges/claude_tasks/
