@@ -44,7 +44,7 @@ def load(raw_dir):
             recs.append({"judge": r.get("judge", judge) if r.get("judge") != "mock" else judge, "mode": mode,
                          "label": app, "order": order, "run": run, "ok": r.get("status") == "ok",
                          "parsed": r.get("parsed") if r.get("status") == "ok" else None,
-                         "retries": r.get("retries", 0)})
+                         "retries": r.get("retries", 0), "judge_model": r.get("judge_model")})
     return recs
 
 
@@ -69,7 +69,14 @@ def krippendorff_alpha(units, metric):
     return 1 - do / de, len(pairable)
 
 
+def _mean(xs):
+    xs = [x for x in xs if x is not None]
+    return st.mean(xs) if xs else None
+
+
 def compute(recs, mapping):
+    """판정 모델(공급사) 단위로 값을 구하고, ALL은 판정 모델별 값의 단순 평균(동일 가중)이다.
+    Gemini처럼 한 판정 모델 안에 여러 모델을 섞은 경우 "gemini:모델" 내역 행을 따로 남긴다(ALL에는 넣지 않음)."""
     rows = []
 
     def add(metric, judge, app, item, value, n, note=""):
@@ -77,46 +84,74 @@ def compute(recs, mapping):
                      "value": "" if value is None else round(value, 4), "n": n, "note": note})
 
     judges = sorted({r["judge"] for r in recs})
-    # 실패율
-    for j in judges + ["ALL"]:
-        rs = [r for r in recs if j in ("ALL", r["judge"])]
-        add("fail_rate", j, "", "", (sum(not r["ok"] for r in rs) / len(rs)) if rs else None, len(rs), "스키마 실패·HTTP 오류")
-    ok = [r for r in recs if r["ok"]]
-    absr = [r for r in ok if r["mode"] == "absolute"]
-    pw = [r for r in ok if r["mode"] == "pairwise"]
+    groups = {j: [r for r in recs if r["judge"] == j] for j in judges}
+    for j in judges:
+        models = sorted({r.get("judge_model") or "" for r in groups[j]} - {""})
+        if len(models) > 1:
+            for m in models:
+                groups[f"{j}:{m}"] = [r for r in groups[j] if r.get("judge_model") == m]
+    EQ = "판정 모델별 값의 단순 평균(동일 가중)"
 
-    # 절대 평가: 앱·항목별 평균·표준편차(전체, 판정 모델별)
-    for j in judges + ["ALL"]:
-        for app in ("A", "B"):
-            for item in ITEMS + ("total",):
-                vals = [(sum(r["parsed"]["scores"][k] for k in ITEMS) if item == "total" else r["parsed"]["scores"][item])
-                        for r in absr if real(r["label"], mapping) == app and j in ("ALL", r["judge"])]
-                add("abs_mean", j, app, item, st.mean(vals) if vals else None, len(vals))
-                add("abs_sd", j, app, item, st.stdev(vals) if len(vals) > 1 else None, len(vals))
+    # 실패율(운영 지표라 ALL은 전체 건수 기준)
+    for g, rs in list(groups.items()) + [("ALL", recs)]:
+        add("fail_rate", g, "", "", (sum(not r["ok"] for r in rs) / len(rs)) if rs else None, len(rs), "스키마 실패·HTTP 오류")
 
-    # 쌍비교 승률(실제 앱 기준). tie는 분모에 넣고 따로도 센다
-    for j in judges + ["ALL"]:
-        for item in PAIR_ITEMS:
-            ch = [real(r["parsed"]["pairwise"][item], mapping) for r in pw if j in ("ALL", r["judge"])]
+    def ok(rs, mode):
+        return [r for r in rs if r["ok"] and r["mode"] == mode]
+
+    def score(r, item):
+        sc = r["parsed"]["scores"]
+        return sum(sc[k] for k in ITEMS) if item == "total" else sc[item]
+
+    # 절대 평가
+    for app in ("A", "B"):
+        for item in ITEMS + ("total",):
+            per = {}
+            for g, rs in groups.items():
+                vals = [score(r, item) for r in ok(rs, "absolute") if real(r["label"], mapping) == app]
+                add("abs_mean", g, app, item, st.mean(vals) if vals else None, len(vals))
+                add("abs_sd", g, app, item, st.stdev(vals) if len(vals) > 1 else None, len(vals), "회차 간 표준편차")
+                if g in judges:
+                    per[g] = (st.mean(vals) if vals else None, len(vals))
+            means = [v for v, _ in per.values() if v is not None]
+            add("abs_mean", "ALL", app, item, _mean(means), sum(n for _, n in per.values()), EQ)
+            add("abs_sd", "ALL", app, item, st.stdev(means) if len(means) > 1 else None, len(means), "판정 모델 평균들 사이의 표준편차")
+
+    # 쌍비교 선택 비율
+    for item in PAIR_ITEMS:
+        per = {}
+        for g, rs in groups.items():
+            ch = [real(r["parsed"]["pairwise"][item], mapping) for r in ok(rs, "pairwise")]
             for app in ("A", "B", "tie"):
-                add("pw_rate", j, app, item, (ch.count(app) / len(ch)) if ch else None, len(ch))
+                add("pw_rate", g, app, item, (ch.count(app) / len(ch)) if ch else None, len(ch))
+            if g in judges:
+                per[g] = ch
+        for app in ("A", "B", "tie"):
+            add("pw_rate", "ALL", app, item, _mean([c.count(app) / len(c) for c in per.values() if c]),
+                sum(len(c) for c in per.values()), EQ)
 
-    # 위치 편향: 같은 판정 모델·같은 회차에서 XY와 YX의 선택(실제 앱)이 다른 비율, 먼저 보인 쪽을 고른 비율
-    for j in judges + ["ALL"]:
-        for item in PAIR_ITEMS:
+    # 위치 편향: 같은 판정 모델·같은 회차(=같은 세부 모델)에서 XY와 YX의 선택(실제 앱)이 다른 비율, 먼저 보인 쪽 선택률
+    for item in PAIR_ITEMS:
+        flips, firsts = {}, {}
+        for g, rs in groups.items():
             by = defaultdict(dict)
-            for r in pw:
-                if j in ("ALL", r["judge"]):
-                    by[(r["judge"], r["run"])][r["order"]] = real(r["parsed"]["pairwise"][item], mapping)
+            for r in ok(rs, "pairwise"):
+                by[r["run"]][r["order"]] = real(r["parsed"]["pairwise"][item], mapping)
             pairs = [v for v in by.values() if {"XY", "YX"} <= v.keys()]
-            add("position_flip_rate", j, "", item, (sum(v["XY"] != v["YX"] for v in pairs) / len(pairs)) if pairs else None,
-                len(pairs), "순서만 바꿨을 때 선택이 달라진 비율")
-            firsts = [r["parsed"]["pairwise"][item] == r["order"][0] for r in pw if j in ("ALL", r["judge"])
-                      and r["parsed"]["pairwise"][item] != "tie"]
-            add("first_position_pick_rate", j, "", item, (sum(firsts) / len(firsts)) if firsts else None, len(firsts),
-                "tie 제외, 먼저 보인 쪽을 고른 비율(0.5면 편향 없음)")
+            fl = (sum(v["XY"] != v["YX"] for v in pairs) / len(pairs)) if pairs else None
+            add("position_flip_rate", g, "", item, fl, len(pairs), "순서만 바꿨을 때 선택이 달라진 비율")
+            fs = [r["parsed"]["pairwise"][item] == r["order"][0] for r in ok(rs, "pairwise") if r["parsed"]["pairwise"][item] != "tie"]
+            fp = (sum(fs) / len(fs)) if fs else None
+            add("first_position_pick_rate", g, "", item, fp, len(fs), "tie 제외, 먼저 보인 쪽을 고른 비율(0.5면 편향 없음)")
+            if g in judges:
+                flips[g], firsts[g] = (fl, len(pairs)), (fp, len(fs))
+        add("position_flip_rate", "ALL", "", item, _mean([v for v, _ in flips.values()]), sum(n for _, n in flips.values()), EQ)
+        add("first_position_pick_rate", "ALL", "", item, _mean([v for v, _ in firsts.values()]), sum(n for _, n in firsts.values()), EQ)
 
-    # 판정 모델 간 일치도(Krippendorff's alpha): 절대=interval, 쌍비교=nominal. unit=(앱/순서, 항목, 회차)
+    # 판정 모델 간 일치도(Krippendorff's alpha). coder=판정 모델, unit=(앱/순서, 항목, 회차).
+    # 회차 수가 다른 판정 모델(Gemini 10회차)은 다른 판정 모델과 겹치는 회차(1~3)만 비교에 들어간다.
+    absr = [r for r in recs if r["ok"] and r["mode"] == "absolute"]
+    pw = [r for r in recs if r["ok"] and r["mode"] == "pairwise"]
     for item in ITEMS:
         u = defaultdict(list)
         for r in absr:
@@ -131,20 +166,29 @@ def compute(recs, mapping):
         a, n = krippendorff_alpha(u, "nominal")
         add("alpha_pw_nominal", "ALL", "", item, a, n, "unit=(순서,항목,회차), coder=판정 모델")
 
-    # 자기 선호 점검: Claude 판정 − 나머지 판정 평균
+    # 자기 선호 점검: Claude 판정 − 나머지 판정 모델 평균(동일 가중)
     others = [j for j in judges if j != CLAUDE]
     if CLAUDE in judges and others:
+        def abs_mean(j, app, item):
+            v = [r["parsed"]["scores"][item] for r in ok(groups[j], "absolute") if real(r["label"], mapping) == app]
+            return (st.mean(v) if v else None), len(v)
         for app in ("A", "B"):
             for item in ITEMS:
-                c = [r["parsed"]["scores"][item] for r in absr if r["judge"] == CLAUDE and real(r["label"], mapping) == app]
-                o = [r["parsed"]["scores"][item] for r in absr if r["judge"] in others and real(r["label"], mapping) == app]
-                add("self_pref_abs_diff", CLAUDE, app, item, (st.mean(c) - st.mean(o)) if c and o else None,
-                    f"{len(c)}/{len(o)}", "Claude 평균 − 다른 판정 모델 평균")
-        c = [real(r["parsed"]["pairwise"]["overall"], mapping) for r in pw if r["judge"] == CLAUDE]
-        o = [real(r["parsed"]["pairwise"]["overall"], mapping) for r in pw if r["judge"] in others]
-        if c and o:
-            add("self_pref_pw_A_rate_diff", CLAUDE, "A", "overall", c.count("A") / len(c) - o.count("A") / len(o),
-                f"{len(c)}/{len(o)}", "종합에서 A를 고른 비율 차(Claude − 나머지)")
+                c, cn = abs_mean(CLAUDE, app, item)
+                o = [abs_mean(j, app, item) for j in others]
+                om = _mean([v for v, _ in o])
+                add("self_pref_abs_diff", CLAUDE, app, item, (c - om) if c is not None and om is not None else None,
+                    f"{cn}/{sum(n for _, n in o)}", "Claude 평균 − 다른 판정 모델 평균(동일 가중)")
+
+        def a_rate(j):
+            ch = [real(r["parsed"]["pairwise"]["overall"], mapping) for r in ok(groups[j], "pairwise")]
+            return (ch.count("A") / len(ch)) if ch else None, len(ch)
+        c, cn = a_rate(CLAUDE)
+        o = [a_rate(j) for j in others]
+        om = _mean([v for v, _ in o])
+        if c is not None and om is not None:
+            add("self_pref_pw_A_rate_diff", CLAUDE, "A", "overall", c - om, f"{cn}/{sum(n for _, n in o)}",
+                "종합에서 A를 고른 비율 차(Claude − 나머지, 동일 가중)")
     return rows
 
 
@@ -187,7 +231,8 @@ def report(csv_path, out_path):
         v = float(v)
         return f"{v * 100:.0f}%" if pct else f"{v:.2f}"
 
-    judges = sorted({r["judge"] for r in rows if r["judge"] not in ("", "ALL")})
+    judges = sorted({r["judge"] for r in rows if r["judge"] not in ("", "ALL") and ":" not in r["judge"]})
+    submodels = sorted({r["judge"] for r in rows if ":" in r["judge"]})
     L = ["# 판정 결과 보고서", "",
          "> 자동 생성(`scripts/aggregate.py`). 모든 수치는 `analysis/summary.csv`에서 읽었다. "
          "결론은 인과가 아니라 \"이 두 사례에서 관찰된 차이와 그 한계\"로만 적는다.", "",
@@ -217,6 +262,12 @@ def report(csv_path, out_path):
     for j in judges:
         L.append(f"| {j} | {fmt(get('abs_mean', j, 'A', 'total')[0])} | {fmt(get('abs_mean', j, 'B', 'total')[0])} |")
 
+    if submodels:
+        L += ["", "한 판정 모델 안의 세부 모델별 합계 평균(ALL에는 판정 모델 단위로만 들어간다):", "",
+              "| 세부 모델 | A | B | n(A) |", "|---|---|---|---|"]
+        for g in submodels:
+            L.append(f"| {g} | {fmt(get('abs_mean', g, 'A', 'total')[0])} | {fmt(get('abs_mean', g, 'B', 'total')[0])} | "
+                     f"{get('abs_mean', g, 'A', 'total')[1]} |")
     L += ["", "## 2. 쌍비교 선택 비율", "", "| 항목 | A | B | 동률 | n |", "|---|---|---|---|---|"]
     for item in PAIR_ITEMS:
         a, n = get("pw_rate", app="A", item=item)
@@ -258,8 +309,8 @@ def report(csv_path, out_path):
           "- LLM 판정의 선호는 사람의 선호와 다를 수 있다(Phase 7 설문은 선택).",
           "- temperature는 API 판정(Gemini, OpenAI API를 쓴 경우)만 고정했다. Claude 하위 에이전트와 수동 판정(ChatGPT 앱·Codex)은 정할 수 없다.",
           "- Claude 하위 에이전트와 수동 판정은 각 도구의 시스템 프롬프트가 붙는다. 하위 에이전트가 패킷 밖의 파일을 읽지 않았다고 완전히 보장할 수 없다.",
-          "- 두 앱의 LLM과 Gemini 판정이 같은 계열(gemini-3.5-flash)이다.",
-          "- 판정 모델 3개 × 3회로 표본이 작다.", ""]
+          "- 두 앱의 LLM과 Gemini 판정이 같은 계열이다. Gemini 판정은 gemini-3.5-flash-lite 7회차와 gemini-3.5-flash 3회차를 섞었다(무료 한도 때문). 세부 모델별 값은 1절 표에 따로 있다.",
+          "- 표본이 작다: Claude·OpenAI는 3회차(12건), Gemini는 10회차(40건). 판정 모델 간 일치도는 겹치는 1~3회차만 쓴다.", ""]
     Path(out_path).write_text("\n".join(L), encoding="utf-8")
 
 

@@ -14,12 +14,13 @@ EVAL = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(EVAL / "scripts"))
 sys.path.insert(0, str(EVAL / "judges"))
 import aggregate as ag  # noqa: E402
+import judge as jg  # noqa: E402
 from anonymize import redact  # noqa: E402
 from schema import validate  # noqa: E402
 
 
-def abs_rec(judge, label, run, s):
-    return {"judge": judge, "run_id": f"abs_{label}_r{run}", "status": "ok", "retries": 0,
+def abs_rec(judge, label, run, s, model=None):
+    return {"judge": judge, "judge_model": model, "run_id": f"abs_{label}_r{run}", "status": "ok", "retries": 0,
             "parsed": {"mode": "absolute", "scores": dict(zip(ag.ITEMS, s)), "rationale": ["a", "b", "c"]}}
 
 
@@ -84,7 +85,8 @@ class Aggregate(unittest.TestCase):
         s, _ = self.run_pipeline(recs, {"X": "B", "Y": "A"})
         self.assertEqual(float(s[("abs_mean", "ALL", "B", "total")]["value"]), 25)
         self.assertEqual(float(s[("abs_mean", "ALL", "A", "total")]["value"]), 15)
-        self.assertEqual(float(s[("abs_sd", "ALL", "A", "accuracy")]["value"]), 0)
+        self.assertEqual(float(s[("abs_sd", "g", "A", "accuracy")]["value"]), 0)  # 회차 간 표준편차
+        self.assertEqual(s[("abs_sd", "ALL", "A", "accuracy")]["value"], "")  # 판정 모델 1개면 판정 모델 간 편차 없음
 
     def test_self_preference_and_failures(self):
         recs = [abs_rec("claude", "X", 1, [5] * 5), abs_rec("gemini", "X", 1, [3] * 5),
@@ -108,6 +110,33 @@ class Aggregate(unittest.TestCase):
         (tmp / "chatgpt.jsonl").write_text(json.dumps(rec) + "\n", encoding="utf-8")
         r = ag.load(tmp)[0]
         self.assertEqual((r["judge"], r["label"], r["run"]), ("chatgpt", "X", 2))
+
+
+class Mixing(unittest.TestCase):
+    """Gemini 판정: flash-lite 7회차 : flash 3회차 (사용자 결정 2026-11-27)."""
+
+    def test_default_plan_is_7_to_3_and_interleaved(self):
+        plan = {m: runs for m, runs, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT)}
+        self.assertEqual(len(plan["gemini-3.5-flash-lite"]), 7)
+        self.assertEqual(len(plan["gemini-3.5-flash"]), 3)
+        self.assertEqual(sorted(plan["gemini-3.5-flash-lite"] + plan["gemini-3.5-flash"]), list(range(1, 11)))
+        self.assertNotEqual(plan["gemini-3.5-flash"], [8, 9, 10])     # 끝에 몰리지 않는다
+
+    def test_each_model_gets_balanced_apps_and_orders(self):
+        for model, runs, _ in jg.gemini_plan(jg.GEMINI_PLAN_DEFAULT):
+            jobs = jg.plan(runs)
+            self.assertEqual(sum(j["app"] == "X" for j in jobs), sum(j["app"] == "Y" for j in jobs))
+            self.assertEqual(sum(j["order"] == "XY" for j in jobs), sum(j["order"] == "YX" for j in jobs))
+            self.assertEqual(len(jobs), 4 * len(runs))
+
+    def test_judges_are_equally_weighted_and_submodels_reported(self):
+        # gemini 10회차 전부 5점, claude 3회차 전부 1점 → 단순 합산이면 약 4.08, 동일 가중이면 3.0
+        recs = [abs_rec("gemini", "X", r, [5] * 5, "lite" if r % 3 else "flash") for r in range(1, 11)]
+        recs += [abs_rec("claude", "X", r, [1] * 5) for r in (1, 2, 3)]
+        s, rep = Aggregate().run_pipeline(recs, {"X": "A", "Y": "B"})
+        self.assertEqual(float(s[("abs_mean", "ALL", "A", "accuracy")]["value"]), 3.0)
+        self.assertEqual(s[("abs_mean", "gemini:flash", "A", "accuracy")]["n"], "3")
+        self.assertIn("gemini:lite", rep)
 
 
 class Schema(unittest.TestCase):

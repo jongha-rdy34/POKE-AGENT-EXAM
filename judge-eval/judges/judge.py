@@ -32,7 +32,11 @@ from schema import parse, validate  # noqa: E402
 
 PROMPTS = EVAL / "judges" / "prompts"
 PACKETS = Path(os.environ.get("JUDGE_PACKETS_DIR") or EVAL / "packets")  # 시험용으로 바꿀 수 있다
-RUNS = 3
+RUNS = 3                    # Claude·OpenAI 등 판정 모델 1개당 회차
+# Gemini 판정은 두 모델을 회차 단위로 섞는다(사용자 결정 2026-11-27: flash-lite 7 : flash 3).
+# 형식 "모델:회차수:호출간격초". 한 회차 = 절대 X·Y + 쌍비교 XY·YX 4건 → 두 모델이 앱·순서를 똑같이 나눠 받는다.
+GEMINI_PLAN_DEFAULT = "gemini-3.5-flash-lite:7:6,gemini-3.5-flash:3:20"
+RPD = {"gemini-3.5-flash-lite": 500, "gemini-3.5-flash": 20}   # 무료 등급 하루 한도(STATUS 6절)
 MAX_RETRY = 2
 RETRY_MSG = "출력 형식을 어겼습니다. 지정한 JSON 하나만, 다른 글자 없이 다시 출력하세요."
 IMG_RX = re.compile(r"\[\[img:([^\]]+)\]\]")
@@ -59,10 +63,10 @@ def load_env():
 
 
 # ---------------------------------------------------------------- 요청 목록
-def plan():
-    """(run_id, mode, order, run, labels) 36건 중 API 판정 모델 1개당 12건."""
+def plan(runs=None):
+    """회차마다 4건: 절대 X·Y, 쌍비교 XY·YX."""
     jobs = []
-    for r in range(1, RUNS + 1):
+    for r in (runs or range(1, RUNS + 1)):
         for app in ("X", "Y"):
             jobs.append({"run_id": f"abs_{app}_r{r}", "mode": "absolute", "app": app, "order": None, "run": r})
         for order in ("XY", "YX"):
@@ -138,10 +142,9 @@ def to_messages(system, parts):
 
 class Mock:
     """키 없이 흐름을 시험하는 가짜 판정 모델. 첫 응답을 일부러 틀리게 해 재요청 경로도 탄다."""
-    name, model = "mock", "mock-judge"
-
-    def __init__(self, seed=0):
+    def __init__(self, seed=0, name="mock", model="mock-judge", runs=None):
         self.rng = random.Random(seed)
+        self.name, self.model, self.runs, self.gap, self.temperature = name, model, list(runs or range(1, RUNS + 1)), 0, None
 
     def call(self, messages, job):
         if sum(1 for m in messages if m["role"] == "user") == 1 and self.rng.random() < 0.3:
@@ -158,8 +161,9 @@ class Mock:
 
 
 class OpenAICompatible:
-    def __init__(self, name, base, model, key, temperature):
+    def __init__(self, name, base, model, key, temperature, runs=None, gap=None):
         self.name, self.base, self.model, self.key, self.temperature = name, base, model, key, temperature
+        self.runs, self.gap = list(runs or range(1, RUNS + 1)), gap
 
     def call(self, messages, job):
         return _openai_compatible(self.base, self.model, self.temperature, messages, self.key)
@@ -194,14 +198,30 @@ def judge_one(provider, job, gap):
             "attempts": attempts, **rec}
 
 
+def gemini_plan(spec):
+    """"모델:회차수:간격" 목록 → [(모델, [회차 번호], 간격)]. 회차 번호는 모델이 고르게 섞이도록 배정한다
+    (부족분이 가장 큰 모델에 다음 회차를 준다: 7:3이면 L L F L L F L L F L 순)."""
+    items = []
+    for part in spec.split(","):
+        model, n, gap = (part.strip().split(":") + ["20"])[:3]
+        items.append([model, int(n), float(gap), []])
+    total = sum(i[1] for i in items)
+    for slot in range(1, total + 1):
+        best = max(items, key=lambda i: (i[1] * slot / total - len(i[3]), -i[1]))
+        best[3].append(slot)
+    return [(m, runs, gap) for m, _, gap, runs in items]
+
+
 def providers(args, env):
+    spec = env.get("JUDGE_GEMINI_PLAN", GEMINI_PLAN_DEFAULT)
     if args.mock:
-        return [Mock()]
+        return [Mock(seed=k, name="gemini", model=m, runs=runs) for k, (m, runs, _) in enumerate(gemini_plan(spec))]
     out = []
     if env.get("GEMINI_API_KEY"):
-        out.append(OpenAICompatible("gemini", env.get("GEMINI_OPENAI_BASE", "https://generativelanguage.googleapis.com/v1beta/openai/"),
-                                    env.get("JUDGE_GEMINI_MODEL", "gemini-3.5-flash"), env["GEMINI_API_KEY"],
-                                    float(env.get("JUDGE_TEMPERATURE", "0.2"))))
+        base = env.get("GEMINI_OPENAI_BASE", "https://generativelanguage.googleapis.com/v1beta/openai/")
+        for model, runs, gap in gemini_plan(spec):
+            out.append(OpenAICompatible("gemini", base, model, env["GEMINI_API_KEY"],
+                                        float(env.get("JUDGE_TEMPERATURE", "0.2")), runs, gap))
     if env.get("OPENAI_API_KEY") and env.get("JUDGE_OPENAI_MODEL"):   # 선택: 크레딧을 충전한 경우만
         out.append(OpenAICompatible("openai", "https://api.openai.com/v1", env["JUDGE_OPENAI_MODEL"],
                                     env["OPENAI_API_KEY"], float(env.get("JUDGE_TEMPERATURE", "0.2"))))
@@ -239,10 +259,10 @@ def main():
     provs = providers(args, env)
     if not provs:
         sys.exit("판정 모델 키가 없습니다(judge-eval/.env의 GEMINI_API_KEY). 키 없이 흐름만 보려면 --mock")
-    jobs = plan()
     if args.plan or args.dry_run:
-        print("| 판정 모델 | 건수 | 이미지/건 | 예상 입력 토큰 합 | 예상 출력 토큰 합 | 예상 비용 |\n|---|---|---|---|---|---|")
+        print("| 판정 모델 | 회차 | 건수 | 이미지/건 | 예상 입력 토큰 합 | 예상 출력 토큰 합 | 예상 비용 | 무료 하루 한도 |\n|---|---|---|---|---|---|---|---|")
         for p in provs:
+            jobs = plan(p.runs)
             tin, imgs = 0, 0
             for j in jobs:
                 t, i = estimate(render(j, p.model)[1], p.name)
@@ -250,23 +270,32 @@ def main():
             tout = EST["output_tokens"] * len(jobs)
             pr = PRICES.get(p.name, {})
             cost = ("요금 미기재" if pr.get("in") is None else f"${(tin * pr['in'] + tout * pr['out']) / 1e6:.2f}")
-            print(f"| {p.name} `{p.model}` | {len(jobs)} | 최대 {imgs} | {tin:,} | {tout:,} | {cost} {pr.get('note', '')} |")
-        print("Claude 하위 에이전트 12건은 이 세션 사용량으로 처리(API 비용 없음).")
+            rpd = RPD.get(p.model)
+            warn = "" if rpd is None or len(jobs) * (1 + MAX_RETRY) <= rpd else " ⚠ 재요청까지 하면 하루에 못 끝날 수 있음"
+            print(f"| {p.name} `{p.model}` | {','.join(map(str, p.runs))} | {len(jobs)} | 최대 {imgs} | {tin:,} | {tout:,} | "
+                  f"{cost} {pr.get('note', '')} | {rpd if rpd else '?'}{warn} |")
+        print(f"Claude 하위 에이전트 {len(plan())}건은 이 세션 사용량으로 처리(API 비용 없음).")
         if args.plan:
             return
-        jobs = jobs[:1]
     raw_dir = Path(os.environ.get("JUDGE_RAW_DIR") or EVAL / "judges" / ("raw_mock" if args.mock else "raw"))
     raw_dir.mkdir(parents=True, exist_ok=True)
+    # 회차 순서대로 모델을 번갈아 부른다(시간대가 한 모델에 몰리지 않게). dry run은 모델마다 첫 건만.
+    work = []
     for p in provs:
+        jobs = plan(p.runs)
+        work += [(j["run"], k, p, j) for k, j in enumerate(jobs[:1] if args.dry_run else jobs)]
+    work.sort(key=lambda w: (w[0], w[1]))
+    dests = set()
+    for _, _, p, j in work:
         dest = raw_dir / (f"dryrun_{p.name}.jsonl" if args.dry_run else f"{p.name}.jsonl")
+        dests.add(dest)
+        gap = 0 if args.mock else (p.gap if p.gap is not None else args.gap)
+        rec = judge_one(p, j, gap)
         with open(dest, "a", encoding="utf-8") as f:
-            for j in jobs:
-                rec = judge_one(p, j, 0 if args.mock else args.gap)
-                f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-                print(f"{p.name} {j['run_id']}: {rec['status']} (재요청 {rec['retries']})")
-                if not args.mock:
-                    time.sleep(args.gap)
-        print(f"→ {dest}")
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+        print(f"{p.name} `{p.model}` {j['run_id']}: {rec['status']} (재요청 {rec['retries']})")
+        time.sleep(gap)
+    print("→ " + ", ".join(str(d) for d in sorted(dests)))
 
 
 if __name__ == "__main__":
