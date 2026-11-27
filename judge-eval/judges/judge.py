@@ -285,6 +285,20 @@ def main():
         jobs = plan(p.runs)
         work += [(j["run"], k, p, j) for k, j in enumerate(jobs[:1] if args.dry_run else jobs)]
     work.sort(key=lambda w: (w[0], w[1]))
+    # 이어서 실행: 같은 파일에 status=ok로 이미 있는 (세부 모델, run_id)는 건너뛴다(무료 한도로 며칠에 나눠 돌릴 때)
+    done = set()
+    if not args.dry_run:
+        for p in provs:
+            f = raw_dir / f"{p.name}.jsonl"
+            if f.exists():
+                for line in f.read_text(encoding="utf-8").splitlines():
+                    r = json.loads(line) if line.strip() else {}
+                    if r.get("status") == "ok":
+                        done.add((r.get("judge_model"), r.get("run_id")))
+    skipped = [w for w in work if (w[2].model, w[3]["run_id"]) in done]
+    work = [w for w in work if (w[2].model, w[3]["run_id"]) not in done]
+    if skipped:
+        print(f"이미 끝난 {len(skipped)}건 건너뜀, 남은 {len(work)}건")
     dests = set()
     for _, _, p, j in work:
         dest = raw_dir / (f"dryrun_{p.name}.jsonl" if args.dry_run else f"{p.name}.jsonl")
