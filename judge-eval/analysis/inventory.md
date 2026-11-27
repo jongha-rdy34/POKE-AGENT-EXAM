@@ -69,6 +69,8 @@
 | 핵심 기능 | **복기 계산은 됨** (로컬 SQLite만 사용). **문장 읽기는 안 됨**: OpenAI 키 없음 + `api.openai.com` 차단 | **선출 추천 안 됨**: ① LLM 키 없음(`INVALID_KEY`) ② `pokeapi.co`, `www.smogon.com`, `play.pokemonshowdown.com` 모두 프록시 403 (`UPSTREAM_ERROR`). 한국어 이름 검색만 로컬 데이터로 됨 |
 | 확인된 네트워크 [측정] | 허용: `pypi.org`, `api.anthropic.com`, `generativelanguage.googleapis.com` / 차단: `api.openai.com`, `pokeapi.co`, `www.smogon.com`, `play.pokemonshowdown.com`, `gms.ssafy.io` | |
 
+**갱신(같은 날):** 개인 클라우드 환경 `poke-agent-exam`을 새로 만들어 이 세션을 옮겼다. 허용 호스트는 위 차단 호스트 전부, `cdn.jsdelivr.net`(A 폰트), `raw.githubusercontent.com`(B 스프라이트)다. 옮긴 뒤 다시 확인한 결과 pokeapi·smogon·showdown·jsdelivr는 200을 돌려준다. OpenAI·Gemini 키는 환경의 네트워크 비밀값으로 저장했고(프록시가 넣어 주며 코드와 로그에는 남지 않는다) 모델 목록 조회로 작동을 확인했다. Anthropic 키는 아직 없다.
+
 ## 6. 비교 조건에 영향을 주는 관찰 [해석]
 
 - **데이터 시점이 다르다.** A는 빌드된 SQLite 스냅숏(Smogon 2026-09, pokedb M-6까지)을 쓰고, B는 실행 시점의 외부 API를 부른다. 같은 대전 상황이라도 상대 예상 세트가 다를 수 있다. B는 첫 수집 후 `backend/.cache`를 고정해 재실행 때 같은 데이터를 쓰게 할 것을 제안한다.
