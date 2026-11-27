@@ -111,7 +111,7 @@ def run_b(urls, save, gap):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", choices=["A", "B"])
-    ap.add_argument("--gap", type=float, default=4.0, help="요청 사이 대기(초). 무료 한도 대비")
+    ap.add_argument("--gap", type=float, default=15.0, help="요청 사이 대기(초). 무료 RPM 5 → 최소 12초")
     args = ap.parse_args()
     out = EVAL / "runs" / f"smoke-{datetime.now():%Y%m%d-%H%M%S}"
     out.mkdir(parents=True)

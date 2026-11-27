@@ -1,0 +1,113 @@
+{
+ "max_lines": 300,
+ "apps": {
+  "A": {
+   "lines": 299,
+   "redactions": 13,
+   "hits": [
+    {
+     "file": "prep/calculator.py",
+     "def": "check_sp",
+     "rule": "decision_ids",
+     "text": "S1"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "hp_stat",
+     "rule": "decision_ids",
+     "text": "S1"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "hp_stat",
+     "rule": "decision_ids",
+     "text": "S2"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "hp_stat",
+     "rule": "decision_ids",
+     "text": "S4"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "poke_round",
+     "rule": "decision_ids",
+     "text": "S3"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "damage_rolls",
+     "rule": "decision_ids",
+     "text": "D14"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "damage_rolls",
+     "rule": "decision_ids",
+     "text": "D17"
+    },
+    {
+     "file": "prep/calculator.py",
+     "def": "damage_rolls",
+     "rule": "decision_ids",
+     "text": "U3"
+    },
+    {
+     "file": "server/app.py",
+     "def": "review_route",
+     "rule": "requirement_ids",
+     "text": "NF2004"
+    },
+    {
+     "file": "prep/review.py",
+     "def": "review",
+     "rule": "service_name",
+     "text": "한 턴 복기"
+    },
+    {
+     "file": "prep/review.py",
+     "def": "review",
+     "rule": "decision_ids",
+     "text": "D32"
+    },
+    {
+     "file": "prep/review.py",
+     "def": "review",
+     "rule": "decision_ids",
+     "text": "D16"
+    },
+    {
+     "file": "prep/review.py",
+     "def": "review",
+     "rule": "decision_ids",
+     "text": "S1"
+    }
+   ]
+  },
+  "B": {
+   "lines": 294,
+   "redactions": 3,
+   "hits": [
+    {
+     "file": "app/agent/llm.py",
+     "def": "classify_llm_error",
+     "rule": "course_llm_gateway",
+     "text": "GMS"
+    },
+    {
+     "file": "app/agent/llm.py",
+     "def": "classify_llm_error",
+     "rule": "course_llm_gateway",
+     "text": "GMS"
+    },
+    {
+     "file": "app/agent/llm.py",
+     "def": "classify_llm_error",
+     "rule": "requirement_ids",
+     "text": "NF3002"
+    }
+   ]
+  }
+ }
+}
