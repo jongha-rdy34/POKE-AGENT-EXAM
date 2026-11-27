@@ -231,7 +231,7 @@ def main():
     g.add_argument("--dry-run", action="store_true")
     g.add_argument("--claude-tasks", action="store_true")
     ap.add_argument("--mock", action="store_true")
-    ap.add_argument("--gap", type=float, default=6.0, help="호출 사이 대기(초). 무료 분당 한도 대비")
+    ap.add_argument("--gap", type=float, default=20.0, help="호출 사이 대기(초). 무료 RPM 5·TPM 250K 대비")
     args = ap.parse_args()
     if args.claude_tasks:
         return write_claude_tasks()
