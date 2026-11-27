@@ -1,0 +1,181 @@
+{
+ "http": 200,
+ "events": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "상대가 노력 생명의구슬이면 16번 중 6번 이 HP로 버텨요",
+    "summary": "계산상, 상대가 A32 · 노력 · 생명의구슬일 때 16번 중 6번 이 HP로 버텨요. 또는 상대가 A32 · 노력 · 달인의띠일 때 16번 중 14번 이 HP로 버텨요. 실제 랭크배틀 통계 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 16번). Showdown 시뮬레이터 환경에서 모은 데이터 기준으로는 입력한 조건에서 이 결과가 나오기 어려워요. 입력을 확인해 주세요. 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 곡예.",
+    "calc": {
+     "rows": [
+      {
+       "label": "A32 · 노력 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 생명의구슬 채용 2%"
+       ],
+       "k": 6,
+       "pct": 37.5,
+       "damage": [
+        70.1,
+        83.8
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 달인의띠 채용 1% 미만"
+       ],
+       "k": 14,
+       "pct": 87.5,
+       "damage": [
+        64.7,
+        77.8
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 달인의띠 채용 1% 미만"
+       ],
+       "k": 5,
+       "pct": 31.3,
+       "damage": [
+        71.9,
+        85.0
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 힘의머리띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 힘의머리띠 채용 1% 미만"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        59.9,
+        70.7
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 힘의머리띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 힘의머리띠 채용 1% 미만"
+       ],
+       "k": 14,
+       "pct": 87.5,
+       "damage": [
+        64.7,
+        76.6
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 검은안경",
+       "in_champions": true,
+       "same_items": [
+        "공포플레이트"
+       ],
+       "usage": [
+        "Smogon 검은안경 채용 1% 미만"
+       ],
+       "k": 14,
+       "pct": 87.5,
+       "damage": [
+        64.7,
+        76.6
+       ]
+      }
+     ],
+     "more": 3,
+     "near": [],
+     "assumed": "상대 SP A32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "H32 B32 · 장난꾸러기 · 특성 저주받은바디 · 기합의띠",
+     "headline_row": 0
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): H32 B32 · 장난꾸러기 · 기합의띠 · 특성 저주받은바디"
+      ],
+      "causes": [
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 프레셔",
+         "고집 · H2 A32 B32 · 특성 곡예",
+         "고집 · H2 A32 B32 · 특성 독수"
+        ]
+       },
+       {
+        "key": "black-belt",
+        "label": "검은띠",
+        "rank": 2,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 프레셔",
+         "고집 · H2 A32 B32 · 특성 곡예",
+         "고집 · H2 A32 B32 · 특성 독수"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": true,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): H2 C32 S32 · 겁쟁이 · 기합의띠 · 특성 저주받은바디",
+       "이 결과는 위 내 빌드 가정과 맞지 않을 수 있어요. 실제 내 빌드를 넣으면 다시 계산합니다"
+      ],
+      "causes": []
+     }
+    },
+    "differs": true,
+    "diff_reason": "한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)",
+    "unsupported": [
+     "계산하지 않은 상대 특성: 곡예"
+    ],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "506ab66210924f91a29e8dc0b5dd4531"
+   }
+  }
+ ]
+}

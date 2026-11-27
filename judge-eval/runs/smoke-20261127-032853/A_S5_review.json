@@ -1,0 +1,95 @@
+{
+ "http": 200,
+ "events": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "지금 챔피언스에 있는 도구로는 이 결과가 나오기 어려워요",
+    "summary": "계산상, 상대가 A32 · 고집 · 구애머리띠(챔피언스에 없는 도구)일 때 16번 중 13번 한 방이에요. 또는 상대가 A32 · 노력 · 구애머리띠(챔피언스에 없는 도구)일 때 16번 중 4번 한 방이에요. 실제 랭크배틀 통계 기준으로는 입력한 조건에서 이 결과가 나오기 어려워요. 입력을 확인해 주세요. 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 곡예.",
+    "calc": {
+     "rows": [
+      {
+       "label": "A32 · 고집 · 구애머리띠",
+       "in_champions": false,
+       "same_items": [],
+       "usage": [],
+       "k": 13,
+       "pct": 81.3,
+       "damage": [
+        96.7,
+        113.7
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 구애머리띠",
+       "in_champions": false,
+       "same_items": [],
+       "usage": [],
+       "k": 4,
+       "pct": 25.0,
+       "damage": [
+        87.4,
+        103.8
+       ]
+      }
+     ],
+     "more": 0,
+     "near": [],
+     "assumed": "상대 SP A32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "S32 · 명랑 · 특성 모래숨기 · 구애스카프",
+     "headline_row": null
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": true,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 구애스카프 · 특성 모래숨기",
+       "이 결과는 위 내 빌드 가정과 맞지 않을 수 있어요. 실제 내 빌드를 넣으면 다시 계산합니다"
+      ],
+      "causes": []
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": true,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): 구애스카프 · 특성 까칠한피부",
+       "이 결과는 위 내 빌드 가정과 맞지 않을 수 있어요. 실제 내 빌드를 넣으면 다시 계산합니다"
+      ],
+      "causes": []
+     }
+    },
+    "differs": false,
+    "diff_reason": "",
+    "unsupported": [
+     "계산하지 않은 상대 특성: 곡예"
+    ],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "44f75127687049c6a4439e7f14a0b0c6"
+   }
+  }
+ ]
+}
