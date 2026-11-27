@@ -1,0 +1,43 @@
+{
+ "id": 1024,
+ "name": "terapagos",
+ "names": {
+  "ja-hrkt": "テラパゴス",
+  "ja-roma": "Terapagos",
+  "ko": "테라파고스",
+  "zh-hant": "太樂巴戈斯",
+  "fr": "Terapagos",
+  "de": "Terapagos",
+  "es": "Terapagos",
+  "it": "Terapagos",
+  "en": "Terapagos",
+  "ja": "テラパゴス",
+  "zh-hans": "太乐巴戈斯",
+  "es-419": "Terapagos"
+ },
+ "genus": {
+  "ja-hrkt": "テラスタルポケモン",
+  "ko": "테라스탈포켓몬",
+  "fr": "Téracristal",
+  "en": "Tera Pokémon",
+  "ja": "テラスタルポケモン"
+ },
+ "flavor": {
+  "en": "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct."
+ },
+ "varieties": [
+  {
+   "name": "terapagos",
+   "is_default": true
+  },
+  {
+   "name": "terapagos-terastal",
+   "is_default": false
+  },
+  {
+   "name": "terapagos-stellar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "548"
+}

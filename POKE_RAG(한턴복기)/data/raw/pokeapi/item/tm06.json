@@ -1,0 +1,28 @@
+{
+ "name": "tm06",
+ "names": {
+  "ja-hrkt": "わざマシン０６",
+  "ko": "기술머신06",
+  "zh-hant": "招式學習器０６",
+  "fr": "CT06",
+  "de": "TM06",
+  "es": "MT06",
+  "it": "MT06",
+  "en": "TM06",
+  "ja": "わざマシン０６",
+  "zh-hans": "招式学习器０６",
+  "es-419": "MT06"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Toxik à un Pokémon compatible.",
+  "en": "Teaches Toxic to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user flies up into the sky and then strikes its target on the next turn.",
+  "ko": "1턴째에 하늘을 날아 2턴째에 상대를 공격한다.",
+  "ja": "１ターン目で 空へ 飛び ２ターン目に 相手を 攻撃する。"
+ }
+}

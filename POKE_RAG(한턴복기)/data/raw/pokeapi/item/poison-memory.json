@@ -1,0 +1,28 @@
+{
+ "name": "poison-memory",
+ "names": {
+  "ja-hrkt": "ポイズンメモリ",
+  "ko": "포이즌메모리",
+  "zh-hant": "毒記憶碟",
+  "fr": "ROM Poison",
+  "de": "Gift-Disc",
+  "es": "Disco Veneno",
+  "it": "ROM Veleno",
+  "en": "Poison Memory",
+  "ja": "ポイズンメモリ",
+  "zh-hans": "毒存储碟",
+  "es-419": "Disco Veneno"
+ },
+ "category": "memories",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Change Silvallié dans sa forme Poison.  Change le type de Coup Varia-Type en Poison.",
+  "en": "Held: Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison."
+ },
+ "flavor": {
+  "ko": "독타입의 데이터가 들어 있는 메모리. 특정 포켓몬이 지니면 타입이 바뀐다.",
+  "en": "A memory disc that contains Poison-type data. It changes the type of the holder if held by a certain species of Pokémon.",
+  "ja": "どくタイプの データが 入った メモリ。 特定の ポケモンが 持つと タイプが 変わる。"
+ }
+}

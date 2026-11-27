@@ -1,0 +1,31 @@
+{
+ "name": "bullet-punch",
+ "names": {
+  "ja-hrkt": "バレットパンチ",
+  "ko": "불릿펀치",
+  "zh-hant": "子彈拳",
+  "fr": "Pisto-Poing",
+  "de": "Patronenhieb",
+  "es": "Puño Bala",
+  "it": "Pugnoscarica",
+  "en": "Bullet Punch",
+  "ja": "バレットパンチ",
+  "zh-hans": "子弹拳",
+  "es-419": "Puño Bala"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user strikes the target with tough punches as fast as bullets. This move always goes first.",
+  "ko": "탄환처럼 빠르고 단단한 펀치를 상대에게 날린다. 반드시 선제공격을 할 수 있다."
+ }
+}

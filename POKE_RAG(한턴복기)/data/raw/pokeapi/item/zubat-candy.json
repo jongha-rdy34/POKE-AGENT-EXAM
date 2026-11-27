@@ -1,0 +1,25 @@
+{
+ "name": "zubat-candy",
+ "names": {
+  "ja-hrkt": "ズバットのアメ",
+  "ko": "주뱃의사탕",
+  "zh-hant": "超音蝠的糖果",
+  "fr": "Bonbon Nosferapti",
+  "de": "Zubat-Bonbon",
+  "es": "Caramelo Zubat",
+  "it": "Caramella Zubat",
+  "en": "Zubat Candy",
+  "ja": "ズバットのアメ",
+  "zh-hans": "超音蝠的糖果",
+  "es-419": "Caramelo Zubat"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "knock-off",
+ "names": {
+  "ja-hrkt": "はたきおとす",
+  "ko": "탁쳐서떨구기",
+  "zh-hant": "拍落",
+  "fr": "Sabotage",
+  "de": "Abschlag",
+  "es": "Desarme",
+  "it": "Privazione",
+  "en": "Knock Off",
+  "ja": "はたきおとす",
+  "zh-hans": "拍落",
+  "es-419": "Desarme"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Target drops its held item."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item.",
+  "ko": "상대의 지닌 물건을 탁 쳐서 떨어뜨려 배틀이 끝날 때까지 사용할 수 없게 한다. 물건을 가진 상대에게는 데미지를 더 준다."
+ }
+}

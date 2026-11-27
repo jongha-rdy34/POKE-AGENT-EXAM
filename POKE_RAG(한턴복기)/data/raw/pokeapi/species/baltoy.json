@@ -1,0 +1,42 @@
+{
+ "id": 343,
+ "name": "baltoy",
+ "names": {
+  "ja-hrkt": "ヤジロン",
+  "ja-roma": "Yajilon",
+  "ko": "오뚝군",
+  "zh-hant": "天秤偶",
+  "fr": "Balbuto",
+  "de": "Puppance",
+  "es": "Baltoy",
+  "it": "Baltoy",
+  "en": "Baltoy",
+  "ja": "ヤジロン",
+  "zh-hans": "天秤偶",
+  "es-419": "Baltoy"
+ },
+ "genus": {
+  "ja-hrkt": "どぐうポケモン",
+  "ko": "토우포켓몬",
+  "zh-hant": "泥偶寶可夢",
+  "fr": "Pokémon Poupargile",
+  "de": "Lehmpuppen-Pokémon",
+  "es": "Pokémon Muñeca Barro",
+  "it": "Pokémon Argilla",
+  "en": "Clay Doll Pokémon",
+  "ja": "どぐうポケモン",
+  "zh-hans": "泥偶宝可梦",
+  "es-419": "Pokémon Muñeca Barro"
+ },
+ "flavor": {
+  "en": "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep.",
+  "ko": "고대 유적에서 발견되었다. 회전하면서 이동한다. 밤에 잘 때도 다리 하나로 서 있다."
+ },
+ "varieties": [
+  {
+   "name": "baltoy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "175"
+}

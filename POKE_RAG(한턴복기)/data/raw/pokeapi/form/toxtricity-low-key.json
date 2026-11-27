@@ -1,0 +1,23 @@
+{
+ "name": "toxtricity-low-key",
+ "form_name": "low-key",
+ "names": {
+  "fr": "Salarsen Forme Grave",
+  "de": "Riffex (Tiefform)",
+  "en": "Low Key Toxtricity"
+ },
+ "form_names": {
+  "ja-hrkt": "ローなすがた",
+  "ko": "로우한 모습",
+  "zh-hant": "低調的樣子",
+  "fr": "Forme Grave",
+  "de": "Tief-Form",
+  "es": "Forma Grave",
+  "it": "Forma Basso",
+  "en": "Low Key Form",
+  "ja": "ローなすがた",
+  "zh-hans": "低调的样子",
+  "es-419": "Forma Grave"
+ },
+ "is_mega": false
+}

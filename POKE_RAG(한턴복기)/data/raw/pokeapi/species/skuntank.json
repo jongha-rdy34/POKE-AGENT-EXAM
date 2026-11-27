@@ -1,0 +1,42 @@
+{
+ "id": 435,
+ "name": "skuntank",
+ "names": {
+  "ja-hrkt": "スカタンク",
+  "ja-roma": "Skutank",
+  "ko": "스컹탱크",
+  "zh-hant": "坦克臭鼬",
+  "fr": "Moufflair",
+  "de": "Skuntank",
+  "es": "Skuntank",
+  "it": "Skuntank",
+  "en": "Skuntank",
+  "ja": "スカタンク",
+  "zh-hans": "坦克臭鼬",
+  "es-419": "Skuntank"
+ },
+ "genus": {
+  "ja-hrkt": "スカンクポケモン",
+  "ko": "스컹크포켓몬",
+  "zh-hant": "臭鼬寶可夢",
+  "fr": "Pokémon Moufette",
+  "de": "Stinktier-Pokémon",
+  "es": "Pokémon Mofeta",
+  "it": "Pokémon Moffetta",
+  "en": "Skunk Pokémon",
+  "ja": "スカンクポケモン",
+  "zh-hans": "臭鼬宝可梦",
+  "es-419": "Pokémon Mofeta"
+ },
+ "flavor": {
+  "en": "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten.",
+  "ko": "꼬리 끝에서 날리는 분비액의 냄새는 강렬하다. 땅에 구멍을 파서 굴을 만든다."
+ },
+ "varieties": [
+  {
+   "name": "skuntank",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "223"
+}

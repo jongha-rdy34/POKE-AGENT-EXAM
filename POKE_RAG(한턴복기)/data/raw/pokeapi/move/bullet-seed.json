@@ -1,0 +1,31 @@
+{
+ "name": "bullet-seed",
+ "names": {
+  "ja-hrkt": "タネマシンガン",
+  "ko": "씨기관총",
+  "zh-hant": "種子機關槍",
+  "fr": "Balle Graine",
+  "de": "Kugelsaat",
+  "es": "Semilladora",
+  "it": "Semitraglia",
+  "en": "Bullet Seed",
+  "ja": "タネマシンガン",
+  "zh-hans": "种子机关枪",
+  "es-419": "Bala Semilla"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 25,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits 2-5 times in one turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by forcefully shooting seeds at the target. This move hits two to five times in a row.",
+  "ko": "씨앗을 기세 좋게 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다."
+ }
+}

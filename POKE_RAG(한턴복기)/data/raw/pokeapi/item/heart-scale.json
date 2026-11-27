@@ -1,0 +1,30 @@
+{
+ "name": "heart-scale",
+ "names": {
+  "ja-hrkt": "ハートのウロコ",
+  "ko": "하트비늘",
+  "zh-hant": "心之鱗片",
+  "fr": "Écaille Cœur",
+  "de": "Herzschuppe",
+  "es": "Escama Corazón",
+  "it": "Squama Cuore",
+  "en": "Heart Scale",
+  "ja": "ハートのウロコ",
+  "zh-hans": "心之鳞片",
+  "es-419": "Escama Corazón"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Aucun effet. Peut être échangé pour réapprendre des capacités apprises par montée de niveau.",
+  "en": "No effect. Can be traded for prior Level-up moves."
+ },
+ "flavor": {
+  "en": "A pretty, heart-shaped scale that is extremely rare. Some people are happy to receive one.",
+  "ko": "예쁜 하트 모양의 무척 진귀한 비늘. 받으면 좋아하는 사람도 있다.",
+  "ja": "きれいな ハートの 形の とても 珍しい ウロコ。 渡すと よろこぶ 人もいる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "covet",
+ "names": {
+  "ja-hrkt": "ほしがる",
+  "ko": "탐내다",
+  "zh-hant": "渴望",
+  "fr": "Implore",
+  "de": "Bezirzer",
+  "es": "Antojo",
+  "it": "Supplica",
+  "en": "Covet",
+  "ja": "ほしがる",
+  "zh-hans": "渴望",
+  "es-419": "Antojo"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 25,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Takes the target’s item."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user endearingly approaches the target, then steals the target's held item.",
+  "ko": "귀엽게 애교 부리며 상대에게 다가가 지니고 있는 도구를 뺏는다."
+ }
+}

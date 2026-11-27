@@ -1,0 +1,18 @@
+{
+ "name": "bold",
+ "names": {
+  "ja-hrkt": "ずぶとい",
+  "ko": "대담",
+  "zh-hant": "大膽",
+  "fr": "Assuré",
+  "de": "Kühn",
+  "es": "Osada",
+  "it": "Sicura",
+  "en": "Bold",
+  "ja": "ずぶとい",
+  "zh-hans": "大胆",
+  "es-419": "Osada"
+ },
+ "plus": "defense",
+ "minus": "attack"
+}

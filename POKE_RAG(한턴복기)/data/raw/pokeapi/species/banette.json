@@ -1,0 +1,46 @@
+{
+ "id": 354,
+ "name": "banette",
+ "names": {
+  "ja-hrkt": "ジュペッタ",
+  "ja-roma": "Juppeta",
+  "ko": "다크펫",
+  "zh-hant": "詛咒娃娃",
+  "fr": "Branette",
+  "de": "Banette",
+  "es": "Banette",
+  "it": "Banette",
+  "en": "Banette",
+  "ja": "ジュペッタ",
+  "zh-hans": "诅咒娃娃",
+  "es-419": "Banette"
+ },
+ "genus": {
+  "ja-hrkt": "ぬいぐるみポケモン",
+  "ko": "봉제인형포켓몬",
+  "zh-hant": "布偶寶可夢",
+  "fr": "Pokémon Marionnette",
+  "de": "Marionette",
+  "es": "Pokémon Marioneta",
+  "it": "Pokémon Marionetta",
+  "en": "Marionette Pokémon",
+  "ja": "ぬいぐるみポケモン",
+  "zh-hans": "布偶宝可梦",
+  "es-419": "Pokémon Marioneta"
+ },
+ "flavor": {
+  "en": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+  "ko": "버려진 원념에 의해 태어난다. 소중히 대하면 만족해서 원래의 인형으로 돌아간다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "banette",
+   "is_default": true
+  },
+  {
+   "name": "banette-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "181"
+}

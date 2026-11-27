@@ -1,0 +1,42 @@
+{
+ "id": 528,
+ "name": "swoobat",
+ "names": {
+  "ja-hrkt": "ココロモリ",
+  "ja-roma": "Kokoromori",
+  "ko": "맘박쥐",
+  "zh-hant": "心蝙蝠",
+  "fr": "Rhinolove",
+  "de": "Fletiamo",
+  "es": "Swoobat",
+  "it": "Swoobat",
+  "en": "Swoobat",
+  "ja": "ココロモリ",
+  "zh-hans": "心蝙蝠",
+  "es-419": "Swoobat"
+ },
+ "genus": {
+  "ja-hrkt": "きゅうあいポケモン",
+  "ko": "구애포켓몬",
+  "zh-hant": "求愛寶可夢",
+  "fr": "Pokémon Cupidon",
+  "de": "Balz-Pokémon",
+  "es": "Pokémon Galante",
+  "it": "Pokémon Cercamore",
+  "en": "Courting Pokémon",
+  "ja": "きゅうあいポケモン",
+  "zh-hans": "求爱宝可梦",
+  "es-419": "Pokémon Galante"
+ },
+ "flavor": {
+  "en": "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck.",
+  "ko": "코의 모양이 복스럽다고 행복을 부르는 상징으로 여기는 지역도 있다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "swoobat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "269"
+}

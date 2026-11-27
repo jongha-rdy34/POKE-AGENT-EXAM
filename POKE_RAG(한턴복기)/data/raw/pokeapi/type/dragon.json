@@ -1,0 +1,25 @@
+{
+ "name": "dragon",
+ "names": {
+  "ja-hrkt": "ドラゴン",
+  "ko": "드래곤",
+  "zh-hant": "龍",
+  "fr": "Dragon",
+  "de": "Drache",
+  "es": "Dragón",
+  "it": "Drago",
+  "en": "Dragon",
+  "ja": "ドラゴン",
+  "zh-hans": "龙",
+  "es-419": "Dragón"
+ },
+ "double_to": [
+  "dragon"
+ ],
+ "half_to": [
+  "steel"
+ ],
+ "zero_to": [
+  "fairy"
+ ]
+}

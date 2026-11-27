@@ -1,0 +1,20 @@
+{
+ "name": "rotom-phone",
+ "names": {
+  "ja-hrkt": "スマホロトム",
+  "ko": "스마트로토무",
+  "zh-hant": "手機洛托姆",
+  "fr": "Motismart",
+  "de": "Smart-Rotom",
+  "es": "SmartRotom",
+  "it": "Smart Rotom",
+  "en": "Rotom Phone",
+  "ja": "スマホロトム",
+  "zh-hans": "手机洛托姆"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tm170",
+ "names": {
+  "ja-hrkt": "わざマシン１７０",
+  "ko": "기술머신170",
+  "zh-hant": "招式學習器１７０",
+  "fr": "CT170",
+  "de": "TM170",
+  "es": "MT170",
+  "it": "MT170",
+  "en": "TM170",
+  "ja": "わざマシン１７０",
+  "zh-hans": "招式学习器１７０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

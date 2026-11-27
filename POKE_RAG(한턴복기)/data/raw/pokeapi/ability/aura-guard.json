@@ -1,0 +1,12 @@
+{
+ "name": "aura-guard",
+ "names": {
+  "en": "Aura Guard"
+ },
+ "effect": {
+  "en": "A Pokémon with Aura Guard takes half damage from moves that make contact."
+ },
+ "flavor": {
+  "en": "A Pokémon with Aura Guard takes half damage from moves that make contact. Moves affected by Long Reach which make contact will deal regular damage."
+ }
+}

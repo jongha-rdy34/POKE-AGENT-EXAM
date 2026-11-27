@@ -1,0 +1,26 @@
+{
+ "name": "ghost",
+ "names": {
+  "ja-hrkt": "ゴースト",
+  "ko": "고스트",
+  "zh-hant": "幽靈",
+  "fr": "Spectre",
+  "de": "Geist",
+  "es": "Fantasma",
+  "it": "Spettro",
+  "en": "Ghost",
+  "ja": "ゴースト",
+  "zh-hans": "幽灵",
+  "es-419": "Fantasma"
+ },
+ "double_to": [
+  "ghost",
+  "psychic"
+ ],
+ "half_to": [
+  "dark"
+ ],
+ "zero_to": [
+  "normal"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "name": "electric-seed",
+ "names": {
+  "ja-hrkt": "エレキシード",
+  "ko": "일렉트릭시드",
+  "zh-hant": "電氣種子",
+  "fr": "Graine Électrik",
+  "de": "Elektro-Samen",
+  "es": "Semilla Electro",
+  "it": "Elettroseme",
+  "en": "Electric Seed",
+  "ja": "エレキシード",
+  "zh-hans": "电气种子",
+  "es-419": "Semilla Electro"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Consommé sur un Champ Électrifié et augmente la Défense du porteur d'un niveau.",
+  "en": "Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage."
+ },
+ "flavor": {
+  "ko": "포켓몬에게 지니게 하면 일렉트릭필드일 때 사용하여 방어가 올라간다.",
+  "en": "An item to be held by a Pokémon. It boosts Defense on Electric Terrain. It can only be used once.",
+  "ja": "ポケモンに 持たせると エレキフィールドのときに 使って 防御が あがる。"
+ }
+}

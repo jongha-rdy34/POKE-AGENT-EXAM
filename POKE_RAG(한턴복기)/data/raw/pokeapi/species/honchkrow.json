@@ -1,0 +1,42 @@
+{
+ "id": 430,
+ "name": "honchkrow",
+ "names": {
+  "ja-hrkt": "ドンカラス",
+  "ja-roma": "Dongkarasu",
+  "ko": "돈크로우",
+  "zh-hant": "烏鴉頭頭",
+  "fr": "Corboss",
+  "de": "Kramshef",
+  "es": "Honchkrow",
+  "it": "Honchkrow",
+  "en": "Honchkrow",
+  "ja": "ドンカラス",
+  "zh-hans": "乌鸦头头",
+  "es-419": "Honchkrow"
+ },
+ "genus": {
+  "ja-hrkt": "おおボスポケモン",
+  "ko": "큰형님포켓몬",
+  "zh-hant": "大頭目寶可夢",
+  "fr": "Pokémon Big Boss",
+  "de": "Anführer",
+  "es": "Pokémon Gran Jefe",
+  "it": "Pokémon Grancapo",
+  "en": "Big Boss Pokémon",
+  "ja": "おおボスポケモン",
+  "zh-hans": "大头目宝可梦",
+  "es-419": "Pokémon Gran Jefe"
+ },
+ "flavor": {
+  "en": "One cry from this Pokémon, and a murder of Murkrow come flying. At such times, one would think the curtain of night had fallen, plunging the world into jet-black darkness.",
+  "ko": "적과 싸우는 것은 거의 부하다. 자신의 손을 더럽히는 것은 상대에게 마지막 일격을 가할 때뿐이다."
+ },
+ "varieties": [
+  {
+   "name": "honchkrow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "97"
+}

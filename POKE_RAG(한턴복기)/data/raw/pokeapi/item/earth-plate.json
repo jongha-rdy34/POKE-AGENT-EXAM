@@ -1,0 +1,32 @@
+{
+ "name": "earth-plate",
+ "names": {
+  "ja-hrkt": "だいちのプレート",
+  "ko": "대지플레이트",
+  "zh-hant": "大地石板",
+  "fr": "Plaque Terre",
+  "de": "Erdtafel",
+  "es": "Tabla Terrax",
+  "it": "Lastrageo",
+  "en": "Earth Plate",
+  "ja": "だいちのプレート",
+  "zh-hans": "大地石板",
+  "es-419": "Tabla Terrax"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Sol du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Sol.",
+  "en": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ground-type moves.",
+  "ko": "땅타입의 석판. 지니게 하면 땅타입 기술의 위력이 강해진다.",
+  "ja": "じめんの タイプの 石盤。 持たせると じめんタイプの 技の 威力が 強まる。"
+ }
+}

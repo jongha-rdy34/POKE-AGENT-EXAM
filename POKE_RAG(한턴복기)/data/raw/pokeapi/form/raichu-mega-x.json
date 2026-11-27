@@ -1,0 +1,15 @@
+{
+ "name": "raichu-mega-x",
+ "form_name": "mega-x",
+ "names": {
+  "fr": "Méga-Raichu X",
+  "en": "Mega Raichu X"
+ },
+ "form_names": {
+  "ja-hrkt": "メガライチュウX",
+  "fr": "Méga-Raichu X",
+  "en": "Mega Raichu X",
+  "ja": "メガライチュウX"
+ },
+ "is_mega": true
+}

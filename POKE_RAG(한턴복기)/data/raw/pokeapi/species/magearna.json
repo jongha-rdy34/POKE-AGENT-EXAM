@@ -1,0 +1,54 @@
+{
+ "id": 801,
+ "name": "magearna",
+ "names": {
+  "ja-hrkt": "マギアナ",
+  "ja-roma": "Magearna",
+  "ko": "마기아나",
+  "zh-hant": "瑪機雅娜",
+  "fr": "Magearna",
+  "de": "Magearna",
+  "es": "Magearna",
+  "it": "Magearna",
+  "en": "Magearna",
+  "ja": "マギアナ",
+  "zh-hans": "玛机雅娜",
+  "es-419": "Magearna"
+ },
+ "genus": {
+  "ja-hrkt": "じんぞうポケモン",
+  "ko": "인조포켓몬",
+  "zh-hant": "人造寶可夢",
+  "fr": "Pokémon Artificiel",
+  "de": "Fabrikats-Pokémon",
+  "es": "Pokémon Artificial",
+  "it": "Pokémon Artificiale",
+  "en": "Artificial Pokémon",
+  "ja": "じんぞうポケモン",
+  "zh-hans": "人造宝可梦",
+  "es-419": "Pokémon Artificial"
+ },
+ "flavor": {
+  "ko": "약 500년 전 과학자에 의해 만들어졌다. 소울하트라고 불리는 파츠가 본체다.",
+  "en": "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form."
+ },
+ "varieties": [
+  {
+   "name": "magearna",
+   "is_default": true
+  },
+  {
+   "name": "magearna-original",
+   "is_default": false
+  },
+  {
+   "name": "magearna-mega",
+   "is_default": false
+  },
+  {
+   "name": "magearna-original-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "422"
+}

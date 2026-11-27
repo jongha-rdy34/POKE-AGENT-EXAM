@@ -1,0 +1,20 @@
+{
+ "name": "qwilfish-spines",
+ "names": {
+  "ja-hrkt": "ハリーセンのトゲ",
+  "ko": "침바루의가시",
+  "zh-hant": "千針魚的刺",
+  "fr": "Épine de Qwilfish",
+  "de": "Baldorfish-Stachel",
+  "es": "Púa de Qwilfish",
+  "it": "Aculeo di Qwilfish",
+  "en": "Qwilfish Spines",
+  "ja": "ハリーセンのトゲ",
+  "zh-hans": "千针鱼的刺"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

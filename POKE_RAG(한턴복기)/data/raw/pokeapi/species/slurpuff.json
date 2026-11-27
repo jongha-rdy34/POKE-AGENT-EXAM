@@ -1,0 +1,42 @@
+{
+ "id": 685,
+ "name": "slurpuff",
+ "names": {
+  "ja-hrkt": "ペロリーム",
+  "ja-roma": "Peroream",
+  "ko": "나루림",
+  "zh-hant": "胖甜妮",
+  "fr": "Cupcanaille",
+  "de": "Sabbaione",
+  "es": "Slurpuff",
+  "it": "Slurpuff",
+  "en": "Slurpuff",
+  "ja": "ペロリーム",
+  "zh-hans": "胖甜妮",
+  "es-419": "Slurpuff"
+ },
+ "genus": {
+  "ja-hrkt": "ホイップポケモン",
+  "ko": "휩포켓몬",
+  "zh-hant": "泡沫奶油寶可夢",
+  "fr": "Pokémon Mousseline",
+  "de": "Schlagsahne-Pokémon",
+  "es": "Pokémon Nata",
+  "it": "Pokémon Panna",
+  "en": "Meringue Pokémon",
+  "ja": "ホイップポケモン",
+  "zh-hans": "泡沫奶油宝可梦",
+  "es-419": "Pokémon Nata"
+ },
+ "flavor": {
+  "ko": "털에 많은 공기를 담고 있어 촉감이 부드럽고 보기보다 가볍다.",
+  "en": "Slurpuff’s fur contains a lot of air, making it soft to the touch and lighter than it looks."
+ },
+ "varieties": [
+  {
+   "name": "slurpuff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "351"
+}

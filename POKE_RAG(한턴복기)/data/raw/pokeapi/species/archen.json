@@ -1,0 +1,42 @@
+{
+ "id": 566,
+ "name": "archen",
+ "names": {
+  "ja-hrkt": "アーケン",
+  "ja-roma": "Archen",
+  "ko": "아켄",
+  "zh-hant": "始祖小鳥",
+  "fr": "Arkéapti",
+  "de": "Flapteryx",
+  "es": "Archen",
+  "it": "Archen",
+  "en": "Archen",
+  "ja": "アーケン",
+  "zh-hans": "始祖小鸟",
+  "es-419": "Archen"
+ },
+ "genus": {
+  "ja-hrkt": "さいこどりポケモン",
+  "ko": "최초새포켓몬",
+  "zh-hant": "遠古鳥寶可夢",
+  "fr": "Pokémon Oisancien",
+  "de": "Urzeitvogel-Pokémon",
+  "es": "Pokémon Protopájaro",
+  "it": "Pokémon Paleouccello",
+  "en": "First Bird Pokémon",
+  "ja": "さいこどりポケモン",
+  "zh-hans": "远古鸟宝可梦",
+  "es-419": "Pokémon Protopájaro"
+ },
+ "flavor": {
+  "en": "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.",
+  "ko": "새포켓몬의 선조로 불린다. 나무 위에서 살며 나무열매나 벌레포켓몬을 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "archen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "289"
+}

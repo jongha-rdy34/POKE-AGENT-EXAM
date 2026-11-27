@@ -1,0 +1,22 @@
+{
+ "name": "harbor-mail",
+ "names": {
+  "ja-hrkt": "ハーバーメール",
+  "fr": "Lettre Port",
+  "de": "Hafenbrief",
+  "es": "Carta Puerto",
+  "it": "Mess. Porto",
+  "en": "Harbor Mail",
+  "es-419": "Carta Puerto"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL featuring a cute WINGULL print. It is to be held by a POKéMON."
+ }
+}

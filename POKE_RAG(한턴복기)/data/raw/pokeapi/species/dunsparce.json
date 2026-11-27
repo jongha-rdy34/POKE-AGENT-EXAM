@@ -1,0 +1,42 @@
+{
+ "id": 206,
+ "name": "dunsparce",
+ "names": {
+  "ja-hrkt": "ノコッチ",
+  "ja-roma": "Nokocchi",
+  "ko": "노고치",
+  "zh-hant": "土龍弟弟",
+  "fr": "Insolourdo",
+  "de": "Dummisel",
+  "es": "Dunsparce",
+  "it": "Dunsparce",
+  "en": "Dunsparce",
+  "ja": "ノコッチ",
+  "zh-hans": "土龙弟弟",
+  "es-419": "Dunsparce"
+ },
+ "genus": {
+  "ja-hrkt": "つちへびポケモン",
+  "ko": "땅뱀포켓몬",
+  "zh-hant": "地蛇寶可夢",
+  "fr": "Pokémon Serpent",
+  "de": "Schlangen-Pokémon",
+  "es": "Pokémon Serpiente Tierra",
+  "it": "Pokémon Terraserpe",
+  "en": "Land Snake Pokémon",
+  "ja": "つちへびポケモン",
+  "zh-hans": "地蛇宝可梦",
+  "es-419": "Pokémon Serpiente Tierra"
+ },
+ "flavor": {
+  "en": "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt.",
+  "ko": "미로 같은 굴에 산다. 흙냄새로 자신이 있는 곳을 알 수 있어 절대 길을 잃지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "dunsparce",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "103"
+}

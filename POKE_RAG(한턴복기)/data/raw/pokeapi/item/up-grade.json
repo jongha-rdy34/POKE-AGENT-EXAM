@@ -1,0 +1,28 @@
+{
+ "name": "up-grade",
+ "names": {
+  "ja-hrkt": "アップグレード",
+  "ko": "업그레이드",
+  "zh-hant": "升級資料",
+  "fr": "Améliorator",
+  "de": "Upgrade",
+  "es": "Mejora",
+  "it": "Upgrade",
+  "en": "Upgrade",
+  "ja": "アップグレード",
+  "zh-hans": "升级数据",
+  "es-419": "Mejora"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur Porygon: Le porteur évolue en Porygon2.",
+  "en": "Traded on a Porygon: Holder evolves into Porygon2."
+ },
+ "flavor": {
+  "en": "A transparent device somehow filled with all sorts of data. It was produced by Silph Co.",
+  "ko": "안에 여러 가지 정보가 가득한 투명한 기계다. 실프주식회사 제품.",
+  "ja": "中に いろんな 情報が つまった 透明な 機械。 シルフ カンパニー製。"
+ }
+}

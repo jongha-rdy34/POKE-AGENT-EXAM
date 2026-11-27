@@ -1,0 +1,46 @@
+{
+ "id": 475,
+ "name": "gallade",
+ "names": {
+  "ja-hrkt": "エルレイド",
+  "ja-roma": "Erureido",
+  "ko": "엘레이드",
+  "zh-hant": "艾路雷朵",
+  "fr": "Gallame",
+  "de": "Galagladi",
+  "es": "Gallade",
+  "it": "Gallade",
+  "en": "Gallade",
+  "ja": "エルレイド",
+  "zh-hans": "艾路雷朵",
+  "es-419": "Gallade"
+ },
+ "genus": {
+  "ja-hrkt": "やいばポケモン",
+  "ko": "검포켓몬",
+  "zh-hant": "利刃寶可夢",
+  "fr": "Pokémon Lame",
+  "de": "Klingen-Pokémon",
+  "es": "Pokémon Cuchilla",
+  "it": "Pokémon Lama",
+  "en": "Blade Pokémon",
+  "ja": "やいばポケモン",
+  "zh-hans": "利刃宝可梦",
+  "es-419": "Pokémon Cuchilla"
+ },
+ "flavor": {
+  "en": "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive.",
+  "ko": "도움을 구하는 감정을 민감하게 캐치해서 상대가 있는 곳으로 급히 달려가 가세한다."
+ },
+ "varieties": [
+  {
+   "name": "gallade",
+   "is_default": true
+  },
+  {
+   "name": "gallade-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "140"
+}

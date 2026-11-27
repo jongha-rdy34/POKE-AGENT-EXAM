@@ -1,0 +1,46 @@
+{
+ "id": 99,
+ "name": "kingler",
+ "names": {
+  "ja-hrkt": "キングラー",
+  "ja-roma": "Kingler",
+  "ko": "킹크랩",
+  "zh-hant": "巨鉗蟹",
+  "fr": "Krabboss",
+  "de": "Kingler",
+  "es": "Kingler",
+  "it": "Kingler",
+  "en": "Kingler",
+  "ja": "キングラー",
+  "zh-hans": "巨钳蟹",
+  "es-419": "Kingler"
+ },
+ "genus": {
+  "ja-hrkt": "はさみポケモン",
+  "ko": "집게포켓몬",
+  "zh-hant": "鉗子寶可夢",
+  "fr": "Pokémon Pince",
+  "de": "Kneifer-Pokémon",
+  "es": "Pokémon Tenaza",
+  "it": "Pokémon Chela",
+  "en": "Pincer Pokémon",
+  "ja": "はさみポケモン",
+  "zh-hans": "钳子宝可梦",
+  "es-419": "Pokémon Tenaza"
+ },
+ "flavor": {
+  "en": "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way.",
+  "ko": "큰 집게는 뛰어난 파괴력을 지녔지만 너무 무거워서 싸우지 않을 때는 거추장스럽다."
+ },
+ "varieties": [
+  {
+   "name": "kingler",
+   "is_default": true
+  },
+  {
+   "name": "kingler-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "43"
+}

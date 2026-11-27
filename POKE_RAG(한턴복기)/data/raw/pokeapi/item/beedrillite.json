@@ -1,0 +1,28 @@
+{
+ "name": "beedrillite",
+ "names": {
+  "ja-hrkt": "スピアナイト",
+  "ko": "독침붕나이트",
+  "zh-hant": "大針蜂進化石",
+  "fr": "Dardargnite",
+  "de": "Bibornit",
+  "es": "Beedrillita",
+  "it": "Beedrillite",
+  "en": "Beedrillite",
+  "ja": "スピアナイト",
+  "zh-hans": "大针蜂进化石",
+  "es-419": "Beedrillita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Dardargnan de Méga-Évoluer en Méga-Dardargnan.",
+  "en": "Held: Allows Beedrill to Mega Evolve into Mega Beedrill."
+ },
+ "flavor": {
+  "ko": "독침붕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Beedrill hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "スピアーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

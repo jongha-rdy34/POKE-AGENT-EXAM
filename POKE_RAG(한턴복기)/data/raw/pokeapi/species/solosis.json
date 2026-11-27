@@ -1,0 +1,42 @@
+{
+ "id": 577,
+ "name": "solosis",
+ "names": {
+  "ja-hrkt": "ユニラン",
+  "ja-roma": "Uniran",
+  "ko": "유니란",
+  "zh-hant": "單卵細胞球",
+  "fr": "Nucléos",
+  "de": "Monozyto",
+  "es": "Solosis",
+  "it": "Solosis",
+  "en": "Solosis",
+  "ja": "ユニラン",
+  "zh-hans": "单卵细胞球",
+  "es-419": "Solosis"
+ },
+ "genus": {
+  "ja-hrkt": "さいぼうポケモン",
+  "ko": "세포포켓몬",
+  "zh-hant": "細胞寶可夢",
+  "fr": "Pokémon Cellule",
+  "de": "Zellen-Pokémon",
+  "es": "Pokémon Célula",
+  "it": "Pokémon Cellula",
+  "en": "Cell Pokémon",
+  "ja": "さいぼうポケモン",
+  "zh-hans": "细胞宝可梦",
+  "es-419": "Pokémon Célula"
+ },
+ "flavor": {
+  "en": "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space.",
+  "ko": "특수한 액체로 몸을 둘러싸고 있어 우주에서도 살 수 있다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "solosis",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "294"
+}

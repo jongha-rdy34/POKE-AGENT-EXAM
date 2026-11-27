@@ -1,0 +1,23 @@
+{
+ "name": "grass-pelt",
+ "names": {
+  "ja-hrkt": "くさのけがわ",
+  "ko": "풀모피",
+  "zh-hant": "草之毛皮",
+  "fr": "Toison Herbue",
+  "de": "Pflanzenpelz",
+  "es": "Manto Frondoso",
+  "it": "Peloderba",
+  "en": "Grass Pelt",
+  "ja": "くさのけがわ",
+  "zh-hans": "草之毛皮",
+  "es-419": "Manto Frondoso"
+ },
+ "effect": {
+  "en": "Boosts Defense while Grassy Terrain is in effect."
+ },
+ "flavor": {
+  "ko": "그래스필드일 때 방어가 올라간다.",
+  "en": "Boosts the Pokémon's Defense stat on Grassy Terrain."
+ }
+}

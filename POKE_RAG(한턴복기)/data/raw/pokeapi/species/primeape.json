@@ -1,0 +1,42 @@
+{
+ "id": 57,
+ "name": "primeape",
+ "names": {
+  "ja-hrkt": "オコリザル",
+  "ja-roma": "Okorizaru",
+  "ko": "성원숭",
+  "zh-hant": "火爆猴",
+  "fr": "Colossinge",
+  "de": "Rasaff",
+  "es": "Primeape",
+  "it": "Primeape",
+  "en": "Primeape",
+  "ja": "オコリザル",
+  "zh-hans": "火暴猴",
+  "es-419": "Primeape"
+ },
+ "genus": {
+  "ja-hrkt": "ぶたざるポケモン",
+  "ko": "돈숭이포켓몬",
+  "zh-hant": "豬猴寶可夢",
+  "fr": "Pokémon Porsinge",
+  "de": "Schwein/Affe",
+  "es": "Pokémon Mono Cerdo",
+  "it": "Pokémon Suinpanzé",
+  "en": "Pig Monkey Pokémon",
+  "ja": "ぶたざるポケモン",
+  "zh-hans": "猪猴宝可梦",
+  "es-419": "Pokémon Mono Cerdo"
+ },
+ "flavor": {
+  "en": "It stops being angry only when nobody else is around. To view this moment is very difficult.",
+  "ko": "주위에 아무도 없을 때만은 화를 내지 않고 있다. 그러나 그 모습을 보기가 어렵다."
+ },
+ "varieties": [
+  {
+   "name": "primeape",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "24"
+}

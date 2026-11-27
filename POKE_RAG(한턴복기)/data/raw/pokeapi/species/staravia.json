@@ -1,0 +1,42 @@
+{
+ "id": 397,
+ "name": "staravia",
+ "names": {
+  "ja-hrkt": "ムクバード",
+  "ja-roma": "Mukubird",
+  "ko": "찌르버드",
+  "zh-hant": "姆克鳥",
+  "fr": "Étourvol",
+  "de": "Staravia",
+  "es": "Staravia",
+  "it": "Staravia",
+  "en": "Staravia",
+  "ja": "ムクバード",
+  "zh-hans": "姆克鸟",
+  "es-419": "Staravia"
+ },
+ "genus": {
+  "ja-hrkt": "むくどりポケモン",
+  "ko": "찌르레기포켓몬",
+  "zh-hant": "椋鳥寶可夢",
+  "fr": "Pokémon Étourneau",
+  "de": "Star",
+  "es": "Pokémon Estornino",
+  "it": "Pokémon Storno",
+  "en": "Starling Pokémon",
+  "ja": "むくどりポケモン",
+  "zh-hans": "椋鸟宝可梦",
+  "es-419": "Pokémon Estornino"
+ },
+ "flavor": {
+  "en": "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones.",
+  "ko": "숲이나 초원에 서식한다. 그룹이 마주치면 영역을 건 분쟁이 시작된다."
+ },
+ "varieties": [
+  {
+   "name": "staravia",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "206"
+}

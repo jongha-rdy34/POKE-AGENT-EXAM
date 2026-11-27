@@ -1,0 +1,31 @@
+{
+ "name": "focus-sash",
+ "names": {
+  "ja-hrkt": "きあいのタスキ",
+  "ko": "기합의띠",
+  "zh-hant": "氣勢披帶",
+  "fr": "Ceinture Force",
+  "de": "Fokusgurt",
+  "es": "Banda Aguante",
+  "it": "Focalnastro",
+  "en": "Focus Sash",
+  "ja": "きあいのタスキ",
+  "zh-hans": "气势披带",
+  "es-419": "Banda Aguante"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur survit à n'importe quelle attaque à un coup à 1 PV s'il est aux PV max, ensuite l'objet est consommé.",
+  "en": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. If the holder has full HP, it will endure a potential KO attack with 1 HP. The item then disappears.",
+  "ko": "지니게 하면 HP가 꽉 찼을 때 기절할 듯한 기술을 당해도 HP 1로 한 번은 버틴다.",
+  "ja": "持たせると ＨＰが 満タンのとき ひんしになりそうな 技を 受けても ＨＰ１で １度だけ 耐える。"
+ }
+}

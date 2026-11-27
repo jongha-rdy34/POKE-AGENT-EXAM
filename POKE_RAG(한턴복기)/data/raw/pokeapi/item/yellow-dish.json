@@ -1,0 +1,20 @@
+{
+ "name": "yellow-dish",
+ "names": {
+  "ja-hrkt": "イエロープレート",
+  "ko": "옐로 플레이트",
+  "zh-hant": "黃色盤子",
+  "fr": "Assiette Jaune",
+  "de": "Gelber Teller",
+  "es": "Plato Amarillo",
+  "it": "Piatto giallo",
+  "en": "Yellow Dish",
+  "ja": "イエロープレート",
+  "zh-hans": "黄色盘子"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

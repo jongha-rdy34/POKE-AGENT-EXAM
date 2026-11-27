@@ -1,0 +1,20 @@
+{
+ "name": "sandshrew-claw",
+ "names": {
+  "ja-hrkt": "サンドのツメ",
+  "ko": "모래두지의발톱",
+  "zh-hant": "穿山鼠的爪子",
+  "fr": "Griffe de Sabelette",
+  "de": "Sandan-Kralle",
+  "es": "Garra de Sandshrew",
+  "it": "Artiglio di Sandshrew",
+  "en": "Sandshrew Claw",
+  "ja": "サンドのツメ",
+  "zh-hans": "穿山鼠的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

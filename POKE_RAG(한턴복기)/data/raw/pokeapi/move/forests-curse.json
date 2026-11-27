@@ -1,0 +1,31 @@
+{
+ "name": "forests-curse",
+ "names": {
+  "ja-hrkt": "もりののろい",
+  "ko": "숲의저주",
+  "zh-hant": "森林詛咒",
+  "fr": "Maléfice Sylvain",
+  "de": "Waldesfluch",
+  "es": "Condena Silvana",
+  "it": "Boscomalocchio",
+  "en": "Forest’s Curse",
+  "ja": "もりののろい",
+  "zh-hans": "森林诅咒",
+  "es-419": "Condena Silvana"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Adds Grass to the target’s types."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대에게 숲의 저주를 건다. 저주에 걸린 상대는 타입에 풀타입이 추가된다.",
+  "en": "The user puts a forest curse on the target. This adds Grass type to the target's type."
+ }
+}

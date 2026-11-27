@@ -1,0 +1,28 @@
+{
+ "name": "lumina-crash",
+ "names": {
+  "ja-hrkt": "ルミナコリジョン",
+  "ko": "루미나콜리전",
+  "zh-hant": "琉光衝激",
+  "fr": "Lumino-Impact",
+  "de": "Lichteinschlag",
+  "es": "Fotocolisión",
+  "it": "Fotocollisione",
+  "en": "Lumina Crash",
+  "ja": "ルミナコリジョン",
+  "zh-hans": "琉光冲激",
+  "es-419": "Fotocolisión"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat."
+ }
+}

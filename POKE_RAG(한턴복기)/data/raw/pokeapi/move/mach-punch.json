@@ -1,0 +1,31 @@
+{
+ "name": "mach-punch",
+ "names": {
+  "ja-hrkt": "マッハパンチ",
+  "ko": "마하펀치",
+  "zh-hant": "音速拳",
+  "fr": "Mach Punch",
+  "de": "Tempohieb",
+  "es": "Ultrapuño",
+  "it": "Pugnorapido",
+  "en": "Mach Punch",
+  "ja": "マッハパンチ",
+  "zh-hans": "音速拳",
+  "es-419": "Superpuño"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user throws a punch at blinding speed. This move always goes first.",
+  "ko": "눈에 보이지 않는 굉장한 속도로 펀치를 날린다. 반드시 선제공격을 할 수 있다."
+ }
+}

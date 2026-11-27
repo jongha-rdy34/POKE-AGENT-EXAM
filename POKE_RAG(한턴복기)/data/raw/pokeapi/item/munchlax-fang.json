@@ -1,0 +1,20 @@
+{
+ "name": "munchlax-fang",
+ "names": {
+  "ja-hrkt": "ゴンベのキバ",
+  "ko": "먹고자의이빨",
+  "zh-hant": "小卡比獸的牙",
+  "fr": "Croc de Goinfrex",
+  "de": "Mampfaxo-Zahn",
+  "es": "Colmillo de Munchlax",
+  "it": "Zanna di Munchlax",
+  "en": "Munchlax Fang",
+  "ja": "ゴンベのキバ",
+  "zh-hans": "小卡比兽的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

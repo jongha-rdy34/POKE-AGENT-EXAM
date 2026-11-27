@@ -1,0 +1,32 @@
+{
+ "name": "flame-plate",
+ "names": {
+  "ja-hrkt": "ひのたまプレート",
+  "ko": "불구슬플레이트",
+  "zh-hant": "火球石板",
+  "fr": "Plaque Flamme",
+  "de": "Feuertafel",
+  "es": "Tabla Llama",
+  "it": "Lastrarogo",
+  "en": "Flame Plate",
+  "ja": "ひのたまプレート",
+  "zh-hans": "火球石板",
+  "es-419": "Tabla Llama"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Feu du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Feu.",
+  "en": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fire-type moves.",
+  "ko": "불꽃타입의 석판. 지니게 하면 불꽃타입 기술의 위력이 강해진다.",
+  "ja": "ほのおの タイプの 石盤。 持たせると ほのおタイプの 技の 威力が 強まる。"
+ }
+}

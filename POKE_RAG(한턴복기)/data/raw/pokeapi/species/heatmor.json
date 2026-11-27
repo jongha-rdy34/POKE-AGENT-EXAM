@@ -1,0 +1,42 @@
+{
+ "id": 631,
+ "name": "heatmor",
+ "names": {
+  "ja-hrkt": "クイタラン",
+  "ja-roma": "Kuitaran",
+  "ko": "앤티골",
+  "zh-hant": "熔蟻獸",
+  "fr": "Aflamanoir",
+  "de": "Furnifraß",
+  "es": "Heatmor",
+  "it": "Heatmor",
+  "en": "Heatmor",
+  "ja": "クイタラン",
+  "zh-hans": "熔蚁兽",
+  "es-419": "Heatmor"
+ },
+ "genus": {
+  "ja-hrkt": "アリクイポケモン",
+  "ko": "개미핥기포켓몬",
+  "zh-hant": "食蟻獸寶可夢",
+  "fr": "Pokémon Tamanoir",
+  "de": "Ameisenbären-Pokémon",
+  "es": "Pokémon Hormiguero",
+  "it": "Pokémon Formichiere",
+  "en": "Anteater Pokémon",
+  "ja": "アリクイポケモン",
+  "zh-hans": "食蚁兽宝可梦",
+  "es-419": "Pokémon Hormiguero"
+ },
+ "flavor": {
+  "en": "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.",
+  "ko": "불꽃을 혀처럼 사용한다. 아이앤트의 단단한 외골격을 조금씩 녹여 먹어 치운다."
+ },
+ "varieties": [
+  {
+   "name": "heatmor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "321"
+}

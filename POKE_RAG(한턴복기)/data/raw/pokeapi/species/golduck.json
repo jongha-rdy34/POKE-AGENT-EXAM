@@ -1,0 +1,42 @@
+{
+ "id": 55,
+ "name": "golduck",
+ "names": {
+  "ja-hrkt": "ゴルダック",
+  "ja-roma": "Golduck",
+  "ko": "골덕",
+  "zh-hant": "哥達鴨",
+  "fr": "Akwakwak",
+  "de": "Entoron",
+  "es": "Golduck",
+  "it": "Golduck",
+  "en": "Golduck",
+  "ja": "ゴルダック",
+  "zh-hans": "哥达鸭",
+  "es-419": "Golduck"
+ },
+ "genus": {
+  "ja-hrkt": "あひるポケモン",
+  "ko": "오리포켓몬",
+  "zh-hant": "鴨寶可夢",
+  "fr": "Pokémon Canard",
+  "de": "Enten-Pokémon",
+  "es": "Pokémon Pato",
+  "it": "Pokémon Papero",
+  "en": "Duck Pokémon",
+  "ja": "あひるポケモン",
+  "zh-hans": "鸭宝可梦",
+  "es-419": "Pokémon Pato"
+ },
+ "flavor": {
+  "en": "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves.",
+  "ko": "강을 더럽힌 사람을 물속으로 끌어들여 데려간다는 옛날이야기가 전해져 오고 있다."
+ },
+ "varieties": [
+  {
+   "name": "golduck",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "23"
+}

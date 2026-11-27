@@ -1,0 +1,20 @@
+{
+ "name": "rellor-mud",
+ "names": {
+  "ja-hrkt": "シガロコのどろ",
+  "ko": "구르데의진흙",
+  "zh-hant": "蟲滾泥的泥巴",
+  "fr": "Boue de Léboulérou",
+  "de": "Relluk-Schlamm",
+  "es": "Barro de Rellor",
+  "it": "Fango di Rellor",
+  "en": "Rellor Mud",
+  "ja": "シガロコのどろ",
+  "zh-hans": "虫滚泥的泥巴"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

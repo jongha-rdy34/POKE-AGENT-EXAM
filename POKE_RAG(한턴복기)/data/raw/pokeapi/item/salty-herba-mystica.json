@@ -1,0 +1,20 @@
+{
+ "name": "salty-herba-mystica",
+ "names": {
+  "ja-hrkt": "ひでん：しおスパイス",
+  "ko": "비전 짭짤스파이스",
+  "zh-hant": "秘傳：鹹味料",
+  "fr": "Épice Secrète Salée",
+  "de": "Salziges Geheimgewürz",
+  "es": "Especia Oculta Salada",
+  "it": "Spezia nascosta salata",
+  "en": "Salty Herba Mystica",
+  "ja": "ひでん：しおスパイス",
+  "zh-hans": "秘传：咸味料"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

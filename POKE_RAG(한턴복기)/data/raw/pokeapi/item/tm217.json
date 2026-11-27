@@ -1,0 +1,19 @@
+{
+ "name": "tm217",
+ "names": {
+  "ko": "기술머신217",
+  "zh-hant": "招式學習器２１７",
+  "fr": "CT217",
+  "de": "TM217",
+  "es": "MT217",
+  "it": "MT217",
+  "en": "TM217",
+  "ja": "わざマシン２１７",
+  "zh-hans": "招式学习器２１７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

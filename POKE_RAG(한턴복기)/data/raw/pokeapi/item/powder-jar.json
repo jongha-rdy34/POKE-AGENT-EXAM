@@ -1,0 +1,22 @@
+{
+ "name": "powder-jar",
+ "names": {
+  "ja-hrkt": "こないれ",
+  "fr": "Pot Poudre",
+  "de": "Puderdöschen",
+  "es": "Bote Polvos",
+  "it": "Portafarina",
+  "en": "Powder Jar",
+  "es-419": "Bote Polvos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke la Poudre de Baie faite grâce au Broyeur de Baies.",
+  "en": "Stores Berry Powder made using a Berry Crusher."
+ },
+ "flavor": {
+  "en": "A jar for storing BERRY POWDER made using a BERRY CRUSHER."
+ }
+}

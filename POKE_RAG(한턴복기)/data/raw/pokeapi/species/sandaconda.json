@@ -1,0 +1,46 @@
+{
+ "id": 844,
+ "name": "sandaconda",
+ "names": {
+  "ja-hrkt": "サダイジャ",
+  "ja-roma": "Sadaija",
+  "ko": "사다이사",
+  "zh-hant": "沙螺蟒",
+  "fr": "Dunaconda",
+  "de": "Sanaconda",
+  "es": "Sandaconda",
+  "it": "Sandaconda",
+  "en": "Sandaconda",
+  "ja": "サダイジャ",
+  "zh-hans": "沙螺蟒",
+  "es-419": "Sandaconda"
+ },
+ "genus": {
+  "ja-hrkt": "すなへびポケモン",
+  "ko": "모래뱀포켓몬",
+  "zh-hant": "沙蛇寶可夢",
+  "fr": "Pokémon Serpensable",
+  "de": "Sandschlangen-Pokémon",
+  "es": "Pokémon Serp. Arena",
+  "it": "Pokémon Sabbiaserpe",
+  "en": "Sand Snake Pokémon",
+  "ja": "すなへびポケモン",
+  "zh-hans": "沙蛇宝可梦",
+  "es-419": "Pokémon Serp. Arena"
+ },
+ "flavor": {
+  "ko": "독특한 똬리 형태는 모래주머니의 모래를 더 효율적으로 분사하기 위함이다.",
+  "en": "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently."
+ },
+ "varieties": [
+  {
+   "name": "sandaconda",
+   "is_default": true
+  },
+  {
+   "name": "sandaconda-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "443"
+}

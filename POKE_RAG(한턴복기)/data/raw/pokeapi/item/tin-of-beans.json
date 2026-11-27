@@ -1,0 +1,25 @@
+{
+ "name": "tin-of-beans",
+ "names": {
+  "ja-hrkt": "マメかん",
+  "ko": "콩통조림",
+  "zh-hant": "豆子罐頭",
+  "fr": "Haricots",
+  "de": "Dosenbohnen",
+  "es": "Lata de Habas",
+  "it": "Lattina fagioli",
+  "en": "Tin of Beans",
+  "ja": "マメかん",
+  "zh-hans": "豆子罐头",
+  "es-419": "Lata de Habas"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 다른 재료와 같이 넣고 푹 삶으면 콩의 단맛이 퍼지게 된다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. When simmered, the beans suffuse a dish with their mild flavor.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。いっしょに 煮込むと マメの 甘味が 広がる。"
+ }
+}

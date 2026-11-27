@@ -1,0 +1,20 @@
+{
+ "name": "pineapple",
+ "names": {
+  "ja-hrkt": "カットパイン",
+  "ko": "파인애플슬라이스",
+  "zh-hant": "鳳梨片",
+  "fr": "Ananas",
+  "de": "Ananas",
+  "es": "Piña",
+  "it": "Ananas",
+  "en": "Pineapple",
+  "ja": "カットパイン",
+  "zh-hans": "凤梨片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr32",
+ "names": {
+  "ja-hrkt": "わざレコード３２",
+  "ko": "기술레코드32",
+  "zh-hant": "招式紀錄３２",
+  "fr": "DT32",
+  "de": "TP32",
+  "es": "DT32",
+  "it": "DT32",
+  "en": "TR32",
+  "ja": "わざレコード３２",
+  "zh-hans": "招式记录３２",
+  "es-419": "DT32"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "날카로운 이빨로 상대를 깨물어 부숴서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+  "en": "The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.",
+  "ja": "鋭い 歯で 相手を かみくだいて 攻撃する。 相手の 防御を さげることが ある。"
+ }
+}

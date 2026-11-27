@@ -1,0 +1,42 @@
+{
+ "id": 470,
+ "name": "leafeon",
+ "names": {
+  "ja-hrkt": "リーフィア",
+  "ja-roma": "Leafia",
+  "ko": "리피아",
+  "zh-hant": "葉伊布",
+  "fr": "Phyllali",
+  "de": "Folipurba",
+  "es": "Leafeon",
+  "it": "Leafeon",
+  "en": "Leafeon",
+  "ja": "リーフィア",
+  "zh-hans": "叶伊布",
+  "es-419": "Leafeon"
+ },
+ "genus": {
+  "ja-hrkt": "しんりょくポケモン",
+  "ko": "심록포켓몬",
+  "zh-hant": "新綠寶可夢",
+  "fr": "Pokémon Verdoyant",
+  "de": "Unreif-Pokémon",
+  "es": "Pokémon Verdor",
+  "it": "Pokémon Rigoglioso",
+  "en": "Verdant Pokémon",
+  "ja": "しんりょくポケモン",
+  "zh-hans": "新绿宝可梦",
+  "es-419": "Pokémon Verdor"
+ },
+ "flavor": {
+  "en": "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master.",
+  "ko": "꼬리는 날카로운 칼날 같다. 큰 나무도 두 동강 내는 탁월한 예리함을 자랑한다."
+ },
+ "varieties": [
+  {
+   "name": "leafeon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

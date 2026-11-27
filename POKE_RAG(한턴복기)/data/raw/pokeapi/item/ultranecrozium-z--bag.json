@@ -1,0 +1,28 @@
+{
+ "name": "ultranecrozium-z--bag",
+ "names": {
+  "ja-hrkt": "ウルトラネクロＺ",
+  "ko": "울트라네크로Z",
+  "zh-hant": "究極奈克洛Ｚ",
+  "fr": "Ultranécrozélite",
+  "de": "Ultranecronium Z",
+  "es": "Ultranecrostal Z",
+  "it": "Ultranecrozium Z",
+  "en": "Ultranecrozium Z",
+  "ja": "ウルトラネクロＺ",
+  "zh-hans": "究极奈克洛Ｚ",
+  "es-419": "Ultranecrostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour ultranecrozium-z--bag",
+  "en": "XXX new effect for ultranecrozium-z--bag"
+ },
+ "flavor": {
+  "ko": "솔가레오나 루나아라와 합체한 네크로즈마를 새로운 모습으로 만드는 결정.",
+  "en": "It’s a crystal that turns Necrozma fused with Solgaleo or Lunala into a new form.",
+  "ja": "ソルガレオか ルナアーラと 合体した ネクロズマを 新たな 姿にする 結晶。"
+ }
+}

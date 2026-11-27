@@ -1,0 +1,28 @@
+{
+ "name": "lure-ball",
+ "names": {
+  "ja-hrkt": "ルアーボール",
+  "ko": "루어볼",
+  "zh-hant": "誘餌球",
+  "fr": "Appât Ball",
+  "de": "Köderball",
+  "es": "Cebo Ball",
+  "it": "Esca Ball",
+  "en": "Lure Ball",
+  "ja": "ルアーボール",
+  "zh-hans": "诱饵球",
+  "es-419": "Señuelobola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "3× plus efficace en pêchant. Fait à partir de Noigrume Blu.",
+  "en": "3× effectiveness while fishing. Made from Blu Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that is good for catching Pokémon that you reel in with a rod while out fishing.",
+  "ko": "낚싯대로 낚아 올린 포켓몬이라면 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "つりざおで つりあげた ポケモンだと 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

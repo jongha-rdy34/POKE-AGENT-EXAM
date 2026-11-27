@@ -1,0 +1,28 @@
+{
+ "name": "tm03",
+ "names": {
+  "ja-hrkt": "わざマシン０３",
+  "ko": "기술머신03",
+  "zh-hant": "招式學習器０３",
+  "fr": "CT03",
+  "de": "TM03",
+  "es": "MT03",
+  "it": "MT03",
+  "en": "TM03",
+  "ja": "わざマシン０３",
+  "zh-hans": "招式学习器０３",
+  "es-419": "MT03"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Choc Psy à un Pokémon compatible. (Gén IV & III: Vibraqua Gén II: Malédiction Gén I: Danse Lames)",
+  "en": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)"
+ },
+ "flavor": {
+  "en": "The target is punched with a fiery fist. This may also leave the target with a burn.",
+  "ko": "불꽃을 담은 펀치로 상대를 공격한다. 화상 상태로 만들 때가 있다.",
+  "ja": "炎を こめた パンチで 相手を 攻撃する。 やけど状態に することが ある。"
+ }
+}

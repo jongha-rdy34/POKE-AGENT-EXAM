@@ -1,0 +1,31 @@
+{
+ "name": "meteor-beam",
+ "names": {
+  "ja-hrkt": "メテオビーム",
+  "ko": "메테오빔",
+  "zh-hant": "流星光束",
+  "fr": "Laser Météore",
+  "de": "Meteorstrahl",
+  "es": "Rayo Meteórico",
+  "it": "Raggiometeora",
+  "en": "Meteor Beam",
+  "ja": "メテオビーム",
+  "zh-hans": "流星光束",
+  "es-419": "Rayo Meteórico"
+ },
+ "type": "rock",
+ "category": "special",
+ "power": 120,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Requires a turn to charge before attacking. Raises the users Special Attack by 1 stage after the first turn."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "1턴째에 우주의 힘을 모아서 특수공격을 올리고 2턴째에 상대를 공격한다.",
+  "en": "The user gathers energy from space and boosts its Sp. Atk stat on the first turn, then attacks on the next turn."
+ }
+}

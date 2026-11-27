@@ -1,0 +1,20 @@
+{
+ "name": "dreepy-powder",
+ "names": {
+  "ja-hrkt": "ドラメシヤのこな",
+  "ko": "드라꼰의가루",
+  "zh-hant": "多龍梅西亞的粉",
+  "fr": "Poudre de Fantyrm",
+  "de": "Grolldra-Puder",
+  "es": "Polvo de Dreepy",
+  "it": "Polvere di Dreepy",
+  "en": "Dreepy Powder",
+  "ja": "ドラメシヤのこな",
+  "zh-hans": "多龙梅西亚的粉"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

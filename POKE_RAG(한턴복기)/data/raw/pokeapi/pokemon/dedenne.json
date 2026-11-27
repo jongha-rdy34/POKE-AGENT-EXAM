@@ -1,0 +1,86 @@
+{
+ "id": 702,
+ "name": "dedenne",
+ "species": "dedenne",
+ "is_default": true,
+ "types": [
+  "electric",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 67,
+  "attack": 58,
+  "defense": 57,
+  "special-attack": 81,
+  "special-defense": 67,
+  "speed": 101
+ },
+ "abilities": [
+  {
+   "name": "cheek-pouch",
+   "hidden": false
+  },
+  {
+   "name": "pickup",
+   "hidden": false
+  },
+  {
+   "name": "plus",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 22,
+ "champions_moves": [
+  "agility",
+  "charge",
+  "charge-beam",
+  "charm",
+  "covet",
+  "dazzling-gleam",
+  "dig",
+  "discharge",
+  "draining-kiss",
+  "eerie-impulse",
+  "electric-terrain",
+  "electro-ball",
+  "electroweb",
+  "endeavor",
+  "endure",
+  "entrainment",
+  "facade",
+  "fling",
+  "giga-impact",
+  "grass-knot",
+  "helping-hand",
+  "hyper-beam",
+  "iron-tail",
+  "light-screen",
+  "magnet-rise",
+  "misty-terrain",
+  "nuzzle",
+  "parabolic-charge",
+  "play-rough",
+  "protect",
+  "rain-dance",
+  "rest",
+  "rising-voltage",
+  "round",
+  "seed-bomb",
+  "sleep-talk",
+  "snore",
+  "substitute",
+  "sunny-day",
+  "super-fang",
+  "tearful-look",
+  "thief",
+  "thunder",
+  "thunder-punch",
+  "thunder-wave",
+  "thunderbolt",
+  "trailblaze",
+  "u-turn",
+  "volt-switch",
+  "wild-charge"
+ ]
+}

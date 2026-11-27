@@ -1,0 +1,20 @@
+{
+ "name": "magearnite",
+ "names": {
+  "ko": "마기아나이트",
+  "zh-hant": "瑪機雅娜進化石",
+  "fr": "Magearnite",
+  "de": "Magearnanit",
+  "es": "Magearnita",
+  "it": "Magearnite",
+  "en": "Magearnite",
+  "ja": "マギアナイト",
+  "zh-hans": "玛机雅娜进化石",
+  "es-419": "Magearnita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

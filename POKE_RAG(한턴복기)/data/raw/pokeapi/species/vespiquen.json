@@ -1,0 +1,42 @@
+{
+ "id": 416,
+ "name": "vespiquen",
+ "names": {
+  "ja-hrkt": "ビークイン",
+  "ja-roma": "Beequen",
+  "ko": "비퀸",
+  "zh-hant": "蜂女王",
+  "fr": "Apireine",
+  "de": "Honweisel",
+  "es": "Vespiquen",
+  "it": "Vespiquen",
+  "en": "Vespiquen",
+  "ja": "ビークイン",
+  "zh-hans": "蜂女王",
+  "es-419": "Vespiquen"
+ },
+ "genus": {
+  "ja-hrkt": "はちのすポケモン",
+  "ko": "벌집포켓몬",
+  "zh-hant": "蜂巢寶可夢",
+  "fr": "Pokémon Ruche",
+  "de": "Bienenstock-Pokémon",
+  "es": "Pokémon Colmena",
+  "it": "Pokémon Alveare",
+  "en": "Beehive Pokémon",
+  "ja": "はちのすポケモン",
+  "zh-hans": "蜂巢宝可梦",
+  "es-419": "Pokémon Colmena"
+ },
+ "flavor": {
+  "en": "Commands its subjects to build its hive. It will dispatch any interlopers who dare sneak into its nest and use them as nourishment for itself.",
+  "ko": "페로몬을 발산하는 양이 많은 비퀸일수록 많은 세꿀버리를 거느리고 있다."
+ },
+ "varieties": [
+  {
+   "name": "vespiquen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "214"
+}

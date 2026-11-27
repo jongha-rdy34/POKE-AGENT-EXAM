@@ -1,0 +1,28 @@
+{
+ "name": "z-power-ring",
+ "names": {
+  "ja-hrkt": "Ｚパワーリング",
+  "ko": "Z파워링",
+  "zh-hant": "Ｚ強力手環",
+  "fr": "Super Bracelet Z",
+  "de": "Z-Kraftring",
+  "es": "Superpulsera Z",
+  "it": "Supercerchio Z",
+  "en": "Z-Power Ring",
+  "ja": "Ｚパワーリング",
+  "zh-hans": "Ｚ强力手环",
+  "es-419": "Superpulsera Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour z-power-ring",
+  "en": "XXX new effect for z-power-ring"
+ },
+ "flavor": {
+  "ko": "트레이너의 기력과 체력을 사용해서 포켓몬이 Z파워를 발산할 수 있게 하는 신비한 팔찌.",
+  "en": "A mysterious ring that enables Pokémon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.",
+  "ja": "トレーナーの 気力 体力を 使って ポケモンが Ｚパワーを 放てるようにする 不思議な腕輪。"
+ }
+}

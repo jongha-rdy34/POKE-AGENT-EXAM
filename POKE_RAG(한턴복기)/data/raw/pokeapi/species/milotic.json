@@ -1,0 +1,42 @@
+{
+ "id": 350,
+ "name": "milotic",
+ "names": {
+  "ja-hrkt": "ミロカロス",
+  "ja-roma": "Milokaross",
+  "ko": "밀로틱",
+  "zh-hant": "美納斯",
+  "fr": "Milobellus",
+  "de": "Milotic",
+  "es": "Milotic",
+  "it": "Milotic",
+  "en": "Milotic",
+  "ja": "ミロカロス",
+  "zh-hans": "美纳斯",
+  "es-419": "Milotic"
+ },
+ "genus": {
+  "ja-hrkt": "いつくしみポケモン",
+  "ko": "사랑포켓몬",
+  "zh-hant": "慈愛寶可夢",
+  "fr": "Pokémon Tendre",
+  "de": "Zartheits-Pokémon",
+  "es": "Pokémon Tierno",
+  "it": "Pokémon Tenerezza",
+  "en": "Tender Pokémon",
+  "ja": "いつくしみポケモン",
+  "zh-hans": "慈爱宝可梦",
+  "es-419": "Pokémon Tierno"
+ },
+ "flavor": {
+  "en": "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling.",
+  "ko": "밀로틱의 아름다운 모습을 본 자는 황폐해진 마음이 치유된다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "milotic",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "178"
+}

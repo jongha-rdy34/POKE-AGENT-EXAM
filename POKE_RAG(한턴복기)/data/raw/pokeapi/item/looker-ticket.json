@@ -1,0 +1,28 @@
+{
+ "name": "looker-ticket",
+ "names": {
+  "ja-hrkt": "ハンサムチケット",
+  "ko": "핸섬티켓",
+  "zh-hant": "帥哥券",
+  "fr": "Ticket Beladonis",
+  "de": "LeBelle-Ticket",
+  "es": "Boleto Handsome",
+  "it": "Carta Bellocchio",
+  "en": "Looker Ticket",
+  "ja": "ハンサムチケット",
+  "zh-hans": "帅哥券",
+  "es-419": "Boleto Handsome"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Avance l'intrigue de Beladonis dans le postgame.",
+  "en": "Advances the Looker postgame plot."
+ },
+ "flavor": {
+  "ko": "번쩍번쩍 빛나는 스프레이가 뿌려진 핸섬이 직접 만든 티켓.",
+  "en": "A ticket that was handmade by Looker. It’s decorated with a liberal amount of glittery paint.",
+  "ja": "きらきら かがやく 塗料が 吹きつけられた ハンサム てづくりの チケット。"
+ }
+}

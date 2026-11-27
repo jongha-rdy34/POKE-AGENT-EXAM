@@ -1,0 +1,46 @@
+{
+ "id": 738,
+ "name": "vikavolt",
+ "names": {
+  "ja-hrkt": "クワガノン",
+  "ja-roma": "Kuwagannon",
+  "ko": "투구뿌논",
+  "zh-hant": "鍬農炮蟲",
+  "fr": "Lucanon",
+  "de": "Donarion",
+  "es": "Vikavolt",
+  "it": "Vikavolt",
+  "en": "Vikavolt",
+  "ja": "クワガノン",
+  "zh-hans": "锹农炮虫",
+  "es-419": "Vikavolt"
+ },
+ "genus": {
+  "ja-hrkt": "くわがたポケモン",
+  "ko": "뿔집게포켓몬",
+  "zh-hant": "鍬形蟲寶可夢",
+  "fr": "Pokémon Scarabée",
+  "de": "Kneifkäfer-Pokémon",
+  "es": "Pokémon Escarabajo",
+  "it": "Pokémon Cervolante",
+  "en": "Stag Beetle Pokémon",
+  "ja": "くわがたポケモン",
+  "zh-hans": "锹形虫宝可梦",
+  "es-419": "Pokémon Escarabajo"
+ },
+ "flavor": {
+  "ko": "예비 배터리로서 전지충이를 안고 날면 높은 전력의 전자빔을 연사할 수 있다.",
+  "en": "If it carries a Charjabug to use as a spare battery, a flying Vikavolt can rapidly fire high-powered beams of electricity."
+ },
+ "varieties": [
+  {
+   "name": "vikavolt",
+   "is_default": true
+  },
+  {
+   "name": "vikavolt-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "379"
+}

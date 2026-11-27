@@ -1,0 +1,23 @@
+{
+ "name": "greninja-ash",
+ "form_name": "ash",
+ "names": {
+  "fr": "Amphinobi Forme Sacha",
+  "de": "Ash Quajutsu",
+  "en": "Ash’s Greninja"
+ },
+ "form_names": {
+  "ja-hrkt": "サトシゲッコウガ",
+  "ko": "지우개굴닌자",
+  "zh-hant": "小智版甲賀忍蛙",
+  "fr": "Forme Sacha",
+  "de": "Ash-Form",
+  "es": "Forma Ash",
+  "it": "Forma Ash",
+  "en": "Ash-Greninja",
+  "ja": "サトシゲッコウガ",
+  "zh-hans": "小智版甲贺忍蛙",
+  "es-419": "Forma Ash"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,42 @@
+{
+ "id": 626,
+ "name": "bouffalant",
+ "names": {
+  "ja-hrkt": "バッフロン",
+  "ja-roma": "Buffron",
+  "ko": "버프론",
+  "zh-hant": "爆炸頭水牛",
+  "fr": "Frison",
+  "de": "Bisofank",
+  "es": "Bouffalant",
+  "it": "Bouffalant",
+  "en": "Bouffalant",
+  "ja": "バッフロン",
+  "zh-hans": "爆炸头水牛",
+  "es-419": "Bouffalant"
+ },
+ "genus": {
+  "ja-hrkt": "ずつきうしポケモン",
+  "ko": "박치기소포켓몬",
+  "zh-hant": "頭錘牛寶可夢",
+  "fr": "Pokémon Coup d’Bœuf",
+  "de": "Kopfstoßrind-Pokémon",
+  "es": "Pokémon Torocabezazo",
+  "it": "Pokémon Sfondatoro",
+  "en": "Bash Buffalo Pokémon",
+  "ja": "ずつきうしポケモン",
+  "zh-hans": "头锤牛宝可梦",
+  "es-419": "Pokémon Torocabezazo"
+ },
+ "flavor": {
+  "en": "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.",
+  "ko": "20마리 정도가 무리 지어 산다. 무리를 배신한 버프론은 어째서인지 머리털이 빠진다."
+ },
+ "varieties": [
+  {
+   "name": "bouffalant",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "318"
+}

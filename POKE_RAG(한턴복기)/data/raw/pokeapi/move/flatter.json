@@ -1,0 +1,31 @@
+{
+ "name": "flatter",
+ "names": {
+  "ja-hrkt": "おだてる",
+  "ko": "부추기기",
+  "zh-hant": "吹捧",
+  "fr": "Flatterie",
+  "de": "Schmeichler",
+  "es": "Camelo",
+  "it": "Adulazione",
+  "en": "Flatter",
+  "ja": "おだてる",
+  "zh-hans": "吹捧",
+  "es-419": "Halago"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Raises the target’s Special Attack by one stage and confuses the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat.",
+  "ko": "상대를 부추겨서 혼란시킨다. 동시에 상대의 특수공격도 올라가 버린다."
+ }
+}

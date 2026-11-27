@@ -1,0 +1,82 @@
+{
+ "id": 972,
+ "name": "houndstone",
+ "species": "houndstone",
+ "is_default": true,
+ "types": [
+  "ghost"
+ ],
+ "stats": {
+  "hp": 72,
+  "attack": 101,
+  "defense": 100,
+  "special-attack": 50,
+  "special-defense": 97,
+  "speed": 68
+ },
+ "abilities": [
+  {
+   "name": "sand-rush",
+   "hidden": false
+  },
+  {
+   "name": "fluffy",
+   "hidden": true
+  }
+ ],
+ "height": 20,
+ "weight": 150,
+ "champions_moves": [
+  "ally-switch",
+  "bite",
+  "body-press",
+  "charm",
+  "confuse-ray",
+  "crunch",
+  "destiny-bond",
+  "dig",
+  "disable",
+  "double-edge",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-fang",
+  "giga-impact",
+  "helping-hand",
+  "hex",
+  "howl",
+  "hyper-beam",
+  "ice-fang",
+  "last-respects",
+  "memento",
+  "mud-shot",
+  "mud-slap",
+  "night-shade",
+  "pain-split",
+  "phantom-force",
+  "play-rough",
+  "poltergeist",
+  "protect",
+  "psychic-fangs",
+  "rain-dance",
+  "rest",
+  "roar",
+  "sandstorm",
+  "scary-face",
+  "shadow-ball",
+  "shadow-sneak",
+  "sleep-talk",
+  "snarl",
+  "stomping-tantrum",
+  "substitute",
+  "sunny-day",
+  "swagger",
+  "thief",
+  "thunder-fang",
+  "trick",
+  "uproar",
+  "will-o-wisp",
+  "yawn",
+  "zen-headbutt"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "name": "duskull-fragment",
+ "names": {
+  "ja-hrkt": "ヨマワルのかけら",
+  "ko": "해골몽의조각",
+  "zh-hant": "夜巡靈的碎片",
+  "fr": "Fragment de Skelénox",
+  "de": "Zwirrlicht-Splitter",
+  "es": "Fragmento de Duskull",
+  "it": "Frammento di Duskull",
+  "en": "Duskull Fragment",
+  "ja": "ヨマワルのかけら",
+  "zh-hans": "夜巡灵的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

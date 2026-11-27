@@ -1,0 +1,46 @@
+{
+ "id": 227,
+ "name": "skarmory",
+ "names": {
+  "ja-hrkt": "エアームド",
+  "ja-roma": "Airmd",
+  "ko": "무장조",
+  "zh-hant": "盔甲鳥",
+  "fr": "Airmure",
+  "de": "Panzaeron",
+  "es": "Skarmory",
+  "it": "Skarmory",
+  "en": "Skarmory",
+  "ja": "エアームド",
+  "zh-hans": "盔甲鸟",
+  "es-419": "Skarmory"
+ },
+ "genus": {
+  "ja-hrkt": "よろいどりポケモン",
+  "ko": "갑옷새포켓몬",
+  "zh-hant": "鋼甲鳥寶可夢",
+  "fr": "Pokémon Armoiseau",
+  "de": "Flugstahl-Pokémon",
+  "es": "Pokémon Coraza Ave",
+  "it": "Pokémon Armuccello",
+  "en": "Armor Bird Pokémon",
+  "ja": "よろいどりポケモン",
+  "zh-hans": "钢甲鸟宝可梦",
+  "es-419": "Pokémon Coraza Ave"
+ },
+ "flavor": {
+  "en": "People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs.",
+  "ko": "빠진 깃털로 검을 만들 수 있어서 문장 도안으로 인기가 많다."
+ },
+ "varieties": [
+  {
+   "name": "skarmory",
+   "is_default": true
+  },
+  {
+   "name": "skarmory-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "117"
+}

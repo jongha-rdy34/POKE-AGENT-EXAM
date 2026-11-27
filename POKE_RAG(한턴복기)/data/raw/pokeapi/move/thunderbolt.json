@@ -1,0 +1,31 @@
+{
+ "name": "thunderbolt",
+ "names": {
+  "ja-hrkt": "１０まんボルト",
+  "ko": "10만볼트",
+  "zh-hant": "十萬伏特",
+  "fr": "Tonnerre",
+  "de": "Donnerblitz",
+  "es": "Rayo",
+  "it": "Fulmine",
+  "en": "Thunderbolt",
+  "ja": "１０まんボルト",
+  "zh-hans": "十万伏特",
+  "es-419": "Atactrueno"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user attacks the target with a strong electric blast. This may also leave the target with paralysis.",
+  "ko": "강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

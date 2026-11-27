@@ -1,0 +1,23 @@
+{
+ "name": "surge-surfer",
+ "names": {
+  "ja-hrkt": "サーフテール",
+  "ko": "서핑테일",
+  "zh-hant": "衝浪之尾",
+  "fr": "Surf Caudal",
+  "de": "Surf-Schweif",
+  "es": "Cola Surf",
+  "it": "Codasurf",
+  "en": "Surge Surfer",
+  "ja": "サーフテール",
+  "zh-hans": "冲浪之尾",
+  "es-419": "Cola Surf"
+ },
+ "effect": {
+  "en": "Doubles this Pokémon's Speed on Electric Terrain."
+ },
+ "flavor": {
+  "ko": "일렉트릭필드일 때 스피드가 2배가 된다.",
+  "en": "Doubles the Pokémon's Speed stat on Electric Terrain."
+ }
+}

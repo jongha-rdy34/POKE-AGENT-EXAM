@@ -1,0 +1,20 @@
+{
+ "name": "smoked-fillet",
+ "names": {
+  "ja-hrkt": "スモークきりみ",
+  "ko": "훈제토막",
+  "zh-hant": "煙燻魚片",
+  "fr": "Filet Fumé",
+  "de": "Räucherfilet",
+  "es": "Filete Ahumado",
+  "it": "Filetto affumicato",
+  "en": "Smoked Fillet",
+  "ja": "スモークきりみ",
+  "zh-hans": "烟熏鱼片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

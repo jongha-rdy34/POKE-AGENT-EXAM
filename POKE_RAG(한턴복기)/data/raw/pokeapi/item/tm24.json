@@ -1,0 +1,28 @@
+{
+ "name": "tm24",
+ "names": {
+  "ja-hrkt": "わざマシン２４",
+  "ko": "기술머신24",
+  "zh-hant": "招式學習器２４",
+  "fr": "CT24",
+  "de": "TM24",
+  "es": "MT24",
+  "it": "MT24",
+  "en": "TM24",
+  "ja": "わざマシン２４",
+  "zh-hans": "招式学习器２４",
+  "es-419": "MT24"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Tonnerre à un Pokémon compatible. (Gén II: Draco-Souffle)",
+  "en": "Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)"
+ },
+ "flavor": {
+  "en": "This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.",
+  "ko": "자신이 잠들어 있을 때 소음을 내어 공격한다. 상대를 풀죽게 만들 때가 있다.",
+  "ja": "自分が 寝ているときに 雑音を だして 攻撃する。 相手を ひるませることが ある。"
+ }
+}

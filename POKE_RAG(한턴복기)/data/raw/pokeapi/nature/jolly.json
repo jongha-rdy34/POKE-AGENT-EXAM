@@ -1,0 +1,18 @@
+{
+ "name": "jolly",
+ "names": {
+  "ja-hrkt": "ようき",
+  "ko": "명랑",
+  "zh-hant": "爽朗",
+  "fr": "Jovial",
+  "de": "Froh",
+  "es": "Alegre",
+  "it": "Allegra",
+  "en": "Jolly",
+  "ja": "ようき",
+  "zh-hans": "爽朗",
+  "es-419": "Alegre"
+ },
+ "plus": "speed",
+ "minus": "special-attack"
+}

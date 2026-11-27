@@ -1,0 +1,42 @@
+{
+ "id": 598,
+ "name": "ferrothorn",
+ "names": {
+  "ja-hrkt": "ナットレイ",
+  "ja-roma": "Nutrey",
+  "ko": "너트령",
+  "zh-hant": "堅果啞鈴",
+  "fr": "Noacier",
+  "de": "Tentantel",
+  "es": "Ferrothorn",
+  "it": "Ferrothorn",
+  "en": "Ferrothorn",
+  "ja": "ナットレイ",
+  "zh-hans": "坚果哑铃",
+  "es-419": "Ferrothorn"
+ },
+ "genus": {
+  "ja-hrkt": "とげだまポケモン",
+  "ko": "가시공포켓몬",
+  "zh-hant": "刺球寶可夢",
+  "fr": "Pokémon Boule Épine",
+  "de": "Dornkugel-Pokémon",
+  "es": "Pokémon Bola Espina",
+  "it": "Pokémon Spinasfere",
+  "en": "Thorn Pod Pokémon",
+  "ja": "とげだまポケモン",
+  "zh-hans": "刺球宝可梦",
+  "es-419": "Pokémon Bola Espina"
+ },
+ "flavor": {
+  "en": "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.",
+  "ko": "강철보다 견고한 가시를 갖고 있다. 촉수 가시를 찔러서 바위 벽을 기어 다니며 이동한다."
+ },
+ "varieties": [
+  {
+   "name": "ferrothorn",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "304"
+}

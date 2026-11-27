@@ -1,0 +1,20 @@
+{
+ "name": "tm141",
+ "names": {
+  "ja-hrkt": "わざマシン１４１",
+  "ko": "기술머신141",
+  "zh-hant": "招式學習器１４１",
+  "fr": "CT141",
+  "de": "TM141",
+  "es": "MT141",
+  "it": "MT141",
+  "en": "TM141",
+  "ja": "わざマシン１４１",
+  "zh-hans": "招式学习器１４１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

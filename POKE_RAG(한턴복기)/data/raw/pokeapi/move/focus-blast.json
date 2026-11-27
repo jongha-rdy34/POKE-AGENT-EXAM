@@ -1,0 +1,31 @@
+{
+ "name": "focus-blast",
+ "names": {
+  "ja-hrkt": "きあいだま",
+  "ko": "기합구슬",
+  "zh-hant": "真氣彈",
+  "fr": "Exploforce",
+  "de": "Fokusstoß",
+  "es": "Onda Certera",
+  "it": "Focalcolpo",
+  "en": "Focus Blast",
+  "ja": "きあいだま",
+  "zh-hans": "真气弹",
+  "es-419": "Ataque Centrado"
+ },
+ "type": "fighting",
+ "category": "special",
+ "power": 120,
+ "accuracy": 70,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Defense by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat.",
+  "ko": "기합을 높여서 혼신의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다."
+ }
+}

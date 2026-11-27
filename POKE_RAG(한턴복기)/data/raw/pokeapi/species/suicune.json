@@ -1,0 +1,42 @@
+{
+ "id": 245,
+ "name": "suicune",
+ "names": {
+  "ja-hrkt": "スイクン",
+  "ja-roma": "Suicune",
+  "ko": "스이쿤",
+  "zh-hant": "水君",
+  "fr": "Suicune",
+  "de": "Suicune",
+  "es": "Suicune",
+  "it": "Suicune",
+  "en": "Suicune",
+  "ja": "スイクン",
+  "zh-hans": "水君",
+  "es-419": "Suicune"
+ },
+ "genus": {
+  "ja-hrkt": "オーロラポケモン",
+  "ko": "오로라포켓몬",
+  "zh-hant": "極光寶可夢",
+  "fr": "Pokémon Aurore",
+  "de": "Polarlicht-Pokémon",
+  "es": "Pokémon Aurora",
+  "it": "Pokémon Aurora",
+  "en": "Aurora Pokémon",
+  "ja": "オーロラポケモン",
+  "zh-hans": "极光宝可梦",
+  "es-419": "Pokémon Aurora"
+ },
+ "flavor": {
+  "en": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
+  "ko": "솟아나는 물의 부드러움이 깃들어 있는 포켓몬이다. 흐르는 듯한 몸놀림으로 대지를 달려 탁해진 물을 맑게 하는 힘을 지녔다."
+ },
+ "varieties": [
+  {
+   "name": "suicune",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "125"
+}

@@ -1,0 +1,22 @@
+{
+ "name": "lagigaton-ball",
+ "names": {
+  "ko": "기가톤볼",
+  "zh-hant": "巨重球",
+  "fr": "Gigamasse Ball",
+  "de": "Tonnenball",
+  "es": "Quintal Ball",
+  "it": "Gigaton Ball",
+  "en": "Gigaton Ball",
+  "ja": "ギガトンボール",
+  "zh-hans": "巨重球",
+  "es-419": "Quintalbola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Upgraded version of the Leaden Ball. Doesn't fly far, but is more effective if the Pokémon hasn't noticed the player."
+ }
+}

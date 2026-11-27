@@ -1,0 +1,20 @@
+{
+ "name": "spiritomb-fragment",
+ "names": {
+  "ja-hrkt": "ミカルゲのかけら",
+  "ko": "화강돌의조각",
+  "zh-hant": "花岩怪的碎片",
+  "fr": "Fragment de Spiritomb",
+  "de": "Kryppuk-Splitter",
+  "es": "Fragmento de Spiritomb",
+  "it": "Frammento di Spiritomb",
+  "en": "Spiritomb Fragment",
+  "ja": "ミカルゲのかけら",
+  "zh-hans": "花岩怪的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

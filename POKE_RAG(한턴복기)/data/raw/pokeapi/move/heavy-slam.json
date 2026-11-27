@@ -1,0 +1,31 @@
+{
+ "name": "heavy-slam",
+ "names": {
+  "ja-hrkt": "ヘビーボンバー",
+  "ko": "헤비봄버",
+  "zh-hant": "重磅衝撞",
+  "fr": "Tacle Lourd",
+  "de": "Rammboss",
+  "es": "Cuerpo Pesado",
+  "it": "Pesobomba",
+  "en": "Heavy Slam",
+  "ja": "ヘビーボンバー",
+  "zh-hans": "重磅冲撞",
+  "es-419": "Golpe Pesado"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power.",
+  "ko": "무거운 몸으로 상대에게 부딪쳐 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다."
+ }
+}

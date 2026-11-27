@@ -1,0 +1,31 @@
+{
+ "name": "light-of-ruin",
+ "names": {
+  "ja-hrkt": "はめつのひかり",
+  "ko": "파멸의빛",
+  "zh-hant": "破滅之光",
+  "fr": "Lumière du Néant",
+  "de": "Lux Calamitatis",
+  "es": "Luz Aniquiladora",
+  "it": "Luce Nefasta",
+  "en": "Light of Ruin",
+  "ja": "はめつのひかり",
+  "zh-hans": "破灭之光",
+  "es-419": "Luz Aniquiladora"
+ },
+ "type": "fairy",
+ "category": "special",
+ "power": 140,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User receives 1/2 the damage inflicted in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "영원의 꽃의 파워를 빌려서 강력한 광선을 쏜다. 자신도 상당한 데미지를 입는다.",
+  "en": "Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot."
+ }
+}

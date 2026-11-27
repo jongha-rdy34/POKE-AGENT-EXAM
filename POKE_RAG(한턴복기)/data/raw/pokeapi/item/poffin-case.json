@@ -1,0 +1,28 @@
+{
+ "name": "poffin-case",
+ "names": {
+  "ja-hrkt": "ポフィンケース",
+  "ko": "포핀케이스",
+  "zh-hant": "寶芬盒",
+  "fr": "Boîte Poffin",
+  "de": "Knurspbox",
+  "es": "Pokochera",
+  "it": "Portapoffin",
+  "en": "Poffin Case",
+  "ja": "ポフィンケース",
+  "zh-hans": "宝芬盒",
+  "es-419": "Pokochera"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les Poffins.",
+  "en": "Holds Poffins."
+ },
+ "flavor": {
+  "en": "A case for storing Poffins cooked from Berries.",
+  "ko": "요리로 만든 포핀을 보존하는 용기.",
+  "ja": "お料理で つくった ポフィンを 保存する いれもの。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "kommonium-z--held",
+ "names": {
+  "ja-hrkt": "ジャラランガＺ",
+  "ko": "짜랑고우거Z",
+  "zh-hant": "杖尾鱗甲龍Ｚ",
+  "fr": "Ékaïzélite",
+  "de": "Grandirasium Z",
+  "es": "Kommostal Z",
+  "it": "Kommonium Z",
+  "en": "Kommonium Z",
+  "ja": "ジャラランガＺ",
+  "zh-hans": "杖尾鳞甲龙Ｚ",
+  "es-419": "Kommostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour kommonium-z--held",
+  "en": "XXX new effect for kommonium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 짜랑고우거의 스케일노이즈를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Kommo-o’s Clanging Scales to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ジャラランガの スケイルノイズを Ｚワザに グレードアップする。"
+ }
+}

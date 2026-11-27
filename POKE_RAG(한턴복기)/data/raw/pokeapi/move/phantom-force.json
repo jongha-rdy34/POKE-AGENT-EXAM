@@ -1,0 +1,31 @@
+{
+ "name": "phantom-force",
+ "names": {
+  "ja-hrkt": "ゴーストダイブ",
+  "ko": "고스트다이브",
+  "zh-hant": "潛靈奇襲",
+  "fr": "Hantise",
+  "de": "Phantomkraft",
+  "es": "Golpe Fantasma",
+  "it": "Spettrotuffo",
+  "en": "Phantom Force",
+  "ja": "ゴーストダイブ",
+  "zh-hans": "潜灵奇袭",
+  "es-419": "Golpe Fantasma"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "1턴째에 어디론가 사라져서 2턴째에 상대를 공격한다. 기술 방어를 무시하고 공격할 수 있다.",
+  "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+ }
+}

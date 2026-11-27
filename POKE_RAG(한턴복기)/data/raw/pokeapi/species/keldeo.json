@@ -1,0 +1,46 @@
+{
+ "id": 647,
+ "name": "keldeo",
+ "names": {
+  "ja-hrkt": "ケルディオ",
+  "ja-roma": "Keldeo",
+  "ko": "케르디오",
+  "zh-hant": "凱路迪歐",
+  "fr": "Keldeo",
+  "de": "Keldeo",
+  "es": "Keldeo",
+  "it": "Keldeo",
+  "en": "Keldeo",
+  "ja": "ケルディオ",
+  "zh-hans": "凯路迪欧",
+  "es-419": "Keldeo"
+ },
+ "genus": {
+  "ja-hrkt": "わかごまポケモン",
+  "ko": "망아지포켓몬",
+  "zh-hant": "幼馬寶可夢",
+  "fr": "Pokémon Poulain",
+  "de": "Fohlen-Pokémon",
+  "es": "Pokémon Potro",
+  "it": "Pokémon Puledro",
+  "en": "Colt Pokémon",
+  "ja": "わかごまポケモン",
+  "zh-hans": "幼马宝可梦",
+  "es-419": "Pokémon Potro"
+ },
+ "flavor": {
+  "en": "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken.",
+  "ko": "혹독한 싸움을 이겨내고 이마의 뿔이 단련되면 진정한 힘이 각성한다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "keldeo-ordinary",
+   "is_default": true
+  },
+  {
+   "name": "keldeo-resolute",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "334"
+}

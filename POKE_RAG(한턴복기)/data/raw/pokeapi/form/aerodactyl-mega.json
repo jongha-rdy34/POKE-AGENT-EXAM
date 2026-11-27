@@ -1,0 +1,23 @@
+{
+ "name": "aerodactyl-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Ptéra",
+  "de": "Mega-Aerodactyl",
+  "en": "Mega Aerodactyl"
+ },
+ "form_names": {
+  "ja-hrkt": "メガプテラ",
+  "ko": "메가프테라",
+  "zh-hant": "超級化石翼龍",
+  "fr": "Méga-Ptéra",
+  "de": "Mega-Form",
+  "es": "Mega-Aerodactyl",
+  "it": "MegaAerodactyl",
+  "en": "Mega Aerodactyl",
+  "ja": "メガプテラ",
+  "zh-hans": "超级化石翼龙",
+  "es-419": "Mega-Aerodactyl"
+ },
+ "is_mega": true
+}

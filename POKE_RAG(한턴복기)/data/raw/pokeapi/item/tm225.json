@@ -1,0 +1,19 @@
+{
+ "name": "tm225",
+ "names": {
+  "ko": "기술머신225",
+  "zh-hant": "招式學習器２２５",
+  "fr": "CT225",
+  "de": "TM225",
+  "es": "MT225",
+  "it": "MT225",
+  "en": "TM225",
+  "ja": "わざマシン２２５",
+  "zh-hans": "招式学习器２２５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

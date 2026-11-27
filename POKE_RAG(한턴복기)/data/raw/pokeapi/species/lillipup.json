@@ -1,0 +1,42 @@
+{
+ "id": 506,
+ "name": "lillipup",
+ "names": {
+  "ja-hrkt": "ヨーテリー",
+  "ja-roma": "Yorterrie",
+  "ko": "요테리",
+  "zh-hant": "小約克",
+  "fr": "Ponchiot",
+  "de": "Yorkleff",
+  "es": "Lillipup",
+  "it": "Lillipup",
+  "en": "Lillipup",
+  "ja": "ヨーテリー",
+  "zh-hans": "小约克",
+  "es-419": "Lillipup"
+ },
+ "genus": {
+  "ja-hrkt": "こいぬポケモン",
+  "ko": "강아지포켓몬",
+  "zh-hant": "小狗寶可夢",
+  "fr": "Pokémon Chiot",
+  "de": "Welpen-Pokémon",
+  "es": "Pokémon Perrito",
+  "it": "Pokémon Cagnolino",
+  "en": "Puppy Pokémon",
+  "ja": "こいぬポケモン",
+  "zh-hans": "小狗宝可梦",
+  "es-419": "Pokémon Perrito"
+ },
+ "flavor": {
+  "en": "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers.",
+  "ko": "또래의 아이보다 훨씬 영리하다. 사랑받은 것도 혼난 것도 잊지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "lillipup",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "260"
+}

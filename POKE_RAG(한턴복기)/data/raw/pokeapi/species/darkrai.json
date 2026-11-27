@@ -1,0 +1,46 @@
+{
+ "id": 491,
+ "name": "darkrai",
+ "names": {
+  "ja-hrkt": "ダークライ",
+  "ja-roma": "Darkrai",
+  "ko": "다크라이",
+  "zh-hant": "達克萊伊",
+  "fr": "Darkrai",
+  "de": "Darkrai",
+  "es": "Darkrai",
+  "it": "Darkrai",
+  "en": "Darkrai",
+  "ja": "ダークライ",
+  "zh-hans": "达克莱伊",
+  "es-419": "Darkrai"
+ },
+ "genus": {
+  "ja-hrkt": "あんこくポケモン",
+  "ko": "암흑포켓몬",
+  "zh-hant": "暗黑寶可夢",
+  "fr": "Pokémon Noirtotal",
+  "de": "Dunkelnacht",
+  "es": "Pokémon Oscuridad",
+  "it": "Pokémon Neropesto",
+  "en": "Pitch-Black Pokémon",
+  "ja": "あんこくポケモン",
+  "zh-hans": "暗黑宝可梦",
+  "es-419": "Pokémon Oscuridad"
+ },
+ "flavor": {
+  "en": "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares.",
+  "ko": "사람들을 깊은 잠으로 끌어들여 꿈을 꾸게 하는 능력을 가지고 있다. 그믐달이 뜨는 밤에 활동한다."
+ },
+ "varieties": [
+  {
+   "name": "darkrai",
+   "is_default": true
+  },
+  {
+   "name": "darkrai-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "252"
+}

@@ -1,0 +1,33 @@
+{
+ "name": "dire-hit",
+ "names": {
+  "ja-hrkt": "クリティカット",
+  "ko": "크리티컬커터",
+  "zh-hant": "要害攻擊",
+  "fr": "Muscle +",
+  "de": "X-Volltreffer",
+  "es": "Crítico X",
+  "it": "Supercolpo",
+  "en": "Dire Hit",
+  "ja": "クリティカット",
+  "zh-hans": "要害攻击",
+  "es-419": "Crítico X"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente les chances de coup critique en combat. Augmente le bonheur.",
+  "en": "Increases the chance of a critical hit in battle.  Raises happiness."
+ },
+ "flavor": {
+  "en": "An item that greatly raises the critical-hit ratio of a Pokémon during a battle. It can be used only once and wears off if the Pokémon is withdrawn.",
+  "ko": "급소 명중률이 크게 올라간다. 한 번밖에 쓸 수 없다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "急所率が 大きく あがる。 １度しか 使うことが できない。 ひっこめると 元に 戻る。"
+ }
+}

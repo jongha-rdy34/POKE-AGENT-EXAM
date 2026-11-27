@@ -1,0 +1,25 @@
+{
+ "name": "wishing-star",
+ "names": {
+  "ja-hrkt": "ねがいぼし",
+  "ko": "소원의별",
+  "zh-hant": "許願星",
+  "fr": "Étoile Vœu",
+  "de": "Wunschstern",
+  "es": "Estrella Deseo",
+  "it": "Desiostella",
+  "en": "Wishing Star",
+  "ja": "ねがいぼし",
+  "zh-hans": "许愿星",
+  "es-419": "Estrella Deseo"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "가라르지방에서 발견되는 신비한 힘을 간직하고 있는 돌. 주우면 소원이 이루어진다고도 전해진다.",
+  "en": "A stone found in the Galar region with a mysterious power. It’s said that your dreams come true if you find one.",
+  "ja": "ガラル地方で みつかる 不思議な パワーを 秘めている 石。拾うと 願いが 叶うとも いわれている。"
+ }
+}

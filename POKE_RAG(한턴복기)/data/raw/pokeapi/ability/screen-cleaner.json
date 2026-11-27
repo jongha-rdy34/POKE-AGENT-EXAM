@@ -1,0 +1,23 @@
+{
+ "name": "screen-cleaner",
+ "names": {
+  "ja-hrkt": "バリアフリー",
+  "ko": "배리어프리",
+  "zh-hant": "除障",
+  "fr": "Brise-Barrière",
+  "de": "Hemmungslos",
+  "es": "Antibarrera",
+  "it": "Annullabarriere",
+  "en": "Screen Cleaner",
+  "ja": "バリアフリー",
+  "zh-hans": "除障",
+  "es-419": "Antibarrera"
+ },
+ "effect": {
+  "en": "Nullifies effects of Light Screen, Reflect, and Aurora Veil."
+ },
+ "flavor": {
+  "ko": "등장했을 때 상대와 같은 편의 빛의장막, 리플렉터, 오로라베일의 효과가 사라진다.",
+  "en": "When the Pokémon enters a battle, the effects of Light Screen, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."
+ }
+}

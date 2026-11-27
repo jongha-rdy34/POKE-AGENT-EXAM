@@ -1,0 +1,20 @@
+{
+ "name": "cetoddle-grease",
+ "names": {
+  "ja-hrkt": "アルクジラのあぶら",
+  "ko": "터벅고래의기름",
+  "zh-hant": "走鯨的油脂",
+  "fr": "Graisse de Piétacé",
+  "de": "Flaniwal-Fett",
+  "es": "Grasa de Cetoddle",
+  "it": "Grasso di Cetoddle",
+  "en": "Cetoddle Grease",
+  "ja": "アルクジラのあぶら",
+  "zh-hans": "走鲸的油脂"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "normalium-z--bag",
+ "names": {
+  "ja-hrkt": "ノーマルＺ",
+  "ko": "노말Z",
+  "zh-hant": "一般Ｚ",
+  "fr": "Normazélite",
+  "de": "Normium Z",
+  "es": "Normastal Z",
+  "it": "Normium Z",
+  "en": "Normalium Z",
+  "ja": "ノーマルＺ",
+  "zh-hans": "一般Ｚ",
+  "es-419": "Normastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour normalium-z--bag",
+  "en": "XXX new effect for normalium-z--bag"
+ },
+ "flavor": {
+  "ko": "노말타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Normal-type moves to Normal-type Z-Moves.",
+  "ja": "ノーマルタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

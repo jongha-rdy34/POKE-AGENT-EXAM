@@ -1,0 +1,42 @@
+{
+ "id": 377,
+ "name": "regirock",
+ "names": {
+  "ja-hrkt": "レジロック",
+  "ja-roma": "Regirock",
+  "ko": "레지락",
+  "zh-hant": "雷吉洛克",
+  "fr": "Regirock",
+  "de": "Regirock",
+  "es": "Regirock",
+  "it": "Regirock",
+  "en": "Regirock",
+  "ja": "レジロック",
+  "zh-hans": "雷吉洛克",
+  "es-419": "Regirock"
+ },
+ "genus": {
+  "ja-hrkt": "いわやまポケモン",
+  "ko": "바위산포켓몬",
+  "zh-hant": "岩山寶可夢",
+  "fr": "Pokémon Pic Rocheux",
+  "de": "Steingipfel-Pokémon",
+  "es": "Pokémon Pico Roca",
+  "it": "Pokémon Picco",
+  "en": "Rock Peak Pokémon",
+  "ja": "いわやまポケモン",
+  "zh-hans": "岩山宝可梦",
+  "es-419": "Pokémon Pico Roca"
+ },
+ "flavor": {
+  "en": "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart.",
+  "ko": "최신 과학 기술을 구사하여 바위 몸을 조사했지만 뇌나 심장을 찾지 못했다."
+ },
+ "varieties": [
+  {
+   "name": "regirock",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "193"
+}

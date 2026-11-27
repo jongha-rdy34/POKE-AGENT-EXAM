@@ -1,0 +1,20 @@
+{
+ "name": "teal-mask",
+ "names": {
+  "ja-hrkt": "みどりのめん",
+  "ko": "벽록의가면",
+  "zh-hant": "碧草面具",
+  "fr": "Masque Turquoise",
+  "de": "Türkisgrüne Maske",
+  "es": "Máscara Turquesa",
+  "it": "Maschera Turchese",
+  "en": "Teal Mask",
+  "ja": "みどりのめん",
+  "zh-hans": "碧草面具"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

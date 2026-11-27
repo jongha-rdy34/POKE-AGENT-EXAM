@@ -1,0 +1,42 @@
+{
+ "id": 426,
+ "name": "drifblim",
+ "names": {
+  "ja-hrkt": "フワライド",
+  "ja-roma": "Fuwaride",
+  "ko": "둥실라이드",
+  "zh-hant": "隨風球",
+  "fr": "Grodrive",
+  "de": "Drifzepeli",
+  "es": "Drifblim",
+  "it": "Drifblim",
+  "en": "Drifblim",
+  "ja": "フワライド",
+  "zh-hans": "随风球",
+  "es-419": "Drifblim"
+ },
+ "genus": {
+  "ja-hrkt": "ききゅうポケモン",
+  "ko": "기구포켓몬",
+  "zh-hant": "熱氣球寶可夢",
+  "fr": "Pokémon Ballon",
+  "de": "Luftschiff-Pokémon",
+  "es": "Pokémon Dirigible",
+  "it": "Pokémon Dirigibile",
+  "en": "Blimp Pokémon",
+  "ja": "ききゅうポケモン",
+  "zh-hans": "热气球宝可梦",
+  "es-419": "Pokémon Dirigible"
+ },
+ "flavor": {
+  "en": "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim.",
+  "ko": "사람과 포켓몬을 붙잡아 그대로 어딘가로 운반한다. 행선지는 아무도 모른다."
+ },
+ "varieties": [
+  {
+   "name": "drifblim",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "219"
+}

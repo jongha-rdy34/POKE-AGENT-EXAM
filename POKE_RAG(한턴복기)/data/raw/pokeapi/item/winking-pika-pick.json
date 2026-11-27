@@ -1,0 +1,20 @@
+{
+ "name": "winking-pika-pick",
+ "names": {
+  "ja-hrkt": "パチピカピック",
+  "ko": "윙크피카 픽",
+  "zh-hant": "眨眼皮卡丘三明治籤",
+  "fr": "Pique à Chu Fripon",
+  "de": "Zwinker-Pika-Pikser",
+  "es": "Palillo Pikaguiño",
+  "it": "Stecchino pikapika",
+  "en": "Winking Pika Pick",
+  "ja": "パチピカピック",
+  "zh-hans": "眨眼皮卡丘三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

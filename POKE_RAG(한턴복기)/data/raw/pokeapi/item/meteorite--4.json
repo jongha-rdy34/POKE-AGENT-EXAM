@@ -1,0 +1,28 @@
+{
+ "name": "meteorite--4",
+ "names": {
+  "ja-hrkt": "いんせき",
+  "ko": "운석",
+  "zh-hant": "隕石",
+  "fr": "Météorite",
+  "de": "Meteorit",
+  "es": "Meteorito",
+  "it": "Meteorite",
+  "en": "Meteorite",
+  "ja": "いんせき",
+  "zh-hans": "陨石",
+  "es-419": "Meteorito"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour meteorite--4",
+  "en": "XXX new effect for meteorite--4"
+ },
+ "flavor": {
+  "ko": "굴뚝산에서 손에 넣은 운석. 어떤 문양이 드러나며 일곱 색깔의 빛이 넘쳐난다.",
+  "en": "A Meteorite that you got at Mt. Chimney. Some sort of pattern has risen to the surface, and it’s shining with seven colors of light.",
+  "ja": "えんとつ山で 手に入れた いんせき。 なにかの 文様が 浮かび上がり 七色の 光が あふれだす。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "belue-berry",
+ "names": {
+  "ja-hrkt": "ベリブのみ",
+  "ko": "루베열매",
+  "zh-hant": "靛莓果",
+  "fr": "Baie Myrte",
+  "de": "Myrtilbeere",
+  "es": "Baya Andano",
+  "it": "Baccartillo",
+  "en": "Belue Berry",
+  "ja": "ベリブのみ",
+  "zh-hans": "靛莓果",
+  "es-419": "Baya Andano"
+ },
+ "category": "baking-only",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour créer des Pokéblocs et Poffins.",
+  "en": "Used for creating PokéBlocks and Poffins."
+ },
+ "flavor": {
+  "en": "Used to make Pokéblocks that will enhance your Beauty, this Berry is rare in other regions.",
+  "ko": "아름다움을 연마하기 위한 포켓몬스넥을 만들 때 사용된다. 다른 지방에서는 희귀한 나무열매.",
+  "ja": "うつくしさに 磨きを かける ための ポロックを つくるとき 使われる。 ほかの 地方では めずらしい きのみ。"
+ }
+}

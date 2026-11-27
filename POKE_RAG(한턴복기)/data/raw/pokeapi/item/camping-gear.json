@@ -1,0 +1,25 @@
+{
+ "name": "camping-gear",
+ "names": {
+  "ja-hrkt": "キャンプセット",
+  "ko": "캠프세트",
+  "zh-hant": "露營組合",
+  "fr": "Kit de Camping",
+  "de": "Camping-Set",
+  "es": "Kit de Acampada",
+  "it": "Kit da campeggio",
+  "en": "Camping Gear",
+  "ja": "キャンプセット",
+  "zh-hans": "露营组合",
+  "es-419": "Kit de Acampada"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "와일드에리어나 캠핑 스폿에서 텐트를 치거나 그 안에서 요리를 만들 수 있다.",
+  "en": "Everything you need to set up a tent and get cooking in a Wild Area or at a camping spot.",
+  "ja": "ワイルドエリアや キャンプスポットで テントを 張ったり その中で 料理を 作ることが できる。"
+ }
+}

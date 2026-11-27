@@ -1,0 +1,37 @@
+{
+ "id": 950,
+ "name": "klawf",
+ "names": {
+  "ja-hrkt": "ガケガニ",
+  "ja-roma": "Gakegani",
+  "ko": "절벼게",
+  "zh-hant": "毛崖蟹",
+  "fr": "Craparoi",
+  "de": "Klibbe",
+  "es": "Klawf",
+  "it": "Klawf",
+  "en": "Klawf",
+  "ja": "ガケガニ",
+  "zh-hans": "毛崖蟹",
+  "es-419": "Klawf"
+ },
+ "genus": {
+  "ja-hrkt": "まちぶせポケモン",
+  "ko": "매복포켓몬",
+  "zh-hant": "埋伏寶可夢",
+  "fr": "Embuscade",
+  "de": "Lauer",
+  "en": "Ambush Pokémon",
+  "zh-hans": "埋伏宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws."
+ },
+ "varieties": [
+  {
+   "name": "klawf",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "497"
+}

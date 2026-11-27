@@ -1,0 +1,22 @@
+{
+ "name": "spicy-spray",
+ "names": {
+  "ja-hrkt": "とびだすハバネロ",
+  "ko": "하바네로분출",
+  "zh-hant": "辣椒噴發",
+  "fr": "Habanéruption",
+  "de": "Chilispritzer",
+  "es": "Salpicante",
+  "it": "Spargipiccante",
+  "en": "Spicy Spray",
+  "ja": "とびだすハバネロ",
+  "zh-hans": "辣椒喷发",
+  "es-419": "Salpicante"
+ },
+ "effect": {
+  "en": "When the Pokémon takes damage from a move, it burns the attacker."
+ },
+ "flavor": {
+  "en": "When the Pokémon takes damage from a move, it burns the attacker."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 585,
+ "name": "deerling",
+ "names": {
+  "ja-hrkt": "シキジカ",
+  "ja-roma": "Shikijika",
+  "ko": "사철록",
+  "zh-hant": "四季鹿",
+  "fr": "Vivaldaim",
+  "de": "Sesokitz",
+  "es": "Deerling",
+  "it": "Deerling",
+  "en": "Deerling",
+  "ja": "シキジカ",
+  "zh-hans": "四季鹿",
+  "es-419": "Deerling"
+ },
+ "genus": {
+  "ja-hrkt": "きせつポケモン",
+  "ko": "계절포켓몬",
+  "zh-hant": "季節寶可夢",
+  "fr": "Pokémon Saison",
+  "de": "Jahreszeit",
+  "es": "Pokémon Estacional",
+  "it": "Pokémon Stagione",
+  "en": "Season Pokémon",
+  "ja": "きせつポケモン",
+  "zh-hans": "季节宝可梦",
+  "es-419": "Pokémon Estacional"
+ },
+ "flavor": {
+  "en": "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.",
+  "ko": "계절이 바뀌는 시기가 되면 털과 냄새가 변화한다. 계절을 알리는 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "deerling",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "297"
+}

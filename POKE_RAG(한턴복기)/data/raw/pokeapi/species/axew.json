@@ -1,0 +1,42 @@
+{
+ "id": 610,
+ "name": "axew",
+ "names": {
+  "ja-hrkt": "キバゴ",
+  "ja-roma": "Kibago",
+  "ko": "터검니",
+  "zh-hant": "牙牙",
+  "fr": "Coupenotte",
+  "de": "Milza",
+  "es": "Axew",
+  "it": "Axew",
+  "en": "Axew",
+  "ja": "キバゴ",
+  "zh-hans": "牙牙",
+  "es-419": "Axew"
+ },
+ "genus": {
+  "ja-hrkt": "キバポケモン",
+  "ko": "이빨포켓몬",
+  "zh-hant": "牙寶可夢",
+  "fr": "Pokémon Crocs",
+  "de": "Stoßzahn-Pokémon",
+  "es": "Pokémon Colmillo",
+  "it": "Pokémon Zanna",
+  "en": "Tusk Pokémon",
+  "ja": "キバポケモン",
+  "zh-hans": "牙宝可梦",
+  "es-419": "Pokémon Colmillo"
+ },
+ "flavor": {
+  "en": "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern.",
+  "ko": "커다란 어금니를 부딪치며 동료와 장난친다. 어금니는 부러져도 바로 자라나서 걱정 없다."
+ },
+ "varieties": [
+  {
+   "name": "axew",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "309"
+}

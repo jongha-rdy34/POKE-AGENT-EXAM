@@ -1,0 +1,20 @@
+{
+ "name": "tynamo-slime",
+ "names": {
+  "ja-hrkt": "シビシラスのねんえき",
+  "ko": "저리어의점액",
+  "zh-hant": "麻麻小魚的黏液",
+  "fr": "Mucus d'Anchwatt",
+  "de": "Zapplardin-Schleim",
+  "es": "Secreción de Tynamo",
+  "it": "Muco di Tynamo",
+  "en": "Tynamo Slime",
+  "ja": "シビシラスのねんえき",
+  "zh-hans": "麻麻小鱼的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

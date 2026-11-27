@@ -1,0 +1,31 @@
+{
+ "name": "heal-bell",
+ "names": {
+  "ja-hrkt": "いやしのすず",
+  "ko": "치료방울",
+  "zh-hant": "治癒鈴聲",
+  "fr": "Glas de Soin",
+  "de": "Vitalglocke",
+  "es": "Cascabel Cura",
+  "it": "Rintoccasana",
+  "en": "Heal Bell",
+  "ja": "いやしのすず",
+  "zh-hans": "治愈铃声",
+  "es-419": "Cascabel Sanador"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user-and-allies",
+ "effect": {
+  "en": "Cures the entire party of major status effects."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user makes a soothing bell chime to cure the status conditions of all its fellow party Pokémon and allies.",
+  "ko": "기분 좋은 방울소리를 들려주어 같은 편 전원의 상태 이상을 회복한다."
+ }
+}

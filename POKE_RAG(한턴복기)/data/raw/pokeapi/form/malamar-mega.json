@@ -1,0 +1,15 @@
+{
+ "name": "malamar-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Sepiatroce",
+  "en": "Mega Malamar"
+ },
+ "form_names": {
+  "ja-hrkt": "メガカラマネロ",
+  "fr": "Méga-Sepiatroce",
+  "en": "Mega Malamar",
+  "ja": "メガカラマネロ"
+ },
+ "is_mega": true
+}

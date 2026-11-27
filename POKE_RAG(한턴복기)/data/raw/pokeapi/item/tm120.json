@@ -1,0 +1,20 @@
+{
+ "name": "tm120",
+ "names": {
+  "ja-hrkt": "わざマシン１２０",
+  "ko": "기술머신120",
+  "zh-hant": "招式學習器１２０",
+  "fr": "CT120",
+  "de": "TM120",
+  "es": "MT120",
+  "it": "MT120",
+  "en": "TM120",
+  "ja": "わざマシン１２０",
+  "zh-hans": "招式学习器１２０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

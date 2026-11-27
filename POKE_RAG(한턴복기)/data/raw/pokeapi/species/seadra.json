@@ -1,0 +1,42 @@
+{
+ "id": 117,
+ "name": "seadra",
+ "names": {
+  "ja-hrkt": "シードラ",
+  "ja-roma": "Seadra",
+  "ko": "시드라",
+  "zh-hant": "海刺龍",
+  "fr": "Hypocéan",
+  "de": "Seemon",
+  "es": "Seadra",
+  "it": "Seadra",
+  "en": "Seadra",
+  "ja": "シードラ",
+  "zh-hans": "海刺龙",
+  "es-419": "Seadra"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth.",
+  "ko": "입은 가늘지만 흡인력은 강하다. 입보다 큰 먹이도 순식간에 빨아들여 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "seadra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "54"
+}

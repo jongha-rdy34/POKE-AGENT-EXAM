@@ -1,0 +1,35 @@
+{
+ "id": 10168,
+ "name": "mr-mime-galar",
+ "species": "mr-mime",
+ "is_default": false,
+ "types": [
+  "ice",
+  "psychic"
+ ],
+ "stats": {
+  "hp": 50,
+  "attack": 65,
+  "defense": 65,
+  "special-attack": 90,
+  "special-defense": 90,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "vital-spirit",
+   "hidden": false
+  },
+  {
+   "name": "screen-cleaner",
+   "hidden": false
+  },
+  {
+   "name": "ice-body",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 568,
+ "champions_moves": []
+}

@@ -1,0 +1,30 @@
+{
+ "name": "green-scarf",
+ "names": {
+  "ja-hrkt": "みどりのバンダナ",
+  "ko": "초록밴드",
+  "zh-hant": "綠色頭巾",
+  "fr": "Foulard Vert",
+  "de": "Grüner Schal",
+  "es": "Pañuelo Verde",
+  "it": "Fascia Verde",
+  "en": "Green Scarf",
+  "ja": "みどりのバンダナ",
+  "zh-hans": "绿色头巾",
+  "es-419": "Pañuelo Verde"
+ },
+ "category": "scarves",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Augmente l'Intelligence du porteur lors d'un concours.",
+  "en": "Raises the holder’s Smartness while in a contest."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. During a contest, it raises the Clever aspect of the Pokémon holding it.",
+  "ko": "지니게 하여 콘테스트에 참가하면 그 포켓몬은 여느 때보다 슬기롭게 보인다.",
+  "ja": "持たせて コンテストに 参加すると その ポケモンは いつもより かしこく みられる。"
+ }
+}

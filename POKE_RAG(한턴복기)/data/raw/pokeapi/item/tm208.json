@@ -1,0 +1,19 @@
+{
+ "name": "tm208",
+ "names": {
+  "ko": "기술머신208",
+  "zh-hant": "招式學習器２０８",
+  "fr": "CT208",
+  "de": "TM208",
+  "es": "MT208",
+  "it": "MT208",
+  "en": "TM208",
+  "ja": "わざマシン２０８",
+  "zh-hans": "招式学习器２０８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

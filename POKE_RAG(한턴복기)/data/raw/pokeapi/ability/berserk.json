@@ -1,0 +1,23 @@
+{
+ "name": "berserk",
+ "names": {
+  "ja-hrkt": "ぎゃくじょう",
+  "ko": "발끈",
+  "zh-hant": "怒火沖天",
+  "fr": "Folle Furie",
+  "de": "Wutausbruch",
+  "es": "Cólera",
+  "it": "Furore",
+  "en": "Berserk",
+  "ja": "ぎゃくじょう",
+  "zh-hans": "怒火冲天",
+  "es-419": "Ira"
+ },
+ "effect": {
+  "en": "Raises this Pokémon's Special Attack by one stage every time its HP drops below half."
+ },
+ "flavor": {
+  "ko": "상대의 공격으로 HP가 절반이 되면 특수공격이 올라간다.",
+  "en": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less."
+ }
+}

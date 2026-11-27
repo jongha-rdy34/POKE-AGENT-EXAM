@@ -1,0 +1,23 @@
+{
+ "name": "venusaur-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Florizarre",
+  "de": "Mega-Bisaflor",
+  "en": "Mega Venusaur"
+ },
+ "form_names": {
+  "ja-hrkt": "メガフシギバナ",
+  "ko": "메가이상해꽃",
+  "zh-hant": "超級妙蛙花",
+  "fr": "Méga-Florizarre",
+  "de": "Mega-Form",
+  "es": "Mega-Venusaur",
+  "it": "MegaVenusaur",
+  "en": "Mega Venusaur",
+  "ja": "メガフシギバナ",
+  "zh-hans": "超级妙蛙花",
+  "es-419": "Mega-Venusaur"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,31 @@
+{
+ "name": "waterfall",
+ "names": {
+  "ja-hrkt": "たきのぼり",
+  "ko": "폭포오르기",
+  "zh-hant": "攀瀑",
+  "fr": "Cascade",
+  "de": "Kaskade",
+  "es": "Cascada",
+  "it": "Cascata",
+  "en": "Waterfall",
+  "ja": "たきのぼり",
+  "zh-hans": "攀瀑",
+  "es-419": "Cascada"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user charges at the target and may make it flinch.",
+  "ko": "굉장한 기세로 상대에게 돌진한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

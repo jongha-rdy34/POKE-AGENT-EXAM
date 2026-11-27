@@ -1,0 +1,18 @@
+{
+ "name": "timid",
+ "names": {
+  "ja-hrkt": "おくびょう",
+  "ko": "겁쟁이",
+  "zh-hant": "膽小",
+  "fr": "Timide",
+  "de": "Scheu",
+  "es": "Miedosa",
+  "it": "Timida",
+  "en": "Timid",
+  "ja": "おくびょう",
+  "zh-hans": "胆小",
+  "es-419": "Miedosa"
+ },
+ "plus": "speed",
+ "minus": "attack"
+}

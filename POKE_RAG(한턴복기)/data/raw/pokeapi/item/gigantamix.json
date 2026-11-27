@@ -1,0 +1,25 @@
+{
+ "name": "gigantamix",
+ "names": {
+  "ja-hrkt": "キョダイパウダー",
+  "ko": "거대파우더",
+  "zh-hant": "超極粉",
+  "fr": "Poudre Gigamax",
+  "de": "Giga-Pulver",
+  "es": "Especias Gigamax",
+  "it": "Gigaspezia",
+  "en": "Gigantamix",
+  "ja": "キョダイパウダー",
+  "zh-hans": "超极粉",
+  "es-419": "Especias Gigamax"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리의 식재료. 조금만 넣어도 카레를 거대하게 만드는 신기한 향신료.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. A mysterious spice. Even a tiny sprinkle is sure to make a curry gigantic.",
+  "ja": "キャンプ 料理の 食材。 一振りで カレーを 巨大に する 不思議な スパイス。"
+ }
+}

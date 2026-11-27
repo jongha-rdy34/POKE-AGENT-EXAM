@@ -1,0 +1,42 @@
+{
+ "id": 863,
+ "name": "perrserker",
+ "names": {
+  "ja-hrkt": "ニャイキング",
+  "ja-roma": "Nyaiking",
+  "ko": "나이킹",
+  "zh-hant": "喵頭目",
+  "fr": "Berserkatt",
+  "de": "Mauzinger",
+  "es": "Perrserker",
+  "it": "Perrserker",
+  "en": "Perrserker",
+  "ja": "ニャイキング",
+  "zh-hans": "喵头目",
+  "es-419": "Perrserker"
+ },
+ "genus": {
+  "ja-hrkt": "バイキングポケモン",
+  "ko": "바이킹포켓몬",
+  "zh-hant": "維京寶可夢",
+  "fr": "Pokémon Viking",
+  "de": "Wikinger-Pokémon",
+  "es": "Pokémon Vikingo",
+  "it": "Pokémon Vichingo",
+  "en": "Viking Pokémon",
+  "ja": "バイキングポケモン",
+  "zh-hans": "维京宝可梦",
+  "es-419": "Pokémon Vikingo"
+ },
+ "flavor": {
+  "ko": "싸움에 열중해 진화한 결과 펴면 단검으로 변하는 위험한 발톱을 얻었다.",
+  "en": "After many battles, it evolved dangerous claws that come together to form daggers when extended."
+ },
+ "varieties": [
+  {
+   "name": "perrserker",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "22"
+}

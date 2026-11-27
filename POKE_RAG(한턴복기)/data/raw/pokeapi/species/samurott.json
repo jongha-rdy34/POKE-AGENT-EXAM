@@ -1,0 +1,46 @@
+{
+ "id": 503,
+ "name": "samurott",
+ "names": {
+  "ja-hrkt": "ダイケンキ",
+  "ja-roma": "Daikenki",
+  "ko": "대검귀",
+  "zh-hant": "大劍鬼",
+  "fr": "Clamiral",
+  "de": "Admurai",
+  "es": "Samurott",
+  "it": "Samurott",
+  "en": "Samurott",
+  "ja": "ダイケンキ",
+  "zh-hans": "大剑鬼",
+  "es-419": "Samurott"
+ },
+ "genus": {
+  "ja-hrkt": "かんろくポケモン",
+  "ko": "관록포켓몬",
+  "zh-hant": "威嚴寶可夢",
+  "fr": "Pokémon Dignitaire",
+  "de": "Würde",
+  "es": "Pokémon Majestuoso",
+  "it": "Pokémon Dignità",
+  "en": "Formidable Pokémon",
+  "ja": "かんろくポケモン",
+  "zh-hans": "威严宝可梦",
+  "es-419": "Pokémon Majestuoso"
+ },
+ "flavor": {
+  "en": "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves.",
+  "ko": "갑옷에 내장된 검으로 한칼에 상대를 제압한다. 눈빛만으로 상대를 침묵시킨다."
+ },
+ "varieties": [
+  {
+   "name": "samurott",
+   "is_default": true
+  },
+  {
+   "name": "samurott-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "258"
+}

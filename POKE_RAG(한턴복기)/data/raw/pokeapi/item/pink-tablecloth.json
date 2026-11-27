@@ -1,0 +1,20 @@
+{
+ "name": "pink-tablecloth",
+ "names": {
+  "ja-hrkt": "ピンククロス",
+  "ko": "핑크 테이블보",
+  "zh-hant": "粉紅桌巾",
+  "fr": "Nappe Rose",
+  "de": "Pinkes Tischtuch",
+  "es": "Mantel Rosa",
+  "it": "Tovaglia rosa",
+  "en": "Pink Tablecloth",
+  "ja": "ピンククロス",
+  "zh-hans": "粉红桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,46 @@
+{
+ "id": 68,
+ "name": "machamp",
+ "names": {
+  "ja-hrkt": "カイリキー",
+  "ja-roma": "Kairiky",
+  "ko": "괴력몬",
+  "zh-hant": "怪力",
+  "fr": "Mackogneur",
+  "de": "Machomei",
+  "es": "Machamp",
+  "it": "Machamp",
+  "en": "Machamp",
+  "ja": "カイリキー",
+  "zh-hans": "怪力",
+  "es-419": "Machamp"
+ },
+ "genus": {
+  "ja-hrkt": "かいりきポケモン",
+  "ko": "괴력포켓몬",
+  "zh-hant": "怪力寶可夢",
+  "fr": "Pokémon Colosse",
+  "de": "Kraftprotz-Pokémon",
+  "es": "Pokémon Superpoder",
+  "it": "Pokémon Megaforza",
+  "en": "Superpower Pokémon",
+  "ja": "かいりきポケモン",
+  "zh-hans": "怪力宝可梦",
+  "es-419": "Pokémon Superpoder"
+ },
+ "flavor": {
+  "en": "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists.",
+  "ko": "4개의 팔은 생각하는 것보다 빠르게 반사적으로 움직이며 여러 발의 펀치를 날린다."
+ },
+ "varieties": [
+  {
+   "name": "machamp",
+   "is_default": true
+  },
+  {
+   "name": "machamp-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "28"
+}

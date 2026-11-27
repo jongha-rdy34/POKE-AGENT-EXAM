@@ -1,0 +1,28 @@
+{
+ "name": "psychic-gem",
+ "names": {
+  "ja-hrkt": "エスパージュエル",
+  "ko": "에스퍼주얼",
+  "zh-hant": "超能力寶石",
+  "fr": "Joyau Psy",
+  "de": "Psychojuwel",
+  "es": "Gema Psíquica",
+  "it": "Bijoupsico",
+  "en": "Psychic Gem",
+  "ja": "エスパージュエル",
+  "zh-hans": "超能力宝石",
+  "es-419": "Gema Psíquica"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Psy, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Psychic-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move one time.",
+  "ko": "에스퍼타입의 주얼. 지니게 하면 한 번만 에스퍼 기술의 위력이 강해진다.",
+  "ja": "エスパーの タイプの ジュエル。 持たせると １度だけ エスパーの 技の 威力が 強まる。"
+ }
+}

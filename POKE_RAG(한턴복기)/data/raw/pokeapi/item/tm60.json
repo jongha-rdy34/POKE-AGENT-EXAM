@@ -1,0 +1,28 @@
+{
+ "name": "tm60",
+ "names": {
+  "ja-hrkt": "わざマシン６０",
+  "ko": "기술머신60",
+  "zh-hant": "招式學習器６０",
+  "fr": "CT60",
+  "de": "TM60",
+  "es": "MT60",
+  "it": "MT60",
+  "en": "TM60",
+  "ja": "わざマシン６０",
+  "zh-hans": "招式学习器６０",
+  "es-419": "MT60"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend À la Queue à un Pokémon compatible. (Gén IV: Vampi-Poing)",
+  "en": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)"
+ },
+ "flavor": {
+  "en": "The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.",
+  "ko": "초능력으로 자신과 상대의 공격과 특수공격의 능력 변화를 교체한다.",
+  "ja": "超能力で 自分と 相手の 攻撃と 特攻の 能力変化を 入れ替える。"
+ }
+}

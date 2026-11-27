@@ -1,0 +1,20 @@
+{
+ "name": "pink-bottle",
+ "names": {
+  "ja-hrkt": "ピンクボトル",
+  "ko": "핑크 보틀",
+  "zh-hant": "粉紅水壺",
+  "fr": "Gourde Rose",
+  "de": "Pinke Flasche",
+  "es": "Termo Rosa",
+  "it": "Borraccia rosa",
+  "en": "Pink Bottle",
+  "ja": "ピンクボトル",
+  "zh-hans": "粉红水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

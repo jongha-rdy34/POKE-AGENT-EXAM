@@ -1,0 +1,31 @@
+{
+ "name": "water-shuriken",
+ "names": {
+  "ja-hrkt": "みずしゅりけん",
+  "ko": "물수리검",
+  "zh-hant": "飛水手裡劍",
+  "fr": "Sheauriken",
+  "de": "Wasser-Shuriken",
+  "es": "Shuriken de Agua",
+  "it": "Acqualame",
+  "en": "Water Shuriken",
+  "ja": "みずしゅりけん",
+  "zh-hans": "飞水手里剑",
+  "es-419": "Shuriken de Agua"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 15,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits 2–5 times."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "점액으로 만든 수리검을 2-5회 동안 연속으로 던진다. 반드시 선제공격할 수 있다.",
+  "en": "The user hits the target with throwing stars two to five times in a row. This move always goes first."
+ }
+}

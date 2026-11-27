@@ -1,0 +1,42 @@
+{
+ "id": 203,
+ "name": "girafarig",
+ "names": {
+  "ja-hrkt": "キリンリキ",
+  "ja-roma": "Kirinriki",
+  "ko": "키링키",
+  "zh-hant": "麒麟奇",
+  "fr": "Girafarig",
+  "de": "Girafarig",
+  "es": "Girafarig",
+  "it": "Girafarig",
+  "en": "Girafarig",
+  "ja": "キリンリキ",
+  "zh-hans": "麒麟奇",
+  "es-419": "Girafarig"
+ },
+ "genus": {
+  "ja-hrkt": "くびながポケモン",
+  "ko": "긴목포켓몬",
+  "zh-hant": "長頸寶可夢",
+  "fr": "Pokémon Long-Cou",
+  "de": "Langhals",
+  "es": "Pokémon Gran Cuello",
+  "it": "Pokémon Lungocollo",
+  "en": "Long Neck Pokémon",
+  "ja": "くびながポケモン",
+  "zh-hans": "长颈宝可梦",
+  "es-419": "Pokémon Gran Cuello"
+ },
+ "flavor": {
+  "en": "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+  "ko": "꼬리의 뇌는 생각을 할 수 없을 정도로 작지만 자지 않아도 괜찮아서 24시간 주변을 계속 망보고 있다."
+ },
+ "varieties": [
+  {
+   "name": "girafarig",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "101"
+}

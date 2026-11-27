@@ -1,0 +1,31 @@
+{
+ "name": "pain-split",
+ "names": {
+  "ja-hrkt": "いたみわけ",
+  "ko": "아픔나누기",
+  "zh-hant": "分擔痛楚",
+  "fr": "Balance",
+  "de": "Leidteiler",
+  "es": "Divide Dolor",
+  "it": "Malcomune",
+  "en": "Pain Split",
+  "ja": "いたみわけ",
+  "zh-hans": "分担痛楚",
+  "es-419": "Dividedolor"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Sets the user’s and targets’s HP to the average of their current HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user adds its HP to the target's HP, then equally splits the combined HP between the target and itself.",
+  "ko": "자신의 HP와 상대의 HP를 합친 것을 자신과 상대가 사이좋게 나눈다."
+ }
+}

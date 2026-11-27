@@ -1,0 +1,23 @@
+{
+ "name": "scrappy",
+ "names": {
+  "ja-hrkt": "きもったま",
+  "ko": "배짱",
+  "zh-hant": "膽量",
+  "fr": "Querelleur",
+  "de": "Rauflust",
+  "es": "Intrépido",
+  "it": "Nervisaldi",
+  "en": "Scrappy",
+  "ja": "きもったま",
+  "zh-hans": "胆量",
+  "es-419": "Intrépido"
+ },
+ "effect": {
+  "en": "Lets the Pokémon's Normal and Fighting moves hit Ghost Pokémon."
+ },
+ "flavor": {
+  "en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.",
+  "ko": "고스트타입 포켓몬에게 노말타입과 격투타입의 기술을 맞게 한다."
+ }
+}

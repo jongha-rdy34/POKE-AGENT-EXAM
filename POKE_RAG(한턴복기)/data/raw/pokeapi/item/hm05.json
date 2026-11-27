@@ -1,0 +1,28 @@
+{
+ "name": "hm05",
+ "names": {
+  "ja-hrkt": "ひでんマシン０５",
+  "ko": "비전머신05",
+  "zh-hant": "秘傳學習器０５",
+  "fr": "CS05",
+  "de": "VM05",
+  "es": "MO05",
+  "it": "MN05",
+  "en": "HM05",
+  "ja": "ひでんマシン０５",
+  "zh-hans": "秘传学习器０５",
+  "es-419": "MO05"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Cascade à un Pokémon compatible. (HS: Siphon DPP: Anti-Brume Gén III & II & I: Flash)",
+  "en": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)"
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

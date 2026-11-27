@@ -1,0 +1,20 @@
+{
+ "name": "nosepass-fragment",
+ "names": {
+  "ja-hrkt": "ノズパスのかけら",
+  "ko": "코코파스의조각",
+  "zh-hant": "朝北鼻的碎片",
+  "fr": "Fragment de Tarinor",
+  "de": "Nasgnet-Splitter",
+  "es": "Fragmento de Nosepass",
+  "it": "Frammento di Nosepass",
+  "en": "Nosepass Fragment",
+  "ja": "ノズパスのかけら",
+  "zh-hans": "朝北鼻的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

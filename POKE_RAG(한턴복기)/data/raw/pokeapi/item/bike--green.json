@@ -1,0 +1,28 @@
+{
+ "name": "bike--green",
+ "names": {
+  "ja-hrkt": "じてんしゃ",
+  "ko": "자전거",
+  "zh-hant": "自行車",
+  "fr": "Bicyclette",
+  "de": "Fahrrad",
+  "es": "Bici",
+  "it": "Bicicletta",
+  "en": "Bike",
+  "ja": "じてんしゃ",
+  "zh-hans": "自行车",
+  "es-419": "Bici"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour bike--green",
+  "en": "XXX new effect for bike--green"
+ },
+ "flavor": {
+  "ko": "러닝슈즈보다도 빨리 달릴 수 있는 접이식 자전거다.",
+  "en": "A folding bike that enables a rider to get around much faster than with Running Shoes.",
+  "ja": "ランニングシューズ よりも 速く 走ることが できる 折りたたみ式の じてんしゃ。"
+ }
+}

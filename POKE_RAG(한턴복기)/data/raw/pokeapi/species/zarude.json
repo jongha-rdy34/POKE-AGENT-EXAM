@@ -1,0 +1,46 @@
+{
+ "id": 893,
+ "name": "zarude",
+ "names": {
+  "ja-hrkt": "ザルード",
+  "ja-roma": "Zarude",
+  "ko": "자루도",
+  "zh-hant": "薩戮德",
+  "fr": "Zarude",
+  "de": "Zarude",
+  "es": "Zarude",
+  "it": "Zarude",
+  "en": "Zarude",
+  "ja": "ザルード",
+  "zh-hans": "萨戮德",
+  "es-419": "Zarude"
+ },
+ "genus": {
+  "ja-hrkt": "わるざるポケモン",
+  "ko": "나쁜원숭이포켓몬",
+  "zh-hant": "惡猿寶可夢",
+  "fr": "Pokémon Vilain Singe",
+  "de": "Finsteraffen-Pokémon",
+  "es": "Pokémon Simiestro",
+  "it": "Pokémon Scimmialigna",
+  "en": "Rogue Monkey Pokémon",
+  "ja": "わるざるポケモン",
+  "zh-hans": "恶猿宝可梦",
+  "es-419": "Pokémon Simiestro"
+ },
+ "flavor": {
+  "ko": "몸에 난 덩굴이 끊어지면 토양에 영양분이 되어 숲의 식물들을 성장시킨다.",
+  "en": "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow."
+ },
+ "varieties": [
+  {
+   "name": "zarude",
+   "is_default": true
+  },
+  {
+   "name": "zarude-dada",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "471"
+}

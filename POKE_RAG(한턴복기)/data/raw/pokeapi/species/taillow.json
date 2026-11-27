@@ -1,0 +1,42 @@
+{
+ "id": 276,
+ "name": "taillow",
+ "names": {
+  "ja-hrkt": "スバメ",
+  "ja-roma": "Subame",
+  "ko": "테일로",
+  "zh-hant": "傲骨燕",
+  "fr": "Nirondelle",
+  "de": "Schwalbini",
+  "es": "Taillow",
+  "it": "Taillow",
+  "en": "Taillow",
+  "ja": "スバメ",
+  "zh-hans": "傲骨燕",
+  "es-419": "Taillow"
+ },
+ "genus": {
+  "ja-hrkt": "こツバメポケモン",
+  "ko": "아기제비포켓몬",
+  "zh-hant": "幼燕寶可夢",
+  "fr": "Pokémon Minirondel",
+  "de": "Schwälblein",
+  "es": "Pokémon Pequebuche",
+  "it": "Pokémon Rondinella",
+  "en": "Tiny Swallow Pokémon",
+  "ja": "こツバメポケモン",
+  "zh-hans": "幼燕宝可梦",
+  "es-419": "Pokémon Pequebuche"
+ },
+ "flavor": {
+  "en": "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
+  "ko": "둥지를 떠난 지 얼마 안 돼서 밤이 되면 쓸쓸함에 우는 일도 있다. 숲에 사는 개무소를 잡아먹는다."
+ },
+ "varieties": [
+  {
+   "name": "taillow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "138"
+}

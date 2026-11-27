@@ -1,0 +1,20 @@
+{
+ "name": "tm138",
+ "names": {
+  "ja-hrkt": "わざマシン１３８",
+  "ko": "기술머신138",
+  "zh-hant": "招式學習器１３８",
+  "fr": "CT138",
+  "de": "TM138",
+  "es": "MT138",
+  "it": "MT138",
+  "en": "TM138",
+  "ja": "わざマシン１３８",
+  "zh-hans": "招式学习器１３８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 657,
+ "name": "frogadier",
+ "names": {
+  "ja-hrkt": "ゲコガシラ",
+  "ja-roma": "Gekogashira",
+  "ko": "개굴반장",
+  "zh-hant": "呱頭蛙",
+  "fr": "Croâporal",
+  "de": "Amphizel",
+  "es": "Frogadier",
+  "it": "Frogadier",
+  "en": "Frogadier",
+  "ja": "ゲコガシラ",
+  "zh-hans": "呱头蛙",
+  "es-419": "Frogadier"
+ },
+ "genus": {
+  "ja-hrkt": "あわがえるポケモン",
+  "ko": "거품개구리포켓몬",
+  "zh-hant": "泡蛙寶可夢",
+  "fr": "Pokémon Crapobulle",
+  "de": "Blubbfrosch",
+  "es": "Pokémon Burburrana",
+  "it": "Pokémon Schiumorana",
+  "en": "Bubble Frog Pokémon",
+  "ja": "あわがえるポケモン",
+  "zh-hans": "泡蛙宝可梦",
+  "es-419": "Pokémon Burburrana"
+ },
+ "flavor": {
+  "ko": "누구보다도 가벼운 몸을 갖고 있다. 600m를 넘는 타워의 꼭대기까지 1분이면 올라간다.",
+  "en": "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute’s time."
+ },
+ "varieties": [
+  {
+   "name": "frogadier",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "339"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm206",
+ "names": {
+  "ko": "기술머신206",
+  "zh-hant": "招式學習器２０６",
+  "fr": "CT206",
+  "de": "TM206",
+  "es": "MT206",
+  "it": "MT206",
+  "en": "TM206",
+  "ja": "わざマシン２０６",
+  "zh-hans": "招式学习器２０６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

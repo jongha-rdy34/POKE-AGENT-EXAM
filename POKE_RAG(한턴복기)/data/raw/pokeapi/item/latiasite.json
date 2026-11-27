@@ -1,0 +1,28 @@
+{
+ "name": "latiasite",
+ "names": {
+  "ja-hrkt": "ラティアスナイト",
+  "ko": "라티아스나이트",
+  "zh-hant": "拉帝亞斯進化石",
+  "fr": "Latiasite",
+  "de": "Latiasnit",
+  "es": "Latiasita",
+  "it": "Latiasite",
+  "en": "Latiasite",
+  "ja": "ラティアスナイト",
+  "zh-hans": "拉帝亚斯进化石",
+  "es-419": "Latiasita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Latias de Méga-Évoluer en Méga-Latias.",
+  "en": "Held: Allows Latias to Mega Evolve into Mega Latias."
+ },
+ "flavor": {
+  "ko": "라티아스에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Latias hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ラティアスに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

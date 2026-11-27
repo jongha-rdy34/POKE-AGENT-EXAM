@@ -1,0 +1,42 @@
+{
+ "id": 73,
+ "name": "tentacruel",
+ "names": {
+  "ja-hrkt": "ドククラゲ",
+  "ja-roma": "Dokukurage",
+  "ko": "독파리",
+  "zh-hant": "毒刺水母",
+  "fr": "Tentacruel",
+  "de": "Tentoxa",
+  "es": "Tentacruel",
+  "it": "Tentacruel",
+  "en": "Tentacruel",
+  "ja": "ドククラゲ",
+  "zh-hans": "毒刺水母",
+  "es-419": "Tentacruel"
+ },
+ "genus": {
+  "ja-hrkt": "くらげポケモン",
+  "ko": "해파리포켓몬",
+  "zh-hant": "水母寶可夢",
+  "fr": "Pokémon Mollusque",
+  "de": "Quallen-Pokémon",
+  "es": "Pokémon Medusa",
+  "it": "Pokémon Medusa",
+  "en": "Jellyfish Pokémon",
+  "ja": "くらげポケモン",
+  "zh-hans": "水母宝可梦",
+  "es-419": "Pokémon Medusa"
+ },
+ "flavor": {
+  "en": "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution.",
+  "ko": "80개의 촉수는 자유롭게 늘어났다가 줄어든다. 그물처럼 펼쳐서 먹이를 잡고 독바늘로 찌른다."
+ },
+ "varieties": [
+  {
+   "name": "tentacruel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "30"
+}

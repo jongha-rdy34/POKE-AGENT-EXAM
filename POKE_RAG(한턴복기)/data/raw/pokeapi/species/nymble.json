@@ -1,0 +1,37 @@
+{
+ "id": 919,
+ "name": "nymble",
+ "names": {
+  "ja-hrkt": "マメバッタ",
+  "ja-roma": "Mamebatta",
+  "ko": "콩알뚜기",
+  "zh-hant": "豆蟋蟀",
+  "fr": "Lilliterelle",
+  "de": "Micrick",
+  "es": "Nymble",
+  "it": "Nymble",
+  "en": "Nymble",
+  "ja": "マメバッタ",
+  "zh-hans": "豆蟋蟀",
+  "es-419": "Nymble"
+ },
+ "genus": {
+  "ja-hrkt": "バッタポケモン",
+  "ko": "메뚜기포켓몬",
+  "zh-hant": "蝗蟲寶可夢",
+  "fr": "Sauterelle",
+  "de": "Heuschrecke",
+  "en": "Grasshopper Pokémon",
+  "zh-hans": "蝗虫宝可梦"
+ },
+ "flavor": {
+  "en": "It’s highly skilled at a fighting style in which it uses its jumping capabilities to dodge incoming attacks while also dealing damage to opponents."
+ },
+ "varieties": [
+  {
+   "name": "nymble",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "483"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 360,
+ "name": "wynaut",
+ "names": {
+  "ja-hrkt": "ソーナノ",
+  "ja-roma": "Sohnano",
+  "ko": "마자",
+  "zh-hant": "小果然",
+  "fr": "Okéoké",
+  "de": "Isso",
+  "es": "Wynaut",
+  "it": "Wynaut",
+  "en": "Wynaut",
+  "ja": "ソーナノ",
+  "zh-hans": "小果然",
+  "es-419": "Wynaut"
+ },
+ "genus": {
+  "ja-hrkt": "ほがらかポケモン",
+  "ko": "명랑포켓몬",
+  "zh-hant": "開朗寶可夢",
+  "fr": "Pokémon Ravi",
+  "de": "Strahlekind-Pokémon",
+  "es": "Pokémon Radiante",
+  "it": "Pokémon Brillante",
+  "en": "Bright Pokémon",
+  "ja": "ほがらかポケモン",
+  "zh-hans": "开朗宝可梦",
+  "es-419": "Pokémon Radiante"
+ },
+ "flavor": {
+  "en": "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave.",
+  "ko": "무리를 지어 행동하는 습성이 있다. 잠들 때는 동굴 안에서 동료들과 서로 몸을 붙인다."
+ },
+ "varieties": [
+  {
+   "name": "wynaut",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "100"
+}

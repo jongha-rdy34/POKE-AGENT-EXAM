@@ -1,0 +1,31 @@
+{
+ "name": "psychic",
+ "names": {
+  "ja-hrkt": "サイコキネシス",
+  "ko": "사이코키네시스",
+  "zh-hant": "精神強念",
+  "fr": "Psyko",
+  "de": "Psychokinese",
+  "es": "Psíquico",
+  "it": "Psichico",
+  "en": "Psychic",
+  "ja": "サイコキネシス",
+  "zh-hans": "精神强念",
+  "es-419": "Fuerza Psíquica"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Defense by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The target is hit with a strong telekinetic force to inflict damage. This may also lower the target’s Sp. Def stat.",
+  "ko": "강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다."
+ }
+}

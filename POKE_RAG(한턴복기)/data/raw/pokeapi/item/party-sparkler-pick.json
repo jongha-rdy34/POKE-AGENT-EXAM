@@ -1,0 +1,20 @@
+{
+ "name": "party-sparkler-pick",
+ "names": {
+  "ja-hrkt": "おいわいはなびピック",
+  "ko": "축하 폭죽 픽",
+  "zh-hant": "煙火祝慶三明治籤",
+  "fr": "Pique Feu d'Artifice",
+  "de": "Wunderkerzen-Pikser",
+  "es": "Palillo Bengala",
+  "it": "Stecchino scintille",
+  "en": "Party Sparkler Pick",
+  "ja": "おいわいはなびピック",
+  "zh-hans": "烟花祝庆三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

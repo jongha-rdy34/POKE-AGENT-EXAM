@@ -1,0 +1,42 @@
+{
+ "id": 158,
+ "name": "totodile",
+ "names": {
+  "ja-hrkt": "ワニノコ",
+  "ja-roma": "Waninoko",
+  "ko": "리아코",
+  "zh-hant": "小鋸鱷",
+  "fr": "Kaiminus",
+  "de": "Karnimani",
+  "es": "Totodile",
+  "it": "Totodile",
+  "en": "Totodile",
+  "ja": "ワニノコ",
+  "zh-hans": "小锯鳄",
+  "es-419": "Totodile"
+ },
+ "genus": {
+  "ja-hrkt": "おおあごポケモン",
+  "ko": "큰턱포켓몬",
+  "zh-hant": "大顎寶可夢",
+  "fr": "Pokémon Mâchoire",
+  "de": "Großmaul",
+  "es": "Pokémon Fauces",
+  "it": "Pokémon Mascellone",
+  "en": "Big Jaw Pokémon",
+  "ja": "おおあごポケモン",
+  "zh-hans": "大颚宝可梦",
+  "es-419": "Pokémon Fauces"
+ },
+ "flavor": {
+  "en": "Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
+  "ko": "몸은 작지만 턱의 힘은 강하다. 리아코 나름은 살포시 물려고 하지만 큰 상처를 입힐 정도의 힘이 있다."
+ },
+ "varieties": [
+  {
+   "name": "totodile",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "81"
+}

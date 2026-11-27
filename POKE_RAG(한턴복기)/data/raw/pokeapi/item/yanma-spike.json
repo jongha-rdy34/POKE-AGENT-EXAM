@@ -1,0 +1,20 @@
+{
+ "name": "yanma-spike",
+ "names": {
+  "ja-hrkt": "ヤンヤンマのトゲ",
+  "ko": "왕자리의가시",
+  "zh-hant": "蜻蜻蜓的刺",
+  "fr": "Dard de Yanma",
+  "de": "Yanma-Stachel",
+  "es": "Aguijón de Yanma",
+  "it": "Aculeo di Yanma",
+  "en": "Yanma Spike",
+  "ja": "ヤンヤンマのトゲ",
+  "zh-hans": "蜻蜻蜓的刺"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

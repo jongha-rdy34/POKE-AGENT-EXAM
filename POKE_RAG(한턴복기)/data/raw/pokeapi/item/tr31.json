@@ -1,0 +1,25 @@
+{
+ "name": "tr31",
+ "names": {
+  "ja-hrkt": "わざレコード３１",
+  "ko": "기술레코드31",
+  "zh-hant": "招式紀錄３１",
+  "fr": "DT31",
+  "de": "TP31",
+  "es": "DT31",
+  "it": "DT31",
+  "en": "TR31",
+  "ja": "わざレコード３１",
+  "zh-hans": "招式记录３１",
+  "es-419": "DT31"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "단단한 꼬리로 상대를 힘껏 쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+  "en": "The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.",
+  "ja": "硬い しっぽで 相手を たたきつけて 攻撃する。 相手の 防御を さげることが ある。"
+ }
+}

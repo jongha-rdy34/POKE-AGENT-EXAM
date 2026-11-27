@@ -1,0 +1,23 @@
+{
+ "name": "blaze",
+ "names": {
+  "ja-hrkt": "もうか",
+  "ko": "맹화",
+  "zh-hant": "猛火",
+  "fr": "Brasier",
+  "de": "Großbrand",
+  "es": "Mar Llamas",
+  "it": "Aiutofuoco",
+  "en": "Blaze",
+  "ja": "もうか",
+  "zh-hans": "猛火",
+  "es-419": "Mar de Llamas"
+ },
+ "effect": {
+  "en": "Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less."
+ },
+ "flavor": {
+  "en": "Powers up Fire-type moves when the Pokémon's HP is low.",
+  "ko": "HP가 줄었을 때 불꽃타입 기술의 위력이 올라간다."
+ }
+}

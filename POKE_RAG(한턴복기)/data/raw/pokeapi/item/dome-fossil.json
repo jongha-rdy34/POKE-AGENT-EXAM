@@ -1,0 +1,30 @@
+{
+ "name": "dome-fossil",
+ "names": {
+  "ja-hrkt": "こうらのカセキ",
+  "ko": "껍질화석",
+  "zh-hant": "甲殼化石",
+  "fr": "Fossile Dôme",
+  "de": "Domfossil",
+  "es": "Fósil Domo",
+  "it": "Domofossile",
+  "en": "Dome Fossil",
+  "ja": "こうらのカセキ",
+  "zh-hans": "甲壳化石",
+  "es-419": "Fósil Domo"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Kabuto.",
+  "en": "Can be revived into a Kabuto."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sea. It could be a shell or carapace.",
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬의 화석. 등껍질의 일부인 듯하다.",
+  "ja": "大昔 海に すんでいた 古代ポケモンの カセキ。 こうらの 一部らしい。"
+ }
+}

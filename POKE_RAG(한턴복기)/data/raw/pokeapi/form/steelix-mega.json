@@ -1,0 +1,23 @@
+{
+ "name": "steelix-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Steelix",
+  "de": "Mega-Stahlos",
+  "en": "Mega Steelix"
+ },
+ "form_names": {
+  "ja-hrkt": "メガハガネール",
+  "ko": "메가강철톤",
+  "zh-hant": "超級大鋼蛇",
+  "fr": "Méga-Steelix",
+  "de": "Mega-Form",
+  "es": "Mega-Steelix",
+  "it": "MegaSteelix",
+  "en": "Mega Steelix",
+  "ja": "メガハガネール",
+  "zh-hans": "超级大钢蛇",
+  "es-419": "Mega-Steelix"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,20 @@
+{
+ "name": "mayonnaise",
+ "names": {
+  "ja-hrkt": "マヨネーズ",
+  "ko": "마요네즈",
+  "zh-hant": "美乃滋",
+  "fr": "Mayonnaise",
+  "de": "Mayonnaise",
+  "es": "Mayonesa",
+  "it": "Maionese",
+  "en": "Mayonnaise",
+  "ja": "マヨネーズ",
+  "zh-hans": "蛋黄酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

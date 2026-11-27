@@ -1,0 +1,20 @@
+{
+ "name": "peanut-butter",
+ "names": {
+  "ja-hrkt": "ピーナッツバター",
+  "ko": "땅콩버터",
+  "zh-hant": "花生醬",
+  "fr": "Beurre de Cacahuètes",
+  "de": "Erdnussbutter",
+  "es": "Crema de Cacahuete",
+  "it": "Burro di arachidi",
+  "en": "Peanut Butter",
+  "ja": "ピーナッツバター",
+  "zh-hans": "花生酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

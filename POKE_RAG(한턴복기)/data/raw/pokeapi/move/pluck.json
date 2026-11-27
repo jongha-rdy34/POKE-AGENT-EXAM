@@ -1,0 +1,31 @@
+{
+ "name": "pluck",
+ "names": {
+  "ja-hrkt": "ついばむ",
+  "ko": "쪼아대기",
+  "zh-hant": "啄食",
+  "fr": "Picore",
+  "de": "Pflücker",
+  "es": "Picoteo",
+  "it": "Spennata",
+  "en": "Pluck",
+  "ja": "ついばむ",
+  "zh-hans": "啄食",
+  "es-419": "Picoteo"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If target has a berry, inflicts double damage and uses the berry."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by pecking the target. If the target is holding a Berry, the user eats it and gains its effect.",
+  "ko": "부리로 공격한다. 상대가 나무열매를 지니고 있을 때 먹어서 나무열매의 효과를 받을 수 있다."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": 745,
+ "name": "lycanroc",
+ "names": {
+  "ja-hrkt": "ルガルガン",
+  "ja-roma": "Lugarugan",
+  "ko": "루가루암",
+  "zh-hant": "鬃岩狼人",
+  "fr": "Lougaroc",
+  "de": "Wolwerock",
+  "es": "Lycanroc",
+  "it": "Lycanroc",
+  "en": "Lycanroc",
+  "ja": "ルガルガン",
+  "zh-hans": "鬃岩狼人",
+  "es-419": "Lycanroc"
+ },
+ "genus": {
+  "ja-hrkt": "オオカミポケモン",
+  "ko": "늑대포켓몬",
+  "zh-hant": "狼寶可夢",
+  "fr": "Pokémon Loup",
+  "de": "Wolfs-Pokémon",
+  "es": "Pokémon Lobo",
+  "it": "Pokémon Lupo",
+  "en": "Wolf Pokémon",
+  "ja": "オオカミポケモン",
+  "zh-hans": "狼宝可梦",
+  "es-419": "Pokémon Lobo"
+ },
+ "flavor": {
+  "ko": "빠른 움직임으로 먹이를 차츰차츰 궁지에 몰아넣는다. 이빨은 항상 급소를 노리고 있다.",
+  "en": "With swift movements, this Pokémon gradually backs its prey into a corner. Lycanroc’s fangs are always aimed toward opponents’ weak spots."
+ },
+ "varieties": [
+  {
+   "name": "lycanroc-midday",
+   "is_default": true
+  },
+  {
+   "name": "lycanroc-midnight",
+   "is_default": false
+  },
+  {
+   "name": "lycanroc-dusk",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "383"
+}

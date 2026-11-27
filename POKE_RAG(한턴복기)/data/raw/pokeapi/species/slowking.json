@@ -1,0 +1,46 @@
+{
+ "id": 199,
+ "name": "slowking",
+ "names": {
+  "ja-hrkt": "ヤドキング",
+  "ja-roma": "Yadoking",
+  "ko": "야도킹",
+  "zh-hant": "呆呆王",
+  "fr": "Roigada",
+  "de": "Laschoking",
+  "es": "Slowking",
+  "it": "Slowking",
+  "en": "Slowking",
+  "ja": "ヤドキング",
+  "zh-hans": "呆呆王",
+  "es-419": "Slowking"
+ },
+ "genus": {
+  "ja-hrkt": "おうじゃポケモン",
+  "ko": "임금포켓몬",
+  "zh-hant": "王者寶可夢",
+  "fr": "Pokémon Royal",
+  "de": "Monarchen-Pokémon",
+  "es": "Pokémon Regio",
+  "it": "Pokémon Reale",
+  "en": "Royal Pokémon",
+  "ja": "おうじゃポケモン",
+  "zh-hans": "王者宝可梦",
+  "es-419": "Pokémon Regio"
+ },
+ "flavor": {
+  "en": "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says.",
+  "ko": "아무리 어려운 문제를 물어봐도 모두 해결해주지만 그 누구도 야도킹의 말을 이해하지 못한다."
+ },
+ "varieties": [
+  {
+   "name": "slowking",
+   "is_default": true
+  },
+  {
+   "name": "slowking-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "33"
+}

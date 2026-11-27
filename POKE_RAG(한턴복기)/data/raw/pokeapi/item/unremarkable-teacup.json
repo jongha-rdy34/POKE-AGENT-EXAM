@@ -1,0 +1,20 @@
+{
+ "name": "unremarkable-teacup",
+ "names": {
+  "ja-hrkt": "ボンサクのちゃわん",
+  "ko": "범작찻잔",
+  "zh-hant": "凡作茶碗",
+  "fr": "Bol Médiocre",
+  "de": "Simple Teeschale",
+  "es": "Cuenco Mediocre",
+  "it": "Tazza dozzinale",
+  "en": "Unremarkable Teacup",
+  "ja": "ボンサクのちゃわん",
+  "zh-hans": "凡作茶碗"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

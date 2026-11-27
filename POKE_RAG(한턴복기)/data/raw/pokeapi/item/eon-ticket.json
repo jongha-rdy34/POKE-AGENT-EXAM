@@ -1,0 +1,28 @@
+{
+ "name": "eon-ticket",
+ "names": {
+  "ja-hrkt": "むげんのチケット",
+  "ko": "무한티켓",
+  "zh-hant": "無限船票",
+  "fr": "Passe Éon",
+  "de": "Äon-Ticket",
+  "es": "Ticket Eón",
+  "it": "Biglietto Eone",
+  "en": "Eon Ticket",
+  "ja": "むげんのチケット",
+  "zh-hans": "无限船票",
+  "es-419": "Ticket Eón"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à l'ïle du Sud et Latias ou Latios.",
+  "en": "Provides access to Southern Island and Latias or Latios."
+ },
+ "flavor": {
+  "en": "The ticket required for sailing on a ferry to the Southern Island. Does Norman, the Petalburg Gym Leader, know a secret?!",
+  "ko": "남쪽의 외딴섬으로 가는 배의 승선티켓. 등화체육관 관장 종길이 비밀을 알고 있다!?",
+  "ja": "南の孤島へ 行く 船の チケット。トウカジムの ジムリーダー センリが 秘密を 知っている！？"
+ }
+}

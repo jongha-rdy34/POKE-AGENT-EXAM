@@ -1,0 +1,42 @@
+{
+ "id": 674,
+ "name": "pancham",
+ "names": {
+  "ja-hrkt": "ヤンチャム",
+  "ja-roma": "Yancham",
+  "ko": "판짱",
+  "zh-hant": "頑皮熊貓",
+  "fr": "Pandespiègle",
+  "de": "Pam-Pam",
+  "es": "Pancham",
+  "it": "Pancham",
+  "en": "Pancham",
+  "ja": "ヤンチャム",
+  "zh-hans": "顽皮熊猫",
+  "es-419": "Pancham"
+ },
+ "genus": {
+  "ja-hrkt": "やんちゃポケモン",
+  "ko": "개구쟁이포켓몬",
+  "zh-hant": "頑皮寶可夢",
+  "fr": "Pokémon Garnement",
+  "de": "Verspielt-Pokémon",
+  "es": "Pokémon Juguetón",
+  "it": "Pokémon Briccone",
+  "en": "Playful Pokémon",
+  "ja": "やんちゃポケモン",
+  "zh-hans": "顽皮宝可梦",
+  "es-419": "Pokémon Juguetón"
+ },
+ "flavor": {
+  "ko": "얕잡아 보이지 않으려고 언제나 상대를 노려보고 있지만 방심하면 금방 웃는 얼굴이 되어버린다.",
+  "en": "Wanting to make sure it’s taken seriously, Pancham’s always giving others a glare. But if it’s not focusing, it ends up smiling."
+ },
+ "varieties": [
+  {
+   "name": "pancham",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "346"
+}

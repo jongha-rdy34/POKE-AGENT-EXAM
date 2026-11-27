@@ -1,0 +1,15 @@
+{
+ "name": "meganium-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Méganium",
+  "en": "Mega Meganium"
+ },
+ "form_names": {
+  "ja-hrkt": "メガメガニウム",
+  "fr": "Méga-Méganium",
+  "en": "Mega Meganium",
+  "ja": "メガメガニウム"
+ },
+ "is_mega": true
+}

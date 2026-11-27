@@ -1,0 +1,19 @@
+{
+ "name": "tm198",
+ "names": {
+  "ko": "기술머신198",
+  "zh-hant": "招式學習器１９８",
+  "fr": "CT198",
+  "de": "TM198",
+  "es": "MT198",
+  "it": "MT198",
+  "en": "TM198",
+  "ja": "わざマシン１９８",
+  "zh-hans": "招式学习器１９８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

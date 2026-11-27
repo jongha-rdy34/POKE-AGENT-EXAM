@@ -1,0 +1,28 @@
+{
+ "name": "tm93",
+ "names": {
+  "ja-hrkt": "わざマシン９３",
+  "ko": "기술머신93",
+  "zh-hant": "招式學習器９３",
+  "fr": "CT93",
+  "de": "TM93",
+  "es": "MT93",
+  "it": "MT93",
+  "en": "TM93",
+  "ja": "わざマシン９３",
+  "zh-hans": "招式学习器９３",
+  "es-419": "MT93"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Éclair Fou à un Pokémon compatible.",
+  "en": "Teaches Wild Charge to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user’s body generates an eerie impulse. Exposing the target to it harshly lowers the target’s Sp. Atk stat.",
+  "ko": "몸에서 발생시킨 괴전파를 상대에게 쏘아 특수공격을 크게 떨어뜨린다.",
+  "ja": "体から かいでんぱを 放ち 相手に 浴びせる ことによって 特攻を がくっと さげる。"
+ }
+}

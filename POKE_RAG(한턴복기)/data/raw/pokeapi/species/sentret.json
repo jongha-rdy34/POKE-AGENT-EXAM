@@ -1,0 +1,42 @@
+{
+ "id": 161,
+ "name": "sentret",
+ "names": {
+  "ja-hrkt": "オタチ",
+  "ja-roma": "Otachi",
+  "ko": "꼬리선",
+  "zh-hant": "尾立",
+  "fr": "Fouinette",
+  "de": "Wiesor",
+  "es": "Sentret",
+  "it": "Sentret",
+  "en": "Sentret",
+  "ja": "オタチ",
+  "zh-hans": "尾立",
+  "es-419": "Sentret"
+ },
+ "genus": {
+  "ja-hrkt": "みはりポケモン",
+  "ko": "망보기포켓몬",
+  "zh-hant": "放哨寶可夢",
+  "fr": "Pokémon Espion",
+  "de": "Späher",
+  "es": "Pokémon Explorador",
+  "it": "Pokémon Esplorante",
+  "en": "Scout Pokémon",
+  "ja": "みはりポケモン",
+  "zh-hans": "放哨宝可梦",
+  "es-419": "Pokémon Explorador"
+ },
+ "flavor": {
+  "en": "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
+  "ko": "잠잘 때는 교대로 망을 본다. 위험을 탐지하면 동료를 깨운다. 무리에서 떨어지면 무서워서 자지 못한다."
+ },
+ "varieties": [
+  {
+   "name": "sentret",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "82"
+}

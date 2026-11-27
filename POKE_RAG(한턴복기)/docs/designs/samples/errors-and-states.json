@@ -1,0 +1,59 @@
+{
+ "extract_fail": {
+  "type": "fail",
+  "reason": "llm_unavailable | empty | broken_json | refusal | empty_input",
+  "fields": {},
+  "missing": [],
+  "ask": [],
+  "notes": [],
+  "extraction_id": "…"
+ },
+ "extract_rule": {
+  "type": "rule",
+  "reason": null,
+  "fields": {},
+  "missing": [],
+  "ask": [],
+  "notes": [],
+  "extraction_id": "…"
+ },
+ "http_403": {
+  "detail": {
+   "code": "no_token",
+   "message": "초대 링크로 접속해 주세요"
+  }
+ },
+ "http_429_token": {
+  "detail": {
+   "code": "token_limit",
+   "message": "오늘 이용 횟수를 다 썼어요. 내일 다시 이용해 주세요"
+  }
+ },
+ "http_429_server": {
+  "detail": {
+   "code": "server_limit",
+   "message": "오늘 서버 사용량이 다 찼어요. 내일 다시 이용해 주세요"
+  }
+ },
+ "http_422": "Pydantic 검증 오류(문장 300자 초과, actor·결과 값이 틀림 등)",
+ "sse_error_bad_input": {
+  "event": "error",
+  "data": {
+   "code": "bad_input",
+   "message": "알 수 없는 기술: no-such-move"
+  }
+ },
+ "sse_error_internal": {
+  "event": "error",
+  "data": {
+   "code": "internal",
+   "message": "계산 중 문제가 생겼어요. 잠시 뒤 다시 시도해 주세요"
+  }
+ },
+ "quota": {
+  "remaining": {
+   "review": 49,
+   "extract": 99
+  }
+ }
+}

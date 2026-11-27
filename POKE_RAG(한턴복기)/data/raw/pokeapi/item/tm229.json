@@ -1,0 +1,19 @@
+{
+ "name": "tm229",
+ "names": {
+  "ko": "기술머신229",
+  "zh-hant": "招式學習器２２９",
+  "fr": "CT229",
+  "de": "TM229",
+  "es": "MT229",
+  "it": "MT229",
+  "en": "TM229",
+  "ja": "わざマシン２２９",
+  "zh-hans": "招式学习器２２９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

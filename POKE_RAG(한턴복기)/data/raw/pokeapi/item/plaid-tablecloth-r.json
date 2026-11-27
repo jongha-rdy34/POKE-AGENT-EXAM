@@ -1,0 +1,20 @@
+{
+ "name": "plaid-tablecloth-r",
+ "names": {
+  "ja-hrkt": "あかチェッククロス",
+  "ko": "레드 체크 테이블보",
+  "zh-hant": "紅色格子桌巾",
+  "fr": "Nappe Tartan Rouge",
+  "de": "Rotkaro-Tischtuch",
+  "es": "Mantel Cuadros Rojo",
+  "it": "Tovaglia a quadri rossa",
+  "en": "Plaid Tablecloth (R)",
+  "ja": "あかチェッククロス",
+  "zh-hans": "红色格子桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

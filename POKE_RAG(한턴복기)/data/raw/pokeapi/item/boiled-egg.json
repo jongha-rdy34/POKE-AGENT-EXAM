@@ -1,0 +1,25 @@
+{
+ "name": "boiled-egg",
+ "names": {
+  "ja-hrkt": "ゆでタマゴ",
+  "ko": "삶은알",
+  "zh-hant": "水煮蛋",
+  "fr": "Œuf Dur",
+  "de": "Gekochtes Ei",
+  "es": "Huevo Duro",
+  "it": "Uovo sodo",
+  "en": "Boiled Egg",
+  "ja": "ゆでタマゴ",
+  "zh-hans": "水煮蛋",
+  "es-419": "Huevo Duro"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 단 하나의 삶은알이 요리의 퀄리티를 높여준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. Even just one boiled egg can really enhance a dish.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。たった 一つの ゆでタマゴが クオリティを あげてくれる。"
+ }
+}

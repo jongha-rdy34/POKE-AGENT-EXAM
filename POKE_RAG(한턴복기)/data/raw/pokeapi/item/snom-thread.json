@@ -1,0 +1,20 @@
+{
+ "name": "snom-thread",
+ "names": {
+  "ja-hrkt": "ユキハミのいと",
+  "ko": "누니머기의실",
+  "zh-hant": "雪吞蟲的絲",
+  "fr": "Fil de Frissonille",
+  "de": "Snomnom-Faden",
+  "es": "Hilo de Snom",
+  "it": "Filo di Snom",
+  "en": "Snom Thread",
+  "ja": "ユキハミのいと",
+  "zh-hans": "雪吞虫的丝"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

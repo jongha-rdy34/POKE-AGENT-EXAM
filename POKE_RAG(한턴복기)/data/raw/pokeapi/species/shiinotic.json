@@ -1,0 +1,42 @@
+{
+ "id": 756,
+ "name": "shiinotic",
+ "names": {
+  "ja-hrkt": "マシェード",
+  "ja-roma": "Mashade",
+  "ko": "마셰이드",
+  "zh-hant": "燈罩夜菇",
+  "fr": "Lampignon",
+  "de": "Lamellux",
+  "es": "Shiinotic",
+  "it": "Shiinotic",
+  "en": "Shiinotic",
+  "ja": "マシェード",
+  "zh-hans": "灯罩夜菇",
+  "es-419": "Shiinotic"
+ },
+ "genus": {
+  "ja-hrkt": "はっこうポケモン",
+  "ko": "발광포켓몬",
+  "zh-hant": "發光寶可夢",
+  "fr": "Pokémon Luminescent",
+  "de": "Lumineszenz-Pokémon",
+  "es": "Pokémon Luminiscente",
+  "it": "Pokémon Luminescenza",
+  "en": "Illuminating Pokémon",
+  "ja": "はっこうポケモン",
+  "zh-hans": "发光宝可梦",
+  "es-419": "Pokémon Luminiscente"
+ },
+ "flavor": {
+  "ko": "한밤중에 숲속에서 빛을 발견하더라도 다가가면 안 된다. 마셰이드가 잠들어 버리게 한다.",
+  "en": "If you see a light deep in a forest at night, don’t go near. Shiinotic will make you fall fast asleep."
+ },
+ "varieties": [
+  {
+   "name": "shiinotic",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "389"
+}

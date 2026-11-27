@@ -1,0 +1,42 @@
+{
+ "id": 164,
+ "name": "noctowl",
+ "names": {
+  "ja-hrkt": "ヨルノズク",
+  "ja-roma": "Yorunozuku",
+  "ko": "야부엉",
+  "zh-hant": "貓頭夜鷹",
+  "fr": "Noarfang",
+  "de": "Noctuh",
+  "es": "Noctowl",
+  "it": "Noctowl",
+  "en": "Noctowl",
+  "ja": "ヨルノズク",
+  "zh-hans": "猫头夜鹰",
+  "es-419": "Noctowl"
+ },
+ "genus": {
+  "ja-hrkt": "ふくろうポケモン",
+  "ko": "부엉이포켓몬",
+  "zh-hant": "貓頭鷹寶可夢",
+  "fr": "Pokémon Hibou",
+  "de": "Eulen-Pokémon",
+  "es": "Pokémon Búho",
+  "it": "Pokémon Gufo",
+  "en": "Owl Pokémon",
+  "ja": "ふくろうポケモン",
+  "zh-hans": "猫头鹰宝可梦",
+  "es-419": "Pokémon Búho"
+ },
+ "flavor": {
+  "en": "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power.",
+  "ko": "무언가를 생각하기 시작하면 목을 180도 회전시켜 두뇌 회전을 높인다."
+ },
+ "varieties": [
+  {
+   "name": "noctowl",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "83"
+}

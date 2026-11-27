@@ -1,0 +1,42 @@
+{
+ "id": 574,
+ "name": "gothita",
+ "names": {
+  "ja-hrkt": "ゴチム",
+  "ja-roma": "Gothimu",
+  "ko": "고디탱",
+  "zh-hant": "哥德寶寶",
+  "fr": "Scrutella",
+  "de": "Mollimorba",
+  "es": "Gothita",
+  "it": "Gothita",
+  "en": "Gothita",
+  "ja": "ゴチム",
+  "zh-hans": "哥德宝宝",
+  "es-419": "Gothita"
+ },
+ "genus": {
+  "ja-hrkt": "ぎょうしポケモン",
+  "ko": "응시포켓몬",
+  "zh-hant": "凝視寶可夢",
+  "fr": "Pokémon Dévisageur",
+  "de": "Glotz-Pokémon",
+  "es": "Pokémon Inquisitivo",
+  "it": "Pokémon Fissosguardo",
+  "en": "Fixation Pokémon",
+  "ja": "ぎょうしポケモン",
+  "zh-hans": "凝视宝可梦",
+  "es-419": "Pokémon Inquisitivo"
+ },
+ "flavor": {
+  "en": "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see.",
+  "ko": "아무도 없는데 나직이 운다. 고디탱에게만 보이는 뭔가와 이야기하는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "gothita",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "293"
+}

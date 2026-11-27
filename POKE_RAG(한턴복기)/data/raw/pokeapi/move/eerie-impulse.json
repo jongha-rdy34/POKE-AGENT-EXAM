@@ -1,0 +1,31 @@
+{
+ "name": "eerie-impulse",
+ "names": {
+  "ja-hrkt": "かいでんぱ",
+  "ko": "괴전파",
+  "zh-hant": "怪異電波",
+  "fr": "Ondes Étranges",
+  "de": "Mystowellen",
+  "es": "Onda Anómala",
+  "it": "Elettromistero",
+  "en": "Eerie Impulse",
+  "ja": "かいでんぱ",
+  "zh-hans": "怪异电波",
+  "es-419": "Onda Anómala"
+ },
+ "type": "electric",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Special Attack by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "몸에서 발생시킨 괴전파를 상대에게 쏘아 특수공격을 크게 떨어뜨린다.",
+  "en": "The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat."
+ }
+}

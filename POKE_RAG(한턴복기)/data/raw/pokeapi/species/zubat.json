@@ -1,0 +1,42 @@
+{
+ "id": 41,
+ "name": "zubat",
+ "names": {
+  "ja-hrkt": "ズバット",
+  "ja-roma": "Zubat",
+  "ko": "주뱃",
+  "zh-hant": "超音蝠",
+  "fr": "Nosferapti",
+  "de": "Zubat",
+  "es": "Zubat",
+  "it": "Zubat",
+  "en": "Zubat",
+  "ja": "ズバット",
+  "zh-hans": "超音蝠",
+  "es-419": "Zubat"
+ },
+ "genus": {
+  "ja-hrkt": "こうもりポケモン",
+  "ko": "박쥐포켓몬",
+  "zh-hant": "蝙蝠寶可夢",
+  "fr": "Pokémon Chovsouris",
+  "de": "Fledermaus-Pokémon",
+  "es": "Pokémon Murciélago",
+  "it": "Pokémon Pipistrello",
+  "en": "Bat Pokémon",
+  "ja": "こうもりポケモン",
+  "zh-hans": "蝙蝠宝可梦",
+  "es-419": "Pokémon Murciélago"
+ },
+ "flavor": {
+  "en": "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies.",
+  "ko": "볕이 들지 않는 동굴에 산다. 아침이 되면 동료들끼리 모여 서로의 온기를 나누면서 잔다."
+ },
+ "varieties": [
+  {
+   "name": "zubat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "17"
+}

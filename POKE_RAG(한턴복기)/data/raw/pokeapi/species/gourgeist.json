@@ -1,0 +1,54 @@
+{
+ "id": 711,
+ "name": "gourgeist",
+ "names": {
+  "ja-hrkt": "パンプジン",
+  "ja-roma": "Pumpjin",
+  "ko": "펌킨인",
+  "zh-hant": "南瓜怪人",
+  "fr": "Banshitrouye",
+  "de": "Pumpdjinn",
+  "es": "Gourgeist",
+  "it": "Gourgeist",
+  "en": "Gourgeist",
+  "ja": "パンプジン",
+  "zh-hans": "南瓜怪人",
+  "es-419": "Gourgeist"
+ },
+ "genus": {
+  "ja-hrkt": "かぼちゃポケモン",
+  "ko": "호박포켓몬",
+  "zh-hant": "南瓜寶可夢",
+  "fr": "Pokémon Citrouille",
+  "de": "Kürbis-Pokémon",
+  "es": "Pokémon Calabaza",
+  "it": "Pokémon Zucca",
+  "en": "Pumpkin Pokémon",
+  "ja": "かぼちゃポケモン",
+  "zh-hans": "南瓜宝可梦",
+  "es-419": "Pokémon Calabaza"
+ },
+ "flavor": {
+  "ko": "초승달이 뜨는 밤이 되면 펌킨인이 현관문을 노크한다. 그리고는 열어준 사람을 저세상으로 데리고 간다.",
+  "en": "In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife."
+ },
+ "varieties": [
+  {
+   "name": "gourgeist-average",
+   "is_default": true
+  },
+  {
+   "name": "gourgeist-small",
+   "is_default": false
+  },
+  {
+   "name": "gourgeist-large",
+   "is_default": false
+  },
+  {
+   "name": "gourgeist-super",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "365"
+}

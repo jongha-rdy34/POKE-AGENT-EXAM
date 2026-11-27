@@ -1,0 +1,42 @@
+{
+ "id": 791,
+ "name": "solgaleo",
+ "names": {
+  "ja-hrkt": "ソルガレオ",
+  "ja-roma": "Solgaleo",
+  "ko": "솔가레오",
+  "zh-hant": "索爾迦雷歐",
+  "fr": "Solgaleo",
+  "de": "Solgaleo",
+  "es": "Solgaleo",
+  "it": "Solgaleo",
+  "en": "Solgaleo",
+  "ja": "ソルガレオ",
+  "zh-hans": "索尔迦雷欧",
+  "es-419": "Solgaleo"
+ },
+ "genus": {
+  "ja-hrkt": "にちりんポケモン",
+  "ko": "일륜포켓몬",
+  "zh-hant": "日輪寶可夢",
+  "fr": "Pokémon Halo Solaire",
+  "de": "Sonnenkreis-Pokémon",
+  "es": "Pokémon Corona Solar",
+  "it": "Pokémon Solare",
+  "en": "Sunne Pokémon",
+  "ja": "にちりんポケモン",
+  "zh-hans": "日轮宝可梦",
+  "es-419": "Pokémon Corona Solar"
+ },
+ "flavor": {
+  "ko": "태양을 삼키는 짐승이라고 불렸다. 굉장한 양의 빛 에너지를 방출한다.",
+  "en": "Solgaleo was once known as the Beast That Devours the Sun. Energy in the form of light radiates boundlessly from it."
+ },
+ "varieties": [
+  {
+   "name": "solgaleo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "413"
+}

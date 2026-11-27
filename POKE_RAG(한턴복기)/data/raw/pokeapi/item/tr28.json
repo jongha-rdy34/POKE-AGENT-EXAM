@@ -1,0 +1,25 @@
+{
+ "name": "tr28",
+ "names": {
+  "ja-hrkt": "わざレコード２８",
+  "ko": "기술레코드28",
+  "zh-hant": "招式紀錄２８",
+  "fr": "DT28",
+  "de": "TP28",
+  "es": "DT28",
+  "it": "DT28",
+  "en": "TR28",
+  "ja": "わざレコード２８",
+  "zh-hans": "招式记录２８",
+  "es-419": "DT28"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "단단하고 훌륭한 뿔로 마음껏 상대를 꿰찔러서 공격한다.",
+  "en": "Using its tough and impressive horn, the user rams into the target with no letup.",
+  "ja": "硬くて りっぱな つので おもいっきり 相手を 突き刺して 攻撃する。"
+ }
+}

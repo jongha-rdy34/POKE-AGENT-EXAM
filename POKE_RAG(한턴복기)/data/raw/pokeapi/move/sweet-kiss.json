@@ -1,0 +1,31 @@
+{
+ "name": "sweet-kiss",
+ "names": {
+  "ja-hrkt": "てんしのキッス",
+  "ko": "천사의키스",
+  "zh-hant": "天使之吻",
+  "fr": "Doux Baiser",
+  "de": "Bitterkuss",
+  "es": "Beso Dulce",
+  "it": "Dolcebacio",
+  "en": "Sweet Kiss",
+  "ja": "てんしのキッス",
+  "zh-hans": "天使之吻",
+  "es-419": "Beso Dulce"
+ },
+ "type": "fairy",
+ "category": "status",
+ "power": null,
+ "accuracy": 75,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Confuses the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user kisses the target with a sweet, angelic cuteness that causes confusion.",
+  "ko": "천사처럼 귀엽게 키스하여 상대를 혼란시킨다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 168,
+ "name": "ariados",
+ "names": {
+  "ja-hrkt": "アリアドス",
+  "ja-roma": "Ariados",
+  "ko": "아리아도스",
+  "zh-hant": "阿利多斯",
+  "fr": "Migalos",
+  "de": "Ariados",
+  "es": "Ariados",
+  "it": "Ariados",
+  "en": "Ariados",
+  "ja": "アリアドス",
+  "zh-hans": "阿利多斯",
+  "es-419": "Ariados"
+ },
+ "genus": {
+  "ja-hrkt": "あしながポケモン",
+  "ko": "롱다리포켓몬",
+  "zh-hant": "長腿寶可夢",
+  "fr": "Pokémon Long-Patte",
+  "de": "Langbein",
+  "es": "Pokémon Pata Larga",
+  "it": "Pokémon Lungazampa",
+  "en": "Long Leg Pokémon",
+  "ja": "あしながポケモン",
+  "zh-hans": "长腿宝可梦",
+  "es-419": "Pokémon Pata Larga"
+ },
+ "flavor": {
+  "en": "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
+  "ko": "실을 뿜어서 먹이를 잡는다. 밤이 되면 둥지를 떠나 적극적으로 사냥에 나선다."
+ },
+ "varieties": [
+  {
+   "name": "ariados",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "85"
+}

@@ -1,0 +1,46 @@
+{
+ "id": 146,
+ "name": "moltres",
+ "names": {
+  "ja-hrkt": "ファイヤー",
+  "ja-roma": "Fire",
+  "ko": "파이어",
+  "zh-hant": "火焰鳥",
+  "fr": "Sulfura",
+  "de": "Lavados",
+  "es": "Moltres",
+  "it": "Moltres",
+  "en": "Moltres",
+  "ja": "ファイヤー",
+  "zh-hans": "火焰鸟",
+  "es-419": "Moltres"
+ },
+ "genus": {
+  "ja-hrkt": "かえんポケモン",
+  "ko": "화염포켓몬",
+  "zh-hant": "火焰寶可夢",
+  "fr": "Pokémon Flamme",
+  "de": "Flammen-Pokémon",
+  "es": "Pokémon Llama",
+  "it": "Pokémon Fiamma",
+  "en": "Flame Pokémon",
+  "ja": "かえんポケモン",
+  "zh-hans": "火焰宝可梦",
+  "es-419": "Pokémon Llama"
+ },
+ "flavor": {
+  "en": "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains.",
+  "ko": "아름답게 타오르는 날개로 산길을 비춰 조난자를 도왔다고 전해져 오고 있다."
+ },
+ "varieties": [
+  {
+   "name": "moltres",
+   "is_default": true
+  },
+  {
+   "name": "moltres-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "75"
+}

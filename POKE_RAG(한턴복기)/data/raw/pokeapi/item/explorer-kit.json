@@ -1,0 +1,28 @@
+{
+ "name": "explorer-kit",
+ "names": {
+  "ja-hrkt": "たんけんセット",
+  "ko": "탐험세트",
+  "zh-hant": "探險組合",
+  "fr": "Explorakit",
+  "de": "Erkundungs-Set",
+  "es": "Kit Explorador",
+  "it": "Esplorokit",
+  "en": "Explorer Kit",
+  "ja": "たんけんセット",
+  "zh-hans": "探险套装",
+  "es-419": "Kit Explorador"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet de visiter le Souterrain de Sinnoh.",
+  "en": "Allows visiting the Underground."
+ },
+ "flavor": {
+  "en": "A bag filled with convenient tools for exploring. It provides access to the Underground in the Sinnoh region.",
+  "ko": "탐험에 도움이 되는 편리한 도구가 들어 있는 주머니. 지하통로에 들어갈 수 있다.",
+  "ja": "探検に 役立つ 便利な 道具が はいった ふくろ。 地下通路に はいれる。"
+ }
+}

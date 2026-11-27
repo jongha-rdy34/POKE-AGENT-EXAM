@@ -1,0 +1,20 @@
+{
+ "name": "tm130",
+ "names": {
+  "ja-hrkt": "わざマシン１３０",
+  "ko": "기술머신130",
+  "zh-hant": "招式學習器１３０",
+  "fr": "CT130",
+  "de": "TM130",
+  "es": "MT130",
+  "it": "MT130",
+  "en": "TM130",
+  "ja": "わざマシン１３０",
+  "zh-hans": "招式学习器１３０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

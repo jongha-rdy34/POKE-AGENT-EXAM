@@ -1,0 +1,28 @@
+{
+ "name": "works-key",
+ "names": {
+  "ja-hrkt": "はつでんしょキー",
+  "ko": "발전소키",
+  "zh-hant": "發電廠鑰匙",
+  "fr": "Clé Centrale",
+  "de": "K-Schlüssel",
+  "es": "Llave Central",
+  "it": "Turbinchiave",
+  "en": "Works Key",
+  "ja": "はつでんしょキー",
+  "zh-hans": "发电厂钥匙",
+  "es-419": "Llave Central"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder au Parc Éolien.",
+  "en": "Grants access to Valley Windworks."
+ },
+ "flavor": {
+  "en": "A large key for operating the doors of the Valley Windworks in the canyon. It was held by a Team Galactic Grunt.",
+  "ko": "골짜기발전소의 문을 여닫는 큰 열쇠. 어찌된 영문인지 갤럭시단이 지니고 있었다.",
+  "ja": "谷間の発電所の 扉を あけしめする おおきな カギ。 なぜか ギンガ団が 持っていた。"
+ }
+}

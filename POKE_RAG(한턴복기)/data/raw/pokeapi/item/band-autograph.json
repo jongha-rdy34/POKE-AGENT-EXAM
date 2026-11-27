@@ -1,0 +1,25 @@
+{
+ "name": "band-autograph",
+ "names": {
+  "ja-hrkt": "バンドのサイン",
+  "ko": "밴드의사인",
+  "zh-hant": "樂團的簽名",
+  "fr": "Dédicace",
+  "de": "Band-Autogramm",
+  "es": "Autógrafo Grupo",
+  "it": "Autografo band",
+  "en": "Band Autograph",
+  "ja": "バンドのサイン",
+  "zh-hans": "乐队的签名",
+  "es-419": "Autógrafo Grupo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "가라르지방의 카리스마 넘치는 밴드 “맥시마이저즈” 멤버 전원의 사인.",
+  "en": "It’s signed by all members of the Galar region’s most charismatic band, the Maximizers.",
+  "ja": "ガラル地方の カリスマで ある バンド「マキシマイザズ」の メンバー 全員に よる サイン。"
+ }
+}

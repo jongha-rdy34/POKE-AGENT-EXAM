@@ -1,0 +1,91 @@
+{
+ "id": 10025,
+ "name": "meowstic-female",
+ "species": "meowstic",
+ "is_default": false,
+ "types": [
+  "psychic"
+ ],
+ "stats": {
+  "hp": 74,
+  "attack": 48,
+  "defense": 76,
+  "special-attack": 83,
+  "special-defense": 81,
+  "speed": 104
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "infiltrator",
+   "hidden": false
+  },
+  {
+   "name": "competitive",
+   "hidden": true
+  }
+ ],
+ "height": 6,
+ "weight": 85,
+ "champions_moves": [
+  "alluring-voice",
+  "baton-pass",
+  "calm-mind",
+  "charge-beam",
+  "charm",
+  "covet",
+  "dark-pulse",
+  "dig",
+  "endure",
+  "energy-ball",
+  "expanding-force",
+  "extrasensory",
+  "facade",
+  "fake-out",
+  "fake-tears",
+  "future-sight",
+  "giga-impact",
+  "gravity",
+  "helping-hand",
+  "hyper-beam",
+  "iron-tail",
+  "light-screen",
+  "magic-room",
+  "nasty-plot",
+  "payback",
+  "play-rough",
+  "protect",
+  "psych-up",
+  "psychic",
+  "psychic-noise",
+  "psychic-terrain",
+  "psyshock",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "role-play",
+  "round",
+  "safeguard",
+  "shadow-ball",
+  "skill-swap",
+  "sleep-talk",
+  "snore",
+  "stored-power",
+  "substitute",
+  "sucker-punch",
+  "sunny-day",
+  "tail-slap",
+  "thunder-wave",
+  "thunderbolt",
+  "tickle",
+  "trailblaze",
+  "trick",
+  "trick-room",
+  "wonder-room",
+  "yawn",
+  "zen-headbutt"
+ ]
+}

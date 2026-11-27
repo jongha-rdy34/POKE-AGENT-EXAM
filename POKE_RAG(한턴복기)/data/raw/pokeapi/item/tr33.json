@@ -1,0 +1,25 @@
+{
+ "name": "tr33",
+ "names": {
+  "ja-hrkt": "わざレコード３３",
+  "ko": "기술레코드33",
+  "zh-hant": "招式紀錄３３",
+  "fr": "DT33",
+  "de": "TP33",
+  "es": "DT33",
+  "it": "DT33",
+  "en": "TR33",
+  "ja": "わざレコード３３",
+  "zh-hans": "招式记录３３",
+  "es-419": "DT33"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+  "ja": "黒い影の 塊を 投げつけて 攻撃する。 相手の 特防を さげることが ある。"
+ }
+}

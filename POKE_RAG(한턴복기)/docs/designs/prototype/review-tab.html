@@ -1,0 +1,874 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>복기 탭 프로토타입</title>
+<!-- 프로토타입 전용(재리뷰 #2 기준): 서버 없이 예시 데이터로 동작. 결정 근거는 ../loss-review-coach.design-review.md (DR3~DR22)·../loss-review-coach.ceo-review.md -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+/* 색 배치는 ../../../DESIGN.md: 청록(--accent)은 1순위 난수 띠·포커스·제품 표식에만. 주 버튼은 거의 검정(--primary). */
+:root {
+  --bg: #f6f7f7; --text: #15191b; --muted: #525a61; --line: #d9dee1;
+  --primary: #15191b; --on-primary: #ffffff;
+  --accent: #0d6453; --chip: #e9eced; --roll: #3b4349;
+  --warn: #875200; --danger: #b0261b;
+  --r-sm: 4px; --r-md: 6px; --r-full: 9999px;
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    --bg: #101315; --text: #e5e8ea; --muted: #a1a9af; --line: #2b3135;
+    --primary: #e5e8ea; --on-primary: #101315;
+    --accent: #46c2a6; --chip: #1d2225; --roll: #c3cacf;
+    --warn: #efb45c; --danger: #ff8b7d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme=dark] {
+  --bg: #101315; --text: #e5e8ea; --muted: #a1a9af; --line: #2b3135;
+  --primary: #e5e8ea; --on-primary: #101315;
+  --accent: #46c2a6; --chip: #1d2225; --roll: #c3cacf;
+  --warn: #efb45c; --danger: #ff8b7d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 400 16px/26px "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-variant-numeric: tabular-nums; caret-color: var(--accent);
+  word-break: keep-all; overflow-wrap: break-word;
+}
+::selection { background: var(--accent); color: var(--bg); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
+main { max-width: 720px; margin: 0 auto; padding: var(--s5) var(--s4) 120px; }
+.shell { display: flex; align-items: center; gap: var(--s3); padding-bottom: var(--s4); border-bottom: 1px solid var(--line); margin-bottom: var(--s5); }
+.mark { display: inline-grid; grid-template-columns: repeat(5, 4px); gap: 2px; }
+.mark i { height: 18px; border: 1px solid var(--roll); }
+.mark i.on { background: var(--accent); border-color: var(--accent); }
+.brand-name { font-size: 22px; line-height: 30px; font-weight: 700; }
+h1 { font-size: 22px; line-height: 30px; font-weight: 700; margin: 0 0 var(--s4); }
+.proto-note { font-size: 14px; line-height: 22px; color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: var(--s3); margin: 0 0 var(--s5); }
+.muted { color: var(--muted); }
+.small { font-size: 14px; line-height: 22px; }
+.hidden { display: none !important; }
+button, input, select, textarea { font: inherit; color: inherit; }
+button { min-height: 44px; padding: 0 var(--s4); border: 1px solid var(--muted); background: transparent; border-radius: var(--r-md); cursor: pointer; }
+button.primary { background: var(--primary); color: var(--on-primary); border-color: var(--primary); font-weight: 700; min-width: 160px; }
+button:disabled, button.primary:disabled { background: transparent; border-color: var(--line); color: var(--muted); cursor: not-allowed; }
+button.link { border: 0; padding: 0; min-height: 0; color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
+/* 확인 단계가 열리면 주 버튼은 「이대로 복기」 하나 (화면당 하나) */
+#askView:has(#confirmView:not(.hidden)) #askBtn { background: transparent; color: var(--text); border-color: var(--muted); font-weight: 400; }
+label { display: block; font-size: 14px; line-height: 22px; font-weight: 500; color: var(--muted); margin-bottom: var(--s1); }
+input[type=text], select, textarea { width: 100%; min-height: 44px; padding: 0 var(--s3); border: 1px solid var(--muted); border-radius: var(--r-sm); background: var(--bg); }
+textarea { padding: var(--s3); min-height: 96px; resize: vertical; line-height: 26px; }
+.field-error { color: var(--danger); font-size: 14px; line-height: 22px; margin-top: var(--s1); }
+input[aria-invalid=true] { border-color: var(--danger); }
+.hint, .reason { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s1); }
+.hint.warn { color: var(--warn); }
+.hint.danger { color: var(--danger); }
+.reason { margin: var(--s2) 0 0; }
+.examples { display: flex; flex-wrap: wrap; gap: var(--s2); margin-top: var(--s2); }
+.examples button { font-size: 14px; }
+.row-actions { display: flex; gap: var(--s2); flex-wrap: wrap; margin-top: var(--s4); }
+.consent { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s2); }
+
+/* 「더 정확하게」(DR20: 접힘) */
+details.more { margin-top: var(--s4); border-top: 1px solid var(--line); }
+details.more > summary { min-height: 44px; padding: var(--s2) 0; display: flex; align-items: center; cursor: pointer; }
+.matchup { display: grid; grid-template-columns: 1fr auto 1fr; gap: var(--s3); align-items: end; margin-top: var(--s3); }
+.matchup > *, .row2 > *, .more-grid > * { min-width: 0; }
+.role b { color: var(--text); }
+.swap { width: 44px; padding: 0; font-size: 22px; }
+.row2 { display: grid; grid-template-columns: 1fr 1.6fr; gap: var(--s3); margin-top: var(--s4); }
+fieldset { border: 0; padding: 0; margin: 0; }
+legend { font-size: 14px; line-height: 22px; font-weight: 500; color: var(--muted); padding: 0; margin-bottom: var(--s1); }
+.group-title { font-size: 14px; line-height: 22px; font-weight: 700; margin: var(--s2) 0 var(--s1); }
+.choice { display: flex; align-items: center; gap: var(--s2); min-height: 44px; margin: 0; color: var(--text); font-size: 16px; font-weight: 400; }
+.choice input { width: 20px; height: 20px; accent-color: var(--primary); margin: 0; }
+.chips-hp { display: flex; flex-wrap: wrap; gap: var(--s2); margin: 0 0 var(--s2) 28px; }
+.chips-hp label { margin: 0; color: var(--text); font-size: 14px; }
+.chips-hp input { position: absolute; opacity: 0; }
+.chips-hp span { display: inline-flex; align-items: center; min-height: 44px; padding: 0 var(--s3); border: 1px solid var(--muted); border-radius: var(--r-md); }
+.chips-hp input:checked + span { background: var(--chip); border-color: var(--text); font-weight: 700; }
+.chips-hp input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 2px; }
+.more-grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s4); padding: var(--s4) 0; }
+.more-grid .full { grid-column: 1 / -1; }
+.flag-groups { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s3); }
+.flag-groups > div { min-width: 0; }
+
+/* combobox (DR13) */
+.combo { position: relative; }
+.combo ul { position: absolute; left: 0; right: 0; top: 100%; z-index: 5; margin: var(--s1) 0 0; padding: var(--s1) 0; list-style: none; background: var(--bg); border: 1px solid var(--muted); border-radius: var(--r-sm); max-height: 260px; overflow: auto; }
+.combo li { min-height: 44px; display: flex; align-items: center; gap: var(--s2); padding: 0 var(--s3); cursor: pointer; }
+.combo li[aria-selected=true] { background: var(--chip); }
+.combo li .t { font-size: 14px; color: var(--muted); }
+.combo li.empty { cursor: default; color: var(--muted); }
+.combo .sheet-head { display: none; }
+
+/* 확인 단계 (C1-1): 구분 기호는 다음 칩에 붙어 함께 넘어간다 */
+.confirm { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: var(--s4) 0; margin-top: var(--s4); }
+.confirm .label { font-size: 14px; line-height: 22px; color: var(--muted); margin: 0; }
+.sentence { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2); margin: var(--s2) 0; }
+.seg { display: inline-flex; align-items: center; gap: var(--s2); white-space: nowrap; }
+.chip { min-height: 40px; padding: 0 var(--s3); border-radius: var(--r-full); background: var(--chip); border: 1px solid transparent; font-weight: 700; }
+.chip.missing { background: transparent; border: 1px dashed var(--danger); color: var(--danger); font-weight: 400; }
+.chip.flag { font-weight: 400; font-size: 14px; }
+.chip.check { border-color: var(--warn); }
+.chip-tag { font-size: 14px; font-weight: 400; color: var(--warn); }
+.swap-row { margin: var(--s2) 0 0; }
+.extract-notes { list-style: none; margin: var(--s2) 0 0; padding: 0; font-size: 14px; line-height: 22px; }
+.arrow { color: var(--muted); }
+.source-quote { font-size: 14px; line-height: 22px; color: var(--muted); }
+
+/* 결과 (DR3·C-O1·C-O3) */
+.turn-summary { display: flex; flex-wrap: wrap; gap: var(--s2); align-items: center; padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.turn-summary .txt { font-weight: 700; }
+.progress { color: var(--muted); margin: var(--s5) 0; }
+.notice { padding: var(--s3) 0; border-bottom: 1px solid var(--line); margin: 0; }
+.notice.warn { color: var(--warn); }
+.notice.danger { color: var(--danger); }
+.conclusion { font-size: 26px; line-height: 34px; font-weight: 700; letter-spacing: -0.01em; margin: var(--s5) 0 var(--s2); }
+.badge { display: inline-block; font-size: 14px; line-height: 20px; font-weight: 700; color: var(--warn); border: 1px solid currentColor; border-radius: var(--r-sm); padding: 0 6px; vertical-align: 4px; margin-left: var(--s2); white-space: nowrap; letter-spacing: 0; }
+.season, .assume, .excluded { font-size: 14px; line-height: 22px; color: var(--muted); }
+.assume { margin-top: var(--s2); }
+/* 원인 순위: 순위 | 도구·성립 조건 | 난수 띠 + 글자. 폰에서는 세 줄 */
+.causes-cap { font-size: 14px; line-height: 22px; color: var(--muted); margin: var(--s4) 0 0; padding-bottom: var(--s2); border-bottom: 1px solid var(--line); }
+ol.causes { list-style: none; margin: 0; padding: 0; }
+ol.causes li { display: grid; grid-template-columns: 24px 1fr auto; grid-template-areas: "rank item rolls" "rank spread rolls"; column-gap: var(--s3); padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.rank { grid-area: rank; color: var(--muted); font-weight: 700; }
+.item { grid-area: item; font-weight: 700; }
+.spread { grid-area: spread; font-size: 14px; line-height: 22px; color: var(--muted); }
+.rollcell { grid-area: rolls; display: flex; align-items: center; gap: var(--s2); justify-self: end; }
+.rolls { display: inline-grid; grid-template-columns: repeat(16, 8px); gap: 2px; }
+.rolls i { height: 14px; border: 1px solid var(--roll); border-radius: 1px; }
+.rolls i.on { background: var(--roll); }
+.lead .rolls i { border-color: var(--accent); }
+.lead .rolls i.on { background: var(--accent); }
+/* 글자 폭을 고정해 행마다 띠의 왼쪽 끝을 맞춘다 ("16번 중 11번 한 방" 기준) */
+.rolltxt { font-size: 14px; line-height: 22px; white-space: nowrap; min-width: 6em; text-align: right; }
+.excluded { margin-top: var(--s2); }
+/* 도구로 구분 불가: 순위 칸 없이 나열 */
+ol.causes.flat li { grid-template-columns: 1fr auto; grid-template-areas: "item rolls" "spread rolls"; }
+/* 두 기준(D31·D32): 우선순위대로 위아래. 위 = 실제 랭크배틀(주 기준), 아래 = Showdown 시뮬레이터(참고). 같으면 아래 기준은 접힌다 */
+.bases { margin-top: var(--s5); }
+.basis-head { font-size: 16px; line-height: 26px; font-weight: 700; margin: 0; }
+.basis-src, .diff-note, .roll-legend { font-size: 14px; line-height: 22px; color: var(--muted); margin: 0; }
+.roll-legend { margin-top: var(--s3); }
+/* 아래 기준은 굵은 구분선과 넓은 여백으로 떼고, 기준이 왜 다른지 한 줄을 먼저 둔다 */
+.basis.sub { margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--line); }
+.diff-note { margin-top: var(--s2); color: var(--text); }
+.other-basis .basis { padding-bottom: var(--s3); }
+/* 결과 구역 제목: 결론(26) 아래 단계(22). 계산표와 통계 원인표를 나눈다 */
+.section-title { font-size: 22px; line-height: 30px; font-weight: 700; margin: var(--s6) 0 var(--s1); padding-top: var(--s4); border-top: 1px solid var(--line); }
+/* 계산표(P0): 한 줄 = 빌드 이름 / 데미지 범위 + 띠 + 결과 / 통계 표기 */
+.calc-rows { list-style: none; margin: var(--s3) 0 0; padding: 0; border-top: 1px solid var(--line); }
+.calc-rows li { padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.calc-rows p { margin: 0; }
+.calc-label { font-size: 14px; line-height: 22px; font-weight: 500; }
+.calc-rows .calc-line { display: flex; flex-wrap: wrap; align-items: center; column-gap: var(--s3); row-gap: var(--s1); margin-top: var(--s1); }
+.calc-main { font-size: 16px; line-height: 26px; font-weight: 700; min-width: 8.5em; }
+.calc-res { font-size: 14px; line-height: 22px; }
+.calc-rows .calc-meta { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s1); }
+.calc-group { font-size: 16px; line-height: 26px; font-weight: 700; margin: var(--s5) 0 0; }
+.calc-group .badge { vertical-align: 2px; }
+.calc-empty { margin: var(--s3) 0 0; }
+/* 처음 3줄만 보이고 나머지는 접는다(폰에서 통계 구역까지 너무 멀어서) */
+details.calc-fold { margin-top: 0; border-top: 0; }
+details.calc-fold .calc-rows { margin-top: 0; border-top: 0; }
+.calc-more { margin-top: var(--s2); }
+.other-basis .basis.sub { margin-top: 0; padding-top: var(--s2); border-top: 0; }
+/* 넓은 화면(1200px+)에서 결과가 다르면 이 영역만 1104px로 넓혀 좌우 배열. 720px 안의 두 열은 줄이 너무 좁다 */
+@media (min-width: 1200px) {
+  /* .two는 화면 코드가 differs일 때 붙인다(:has()는 친구 기기 브라우저 지원을 확인 못 해서 배치에 쓰지 않는다) */
+  .bases.two { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s6); width: 1104px; margin-left: calc((100% - 1104px) / 2); }
+  .bases .basis.sub { margin-top: 0; padding: 0 0 0 var(--s6); border-top: 0; border-left: 1px solid var(--line); }
+}
+.u7 { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s3); }
+details.fold { margin-top: var(--s5); border-top: 1px solid var(--line); }
+details.fold > summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; }
+details.fold h3 { font-size: 14px; line-height: 22px; font-weight: 700; margin: var(--s3) 0 var(--s1); }
+details.fold ul, details.fold ol { margin: 0; padding-left: 20px; font-size: 14px; line-height: 22px; }
+details.fold li { margin-bottom: var(--s1); }
+.cite { font-size: 14px; white-space: nowrap; }
+.cite-item.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+.feedback { margin-top: var(--s5); padding-top: var(--s3); border-top: 1px solid var(--line); font-size: 14px; line-height: 22px; }
+.feedback .btns { display: flex; gap: var(--s2); margin-top: var(--s2); }
+.feedback button { font-size: 14px; }
+.rule-answer { margin-top: var(--s4); }
+.rule-answer .switch { font-size: 14px; line-height: 22px; color: var(--muted); padding-bottom: var(--s3); border-bottom: 1px solid var(--line); }
+
+
+/* 403 전체 화면 */
+.gate { text-align: left; padding: var(--s6) 0; }
+.gate h1 { margin-bottom: var(--s2); }
+
+/* 프로토타입 상태 전환 패널 (실제 화면에는 없음) */
+.proto { margin-top: 80px; border-top: 1px dashed var(--line); padding-top: var(--s3); font-size: 14px; }
+.proto summary { cursor: pointer; color: var(--muted); min-height: 44px; display: flex; align-items: center; }
+.proto .btns { display: flex; flex-wrap: wrap; gap: var(--s2); }
+.proto button { min-height: 36px; font-size: 14px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 599px) {
+  .row2, .more-grid, .flag-groups { grid-template-columns: 1fr; }
+  .conclusion { font-size: 22px; line-height: 30px; }
+  .row-actions button { flex: 1; }
+  ol.causes li { grid-template-columns: 24px 1fr; grid-template-areas: "rank item" "rank rolls" "rank spread"; row-gap: var(--s1); }
+  .rollcell { justify-self: start; }
+  .rolls { grid-template-columns: repeat(16, 7px); }
+  .rolltxt { min-width: 0; }
+  ol.causes.flat li { grid-template-columns: 1fr; grid-template-areas: "item" "rolls" "spread"; }
+  .combo.open { position: fixed; inset: 0; z-index: 20; background: var(--bg); padding: var(--s3) var(--s4); }
+  .combo.open .sheet-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--s2); }
+  .combo.open ul { position: static; max-height: none; border: 0; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .appear { animation: appear .24s ease-out; }
+  @keyframes appear { from { opacity: .4; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  /* 유일한 연출: 난수 띠가 왼쪽부터 한 칸씩 채워진다 */
+  .appear .rolls i.on { animation: fill .12s ease-out both; animation-delay: calc(var(--i) * 35ms); }
+  @keyframes fill { from { background: transparent; } }
+}
+</style>
+</head>
+<body>
+<main>
+  <header class="shell">
+    <span class="mark" aria-hidden="true"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
+    <span class="brand-name">한 턴 복기</span>
+  </header>
+  <p class="proto-note">프로토타입 · 예시 데이터입니다. 숫자·근거·문장 이해는 실제 결과가 아닙니다. 맨 아래 「프로토타입 상태 전환」에서 상태를 볼 수 있어요.</p>
+
+  <section id="askView" aria-labelledby="askTitle">
+    <h1 id="askTitle">어떤 한 턴이 납득 안 되나요?</h1>
+    <p id="listNotice" class="notice hidden" role="status"></p>
+    <form id="askForm" novalidate>
+      <label for="nlInput">무슨 일이 있었는지 적어 주세요</label>
+      <textarea id="nlInput" maxlength="300" aria-describedby="nlStatus" placeholder="예: 상대 망나뇽 역린에 내 한카리아스가 한 방에 쓰러졌어"></textarea>
+      <div class="examples" aria-label="예시 문장">
+        <button type="button" data-ex="상대 망나뇽 역린에 내 한카리아스가 한 방에 쓰러졌어">한 방에 쓰러짐</button>
+        <button type="button" data-ex="내가 더 빠를 텐데 상대 망나뇽이 먼저 움직였어">상대가 먼저 움직임</button>      </div>
+      <p id="nlStatus" class="hint" aria-live="polite"></p>
+
+      <details class="more" id="moreBox">
+        <summary>아래의 사항을 기록해주시면 더 정확한 답변이 가능합니다 (포켓몬·기술·결과·빌드·특수 상황)</summary>
+        <div class="matchup">
+          <div>
+            <label for="meInput">내 포켓몬 · <span class="role" id="meRole"><b>방어</b></span></label>
+            <div class="combo" id="meCombo"></div>
+          </div>
+          <button type="button" class="swap" id="swapBtn" aria-label="공격 측 바꾸기, 지금: 상대가 공격">⇄</button>
+          <div>
+            <label for="oppInput">상대 포켓몬 · <span class="role" id="oppRole"><b>공격</b></span></label>
+            <div class="combo" id="oppCombo"></div>
+          </div>
+        </div>
+        <div class="row2">
+          <div>
+            <label for="moveInput">기술</label>
+            <div class="combo" id="moveCombo"></div>
+            <p class="hint" id="moveHint">공격한 포켓몬을 먼저 골라 주세요</p>
+          </div>
+          <fieldset aria-describedby="resultHint">
+            <legend>실제 결과</legend>
+            <p class="hint" id="resultHint" style="margin-top:0">가장 납득 안 되는 것 하나</p>
+            <div role="group" aria-labelledby="g1">
+              <p class="group-title" id="g1">맞은 결과</p>
+              <label class="choice"><input type="radio" name="actual" value="ko"><span data-t="ko"></span></label>
+              <label class="choice"><input type="radio" name="actual" value="survived"><span data-t="survived"></span></label>
+              <div class="chips-hp hidden" id="hpChips" role="radiogroup" aria-label="맞은 뒤 남은 HP">
+                <label><input type="radio" name="hp_band" value="75+"><span>75% 이상</span></label>
+                <label><input type="radio" name="hp_band" value="50-75"><span>50–75%</span></label>
+                <label><input type="radio" name="hp_band" value="25-50"><span>25–50%</span></label>
+                <label><input type="radio" name="hp_band" value="-25"><span>25% 미만</span></label>
+              </div>
+            </div>
+            <div role="group" aria-labelledby="g2">
+              <p class="group-title" id="g2">행동 순서</p>
+              <label class="choice"><input type="radio" name="actual" value="outsped"><span data-t="outsped"></span></label>
+              <label class="choice"><input type="radio" name="actual" value="slower"><span data-t="slower"></span></label>
+            </div>
+          </fieldset>
+        </div>
+        <div class="more-grid">
+          <div>
+            <label for="mySp"><span data-t="mySpLabel"></span></label>
+            <input type="text" id="mySp" placeholder="예: A20 S32" aria-describedby="mySpHint mySpErr" autocomplete="off">
+            <p class="hint" id="mySpHint">H·A·B·C·D·S + 숫자, 스탯당 0~32, 합계 66 이하</p>
+            <p class="field-error hidden" id="mySpErr"></p>
+          </div>
+          <div>
+            <label for="oppSp"><span data-t="oppSpLabel"></span></label>
+            <input type="text" id="oppSp" placeholder="모르면 비워 두세요" aria-describedby="oppSpErr" autocomplete="off">
+            <p class="field-error hidden" id="oppSpErr"></p>
+          </div>
+          <div>
+            <label for="myNature">내 성격</label>
+            <select id="myNature"><option value="">통계 기준으로 가정</option><option>고집</option><option>명랑</option><option>조심</option><option>겁쟁이</option><option>신중</option><option>대담</option></select>
+          </div>
+          <div>
+            <label for="myItem">내 도구</label>
+            <select id="myItem"><option value="">통계 기준으로 가정</option><option>구애스카프</option><option>달인의띠</option><option>생명의구슬</option><option>기합의띠</option><option>자뭉열매</option><option>먹다남은음식</option><option>도구 없음</option></select>
+          </div>
+          <div>
+            <label for="preHp">맞기 전 HP</label>
+            <select id="preHp"><option value="">가득 (기본)</option><option value="0.75">약 3/4</option><option value="0.5">약 절반</option><option value="0.25">약 1/4</option></select>
+          </div>
+          <fieldset class="full">
+            <legend>있었던 것만 체크 (기억 안 나면 비워도 돼요)</legend>
+            <div class="flag-groups">
+              <div data-group="status"><p class="group-title">포켓몬 상태</p>
+                <label class="choice" data-flag="crit"><input type="checkbox" name="flags" value="crit"><span>급소</span></label>
+                <label class="choice" data-flag="burn"><input type="checkbox" name="flags" value="burn"><span>화상</span></label>
+                <label class="choice" data-flag="stat_stage"><input type="checkbox" name="flags" value="stat_stage"><span>능력이 오르거나 내려감</span></label>
+                <label class="choice" data-flag="tera"><input type="checkbox" name="flags" value="tera"><span>테라스탈</span></label>
+              </div>
+              <div data-group="field"><p class="group-title">필드</p>
+                <label class="choice" data-flag="weather"><input type="checkbox" name="flags" value="weather"><span>날씨</span></label>
+                <label class="choice" data-flag="terrain"><input type="checkbox" name="flags" value="terrain"><span>필드</span></label>
+                <label class="choice" data-flag="reflect"><input type="checkbox" name="flags" value="reflect"><span>리플렉터</span></label>
+                <label class="choice" data-flag="light_screen"><input type="checkbox" name="flags" value="light_screen"><span>빛의장막</span></label>
+              </div>
+              <div data-group="order"><p class="group-title">행동 순서</p>
+                <label class="choice" data-flag="trick_room"><input type="checkbox" name="flags" value="trick_room"><span>트릭룸</span></label>
+                <label class="choice" data-flag="tailwind"><input type="checkbox" name="flags" value="tailwind"><span>순풍</span></label>
+              </div>
+            </div>
+          </fieldset>
+        </div>
+      </details>
+
+      <div class="row-actions"><button type="submit" class="primary" id="askBtn">복기하기</button></div>
+      <p class="hint" id="quotaLine"></p>
+      <p class="consent">복기 내용은 개선을 위해 기록돼요 · <button type="button" class="link" id="deleteReq">삭제 요청</button></p>
+    </form>
+
+    <section id="confirmView" class="confirm hidden" aria-labelledby="confirmTitle">
+      <p class="label" id="confirmTitle">이렇게 이해했어요. 틀린 곳은 눌러서 고쳐 주세요</p>
+      <div class="sentence" id="sentence"></div>
+      <div class="sentence" id="flagChips"></div>
+      <ul class="extract-notes" id="extractNotes"></ul>
+      <p class="source-quote" id="sourceQuote"></p>
+      <div class="row-actions">
+        <button type="button" class="primary" id="goBtn" aria-describedby="goReason">이대로 복기</button>
+        <button type="button" id="moreBtn">더 정확하게 적기</button>
+      </div>
+      <p class="reason" id="goReason"></p>
+      <!-- 서버 ask에 actor가 오면(누가 공격했는지 불확실) 공격 측 바꾸기를 확인 단계에 바로 보인다 -->
+      <p class="swap-row hidden" id="swapRow"><button type="button" id="confirmSwap">공격 측 바꾸기 ⇄</button></p>
+    </section>
+
+    <!-- /api/chat 이 없는 동안: 규칙 질문은 준비 중 안내 + 복기로 되돌리기만 -->
+    <section id="ruleView" class="rule-answer hidden" aria-label="규칙 질문">
+      <p>규칙 질문 답변은 아직 준비 중이에요. 실제로 있었던 한 턴(누가 어떤 기술로 어떻게 됐는지)을 적어 주시면 복기해 드릴게요.</p>
+      <p class="switch">한 턴을 복기하려던 거예요? <button type="button" class="link" id="toReview">복기로 바꾸기</button></p>
+    </section>
+  </section>
+
+  <section id="gateView" class="gate hidden" aria-labelledby="gateTitle">
+    <h1 id="gateTitle">초대 링크로 접속해 주세요</h1>
+    <p class="muted">이 복기 서비스는 지금 초대받은 분만 쓸 수 있어요. 받은 링크를 다시 열어 주세요.</p>
+  </section>
+
+  <section id="resultView" class="hidden" aria-label="복기 결과">
+    <div class="turn-summary">
+      <span class="txt" id="turnText"></span>
+      <button type="button" class="link" id="editBtn">조건 고치기</button>
+    </div>
+    <div id="resultBody"></div>
+    <div class="row-actions"><button type="button" id="newBtn">새 턴 복기</button></div>
+  </section>
+
+  <p id="live" class="sr-only" aria-live="polite"></p>
+
+  <details class="proto">
+    <summary>프로토타입 상태 전환 (실제 화면에는 없음)</summary>
+    <div class="btns" id="protoBtns"></div>
+  </details>
+</main>
+
+<script>
+// ---- 예시 데이터 (실제 서버 응답 아님) ----
+const POKEMON = [
+  { form_key: "garchomp-mega", name_ko: "메가 한카리아스", types: ["드래곤", "땅"] },
+  { form_key: "garchomp", name_ko: "한카리아스", types: ["드래곤", "땅"] },
+  { form_key: "dragonite", name_ko: "망나뇽", types: ["드래곤", "비행"] },
+  { form_key: "tyranitar", name_ko: "마기라스", types: ["바위", "악"] },
+  { form_key: "gengar", name_ko: "팬텀", types: ["고스트", "독"] },
+  { form_key: "gardevoir", name_ko: "가디안", types: ["에스퍼", "페어리"] },
+  { form_key: "wyrdeer", name_ko: "신비록", types: ["노말", "에스퍼"] },
+  { form_key: "dragapult", name_ko: "드래펄트", types: ["드래곤", "고스트"] },
+  { form_key: "archaludon", name_ko: "브리두라스", types: ["강철", "드래곤"] },
+];
+const M = (move_key, name_ko, type, category, power, priority = 0) => ({ move_key, name_ko, type, category, power, priority });
+const MOVES = {
+  "garchomp": [M("earthquake", "지진", "땅", "물리", 100), M("outrage", "역린", "드래곤", "물리", 120), M("scale-shot", "스케일샷", "드래곤", "물리", 25), M("stone-edge", "스톤에지", "바위", "물리", 100)],
+  "dragonite": [M("outrage", "역린", "드래곤", "물리", 120), M("extreme-speed", "신속", "노말", "물리", 80, 2), M("earthquake", "지진", "땅", "물리", 100), M("fire-punch", "불꽃펀치", "불꽃", "물리", 75)],
+  "tyranitar": [M("stone-edge", "스톤에지", "바위", "물리", 100), M("crunch", "깨물어부수기", "악", "물리", 80)],
+  "gengar": [M("shadow-ball", "섀도볼", "고스트", "특수", 80), M("sludge-bomb", "오물폭탄", "독", "특수", 90)],
+  "gardevoir": [M("moonblast", "문포스", "페어리", "특수", 95), M("psychic", "사이코키네시스", "에스퍼", "특수", 90)],
+  "dragapult": [M("dragon-darts", "드래곤애로", "드래곤", "물리", 50), M("shadow-ball", "섀도볼", "고스트", "특수", 80)],
+  "wyrdeer": [M("psyshield-bash", "배리어러시", "에스퍼", "물리", 70), M("psychic", "사이코키네시스", "에스퍼", "특수", 90)],
+};
+MOVES["garchomp-mega"] = MOVES["garchomp"];
+const ALL_MOVES = [...new Map(Object.values(MOVES).flat().map(m => [m.move_key, m])).values()];
+// 서버 응답 예시: docs/designs/samples/*.json 의 answer를 그대로 복사. kind·turn·headline만 시안에서 덧붙임(headline은 서버에 제안한 필드)
+const SAMPLES = {"ko":{"headline":"상대가 고집 달인의띠면 16번 중 12번 한 방이에요","summary":"계산상, 상대가 A32 · 고집 · 달인의띠일 때 16번 중 12번 한 방이에요. 또는 상대가 A32 · 노력 · 달인의띠일 때 16번 중 4번 한 방이에요. 실제 랭크배틀 통계 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 12번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 16번).","calc":{"rows":[{"label":"A32 · 고집 · 달인의띠","in_champions":true,"same_items":[],"usage":["pokedb M-6 이 포켓몬 달인의띠 채용 30%","Smogon 달인의띠 채용 2%"],"k":12,"pct":75,"damage":[94.9,114]},{"label":"A32 · 노력 · 달인의띠","in_champions":true,"same_items":[],"usage":["pokedb M-6 이 포켓몬 달인의띠 채용 30%","Smogon 달인의띠 채용 2%"],"k":4,"pct":25,"damage":[87,103.7]},{"label":"A32 · 고집 · 생명의구슬","in_champions":true,"same_items":[],"usage":["Smogon 생명의구슬 채용 13%"],"k":16,"pct":100,"damage":[102.8,123.3]},{"label":"A32 · 노력 · 생명의구슬","in_champions":true,"same_items":[],"usage":["Smogon 생명의구슬 채용 13%"],"k":10,"pct":62.5,"damage":[94.4,112.6]},{"label":"A32 · 고집 · 용의이빨","in_champions":true,"same_items":["용의플레이트"],"usage":["Smogon 용의이빨 채용 5%"],"k":13,"pct":81.3,"damage":[95.8,114.4]},{"label":"A32 · 노력 · 용의이빨","in_champions":true,"same_items":["용의플레이트"],"usage":["Smogon 용의이빨 채용 5%"],"k":5,"pct":31.3,"damage":[87.4,104.2]}],"more":3,"near":[],"assumed":"상대 SP A32, 보정 성격과 무보정 성격을 계산","my_build":"H32 B32 · 장난꾸러기 · 특성 모래숨기 · 구애스카프","headline_row":0},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): H32 B32 · 장난꾸러기 · 구애스카프 · 특성 모래숨기"],"causes":[{"key":"expert-belt","label":"달인의띠","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 12번","rolls_k":12,"conditions":["고집 · H2 A32 B32 · 특성 정신력","고집 · H2 A32 B32 · 특성 멀티스케일","고집 · H2 A32 C32 · 특성 정신력"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): H2 A32 S32 · 명랑 · 구애스카프 · 특성 까칠한피부"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["고집 · H2 A32 S32 · 특성 멀티스케일","고집 · H1 A32 D1 S32 · 특성 멀티스케일","명랑 · H2 A32 S32 · 특성 멀티스케일"]},{"key":"life-orb","label":"생명의구슬","rank":2,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["고집 · H2 A32 S32 · 특성 멀티스케일","고집 · H1 A32 D1 S32 · 특성 멀티스케일","명랑 · H2 A32 S32 · 특성 멀티스케일"]},{"key":"silk-scarf","label":"실크스카프","rank":3,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["고집 · H2 A32 S32 · 특성 멀티스케일","고집 · H1 A32 D1 S32 · 특성 멀티스케일","명랑 · H2 A32 S32 · 특성 멀티스케일"]}]}},"differs":true,"diff_reason":"1순위 원인이 다름: expert-belt / 이 타격에 영향 없는 도구(도구 없음 포함) (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)","unsupported":[],"assumptions":["맞기 전 HP는 가득 찬 상태로 가정"],"reference_only":false,"degraded":false,"review_id":"sample-ko","kind":"ko","turn":"내 한카리아스 ← 역린 ← 상대 망나뇽 · 한 방에 쓰러짐"},"survived":{"headline":"상대가 장난꾸러기 슈캐열매면 16번 중 16번 이 HP로 버텨요","summary":"계산상, 상대가 H32 B32 · 장난꾸러기 · 슈캐열매일 때 16번 중 16번 이 HP로 버텨요. 또는 상대가 H32 B32 · 노력 · 슈캐열매일 때 16번 중 16번 이 HP로 버텨요. 실제 랭크배틀 통계 기준, 이 타격은 내 공격이 한 단계 내려가 있었을 때(위협 등) 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 16번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 이 타격은 내 공격이 한 단계 내려가 있었을 때(위협 등) 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 15번). 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 옹골참.","calc":{"rows":[{"label":"H32 B32 · 장난꾸러기 · 슈캐열매","in_champions":true,"same_items":[],"usage":["Smogon 슈캐열매 채용 2%"],"k":16,"pct":100,"damage":[27.4,32.5]},{"label":"H32 B32 · 노력 · 슈캐열매","in_champions":true,"same_items":[],"usage":["Smogon 슈캐열매 채용 2%"],"k":16,"pct":100,"damage":[29.4,35.5]}],"more":0,"near":[],"assumed":"상대 SP H32 B32, 보정 성격과 무보정 성격을 계산","my_build":"A20 · 고집 · 특성 모래숨기 · 구애스카프","headline_row":0},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 고집 · 구애스카프 · 특성 모래숨기"],"causes":[{"key":"_atk_minus1","label":"공격 −1(위협 등, 확정 아님)","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["장난꾸러기 · H32 B32 · 특성 지구력 · 도구 없음·영향 없는 도구","장난꾸러기 · H32 B32 · 특성 옹골참 · 도구 없음·영향 없는 도구","장난꾸러기 · H32 B32 · 특성 굳건한신념 · 도구 없음·영향 없는 도구"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":false,"excluded_share":0,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): 명랑 · 구애스카프 · 특성 까칠한피부"],"causes":[{"key":"_atk_minus1","label":"공격 −1(위협 등, 확정 아님)","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 15번","rolls_k":15,"conditions":["차분 · H32 B2 D32 · 특성 지구력 · 도구 없음·영향 없는 도구","대담 · H32 B13 D18 S3 · 특성 지구력 · 도구 없음·영향 없는 도구","대담 · H32 B32 D2 · 특성 지구력 · 도구 없음·영향 없는 도구"]},{"key":"shuca-berry","label":"슈캐열매","rank":2,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["조심 · H2 C32 S32 · 특성 지구력","겁쟁이 · H2 C32 S32 · 특성 지구력","차분 · H32 B2 D32 · 특성 지구력"]},{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":3,"rolls":"가장 그럴듯한 조건에서 16번 중 3번","rolls_k":3,"conditions":["대담 · H32 B32 D2 · 특성 지구력","대담 · H32 B32 C2 · 특성 지구력","대담 · H32 B32 D2 · 특성 옹골참"]}]}},"differs":true,"diff_reason":"한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)","unsupported":["계산하지 않은 상대 특성: 옹골참"],"assumptions":["맞기 전 HP는 가득 찬 상태로 가정"],"reference_only":false,"degraded":false,"review_id":"sample-survived-differs","kind":"survived","turn":"상대 브리두라스 ← 지진 ← 내 한카리아스 · 버팀 (50–75%)"},"outsped":{"headline":"상대 드래펄트는 도구 없이도 내 한카리아스보다 빨라요","summary":"계산상, 상대가 S32 · 명랑 · 구애스카프일 때 상대가 먼저 움직여요. 또는 상대가 S32 · 노력 · 구애스카프일 때 상대가 먼저 움직여요. 실제 랭크배틀 통계 기준, 이 행동 순서는 상대가 결과를 바꾸는 도구를 들지 않았을 때 가장 잘 맞아요. Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요.","calc":{"rows":[{"label":"S32 · 명랑 · 구애스카프","in_champions":true,"same_items":[],"usage":["Smogon 구애스카프 채용 22%"],"k":null,"speed":{"opp":319,"me":169}},{"label":"S32 · 노력 · 구애스카프","in_champions":true,"same_items":[],"usage":["Smogon 구애스카프 채용 22%"],"k":null,"speed":{"opp":291,"me":169}},{"label":"S32 · 명랑 · 도구 없음","in_champions":true,"same_items":[],"usage":[],"k":null,"speed":{"opp":213,"me":169}},{"label":"S32 · 노력 · 도구 없음","in_champions":true,"same_items":[],"usage":[],"k":null,"speed":{"opp":194,"me":169}}],"more":0,"near":[],"assumed":"상대 SP S32, 보정 성격과 무보정 성격을 계산","my_build":"S32 · 명랑 · 특성 모래숨기 · 도구 없음","headline_row":2},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":false,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 특성 모래숨기"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":null,"rolls_k":null,"conditions":["명랑 · H2 A32 B32 · 특성 클리어바디","명랑 · H2 A32 B32 · 특성 틈새포착","명랑 · H2 A32 B32 · 특성 저주받은바디"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): 특성 까칠한피부"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":null,"rolls_k":null,"conditions":["겁쟁이 · H2 C32 S32 · 특성 틈새포착","고집 · H2 A32 S32 · 특성 틈새포착","명랑 · H2 A32 S32 · 특성 틈새포착"]},{"key":"choice-scarf","label":"구애스카프","rank":2,"rolls":null,"rolls_k":null,"conditions":["겁쟁이 · H2 C32 S32 · 특성 틈새포착","고집 · H2 A32 S32 · 특성 틈새포착","명랑 · H2 A32 S32 · 특성 틈새포착"]}]}},"differs":true,"diff_reason":"한쪽만 일치 0건 또는 도구 구분 불가","unsupported":[],"assumptions":["상대가 우선도 0 기술을 썼다는 가정(상대 기술 입력은 v1 범위 밖)"],"reference_only":false,"degraded":false,"review_id":"sample-outsped","kind":"outsped","turn":"내 한카리아스 ← 드래곤애로 ← 상대 드래펄트 · 상대가 먼저 움직임"},"crit":{"headline":"상대가 고집 생명의구슬이면 확정 1타예요","summary":"계산하지 않은 상황이 있어 참고용이에요. 계산상, 상대가 A32 · 고집 · 생명의구슬일 때 16번 중 16번 한 방이에요. 또는 상대가 A32 · 노력 · 생명의구슬일 때 16번 중 16번 한 방이에요. 실제 랭크배틀 통계 기준, 이 타격은 상대가 결과를 바꾸는 도구를 들지 않았을 때 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 2번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 8번). 계산에 넣지 않은 것: 계산하지 않은 특수 상황: 급소.","calc":{"rows":[{"label":"A32 · 고집 · 생명의구슬","in_champions":true,"same_items":[],"usage":["pokedb M-6 이 포켓몬 생명의구슬 채용 1%","Smogon 생명의구슬 채용 6%"],"k":16,"pct":100,"damage":[110.1,131.3]},{"label":"A32 · 노력 · 생명의구슬","in_champions":true,"same_items":[],"usage":["pokedb M-6 이 포켓몬 생명의구슬 채용 1%","Smogon 생명의구슬 채용 6%"],"k":16,"pct":100,"damage":[100,119.7]},{"label":"A32 · 고집 · 달인의띠","in_champions":true,"same_items":[],"usage":["Smogon 달인의띠 채용 1% 미만"],"k":16,"pct":100,"damage":[102,121.2]},{"label":"A32 · 노력 · 달인의띠","in_champions":true,"same_items":[],"usage":["Smogon 달인의띠 채용 1% 미만"],"k":9,"pct":56.3,"damage":[91.9,110.1]},{"label":"A32 · 고집 · 용의이빨","in_champions":true,"same_items":["용의플레이트"],"usage":["Smogon 용의이빨 채용 1% 미만"],"k":16,"pct":100,"damage":[103,121.2]},{"label":"A32 · 노력 · 용의이빨","in_champions":true,"same_items":["용의플레이트"],"usage":["Smogon 용의이빨 채용 1% 미만"],"k":10,"pct":62.5,"damage":[93.9,110.1]}],"more":5,"near":[],"assumed":"상대 SP A32, 보정 성격과 무보정 성격을 계산","my_build":"H32 B32 · 장난꾸러기 · 특성 정신력 · 울퉁불퉁멧","headline_row":0},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":false,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): H32 B32 · 장난꾸러기 · 울퉁불퉁멧 · 특성 정신력"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 2번","rolls_k":2,"conditions":["고집 · H2 A32 B32 · 특성 모래숨기","고집 · H2 A32 B32 · 특성 까칠한피부","고집 · H2 A32 C32 · 특성 모래숨기"]},{"key":"life-orb","label":"생명의구슬","rank":2,"rolls":"가장 그럴듯한 조건에서 16번 중 16번","rolls_k":16,"conditions":["고집 · H2 A32 B32 · 특성 모래숨기","고집 · H2 A32 B32 · 특성 까칠한피부","노력 · H2 A32 B32 · 특성 모래숨기"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":true,"excluded_share":0.0006,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): H2 A32 S32 · 고집 · 울퉁불퉁멧 · 특성 멀티스케일"],"causes":[{"key":"life-orb","label":"생명의구슬","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 8번","rolls_k":8,"conditions":["고집 · H2 A32 S32 · 특성 까칠한피부","고집 · A32 B2 S32 · 특성 까칠한피부","고집 · A32 D2 S32 · 특성 까칠한피부"]},{"key":"dragon-fang","label":"용의이빨","rank":2,"rolls":"가장 그럴듯한 조건에서 16번 중 1번","rolls_k":1,"conditions":["고집 · H2 A32 S32 · 특성 까칠한피부","고집 · A32 B2 S32 · 특성 까칠한피부","고집 · A32 D2 S32 · 특성 까칠한피부"]}]}},"differs":true,"diff_reason":"한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)","unsupported":["계산하지 않은 특수 상황: 급소"],"assumptions":["맞기 전 HP는 가득 찬 상태로 가정"],"reference_only":true,"degraded":false,"review_id":"sample-reference-only-crit","kind":"ko","turn":"내 망나뇽 ← 역린 ← 상대 한카리아스 · 한 방에 쓰러짐"},"unsupported":{"headline":"이 턴은 계산하지 않는 상황이라 답할 수 없어요.","summary":"이 턴은 계산하지 않는 상황이라 답할 수 없어요. 확인 불가: 일반 데미지 공식으로 계산하지 않는 기술입니다: 바디프레스","calc":null,"bases":{},"differs":false,"diff_reason":null,"unsupported":["확인 불가: 일반 데미지 공식으로 계산하지 않는 기술입니다: 바디프레스"],"assumptions":[],"reference_only":true,"degraded":false,"review_id":"sample-unsupported-move","kind":"ko","turn":"내 한카리아스 ← 바디프레스 ← 상대 한카리아스 · 한 방에 쓰러짐"},"slower":{"headline":"상대가 도구 없이 명랑이면 내 한카리아스보다 느려요","summary":"계산상, 상대가 S32 · 명랑 · 구애스카프일 때 내가 먼저 움직여요. 또는 상대가 S32 · 노력 · 구애스카프일 때 내가 먼저 움직여요. 실제 랭크배틀 통계 기준, 이 행동 순서는 상대가 결과를 바꾸는 도구를 들지 않았을 때 가장 잘 맞아요. Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요.","calc":{"rows":[{"label":"S32 · 명랑 · 구애스카프","in_champions":true,"same_items":[],"usage":["Smogon 구애스카프 채용 1% 미만"],"k":null,"speed":{"opp":217,"me":253}},{"label":"S32 · 노력 · 구애스카프","in_champions":true,"same_items":[],"usage":["Smogon 구애스카프 채용 1% 미만"],"k":null,"speed":{"opp":198,"me":253}},{"label":"S32 · 명랑 · 도구 없음","in_champions":true,"same_items":[],"usage":[],"k":null,"speed":{"opp":145,"me":253}},{"label":"S32 · 노력 · 도구 없음","in_champions":true,"same_items":[],"usage":[],"k":null,"speed":{"opp":132,"me":253}}],"more":0,"near":[],"assumed":"상대 SP S32, 보정 성격과 무보정 성격을 계산","my_build":"S32 · 명랑 · 특성 모래숨기 · 구애스카프","headline_row":2},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":false,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): S32 · 명랑 · 구애스카프 · 특성 모래숨기"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":null,"rolls_k":null,"conditions":["명랑 · H2 A32 B32 · 특성 정신력","명랑 · H2 A32 B32 · 특성 멀티스케일","노력 · H2 A32 B32 · 특성 정신력"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): H2 A32 S32 · 명랑 · 구애스카프 · 특성 까칠한피부"],"causes":[{"key":"_neutral","label":"이 타격에 영향 없는 도구(도구 없음 포함)","rank":1,"rolls":null,"rolls_k":null,"conditions":["고집 · H2 A32 S32 · 특성 멀티스케일","고집 · H1 A32 D1 S32 · 특성 멀티스케일","명랑 · H2 A32 S32 · 특성 멀티스케일"]},{"key":"choice-scarf","label":"구애스카프","rank":2,"rolls":null,"rolls_k":null,"conditions":["고집 · H2 A32 S32 · 특성 멀티스케일","고집 · H1 A32 D1 S32 · 특성 멀티스케일","명랑 · H2 A32 S32 · 특성 멀티스케일"]}]}},"differs":true,"diff_reason":"한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)","unsupported":[],"assumptions":["상대가 우선도 0 기술을 썼다는 가정(상대 기술 입력은 v1 범위 밖)"],"reference_only":false,"degraded":false,"review_id":"sample-slower","kind":"slower","turn":"상대 망나뇽 ← 지진 ← 내 한카리아스 · 내가 먼저 움직임"},"friend1":{"headline":"챔피언스에 있는 도구로는 16번 중 1번만 한 방이에요","summary":"계산상, 상대가 A32 · 고집 · 특성 철주먹 · 생명의구슬일 때 16번 중 1번 한 방이에요. 또는 상대가 A32 · 고집 · 특성 철주먹 · 구애머리띠(챔피언스에 없는 도구)일 때 16번 중 12번 한 방이에요. 실제 랭크배틀 통계 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 1번). 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 축전.","calc":{"rows":[{"label":"A32 · 고집 · 특성 철주먹 · 생명의구슬","in_champions":true,"same_items":[],"usage":["pokedb M-6 이 포켓몬 생명의구슬 채용 31%","Smogon 생명의구슬 채용 4%","Smogon 철주먹 채용 92%"],"k":1,"pct":6.3,"damage":[84.3,100]},{"label":"A32 · 고집 · 특성 철주먹 · 구애머리띠","in_champions":false,"same_items":[],"usage":["Smogon 철주먹 채용 92%"],"k":12,"pct":75,"damage":[96.2,113.5]},{"label":"A32 · 노력 · 특성 철주먹 · 구애머리띠","in_champions":false,"same_items":[],"usage":["Smogon 철주먹 채용 92%"],"k":4,"pct":25,"damage":[87.6,103.8]}],"more":0,"near":[],"assumed":"상대 SP A32, 보정 성격과 무보정 성격을 계산","my_build":"H2 C32 S32 · 조심 · 특성 부유 · 한카리아스나이트Z","headline_row":0},"bases":{"pokedb":{"basis":"pokedb","source":{"label":"pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)","내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 한카리아스나이트Z · 특성 부유"],"causes":[{"key":"life-orb","label":"생명의구슬","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 1번","rolls_k":1,"conditions":["고집 · H2 A32 B32 · 특성 철주먹","고집 · H2 A32 C32 · 특성 철주먹","고집 · H2 A32 D32 · 특성 철주먹"]}]},"smogon":{"basis":"smogon","source":{"label":"Smogon 2026-09 · gen9championsbssregmc · 1500+","note":"Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터","url":"https://www.smogon.com/stats/"},"zero_match":false,"undetermined":true,"excluded_share":0,"notes":["내 빌드 가정(Smogon 2026-09 분포 1위): 한카리아스나이트Z · 특성 부유"],"causes":[{"key":"life-orb","label":"생명의구슬","rank":1,"rolls":"가장 그럴듯한 조건에서 16번 중 1번","rolls_k":1,"conditions":["고집 · H2 A32 S32 · 특성 철주먹","고집 · A32 D2 S32 · 특성 철주먹","고집 · A32 B2 S32 · 특성 철주먹"]}]}},"differs":false,"diff_reason":"","unsupported":["계산하지 않은 상대 특성: 축전"],"assumptions":["맞기 전 HP는 가득 찬 상태로 가정"],"reference_only":false,"degraded":false,"review_id":"sample-friend1-calc-first","kind":"ko","turn":"내 메가한카리아스Z ← 냉동펀치 ← 상대 빠르모트 · 한 방에 쓰러짐"}};
+const SAMPLE_EXTRACT = {"ask":["move"],"notes":["문장에서 기술 '드래곤애로'를 찾았어요. 맞는지 확인해 주세요"]}; // 서버 ask "move_key" → 시안 칩 이름 "move"
+const U7 = "혹시 상대방이 신속/마하펀치와 같은 선공기를 사용했나요? 그렇다면 우선도에 따라 선공 여부가 달라질 수 있습니다.";
+
+// ---- 상태 ----
+const st = { me: null, opp: null, move: null, actor: "opp", reviewId: 0, timers: [], listState: "ok", quota: 50, limit: null, ask: [], notes: [] };
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const att = () => st.actor === "me" ? st.me : st.opp;
+const def = () => st.actor === "me" ? st.opp : st.me;
+const announce = t => { $("live").textContent = ""; setTimeout(() => $("live").textContent = t, 30); };
+function josa(word, withBatchim, without) {
+  const c = word.charCodeAt(word.length - 1);
+  if (c < 0xac00 || c > 0xd7a3) return without;
+  return (c - 0xac00) % 28 ? withBatchim : without;
+}
+const who = p => p === st.opp ? "상대 " + p.name_ko : "내 " + p.name_ko;
+const actualVal = () => (document.querySelector("input[name=actual]:checked") || {}).value;
+const setActual = v => { const r = document.querySelector(`input[name=actual][value="${v}"]`); if (r) { r.checked = true; r.dispatchEvent(new Event("change")); } };
+
+// ---- combobox: 보이는 label + ↑↓ Enter Esc (DR13), 폰에서는 전체 화면 시트 (DR12) ----
+function combo(rootId, inputId, label, source, onPick) {
+  const root = $(rootId), listId = inputId + "List";
+  root.innerHTML = `<div class="sheet-head"><b>${label}</b><button type="button" class="link" data-close>닫기</button></div>
+    <input type="text" id="${inputId}" role="combobox" aria-expanded="false" aria-controls="${listId}" aria-autocomplete="list" autocomplete="off" placeholder="한글 이름으로 찾기">
+    <ul id="${listId}" role="listbox" class="hidden"></ul>`;
+  const input = $(inputId), list = $(listId);
+  let items = [], active = -1;
+  const close = () => { list.classList.add("hidden"); root.classList.remove("open"); input.setAttribute("aria-expanded", "false"); input.removeAttribute("aria-activedescendant"); };
+  const render = () => {
+    const r = source(input.value.trim());
+    if (r.state === "loading") { list.innerHTML = `<li class="empty">불러오는 중…</li>`; items = []; return; }
+    if (r.state === "error") { list.innerHTML = `<li class="empty">목록을 못 불러왔어요</li>`; items = []; return; }
+    items = r.items; active = items.length ? 0 : -1;
+    list.innerHTML = items.length
+      ? items.map((it, i) => `<li role="option" id="${listId}-${i}" aria-selected="${i === active}">${esc(it.label)} <span class="t">${esc(it.sub || "")}</span></li>`).join("")
+      : `<li class="empty">'${esc(input.value)}'와 맞는 항목이 없어요. 한글 이름으로 찾아보세요${r.fallback ? ` · <button type="button" class="link" data-all>전체 기술에서 찾기</button>` : ""}</li>`;
+    if (active >= 0) input.setAttribute("aria-activedescendant", `${listId}-0`);
+  };
+  const open = () => { if (input.disabled) return; render(); list.classList.remove("hidden"); input.setAttribute("aria-expanded", "true"); if (matchMedia("(max-width: 599px)").matches) root.classList.add("open"); };
+  const pick = i => { const it = items[i]; if (!it) return; input.value = it.label; close(); onPick(it.value); };
+  const move = d => {
+    if (!items.length) return;
+    active = (active + d + items.length) % items.length;
+    [...list.children].forEach((li, i) => li.setAttribute("aria-selected", i === active));
+    input.setAttribute("aria-activedescendant", `${listId}-${active}`);
+    list.children[active].scrollIntoView({ block: "nearest" });
+  };
+  input.addEventListener("focus", open);
+  input.addEventListener("input", () => { onPick(null); open(); });
+  input.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown") { e.preventDefault(); list.classList.contains("hidden") ? open() : move(1); }
+    else if (e.key === "ArrowUp") { e.preventDefault(); move(-1); }
+    else if (e.key === "Enter" && !list.classList.contains("hidden")) { e.preventDefault(); pick(active); }
+    else if (e.key === "Escape") close();
+  });
+  list.addEventListener("mousedown", e => {
+    if (e.target.closest("button[data-all]")) { e.preventDefault(); root.dataset.all = "1"; render(); return; }
+    const li = e.target.closest("[role=option]"); if (li) { e.preventDefault(); pick([...list.children].indexOf(li)); }
+  });
+  root.querySelector("[data-close]").addEventListener("click", close);
+  input.addEventListener("blur", () => setTimeout(() => { if (!root.contains(document.activeElement)) close(); }, 120));
+  return { input, set(v) { input.value = v; }, close };
+}
+const pokeSource = q => st.listState !== "ok" ? { state: st.listState }
+  : { items: POKEMON.filter(p => p.name_ko.includes(q)).map(p => ({ value: p, label: p.name_ko, sub: p.types.join("·") })) };
+const meC = combo("meCombo", "meInput", "내 포켓몬", pokeSource, p => { st.me = p; refresh(); });
+const oppC = combo("oppCombo", "oppInput", "상대 포켓몬", pokeSource, p => { st.opp = p; refresh(); });
+// GET /api/moves?form_key= (DR14): 공격 측이 배우는 물리·특수 기술. 「전체 기술에서 찾기」는 ?q=
+const moveC = combo("moveCombo", "moveInput", "기술", q => {
+  const a = att(); if (!a) return { items: [] };
+  const pool = $("moveCombo").dataset.all ? ALL_MOVES : (MOVES[a.form_key] || []);
+  return { fallback: !$("moveCombo").dataset.all, items: pool.filter(m => m.name_ko.includes(q)).map(m => ({ value: m, label: m.name_ko, sub: `${m.type} · ${m.category} · 위력 ${m.power}` })) };
+}, m => { st.move = m; refreshConfirm(); });
+function clearMove() { st.move = null; moveC.set(""); delete $("moveCombo").dataset.all; }
+
+function refresh() {
+  const meName = st.me ? st.me.name_ko : "내 포켓몬", oppName = st.opp ? "상대 " + st.opp.name_ko : "상대";
+  const defName = st.actor === "me" ? oppName : meName;
+  $("meRole").innerHTML = `<b>${st.actor === "me" ? "공격" : "방어"}</b>`;
+  $("oppRole").innerHTML = `<b>${st.actor === "opp" ? "공격" : "방어"}</b>`;
+  $("swapBtn").setAttribute("aria-label", `공격 측 바꾸기, 지금: ${st.actor === "opp" ? "상대가" : "내가"} 공격`);
+  document.querySelector("[data-t=ko]").textContent = `${defName}${josa(defName, "이", "가")} 한 방에 쓰러졌어요`;
+  document.querySelector("[data-t=survived]").textContent = `${defName}${josa(defName, "이", "가")} 버텼어요`;
+  document.querySelector("[data-t=outsped]").textContent = `${oppName}${josa(oppName, "이", "가")} 먼저 움직였어요`;
+  document.querySelector("[data-t=slower]").textContent = "내가 먼저 움직였어요";
+  document.querySelector("[data-t=mySpLabel]").textContent = `${meName} SP`;
+  document.querySelector("[data-t=oppSpLabel]").textContent = `${oppName} SP`;
+  moveC.input.disabled = !att();
+  $("moveHint").classList.toggle("hidden", !!att());
+  refreshConfirm();
+}
+// DR22: 결과 종류에 맞는 묶음만 보이고, 체크된 칸은 언제나 보인다
+function refreshFlags() {
+  const v = actualVal(), order = v === "outsped" || v === "slower";
+  const visible = { status: !order, field: !order, order };
+  document.querySelectorAll("[data-flag]").forEach(l => {
+    const g = l.closest("[data-group]").dataset.group, checked = l.querySelector("input").checked;
+    const show = visible[g] || checked || (order && l.dataset.flag === "stat_stage");
+    l.classList.toggle("hidden", !show);
+  });
+  document.querySelectorAll("[data-group]").forEach(g => g.classList.toggle("hidden", ![...g.querySelectorAll("[data-flag]")].some(l => !l.classList.contains("hidden"))));
+}
+$("swapBtn").addEventListener("click", () => { st.actor = st.actor === "opp" ? "me" : "opp"; clearMove(); refresh(); });
+$("confirmSwap").addEventListener("click", () => { st.ask = st.ask.filter(f => f !== "actor"); $("swapBtn").click(); announce(`공격 측을 바꿨어요. 지금: ${st.actor === "opp" ? "상대가" : "내가"} 공격`); });
+document.querySelectorAll("input[name=actual]").forEach(r => r.addEventListener("change", () => {
+  $("hpChips").classList.toggle("hidden", actualVal() !== "survived"); refreshFlags(); refreshConfirm();
+}));
+document.querySelectorAll("input[name=flags], input[name=hp_band]").forEach(c => c.addEventListener("change", () => { refreshFlags(); refreshConfirm(); }));
+
+// ---- 자연어 추출 ----
+// shortcut: 서버의 LLM 추출(C1-1)을 키워드 매칭으로 흉내 낸다. 실제로는 서버가 추출하고 SQLite로 검증한다.
+const FLAG_WORDS = [[/급소/, "crit"], [/화상/, "burn"], [/랭크|용의춤|칼춤|위협|능력/, "stat_stage"], [/테라/, "tera"],
+  [/비가|비 오|비 속|쾌청|모래바람|설경|날씨/, "weather"], [/필드/, "terrain"], [/리플렉터/, "reflect"], [/빛의장막/, "light_screen"], [/트릭룸/, "trick_room"], [/순풍/, "tailwind"]];
+function extract(text) {
+  const found = [];
+  let rest = text;
+  for (const p of [...POKEMON].sort((a, b) => b.name_ko.length - a.name_ko.length)) {
+    const i = rest.indexOf(p.name_ko);
+    if (i >= 0) { found.push({ p, i, side: /상대\s*$/.test(text.slice(Math.max(0, i - 4), i)) ? "opp" : /(내|나의)\s*$/.test(text.slice(Math.max(0, i - 4), i)) ? "me" : null }); rest = rest.slice(0, i) + " ".repeat(p.name_ko.length) + rest.slice(i + p.name_ko.length); }
+  }
+  found.sort((a, b) => a.i - b.i);
+  const mv = ALL_MOVES.find(m => text.includes(m.name_ko));
+  const kind = /내가\s*(더\s*)?먼저/.test(text) && !/빠를/.test(text) ? "slower" : /먼저/.test(text) ? "outsped"
+    : /한\s*방|쓰러|죽었|기절/.test(text) ? "ko" : /버텼|버티|살았/.test(text) ? "survived" : null;
+  const flags = FLAG_WORDS.filter(([re]) => re.test(text)).map(([, f]) => f);
+  if (!found.length && !mv) return /왜|\?|어떻게|실패|안 통|효과가 없/.test(text) ? { type: "rule" } : { type: "fail" };
+  let opp = found.find(f => f.side === "opp"), me = found.find(f => f.side === "me");
+  const others = found.filter(f => f !== opp && f !== me);
+  if (!opp && others.length) opp = others.shift();
+  if (!me && others.length) me = others.shift();
+  let actor = "opp";
+  if (mv) { const before = found.filter(f => f.i < text.indexOf(mv.name_ko)).pop(); if (before && before === me) actor = "me"; }
+  return { type: "turn", me: me && me.p, opp: opp && opp.p, move: mv, actor, kind, flags };
+}
+function applyExtraction(x) {
+  st.me = x.me || null; st.opp = x.opp || null; st.actor = x.actor;
+  meC.set(st.me ? st.me.name_ko : ""); oppC.set(st.opp ? st.opp.name_ko : "");
+  refresh();
+  // SQLite 검증 흉내: 공격 측이 배우지 않는 기술이면 비운다
+  const a = att();
+  st.move = x.move && a && (MOVES[a.form_key] || []).some(m => m.move_key === x.move.move_key) ? x.move : null;
+  moveC.set(st.move ? st.move.name_ko : "");
+  document.querySelectorAll("input[name=actual]").forEach(r => r.checked = false);
+  if (x.kind) setActual(x.kind);
+  document.querySelectorAll("input[name=flags]").forEach(c => c.checked = x.flags.includes(c.value));
+  $("hpChips").classList.toggle("hidden", actualVal() !== "survived");
+  refreshFlags(); refresh();
+}
+
+// ---- 확인 단계 (C1-1) ----
+const KIND_TXT = { ko: "한 방에 쓰러짐", survived: "버팀", outsped: "상대가 먼저 움직임", slower: "내가 먼저 움직임" };
+const FLAG_TXT = { crit: "급소", burn: "화상", stat_stage: "능력 변화", tera: "테라스탈", weather: "날씨", terrain: "필드", reflect: "리플렉터", light_screen: "빛의장막", trick_room: "트릭룸", tailwind: "순풍" };
+function refreshConfirm() {
+  if ($("confirmView").classList.contains("hidden")) return;
+  const a = att(), d = def(), k = actualVal(), band = (document.querySelector("input[name=hp_band]:checked") || {}).value;
+  // 빈 칸 = missing(오류 점선, 버튼 막음). 값은 있지만 다시 봐야 하는 칸(서버 ask) = check(경고 실선 + "· 확인", 버튼은 막지 않음)
+  const chip = (txt, field, ok) => {
+    // actor 확인은 공격한 포켓몬 칩에 붙인다
+    const check = ok && (st.ask.includes(field) || (st.ask.includes("actor") && field === st.actor));
+    return `<button type="button" class="chip ${ok ? "" : "missing"}${check ? " check" : ""}" data-edit="${field}">${esc(txt)}${check ? `<span class="chip-tag"> · 확인</span>` : ""}</button>`;
+  };
+  const seg = (sep, html) => `<span class="seg"><span class="arrow" aria-hidden="true">${sep}</span>${html}</span>`;
+  const parts = [
+    chip(d ? who(d) : "맞은 포켓몬", st.actor === "opp" ? "me" : "opp", !!d),
+    seg("←", chip(st.move ? st.move.name_ko : "기술", "move", !!st.move)),
+    seg("←", chip(a ? who(a) : "공격한 포켓몬", st.actor === "opp" ? "opp" : "me", !!a)),
+    seg("·", chip(k ? KIND_TXT[k] + (k === "survived" ? (band ? ` (${band.replace("-25", "25% 미만").replace("75+", "75% 이상")})` : " · 남은 HP?") : "") : "결과", "actual", !!k && (k !== "survived" || !!band))),
+  ];
+  $("sentence").innerHTML = parts.join("");
+  const flags = [...document.querySelectorAll("input[name=flags]:checked")].map(c => c.value);
+  $("flagChips").innerHTML = flags.length ? `<span class="small muted">특수 상황:</span>` + flags.map(f => `<button type="button" class="chip flag" data-edit="flags">${FLAG_TXT[f]} · 참고용</button>`).join("") : "";
+  const why = !d ? "맞은 포켓몬을 골라 주세요" : !a ? "공격한 포켓몬을 골라 주세요" : !st.move ? "기술을 골라 주세요"
+    : !k ? "실제 결과를 골라 주세요" : k === "survived" && !band ? "남은 HP 구간을 골라 주세요" : "";
+  $("goBtn").disabled = !!why;
+  $("goReason").textContent = why;
+  $("extractNotes").innerHTML = st.notes.map(n => `<li>${esc(n)}</li>`).join("");
+  $("swapRow").classList.toggle("hidden", !st.ask.includes("actor"));
+  $("sourceQuote").textContent = $("nlInput").value.trim() ? `원문: "${$("nlInput").value.trim()}"` : "";
+}
+function showConfirm() {
+  $("ruleView").classList.add("hidden"); $("confirmView").classList.remove("hidden");
+  refreshConfirm(); $("confirmTitle").focus?.(); announce("이렇게 이해했어요. 확인해 주세요");
+}
+document.addEventListener("click", e => {
+  const ch = e.target.closest("[data-edit]");
+  if (!ch) return;
+  $("moreBox").open = true;
+  const f = ch.dataset.edit;
+  // 눌러서 본 칸은 "확인" 표시를 지운다
+  const seen = st.ask.filter(x => x !== f && !(x === "actor" && f === st.actor));
+  if (seen.length !== st.ask.length) { st.ask = seen; refreshConfirm(); }
+  const target = f === "me" ? meC.input : f === "opp" ? oppC.input : f === "move" ? moveC.input : f === "flags" ? document.querySelector("[data-flag]:not(.hidden) input") : document.querySelector("input[name=actual]");
+  target && target.focus();
+});
+$("moreBtn").addEventListener("click", () => { $("moreBox").open = true; meC.input.focus(); });
+
+// ---- 제출 ----
+function spCheck(s) {
+  if (!s.trim()) return null;
+  const sp = {};
+  for (const p of s.trim().toUpperCase().split(/[\s,]+/)) {
+    const m = /^([HABCDS])(\d{1,2})$/.exec(p);
+    if (!m) return { err: `'${p}'를 읽지 못했어요. 예: A20 S32` };
+    if (+m[2] > 32) return { err: `${m[1]}${m[2]}: 스탯당 최대 32예요` };
+    sp[m[1]] = +m[2];
+  }
+  const sum = Object.values(sp).reduce((a, b) => a + b, 0);
+  return sum > 66 ? { err: `합계 ${sum}: 66 이하로 적어 주세요` } : { sp };
+}
+function fieldErr(input, errEl, msg) { input.setAttribute("aria-invalid", msg ? "true" : "false"); errEl.textContent = msg || ""; errEl.classList.toggle("hidden", !msg); }
+
+// 화면 문구는 서버 code로 고른다. 서버 message는 이 표에 없는 code일 때만 그대로 쓴다
+const MSG = {
+  empty_input: "무슨 일이 있었는지 한 줄 적어 주세요",
+  llm_unavailable: "지금은 문장을 읽을 수 없어요. 아래 칸을 직접 채워 주세요",
+  not_understood: "문장을 이해하지 못했어요. 아래 칸을 직접 채워 주세요", // empty · broken_json · refusal
+  token_limit: "오늘 복기 횟수를 다 썼어요. 내일 다시 이용해 주세요. 입력한 내용은 그대로 있어요",
+  // 429 token_limit은 문장 읽기에서도 온다(한도가 따로 있음). 그때는 "복기 횟수"가 아니다
+  token_limit_extract: "오늘 이용 횟수를 다 썼어요. 내일 다시 이용해 주세요. 입력한 내용은 그대로 있어요",
+  feedback_failed: "기록하지 못했어요. 결과는 그대로 볼 수 있어요",
+  server_limit: "오늘은 서버 사용량이 다 차서 복기할 수 없어요. 내 횟수와는 관계없어요. 내일 다시 이용해 주세요",
+  http_422: "입력한 조건을 처리하지 못했어요. 조건을 고쳐 주세요",
+  bad_input: "입력한 조건으로는 계산할 수 없어요. 조건을 고쳐 주세요",
+  internal: "계산 중 문제가 생겼어요. 잠시 뒤 다시 시도해 주세요",
+  disconnect: "연결이 끊겼어요. 입력한 조건은 그대로 있어요",
+};
+function status(msg, tone) { $("nlStatus").textContent = msg; $("nlStatus").className = "hint" + (tone ? " " + tone : ""); if (msg) announce(msg); }
+// 남은 횟수는 5번 이하일 때만 보인다
+function quotaLine() { $("quotaLine").textContent = st.quota <= 5 && st.quota > 0 ? `오늘 남은 복기 ${st.quota}번` : ""; }
+
+$("askForm").addEventListener("submit", e => {
+  e.preventDefault();
+  const text = $("nlInput").value.trim();
+  if (st.limit) return status(MSG[st.limit === "token_limit" ? "token_limit_extract" : st.limit], "warn");
+  if (!text && !$("moreBox").open) { status(MSG.empty_input, "danger"); $("nlInput").focus(); return; }
+  if (!text) { showConfirm(); return; }
+  status("문장을 읽는 중…");
+  stopTimers();
+  st.timers.push(setTimeout(() => {
+    status("");
+    if (st.noKey) return extractFailed(MSG.llm_unavailable);
+    const x = extract(text);
+    if (x.type === "rule") return showRule();
+    if (x.type === "fail") return extractFailed(MSG.not_understood);
+    applyExtraction(x); showConfirm();
+  }, 500));
+});
+function extractFailed(msg) {
+  $("confirmView").classList.add("hidden"); $("ruleView").classList.add("hidden");
+  status(msg, "warn"); $("moreBox").open = true; meC.input.focus();
+}
+$("goBtn").addEventListener("click", () => {
+  const my = spCheck($("mySp").value), op = spCheck($("oppSp").value);
+  fieldErr($("mySp"), $("mySpErr"), my && my.err); fieldErr($("oppSp"), $("oppSpErr"), op && op.err);
+  if ((my && my.err) || (op && op.err)) { $("moreBox").open = true; (my && my.err ? $("mySp") : $("oppSp")).focus(); return; }
+  run();
+});
+$("toReview").addEventListener("click", () => { $("moreBox").open = true; showConfirm(); });
+
+// ---- 규칙 질문 (DR21, /api/chat 없음) ----
+function showRule() {
+  $("confirmView").classList.add("hidden"); $("ruleView").classList.remove("hidden");
+  announce("규칙 질문으로 이해했어요. 답변은 준비 중이에요");
+}
+
+// ---- 결과 화면 ----
+function stopTimers() { st.timers.forEach(clearTimeout); st.timers = []; }
+function turnText() { const k = actualVal(); return `${who(def())} ← ${st.move.name_ko} ← ${who(att())} · ${KIND_TXT[k]}`; }
+function showResultFrame(turn) {
+  $("askView").classList.add("hidden"); $("resultView").classList.remove("hidden");
+  $("turnText").textContent = turn;
+}
+// 재제출하면 이전 타이머(=스트림)를 끊어 늦은 응답이 새 결과를 덮지 않게 한다 (DR7)
+// 서버는 status(computing) 한 번 뒤 answer를 보낸다. 그래서 진행 표시는 한 줄이다
+function run(key = "ko", over) {
+  stopTimers(); st.reviewId++; st.quota--; quotaLine();
+  const id = st.reviewId;
+  showResultFrame(st.move ? turnText() : SAMPLES[key].turn);
+  $("resultBody").innerHTML = `<p class="progress" role="status">계산하는 중…</p>`;
+  announce("계산하는 중");
+  st.timers.push(setTimeout(() => { if (id === st.reviewId) renderAnswer({ ...SAMPLES[key], ...over }); }, 900));
+}
+function renderError(code) {
+  const limit = code === "token_limit" || code === "server_limit", fix = code === "bad_input" || code === "http_422";
+  // 오류 문구가 이 화면의 결론이라 h1(제목 크기 22px)로 둔다
+  $("resultBody").innerHTML = `<h1 class="notice ${limit ? "warn" : "danger"}" role="alert">${MSG[code]}</h1>`
+    + (limit ? "" : `<div class="row-actions"><button type="button" class="primary" data-act="${fix ? "edit" : "retry"}">${fix ? "조건 고치기" : "다시 복기"}</button></div>`);
+  announce(MSG[code]);
+}
+
+const BASIS_NAME = { pokedb: "실제 랭크배틀 기준", smogon: "Showdown 시뮬레이터 기준" };
+// 난수 띠(DESIGN.md): 16칸 중 k칸 채움, 같은 글자 표기를 옆에 항상 둔다
+const strip = k => `<span class="rolls" role="img" aria-label="16번 중 ${k}번 실제 결과와 같음">${Array.from({ length: 16 }, (_, i) => `<i class="${i < k ? "on" : ""}" style="--i:${i}"></i>`).join("")}</span>`;
+// 통계표 띠는 모두 roll 색(청록은 결론이 가리키는 계산표 줄에만). 도구로 구분 불가면 순위 없이 나열한다
+function basisBlock(name, b, primary, lead = "") {
+  const flat = b.undetermined;
+  const rows = b.causes.map(c => `<li>${flat ? "" : `<span class="rank">${c.rank}</span>`}<span class="item">${esc(c.label)}</span>${c.rolls_k != null ? `<span class="rollcell">${strip(c.rolls_k)}<span class="rolltxt">16번 중 ${c.rolls_k}번</span></span>` : ""}<span class="spread">${esc(c.conditions[0])}${c.conditions.length > 1 ? ` 외 ${c.conditions.length - 1}개` : ""}</span></li>`).join("");
+  return `<section class="basis${primary ? "" : " sub"}" aria-labelledby="basis-${name}">
+    <h3 class="basis-head" id="basis-${name}">${BASIS_NAME[name]}${primary ? "" : " (참고)"}</h3>
+    <p class="basis-src">${esc(b.source.label)}</p>
+    ${b.source.note ? `<p class="basis-src">${esc(b.source.note)} · <a href="${b.source.url}" target="_blank" rel="noopener">출처</a></p>` : ""}
+    ${lead}
+    ${b.zero_match ? `<p class="causes-cap">이 기준에서는 결과와 맞는 후보가 없어요</p>`
+      : `<p class="causes-cap">${flat ? "상대 도구로는 구분하기 어려워요. 아래 후보 모두 이 결과와 맞아요" : "이 결과와 맞는 상대 도구 후보 · 가능성 높은 순"}</p><ol class="causes${flat ? " flat" : ""}">${rows}</ol>`}
+    ${Math.round(b.excluded_share * 100) > 0 ? `<p class="excluded">상대 도구 중 채용률 ${Math.round(b.excluded_share * 100)}%는 계산할 수 없어 빼고 비교했어요</p>` : ""}
+  </section>`;
+}
+// 계산표(P0): 상대 빌드 한 줄 = 데미지 범위(굵게) + 난수 띠 + 계산기식 결과, 아래 작은 글씨로 통계·같은 결과 도구.
+// 챔피언스에 없는 도구 줄은 흐리지 않고 아래에 따로 묶는다(그 줄이 결과를 설명할 수 있어서)
+// 청록(lead)은 결론(headline)이 가리키는 줄(서버 calc.headline_row, rows의 번호)의 띠에만. null이거나 띠가 없는 스피드 줄이면 청록 없음
+const pct = n => `${+n.toFixed(1)}%`;
+function calcResult(r, kind) {
+  if (r.speed) { const { opp, me } = r.speed; return [`상대 ${opp} · 나 ${me}`, opp > me ? "상대가 먼저" : opp < me ? "내가 먼저" : "동속(먼저 움직이는 쪽은 무작위)"]; }
+  const dmg = `${r.damage[0]}~${r.damage[1]}%`;
+  if (kind === "survived") return [dmg, `16번 중 ${r.k}번 이 HP로 버팀 (${pct(r.pct)})`];
+  return [dmg, r.k === 16 ? "확정 1타" : r.k === 0 ? "1타 불가" : `난수 1타 · 16번 중 ${r.k}번 (${pct(r.pct)})`];
+}
+function calcRow(r, kind, c) {
+  const lead = c && c.headline_row != null && r === c.rows[c.headline_row];
+  const [main, res] = calcResult(r, kind);
+  const meta = [...r.usage, ...(r.same_items.length ? [`같은 결과: ${r.same_items.join("·")}`] : [])];
+  return `<li class="${lead ? "lead" : ""}"><p class="calc-label">${esc(r.label)}</p>
+    <p class="calc-line"><span class="calc-main">${esc(main)}</span>${r.k != null ? strip(r.k) : ""}<span class="calc-res">${esc(res)}</span></p>
+    ${meta.length ? `<p class="calc-meta">${esc(meta.join(" · "))}</p>` : ""}</li>`;
+}
+function calcBlock(c, kind) {
+  if (!c) return "";
+  const rows = c.rows.length ? c.rows : c.near, inC = rows.filter(r => r.in_champions), outC = rows.filter(r => !r.in_champions);
+  return `<section class="calc" aria-labelledby="calcTitle">
+    <h2 class="section-title" id="calcTitle">계산 결과 · 상대 빌드별</h2>
+    <p class="basis-src">내 빌드 ${esc(c.my_build)} · ${esc(c.assumed)}</p>
+    ${c.rows.length ? "" : `<p class="calc-empty">이 결과가 나오는 상대 빌드가 없어요. 가장 가까운 빌드를 보여 드려요</p>`}
+    ${inC.length ? `<ol class="calc-rows">${inC.slice(0, 3).map(r => calcRow(r, kind, c)).join("")}</ol>` : ""}
+    ${inC.length > 3 ? `<details class="fold calc-fold"><summary>빌드 ${inC.length - 3}개 더 보기</summary><ol class="calc-rows">${inC.slice(3).map(r => calcRow(r, kind, c)).join("")}</ol></details>` : ""}
+    ${outC.length ? `<h3 class="calc-group">챔피언스에 없는 도구 <span class="badge">참고</span></h3><p class="basis-src">지금 챔피언스에서는 쓸 수 없는 도구예요. 상대 빌드를 잘못 짐작했을 수 있다는 신호로 보세요</p><ol class="calc-rows">${outC.map(r => calcRow(r, kind, c)).join("")}</ol>` : ""}
+    ${c.more ? `<p class="basis-src calc-more">결과가 비슷한 빌드 ${c.more}개는 생략했어요</p>` : ""}
+  </section>`;
+}
+function renderAnswer(a) {
+  const B = a.bases, names = ["pokedb", "smogon"].filter(n => B[n]);
+  const hasRolls = names.some(n => B[n].causes.some(c => c.rolls_k != null));
+  const bases = !names.length ? ""
+    : a.differs ? `<div class="bases two">${basisBlock("pokedb", B.pokedb, true)}${B.smogon ? basisBlock("smogon", B.smogon, false, `<p class="diff-note">이 기준에서는 결과가 달라요. 데이터를 모은 곳과 내 빌드 가정이 달라서일 수 있어요</p>`) : ""}</div>`
+    : `<div class="bases one">${basisBlock("pokedb", B.pokedb, true)}</div>
+        ${B.smogon ? `<details class="fold other-basis"><summary>다른 기준(Showdown 시뮬레이터)으로 보기</summary>${basisBlock("smogon", B.smogon, false)}</details>` : ""}`;
+  const assumptions = [...a.assumptions, ...names.flatMap(n => B[n].notes.map(t => `${BASIS_NAME[n]}: ${t}`))];
+  const sources = names.map(n => `<li>${BASIS_NAME[n]} · ${esc(B[n].source.label)}${B[n].source.url ? ` · <a href="${B[n].source.url}" target="_blank" rel="noopener">원문</a>` : ""}</li>`).join("");
+  $("resultBody").innerHTML = `<div class="appear">
+    ${/* degraded 안내는 두지 않는다: 결론(headline)·계산표는 코드가 만들고, LLM이 다듬는 summary는 화면에 나오지 않는다 */ ""}
+    <h1 class="conclusion">${esc((a.headline || a.summary).replace(/\.$/, ""))}${a.reference_only && names.length ? `<span class="badge">참고용</span>` : ""}</h1>
+    ${a.reference_only ? `<p class="small" style="color:var(--warn)">${esc(a.unsupported.join(" · "))}</p>` : ""}
+    ${a.assumptions.length ? `<p class="assume">${esc(a.assumptions.join(" · "))} · <button type="button" class="link" data-act="edit">조건 고치기</button></p>`
+      : `<div class="row-actions"><button type="button" class="primary" data-act="edit">조건 고치기</button></div>`}
+    ${calcBlock(a.calc, a.kind)}
+    ${bases && a.calc ? `<h2 class="section-title">통계로 보면</h2><p class="basis-src">상위 사용자들이 실제로 많이 쓰는 빌드로 좁혀 본 원인이에요</p>` : ""}
+    ${bases}
+    ${hasRolls ? `<p class="roll-legend">통계의 띠는 가장 그럴듯한 조건에서 난수 16번 중 실제 결과와 같게 나온 횟수예요</p>` : ""}
+    ${names.length ? `<p class="u7">${U7}</p>
+    <details class="fold" id="fold">
+      <summary>가정 · 계산하지 않은 것 · 출처</summary>
+      <h3>가정</h3><ul>${assumptions.map(t => `<li>${esc(t)}</li>`).join("")}</ul>
+      <h3>계산하지 않은 것</h3><ul>${a.unsupported.map(t => `<li>${esc(t)}</li>`).join("") || "<li>없음</li>"}</ul>
+      <h3>출처</h3><ul>${sources}</ul>
+    </details>
+    <div class="feedback" id="feedback">이 턴이 실제로 진 이유였나요?
+      <div class="btns"><button type="button" data-fb="yes">예</button><button type="button" data-fb="no">아니요</button><button type="button" data-fb="unknown">모르겠어요</button></div>
+      <p class="hint warn" id="fbStatus" role="status"></p>
+    </div>` : ""}
+  </div>`;
+  announce("복기 결과가 나왔어요");
+}
+
+document.addEventListener("click", e => {
+  const fb = e.target.closest("[data-fb]");
+  // 서버가 {"ok": false}면 기록 실패. 답한 버튼은 그대로 두고 문구만 바꾼다(다시 누를 수 있게)
+  if (fb && st.fbFail) { $("fbStatus").textContent = MSG.feedback_failed; announce(MSG.feedback_failed); }
+  else if (fb) { $("feedback").innerHTML = `<span class="muted">답해 주셔서 고마워요. 기록했어요.</span>`; announce("기록했어요"); }
+  const act = e.target.closest("[data-act]");
+  if (act) { if (act.dataset.act === "edit") editForm(); else run(); }
+});
+$("deleteReq").addEventListener("click", () => status("(프로토타입) 삭제 요청은 초대 토큰 기준으로 접수돼요"));
+function editForm() { stopTimers(); $("resultView").classList.add("hidden"); $("askView").classList.remove("hidden"); $("moreBox").open = true; showConfirm(); }
+$("editBtn").addEventListener("click", editForm);
+function reset() {
+  stopTimers(); st.noKey = false; st.limit = null; st.ask = []; st.notes = []; st.fbFail = false;
+  $("askForm").reset(); st.me = st.opp = null; st.actor = "opp"; clearMove(); meC.set(""); oppC.set("");
+  $("hpChips").classList.add("hidden"); $("moreBox").open = false; status("");
+  $("confirmView").classList.add("hidden"); $("ruleView").classList.add("hidden");
+  $("gateView").classList.add("hidden"); $("askView").classList.remove("hidden");
+  $("resultView").classList.add("hidden");
+  refreshFlags(); refresh(); quotaLine();
+}
+$("newBtn").addEventListener("click", () => { reset(); $("nlInput").focus(); });
+document.querySelectorAll("[data-ex]").forEach(b => b.addEventListener("click", () => { $("nlInput").value = b.dataset.ex; $("nlInput").focus(); }));
+
+// ---- 프로토타입 상태 전환 ----
+const EX_KO = "상대 망나뇽 역린에 내 한카리아스가 한 방에 쓰러졌어";
+function nl(text, then) { reset(); $("nlInput").value = text; $("askForm").requestSubmit(); if (then) setTimeout(then, 600); }
+function direct(key, over) { reset(); stopTimers(); showResultFrame(SAMPLES[key].turn); renderAnswer({ ...SAMPLES[key], ...over }); }
+function directErr(code) { reset(); showResultFrame(SAMPLES.ko.turn); renderError(code); }
+function limited(code) { reset(); st.limit = code; $("nlInput").value = EX_KO; $("askForm").requestSubmit(); }
+const PROTO = [
+  ["첫 화면", () => reset()],
+  ["추출 중", () => { reset(); $("nlInput").value = EX_KO; $("askForm").requestSubmit(); }],
+  ["확인 단계", () => nl(EX_KO)],
+  ["확인 단계(꼭 확인 칸)", () => nl("내 한카리아스가 더 빠를 텐데 상대 드래펄트 드래곤애로에 먼저 맞았어", () => { st.ask = SAMPLE_EXTRACT.ask; st.notes = SAMPLE_EXTRACT.notes; refreshConfirm(); })],
+  ["확인 단계(빈 칩)", () => nl("망나뇽한테 한 방에 죽었어")],
+  ["확인 단계(특수 상황 칩)", () => nl("비 오는데 상대 망나뇽 역린 급소 맞고 내 한카리아스가 쓰러졌어")],
+  ["추출 실패(이해 못 함)", () => nl("아 진짜 억울하다")],
+  ["추출 실패(키 없음)", () => { reset(); st.noKey = true; $("nlInput").value = EX_KO; $("askForm").requestSubmit(); }],
+  ["규칙 질문(준비 중)", () => nl("왜 기습이 실패했지?")],
+  ["빈 문장 제출", () => { reset(); $("askForm").requestSubmit(); }],
+  ["목록 실패", () => { reset(); st.listState = "error"; $("moreBox").open = true;
+    $("listNotice").innerHTML = `포켓몬 목록을 못 불러왔어요. <button type="button" class="link" id="listRetry">다시 시도</button>`; $("listNotice").classList.remove("hidden");
+    $("listRetry").onclick = () => { st.listState = "ok"; $("listNotice").classList.add("hidden"); }; }],
+  ["SP 입력 오류", () => nl(EX_KO, () => { $("mySp").value = "A33 S32"; $("goBtn").click(); })],
+  ["남은 횟수 적음", () => { reset(); st.quota = 3; quotaLine(); }],
+  ["429 내 횟수 소진(문장 읽기)", () => limited("token_limit")],
+  ["429 서버 전체 소진", () => limited("server_limit")],
+  ["403 초대 없음", () => { reset(); $("askView").classList.add("hidden"); $("gateView").classList.remove("hidden"); }],
+  ["계산 중→결과", () => nl(EX_KO, () => $("goBtn").click())],
+  ["결과: 두 기준 다름(버팀)", () => direct("survived")],
+  ["결과: 두 기준 같음(접힘)", () => direct("survived", { differs: false })],
+  ["결과: 도구 구분 불가(한 방)", () => direct("ko")],
+  ["결과: 행동 순서(띠 없음)", () => direct("outsped")],
+  ["결과: 참고용(급소)", () => direct("crit")],
+  ["결과: 계산 안 하는 기술", () => direct("unsupported")],
+  ["결과: degraded(안내 없음, 화면 동일)", () => direct("survived", { degraded: true })],
+  ["오류: 입력값(bad_input)", () => directErr("bad_input")],
+  ["오류: 입력 검증(422)", () => directErr("http_422")],
+  ["오류: 서버(internal)", () => directErr("internal")],
+  ["끊김(계산 전)", () => directErr("disconnect")],
+  ["재제출(스트림 중단)", () => nl(EX_KO, () => { $("goBtn").click(); setTimeout(() => run("survived"), 500); })],
+  ["결과: 계산표(친구 사례, 챔피언스에 없는 도구)", () => direct("friend1")],
+  ["결과: 계산표 결과 없음(가장 가까운 빌드)", () => direct("ko", { calc: { ...SAMPLES.ko.calc, rows: [], near: SAMPLES.ko.calc.rows.slice(1, 2), more: 0 } })],
+  // notes는 서버 extract 문구(learnset으로 공격 측을 정한 경우, 2026-10-23 A1)
+  ["확인 단계(공격 측 확인)", () => nl(EX_KO, () => { st.ask = ["actor"]; st.notes = ["기술을 배우는 쪽을 공격한 포켓몬으로 정했어요. 맞는지 확인해 주세요"]; refreshConfirm(); })],
+  ["429 내 횟수 소진(복기)", () => directErr("token_limit")],
+  ["피드백 기록 실패", () => { direct("survived"); st.fbFail = true; }],
+  ["결과: 내가 먼저(스피드)", () => direct("slower")],
+];
+$("protoBtns").innerHTML = PROTO.map((p, i) => `<button type="button" data-p="${i}">${i + 1}. ${p[0]}</button>`).join("");
+$("protoBtns").addEventListener("click", e => { const b = e.target.closest("[data-p]"); if (b) { st.quota = 50; st.listState = "ok"; PROTO[+b.dataset.p][1](); window.scrollTo({ top: 0 }); } });
+
+refreshFlags(); refresh();
+// ?theme=dark|light 로 테마 고정 (검사기는 밝은 테마만 찍는다)
+const th = /theme=(dark|light)/.exec(location.search);
+if (th) document.documentElement.dataset.theme = th[1];
+// review-tab.html#state=N 처럼 상태 번호로 바로 열기 (공유·스크린샷용)
+const h = /state=(\d+)/.exec(location.hash);
+if (h && PROTO[h[1] - 1]) PROTO[h[1] - 1][1]();
+</script>
+</body>
+</html>

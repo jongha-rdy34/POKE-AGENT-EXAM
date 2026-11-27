@@ -1,0 +1,42 @@
+{
+ "id": 347,
+ "name": "anorith",
+ "names": {
+  "ja-hrkt": "アノプス",
+  "ja-roma": "Anopth",
+  "ko": "아노딥스",
+  "zh-hant": "太古羽蟲",
+  "fr": "Anorith",
+  "de": "Anorith",
+  "es": "Anorith",
+  "it": "Anorith",
+  "en": "Anorith",
+  "ja": "アノプス",
+  "zh-hans": "太古羽虫",
+  "es-419": "Anorith"
+ },
+ "genus": {
+  "ja-hrkt": "むかしエビポケモン",
+  "ko": "고대새우포켓몬",
+  "zh-hant": "古蝦寶可夢",
+  "fr": "Pokémon Crustage",
+  "de": "Urgarnelen-Pokémon",
+  "es": "Pokémon Camarón",
+  "it": "Pokémon Primaceo",
+  "en": "Old Shrimp Pokémon",
+  "ja": "むかしエビポケモン",
+  "zh-hans": "古虾宝可梦",
+  "es-419": "Pokémon Camarón"
+ },
+ "flavor": {
+  "en": "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon.",
+  "ko": "8장의 날개를 배의 노처럼 움직여 빠르게 헤엄친다. 벌레포켓몬 선조의 일종이다."
+ },
+ "varieties": [
+  {
+   "name": "anorith",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "177"
+}

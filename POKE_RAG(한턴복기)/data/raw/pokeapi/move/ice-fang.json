@@ -1,0 +1,31 @@
+{
+ "name": "ice-fang",
+ "names": {
+  "ja-hrkt": "こおりのキバ",
+  "ko": "얼음엄니",
+  "zh-hant": "冰凍牙",
+  "fr": "Crocs Givre",
+  "de": "Eiszahn",
+  "es": "Colmillo Hielo",
+  "it": "Gelodenti",
+  "en": "Ice Fang",
+  "ja": "こおりのキバ",
+  "zh-hans": "冰冻牙",
+  "es-419": "Colmillo Hielo"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to freeze the target and a chance to make the target flinch."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.",
+  "ko": "냉기를 품은 이빨로 문다. 상대를 풀죽게 하거나 얼음 상태로 만들 때가 있다."
+ }
+}

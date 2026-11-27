@@ -1,0 +1,37 @@
+{
+ "id": 1000,
+ "name": "gholdengo",
+ "names": {
+  "ja-hrkt": "サーフゴー",
+  "ja-roma": "Surfugo",
+  "ko": "타부자고",
+  "zh-hant": "賽富豪",
+  "fr": "Gromago",
+  "de": "Monetigo",
+  "es": "Gholdengo",
+  "it": "Gholdengo",
+  "en": "Gholdengo",
+  "ja": "サーフゴー",
+  "zh-hans": "赛富豪",
+  "es-419": "Gholdengo"
+ },
+ "genus": {
+  "ja-hrkt": "たからものポケモン",
+  "ko": "보물생명체포켓몬",
+  "zh-hant": "寶者寶可夢",
+  "fr": "Trésor Animé",
+  "de": "Schatzwesen",
+  "en": "Coin Entity Pokémon",
+  "zh-hans": "宝者宝可梦"
+ },
+ "flavor": {
+  "en": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession."
+ },
+ "varieties": [
+  {
+   "name": "gholdengo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "528"
+}

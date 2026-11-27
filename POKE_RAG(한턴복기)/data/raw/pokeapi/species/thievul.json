@@ -1,0 +1,42 @@
+{
+ "id": 828,
+ "name": "thievul",
+ "names": {
+  "ja-hrkt": "フォクスライ",
+  "ja-roma": "Foxly",
+  "ko": "폭슬라이",
+  "zh-hant": "狐大盜",
+  "fr": "Roublenard",
+  "de": "Gaunux",
+  "es": "Thievul",
+  "it": "Thievul",
+  "en": "Thievul",
+  "ja": "フォクスライ",
+  "zh-hans": "猾大狐",
+  "es-419": "Thievul"
+ },
+ "genus": {
+  "ja-hrkt": "きつねポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs-Pokémon",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "きつねポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "ko": "가벼운 몸과 날카로운 발톱으로 먹이나 알을 훔치며 돌아다닌다. 펄스멍이 천적이다.",
+  "en": "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy."
+ },
+ "varieties": [
+  {
+   "name": "thievul",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "436"
+}

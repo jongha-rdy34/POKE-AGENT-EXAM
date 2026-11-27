@@ -1,0 +1,42 @@
+{
+ "id": 561,
+ "name": "sigilyph",
+ "names": {
+  "ja-hrkt": "シンボラー",
+  "ja-roma": "Symboler",
+  "ko": "심보러",
+  "zh-hant": "象徵鳥",
+  "fr": "Cryptéro",
+  "de": "Symvolara",
+  "es": "Sigilyph",
+  "it": "Sigilyph",
+  "en": "Sigilyph",
+  "ja": "シンボラー",
+  "zh-hans": "象征鸟",
+  "es-419": "Sigilyph"
+ },
+ "genus": {
+  "ja-hrkt": "とりもどきポケモン",
+  "ko": "흡사새포켓몬",
+  "zh-hant": "似鳥寶可夢",
+  "fr": "Pokémon Similoiseau",
+  "de": "Vogelgleich-Pokémon",
+  "es": "Pokémon Pseudopájaro",
+  "it": "Pokémon Pseuduccello",
+  "en": "Avianoid Pokémon",
+  "ja": "とりもどきポケモン",
+  "zh-hans": "似鸟宝可梦",
+  "es-419": "Pokémon Pseudopájaro"
+ },
+ "flavor": {
+  "en": "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands.",
+  "ko": "심보러가 나는 사막 아래를 조사해 보니 고대 도시로 여겨지는 자취가 발견되었다."
+ },
+ "varieties": [
+  {
+   "name": "sigilyph",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "286"
+}

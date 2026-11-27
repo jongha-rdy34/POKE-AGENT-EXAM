@@ -1,0 +1,54 @@
+{
+ "id": 128,
+ "name": "tauros",
+ "names": {
+  "ja-hrkt": "ケンタロス",
+  "ja-roma": "Kentauros",
+  "ko": "켄타로스",
+  "zh-hant": "肯泰羅",
+  "fr": "Tauros",
+  "de": "Tauros",
+  "es": "Tauros",
+  "it": "Tauros",
+  "en": "Tauros",
+  "ja": "ケンタロス",
+  "zh-hans": "肯泰罗",
+  "es-419": "Tauros"
+ },
+ "genus": {
+  "ja-hrkt": "あばれうしポケモン",
+  "ko": "성난소포켓몬",
+  "zh-hant": "暴牛寶可夢",
+  "fr": "Pokémon Buffle",
+  "de": "Wildbullen-Pokémon",
+  "es": "Pokémon Toro Bravo",
+  "it": "Pokémon Torobrado",
+  "en": "Wild Bull Pokémon",
+  "ja": "あばれうしポケモン",
+  "zh-hans": "暴牛宝可梦",
+  "es-419": "Pokémon Toro Bravo"
+ },
+ "flavor": {
+  "en": "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs.",
+  "ko": "가라르에 서식하는 켄타로스는 기질이 거칠어서 사람이 등에 올라타는 것을 허용하지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "tauros",
+   "is_default": true
+  },
+  {
+   "name": "tauros-paldea-combat-breed",
+   "is_default": false
+  },
+  {
+   "name": "tauros-paldea-blaze-breed",
+   "is_default": false
+  },
+  {
+   "name": "tauros-paldea-aqua-breed",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "63"
+}

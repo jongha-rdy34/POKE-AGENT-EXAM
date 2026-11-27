@@ -1,0 +1,31 @@
+{
+ "name": "roar",
+ "names": {
+  "ja-hrkt": "ほえる",
+  "ko": "울부짖기",
+  "zh-hant": "吼叫",
+  "fr": "Hurlement",
+  "de": "Brüller",
+  "es": "Rugido",
+  "it": "Boato",
+  "en": "Roar",
+  "ja": "ほえる",
+  "zh-hans": "吼叫",
+  "es-419": "Rugido"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": -6,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Immediately ends wild battles.  Forces trainers to switch Pokémon."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+  "ko": "상대를 도망가게 해서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 624,
+ "name": "pawniard",
+ "names": {
+  "ja-hrkt": "コマタナ",
+  "ja-roma": "Komatana",
+  "ko": "자망칼",
+  "zh-hant": "駒刀小兵",
+  "fr": "Scalpion",
+  "de": "Gladiantri",
+  "es": "Pawniard",
+  "it": "Pawniard",
+  "en": "Pawniard",
+  "ja": "コマタナ",
+  "zh-hans": "驹刀小兵",
+  "es-419": "Pawniard"
+ },
+ "genus": {
+  "ja-hrkt": "はものポケモン",
+  "ko": "날붙이포켓몬",
+  "zh-hant": "利器寶可夢",
+  "fr": "Pokémon Coupant",
+  "de": "Stahlklingen-Pokémon",
+  "es": "Pokémon Tajo",
+  "it": "Pokémon Lamaffilata",
+  "en": "Sharp Blade Pokémon",
+  "ja": "はものポケモン",
+  "zh-hans": "利器宝可梦",
+  "es-419": "Pokémon Tajo"
+ },
+ "flavor": {
+  "en": "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead.",
+  "ko": "절각참을 보스로 둔 무리를 만든다. 무리를 이끄는 날을 꿈꾸며 날마다 단련을 계속한다."
+ },
+ "varieties": [
+  {
+   "name": "pawniard",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "317"
+}

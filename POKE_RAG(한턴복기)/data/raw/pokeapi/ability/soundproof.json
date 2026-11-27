@@ -1,0 +1,23 @@
+{
+ "name": "soundproof",
+ "names": {
+  "ja-hrkt": "ぼうおん",
+  "ko": "방음",
+  "zh-hant": "隔音",
+  "fr": "Anti-Bruit",
+  "de": "Lärmschutz",
+  "es": "Insonorizar",
+  "it": "Antisuono",
+  "en": "Soundproof",
+  "ja": "ぼうおん",
+  "zh-hans": "隔音",
+  "es-419": "Insonorización"
+ },
+ "effect": {
+  "en": "Protects against sound-based moves."
+ },
+ "flavor": {
+  "en": "Soundproofing gives the Pokémon full immunity to all sound-based moves.",
+  "ko": "소리를 차단하는 것으로 소리 공격을 받지 않는다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 62,
+ "name": "poliwrath",
+ "names": {
+  "ja-hrkt": "ニョロボン",
+  "ja-roma": "Nyorobon",
+  "ko": "강챙이",
+  "zh-hant": "蚊香泳士",
+  "fr": "Tartard",
+  "de": "Quappo",
+  "es": "Poliwrath",
+  "it": "Poliwrath",
+  "en": "Poliwrath",
+  "ja": "ニョロボン",
+  "zh-hans": "蚊香泳士",
+  "es-419": "Poliwrath"
+ },
+ "genus": {
+  "ja-hrkt": "おたまポケモン",
+  "ko": "올챙이포켓몬",
+  "zh-hant": "蝌蚪寶可夢",
+  "fr": "Pokémon Têtard",
+  "de": "Kaulquappen-Pokémon",
+  "es": "Pokémon Renacuajo",
+  "it": "Pokémon Girino",
+  "en": "Tadpole Pokémon",
+  "ja": "おたまポケモン",
+  "zh-hans": "蝌蚪宝可梦",
+  "es-419": "Pokémon Renacuajo"
+ },
+ "flavor": {
+  "en": "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.",
+  "ko": "헤엄뿐만 아니라 격투기도 특기다. 단련한 팔로 호쾌하게 펀치를 날린다."
+ },
+ "varieties": [
+  {
+   "name": "poliwrath",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "26"
+}

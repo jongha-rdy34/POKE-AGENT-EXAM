@@ -1,0 +1,33 @@
+{
+ "id": 1014,
+ "name": "okidogi",
+ "names": {
+  "ja-hrkt": "イイネイヌ",
+  "ja-roma": "Iineinu",
+  "ko": "조타구",
+  "zh-hant": "夠讚狗",
+  "fr": "Félicanis",
+  "de": "Boninu",
+  "es": "Okidogi",
+  "it": "Okidogi",
+  "en": "Okidogi",
+  "ja": "イイネイヌ",
+  "zh-hans": "够赞狗",
+  "es-419": "Okidogi"
+ },
+ "genus": {
+  "ko": "수하포켓몬",
+  "fr": "Serviteur",
+  "en": "Retainer Pokémon"
+ },
+ "flavor": {
+  "en": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck."
+ },
+ "varieties": [
+  {
+   "name": "okidogi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "540"
+}

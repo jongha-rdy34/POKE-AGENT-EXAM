@@ -1,0 +1,20 @@
+{
+ "name": "magikarp-scales",
+ "names": {
+  "ja-hrkt": "コイキングのウロコ",
+  "ko": "잉어킹의비늘",
+  "zh-hant": "鯉魚王的鱗片",
+  "fr": "Écaille de Magicarpe",
+  "de": "Karpador-Schuppe",
+  "es": "Escama de Magikarp",
+  "it": "Squama di Magikarp",
+  "en": "Magikarp Scales",
+  "ja": "コイキングのウロコ",
+  "zh-hans": "鲤鱼王的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

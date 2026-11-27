@@ -1,0 +1,17 @@
+{
+ "name": "flapple-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Pomdrapi Gigamax",
+  "de": "Gigadynamax-Drapfel",
+  "en": "Gigantamax Flapple"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

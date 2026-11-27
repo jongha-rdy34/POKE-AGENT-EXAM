@@ -1,0 +1,31 @@
+{
+ "name": "blast-burn",
+ "names": {
+  "ja-hrkt": "ブラストバーン",
+  "ko": "블라스트번",
+  "zh-hant": "爆炸烈焰",
+  "fr": "Rafale Feu",
+  "de": "Lohekanonade",
+  "es": "Anillo Ígneo",
+  "it": "Incendio",
+  "en": "Blast Burn",
+  "ja": "ブラストバーン",
+  "zh-hans": "爆炸烈焰",
+  "es-419": "Anillo de Fuego"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 150,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User foregoes its next turn to recharge."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is razed by a fiery explosion. The user can't move on the next turn.",
+  "ko": "폭발하는 불꽃으로 상대를 태워서 공격한다. 다음 턴은 움직일 수 없다."
+ }
+}

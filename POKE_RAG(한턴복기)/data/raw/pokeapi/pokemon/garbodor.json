@@ -1,0 +1,88 @@
+{
+ "id": 569,
+ "name": "garbodor",
+ "species": "garbodor",
+ "is_default": true,
+ "types": [
+  "poison"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 95,
+  "defense": 82,
+  "special-attack": 60,
+  "special-defense": 82,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "stench",
+   "hidden": false
+  },
+  {
+   "name": "weak-armor",
+   "hidden": false
+  },
+  {
+   "name": "aftermath",
+   "hidden": true
+  }
+ ],
+ "height": 19,
+ "weight": 1073,
+ "champions_moves": [
+  "acid-spray",
+  "amnesia",
+  "ancient-power",
+  "attract",
+  "belch",
+  "body-press",
+  "body-slam",
+  "clear-smog",
+  "corrosive-gas",
+  "cross-poison",
+  "curse",
+  "dark-pulse",
+  "drain-punch",
+  "endure",
+  "explosion",
+  "facade",
+  "fling",
+  "focus-blast",
+  "giga-drain",
+  "giga-impact",
+  "gunk-shot",
+  "haze",
+  "hyper-beam",
+  "mud-shot",
+  "pain-split",
+  "payback",
+  "poison-jab",
+  "protect",
+  "psychic",
+  "rain-dance",
+  "recycle",
+  "rest",
+  "rock-blast",
+  "round",
+  "screech",
+  "seed-bomb",
+  "self-destruct",
+  "sleep-talk",
+  "sludge-bomb",
+  "sludge-wave",
+  "snore",
+  "solar-beam",
+  "spikes",
+  "stockpile",
+  "stomping-tantrum",
+  "substitute",
+  "sunny-day",
+  "swallow",
+  "thief",
+  "thunderbolt",
+  "toxic",
+  "toxic-spikes",
+  "venoshock"
+ ]
+}

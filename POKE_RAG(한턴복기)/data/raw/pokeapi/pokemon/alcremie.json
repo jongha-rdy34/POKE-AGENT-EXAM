@@ -1,0 +1,80 @@
+{
+ "id": 869,
+ "name": "alcremie",
+ "species": "alcremie",
+ "is_default": true,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 60,
+  "defense": 75,
+  "special-attack": 110,
+  "special-defense": 121,
+  "speed": 64
+ },
+ "abilities": [
+  {
+   "name": "sweet-veil",
+   "hidden": false
+  },
+  {
+   "name": "aroma-veil",
+   "hidden": true
+  }
+ ],
+ "height": 3,
+ "weight": 5,
+ "champions_moves": [
+  "acid-armor",
+  "alluring-voice",
+  "aromatic-mist",
+  "attract",
+  "baby-doll-eyes",
+  "calm-mind",
+  "charm",
+  "dazzling-gleam",
+  "decorate",
+  "drain-punch",
+  "draining-kiss",
+  "encore",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "entrainment",
+  "facade",
+  "fake-tears",
+  "fling",
+  "giga-drain",
+  "giga-impact",
+  "helping-hand",
+  "hyper-beam",
+  "imprison",
+  "last-resort",
+  "light-screen",
+  "magic-room",
+  "misty-explosion",
+  "misty-terrain",
+  "mystical-fire",
+  "pain-split",
+  "play-rough",
+  "protect",
+  "psych-up",
+  "psychic",
+  "psyshock",
+  "recover",
+  "rest",
+  "round",
+  "safeguard",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "stored-power",
+  "substitute",
+  "sweet-kiss",
+  "sweet-scent",
+  "tri-attack",
+  "wonder-room"
+ ]
+}

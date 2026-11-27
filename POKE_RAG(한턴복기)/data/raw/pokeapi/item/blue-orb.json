@@ -1,0 +1,28 @@
+{
+ "name": "blue-orb",
+ "names": {
+  "ja-hrkt": "あいいろのたま",
+  "ko": "쪽빛구슬",
+  "zh-hant": "靛藍色寶珠",
+  "fr": "Gemme Bleue",
+  "de": "Blauer Edelstein",
+  "es": "Prisma Azul",
+  "it": "Gemma blu",
+  "en": "Blue Orb",
+  "ja": "あいいろのたま",
+  "zh-hans": "靛蓝色宝珠",
+  "es-419": "Prisma Azul"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Kyogre à la Tour Enfouie.",
+  "en": "Summons Kyogre to the Embedded Tower."
+ },
+ "flavor": {
+  "en": "A shiny blue orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.",
+  "ko": "호연지방의 전설과 깊은 연관이 있다고 전해지는 파랗게 빛나는 구슬.",
+  "ja": "ホウエン地方の 伝説と 深い 関わりが あると いわれる あおく かがやく たま。"
+ }
+}

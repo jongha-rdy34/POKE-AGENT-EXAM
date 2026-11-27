@@ -1,0 +1,28 @@
+{
+ "name": "pikashunium-z--held",
+ "names": {
+  "ja-hrkt": "サトピカＺ",
+  "ko": "지우피카Z",
+  "zh-hant": "智皮卡Ｚ",
+  "fr": "Pikachazélite",
+  "de": "Ash-Pikachium Z",
+  "es": "Ash-Pikastal Z",
+  "it": "Ashpikacium Z",
+  "en": "Pikashunium Z",
+  "ja": "サトピカＺ",
+  "zh-hans": "智皮卡Ｚ",
+  "es-419": "Ash-Pikastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pikachu Casquette d'améliorer Tonnerre en Giga-Tonnerre.",
+  "en": "Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 모자를 쓴 피카츄의 10만볼트를 Z기술로 바꾼다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades a Thunderbolt by Pikachu in a cap to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 キャップを かぶった ピカチュウの １０まんボルトを Ｚワザに 変える。"
+ }
+}

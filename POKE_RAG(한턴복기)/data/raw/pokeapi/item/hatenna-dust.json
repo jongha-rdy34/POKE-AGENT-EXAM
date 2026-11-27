@@ -1,0 +1,20 @@
+{
+ "name": "hatenna-dust",
+ "names": {
+  "ja-hrkt": "ミブリムのおとしもの",
+  "ko": "몸지브림의유실물",
+  "zh-hant": "迷布莉姆的掉落物",
+  "fr": "Babiole de Bibichut",
+  "de": "Brimova-Material",
+  "es": "Pertenencia de Hatenna",
+  "it": "Oggetto di Hatenna",
+  "en": "Hatenna Dust",
+  "ja": "ミブリムのおとしもの",
+  "zh-hans": "迷布莉姆的掉落物"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

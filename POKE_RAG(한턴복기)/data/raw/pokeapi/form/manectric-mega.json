@@ -1,0 +1,23 @@
+{
+ "name": "manectric-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Élecsprint",
+  "de": "Mega-Voltenso",
+  "en": "Mega Manectric"
+ },
+ "form_names": {
+  "ja-hrkt": "メガライボルト",
+  "ko": "메가썬더볼트",
+  "zh-hant": "超級雷電獸",
+  "fr": "Méga-Élecsprint",
+  "de": "Mega-Form",
+  "es": "Mega-Manectric",
+  "it": "MegaManectric",
+  "en": "Mega Manectric",
+  "ja": "メガライボルト",
+  "zh-hans": "超级雷电兽",
+  "es-419": "Mega-Manectric"
+ },
+ "is_mega": true
+}

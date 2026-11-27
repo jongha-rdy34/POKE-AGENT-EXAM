@@ -1,0 +1,33 @@
+{
+ "name": "poke-doll",
+ "names": {
+  "ja-hrkt": "ピッピにんぎょう",
+  "ko": "삐삐인형",
+  "zh-hant": "皮皮玩偶",
+  "fr": "Poké Poupée",
+  "de": "Poképuppe",
+  "es": "Poké Muñeco",
+  "it": "Poké Bambola",
+  "en": "Poké Doll",
+  "ja": "ピッピにんぎょう",
+  "zh-hans": "皮皮玩偶",
+  "es-419": "Poké Muñeco"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Met fin à un combat sauvage.",
+  "en": "Ends a wild battle."
+ },
+ "flavor": {
+  "en": "A doll that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.",
+  "ko": "포켓몬의 관심을 끄는 도구. 야생 포켓몬과의 배틀에서 반드시 도망칠 수 있다.",
+  "ja": "ポケモンの 気をひかせる 道具。 野生ポケモンとの 戦闘から 絶対に 逃げられる。"
+ }
+}

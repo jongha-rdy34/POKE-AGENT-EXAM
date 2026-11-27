@@ -1,0 +1,25 @@
+{
+ "name": "brittle-bones",
+ "names": {
+  "ja-hrkt": "かぼそいホネ",
+  "ko": "가느다란뼈",
+  "zh-hant": "細骨",
+  "fr": "Os à Moelle",
+  "de": "Feine Knochen",
+  "es": "Huesos Finos",
+  "it": "Ossi sottili",
+  "en": "Brittle Bones",
+  "ja": "かぼそいホネ",
+  "zh-hans": "细骨",
+  "es-419": "Huesos Finos"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 뼈에서 은은하게 배어 나오는 진액이 감칠맛을 더해준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The taste boiled off from the bones is sure to give a dish a light umami taste.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ホネから ほんのり にじみだす エキスが 旨味を 足す。"
+ }
+}

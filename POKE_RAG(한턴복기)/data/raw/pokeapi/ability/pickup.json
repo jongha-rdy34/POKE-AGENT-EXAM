@@ -1,0 +1,23 @@
+{
+ "name": "pickup",
+ "names": {
+  "ja-hrkt": "ものひろい",
+  "ko": "픽업",
+  "zh-hant": "撿拾",
+  "fr": "Ramassage",
+  "de": "Mitnahme",
+  "es": "Recogida",
+  "it": "Raccolta",
+  "en": "Pickup",
+  "ja": "ものひろい",
+  "zh-hans": "捡拾",
+  "es-419": "Recolección"
+ },
+ "effect": {
+  "en": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+ },
+ "flavor": {
+  "en": "The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too.",
+  "ko": "상대가 사용한 도구를 주워올 때가 있다. 모험 중에도 주워온다."
+ }
+}

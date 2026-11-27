@@ -1,0 +1,25 @@
+{
+ "name": "gold-leaf",
+ "names": {
+  "ja-hrkt": "きんのはっぱ",
+  "ko": "금빛잎사귀",
+  "zh-hant": "金色葉子",
+  "fr": "Feuille Dorée",
+  "de": "Goldblatt",
+  "es": "Hoja de Oro",
+  "it": "Fogliadoro",
+  "en": "Gold Leaf",
+  "ja": "きんのはっぱ",
+  "zh-hans": "金色叶子",
+  "es-419": "Hoja de Oro"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "금빛의 신비한 나뭇잎. 이 나뭇잎이 자라는 나무는 아직 발견되지 않았다.",
+  "en": "A mysterious gold leaf. No trees with this leaf have been found yet.",
+  "ja": "金色の 不思議な はっぱ。 この はっぱを つける 木は 見つかって いない。"
+ }
+}

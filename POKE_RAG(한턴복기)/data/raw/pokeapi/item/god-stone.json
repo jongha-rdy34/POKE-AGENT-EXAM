@@ -1,0 +1,19 @@
+{
+ "name": "god-stone",
+ "names": {
+  "ja-hrkt": "ゴッドストーン",
+  "en": "god stone"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Inconnu.  Actuellement non utilisé.",
+  "en": "Unknown.  Currently unused."
+ },
+ "flavor": {
+  "en": "A rare stone.",
+  "ko": "환상의 돌.",
+  "ja": "幻の 石。"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "name": "armor-fossil",
+ "names": {
+  "ja-hrkt": "たてのカセキ",
+  "ko": "방패의화석",
+  "zh-hant": "盾甲化石",
+  "fr": "Fossile Armure",
+  "de": "Panzerfossil",
+  "es": "Fósil Coraza",
+  "it": "Fossilscudo",
+  "en": "Armor Fossil",
+  "ja": "たてのカセキ",
+  "zh-hans": "盾甲化石",
+  "es-419": "Fósil Coraza"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Dinoclier.",
+  "en": "Can be revived into a Shieldon."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived on the land. It looks to be from some kind of protective collar.",
+  "ko": "오랜 옛날 지상에서 살았던 고대 포켓몬의 화석. 깃 장식의 일부인 듯하다.",
+  "ja": "大昔 地上で 暮らした 古代ポケモンの カセキ。 襟飾りの 一部らしい。"
+ }
+}

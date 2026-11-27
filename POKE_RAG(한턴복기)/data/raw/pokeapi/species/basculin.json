@@ -1,0 +1,50 @@
+{
+ "id": 550,
+ "name": "basculin",
+ "names": {
+  "ja-hrkt": "バスラオ",
+  "ja-roma": "Bassrao",
+  "ko": "배쓰나이",
+  "zh-hant": "野蠻鱸魚",
+  "fr": "Bargantua",
+  "de": "Barschuft",
+  "es": "Basculin",
+  "it": "Basculin",
+  "en": "Basculin",
+  "ja": "バスラオ",
+  "zh-hans": "野蛮鲈鱼",
+  "es-419": "Basculin"
+ },
+ "genus": {
+  "ja-hrkt": "らんぼうポケモン",
+  "ko": "흉포포켓몬",
+  "zh-hant": "粗暴寶可夢",
+  "fr": "Pokémon Violent",
+  "de": "Grobheits-Pokémon",
+  "es": "Pokémon Violento",
+  "it": "Pokémon Irruenza",
+  "en": "Hostile Pokémon",
+  "ja": "らんぼうポケモン",
+  "zh-hans": "粗暴宝可梦",
+  "es-419": "Pokémon Violento"
+ },
+ "flavor": {
+  "en": "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities.",
+  "ko": "옛날에는 식탁에 올랐다. 적색근 배쓰나이의 살코기는 기름이 많아 젊은 층이 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "basculin-red-striped",
+   "is_default": true
+  },
+  {
+   "name": "basculin-blue-striped",
+   "is_default": false
+  },
+  {
+   "name": "basculin-white-striped",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "280"
+}

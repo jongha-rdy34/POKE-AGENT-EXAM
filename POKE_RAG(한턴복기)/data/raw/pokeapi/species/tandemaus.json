@@ -1,0 +1,37 @@
+{
+ "id": 924,
+ "name": "tandemaus",
+ "names": {
+  "ja-hrkt": "ワッカネズミ",
+  "ja-roma": "Wakkanezumi",
+  "ko": "두리쥐",
+  "zh-hant": "一對鼠",
+  "fr": "Compagnol",
+  "de": "Zwieps",
+  "es": "Tandemaus",
+  "it": "Tandemaus",
+  "en": "Tandemaus",
+  "ja": "ワッカネズミ",
+  "zh-hans": "一对鼠",
+  "es-419": "Tandemaus"
+ },
+ "genus": {
+  "ja-hrkt": "カップルポケモン",
+  "ko": "커플포켓몬",
+  "zh-hant": "成對寶可夢",
+  "fr": "Couple",
+  "de": "Paar",
+  "en": "Couple Pokémon",
+  "zh-hans": "成对宝可梦"
+ },
+ "flavor": {
+  "en": "The pair sticks together no matter what. They split any food they find exactly in half and then eat it together."
+ },
+ "varieties": [
+  {
+   "name": "tandemaus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "485"
+}

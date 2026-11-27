@@ -1,0 +1,31 @@
+{
+ "name": "noble-roar",
+ "names": {
+  "ja-hrkt": "おたけび",
+  "ko": "부르짖기",
+  "zh-hant": "戰吼",
+  "fr": "Râle Mâle",
+  "de": "Kampfgebrüll",
+  "es": "Rugido de Guerra",
+  "it": "Urlo",
+  "en": "Noble Roar",
+  "ja": "おたけび",
+  "zh-hans": "战吼",
+  "es-419": "Rugido de Guerra"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack and Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "우렁차게 부르짖어서 상대를 위협하여 상대의 공격과 특수공격을 떨어뜨린다.",
+  "en": "Letting out a noble roar, the user intimidates the target and lowers the target's Attack and Sp. Atk stats."
+ }
+}

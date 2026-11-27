@@ -1,0 +1,42 @@
+{
+ "id": 515,
+ "name": "panpour",
+ "names": {
+  "ja-hrkt": "ヒヤップ",
+  "ja-roma": "Hiyappu",
+  "ko": "앗차프",
+  "zh-hant": "冷水猴",
+  "fr": "Flotajou",
+  "de": "Sodamak",
+  "es": "Panpour",
+  "it": "Panpour",
+  "en": "Panpour",
+  "ja": "ヒヤップ",
+  "zh-hans": "冷水猴",
+  "es-419": "Panpour"
+ },
+ "genus": {
+  "ja-hrkt": "みずかけポケモン",
+  "ko": "물뿌리기포켓몬",
+  "zh-hant": "潑水寶可夢",
+  "fr": "Pokémon Jet d’Eau",
+  "de": "Wasserstrahl",
+  "es": "Pokémon Salpicadura",
+  "it": "Pokémon Annaffiatore",
+  "en": "Spray Pokémon",
+  "ja": "みずかけポケモン",
+  "zh-hans": "泼水宝可梦",
+  "es-419": "Pokémon Salpicadura"
+ },
+ "flavor": {
+  "en": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+  "ko": "머리의 송아리에 모은 물은 영양이 가득하다. 식물에 뿌려주면 크게 자란다."
+ },
+ "varieties": [
+  {
+   "name": "panpour",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "264"
+}

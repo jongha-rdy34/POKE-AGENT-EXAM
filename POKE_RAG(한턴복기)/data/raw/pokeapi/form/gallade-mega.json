@@ -1,0 +1,23 @@
+{
+ "name": "gallade-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Gallame",
+  "de": "Mega-Galagladi",
+  "en": "Mega Gallade"
+ },
+ "form_names": {
+  "ja-hrkt": "メガエルレイド",
+  "ko": "메가엘레이드",
+  "zh-hant": "超級艾路雷朵",
+  "fr": "Méga-Gallame",
+  "de": "Mega-Form",
+  "es": "Mega-Gallade",
+  "it": "MegaGallade",
+  "en": "Mega Gallade",
+  "ja": "メガエルレイド",
+  "zh-hans": "超级艾路雷朵",
+  "es-419": "Mega-Gallade"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,35 @@
+{
+ "id": 10234,
+ "name": "qwilfish-hisui",
+ "species": "qwilfish",
+ "is_default": false,
+ "types": [
+  "dark",
+  "poison"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 95,
+  "defense": 85,
+  "special-attack": 55,
+  "special-defense": 55,
+  "speed": 85
+ },
+ "abilities": [
+  {
+   "name": "poison-point",
+   "hidden": false
+  },
+  {
+   "name": "swift-swim",
+   "hidden": false
+  },
+  {
+   "name": "intimidate",
+   "hidden": true
+  }
+ ],
+ "height": 5,
+ "weight": 39,
+ "champions_moves": []
+}

@@ -1,0 +1,82 @@
+{
+ "id": 450,
+ "name": "hippowdon",
+ "species": "hippowdon",
+ "is_default": true,
+ "types": [
+  "ground"
+ ],
+ "stats": {
+  "hp": 108,
+  "attack": 112,
+  "defense": 118,
+  "special-attack": 68,
+  "special-defense": 72,
+  "speed": 47
+ },
+ "abilities": [
+  {
+   "name": "sand-stream",
+   "hidden": false
+  },
+  {
+   "name": "sand-force",
+   "hidden": true
+  }
+ ],
+ "height": 20,
+ "weight": 3000,
+ "champions_moves": [
+  "amnesia",
+  "bite",
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "crunch",
+  "curse",
+  "dig",
+  "double-edge",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "facade",
+  "fire-fang",
+  "fissure",
+  "giga-impact",
+  "hard-press",
+  "heavy-slam",
+  "helping-hand",
+  "high-horsepower",
+  "hyper-beam",
+  "hyper-voice",
+  "ice-fang",
+  "iron-head",
+  "mud-shot",
+  "mud-slap",
+  "muddy-water",
+  "protect",
+  "rest",
+  "roar",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sand-tomb",
+  "sandstorm",
+  "scorching-sands",
+  "slack-off",
+  "sleep-talk",
+  "snore",
+  "spit-up",
+  "stealth-rock",
+  "stockpile",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "superpower",
+  "swallow",
+  "thunder-fang",
+  "whirlwind",
+  "yawn"
+ ]
+}

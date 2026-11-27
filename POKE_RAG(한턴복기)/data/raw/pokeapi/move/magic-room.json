@@ -1,0 +1,31 @@
+{
+ "name": "magic-room",
+ "names": {
+  "ja-hrkt": "マジックルーム",
+  "ko": "매직룸",
+  "zh-hant": "魔法空間",
+  "fr": "Zone Magique",
+  "de": "Magieraum",
+  "es": "Zona Mágica",
+  "it": "Magicozona",
+  "en": "Magic Room",
+  "ja": "マジックルーム",
+  "zh-hans": "魔法空间",
+  "es-419": "Zona Mágica"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Negates held items for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns.",
+  "ko": "이상한 공간을 만든다. 5턴 동안 모든 포켓몬의 도구의 효과가 사라진다."
+ }
+}

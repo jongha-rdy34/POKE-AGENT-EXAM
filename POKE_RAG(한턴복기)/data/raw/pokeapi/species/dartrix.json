@@ -1,0 +1,42 @@
+{
+ "id": 723,
+ "name": "dartrix",
+ "names": {
+  "ja-hrkt": "フクスロー",
+  "ja-roma": "Fukuthrow",
+  "ko": "빼미스로우",
+  "zh-hant": "投羽梟",
+  "fr": "Efflèche",
+  "de": "Arboretoss",
+  "es": "Dartrix",
+  "it": "Dartrix",
+  "en": "Dartrix",
+  "ja": "フクスロー",
+  "zh-hans": "投羽枭",
+  "es-419": "Dartrix"
+ },
+ "genus": {
+  "ja-hrkt": "はばねポケモン",
+  "ko": "칼날깃포켓몬",
+  "zh-hant": "刃羽寶可夢",
+  "fr": "Pokémon Plum’acérée",
+  "de": "Flügelklingen-Pokémon",
+  "es": "Pokémon Pluma Filo",
+  "it": "Pokémon Piumaffilata",
+  "en": "Blade Quill Pokémon",
+  "ja": "はばねポケモン",
+  "zh-hans": "刃羽宝可梦",
+  "es-419": "Pokémon Pluma Filo"
+ },
+ "flavor": {
+  "ko": "날개 손질을 게을리하지 않는다. 몸가짐을 정돈하는 이유뿐만 아니라 칼날깃의 날을 유지하기 위해서다.",
+  "en": "Regularly basks in sunlight to gather power—presumably due to the frigid climate. Nonetheless, the edges of the blade quills set into its wings are keen as ever."
+ },
+ "varieties": [
+  {
+   "name": "dartrix",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "374"
+}

@@ -1,0 +1,15 @@
+{
+ "name": "eelektross-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Ohmassacre",
+  "en": "Mega Eelektross"
+ },
+ "form_names": {
+  "ja-hrkt": "メガシビルドン",
+  "fr": "Méga-Ohmassacre",
+  "en": "Mega Eelektross",
+  "ja": "メガシビルドン"
+ },
+ "is_mega": true
+}

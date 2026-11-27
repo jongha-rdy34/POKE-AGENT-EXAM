@@ -1,0 +1,28 @@
+{
+ "name": "kangaskhanite",
+ "names": {
+  "ja-hrkt": "ガルーラナイト",
+  "ko": "캥카나이트",
+  "zh-hant": "袋獸進化石",
+  "fr": "Kangourexite",
+  "de": "Kangamanit",
+  "es": "Kangaskhanita",
+  "it": "Kangaskhanite",
+  "en": "Kangaskhanite",
+  "ja": "ガルーラナイト",
+  "zh-hans": "袋兽进化石",
+  "es-419": "Kangaskhanita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Kangourex de Méga-Évoluer en Méga-Kangourex.",
+  "en": "Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan."
+ },
+ "flavor": {
+  "ko": "캥카에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Kangaskhan hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ガルーラに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

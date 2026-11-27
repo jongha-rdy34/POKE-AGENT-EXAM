@@ -1,0 +1,31 @@
+{
+ "name": "clanging-scales",
+ "names": {
+  "ja-hrkt": "スケイルノイズ",
+  "ko": "스케일노이즈",
+  "zh-hant": "鱗片噪音",
+  "fr": "Vibrécaille",
+  "de": "Schuppenrasseln",
+  "es": "Fragor Escamas",
+  "it": "Clamorsquame",
+  "en": "Clanging Scales",
+  "ja": "スケイルノイズ",
+  "zh-hans": "鳞片噪音",
+  "es-419": "Fragor Escamas"
+ },
+ "type": "dragon",
+ "category": "special",
+ "power": 110,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Lowers the user’s Defense by one stage after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "전신의 비늘을 비벼서 큰 소리를 내 공격한다. 공격 후 자신의 방어가 떨어진다.",
+  "en": "The user rubs the scales on its entire body and makes a huge noise to attack opposing Pokémon. The user's Defense stat is lowered after the attack."
+ }
+}

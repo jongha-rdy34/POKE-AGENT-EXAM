@@ -1,0 +1,25 @@
+{
+ "name": "tr23",
+ "names": {
+  "ja-hrkt": "わざレコード２３",
+  "ko": "기술레코드23",
+  "zh-hant": "招式紀錄２３",
+  "fr": "DT23",
+  "de": "TP23",
+  "es": "DT23",
+  "it": "DT23",
+  "en": "TR23",
+  "ja": "わざレコード２３",
+  "zh-hans": "招式记录２３",
+  "es-419": "DT23"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대의 발밑에 압정을 뿌린다. 교체된 상대 포켓몬에게 데미지를 준다.",
+  "en": "The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.",
+  "ja": "相手の 足下に まきびしを しかける。交代で でてきた 相手の ポケモンに ダメージを 与える。"
+ }
+}

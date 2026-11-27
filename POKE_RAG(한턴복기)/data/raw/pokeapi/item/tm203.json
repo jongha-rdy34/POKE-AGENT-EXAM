@@ -1,0 +1,19 @@
+{
+ "name": "tm203",
+ "names": {
+  "ko": "기술머신203",
+  "zh-hant": "招式學習器２０３",
+  "fr": "CT203",
+  "de": "TM203",
+  "es": "MT203",
+  "it": "MT203",
+  "en": "TM203",
+  "ja": "わざマシン２０３",
+  "zh-hans": "招式学习器２０３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

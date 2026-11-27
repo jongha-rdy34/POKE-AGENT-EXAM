@@ -1,0 +1,20 @@
+{
+ "name": "steel-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースはがね",
+  "ko": "테라피스 강철",
+  "zh-hant": "鋼太晶碎塊",
+  "fr": "Téra-Éclat Acier",
+  "de": "Tera-Stück (Stahl)",
+  "es": "Teralito Acero",
+  "it": "Teralite Acciaio",
+  "en": "Steel Tera Shard",
+  "ja": "テラピースはがね",
+  "zh-hans": "钢太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

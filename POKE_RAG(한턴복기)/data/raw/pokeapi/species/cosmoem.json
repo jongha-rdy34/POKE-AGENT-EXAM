@@ -1,0 +1,42 @@
+{
+ "id": 790,
+ "name": "cosmoem",
+ "names": {
+  "ja-hrkt": "コスモウム",
+  "ja-roma": "Cosmovum",
+  "ko": "코스모움",
+  "zh-hant": "科斯莫姆",
+  "fr": "Cosmovum",
+  "de": "Cosmovum",
+  "es": "Cosmoem",
+  "it": "Cosmoem",
+  "en": "Cosmoem",
+  "ja": "コスモウム",
+  "zh-hans": "科斯莫姆",
+  "es-419": "Cosmoem"
+ },
+ "genus": {
+  "ja-hrkt": "げんしせいポケモン",
+  "ko": "원시성포켓몬",
+  "zh-hant": "原始星寶可夢",
+  "fr": "Pokémon Proto-Étoile",
+  "de": "Urgestirns-Pokémon",
+  "es": "Pokémon Protostrella",
+  "it": "Pokémon Protostella",
+  "en": "Protostar Pokémon",
+  "ja": "げんしせいポケモン",
+  "zh-hans": "原始星宝可梦",
+  "es-419": "Pokémon Protostrella"
+ },
+ "flavor": {
+  "ko": "대기의 티끌을 굉장한 기세로 빨아들여 진화 에너지를 코어에서 열심히 만들고 있다.",
+  "en": "It sucks in dust from the air at an astounding rate, frantically building up energy within its core as preparation for evolution."
+ },
+ "varieties": [
+  {
+   "name": "cosmoem",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "413"
+}

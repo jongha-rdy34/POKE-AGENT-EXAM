@@ -1,0 +1,28 @@
+{
+ "name": "super-rod",
+ "names": {
+  "ja-hrkt": "すごいつりざお",
+  "ko": "대단한낚싯대",
+  "zh-hant": "厲害釣竿",
+  "fr": "Méga Canne",
+  "de": "Superangel",
+  "es": "Supercaña",
+  "it": "Super Amo",
+  "en": "Super Rod",
+  "ja": "すごいつりざお",
+  "zh-hans": "厉害钓竿",
+  "es-419": "Supercaña"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour capturer des Pokémon dans les points d'eau.",
+  "en": "Used to catch Pokémon in bodies of water."
+ },
+ "flavor": {
+  "en": "An awesome, high-tech fishing rod. Use it at any body of water to fish for wild aquatic Pokémon.",
+  "ko": "최신식의 대단한 낚싯대. 물이 있는 장소에서 사용하면 포켓몬을 낚을 수 있다.",
+  "ja": "最新の すごい つりざお。 水の ある 場所で 使うと ポケモンが つれる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "dna-splicers",
+ "names": {
+  "ja-hrkt": "いでんしのくさび",
+  "ko": "유전자쐐기",
+  "zh-hant": "基因之楔",
+  "fr": "Pointeau ADN",
+  "de": "DNS-Keil",
+  "es": "Punta ADN",
+  "it": "Cuneo DNA",
+  "en": "DNA Splicers",
+  "ja": "いでんしのくさび",
+  "zh-hans": "基因之楔",
+  "es-419": "Punta ADN"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fusionne Kyurem avec Reshiram ou Zekrom, ou les sépare à nouveau.",
+  "en": "Fuses Kyurem with Reshiram or Zekrom, or splits them apart again."
+ },
+ "flavor": {
+  "en": "A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.",
+  "ko": "원래는 하나였다고 전해지는 큐레무와 어떤 포켓몬을 합체시키는 한 쌍의 쐐기.",
+  "ja": "元は ひとつだったと いわれる キュレムと あるポケモンを 合体させる 一対の くさび。"
+ }
+}

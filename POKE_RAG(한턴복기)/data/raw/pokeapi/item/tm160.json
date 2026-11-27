@@ -1,0 +1,20 @@
+{
+ "name": "tm160",
+ "names": {
+  "ja-hrkt": "わざマシン１６０",
+  "ko": "기술머신160",
+  "zh-hant": "招式學習器１６０",
+  "fr": "CT160",
+  "de": "TM160",
+  "es": "MT160",
+  "it": "MT160",
+  "en": "TM160",
+  "ja": "わざマシン１６０",
+  "zh-hans": "招式学习器１６０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

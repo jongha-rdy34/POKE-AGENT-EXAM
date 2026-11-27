@@ -1,0 +1,25 @@
+{
+ "name": "tr06",
+ "names": {
+  "ja-hrkt": "わざレコード０６",
+  "ko": "기술레코드06",
+  "zh-hant": "招式紀錄０６",
+  "fr": "DT06",
+  "de": "TP06",
+  "es": "DT06",
+  "it": "DT06",
+  "en": "TR06",
+  "ja": "わざレコード０６",
+  "zh-hans": "招式记录０６",
+  "es-419": "DT06"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다.",
+  "en": "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.",
+  "ja": "激しい 吹雪を 相手に 吹きつけて 攻撃する。 こおり状態に することが ある。"
+ }
+}

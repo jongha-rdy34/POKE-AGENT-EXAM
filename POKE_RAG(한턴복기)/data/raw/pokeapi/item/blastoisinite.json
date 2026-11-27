@@ -1,0 +1,28 @@
+{
+ "name": "blastoisinite",
+ "names": {
+  "ja-hrkt": "カメックスナイト",
+  "ko": "거북왕나이트",
+  "zh-hant": "水箭龜進化石",
+  "fr": "Tortankite",
+  "de": "Turtoknit",
+  "es": "Blastoisita",
+  "it": "Blastoisite",
+  "en": "Blastoisinite",
+  "ja": "カメックスナイト",
+  "zh-hans": "水箭龟进化石",
+  "es-419": "Blastoisita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Tortank de Méga-Évoluer en Méga-Tortank.",
+  "en": "Held: Allows Blastoise to Mega Evolve into Mega Blastoise."
+ },
+ "flavor": {
+  "ko": "거북왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Blastoise hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "カメックスに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

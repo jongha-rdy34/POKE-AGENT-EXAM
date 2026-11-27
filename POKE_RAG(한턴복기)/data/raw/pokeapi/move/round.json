@@ -1,0 +1,31 @@
+{
+ "name": "round",
+ "names": {
+  "ja-hrkt": "りんしょう",
+  "ko": "돌림노래",
+  "zh-hant": "輪唱",
+  "fr": "Chant Canon",
+  "de": "Kanon",
+  "es": "Canon",
+  "it": "Coro",
+  "en": "Round",
+  "ja": "りんしょう",
+  "zh-hans": "轮唱",
+  "es-419": "Canon"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has double power if it’s used more than once per turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target with a song. If others use this move, they will act immediately after the initial user, and the power of their Rounds will be boosted.",
+  "ko": "노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다."
+ }
+}

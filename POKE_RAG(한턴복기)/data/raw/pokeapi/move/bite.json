@@ -1,0 +1,31 @@
+{
+ "name": "bite",
+ "names": {
+  "ja-hrkt": "かみつく",
+  "ko": "물기",
+  "zh-hant": "咬住",
+  "fr": "Morsure",
+  "de": "Biss",
+  "es": "Mordisco",
+  "it": "Morso",
+  "en": "Bite",
+  "ja": "かみつく",
+  "zh-hans": "咬住",
+  "es-419": "Mordida"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 25,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The target is bitten with viciously sharp fangs. This may also make the target flinch.",
+  "ko": "날카롭고 뾰족한 이빨로 물어서 공격한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

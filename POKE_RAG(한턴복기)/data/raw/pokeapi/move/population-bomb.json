@@ -1,0 +1,28 @@
+{
+ "name": "population-bomb",
+ "names": {
+  "ja-hrkt": "ネズミざん",
+  "ko": "찍찍베기",
+  "zh-hant": "鼠數兒",
+  "fr": "Prolifération",
+  "de": "Mäuseplage",
+  "es": "Proliferación",
+  "it": "Infestazione",
+  "en": "Population Bomb",
+  "ja": "ネズミざん",
+  "zh-hans": "鼠数儿",
+  "es-419": "Proliferación"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 20,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row."
+ }
+}

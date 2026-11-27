@@ -1,0 +1,25 @@
+{
+ "name": "eject-pack",
+ "names": {
+  "ja-hrkt": "だっしゅつパック",
+  "ko": "탈출팩",
+  "zh-hant": "避難背包",
+  "fr": "Sac Fuite",
+  "de": "Fluchttasche",
+  "es": "Mochila Escape",
+  "it": "Zainofuga",
+  "en": "Eject Pack",
+  "ja": "だっしゅつパック",
+  "zh-hans": "避难背包",
+  "es-419": "Mochila Escape"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "지니게 한 포켓몬의 능력이 떨어지면 지닌 포켓몬과 교체한다.",
+  "en": "An item to be held by a Pokémon. When the holder’s stats are lowered, it will be switched out of battle.",
+  "ja": "持たせた ポケモンの 能力が 下がると 手持ちと 入れ替わる。"
+ }
+}

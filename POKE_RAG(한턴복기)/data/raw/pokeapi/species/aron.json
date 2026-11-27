@@ -1,0 +1,42 @@
+{
+ "id": 304,
+ "name": "aron",
+ "names": {
+  "ja-hrkt": "ココドラ",
+  "ja-roma": "Cokodora",
+  "ko": "가보리",
+  "zh-hant": "可可多拉",
+  "fr": "Galekid",
+  "de": "Stollunior",
+  "es": "Aron",
+  "it": "Aron",
+  "en": "Aron",
+  "ja": "ココドラ",
+  "zh-hans": "可可多拉",
+  "es-419": "Aron"
+ },
+ "genus": {
+  "ja-hrkt": "てつヨロイポケモン",
+  "ko": "철갑옷포켓몬",
+  "zh-hant": "鐵鎧寶可夢",
+  "fr": "Pokémon Armurfer",
+  "de": "Eisenpanzer-Pokémon",
+  "es": "Pokémon Coraza Férrea",
+  "it": "Pokémon Corazza",
+  "en": "Iron Armor Pokémon",
+  "ja": "てつヨロイポケモン",
+  "zh-hans": "铁铠宝可梦",
+  "es-419": "Pokémon Coraza Férrea"
+ },
+ "flavor": {
+  "en": "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives.",
+  "ko": "진화할 때 강철의 갑옷이 떨어진다. 옛날 사람들은 주워서 일상생활에서 유용하게 사용했다."
+ },
+ "varieties": [
+  {
+   "name": "aron",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "151"
+}

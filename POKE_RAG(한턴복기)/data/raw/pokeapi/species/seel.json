@@ -1,0 +1,42 @@
+{
+ "id": 86,
+ "name": "seel",
+ "names": {
+  "ja-hrkt": "パウワウ",
+  "ja-roma": "Pawou",
+  "ko": "쥬쥬",
+  "zh-hant": "小海獅",
+  "fr": "Otaria",
+  "de": "Jurob",
+  "es": "Seel",
+  "it": "Seel",
+  "en": "Seel",
+  "ja": "パウワウ",
+  "zh-hans": "小海狮",
+  "es-419": "Seel"
+ },
+ "genus": {
+  "ja-hrkt": "あしかポケモン",
+  "ko": "강치포켓몬",
+  "zh-hant": "海獅寶可夢",
+  "fr": "Pokémon Otarie",
+  "de": "Seehund",
+  "es": "Pokémon León Marino",
+  "it": "Pokémon Otaria",
+  "en": "Sea Lion Pokémon",
+  "ja": "あしかポケモン",
+  "zh-hans": "海狮宝可梦",
+  "es-419": "Pokémon León Marino"
+ },
+ "flavor": {
+  "en": "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.",
+  "ko": "얼어붙을 정도로 추운 곳을 좋아한다. 영하 10도 정도의 물속에서 기분 좋게 헤엄친다."
+ },
+ "varieties": [
+  {
+   "name": "seel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "37"
+}

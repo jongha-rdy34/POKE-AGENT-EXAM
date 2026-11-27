@@ -1,0 +1,28 @@
+{
+ "name": "ultranecrozium-z--held",
+ "names": {
+  "ja-hrkt": "ウルトラネクロＺ",
+  "ko": "울트라네크로Z",
+  "zh-hant": "究極奈克洛Ｚ",
+  "fr": "Ultranécrozélite",
+  "de": "Ultranecronium Z",
+  "es": "Ultranecrostal Z",
+  "it": "Ultranecrozium Z",
+  "en": "Ultranecrozium Z",
+  "ja": "ウルトラネクロＺ",
+  "zh-hans": "究极奈克洛Ｚ",
+  "es-419": "Ultranecrostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour ultranecrozium-z--held",
+  "en": "XXX new effect for ultranecrozium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 네크로즈마의 포톤가이저를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Necrozma’s Photon Geyser to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ネクロズマの フォトンゲイザーを Ｚワザに グレードアップする。"
+ }
+}

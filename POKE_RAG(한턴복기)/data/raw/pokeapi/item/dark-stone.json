@@ -1,0 +1,28 @@
+{
+ "name": "dark-stone",
+ "names": {
+  "ja-hrkt": "ダークストーン",
+  "ko": "다크스톤",
+  "zh-hant": "黑闇石",
+  "fr": "Galet Noir",
+  "de": "Dunkelstein",
+  "es": "Orbe Oscuro",
+  "it": "Scurolite",
+  "en": "Dark Stone",
+  "ja": "ダークストーン",
+  "zh-hans": "黑暗石",
+  "es-419": "Orbe Oscuro"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Zekrom pour le combat final contre N.",
+  "en": "Summons Zekrom for the final battle against N."
+ },
+ "flavor": {
+  "en": "Zekrom’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.",
+  "ko": "제크로무의 육체가 허물어져 변화한 모습. 영웅의 등장을 기다린다고 여겨진다.",
+  "ja": "ゼクロムの 肉体が 滅び 変化した 姿。 英雄の 登場を 待っていると される。"
+ }
+}

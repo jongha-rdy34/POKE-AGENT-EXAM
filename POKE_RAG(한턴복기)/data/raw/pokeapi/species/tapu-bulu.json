@@ -1,0 +1,42 @@
+{
+ "id": 787,
+ "name": "tapu-bulu",
+ "names": {
+  "ja-hrkt": "カプ・ブルル",
+  "ja-roma": "Kapu-Bulul",
+  "ko": "카푸브루루",
+  "zh-hant": "卡璞・哞哞",
+  "fr": "Tokotoro",
+  "de": "Kapu-Toro",
+  "es": "Tapu Bulu",
+  "it": "Tapu Bulu",
+  "en": "Tapu Bulu",
+  "ja": "カプ・ブルル",
+  "zh-hans": "卡璞・哞哞",
+  "es-419": "Tapu Bulu"
+ },
+ "genus": {
+  "ja-hrkt": "とちがみポケモン",
+  "ko": "토속신포켓몬",
+  "zh-hant": "土地神寶可夢",
+  "fr": "Pokémon Tutélaire",
+  "de": "Schutzpatron-Pokémon",
+  "es": "Pokémon Dios Nativo",
+  "it": "Pokémon Nume Locale",
+  "en": "Land Spirit Pokémon",
+  "ja": "とちがみポケモン",
+  "zh-hans": "土地神宝可梦",
+  "es-419": "Pokémon Dios Nativo"
+ },
+ "flavor": {
+  "ko": "꼬리로 소리를 내어 위치를 알림으로써 불필요한 싸움을 피한다. 초목을 조종하는 울라울라의 수호신.",
+  "en": "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants."
+ },
+ "varieties": [
+  {
+   "name": "tapu-bulu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "411"
+}

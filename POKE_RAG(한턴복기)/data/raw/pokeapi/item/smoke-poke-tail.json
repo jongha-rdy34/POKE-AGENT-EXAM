@@ -1,0 +1,25 @@
+{
+ "name": "smoke-poke-tail",
+ "names": {
+  "ja-hrkt": "しっぽのくんせい",
+  "ko": "꼬리훈제",
+  "zh-hant": "煙燻尾巴",
+  "fr": "Queue Fumée",
+  "de": "Röstrute",
+  "es": "Cola Ahumada",
+  "it": "Coda affumicata",
+  "en": "Smoke-Poke Tail",
+  "ja": "しっぽのくんせい",
+  "zh-hans": "烟熏尾巴",
+  "es-419": "Cola Ahumada"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 포켓몬 야돈의 꼬리는 떨어져도 금방 새로 자란다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. When a Slowpoke’s tail falls off, it grows back quickly.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ポケモン ヤドンの しっぽは 抜けても すぐ 生えかわる。"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "shroomish-spores",
+ "names": {
+  "ja-hrkt": "キノココのほうし",
+  "ko": "버섯꼬의포자",
+  "zh-hant": "蘑蘑菇的孢子",
+  "fr": "Spores de Balignon",
+  "de": "Knilz-Spore",
+  "es": "Esporas de Shroomish",
+  "it": "Spore di Shroomish",
+  "en": "Shroomish Spores",
+  "ja": "キノココのほうし",
+  "zh-hans": "蘑蘑菇的孢子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

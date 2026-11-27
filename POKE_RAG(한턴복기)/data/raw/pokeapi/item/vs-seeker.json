@@ -1,0 +1,28 @@
+{
+ "name": "vs-seeker",
+ "names": {
+  "ja-hrkt": "バトルサーチャー",
+  "ko": "배틀서처",
+  "zh-hant": "對戰搜尋器",
+  "fr": "Cherch’Combat",
+  "de": "Kampffahnder",
+  "es": "Buscapelea",
+  "it": "Cercasfide",
+  "en": "Vs. Seeker",
+  "ja": "バトルサーチャー",
+  "zh-hans": "对战搜寻器",
+  "es-419": "Buscapelea"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet de combattre les dresseurs à l'écran à nouveau. 100 pas pour recharger.",
+  "en": "Allows rebattling of on-screen trainers. 100 steps to recharge."
+ },
+ "flavor": {
+  "en": "A device that indicates Trainers who want to battle. Its battery charges while you walk.",
+  "ko": "싸우고 싶어하는 트레이너를 알려주는 기계. 걸으면 전지가 충전된다.",
+  "ja": "戦いたい トレーナーを 教えてくれる 機械。 歩くと 電池が たまる。"
+ }
+}

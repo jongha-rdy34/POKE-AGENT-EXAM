@@ -1,0 +1,28 @@
+{
+ "name": "normal-gem",
+ "names": {
+  "ja-hrkt": "ノーマルジュエル",
+  "ko": "노말주얼",
+  "zh-hant": "一般寶石",
+  "fr": "Joyau Normal",
+  "de": "Normaljuwel",
+  "es": "Gema Normal",
+  "it": "Bijounormale",
+  "en": "Normal Gem",
+  "ja": "ノーマルジュエル",
+  "zh-hans": "一般宝石",
+  "es-419": "Gema Normal"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Quand le porteur utilise une capacité offensive de type Normal, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Normal-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move one time.",
+  "ko": "노말타입의 주얼. 지니게 하면 한 번만 노말 기술의 위력이 강해진다.",
+  "ja": "ノーマルの タイプの ジュエル。 持たせると １度だけ ノーマルの 技の 威力が 強まる。"
+ }
+}

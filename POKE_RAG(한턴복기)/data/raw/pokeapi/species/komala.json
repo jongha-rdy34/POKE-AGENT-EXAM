@@ -1,0 +1,42 @@
+{
+ "id": 775,
+ "name": "komala",
+ "names": {
+  "ja-hrkt": "ネッコアラ",
+  "ja-roma": "Nekkoara",
+  "ko": "자말라",
+  "zh-hant": "樹枕尾熊",
+  "fr": "Dodoala",
+  "de": "Koalelu",
+  "es": "Komala",
+  "it": "Komala",
+  "en": "Komala",
+  "ja": "ネッコアラ",
+  "zh-hans": "树枕尾熊",
+  "es-419": "Komala"
+ },
+ "genus": {
+  "ja-hrkt": "ゆめうつつポケモン",
+  "ko": "꿈결포켓몬",
+  "zh-hant": "半夢半醒寶可夢",
+  "fr": "Pokémon Rêveur",
+  "de": "Halbschlaf",
+  "es": "Pokémon Duermevela",
+  "it": "Pokémon Dormiveglia",
+  "en": "Drowsing Pokémon",
+  "ja": "ゆめうつつポケモン",
+  "zh-hans": "半梦半醒宝可梦",
+  "es-419": "Pokémon Duermevela"
+ },
+ "flavor": {
+  "ko": "죽을 때까지 계속 잠들어 있는 이유는 먹이인 잎사귀에 마취 성분이 포함되어 있기 때문이다.",
+  "en": "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet."
+ },
+ "varieties": [
+  {
+   "name": "komala",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "401"
+}

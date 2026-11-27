@@ -1,0 +1,27 @@
+{
+ "id": 10325,
+ "name": "baxcalibur-mega",
+ "species": "baxcalibur",
+ "is_default": false,
+ "types": [
+  "dragon",
+  "ice"
+ ],
+ "stats": {
+  "hp": 115,
+  "attack": 175,
+  "defense": 117,
+  "special-attack": 105,
+  "special-defense": 101,
+  "speed": 87
+ },
+ "abilities": [
+  {
+   "name": "thermal-exchange",
+   "hidden": false
+  }
+ ],
+ "height": 21,
+ "weight": 3150,
+ "champions_moves": []
+}

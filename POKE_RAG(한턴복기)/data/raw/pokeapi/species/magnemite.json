@@ -1,0 +1,42 @@
+{
+ "id": 81,
+ "name": "magnemite",
+ "names": {
+  "ja-hrkt": "コイル",
+  "ja-roma": "Coil",
+  "ko": "코일",
+  "zh-hant": "小磁怪",
+  "fr": "Magnéti",
+  "de": "Magnetilo",
+  "es": "Magnemite",
+  "it": "Magnemite",
+  "en": "Magnemite",
+  "ja": "コイル",
+  "zh-hans": "小磁怪",
+  "es-419": "Magnemite"
+ },
+ "genus": {
+  "ja-hrkt": "じしゃくポケモン",
+  "ko": "자석포켓몬",
+  "zh-hant": "磁鐵寶可夢",
+  "fr": "Pokémon Magnétique",
+  "de": "Magnet-Pokémon",
+  "es": "Pokémon Imán",
+  "it": "Pokémon Calamita",
+  "en": "Magnet Pokémon",
+  "ja": "じしゃくポケモン",
+  "zh-hans": "磁铁宝可梦",
+  "es-419": "Pokémon Imán"
+ },
+ "flavor": {
+  "en": "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets.",
+  "ko": "전기를 먹으며 살아간다. 좌우의 유닛에서 전기자석파를 방사하며 하늘을 난다."
+ },
+ "varieties": [
+  {
+   "name": "magnemite",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "34"
+}

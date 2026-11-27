@@ -1,0 +1,20 @@
+{
+ "name": "hoothoot-feather",
+ "names": {
+  "ja-hrkt": "ホーホーのはね",
+  "ko": "부우부의깃털",
+  "zh-hant": "咕咕的羽毛",
+  "fr": "Plume de Hoothoot",
+  "de": "Hoothoot-Feder",
+  "es": "Pluma de Hoothoot",
+  "it": "Penna di Hoothoot",
+  "en": "Hoothoot Feather",
+  "ja": "ホーホーのはね",
+  "zh-hans": "咕咕的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

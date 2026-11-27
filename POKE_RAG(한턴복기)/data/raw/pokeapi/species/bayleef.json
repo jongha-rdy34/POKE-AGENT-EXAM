@@ -1,0 +1,42 @@
+{
+ "id": 153,
+ "name": "bayleef",
+ "names": {
+  "ja-hrkt": "ベイリーフ",
+  "ja-roma": "Bayleaf",
+  "ko": "베이리프",
+  "zh-hant": "月桂葉",
+  "fr": "Macronium",
+  "de": "Lorblatt",
+  "es": "Bayleef",
+  "it": "Bayleef",
+  "en": "Bayleef",
+  "ja": "ベイリーフ",
+  "zh-hans": "月桂叶",
+  "es-419": "Bayleef"
+ },
+ "genus": {
+  "ja-hrkt": "はっぱポケモン",
+  "ko": "잎사귀포켓몬",
+  "zh-hant": "葉子寶可夢",
+  "fr": "Pokémon Feuille",
+  "de": "Laub",
+  "es": "Pokémon Hoja",
+  "it": "Pokémon Foglia",
+  "en": "Leaf Pokémon",
+  "ja": "はっぱポケモン",
+  "zh-hans": "叶子宝可梦",
+  "es-419": "Pokémon Hoja"
+ },
+ "flavor": {
+  "en": "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
+  "ko": "목 주변의 둥그렇게 말린 잎사귀 안에는 작은 새싹 한 개가 나 있다. 그 향기는 사람을 기운 나게 한다."
+ },
+ "varieties": [
+  {
+   "name": "bayleef",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "79"
+}

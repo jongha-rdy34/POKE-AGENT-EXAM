@@ -1,0 +1,28 @@
+{
+ "name": "grassium-z--held",
+ "names": {
+  "ja-hrkt": "クサＺ",
+  "ko": "풀Z",
+  "zh-hant": "草Ｚ",
+  "fr": "Florazélite",
+  "de": "Botanium Z",
+  "es": "Fitostal Z",
+  "it": "Herbium Z",
+  "en": "Grassium Z",
+  "ja": "クサＺ",
+  "zh-hans": "草Ｚ",
+  "es-419": "Fitostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Plante.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 풀타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Grass-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 くさタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

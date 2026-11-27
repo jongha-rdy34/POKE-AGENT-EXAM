@@ -1,0 +1,31 @@
+{
+ "name": "rapid-spin",
+ "names": {
+  "ja-hrkt": "こうそくスピン",
+  "ko": "고속스핀",
+  "zh-hant": "高速旋轉",
+  "fr": "Tour Rapide",
+  "de": "Turbodreher",
+  "es": "Giro Rápido",
+  "it": "Rapigiro",
+  "en": "Rapid Spin",
+  "ja": "こうそくスピン",
+  "zh-hans": "高速旋转",
+  "es-419": "Giro Rápido"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 40,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Frees the user from binding moves, removes Leech Seed, and blows away Spikes."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat.",
+  "ko": "회전해서 상대를 공격한다. 조이기, 김밥말이, 씨뿌리기 등을 날려버린다. 자신의 스피드도 오른다."
+ }
+}

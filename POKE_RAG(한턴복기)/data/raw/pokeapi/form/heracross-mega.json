@@ -1,0 +1,23 @@
+{
+ "name": "heracross-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Scarhino",
+  "de": "Mega-Skaraborn",
+  "en": "Mega Heracross"
+ },
+ "form_names": {
+  "ja-hrkt": "メガヘラクロス",
+  "ko": "메가헤라크로스",
+  "zh-hant": "超級赫拉克羅斯",
+  "fr": "Méga-Scarhino",
+  "de": "Mega-Form",
+  "es": "Mega-Heracross",
+  "it": "MegaHeracross",
+  "en": "Mega Heracross",
+  "ja": "メガヘラクロス",
+  "zh-hans": "超级赫拉克罗斯",
+  "es-419": "Mega-Heracross"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,20 @@
+{
+ "name": "excadrite",
+ "names": {
+  "ko": "몰드류나이트",
+  "zh-hant": "龍頭地鼠進化石",
+  "fr": "Minotaupite",
+  "de": "Stalobornit",
+  "es": "Excadrillita",
+  "it": "Excadrillite",
+  "en": "Excadrite",
+  "ja": "ドリュウズナイト",
+  "zh-hans": "龙头地鼠进化石",
+  "es-419": "Excadrillita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

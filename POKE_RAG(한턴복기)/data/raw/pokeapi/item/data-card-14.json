@@ -1,0 +1,28 @@
+{
+ "name": "data-card-14",
+ "names": {
+  "ja-hrkt": "データカード１４",
+  "ko": "데이터카드14",
+  "zh-hant": "資料卡１４",
+  "fr": "Carte Mémo14",
+  "de": "Datenkarte14",
+  "es": "Tarjeta Datos 14",
+  "it": "Scheda Dati 14",
+  "en": "Data Card 14",
+  "ja": "データカード１４",
+  "zh-hans": "数据卡１４",
+  "es-419": "Tarjeta Datos 14"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que les Pokémon du dresseur ont chargé au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have tackled in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon tackled in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬의 몸통박치기 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの たいあたり 回数が 記録された カード。"
+ }
+}

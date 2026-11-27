@@ -1,0 +1,92 @@
+{
+ "id": 324,
+ "name": "torkoal",
+ "species": "torkoal",
+ "is_default": true,
+ "types": [
+  "fire"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 85,
+  "defense": 140,
+  "special-attack": 85,
+  "special-defense": 70,
+  "speed": 20
+ },
+ "abilities": [
+  {
+   "name": "white-smoke",
+   "hidden": false
+  },
+  {
+   "name": "drought",
+   "hidden": false
+  },
+  {
+   "name": "shell-armor",
+   "hidden": true
+  }
+ ],
+ "height": 5,
+ "weight": 804,
+ "champions_moves": [
+  "amnesia",
+  "ancient-power",
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "burning-jealousy",
+  "clear-smog",
+  "curse",
+  "double-edge",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "eruption",
+  "facade",
+  "fire-blast",
+  "fire-spin",
+  "fissure",
+  "flail",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "giga-impact",
+  "gyro-ball",
+  "heat-crash",
+  "heat-wave",
+  "heavy-slam",
+  "helping-hand",
+  "hyper-beam",
+  "inferno",
+  "iron-defense",
+  "lava-plume",
+  "overheat",
+  "protect",
+  "rapid-spin",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scorching-sands",
+  "self-destruct",
+  "shell-smash",
+  "sleep-talk",
+  "sludge-bomb",
+  "snore",
+  "solar-beam",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "superpower",
+  "temper-flare",
+  "weather-ball",
+  "will-o-wisp",
+  "yawn",
+  "zen-headbutt"
+ ]
+}

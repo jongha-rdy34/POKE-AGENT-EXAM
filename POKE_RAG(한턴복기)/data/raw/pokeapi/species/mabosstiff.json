@@ -1,0 +1,37 @@
+{
+ "id": 943,
+ "name": "mabosstiff",
+ "names": {
+  "ja-hrkt": "マフィティフ",
+  "ja-roma": "Mafitiff",
+  "ko": "마피티프",
+  "zh-hant": "獒教父",
+  "fr": "Dogrino",
+  "de": "Mastifioso",
+  "es": "Mabosstiff",
+  "it": "Mabosstiff",
+  "en": "Mabosstiff",
+  "ja": "マフィティフ",
+  "zh-hans": "獒教父",
+  "es-419": "Mabosstiff"
+ },
+ "genus": {
+  "ja-hrkt": "おやぶんポケモン",
+  "ko": "두목포켓몬",
+  "zh-hant": "大佬寶可夢",
+  "fr": "Parrain",
+  "de": "Oberhaupt",
+  "en": "Boss Pokémon",
+  "zh-hans": "大佬宝可梦"
+ },
+ "flavor": {
+  "en": "Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family."
+ },
+ "varieties": [
+  {
+   "name": "mabosstiff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "493"
+}

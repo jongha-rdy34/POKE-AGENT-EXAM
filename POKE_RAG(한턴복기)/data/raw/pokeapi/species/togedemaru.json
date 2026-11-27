@@ -1,0 +1,46 @@
+{
+ "id": 777,
+ "name": "togedemaru",
+ "names": {
+  "ja-hrkt": "トゲデマル",
+  "ja-roma": "Togedemaru",
+  "ko": "토게데마루",
+  "zh-hant": "托戈德瑪爾",
+  "fr": "Togedemaru",
+  "de": "Togedemaru",
+  "es": "Togedemaru",
+  "it": "Togedemaru",
+  "en": "Togedemaru",
+  "ja": "トゲデマル",
+  "zh-hans": "托戈德玛尔",
+  "es-419": "Togedemaru"
+ },
+ "genus": {
+  "ja-hrkt": "まるまりポケモン",
+  "ko": "동글동글포켓몬",
+  "zh-hant": "蜷縮寶可夢",
+  "fr": "Pokémon Roulenboule",
+  "de": "Einigler-Pokémon",
+  "es": "Pokémon Bolita",
+  "it": "Pokémon Ricciopalla",
+  "en": "Roly-Poly Pokémon",
+  "ja": "まるまりポケモン",
+  "zh-hans": "蜷缩宝可梦",
+  "es-419": "Pokémon Bolita"
+ },
+ "flavor": {
+  "ko": "위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댄다.",
+  "en": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately."
+ },
+ "varieties": [
+  {
+   "name": "togedemaru",
+   "is_default": true
+  },
+  {
+   "name": "togedemaru-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "403"
+}

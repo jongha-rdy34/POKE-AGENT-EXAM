@@ -1,0 +1,30 @@
+{
+ "name": "starf-berry",
+ "names": {
+  "ja-hrkt": "スターのみ",
+  "ko": "스타열매",
+  "zh-hant": "星桃果",
+  "fr": "Baie Frista",
+  "de": "Krambobeere",
+  "es": "Baya Arabol",
+  "it": "Baccambola",
+  "en": "Starf Berry",
+  "ja": "スターのみ",
+  "zh-hans": "星桃果",
+  "es-419": "Baya Arabol"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster une stat aléatoire de deux niveaux.",
+  "en": "Held: Consumed at 1/4 max HP to boost a random stat by two stages."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, one of its stats will sharply increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 능력 중의 하나가 크게 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき どれか １つの 能力が ぐーんと あがる。"
+ }
+}

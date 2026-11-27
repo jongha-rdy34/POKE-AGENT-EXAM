@@ -1,0 +1,28 @@
+{
+ "name": "lens-case",
+ "names": {
+  "ja-hrkt": "レンズケース",
+  "ko": "렌즈케이스",
+  "zh-hant": "隱形眼鏡盒",
+  "fr": "Boîte Lentilles",
+  "de": "Linsenetui",
+  "es": "Portalentillas",
+  "it": "Portalenti",
+  "en": "Lens Case",
+  "ja": "レンズケース",
+  "zh-hans": "隐形眼镜盒",
+  "es-419": "Portalentillas"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de changer la couleur de ses yeux.",
+  "en": "Allows the player to change their eye color."
+ },
+ "flavor": {
+  "ko": "콘택트렌즈를 담아둘 수 있는 살짝 멋진 케이스.",
+  "en": "A rather chic-looking case for carrying contact lenses.",
+  "ja": "コンタクトレンズを しまっておける ちょっと おしゃれな ケース。"
+ }
+}

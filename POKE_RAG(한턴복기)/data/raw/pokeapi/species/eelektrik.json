@@ -1,0 +1,42 @@
+{
+ "id": 603,
+ "name": "eelektrik",
+ "names": {
+  "ja-hrkt": "シビビール",
+  "ja-roma": "Shibibeel",
+  "ko": "저리릴",
+  "zh-hant": "麻麻鰻",
+  "fr": "Lampéroie",
+  "de": "Zapplalek",
+  "es": "Eelektrik",
+  "it": "Eelektrik",
+  "en": "Eelektrik",
+  "ja": "シビビール",
+  "zh-hans": "麻麻鳗",
+  "es-419": "Eelektrik"
+ },
+ "genus": {
+  "ja-hrkt": "でんきうおポケモン",
+  "ko": "전기물고기포켓몬",
+  "zh-hant": "電魚寶可夢",
+  "fr": "Pokémon Électrophore",
+  "de": "Stromfisch",
+  "es": "Pokémon Electropez",
+  "it": "Pokémon Elettropesce",
+  "en": "EleFish Pokémon",
+  "ja": "でんきうおポケモン",
+  "zh-hans": "电鱼宝可梦",
+  "es-419": "Pokémon Electropez"
+ },
+ "flavor": {
+  "en": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+  "ko": "식욕이 왕성한 포켓몬이다. 먹이를 발견하면 덮쳐서 전기로 마비시킨 후 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "eelektrik",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "306"
+}

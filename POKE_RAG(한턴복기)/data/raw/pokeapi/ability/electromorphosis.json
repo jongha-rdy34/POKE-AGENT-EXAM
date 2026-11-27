@@ -1,0 +1,24 @@
+{
+ "name": "electromorphosis",
+ "names": {
+  "ja-hrkt": "でんきにかえる",
+  "ko": "전기로바꾸기",
+  "zh-hant": "電力轉換",
+  "fr": "Grecharge",
+  "de": "Dynamo",
+  "es": "Dinamo",
+  "it": "Convertivolt",
+  "en": "Electromorphosis",
+  "cs": "Elektromorfóza",
+  "ja": "でんきにかえる",
+  "zh-hans": "电力转换",
+  "pt-br": "Eletromorfose",
+  "es-419": "Dínamo"
+ },
+ "effect": {
+  "en": "When hit by an attack, the power of the next Electric-type move it uses is doubled."
+ },
+ "flavor": {
+  "en": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 516,
+ "name": "simipour",
+ "names": {
+  "ja-hrkt": "ヒヤッキー",
+  "ja-roma": "Hiyakkie",
+  "ko": "앗차키",
+  "zh-hant": "冷水猿",
+  "fr": "Flotoutan",
+  "de": "Sodachita",
+  "es": "Simipour",
+  "it": "Simipour",
+  "en": "Simipour",
+  "ja": "ヒヤッキー",
+  "zh-hans": "冷水猿",
+  "es-419": "Simipour"
+ },
+ "genus": {
+  "ja-hrkt": "ほうすいポケモン",
+  "ko": "방수포켓몬",
+  "zh-hant": "放水寶可夢",
+  "fr": "Pokémon Drainage",
+  "de": "Drainage",
+  "es": "Pokémon Drenaje",
+  "it": "Pokémon Spruzzacqua",
+  "en": "Geyser Pokémon",
+  "ja": "ほうすいポケモン",
+  "zh-hans": "放水宝可梦",
+  "es-419": "Pokémon Drenaje"
+ },
+ "flavor": {
+  "en": "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
+  "ko": "물이 깨끗한 장소를 좋아한다. 머리에 모아둔 물이 줄어들면 꼬리에서 빨아올려 보급한다."
+ },
+ "varieties": [
+  {
+   "name": "simipour",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "264"
+}

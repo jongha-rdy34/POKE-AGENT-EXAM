@@ -1,0 +1,28 @@
+{
+ "name": "plume-fossil",
+ "names": {
+  "ja-hrkt": "はねのカセキ",
+  "ko": "깃털화석",
+  "zh-hant": "羽毛化石",
+  "fr": "Fossile Plume",
+  "de": "Federfossil",
+  "es": "Fósil Pluma",
+  "it": "Fossilpiuma",
+  "en": "Plume Fossil",
+  "ja": "はねのカセキ",
+  "zh-hans": "羽毛化石",
+  "es-419": "Fósil Pluma"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut être ressuscité en un Arkéapti.",
+  "en": "Can be revived into an Archen."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sky. It looks as if it could come from part of its wing.",
+  "ko": "새포켓몬의 조상이라 불리는 고대 포켓몬의 화석. 날개의 일부인 듯하다.",
+  "ja": "とりポケモンの 祖先と いわれる 古代ポケモンの カセキ。 つばさの 一部らしい。"
+ }
+}

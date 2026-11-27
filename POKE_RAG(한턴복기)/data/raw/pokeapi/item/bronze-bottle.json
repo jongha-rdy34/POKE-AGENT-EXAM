@@ -1,0 +1,20 @@
+{
+ "name": "bronze-bottle",
+ "names": {
+  "ja-hrkt": "ブロンズチタンボトル",
+  "ko": "브론즈 티탄 보틀",
+  "zh-hant": "銅鈦水壺",
+  "fr": "Gourde Titane (Bronze)",
+  "de": "Bronze-Titanflasche",
+  "es": "Termo Bronceado",
+  "it": "Borraccia bronzo",
+  "en": "Bronze Bottle",
+  "ja": "ブロンズチタンボトル",
+  "zh-hans": "铜钛水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

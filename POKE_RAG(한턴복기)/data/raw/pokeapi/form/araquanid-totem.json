@@ -1,0 +1,13 @@
+{
+ "name": "araquanid-totem",
+ "form_name": "totem",
+ "names": {
+  "fr": "Tarenbulle Dominant",
+  "de": "Totem Aranestro",
+  "en": "Totem Araquanid"
+ },
+ "form_names": {
+  "de": "Totemform"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,42 @@
+{
+ "id": 830,
+ "name": "eldegoss",
+ "names": {
+  "ja-hrkt": "ワタシラガ",
+  "ja-roma": "Watashiraga",
+  "ko": "백솜모카",
+  "zh-hant": "白蓬蓬",
+  "fr": "Blancoton",
+  "de": "Cottomi",
+  "es": "Eldegoss",
+  "it": "Eldegoss",
+  "en": "Eldegoss",
+  "ja": "ワタシラガ",
+  "zh-hans": "白蓬蓬",
+  "es-419": "Eldegoss"
+ },
+ "genus": {
+  "ja-hrkt": "わたかざりポケモン",
+  "ko": "솜장식포켓몬",
+  "zh-hant": "棉飾寶可夢",
+  "fr": "Pokémon Chef-Coton",
+  "de": "Baumwollzier-Pokémon",
+  "es": "Pokémon Adornalgodón",
+  "it": "Pokémon Cotofronzolo",
+  "en": "Cotton Bloom Pokémon",
+  "ja": "わたかざりポケモン",
+  "zh-hans": "棉饰宝可梦",
+  "es-419": "Pokémon Adornalgodón"
+ },
+ "flavor": {
+  "ko": "머리의 솜털로 만든 실은 윤이 나고 매우 아름답다. 가라르지방의 특산품이다.",
+  "en": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty."
+ },
+ "varieties": [
+  {
+   "name": "eldegoss",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "437"
+}

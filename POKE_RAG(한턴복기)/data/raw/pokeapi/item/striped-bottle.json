@@ -1,0 +1,20 @@
+{
+ "name": "striped-bottle",
+ "names": {
+  "ja-hrkt": "ストライプボトル",
+  "ko": "줄무늬 보틀",
+  "zh-hant": "條紋水壺",
+  "fr": "Gourde à Rayures",
+  "de": "Streifen-Flasche",
+  "es": "Termo Rayas",
+  "it": "Borraccia a righe",
+  "en": "Striped Bottle",
+  "ja": "ストライプボトル",
+  "zh-hans": "条纹水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

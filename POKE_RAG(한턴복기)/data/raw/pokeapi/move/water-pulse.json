@@ -1,0 +1,31 @@
+{
+ "name": "water-pulse",
+ "names": {
+  "ja-hrkt": "みずのはどう",
+  "ko": "물의파동",
+  "zh-hant": "水之波動",
+  "fr": "Vibraqua",
+  "de": "Aquawelle",
+  "es": "Hidropulso",
+  "it": "Idropulsar",
+  "en": "Water Pulse",
+  "ja": "みずのはどう",
+  "zh-hans": "水之波动",
+  "es-419": "Pulso de Agua"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to confuse the target."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target.",
+  "ko": "물의 진동을 상대에게 가하여 공격한다. 상대를 혼란시킬 때가 있다."
+ }
+}

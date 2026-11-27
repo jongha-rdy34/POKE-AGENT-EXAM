@@ -1,0 +1,42 @@
+{
+ "id": 589,
+ "name": "escavalier",
+ "names": {
+  "ja-hrkt": "シュバルゴ",
+  "ja-roma": "Chevargo",
+  "ko": "슈바르고",
+  "zh-hant": "騎士蝸牛",
+  "fr": "Lançargot",
+  "de": "Cavalanzas",
+  "es": "Escavalier",
+  "it": "Escavalier",
+  "en": "Escavalier",
+  "ja": "シュバルゴ",
+  "zh-hans": "骑士蜗牛",
+  "es-419": "Escavalier"
+ },
+ "genus": {
+  "ja-hrkt": "きへいポケモン",
+  "ko": "기병포켓몬",
+  "zh-hant": "騎兵寶可夢",
+  "fr": "Pokémon Chevalier",
+  "de": "Kavallerie-Pokémon",
+  "es": "Pokémon Soldado",
+  "it": "Pokémon Cavaliere",
+  "en": "Cavalry Pokémon",
+  "ja": "きへいポケモン",
+  "zh-hans": "骑兵宝可梦",
+  "es-419": "Pokémon Soldado"
+ },
+ "flavor": {
+  "en": "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d.",
+  "ko": "창을 겨누고 적에게 돌격한다. 창파나이트와의 결투를 그린 그림이 유명하다."
+ },
+ "varieties": [
+  {
+   "name": "escavalier",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "299"
+}

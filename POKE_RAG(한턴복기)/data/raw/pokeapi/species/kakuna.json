@@ -1,0 +1,42 @@
+{
+ "id": 14,
+ "name": "kakuna",
+ "names": {
+  "ja-hrkt": "コクーン",
+  "ja-roma": "Cocoon",
+  "ko": "딱충이",
+  "zh-hant": "鐵殼蛹",
+  "fr": "Coconfort",
+  "de": "Kokuna",
+  "es": "Kakuna",
+  "it": "Kakuna",
+  "en": "Kakuna",
+  "ja": "コクーン",
+  "zh-hans": "铁壳蛹",
+  "es-419": "Kakuna"
+ },
+ "genus": {
+  "ja-hrkt": "さなぎポケモン",
+  "ko": "번데기포켓몬",
+  "zh-hant": "蛹寶可夢",
+  "fr": "Pokémon Cocon",
+  "de": "Kokon",
+  "es": "Pokémon Capullo",
+  "it": "Pokémon Bozzolo",
+  "en": "Cocoon Pokémon",
+  "ja": "さなぎポケモン",
+  "zh-hans": "蛹宝可梦",
+  "es-419": "Pokémon Capullo"
+ },
+ "flavor": {
+  "en": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+  "ko": "스스로는 거의 움직일 수 없지만 위험해지면 침을 세워서 독을 뿜을 때도 있는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "kakuna",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "5"
+}

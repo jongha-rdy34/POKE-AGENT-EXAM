@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-ori1948",
+ "names": {
+  "ja-hrkt": "★Ori1948",
+  "ko": "★Ori1948",
+  "zh-hant": "★Ori1948",
+  "fr": "★Ori1948",
+  "de": "★Ori1948",
+  "es": "★Ori1948",
+  "it": "★Ori1948",
+  "en": "★Ori1948",
+  "ja": "★Ori1948",
+  "zh-hans": "★Ori1948",
+  "es-419": "★Ori1948"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

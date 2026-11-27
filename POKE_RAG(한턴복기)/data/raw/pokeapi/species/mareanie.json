@@ -1,0 +1,42 @@
+{
+ "id": 747,
+ "name": "mareanie",
+ "names": {
+  "ja-hrkt": "ヒドイデ",
+  "ja-roma": "Hidoide",
+  "ko": "시마사리",
+  "zh-hant": "好壞星",
+  "fr": "Vorastérie",
+  "de": "Garstella",
+  "es": "Mareanie",
+  "it": "Mareanie",
+  "en": "Mareanie",
+  "ja": "ヒドイデ",
+  "zh-hans": "好坏星",
+  "es-419": "Mareanie"
+ },
+ "genus": {
+  "ja-hrkt": "ヒトデナシポケモン",
+  "ko": "깨비사리포켓몬",
+  "zh-hant": "非星寶可夢",
+  "fr": "Pokémon Cruel",
+  "de": "Quäl-Stern-Pokémon",
+  "es": "Pokémon Estrellatroz",
+  "it": "Pokémon Stellatroce",
+  "en": "Brutal Star Pokémon",
+  "ja": "ヒトデナシポケモン",
+  "zh-hans": "非星宝可梦",
+  "es-419": "Pokémon Estrellatroz"
+ },
+ "flavor": {
+  "ko": "알로라지방의 시마사리와 달리 가라르의 시마사리는 코산호의 가지의 맛을 아직 모른다.",
+  "en": "Unlike their Alolan counterparts, the Mareanie of the Galar region have not yet figured out that the branches of Corsola are delicious."
+ },
+ "varieties": [
+  {
+   "name": "mareanie",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "385"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 843,
+ "name": "silicobra",
+ "names": {
+  "ja-hrkt": "スナヘビ",
+  "ja-roma": "Sunahebi",
+  "ko": "모래뱀",
+  "zh-hant": "沙包蛇",
+  "fr": "Dunaja",
+  "de": "Salanga",
+  "es": "Silicobra",
+  "it": "Silicobra",
+  "en": "Silicobra",
+  "ja": "スナヘビ",
+  "zh-hans": "沙包蛇",
+  "es-419": "Silicobra"
+ },
+ "genus": {
+  "ja-hrkt": "すなへびポケモン",
+  "ko": "모래뱀포켓몬",
+  "zh-hant": "沙蛇寶可夢",
+  "fr": "Pokémon Serpensable",
+  "de": "Sandschlangen-Pokémon",
+  "es": "Pokémon Serp. Arena",
+  "it": "Pokémon Sabbiaserpe",
+  "en": "Sand Snake Pokémon",
+  "ja": "すなへびポケモン",
+  "zh-hans": "沙蛇宝可梦",
+  "es-419": "Pokémon Serp. Arena"
+ },
+ "flavor": {
+  "ko": "콧구멍으로 모래를 분사한다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨긴다.",
+  "en": "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide."
+ },
+ "varieties": [
+  {
+   "name": "silicobra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "443"
+}

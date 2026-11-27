@@ -1,0 +1,28 @@
+{
+ "name": "raging-fury",
+ "names": {
+  "ja-hrkt": "だいふんげき",
+  "ko": "대격분",
+  "zh-hant": "大憤慨",
+  "fr": "Grand Courroux",
+  "de": "Flammenwut",
+  "es": "Erupción de Ira",
+  "it": "Ira Furente",
+  "en": "Raging Fury",
+  "ja": "だいふんげき",
+  "zh-hans": "大愤慨",
+  "es-419": "Erupción de Ira"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "random-opponent",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user rampages around spewing flames for two to three turns. The user then becomes confused."
+ }
+}

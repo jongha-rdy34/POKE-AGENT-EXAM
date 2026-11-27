@@ -1,0 +1,35 @@
+{
+ "id": 10222,
+ "name": "grimmsnarl-gmax",
+ "species": "grimmsnarl",
+ "is_default": false,
+ "types": [
+  "dark",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 95,
+  "attack": 120,
+  "defense": 65,
+  "special-attack": 95,
+  "special-defense": 75,
+  "speed": 60
+ },
+ "abilities": [
+  {
+   "name": "prankster",
+   "hidden": false
+  },
+  {
+   "name": "frisk",
+   "hidden": false
+  },
+  {
+   "name": "pickpocket",
+   "hidden": true
+  }
+ ],
+ "height": 320,
+ "weight": 10000,
+ "champions_moves": []
+}

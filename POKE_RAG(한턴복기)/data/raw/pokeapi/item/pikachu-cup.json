@@ -1,0 +1,20 @@
+{
+ "name": "pikachu-cup",
+ "names": {
+  "ja-hrkt": "ピカチュウカップ",
+  "ko": "피카츄 컵",
+  "zh-hant": "皮卡丘水杯",
+  "fr": "Tasse Pikachu",
+  "de": "Pikachu-Tasse",
+  "es": "Taza Pikachu",
+  "it": "Tazza Pikachu",
+  "en": "Pikachu Cup",
+  "ja": "ピカチュウカップ",
+  "zh-hans": "皮卡丘水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

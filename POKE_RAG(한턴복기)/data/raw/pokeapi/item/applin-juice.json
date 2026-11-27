@@ -1,0 +1,20 @@
+{
+ "name": "applin-juice",
+ "names": {
+  "ja-hrkt": "カジッチュのかじゅう",
+  "ko": "과사삭벌레의과즙",
+  "zh-hant": "啃果蟲的果汁",
+  "fr": "Jus de Verpom",
+  "de": "Knapfel-Fruchtsaft",
+  "es": "Zumo de Applin",
+  "it": "Succo di Applin",
+  "en": "Applin Juice",
+  "ja": "カジッチュのかじゅう",
+  "zh-hans": "啃果虫的果汁"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

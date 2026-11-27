@@ -1,0 +1,42 @@
+{
+ "id": 205,
+ "name": "forretress",
+ "names": {
+  "ja-hrkt": "フォレトス",
+  "ja-roma": "Foretos",
+  "ko": "쏘콘",
+  "zh-hant": "佛烈托斯",
+  "fr": "Foretress",
+  "de": "Forstellka",
+  "es": "Forretress",
+  "it": "Forretress",
+  "en": "Forretress",
+  "ja": "フォレトス",
+  "zh-hans": "佛烈托斯",
+  "es-419": "Forretress"
+ },
+ "genus": {
+  "ja-hrkt": "みのむしポケモン",
+  "ko": "도롱이벌레포켓몬",
+  "zh-hant": "蓑衣蟲寶可夢",
+  "fr": "Pokémon Ver Caché",
+  "de": "Beutelwurm",
+  "es": "Pokémon Larva",
+  "it": "Pokémon Larva",
+  "en": "Bagworm Pokémon",
+  "ja": "みのむしポケモン",
+  "zh-hans": "蓑衣虫宝可梦",
+  "es-419": "Pokémon Larva"
+ },
+ "flavor": {
+  "en": "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
+  "ko": "먹이를 삼키는 순간에는 껍질 안의 모습이 나타나지만 그 모습을 본 자는 아직 없다."
+ },
+ "varieties": [
+  {
+   "name": "forretress",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "102"
+}

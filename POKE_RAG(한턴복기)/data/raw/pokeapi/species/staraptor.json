@@ -1,0 +1,46 @@
+{
+ "id": 398,
+ "name": "staraptor",
+ "names": {
+  "ja-hrkt": "ムクホーク",
+  "ja-roma": "Mukuhawk",
+  "ko": "찌르호크",
+  "zh-hant": "姆克鷹",
+  "fr": "Étouraptor",
+  "de": "Staraptor",
+  "es": "Staraptor",
+  "it": "Staraptor",
+  "en": "Staraptor",
+  "ja": "ムクホーク",
+  "zh-hans": "姆克鹰",
+  "es-419": "Staraptor"
+ },
+ "genus": {
+  "ja-hrkt": "もうきんポケモン",
+  "ko": "맹금포켓몬",
+  "zh-hant": "猛禽寶可夢",
+  "fr": "Pokémon Rapace",
+  "de": "Raubtier",
+  "es": "Pokémon Depredador",
+  "it": "Pokémon Rapace",
+  "en": "Predator Pokémon",
+  "ja": "もうきんポケモン",
+  "zh-hans": "猛禽宝可梦",
+  "es-419": "Pokémon Depredador"
+ },
+ "flavor": {
+  "en": "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets.",
+  "ko": "찌르호크가 되면 무리에서 떨어져 혼자서 살아간다. 강인한 날개를 가지고 있다."
+ },
+ "varieties": [
+  {
+   "name": "staraptor",
+   "is_default": true
+  },
+  {
+   "name": "staraptor-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "206"
+}

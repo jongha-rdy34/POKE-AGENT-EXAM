@@ -1,0 +1,25 @@
+{
+ "name": "magnemite-candy",
+ "names": {
+  "ja-hrkt": "コイルのアメ",
+  "ko": "코일의사탕",
+  "zh-hant": "小磁怪的糖果",
+  "fr": "Bonbon Magnéti",
+  "de": "Magnetilo-Bonbon",
+  "es": "Caramelo Magnemite",
+  "it": "Caramella Magnemite",
+  "en": "Magnemite Candy",
+  "ja": "コイルのアメ",
+  "zh-hans": "小磁怪的糖果",
+  "es-419": "Caramelo Magnemite"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": 972,
+ "name": "houndstone",
+ "names": {
+  "ja-hrkt": "ハカドッグ",
+  "ja-roma": "Hakadog",
+  "ko": "묘두기",
+  "zh-hant": "墓揚犬",
+  "fr": "Tomberro",
+  "de": "Friedwuff",
+  "es": "Houndstone",
+  "it": "Houndstone",
+  "en": "Houndstone",
+  "ja": "ハカドッグ",
+  "zh-hans": "墓扬犬",
+  "es-419": "Houndstone"
+ },
+ "genus": {
+  "ja-hrkt": "おばけいぬポケモン",
+  "ko": "유령개포켓몬",
+  "zh-hant": "鬼犬寶可夢",
+  "fr": "Fantôchien",
+  "de": "Geisterhund",
+  "en": "Ghost Dog Pokémon",
+  "zh-hans": "鬼犬宝可梦"
+ },
+ "flavor": {
+  "en": "A lovingly mourned Pokémon was reborn as Houndstone. It doesn’t like anyone touching the protuberance atop its head."
+ },
+ "varieties": [
+  {
+   "name": "houndstone",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "509"
+}

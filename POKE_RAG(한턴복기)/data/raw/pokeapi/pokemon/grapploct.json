@@ -1,0 +1,30 @@
+{
+ "id": 853,
+ "name": "grapploct",
+ "species": "grapploct",
+ "is_default": true,
+ "types": [
+  "fighting"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 118,
+  "defense": 90,
+  "special-attack": 70,
+  "special-defense": 80,
+  "speed": 42
+ },
+ "abilities": [
+  {
+   "name": "limber",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": true
+  }
+ ],
+ "height": 16,
+ "weight": 390,
+ "champions_moves": []
+}

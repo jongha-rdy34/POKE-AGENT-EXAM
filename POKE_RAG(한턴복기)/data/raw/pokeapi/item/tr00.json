@@ -1,0 +1,25 @@
+{
+ "name": "tr00",
+ "names": {
+  "ja-hrkt": "わざレコード００",
+  "ko": "기술레코드00",
+  "zh-hant": "招式紀錄００",
+  "fr": "DT00",
+  "de": "TP00",
+  "es": "DT00",
+  "it": "DT00",
+  "en": "TR00",
+  "ja": "わざレコード００",
+  "zh-hans": "招式记录００",
+  "es-419": "DT00"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "싸움의 춤을 격렬하게 춰서 기세를 높인다. 자신의 공격을 크게 올린다.",
+  "en": "A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.",
+  "ja": "戦いの舞を 激しく おどって 気合を 高める。 自分の 攻撃を ぐーんと あげる。"
+ }
+}

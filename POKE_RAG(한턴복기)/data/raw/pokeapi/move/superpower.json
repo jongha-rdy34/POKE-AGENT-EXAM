@@ -1,0 +1,31 @@
+{
+ "name": "superpower",
+ "names": {
+  "ja-hrkt": "ばかぢから",
+  "ko": "엄청난힘",
+  "zh-hant": "蠻力",
+  "fr": "Surpuissance",
+  "de": "Kraftkoloss",
+  "es": "Fuerza Bruta",
+  "it": "Troppoforte",
+  "en": "Superpower",
+  "ja": "ばかぢから",
+  "zh-hans": "蛮力",
+  "es-419": "Fuerza Bruta"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the user’s Attack and Defense by one stage after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user attacks the target with great power. This also lowers the user's Attack and Defense stats.",
+  "ko": "엄청난 힘을 발휘하여 상대를 공격한다. 자신의 공격과 방어가 떨어진다."
+ }
+}

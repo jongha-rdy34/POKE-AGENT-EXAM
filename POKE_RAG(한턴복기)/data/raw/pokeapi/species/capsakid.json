@@ -1,0 +1,37 @@
+{
+ "id": 951,
+ "name": "capsakid",
+ "names": {
+  "ja-hrkt": "カプサイジ",
+  "ja-roma": "Capsaiji",
+  "ko": "캡싸이",
+  "zh-hant": "熱辣娃",
+  "fr": "Pimito",
+  "de": "Chilingel",
+  "es": "Capsakid",
+  "it": "Capsakid",
+  "en": "Capsakid",
+  "ja": "カプサイジ",
+  "zh-hans": "热辣娃",
+  "es-419": "Capsakid"
+ },
+ "genus": {
+  "ja-hrkt": "ハバネロポケモン",
+  "ko": "하바네로포켓몬",
+  "zh-hant": "熱辣寶可夢",
+  "fr": "Habanero",
+  "de": "Habanero",
+  "en": "Spicy Pepper Pokémon",
+  "zh-hans": "热辣宝可梦"
+ },
+ "flavor": {
+  "en": "Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients."
+ },
+ "varieties": [
+  {
+   "name": "capsakid",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "498"
+}

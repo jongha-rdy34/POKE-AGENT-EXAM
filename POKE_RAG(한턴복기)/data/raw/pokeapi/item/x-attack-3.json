@@ -1,0 +1,28 @@
+{
+ "name": "x-attack-3",
+ "names": {
+  "ja-hrkt": "プラスパワー３",
+  "ko": "플러스파워3",
+  "zh-hant": "力量強化３",
+  "fr": "Attaque 3",
+  "de": "X-Angriff 3",
+  "es": "Ataque X 3",
+  "it": "Attacco X-3",
+  "en": "X Attack 3",
+  "ja": "プラスパワー３",
+  "zh-hans": "力量强化３",
+  "es-419": "Ataque X 3"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente l'Attaque de trois niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Attack by three stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 공격을 상당히 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 攻撃を かなり あげる。 ひっこめると 元に 戻る。"
+ }
+}

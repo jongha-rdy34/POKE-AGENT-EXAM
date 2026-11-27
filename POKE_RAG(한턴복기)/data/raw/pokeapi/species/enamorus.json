@@ -1,0 +1,43 @@
+{
+ "id": 905,
+ "name": "enamorus",
+ "names": {
+  "ja-hrkt": "ラブトロス",
+  "ja-roma": "Lovetolos",
+  "ko": "러브로스",
+  "zh-hant": "眷戀雲",
+  "fr": "Amovénus",
+  "de": "Cupidos",
+  "es": "Enamorus",
+  "it": "Enamorus",
+  "en": "Enamorus",
+  "ja": "ラブトロス",
+  "zh-hans": "眷恋云",
+  "es-419": "Enamorus"
+ },
+ "genus": {
+  "ja-hrkt": "あいぞうポケモン",
+  "ko": "애증포켓몬",
+  "zh-hant": "愛憎寶可夢",
+  "fr": "Pokémon Hainamour",
+  "de": "Hassliebe-Pokémon",
+  "it": "Pokémon Amoreodio",
+  "en": "Love-Hate Pokémon",
+  "ja": "あいぞうポケモン",
+  "zh-hans": "爱憎宝可梦"
+ },
+ "flavor": {
+  "en": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon's love gives rise to the budding of fresh life across Hisui."
+ },
+ "varieties": [
+  {
+   "name": "enamorus-incarnate",
+   "is_default": true
+  },
+  {
+   "name": "enamorus-therian",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "477"
+}

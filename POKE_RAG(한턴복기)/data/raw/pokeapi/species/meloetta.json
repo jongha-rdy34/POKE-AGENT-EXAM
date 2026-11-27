@@ -1,0 +1,46 @@
+{
+ "id": 648,
+ "name": "meloetta",
+ "names": {
+  "ja-hrkt": "メロエッタ",
+  "ja-roma": "Meloetta",
+  "ko": "메로엣타",
+  "zh-hant": "美洛耶塔",
+  "fr": "Meloetta",
+  "de": "Meloetta",
+  "es": "Meloetta",
+  "it": "Meloetta",
+  "en": "Meloetta",
+  "ja": "メロエッタ",
+  "zh-hans": "美洛耶塔",
+  "es-419": "Meloetta"
+ },
+ "genus": {
+  "ja-hrkt": "せんりつポケモン",
+  "ko": "선율포켓몬",
+  "zh-hant": "旋律寶可夢",
+  "fr": "Pokémon Mélodie",
+  "de": "Melodie",
+  "es": "Pokémon Melodía",
+  "it": "Pokémon Melodia",
+  "en": "Melody Pokémon",
+  "ja": "せんりつポケモン",
+  "zh-hans": "旋律宝可梦",
+  "es-419": "Pokémon Melodía"
+ },
+ "flavor": {
+  "en": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+  "ko": "특수한 발성법으로 노래하는 멜로디는 노래를 들은 자의 감정을 자유자재로 조종한다."
+ },
+ "varieties": [
+  {
+   "name": "meloetta-aria",
+   "is_default": true
+  },
+  {
+   "name": "meloetta-pirouette",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "335"
+}

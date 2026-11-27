@@ -1,0 +1,23 @@
+{
+ "name": "flame-body",
+ "names": {
+  "ja-hrkt": "ほのおのからだ",
+  "ko": "불꽃몸",
+  "zh-hant": "火焰之軀",
+  "fr": "Corps Ardent",
+  "de": "Flammkörper",
+  "es": "Cuerpo Llama",
+  "it": "Corpodifuoco",
+  "en": "Flame Body",
+  "ja": "ほのおのからだ",
+  "zh-hans": "火焰之躯",
+  "es-419": "Cuerpo de Fuego"
+ },
+ "effect": {
+  "en": "Has a 30% chance of burning attacking Pokémon on contact."
+ },
+ "flavor": {
+  "en": "Contact with the Pokémon may burn the attacker.",
+  "ko": "자신과 접촉한 상대를 화상 상태로 만들 때가 있다."
+ }
+}

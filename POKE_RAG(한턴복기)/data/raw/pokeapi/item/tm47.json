@@ -1,0 +1,28 @@
+{
+ "name": "tm47",
+ "names": {
+  "ja-hrkt": "わざマシン４７",
+  "ko": "기술머신47",
+  "zh-hant": "招式學習器４７",
+  "fr": "CT47",
+  "de": "TM47",
+  "es": "MT47",
+  "it": "MT47",
+  "en": "TM47",
+  "ja": "わざマシン４７",
+  "zh-hans": "招式学习器４７",
+  "es-419": "MT47"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Balayette à un Pokémon compatible. (Gén IV & III & II: Ailes d'Acier Gén I: Explosion)",
+  "en": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)"
+ },
+ "flavor": {
+  "en": "The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.",
+  "ko": "우는 척을 하며 눈물을 흘린다. 난처하게 만들어 상대의 특수방어를 크게 떨어뜨린다.",
+  "ja": "ないた ふりをして 涙を 流す。 こまらせる ことで 相手の 特防を がくっと さげる。"
+ }
+}

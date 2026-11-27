@@ -1,0 +1,28 @@
+{
+ "name": "shiny-charm",
+ "names": {
+  "ja-hrkt": "ひかるおまもり",
+  "ko": "빛나는부적",
+  "zh-hant": "閃耀護符",
+  "fr": "Charme Chroma",
+  "de": "Schillerpin",
+  "es": "Amuleto Iris",
+  "it": "Cromamuleto",
+  "en": "Shiny Charm",
+  "ja": "ひかるおまもり",
+  "zh-hans": "闪耀护符",
+  "es-419": "Amuleto Iris"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les chances de trouver un Pokémon chromatique.",
+  "en": "Raises the chance of finding a shiny Pokémon."
+ },
+ "flavor": {
+  "en": "A shiny charm said to increase the chance of finding a Shiny Pokémon in the wild.",
+  "ko": "지니고 있으면 빛나는 포켓몬과 만나기 쉬워진다고 전해지는 이상하고 매우 반짝이는 부적.",
+  "ja": "持っていると ひかる ポケモンと 出会いやすくなる といわれる 不思議で ひかりかがやく おまもり。"
+ }
+}

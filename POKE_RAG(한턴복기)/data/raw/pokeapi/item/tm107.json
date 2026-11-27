@@ -1,0 +1,20 @@
+{
+ "name": "tm107",
+ "names": {
+  "ja-hrkt": "わざマシン１０７",
+  "ko": "기술머신107",
+  "zh-hant": "招式學習器１０７",
+  "fr": "CT107",
+  "de": "TM107",
+  "es": "MT107",
+  "it": "MT107",
+  "en": "TM107",
+  "ja": "わざマシン１０７",
+  "zh-hans": "招式学习器１０７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "old-charm",
+ "names": {
+  "ja-hrkt": "こだいのおまもり",
+  "ko": "고대의부적",
+  "zh-hant": "古代護符",
+  "fr": "Vieux Grigri",
+  "de": "Talisman",
+  "es": "Talismán",
+  "it": "Arcamuleto",
+  "en": "Old Charm",
+  "ja": "こだいのおまもり",
+  "zh-hans": "古代护符",
+  "es-419": "Talismán"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger à la grand-mère de Cynthia à Célestia pour la CS04 (Surf).",
+  "en": "Trade to Cynthia’s grandmother in Celestic Town for HM04 (Surf)."
+ },
+ "flavor": {
+  "en": "An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town.",
+  "ko": "봉신마을의 장로에게 전해줄 오랜 옛날의 부적. 포켓몬의 뼈로 만들어졌다.",
+  "ja": "カンナギタウンの 長老に 届ける 大昔の おまもり。 ポケモンの ホネで つくられている。"
+ }
+}

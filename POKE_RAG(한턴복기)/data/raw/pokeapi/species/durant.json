@@ -1,0 +1,42 @@
+{
+ "id": 632,
+ "name": "durant",
+ "names": {
+  "ja-hrkt": "アイアント",
+  "ja-roma": "Aiant",
+  "ko": "아이앤트",
+  "zh-hant": "鐵蟻",
+  "fr": "Fermite",
+  "de": "Fermicula",
+  "es": "Durant",
+  "it": "Durant",
+  "en": "Durant",
+  "ja": "アイアント",
+  "zh-hans": "铁蚁",
+  "es-419": "Durant"
+ },
+ "genus": {
+  "ja-hrkt": "てつアリポケモン",
+  "ko": "철개미포켓몬",
+  "zh-hant": "鐵蟻寶可夢",
+  "fr": "Pokémon Fourmi Dure",
+  "de": "Eisenameisen-Pokémon",
+  "es": "Pokémon Hormigacero",
+  "it": "Pokémon Ferformica",
+  "en": "Iron Ant Pokémon",
+  "ja": "てつアリポケモン",
+  "zh-hans": "铁蚁宝可梦",
+  "es-419": "Pokémon Hormigacero"
+ },
+ "flavor": {
+  "en": "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda.",
+  "ko": "큰 턱은 암석도 깨물어 부순다. 사다이사로부터 알을 지키기 위해 무리 지어 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "durant",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "322"
+}

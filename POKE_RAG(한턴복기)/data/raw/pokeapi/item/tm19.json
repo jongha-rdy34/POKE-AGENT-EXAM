@@ -1,0 +1,28 @@
+{
+ "name": "tm19",
+ "names": {
+  "ja-hrkt": "わざマシン１９",
+  "ko": "기술머신19",
+  "zh-hant": "招式學習器１９",
+  "fr": "CT19",
+  "de": "TM19",
+  "es": "MT19",
+  "it": "MT19",
+  "en": "TM19",
+  "ja": "わざマシン１９",
+  "zh-hans": "招式学习器１９",
+  "es-419": "MT19"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Lévikinésie à un Pokémon compatible. (Gén IV & III & II: Giga-Sangsue Gén I: Frappe Atlas)",
+  "en": "Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)"
+ },
+ "flavor": {
+  "en": "The user creates a protective field that prevents status conditions for five turns.",
+  "ko": "5턴 동안 이상한 힘의 보호를 받아 상태 이상이 되지 않는다.",
+  "ja": "５ターンの 間 不思議な 力に 守られて 状態異常に ならなくなる。"
+ }
+}

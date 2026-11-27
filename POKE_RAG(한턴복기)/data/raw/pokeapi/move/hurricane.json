@@ -1,0 +1,31 @@
+{
+ "name": "hurricane",
+ "names": {
+  "ja-hrkt": "ぼうふう",
+  "ko": "폭풍",
+  "zh-hant": "暴風",
+  "fr": "Vent Violent",
+  "de": "Orkan",
+  "es": "Vendaval",
+  "it": "Tifone",
+  "en": "Hurricane",
+  "ja": "ぼうふう",
+  "zh-hans": "暴风",
+  "es-419": "Huracán"
+ },
+ "type": "flying",
+ "category": "special",
+ "power": 110,
+ "accuracy": 70,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to confuse the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user attacks by wrapping its opponent in a fierce wind. This may also confuse the target.",
+  "ko": "강렬한 바람으로 상대를 둘러싸서 공격한다. 상대를 혼란시킬 때가 있다."
+ }
+}

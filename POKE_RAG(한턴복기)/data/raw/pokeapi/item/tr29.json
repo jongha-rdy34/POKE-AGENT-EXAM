@@ -1,0 +1,25 @@
+{
+ "name": "tr29",
+ "names": {
+  "ja-hrkt": "わざレコード２９",
+  "ko": "기술레코드29",
+  "zh-hant": "招式紀錄２９",
+  "fr": "DT29",
+  "de": "TP29",
+  "es": "DT29",
+  "it": "DT29",
+  "en": "TR29",
+  "ja": "わざレコード２９",
+  "zh-hans": "招式记录２９",
+  "es-419": "DT29"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "교대 포켓몬과 바뀐다. 능력 변화는 바뀐 포켓몬이 그대로 이어받는다.",
+  "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+  "ja": "控えの ポケモンと 入れ替わる。 能力変化は 替わった ポケモンが そのまま 受けつぐ。"
+ }
+}

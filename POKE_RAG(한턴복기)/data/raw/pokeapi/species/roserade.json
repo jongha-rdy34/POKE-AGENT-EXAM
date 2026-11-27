@@ -1,0 +1,42 @@
+{
+ "id": 407,
+ "name": "roserade",
+ "names": {
+  "ja-hrkt": "ロズレイド",
+  "ja-roma": "Roserade",
+  "ko": "로즈레이드",
+  "zh-hant": "羅絲雷朵",
+  "fr": "Roserade",
+  "de": "Roserade",
+  "es": "Roserade",
+  "it": "Roserade",
+  "en": "Roserade",
+  "ja": "ロズレイド",
+  "zh-hans": "罗丝雷朵",
+  "es-419": "Roserade"
+ },
+ "genus": {
+  "ja-hrkt": "ブーケポケモン",
+  "ko": "부케포켓몬",
+  "zh-hant": "花束寶可夢",
+  "fr": "Pokémon Bouquet",
+  "de": "Blumenstrauß-Pokémon",
+  "es": "Pokémon Ramillete",
+  "it": "Pokémon Floreale",
+  "en": "Bouquet Pokémon",
+  "ja": "ブーケポケモン",
+  "zh-hans": "花束宝可梦",
+  "es-419": "Pokémon Ramillete"
+ },
+ "flavor": {
+  "en": "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips.",
+  "ko": "오른손의 독은 즉효성이고 왼손의 독은 지효성을 띠고 있다. 양쪽 모두 생명에 지장을 준다."
+ },
+ "varieties": [
+  {
+   "name": "roserade",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "158"
+}

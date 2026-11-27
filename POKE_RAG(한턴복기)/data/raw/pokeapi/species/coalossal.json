@@ -1,0 +1,46 @@
+{
+ "id": 839,
+ "name": "coalossal",
+ "names": {
+  "ja-hrkt": "セキタンザン",
+  "ja-roma": "Sekitanzan",
+  "ko": "석탄산",
+  "zh-hant": "巨炭山",
+  "fr": "Monthracite",
+  "de": "Montecarbo",
+  "es": "Coalossal",
+  "it": "Coalossal",
+  "en": "Coalossal",
+  "ja": "セキタンザン",
+  "zh-hans": "巨炭山",
+  "es-419": "Coalossal"
+ },
+ "genus": {
+  "ja-hrkt": "せきたんポケモン",
+  "ko": "석탄포켓몬",
+  "zh-hant": "煤炭寶可夢",
+  "fr": "Pokémon Charbon",
+  "de": "Kohle-Pokémon",
+  "es": "Pokémon Carbón",
+  "it": "Pokémon Carbone",
+  "en": "Coal Pokémon",
+  "ja": "せきたんポケモン",
+  "zh-hans": "煤炭宝可梦",
+  "es-419": "Pokémon Carbón"
+ },
+ "flavor": {
+  "ko": "싸우게 되면 석탄으로 된 산이 새빨갛게 타올라 불똥을 흩뿌려 주위를 태운다.",
+  "en": "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area."
+ },
+ "varieties": [
+  {
+   "name": "coalossal",
+   "is_default": true
+  },
+  {
+   "name": "coalossal-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "441"
+}

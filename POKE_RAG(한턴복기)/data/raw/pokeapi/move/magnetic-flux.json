@@ -1,0 +1,31 @@
+{
+ "name": "magnetic-flux",
+ "names": {
+  "ja-hrkt": "じばそうさ",
+  "ko": "자기장조작",
+  "zh-hant": "磁場操控",
+  "fr": "Magné-Contrôle",
+  "de": "Magnetregler",
+  "es": "Aura Magnética",
+  "it": "Controllo Polare",
+  "en": "Magnetic Flux",
+  "ja": "じばそうさ",
+  "zh-hans": "磁场操控",
+  "es-419": "Aura Magnética"
+ },
+ "type": "electric",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user-and-allies",
+ "effect": {
+  "en": "Raises the Defense and Special Defense of all friendly Pokémon with Plus or Minus by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "자기장 조작으로 인해 특성 플러스와 마이너스의 방어, 특수방어가 오른다.",
+  "en": "The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability."
+ }
+}

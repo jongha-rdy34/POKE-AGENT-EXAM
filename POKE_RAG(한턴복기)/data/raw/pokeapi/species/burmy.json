@@ -1,0 +1,42 @@
+{
+ "id": 412,
+ "name": "burmy",
+ "names": {
+  "ja-hrkt": "ミノムッチ",
+  "ja-roma": "Minomucchi",
+  "ko": "도롱충이",
+  "zh-hant": "結草兒",
+  "fr": "Cheniti",
+  "de": "Burmy",
+  "es": "Burmy",
+  "it": "Burmy",
+  "en": "Burmy",
+  "ja": "ミノムッチ",
+  "zh-hans": "结草儿",
+  "es-419": "Burmy"
+ },
+ "genus": {
+  "ja-hrkt": "みのむしポケモン",
+  "ko": "도롱이벌레포켓몬",
+  "zh-hant": "蓑衣蟲寶可夢",
+  "fr": "Pokémon Ver Caché",
+  "de": "Beutelwurm",
+  "es": "Pokémon Larva",
+  "it": "Pokémon Larva",
+  "en": "Bagworm Pokémon",
+  "ja": "みのむしポケモン",
+  "zh-hans": "蓑衣虫宝可梦",
+  "es-419": "Pokémon Larva"
+ },
+ "flavor": {
+  "en": "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold.",
+  "ko": "싸움으로 도롱이가 부서져 버리면 가까이 있는 재료로 도롱이를 바로 만들어 고친다."
+ },
+ "varieties": [
+  {
+   "name": "burmy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "213"
+}

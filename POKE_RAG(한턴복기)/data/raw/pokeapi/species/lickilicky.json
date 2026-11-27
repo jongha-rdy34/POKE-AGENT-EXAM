@@ -1,0 +1,42 @@
+{
+ "id": 463,
+ "name": "lickilicky",
+ "names": {
+  "ja-hrkt": "ベロベルト",
+  "ja-roma": "Berobelt",
+  "ko": "내룸벨트",
+  "zh-hant": "大舌舔",
+  "fr": "Coudlangue",
+  "de": "Schlurplek",
+  "es": "Lickilicky",
+  "it": "Lickilicky",
+  "en": "Lickilicky",
+  "ja": "ベロベルト",
+  "zh-hans": "大舌舔",
+  "es-419": "Lickilicky"
+ },
+ "genus": {
+  "ja-hrkt": "なめまわしポケモン",
+  "ko": "핥기포켓몬",
+  "zh-hant": "舔舔寶可夢",
+  "fr": "Pokémon Lécheur",
+  "de": "Schlecker-Pokémon",
+  "es": "Pokémon Lametazo",
+  "it": "Pokémon Linguaccia",
+  "en": "Licking Pokémon",
+  "ja": "なめまわしポケモン",
+  "zh-hans": "舔舔宝可梦",
+  "es-419": "Pokémon Lametazo"
+ },
+ "flavor": {
+  "en": "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky's height. Beware of the saliva, as it contains corrosive elements.",
+  "ko": "사람의 팔과 견줄 수 있을 정도의 활용도 높은 혀로 뭐든지 한다. 반대로 손은 무디다."
+ },
+ "varieties": [
+  {
+   "name": "lickilicky",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "48"
+}

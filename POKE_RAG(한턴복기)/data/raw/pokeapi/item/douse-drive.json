@@ -1,0 +1,28 @@
+{
+ "name": "douse-drive",
+ "names": {
+  "ja-hrkt": "アクアカセット",
+  "ko": "아쿠아카세트",
+  "zh-hant": "水流卡帶",
+  "fr": "Module Aqua",
+  "de": "Aquamodul",
+  "es": "HidroROM",
+  "it": "Idromodulo",
+  "en": "Douse Drive",
+  "ja": "アクアカセット",
+  "zh-hans": "水流卡带",
+  "es-419": "HidroROM"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Donne à Genesect un Techno-Buster bleu, de type Eau.",
+  "en": "Grants Genesect a blue, Water-type Techno Blast."
+ },
+ "flavor": {
+  "en": "A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Water type.",
+  "ko": "게노세크트에게 지니게 하면 테크노버스터라는 기술이 물타입으로 바뀌는 카세트.",
+  "ja": "ゲノセクトに 持たせると テクノバスターという 技が みずタイプになる カセット。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "salt-cure",
+ "names": {
+  "ja-hrkt": "しおづけ",
+  "ko": "소금절이",
+  "zh-hant": "鹽醃",
+  "fr": "Salaison",
+  "de": "Pökelsalz",
+  "es": "Salazón",
+  "it": "Sotto Sale",
+  "en": "Salt Cure",
+  "ja": "しおづけ",
+  "zh-hans": "盐腌",
+  "es-419": "Salación"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move."
+ }
+}

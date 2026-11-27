@@ -1,0 +1,25 @@
+{
+ "name": "tr27",
+ "names": {
+  "ja-hrkt": "わざレコード２７",
+  "ko": "기술레코드27",
+  "zh-hant": "招式紀錄２７",
+  "fr": "DT27",
+  "de": "TP27",
+  "es": "DT27",
+  "it": "DT27",
+  "en": "TR27",
+  "ja": "わざレコード２７",
+  "zh-hans": "招式记录２７",
+  "es-419": "DT27"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "자신이 배운 기술 중 하나를 무작위로 날린다. 자신이 잠들어 있을 때만 쓸 수 있다.",
+  "en": "While it is asleep, the user randomly uses one of the moves it knows.",
+  "ja": "自分が おぼえている 技の うち どれか １つを くりだす。 自分が 寝ているときだけ 使える。"
+ }
+}

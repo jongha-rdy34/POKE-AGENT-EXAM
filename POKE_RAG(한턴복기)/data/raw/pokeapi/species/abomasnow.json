@@ -1,0 +1,46 @@
+{
+ "id": 460,
+ "name": "abomasnow",
+ "names": {
+  "ja-hrkt": "ユキノオー",
+  "ja-roma": "Yukinooh",
+  "ko": "눈설왕",
+  "zh-hant": "暴雪王",
+  "fr": "Blizzaroi",
+  "de": "Rexblisar",
+  "es": "Abomasnow",
+  "it": "Abomasnow",
+  "en": "Abomasnow",
+  "ja": "ユキノオー",
+  "zh-hans": "暴雪王",
+  "es-419": "Abomasnow"
+ },
+ "genus": {
+  "ja-hrkt": "じゅひょうポケモン",
+  "ko": "얼음나무포켓몬",
+  "zh-hant": "樹冰寶可夢",
+  "fr": "Pokémon Arbregelé",
+  "de": "Frostbaum-Pokémon",
+  "es": "Pokémon Árbol Nieve",
+  "it": "Pokémon Albergelo",
+  "en": "Frost Tree Pokémon",
+  "ja": "じゅひょうポケモン",
+  "zh-hans": "树冰宝可梦",
+  "es-419": "Pokémon Árbol Nieve"
+ },
+ "flavor": {
+  "en": "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow.",
+  "ko": "블리자드를 일으키는 포켓몬이다. 커다란 몸을 흔들면 부근 일대는 금세 새하얗게 된다."
+ },
+ "varieties": [
+  {
+   "name": "abomasnow",
+   "is_default": true
+  },
+  {
+   "name": "abomasnow-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "239"
+}

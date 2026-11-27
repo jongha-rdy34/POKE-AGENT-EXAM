@@ -1,0 +1,28 @@
+{
+ "name": "data-card-17",
+ "names": {
+  "ja-hrkt": "データカード１７",
+  "ko": "데이터카드17",
+  "zh-hant": "資料卡１７",
+  "fr": "Carte Mémo17",
+  "de": "Datenkarte17",
+  "es": "Tarjeta Datos 17",
+  "it": "Scheda Dati 17",
+  "en": "Data Card 17",
+  "ja": "データカード１７",
+  "zh-hans": "数据卡１７",
+  "es-419": "Tarjeta Datos 17"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Saute-Lumière du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Lamp Jump.",
+  "ko": "포켓슬론의 기록이 들어 있다. 바운드필드 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 バウンドフィールド １位 回数が 記録された カード。"
+ }
+}

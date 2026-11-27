@@ -1,0 +1,20 @@
+{
+ "name": "teal-style-card",
+ "names": {
+  "ja-hrkt": "おしゃれカードみどり",
+  "ko": "멋쟁이카드 그린",
+  "zh-hant": "碧之時尚名人卡",
+  "fr": "Carte Élégance Verte",
+  "de": "Grüne Style-Karte",
+  "es": "Tarjeta Chic Verde",
+  "it": "Tessera chic verde",
+  "en": "Teal Style Card",
+  "ja": "おしゃれカードみどり",
+  "zh-hans": "碧之时尚名人卡"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

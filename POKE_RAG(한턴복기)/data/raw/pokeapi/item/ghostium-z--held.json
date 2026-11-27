@@ -1,0 +1,28 @@
+{
+ "name": "ghostium-z--held",
+ "names": {
+  "ja-hrkt": "ゴーストＺ",
+  "ko": "고스트Z",
+  "zh-hant": "幽靈Ｚ",
+  "fr": "Spectrozélite",
+  "de": "Phantomium Z",
+  "es": "Espectrostal Z",
+  "it": "Spectrium Z",
+  "en": "Ghostium Z",
+  "ja": "ゴーストＺ",
+  "zh-hans": "幽灵Ｚ",
+  "es-419": "Espectrostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Spectre.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 고스트타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Ghost-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 ゴーストタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "yellow-petal",
+ "names": {
+  "ja-hrkt": "きいろのはなびら",
+  "ko": "노랑꽃잎",
+  "zh-hant": "黃色花瓣",
+  "fr": "Pétale Jaune",
+  "de": "Gelbes Blatt",
+  "es": "Pétalo Amarillo",
+  "it": "Petalo giallo",
+  "en": "Yellow Petal",
+  "ja": "きいろのはなびら",
+  "zh-hans": "黄色花瓣",
+  "es-419": "Pétalo Amarillo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour yellow-petal",
+  "en": "XXX new effect for yellow-petal"
+ },
+ "flavor": {
+  "ko": "말리화의 시련에서 마마네에게 받을 수 있는 꽃잎의 압화. 7종류 모으는 것이 목적.",
+  "en": "A pressed flower petal you receive from Sophocles during Mina’s trial. The goal is to collect seven different kinds of petals.",
+  "ja": "マツリカの試練で マーマネから もらえる はなびらの 押し花。 ７種類 集めるのが 目的。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "friend-ball",
+ "names": {
+  "ja-hrkt": "フレンドボール",
+  "ko": "프렌드볼",
+  "zh-hant": "友友球",
+  "fr": "Copain Ball",
+  "de": "Freundesball",
+  "es": "Amigo Ball",
+  "it": "Friend Ball",
+  "en": "Friend Ball",
+  "ja": "フレンドボール",
+  "zh-hans": "友友球",
+  "es-419": "Amigobola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Les Pokémon capturés commencent avec 200 de bonheur. Fait à partir de Noigrume Ver.",
+  "en": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn."
+ },
+ "flavor": {
+  "en": "A strange Poké Ball that will make the wild Pokémon caught with it more friendly toward you immediately.",
+  "ko": "잡은 야생 포켓몬이 바로 친밀해지는 조금 특이한 볼.",
+  "ja": "捕まえた 野生ポケモンが すぐに なついて くれる ちょっと 変わった ボール。"
+ }
+}

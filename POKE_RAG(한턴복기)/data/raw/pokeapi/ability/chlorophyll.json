@@ -1,0 +1,23 @@
+{
+ "name": "chlorophyll",
+ "names": {
+  "ja-hrkt": "ようりょくそ",
+  "ko": "엽록소",
+  "zh-hant": "葉綠素",
+  "fr": "Chlorophylle",
+  "de": "Chlorophyll",
+  "es": "Clorofila",
+  "it": "Clorofilla",
+  "en": "Chlorophyll",
+  "ja": "ようりょくそ",
+  "zh-hans": "叶绿素",
+  "es-419": "Clorofila"
+ },
+ "effect": {
+  "en": "Doubles Speed during strong sunlight."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's Speed stat in harsh sunlight.",
+  "ko": "날씨가 맑을 때 스피드가 올라간다."
+ }
+}

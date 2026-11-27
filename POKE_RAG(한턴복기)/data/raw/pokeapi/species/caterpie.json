@@ -1,0 +1,42 @@
+{
+ "id": 10,
+ "name": "caterpie",
+ "names": {
+  "ja-hrkt": "キャタピー",
+  "ja-roma": "Caterpie",
+  "ko": "캐터피",
+  "zh-hant": "綠毛蟲",
+  "fr": "Chenipan",
+  "de": "Raupy",
+  "es": "Caterpie",
+  "it": "Caterpie",
+  "en": "Caterpie",
+  "ja": "キャタピー",
+  "zh-hans": "绿毛虫",
+  "es-419": "Caterpie"
+ },
+ "genus": {
+  "ja-hrkt": "いもむしポケモン",
+  "ko": "애벌레포켓몬",
+  "zh-hant": "蟲寶寶寶可夢",
+  "fr": "Pokémon Ver",
+  "de": "Wurm-Pokémon",
+  "es": "Pokémon Gusano",
+  "it": "Pokémon Baco",
+  "en": "Worm Pokémon",
+  "ja": "いもむしポケモン",
+  "zh-hans": "虫宝宝宝可梦",
+  "es-419": "Pokémon Gusano"
+ },
+ "flavor": {
+  "en": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+  "ko": "다리는 짧지만 빨판으로 되어 있어 비탈길이나 벽에서도 지치지 않고 나아간다."
+ },
+ "varieties": [
+  {
+   "name": "caterpie",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "4"
+}

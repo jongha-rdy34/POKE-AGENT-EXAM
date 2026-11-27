@@ -1,0 +1,20 @@
+{
+ "name": "wattrel-feather",
+ "names": {
+  "ja-hrkt": "カイデンのはね",
+  "ko": "찌리비의깃털",
+  "zh-hant": "電海燕的羽毛",
+  "fr": "Plume de Zapétrel",
+  "de": "Voltrel-Feder",
+  "es": "Pluma de Wattrel",
+  "it": "Penna di Wattrel",
+  "en": "Wattrel Feather",
+  "ja": "カイデンのはね",
+  "zh-hans": "电海燕的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

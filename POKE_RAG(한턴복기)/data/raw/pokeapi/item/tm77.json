@@ -1,0 +1,28 @@
+{
+ "name": "tm77",
+ "names": {
+  "ja-hrkt": "わざマシン７７",
+  "ko": "기술머신77",
+  "zh-hant": "招式學習器７７",
+  "fr": "CT77",
+  "de": "TM77",
+  "es": "MT77",
+  "it": "MT77",
+  "en": "TM77",
+  "ja": "わざマシン７７",
+  "zh-hans": "招式学习器７７",
+  "es-419": "MT77"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Boost à un Pokémon compatible.",
+  "en": "Teaches Psych Up to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "This relentless attack does massive damage to a target affected by status conditions.",
+  "ko": "엎친 데 덮친 격으로 공격한다. 상태 이상인 상대에게 큰 데미지를 준다.",
+  "ja": "たたみかける ように 攻撃する。 状態異常の 相手に 大きな ダメージを 与える。"
+ }
+}

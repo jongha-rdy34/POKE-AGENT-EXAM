@@ -1,0 +1,20 @@
+{
+ "name": "red-bell-pepper",
+ "names": {
+  "ja-hrkt": "あかパプリカスライス",
+  "ko": "빨간파프리카슬라이스",
+  "zh-hant": "紅椒片",
+  "fr": "Poivron Rouge",
+  "de": "Rote Paprika",
+  "es": "Pimiento Rojo",
+  "it": "Peperone rosso",
+  "en": "Red Bell Pepper",
+  "ja": "あかパプリカスライス",
+  "zh-hans": "红椒片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

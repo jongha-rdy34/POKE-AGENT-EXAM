@@ -1,0 +1,32 @@
+{
+ "name": "damp-rock",
+ "names": {
+  "ja-hrkt": "しめったいわ",
+  "ko": "축축한바위",
+  "zh-hant": "潮濕岩石",
+  "fr": "Roche Humide",
+  "de": "Nassbrocken",
+  "es": "Roca Lluvia",
+  "it": "Rocciaumida",
+  "en": "Damp Rock",
+  "ja": "しめったいわ",
+  "zh-hans": "潮湿岩石",
+  "es-419": "Roca Lluvia"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Danse Pluie du porteur dure 8 tours au lieu de 5.",
+  "en": "Held: Rain Dance by the holder lasts 8 rounds instead of 5."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It extends the duration of the move Rain Dance when used by the holder.",
+  "ko": "지니게 한 포켓몬이 비바라기를 쓰면 여느 때보다 비 내리는 시간이 길어진다.",
+  "ja": "持たせた ポケモンが あまごいを 使うと いつもより あめの 時間が 長くなる。"
+ }
+}

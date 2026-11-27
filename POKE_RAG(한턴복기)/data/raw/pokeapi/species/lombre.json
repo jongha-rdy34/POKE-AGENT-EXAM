@@ -1,0 +1,42 @@
+{
+ "id": 271,
+ "name": "lombre",
+ "names": {
+  "ja-hrkt": "ハスブレロ",
+  "ja-roma": "Hasubrero",
+  "ko": "로토스",
+  "zh-hant": "蓮帽小童",
+  "fr": "Lombre",
+  "de": "Lombrero",
+  "es": "Lombre",
+  "it": "Lombre",
+  "en": "Lombre",
+  "ja": "ハスブレロ",
+  "zh-hans": "莲帽小童",
+  "es-419": "Lombre"
+ },
+ "genus": {
+  "ja-hrkt": "ようきポケモン",
+  "ko": "명랑함포켓몬",
+  "zh-hant": "爽朗寶可夢",
+  "fr": "Pokémon Jovial",
+  "de": "Frohmut-Pokémon",
+  "es": "Pokémon Alegre",
+  "it": "Pokémon Giocoso",
+  "en": "Jolly Pokémon",
+  "ja": "ようきポケモン",
+  "zh-hans": "爽朗宝可梦",
+  "es-419": "Pokémon Alegre"
+ },
+ "flavor": {
+  "en": "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.",
+  "ko": "햇볕이 잘 드는 물가에 산다. 낮에는 수초로 된 침대에서 자고 해가 지면 활동하기 시작한다."
+ },
+ "varieties": [
+  {
+   "name": "lombre",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "136"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "leaders-crest",
+ "names": {
+  "ja-hrkt": "かしらのしるし",
+  "ko": "대장의징표",
+  "zh-hant": "頭領憑證",
+  "fr": "Emblème du Général",
+  "de": "Anführersymbol",
+  "es": "Distintivo de Líder",
+  "it": "Simbolo del capo",
+  "en": "Leader’s Crest",
+  "ja": "かしらのしるし",
+  "zh-hans": "头领凭证"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

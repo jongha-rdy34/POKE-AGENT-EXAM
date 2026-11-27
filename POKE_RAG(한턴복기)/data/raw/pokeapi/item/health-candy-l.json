@@ -1,0 +1,25 @@
+{
+ "name": "health-candy-l",
+ "names": {
+  "ja-hrkt": "げんきのアメＬ",
+  "ko": "기력의사탕L",
+  "zh-hant": "元氣糖果Ｌ",
+  "fr": "Bonbon Santé M",
+  "de": "Energiebonbon+",
+  "es": "Caramelo Vigor +",
+  "it": "Caramella vitalità M",
+  "en": "Health Candy L",
+  "ja": "げんきのアメＬ",
+  "zh-hans": "元气糖果Ｌ",
+  "es-419": "Caramelo Vigor +"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 큰 사탕. 레벨 30 이상인 포켓몬의 HP를 올린다.",
+  "en": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s HP.",
+  "ja": "エネルギーの つまった 大きい アメ。 レベル３０ 以上の ポケモンの たいりょくを 上げる。"
+ }
+}

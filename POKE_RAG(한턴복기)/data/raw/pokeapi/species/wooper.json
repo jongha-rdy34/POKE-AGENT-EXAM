@@ -1,0 +1,46 @@
+{
+ "id": 194,
+ "name": "wooper",
+ "names": {
+  "ja-hrkt": "ウパー",
+  "ja-roma": "Upah",
+  "ko": "우파",
+  "zh-hant": "烏波",
+  "fr": "Axoloto",
+  "de": "Felino",
+  "es": "Wooper",
+  "it": "Wooper",
+  "en": "Wooper",
+  "ja": "ウパー",
+  "zh-hans": "乌波",
+  "es-419": "Wooper"
+ },
+ "genus": {
+  "ja-hrkt": "みずうおポケモン",
+  "ko": "수어포켓몬",
+  "zh-hant": "水魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Fisch-Pokémon",
+  "es": "Pokémon Pez Agua",
+  "it": "Pokémon Acquapesce",
+  "en": "Water Fish Pokémon",
+  "ja": "みずうおポケモン",
+  "zh-hans": "水鱼宝可梦",
+  "es-419": "Pokémon Pez Agua"
+ },
+ "flavor": {
+  "en": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+  "ko": "지상에서 걸을 때는 피부가 건조해지지 않도록 독성분의 점막으로 몸을 감싸고 있다."
+ },
+ "varieties": [
+  {
+   "name": "wooper",
+   "is_default": true
+  },
+  {
+   "name": "wooper-paldea",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "96"
+}

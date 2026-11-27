@@ -1,0 +1,32 @@
+{
+ "name": "spooky-plate",
+ "names": {
+  "ja-hrkt": "もののけプレート",
+  "ko": "원령플레이트",
+  "zh-hant": "妖怪石板",
+  "fr": "Plaque Fantôme",
+  "de": "Spuktafel",
+  "es": "Tabla Terror",
+  "it": "Lastratetra",
+  "en": "Spooky Plate",
+  "ja": "もののけプレート",
+  "zh-hans": "妖怪石板",
+  "es-419": "Tabla Terror"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Spectre du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Spectre.",
+  "en": "Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ghost."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ghost-type moves.",
+  "ko": "고스트타입의 석판. 지니게 하면 고스트타입 기술의 위력이 강해진다.",
+  "ja": "ゴーストの タイプの 石盤。 持たせると ゴーストタイプの 技の 威力が 強まる。"
+ }
+}

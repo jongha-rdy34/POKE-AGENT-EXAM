@@ -1,0 +1,46 @@
+{
+ "id": 50,
+ "name": "diglett",
+ "names": {
+  "ja-hrkt": "ディグダ",
+  "ja-roma": "Digda",
+  "ko": "디그다",
+  "zh-hant": "地鼠",
+  "fr": "Taupiqueur",
+  "de": "Digda",
+  "es": "Diglett",
+  "it": "Diglett",
+  "en": "Diglett",
+  "ja": "ディグダ",
+  "zh-hans": "地鼠",
+  "es-419": "Diglett"
+ },
+ "genus": {
+  "ja-hrkt": "もぐらポケモン",
+  "ko": "두더지포켓몬",
+  "zh-hant": "鼴鼠寶可夢",
+  "fr": "Pokémon Taupe",
+  "de": "Maulwurf-Pokémon",
+  "es": "Pokémon Topo",
+  "it": "Pokémon Talpa",
+  "en": "Mole Pokémon",
+  "ja": "もぐらポケモン",
+  "zh-hans": "鼹鼠宝可梦",
+  "es-419": "Pokémon Topo"
+ },
+ "flavor": {
+  "en": "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.",
+  "ko": "얕은 땅속을 이동한다. 굴을 파며 다닌 곳은 지면이 솟아 있기 때문에 바로 알 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "diglett",
+   "is_default": true
+  },
+  {
+   "name": "diglett-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "21"
+}

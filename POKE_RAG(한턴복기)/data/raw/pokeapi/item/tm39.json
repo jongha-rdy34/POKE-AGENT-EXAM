@@ -1,0 +1,28 @@
+{
+ "name": "tm39",
+ "names": {
+  "ja-hrkt": "わざマシン３９",
+  "ko": "기술머신39",
+  "zh-hant": "招式學習器３９",
+  "fr": "CT39",
+  "de": "TM39",
+  "es": "MT39",
+  "it": "MT39",
+  "en": "TM39",
+  "ja": "わざマシン３９",
+  "zh-hans": "招式学习器３９",
+  "es-419": "MT39"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Tomberoche à un Pokémon compatible. (Gén II & I: Météores)",
+  "en": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)"
+ },
+ "flavor": {
+  "en": "This attack move doubles its power if the user is poisoned, burned, or paralyzed.",
+  "ko": "자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다.",
+  "ja": "自分が 毒 まひ やけど 状態のとき 相手に くりだすと 技の 威力が ２倍に なる。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr55",
+ "names": {
+  "ja-hrkt": "わざレコード５５",
+  "ko": "기술레코드55",
+  "zh-hant": "招式紀錄５５",
+  "fr": "DT55",
+  "de": "TP55",
+  "es": "DT55",
+  "it": "DT55",
+  "en": "TR55",
+  "ja": "わざレコード５５",
+  "zh-hans": "招式记录５５",
+  "es-419": "DT55"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "불꽃을 두르고 돌진한다. 자신도 상당한 데미지를 입는다. 화상 상태로 만들 때가 있다.",
+  "en": "The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.",
+  "ja": "炎を まとって 突進する。 自分も かなり ダメージを 受ける。 やけど状態に することが ある。"
+ }
+}

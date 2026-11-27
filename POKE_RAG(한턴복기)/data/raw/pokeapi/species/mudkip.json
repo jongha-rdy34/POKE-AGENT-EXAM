@@ -1,0 +1,42 @@
+{
+ "id": 258,
+ "name": "mudkip",
+ "names": {
+  "ja-hrkt": "ミズゴロウ",
+  "ja-roma": "Mizugorou",
+  "ko": "물짱이",
+  "zh-hant": "水躍魚",
+  "fr": "Gobou",
+  "de": "Hydropi",
+  "es": "Mudkip",
+  "it": "Mudkip",
+  "en": "Mudkip",
+  "ja": "ミズゴロウ",
+  "zh-hans": "水跃鱼",
+  "es-419": "Mudkip"
+ },
+ "genus": {
+  "ja-hrkt": "ぬまうおポケモン",
+  "ko": "늪물고기포켓몬",
+  "zh-hant": "沼魚寶可夢",
+  "fr": "Pokémon Poissonboue",
+  "de": "Lehmhüpfer-Pokémon",
+  "es": "Pokémon Pez Lodo",
+  "it": "Pokémon Fango Pesce",
+  "en": "Mud Fish Pokémon",
+  "ja": "ぬまうおポケモン",
+  "zh-hans": "沼鱼宝可梦",
+  "es-419": "Pokémon Pez Lodo"
+ },
+ "flavor": {
+  "en": "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
+  "ko": "물속에서는 뺨의 아가미로 호흡한다. 위급해지면 몸보다 큰 바위를 산산이 부숴버리는 파워를 발휘한다."
+ },
+ "varieties": [
+  {
+   "name": "mudkip",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "132"
+}

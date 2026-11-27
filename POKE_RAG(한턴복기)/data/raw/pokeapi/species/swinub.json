@@ -1,0 +1,42 @@
+{
+ "id": 220,
+ "name": "swinub",
+ "names": {
+  "ja-hrkt": "ウリムー",
+  "ja-roma": "Urimoo",
+  "ko": "꾸꾸리",
+  "zh-hant": "小山豬",
+  "fr": "Marcacrin",
+  "de": "Quiekel",
+  "es": "Swinub",
+  "it": "Swinub",
+  "en": "Swinub",
+  "ja": "ウリムー",
+  "zh-hans": "小山猪",
+  "es-419": "Swinub"
+ },
+ "genus": {
+  "ja-hrkt": "いのぶたポケモン",
+  "ko": "산돼지포켓몬",
+  "zh-hant": "小豬寶可夢",
+  "fr": "Pokémon Cochon",
+  "de": "Ferkel-Pokémon",
+  "es": "Pokémon Cerdo",
+  "it": "Pokémon Maiale",
+  "en": "Pig Pokémon",
+  "ja": "いのぶたポケモン",
+  "zh-hans": "小猪宝可梦",
+  "es-419": "Pokémon Cerdo"
+ },
+ "flavor": {
+  "en": "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill.",
+  "ko": "좋은 냄새를 맡으면 뒷일을 생각하지 않고 냄새 나는 방향으로 대시해버린다."
+ },
+ "varieties": [
+  {
+   "name": "swinub",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "112"
+}

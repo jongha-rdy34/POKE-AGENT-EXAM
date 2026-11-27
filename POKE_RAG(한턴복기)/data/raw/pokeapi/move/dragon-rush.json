@@ -1,0 +1,31 @@
+{
+ "name": "dragon-rush",
+ "names": {
+  "ja-hrkt": "ドラゴンダイブ",
+  "ko": "드래곤다이브",
+  "zh-hant": "龍之俯衝",
+  "fr": "Draco-Charge",
+  "de": "Drachenstoß",
+  "es": "Carga Dragón",
+  "it": "Dragofuria",
+  "en": "Dragon Rush",
+  "ja": "ドラゴンダイブ",
+  "zh-hans": "龙之俯冲",
+  "es-419": "Carga Dragón"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 75,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.",
+  "ko": "굉장한 살기로 위압하면서 몸통박치기한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

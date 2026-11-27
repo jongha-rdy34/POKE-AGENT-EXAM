@@ -1,0 +1,54 @@
+{
+ "id": 678,
+ "name": "meowstic",
+ "names": {
+  "ja-hrkt": "ニャオニクス",
+  "ja-roma": "Nyaonix",
+  "ko": "냐오닉스",
+  "zh-hant": "超能妙喵",
+  "fr": "Mistigrix",
+  "de": "Psiaugon",
+  "es": "Meowstic",
+  "it": "Meowstic",
+  "en": "Meowstic",
+  "ja": "ニャオニクス",
+  "zh-hans": "超能妙喵",
+  "es-419": "Meowstic"
+ },
+ "genus": {
+  "ja-hrkt": "よくせいポケモン",
+  "ko": "억제포켓몬",
+  "zh-hant": "抑制寶可夢",
+  "fr": "Pokémon SelfContrôle",
+  "de": "Fassungs-Pokémon",
+  "es": "Pokémon Autocontrol",
+  "it": "Pokémon Temperanza",
+  "en": "Constraint Pokémon",
+  "ja": "よくせいポケモン",
+  "zh-hans": "抑制宝可梦",
+  "es-419": "Pokémon Autocontrol"
+ },
+ "flavor": {
+  "ko": "수컷은 방어 본능이 강해서 자신과 파트너를 지킬 때 최대의 파워를 쓴다.",
+  "en": "The defensive instinct of the males is strong. It’s when they’re protecting themselves or their partners that they unleash their full power."
+ },
+ "varieties": [
+  {
+   "name": "meowstic-male",
+   "is_default": true
+  },
+  {
+   "name": "meowstic-female",
+   "is_default": false
+  },
+  {
+   "name": "meowstic-male-mega",
+   "is_default": false
+  },
+  {
+   "name": "meowstic-female-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "348"
+}

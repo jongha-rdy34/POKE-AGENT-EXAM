@@ -1,0 +1,25 @@
+{
+ "name": "smart-candy",
+ "names": {
+  "ja-hrkt": "ちしきのアメ",
+  "ko": "지식의사탕",
+  "zh-hant": "知識糖果",
+  "fr": "Bonbon Esprit S",
+  "de": "Gripsbonbon",
+  "es": "Caramelo Intelecto",
+  "it": "Caramella acume S",
+  "en": "Smart Candy",
+  "ja": "ちしきのアメ",
+  "zh-hans": "知识糖果",
+  "es-419": "Caramelo Intelecto"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 특수공격을 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Sp. Atk stat.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの とくこうを 上げる。"
+ }
+}

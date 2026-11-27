@@ -1,0 +1,20 @@
+{
+ "name": "snorunt-fur",
+ "names": {
+  "ja-hrkt": "ユキワラシのけ",
+  "ko": "눈꼬마의털",
+  "zh-hant": "雪童子的毛",
+  "fr": "Poils de Stalgamin",
+  "de": "Schneppke-Haar",
+  "es": "Pelo de Snorunt",
+  "it": "Pelo di Snorunt",
+  "en": "Snorunt Fur",
+  "ja": "ユキワラシのけ",
+  "zh-hans": "雪童子的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

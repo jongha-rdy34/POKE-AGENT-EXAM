@@ -1,0 +1,20 @@
+{
+ "name": "gastly-gas",
+ "names": {
+  "ja-hrkt": "ゴースのガス",
+  "ko": "고오스의가스",
+  "zh-hant": "鬼斯的氣體",
+  "fr": "Gaz de Fantominus",
+  "de": "Nebulak-Gas",
+  "es": "Gas de Gastly",
+  "it": "Gas di Gastly",
+  "en": "Gastly Gas",
+  "ja": "ゴースのガス",
+  "zh-hans": "鬼斯的气体"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

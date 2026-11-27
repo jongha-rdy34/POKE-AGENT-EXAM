@@ -1,0 +1,28 @@
+{
+ "name": "red-orb",
+ "names": {
+  "ja-hrkt": "べにいろのたま",
+  "ko": "주홍구슬",
+  "zh-hant": "朱紅色寶珠",
+  "fr": "Gemme Rouge",
+  "de": "Roter Edelstein",
+  "es": "Prisma Rojo",
+  "it": "Gemma rossa",
+  "en": "Red Orb",
+  "ja": "べにいろのたま",
+  "zh-hans": "朱红色宝珠",
+  "es-419": "Prisma Rojo"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Groudon à la Tour Enfouie.",
+  "en": "Summons Groudon to the Embedded Tower."
+ },
+ "flavor": {
+  "en": "A shiny red orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.",
+  "ko": "호연지방의 전설과 깊은 연관이 있다고 전해지는 빨갛게 빛나는 구슬.",
+  "ja": "ホウエン地方の 伝説と 深い 関わりが あると いわれる あかく かがやく たま。"
+ }
+}

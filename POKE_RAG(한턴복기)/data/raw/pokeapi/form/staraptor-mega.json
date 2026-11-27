@@ -1,0 +1,15 @@
+{
+ "name": "staraptor-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Étouraptor",
+  "en": "Mega Staraptor"
+ },
+ "form_names": {
+  "ja-hrkt": "メガムクホーク",
+  "fr": "Méga-Étouraptor",
+  "en": "Mega Staraptor",
+  "ja": "メガムクホーク"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,31 @@
+{
+ "name": "payback",
+ "names": {
+  "ja-hrkt": "しっぺがえし",
+  "ko": "보복",
+  "zh-hant": "以牙還牙",
+  "fr": "Représailles",
+  "de": "Gegenstoß",
+  "es": "Vendetta",
+  "it": "Rivincita",
+  "en": "Payback",
+  "ja": "しっぺがえし",
+  "zh-hans": "以牙还牙",
+  "es-419": "Revancha"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is doubled if the target has already moved this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user stores power, then attacks. This move's power is doubled if the user moves after the target.",
+  "ko": "모아서 공격한다. 상대보다 나중에 공격할 수 있으면 기술의 위력은 2배가 된다."
+ }
+}

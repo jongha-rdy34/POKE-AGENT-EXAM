@@ -1,0 +1,20 @@
+{
+ "name": "salandit-gas",
+ "names": {
+  "ja-hrkt": "ヤトウモリのガス",
+  "ko": "야도뇽의가스",
+  "zh-hant": "夜盜火蜥的氣體",
+  "fr": "Gaz de Tritox",
+  "de": "Molunk-Gas",
+  "es": "Gas de Salandit",
+  "it": "Gas di Salandit",
+  "en": "Salandit Gas",
+  "ja": "ヤトウモリのガス",
+  "zh-hans": "夜盗火蜥的气体"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

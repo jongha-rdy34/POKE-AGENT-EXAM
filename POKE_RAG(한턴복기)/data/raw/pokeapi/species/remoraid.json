@@ -1,0 +1,42 @@
+{
+ "id": 223,
+ "name": "remoraid",
+ "names": {
+  "ja-hrkt": "テッポウオ",
+  "ja-roma": "Teppouo",
+  "ko": "총어",
+  "zh-hant": "鐵炮魚",
+  "fr": "Rémoraid",
+  "de": "Remoraid",
+  "es": "Remoraid",
+  "it": "Remoraid",
+  "en": "Remoraid",
+  "ja": "テッポウオ",
+  "zh-hans": "铁炮鱼",
+  "es-419": "Remoraid"
+ },
+ "genus": {
+  "ja-hrkt": "ふんしゃポケモン",
+  "ko": "분사포켓몬",
+  "zh-hant": "噴射寶可夢",
+  "fr": "Pokémon Jet",
+  "de": "Hochdruck-Pokémon",
+  "es": "Pokémon Reactor",
+  "it": "Pokémon Jet",
+  "en": "Jet Pokémon",
+  "ja": "ふんしゃポケモン",
+  "zh-hans": "喷射宝可梦",
+  "es-419": "Pokémon Reactor"
+ },
+ "flavor": {
+  "en": "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle.",
+  "ko": "빨판처럼 변화한 등지느러미로 만타인에게 달라붙어 먹다 남은 것을 얻어먹고 있다."
+ },
+ "varieties": [
+  {
+   "name": "remoraid",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "114"
+}

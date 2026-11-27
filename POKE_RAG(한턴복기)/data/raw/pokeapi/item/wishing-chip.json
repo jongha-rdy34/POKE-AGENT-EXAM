@@ -1,0 +1,25 @@
+{
+ "name": "wishing-chip",
+ "names": {
+  "ja-hrkt": "ねがいのかけら",
+  "ko": "소원의조각",
+  "zh-hant": "許願星碎片",
+  "fr": "Fragment Vœu",
+  "de": "Wunschsplitter",
+  "es": "Trocito Deseo",
+  "it": "Desioframmento",
+  "en": "Wishing Chip",
+  "ja": "ねがいのかけら",
+  "zh-hans": "许愿星碎片",
+  "es-419": "Trocito Deseo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬굴에 몇 개 던져넣으면 다이맥스 포켓몬이 나타날 때가 있다.",
+  "en": "Toss a number of them into a Pokémon Den for the chance to attract a wild Dynamax Pokémon.",
+  "ja": "ポケモンの 巣穴に いくつか 投げいれると ダイマックスした ポケモンが 現れることが ある。"
+ }
+}

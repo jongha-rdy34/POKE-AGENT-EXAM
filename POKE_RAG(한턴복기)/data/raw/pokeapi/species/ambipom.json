@@ -1,0 +1,42 @@
+{
+ "id": 424,
+ "name": "ambipom",
+ "names": {
+  "ja-hrkt": "エテボース",
+  "ja-roma": "Eteboth",
+  "ko": "겟핸보숭",
+  "zh-hant": "雙尾怪手",
+  "fr": "Capidextre",
+  "de": "Ambidiffel",
+  "es": "Ambipom",
+  "it": "Ambipom",
+  "en": "Ambipom",
+  "ja": "エテボース",
+  "zh-hans": "双尾怪手",
+  "es-419": "Ambipom"
+ },
+ "genus": {
+  "ja-hrkt": "おながポケモン",
+  "ko": "긴꼬리포켓몬",
+  "zh-hant": "長尾寶可夢",
+  "fr": "Pokémon Longqueue",
+  "de": "Langschweif",
+  "es": "Pokémon Cola Larga",
+  "it": "Pokémon Lungacoda",
+  "en": "Long Tail Pokémon",
+  "ja": "おながポケモン",
+  "zh-hans": "长尾宝可梦",
+  "es-419": "Pokémon Cola Larga"
+ },
+ "flavor": {
+  "en": "To affirm their kinship, members of this species will form a ring by linking their newly doubled tails together. On rare occasions, humans have been accepted into such rings.",
+  "ko": "무엇을 하더라도 꼬리를 사용한다. 2개의 꼬리로 껴안는다면 정말로 친밀해졌다는 증거다."
+ },
+ "varieties": [
+  {
+   "name": "ambipom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "93"
+}

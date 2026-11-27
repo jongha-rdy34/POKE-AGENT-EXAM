@@ -1,0 +1,20 @@
+{
+ "name": "petilil-leaf",
+ "names": {
+  "ja-hrkt": "チュリネのはっぱ",
+  "ko": "치릴리의잎",
+  "zh-hant": "百合根娃娃的葉片",
+  "fr": "Feuille de Chlorobule",
+  "de": "Lilminip-Blatt",
+  "es": "Hoja de Petilil",
+  "it": "Foglia di Petilil",
+  "en": "Petilil Leaf",
+  "ja": "チュリネのはっぱ",
+  "zh-hans": "百合根娃娃的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

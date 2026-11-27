@@ -1,0 +1,28 @@
+{
+ "name": "reset-urge",
+ "names": {
+  "ja-hrkt": "フラットコール",
+  "ko": "플랫콜",
+  "zh-hant": "？？？",
+  "fr": "Réamorçage",
+  "de": "Umkehrappell",
+  "es": "Quitaestado",
+  "it": "Ripristino",
+  "en": "Reset Urge",
+  "ja": "フラットコール",
+  "zh-hans": "？？？",
+  "es-419": "Quitaestado"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Réinitialise les changements de stat d'un Pokémon allié.",
+  "en": "Resets a friendly Pokémon’s stat changes."
+ },
+ "flavor": {
+  "en": "When used, it restores any stat changes of an ally Pokémon.",
+  "ko": "사용하면 같은 편 포켓몬의 능력 변화가 원래대로 되돌아간다.",
+  "ja": "使うと 味方の ポケモンの 能力変化が 元に 戻る。"
+ }
+}

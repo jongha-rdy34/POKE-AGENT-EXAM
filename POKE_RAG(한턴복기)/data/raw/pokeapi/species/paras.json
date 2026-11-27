@@ -1,0 +1,42 @@
+{
+ "id": 46,
+ "name": "paras",
+ "names": {
+  "ja-hrkt": "パラス",
+  "ja-roma": "Paras",
+  "ko": "파라스",
+  "zh-hant": "派拉斯",
+  "fr": "Paras",
+  "de": "Paras",
+  "es": "Paras",
+  "it": "Paras",
+  "en": "Paras",
+  "ja": "パラス",
+  "zh-hans": "派拉斯",
+  "es-419": "Paras"
+ },
+ "genus": {
+  "ja-hrkt": "きのこポケモン",
+  "ko": "버섯포켓몬",
+  "zh-hant": "蘑菇寶可夢",
+  "fr": "Pokémon Champignon",
+  "de": "Pilz",
+  "es": "Pokémon Hongo",
+  "it": "Pokémon Fungo",
+  "en": "Mushroom Pokémon",
+  "ja": "きのこポケモン",
+  "zh-hans": "蘑菇宝可梦",
+  "es-419": "Pokémon Hongo"
+ },
+ "flavor": {
+  "en": "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures.",
+  "ko": "구멍을 파서 나무뿌리로부터 영양을 섭취하지만 대부분은 등에 있는 버섯에게 빼앗긴다."
+ },
+ "varieties": [
+  {
+   "name": "paras",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "19"
+}

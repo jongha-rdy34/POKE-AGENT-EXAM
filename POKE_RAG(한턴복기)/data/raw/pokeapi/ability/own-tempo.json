@@ -1,0 +1,23 @@
+{
+ "name": "own-tempo",
+ "names": {
+  "ja-hrkt": "マイペース",
+  "ko": "마이페이스",
+  "zh-hant": "我行我素",
+  "fr": "Tempo Perso",
+  "de": "Tempomacher",
+  "es": "Ritmo Propio",
+  "it": "Mente Locale",
+  "en": "Own Tempo",
+  "ja": "マイペース",
+  "zh-hans": "我行我素",
+  "es-419": "Ritmo Propio"
+ },
+ "effect": {
+  "en": "Prevents confusion."
+ },
+ "flavor": {
+  "en": "The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate.",
+  "ko": "마이페이스라서 혼란 상태가 되지 않는다."
+ }
+}

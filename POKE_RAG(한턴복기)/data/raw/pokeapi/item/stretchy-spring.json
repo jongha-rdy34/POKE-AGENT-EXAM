@@ -1,0 +1,25 @@
+{
+ "name": "stretchy-spring",
+ "names": {
+  "ja-hrkt": "のびたバネ",
+  "ko": "늘어난용수철",
+  "zh-hant": "鬆掉的彈簧",
+  "fr": "Ressort Détendu",
+  "de": "Spiralfeder",
+  "es": "Muelle Estirado",
+  "it": "Molla elastica",
+  "en": "Stretchy Spring",
+  "ja": "のびたバネ",
+  "zh-hans": "松掉的弹簧",
+  "es-419": "Muelle Estirado"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "가늘고 작은 용수철. 완전히 늘어나서 어디에 써야 할지 모르겠다.",
+  "en": "A thin small spring. It’s totally stretched out, and what it’s used for is unknown.",
+  "ja": "細くて 小さい バネ。 すっかり 伸びきって 使い道が みつからない。"
+ }
+}

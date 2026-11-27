@@ -1,0 +1,42 @@
+{
+ "id": 783,
+ "name": "hakamo-o",
+ "names": {
+  "ja-hrkt": "ジャランゴ",
+  "ja-roma": "Jyarango",
+  "ko": "짜랑고우",
+  "zh-hant": "鱗甲龍",
+  "fr": "Écaïd",
+  "de": "Mediras",
+  "es": "Hakamo-o",
+  "it": "Hakamo-o",
+  "en": "Hakamo-o",
+  "ja": "ジャランゴ",
+  "zh-hans": "鳞甲龙",
+  "es-419": "Hakamo-o"
+ },
+ "genus": {
+  "ja-hrkt": "うろこポケモン",
+  "ko": "비늘포켓몬",
+  "zh-hant": "鱗片寶可夢",
+  "fr": "Pokémon Écailles",
+  "de": "Schuppentier-Pokémon",
+  "es": "Pokémon Escamas",
+  "it": "Pokémon Squama",
+  "en": "Scaly Pokémon",
+  "ja": "うろこポケモン",
+  "zh-hans": "鳞片宝可梦",
+  "es-419": "Pokémon Escamas"
+ },
+ "flavor": {
+  "ko": "비늘을 부딪쳐 우렁찬 소리를 낸 후 상대에게 덤벼들어 날카로운 손톱으로 갈기갈기 찢는다.",
+  "en": "Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition."
+ },
+ "varieties": [
+  {
+   "name": "hakamo-o",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "408"
+}

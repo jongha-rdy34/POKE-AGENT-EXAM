@@ -1,0 +1,31 @@
+{
+ "name": "shed-shell",
+ "names": {
+  "ja-hrkt": "きれいなぬけがら",
+  "ko": "아름다운허물",
+  "zh-hant": "美麗空殼",
+  "fr": "Carapace Mue",
+  "de": "Wechselhülle",
+  "es": "Muda Concha",
+  "it": "Disfoguscio",
+  "en": "Shed Shell",
+  "ja": "きれいなぬけがら",
+  "zh-hans": "美丽空壳",
+  "es-419": "Muda de Piel"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur peut ignorer les effets des pièges et se retirer. Il n'est pas possible de se retirer des capacités multitours.",
+  "en": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This discarded carapace enables the holder to switch out of battle without fail.",
+  "ko": "튼튼하고 단단한 허물. 지니게 한 포켓몬은 교대 포켓몬과 반드시 교체할 수 있다.",
+  "ja": "丈夫で 硬い ぬけがら。 持たせた ポケモンは 控えの ポケモンと 必ず いれかわれる。"
+ }
+}

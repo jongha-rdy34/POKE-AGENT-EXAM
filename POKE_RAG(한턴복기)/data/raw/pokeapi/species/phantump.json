@@ -1,0 +1,42 @@
+{
+ "id": 708,
+ "name": "phantump",
+ "names": {
+  "ja-hrkt": "ボクレー",
+  "ja-roma": "Bokurei",
+  "ko": "나목령",
+  "zh-hant": "小木靈",
+  "fr": "Brocélôme",
+  "de": "Paragoni",
+  "es": "Phantump",
+  "it": "Phantump",
+  "en": "Phantump",
+  "ja": "ボクレー",
+  "zh-hans": "小木灵",
+  "es-419": "Phantump"
+ },
+ "genus": {
+  "ja-hrkt": "きりかぶポケモン",
+  "ko": "그루터기포켓몬",
+  "zh-hant": "樹樁寶可夢",
+  "fr": "Pokémon Souche",
+  "de": "Baumstumpf-Pokémon",
+  "es": "Pokémon Tocón",
+  "it": "Pokémon Ceppo",
+  "en": "Stump Pokémon",
+  "ja": "きりかぶポケモン",
+  "zh-hans": "树桩宝可梦",
+  "es-419": "Pokémon Tocón"
+ },
+ "flavor": {
+  "ko": "인간의 어린이를 닮은 목소리로 울어 어른을 숲속으로 유인하여 길을 잃게 한다.",
+  "en": "With a voice like a human child’s, it cries out to lure adults deep into the forest, getting them lost among the trees."
+ },
+ "varieties": [
+  {
+   "name": "phantump",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "364"
+}

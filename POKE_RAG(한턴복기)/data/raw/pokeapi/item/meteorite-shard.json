@@ -1,0 +1,28 @@
+{
+ "name": "meteorite-shard",
+ "names": {
+  "ja-hrkt": "いんせきのかけら",
+  "ko": "운석조각",
+  "zh-hant": "隕石碎片",
+  "fr": "Éclat Météorite",
+  "de": "Meteoritenstück",
+  "es": "Frag. Meteorito",
+  "it": "Framm. meteorite",
+  "en": "Meteorite Shard",
+  "ja": "いんせきのかけら",
+  "zh-hans": "陨石碎片",
+  "es-419": "Frag. Meteorito"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Transforme la Météorite en sa forme finale, permettant à Rayquaza de Méga-Évoluer.",
+  "en": "Causes the Meteorite to transform to its final form, allowing Rayquaza to Mega Evolve."
+ },
+ "flavor": {
+  "ko": "바위 동굴에 떨어진 운석조각 중의 하나. 만지면 은근히 따뜻하다.",
+  "en": "One of the fragments of a Meteorite from Granite Cave. It’s faintly warm to the touch.",
+  "ja": "石の洞窟に 落ちていた いんせきのかけらの ひとつ。 触れると ほのかに 暖かい。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 332,
+ "name": "cacturne",
+ "names": {
+  "ja-hrkt": "ノクタス",
+  "ja-roma": "Noctus",
+  "ko": "밤선인",
+  "zh-hant": "夢歌仙人掌",
+  "fr": "Cacturne",
+  "de": "Noktuska",
+  "es": "Cacturne",
+  "it": "Cacturne",
+  "en": "Cacturne",
+  "ja": "ノクタス",
+  "zh-hans": "梦歌仙人掌",
+  "es-419": "Cacturne"
+ },
+ "genus": {
+  "ja-hrkt": "カカシぐさポケモン",
+  "ko": "허수아비포켓몬",
+  "zh-hant": "稻草人寶可夢",
+  "fr": "Pokémon Épouvantail",
+  "de": "Vogelschock",
+  "es": "Pokémon Espantajo",
+  "it": "Pokémon Spavento",
+  "en": "Scarecrow Pokémon",
+  "ja": "カカシぐさポケモン",
+  "zh-hans": "稻草人宝可梦",
+  "es-419": "Pokémon Espantajo"
+ },
+ "flavor": {
+  "en": "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
+  "ko": "한밤중에 사막을 걷는 여행자의 뒤를 단체로 줄줄 달라붙어 걷는다. 지쳐 움직이지 못하게 되기를 기다리고 있다."
+ },
+ "varieties": [
+  {
+   "name": "cacturne",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "167"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 854,
+ "name": "sinistea",
+ "names": {
+  "ja-hrkt": "ヤバチャ",
+  "ja-roma": "Yabacha",
+  "ko": "데인차",
+  "zh-hant": "來悲茶",
+  "fr": "Théffroi",
+  "de": "Fatalitee",
+  "es": "Sinistea",
+  "it": "Sinistea",
+  "en": "Sinistea",
+  "ja": "ヤバチャ",
+  "zh-hans": "来悲茶",
+  "es-419": "Sinistea"
+ },
+ "genus": {
+  "ja-hrkt": "こうちゃポケモン",
+  "ko": "홍차포켓몬",
+  "zh-hant": "紅茶寶可夢",
+  "fr": "Pokémon Thé Noir",
+  "de": "Schwarztee-Pokémon",
+  "es": "Pokémon Té",
+  "it": "Pokémon Tè",
+  "en": "Black Tea Pokémon",
+  "ja": "こうちゃポケモン",
+  "zh-hans": "红茶宝可梦",
+  "es-419": "Pokémon Té"
+ },
+ "flavor": {
+  "ko": "거처로 삼고 있는 찻잔은 유명한 골동품 식기다. 위작이 많이 나돌고 있다.",
+  "en": "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation."
+ },
+ "varieties": [
+  {
+   "name": "sinistea",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "449"
+}

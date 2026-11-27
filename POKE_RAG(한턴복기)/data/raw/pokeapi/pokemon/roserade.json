@@ -1,0 +1,87 @@
+{
+ "id": 407,
+ "name": "roserade",
+ "species": "roserade",
+ "is_default": true,
+ "types": [
+  "grass",
+  "poison"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 70,
+  "defense": 65,
+  "special-attack": 125,
+  "special-defense": 105,
+  "speed": 90
+ },
+ "abilities": [
+  {
+   "name": "natural-cure",
+   "hidden": false
+  },
+  {
+   "name": "poison-point",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": true
+  }
+ ],
+ "height": 9,
+ "weight": 145,
+ "champions_moves": [
+  "attract",
+  "body-slam",
+  "bullet-seed",
+  "charm",
+  "cotton-spore",
+  "dazzling-gleam",
+  "endure",
+  "energy-ball",
+  "extrasensory",
+  "facade",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "growth",
+  "hyper-beam",
+  "ingrain",
+  "leaf-storm",
+  "leech-seed",
+  "life-dew",
+  "petal-blizzard",
+  "petal-dance",
+  "pin-missile",
+  "poison-jab",
+  "power-whip",
+  "protect",
+  "rain-dance",
+  "rest",
+  "round",
+  "seed-bomb",
+  "shadow-ball",
+  "sleep-powder",
+  "sleep-talk",
+  "sludge-bomb",
+  "snore",
+  "solar-beam",
+  "spikes",
+  "stun-spore",
+  "substitute",
+  "sunny-day",
+  "sweet-scent",
+  "swords-dance",
+  "synthesis",
+  "toxic",
+  "toxic-spikes",
+  "trailblaze",
+  "uproar",
+  "venoshock",
+  "weather-ball",
+  "worry-seed"
+ ]
+}

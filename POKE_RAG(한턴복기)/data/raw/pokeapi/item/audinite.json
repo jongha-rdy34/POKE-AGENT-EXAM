@@ -1,0 +1,28 @@
+{
+ "name": "audinite",
+ "names": {
+  "ja-hrkt": "タブンネナイト",
+  "ko": "다부니나이트",
+  "zh-hant": "差不多娃娃進化石",
+  "fr": "Nanméouïte",
+  "de": "Ohrdochnit",
+  "es": "Audinita",
+  "it": "Audinite",
+  "en": "Audinite",
+  "ja": "タブンネナイト",
+  "zh-hans": "差不多娃娃进化石",
+  "es-419": "Audinita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Nanméouïe de Méga-Évoluer en Méga-Nanméouïe.",
+  "en": "Held: Allows Audino to Mega Evolve into Mega Audino."
+ },
+ "flavor": {
+  "ko": "다부니에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "タブンネに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

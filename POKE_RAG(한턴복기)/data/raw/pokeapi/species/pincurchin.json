@@ -1,0 +1,42 @@
+{
+ "id": 871,
+ "name": "pincurchin",
+ "names": {
+  "ja-hrkt": "バチンウニ",
+  "ja-roma": "Bachinuni",
+  "ko": "찌르성게",
+  "zh-hant": "啪嚓海膽",
+  "fr": "Wattapik",
+  "de": "Britzigel",
+  "es": "Pincurchin",
+  "it": "Pincurchin",
+  "en": "Pincurchin",
+  "ja": "バチンウニ",
+  "zh-hans": "啪嚓海胆",
+  "es-419": "Pincurchin"
+ },
+ "genus": {
+  "ja-hrkt": "うにポケモン",
+  "ko": "성게포켓몬",
+  "zh-hant": "海膽寶可夢",
+  "fr": "Pokémon Oursin",
+  "de": "Seeigel-Pokémon",
+  "es": "Pokémon Erizo de Mar",
+  "it": "Pokémon Echino",
+  "en": "Sea Urchin Pokémon",
+  "ja": "うにポケモン",
+  "zh-hans": "海胆宝可梦",
+  "es-419": "Pokémon Erizo de Mar"
+ },
+ "flavor": {
+  "ko": "가시 하나하나에 전기를 비축하고 있다. 부러진 가시도 3시간 동안 방전을 계속한다.",
+  "en": "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours."
+ },
+ "varieties": [
+  {
+   "name": "pincurchin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "454"
+}

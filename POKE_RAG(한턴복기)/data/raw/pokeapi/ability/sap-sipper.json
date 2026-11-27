@@ -1,0 +1,23 @@
+{
+ "name": "sap-sipper",
+ "names": {
+  "ja-hrkt": "そうしょく",
+  "ko": "초식",
+  "zh-hant": "食草",
+  "fr": "Herbivore",
+  "de": "Vegetarier",
+  "es": "Herbívoro",
+  "it": "Mangiaerba",
+  "en": "Sap Sipper",
+  "ja": "そうしょく",
+  "zh-hans": "食草",
+  "es-419": "Herbívoro"
+ },
+ "effect": {
+  "en": "Absorbs Grass moves, raising Attack one stage."
+ },
+ "flavor": {
+  "en": "The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.",
+  "ko": "풀타입 기술을 받으면 데미지를 입지 않고 공격이 올라간다."
+ }
+}

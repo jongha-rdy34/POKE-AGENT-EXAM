@@ -1,0 +1,20 @@
+{
+ "name": "tm154",
+ "names": {
+  "ja-hrkt": "わざマシン１５４",
+  "ko": "기술머신154",
+  "zh-hant": "招式學習器１５４",
+  "fr": "CT154",
+  "de": "TM154",
+  "es": "MT154",
+  "it": "MT154",
+  "en": "TM154",
+  "ja": "わざマシン１５４",
+  "zh-hans": "招式学习器１５４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

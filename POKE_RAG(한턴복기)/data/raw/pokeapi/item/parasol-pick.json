@@ -1,0 +1,20 @@
+{
+ "name": "parasol-pick",
+ "names": {
+  "ja-hrkt": "パラソルピック",
+  "ko": "파라솔 픽",
+  "zh-hant": "陽傘三明治籤",
+  "fr": "Pique Parasol",
+  "de": "Schirmchen-Pikser",
+  "es": "Palillo Sombrilla",
+  "it": "Ombrellino",
+  "en": "Parasol Pick",
+  "ja": "パラソルピック",
+  "zh-hans": "阳伞三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

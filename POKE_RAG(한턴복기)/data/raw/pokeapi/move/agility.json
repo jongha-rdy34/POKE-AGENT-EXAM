@@ -1,0 +1,31 @@
+{
+ "name": "agility",
+ "names": {
+  "ja-hrkt": "こうそくいどう",
+  "ko": "고속이동",
+  "zh-hant": "高速移動",
+  "fr": "Hâte",
+  "de": "Agilität",
+  "es": "Agilidad",
+  "it": "Agilità",
+  "en": "Agility",
+  "ja": "こうそくいどう",
+  "zh-hans": "高速移动",
+  "es-419": "Agilidad"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 30,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Speed by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat.",
+  "ko": "힘을 빼고 몸을 가볍게 해서 고속으로 움직인다. 자신의 스피드를 크게 올린다."
+ }
+}

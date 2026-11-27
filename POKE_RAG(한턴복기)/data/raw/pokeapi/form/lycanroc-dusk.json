@@ -1,0 +1,23 @@
+{
+ "name": "lycanroc-dusk",
+ "form_name": "dusk",
+ "names": {
+  "fr": "Lougaroc Forme Crépusculaire",
+  "de": "Wolwerock (Zwielicht)",
+  "en": "Dusk Lycanroc"
+ },
+ "form_names": {
+  "ja-hrkt": "たそがれのすがた",
+  "ko": "황혼의 모습",
+  "zh-hant": "黃昏的樣子",
+  "fr": "Forme Crépusculaire",
+  "de": "Zwielichtform",
+  "es": "Forma Crepuscular",
+  "it": "Forma Crepuscolo",
+  "en": "Dusk Form",
+  "ja": "たそがれのすがた",
+  "zh-hans": "黄昏的样子",
+  "es-419": "Forma Crepuscular"
+ },
+ "is_mega": false
+}

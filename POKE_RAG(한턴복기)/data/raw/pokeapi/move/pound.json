@@ -1,0 +1,31 @@
+{
+ "name": "pound",
+ "names": {
+  "ja-hrkt": "はたく",
+  "ko": "막치기",
+  "zh-hant": "拍擊",
+  "fr": "Écras’Face",
+  "de": "Klaps",
+  "es": "Destructor",
+  "it": "Botta",
+  "en": "Pound",
+  "ja": "はたく",
+  "zh-hans": "拍击",
+  "es-419": "Destructor"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 35,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is physically pounded with a long tail, a foreleg, or the like.",
+  "ko": "긴 꼬리나 손 등을 사용하여 상대를 때려서 공격한다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 873,
+ "name": "frosmoth",
+ "names": {
+  "ja-hrkt": "モスノウ",
+  "ja-roma": "Mothnow",
+  "ko": "모스노우",
+  "zh-hant": "雪絨蛾",
+  "fr": "Beldeneige",
+  "de": "Mottineva",
+  "es": "Frosmoth",
+  "it": "Frosmoth",
+  "en": "Frosmoth",
+  "ja": "モスノウ",
+  "zh-hans": "雪绒蛾",
+  "es-419": "Frosmoth"
+ },
+ "genus": {
+  "ja-hrkt": "こおりがポケモン",
+  "ko": "얼음나방포켓몬",
+  "zh-hant": "冰蛾寶可夢",
+  "fr": "Pokémon Mite Givre",
+  "de": "Eismotten-Pokémon",
+  "es": "Pokémon Polillahielo",
+  "it": "Pokémon Gelofalena",
+  "en": "Frost Moth Pokémon",
+  "ja": "こおりがポケモン",
+  "zh-hans": "冰蛾宝可梦",
+  "es-419": "Pokémon Polillahielo"
+ },
+ "flavor": {
+  "ko": "산과 들을 황폐하게 만들면 용서하지 않는다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징한다.",
+  "en": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away."
+ },
+ "varieties": [
+  {
+   "name": "frosmoth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "455"
+}

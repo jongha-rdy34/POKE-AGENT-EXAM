@@ -1,0 +1,28 @@
+{
+ "name": "suite-key",
+ "names": {
+  "ja-hrkt": "ルームキー",
+  "ko": "룸키",
+  "zh-hant": "房間鑰匙",
+  "fr": "Clé Chambre",
+  "de": "Hotelschlüssel",
+  "es": "Llave Suite",
+  "it": "Chiave Suite",
+  "en": "Suite Key",
+  "ja": "ルームキー",
+  "zh-hans": "房间钥匙",
+  "es-419": "Llave Suite"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Ouvre une chambre verrouillée dans l'Hôtel Grand Lac.",
+  "en": "Opens a locked building in the Lakeside Resort."
+ },
+ "flavor": {
+  "en": "A key to one of the suites at a certain luxury hotel by a lake. For some odd reason, it often disappears.",
+  "ko": "호수 근처에 있는 고급 호텔의 룸 키. 왜인지는 모르나 잘 없어진다.",
+  "ja": "湖の ほとりにある 高級ホテルの ルームキー。 なぜか よく なくなってしまう。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "charizard-mega-y",
+ "form_name": "mega-y",
+ "names": {
+  "fr": "Méga-Dracaufeu Y",
+  "de": "Mega-Glurak Y",
+  "en": "Mega Charizard Y"
+ },
+ "form_names": {
+  "ja-hrkt": "メガリザードンＹ",
+  "ko": "메가리자몽Y",
+  "zh-hant": "超級噴火龍Ｙ",
+  "fr": "Méga-Dracaufeu Y",
+  "de": "Mega-Form",
+  "es": "Mega-Charizard Y",
+  "it": "MegaCharizard Y",
+  "en": "Mega Charizard Y",
+  "ja": "メガリザードンＹ",
+  "zh-hans": "超级喷火龙Ｙ",
+  "es-419": "Mega-Charizard Y"
+ },
+ "is_mega": true
+}

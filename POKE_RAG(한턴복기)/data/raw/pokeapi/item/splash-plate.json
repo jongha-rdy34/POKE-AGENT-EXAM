@@ -1,0 +1,32 @@
+{
+ "name": "splash-plate",
+ "names": {
+  "ja-hrkt": "しずくプレート",
+  "ko": "물방울플레이트",
+  "zh-hant": "水滴石板",
+  "fr": "Plaque Hydro",
+  "de": "Wassertafel",
+  "es": "Tabla Linfa",
+  "it": "Lastraidro",
+  "en": "Splash Plate",
+  "ja": "しずくプレート",
+  "zh-hans": "水滴石板",
+  "es-419": "Tabla Linfa"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Eau du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Eau.",
+  "en": "Held: Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Water-type moves.",
+  "ko": "물타입의 석판. 지니게 하면 물타입 기술의 위력이 강해진다.",
+  "ja": "みずの タイプの 石盤。 持たせると みずタイプの 技の 威力が 強まる。"
+ }
+}

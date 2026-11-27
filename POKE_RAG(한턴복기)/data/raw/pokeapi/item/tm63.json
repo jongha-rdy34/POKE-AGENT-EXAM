@@ -1,0 +1,28 @@
+{
+ "name": "tm63",
+ "names": {
+  "ja-hrkt": "わざマシン６３",
+  "ko": "기술머신63",
+  "zh-hant": "招式學習器６３",
+  "fr": "CT63",
+  "de": "TM63",
+  "es": "MT63",
+  "it": "MT63",
+  "en": "TM63",
+  "ja": "わざマシン６３",
+  "zh-hans": "招式学习器６３",
+  "es-419": "MT63"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Embargo à un Pokémon compatible.",
+  "en": "Teaches Embargo to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "An energy-draining punch. The user’s HP is restored by half the damage taken by the target.",
+  "ko": "주먹으로 상대의 힘을 흡수한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.",
+  "ja": "こぶしから 相手の 力を 吸い取る。 与えた ダメージの 半分の ＨＰを 回復できる。"
+ }
+}

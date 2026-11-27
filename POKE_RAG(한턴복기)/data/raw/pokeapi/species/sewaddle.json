@@ -1,0 +1,42 @@
+{
+ "id": 540,
+ "name": "sewaddle",
+ "names": {
+  "ja-hrkt": "クルミル",
+  "ja-roma": "Kurumiru",
+  "ko": "두르보",
+  "zh-hant": "蟲寶包",
+  "fr": "Larveyette",
+  "de": "Strawickl",
+  "es": "Sewaddle",
+  "it": "Sewaddle",
+  "en": "Sewaddle",
+  "ja": "クルミル",
+  "zh-hans": "虫宝包",
+  "es-419": "Sewaddle"
+ },
+ "genus": {
+  "ja-hrkt": "さいほうポケモン",
+  "ko": "재봉포켓몬",
+  "zh-hant": "裁縫寶可夢",
+  "fr": "Pokémon Couture",
+  "de": "Schneider",
+  "es": "Pokémon Sastre",
+  "it": "Pokémon Grancucito",
+  "en": "Sewing Pokémon",
+  "ja": "さいほうポケモン",
+  "zh-hans": "裁缝宝可梦",
+  "es-419": "Pokémon Sastre"
+ },
+ "flavor": {
+  "en": "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
+  "ko": "잎사귀로 옷을 만들기 때문에 패션 디자이너에게 마스코트로 인기가 있다."
+ },
+ "varieties": [
+  {
+   "name": "sewaddle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "276"
+}

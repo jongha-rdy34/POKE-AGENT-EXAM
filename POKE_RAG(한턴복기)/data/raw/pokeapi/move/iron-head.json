@@ -1,0 +1,31 @@
+{
+ "name": "iron-head",
+ "names": {
+  "ja-hrkt": "アイアンヘッド",
+  "ko": "아이언헤드",
+  "zh-hant": "鐵頭",
+  "fr": "Tête de Fer",
+  "de": "Eisenschädel",
+  "es": "Cabeza de Hierro",
+  "it": "Metaltestata",
+  "en": "Iron Head",
+  "ja": "アイアンヘッド",
+  "zh-hans": "铁头",
+  "es-419": "Cabeza de Hierro"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user slams the target with its steel-hard head. This may also make the target flinch.",
+  "ko": "강철과 같은 단단한 머리로 공격한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

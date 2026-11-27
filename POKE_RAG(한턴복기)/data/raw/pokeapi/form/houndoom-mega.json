@@ -1,0 +1,23 @@
+{
+ "name": "houndoom-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Démolosse",
+  "de": "Mega-Hundemon",
+  "en": "Mega Houndoom"
+ },
+ "form_names": {
+  "ja-hrkt": "メガヘルガー",
+  "ko": "메가헬가",
+  "zh-hant": "超級黑魯加",
+  "fr": "Méga-Démolosse",
+  "de": "Mega-Form",
+  "es": "Mega-Houndoom",
+  "it": "MegaHoundoom",
+  "en": "Mega Houndoom",
+  "ja": "メガヘルガー",
+  "zh-hans": "超级黑鲁加",
+  "es-419": "Mega-Houndoom"
+ },
+ "is_mega": true
+}

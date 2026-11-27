@@ -1,0 +1,20 @@
+{
+ "name": "cufant-tarnish",
+ "names": {
+  "ja-hrkt": "ゾウドウのさび",
+  "ko": "끼리동의녹",
+  "zh-hant": "銅象的鏽",
+  "fr": "Rouille de Charibari",
+  "de": "Kupfanti-Patina",
+  "es": "Óxido de Cufant",
+  "it": "Ruggine di Cufant",
+  "en": "Cufant Tarnish",
+  "ja": "ゾウドウのさび",
+  "zh-hans": "铜象的锈"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

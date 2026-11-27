@@ -1,0 +1,25 @@
+{
+ "name": "tr49",
+ "names": {
+  "ja-hrkt": "わざレコード４９",
+  "ko": "기술레코드49",
+  "zh-hant": "招式紀錄４９",
+  "fr": "DT49",
+  "de": "TP49",
+  "es": "DT49",
+  "it": "DT49",
+  "en": "TR49",
+  "ja": "わざレコード４９",
+  "zh-hans": "招式记录４９",
+  "es-419": "DT49"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "조용히 정신을 통일하고 마음을 가라앉혀서 자신의 특수공격과 특수방어를 올린다.",
+  "en": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.",
+  "ja": "静かに 精神を 統一し 心を 鎮めることで 自分の 特攻と 特防を あげる。"
+ }
+}

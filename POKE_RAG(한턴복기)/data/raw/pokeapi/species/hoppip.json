@@ -1,0 +1,42 @@
+{
+ "id": 187,
+ "name": "hoppip",
+ "names": {
+  "ja-hrkt": "ハネッコ",
+  "ja-roma": "Hanecco",
+  "ko": "통통코",
+  "zh-hant": "毽子草",
+  "fr": "Granivol",
+  "de": "Hoppspross",
+  "es": "Hoppip",
+  "it": "Hoppip",
+  "en": "Hoppip",
+  "ja": "ハネッコ",
+  "zh-hans": "毽子草",
+  "es-419": "Hoppip"
+ },
+ "genus": {
+  "ja-hrkt": "わたくさポケモン",
+  "ko": "솜풀포켓몬",
+  "zh-hant": "棉草寶可夢",
+  "fr": "Pokémon Pissenlit",
+  "de": "Löwenzahn",
+  "es": "Pokémon Algadón",
+  "it": "Pokémon Gramigna",
+  "en": "Cottonweed Pokémon",
+  "ja": "わたくさポケモン",
+  "zh-hans": "棉草宝可梦",
+  "es-419": "Pokémon Algadón"
+ },
+ "flavor": {
+  "en": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
+  "ko": "바람을 타고 둥둥 떠다니는 포켓몬이다. 강풍의 기척을 느끼면 동료끼리 잎사귀를 휘감아 날아가지 않도록 준비한다."
+ },
+ "varieties": [
+  {
+   "name": "hoppip",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "92"
+}

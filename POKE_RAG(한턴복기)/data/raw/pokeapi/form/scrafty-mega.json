@@ -1,0 +1,15 @@
+{
+ "name": "scrafty-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Baggaïd",
+  "en": "Mega Scrafty"
+ },
+ "form_names": {
+  "ja-hrkt": "メガズルズキン",
+  "fr": "Méga-Baggaïd",
+  "en": "Mega Scrafty",
+  "ja": "メガズルズキン"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,31 @@
+{
+ "name": "lagging-tail",
+ "names": {
+  "ja-hrkt": "こうこうのしっぽ",
+  "ko": "느림보꼬리",
+  "zh-hant": "後攻之尾",
+  "fr": "Ralentiqueue",
+  "de": "Schwerschweif",
+  "es": "Cola Plúmbea",
+  "it": "Rallentocoda",
+  "en": "Lagging Tail",
+  "ja": "こうこうのしっぽ",
+  "zh-hans": "后攻之尾",
+  "es-419": "Cola Plúmbea"
+ },
+ "category": "bad-held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités du porteur agissent en dernier pour une même priorité.",
+  "en": "Held: Holder moves last in its priority bracket."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.",
+  "ko": "매우 무거운 무언가의 꼬리. 지니게 하면 여느 때보다 행동이 느려진다.",
+  "ja": "とても 重たい なにかの しっぽ。 持たせると いつもより 行動が 遅くなる。"
+ }
+}

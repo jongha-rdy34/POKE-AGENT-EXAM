@@ -1,0 +1,42 @@
+{
+ "id": 294,
+ "name": "loudred",
+ "names": {
+  "ja-hrkt": "ドゴーム",
+  "ja-roma": "Dogohmb",
+  "ko": "노공룡",
+  "zh-hant": "吼爆彈",
+  "fr": "Ramboum",
+  "de": "Krakeelo",
+  "es": "Loudred",
+  "it": "Loudred",
+  "en": "Loudred",
+  "ja": "ドゴーム",
+  "zh-hans": "吼爆弹",
+  "es-419": "Loudred"
+ },
+ "genus": {
+  "ja-hrkt": "おおごえポケモン",
+  "ko": "큰목소리포켓몬",
+  "zh-hant": "大聲寶可夢",
+  "fr": "Pokémon Grosse Voix",
+  "de": "Lauthals-Pokémon",
+  "es": "Pokémon Chillón",
+  "it": "Pokémon Vocione",
+  "en": "Big Voice Pokémon",
+  "ja": "おおごえポケモン",
+  "zh-hans": "大声宝可梦",
+  "es-419": "Pokémon Chillón"
+ },
+ "flavor": {
+  "en": "The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them.",
+  "ko": "큰 목소리는 청각뿐만 아니라 공기의 압력마저 변화시켜 상대를 날려버리고 데미지를 준다."
+ },
+ "varieties": [
+  {
+   "name": "loudred",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "145"
+}

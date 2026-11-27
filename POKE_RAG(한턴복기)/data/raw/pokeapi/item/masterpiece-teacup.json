@@ -1,0 +1,20 @@
+{
+ "name": "masterpiece-teacup",
+ "names": {
+  "ja-hrkt": "ケッサクのちゃわん",
+  "ko": "걸작찻잔",
+  "zh-hant": "傑作茶碗",
+  "fr": "Bol Exceptionnel",
+  "de": "Edle Teeschale",
+  "es": "Cuenco Exquisito",
+  "it": "Tazza eccezionale",
+  "en": "Masterpiece Teacup",
+  "ja": "ボンサクのちゃわん",
+  "zh-hans": "杰作茶碗"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

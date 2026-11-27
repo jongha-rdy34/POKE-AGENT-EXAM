@@ -1,0 +1,28 @@
+{
+ "name": "relic-gold",
+ "names": {
+  "ja-hrkt": "こだいのきんか",
+  "ko": "고대의금화",
+  "zh-hant": "古代金幣",
+  "fr": "Vieux Ducat",
+  "de": "Alter Dukat",
+  "es": "Real Oro",
+  "it": "Doblonantico",
+  "en": "Relic Gold",
+  "ja": "こだいのきんか",
+  "zh-hans": "古代金币",
+  "es-419": "Real Oro"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 10000 Pokédollars.",
+  "en": "Sell to Villa Owner 10000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A gold coin used by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 사용된 금화.",
+  "ja": "３０００年ほど 昔の 文明で 使われた 金貨。"
+ }
+}

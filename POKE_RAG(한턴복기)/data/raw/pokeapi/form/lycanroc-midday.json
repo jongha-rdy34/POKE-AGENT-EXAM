@@ -1,0 +1,23 @@
+{
+ "name": "lycanroc-midday",
+ "form_name": "midday",
+ "names": {
+  "fr": "Lougaroc Forme Diurne",
+  "de": "Wolwerock (Tag)",
+  "en": "Midday Lycanroc"
+ },
+ "form_names": {
+  "ja-hrkt": "まひるのすがた",
+  "ko": "한낮의 모습",
+  "zh-hant": "白晝的樣子",
+  "fr": "Forme Diurne",
+  "de": "Tagform",
+  "es": "Forma Diurna",
+  "it": "Forma Giorno",
+  "en": "Midday Form",
+  "ja": "まひるのすがた",
+  "zh-hans": "白昼的样子",
+  "es-419": "Forma Diurna"
+ },
+ "is_mega": false
+}

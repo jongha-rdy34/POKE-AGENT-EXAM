@@ -1,0 +1,20 @@
+{
+ "name": "smiling-vee-pick",
+ "names": {
+  "ja-hrkt": "ニコブイピック",
+  "ko": "방긋브이 픽",
+  "zh-hant": "笑臉伊布三明治籤",
+  "fr": "Pique Évo Rit",
+  "de": "Kicher-Voli-Pikser",
+  "es": "Palillo Eevee Feliz",
+  "it": "Stecchino veevee",
+  "en": "Smiling Vee Pick",
+  "ja": "ニコブイピック",
+  "zh-hans": "笑脸伊布三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

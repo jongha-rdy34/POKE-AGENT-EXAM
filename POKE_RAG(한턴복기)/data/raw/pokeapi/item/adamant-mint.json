@@ -1,0 +1,25 @@
+{
+ "name": "adamant-mint",
+ "names": {
+  "ja-hrkt": "いじっぱりミント",
+  "ko": "고집민트",
+  "zh-hant": "固執薄荷",
+  "fr": "Aromate Rigide",
+  "de": "Hart-Minze",
+  "es": "Menta Firme",
+  "it": "Menta Decisa",
+  "en": "Adamant Mint",
+  "ja": "いじっぱりミント",
+  "zh-hans": "固执薄荷",
+  "es-419": "Menta Firme"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 공격이 오르기 쉬워지지만 특수공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Atk will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 攻撃が 上がりやすく なるが 特攻は 上がりにくくなる ミント。"
+ }
+}

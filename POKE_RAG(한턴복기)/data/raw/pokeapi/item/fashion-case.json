@@ -1,0 +1,28 @@
+{
+ "name": "fashion-case",
+ "names": {
+  "ja-hrkt": "アクセサリーいれ",
+  "ko": "액세서리상자",
+  "zh-hant": "飾品盒",
+  "fr": "Coffret Mode",
+  "de": "Modekoffer",
+  "es": "Caja Corazón",
+  "it": "Scatola Chic",
+  "en": "Fashion Case",
+  "ja": "アクセサリーいれ",
+  "zh-hans": "饰品盒",
+  "es-419": "Caja Corazón"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Range les Accessoires Pokémon pour utilisation en Concours.",
+  "en": "Holds Pokémon Accessories for use in Contests."
+ },
+ "flavor": {
+  "en": "A lovely case to store colorful Props for your Pokémon to wear in a musical.",
+  "ko": "뮤지컬에서 포켓몬에게 다는 각양각색의 굿즈를 많이 넣을 수 있는 아름답고 멋진 케이스.",
+  "ja": "ミュージカルで ポケモンに つける いろとりどりの グッズを たくさん しまえる きれいで すてきなケース。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 78,
+ "name": "rapidash",
+ "names": {
+  "ja-hrkt": "ギャロップ",
+  "ja-roma": "Gallop",
+  "ko": "날쌩마",
+  "zh-hant": "烈焰馬",
+  "fr": "Galopa",
+  "de": "Gallopa",
+  "es": "Rapidash",
+  "it": "Rapidash",
+  "en": "Rapidash",
+  "ja": "ギャロップ",
+  "zh-hans": "烈焰马",
+  "es-419": "Rapidash"
+ },
+ "genus": {
+  "ja-hrkt": "ひのうまポケモン",
+  "ko": "불의말포켓몬",
+  "zh-hant": "火馬寶可夢",
+  "fr": "Pokémon Cheval Feu",
+  "de": "Feuerpferd-Pokémon",
+  "es": "Pokémon Caballo Fuego",
+  "it": "Pokémon Cavalfuoco",
+  "en": "Fire Horse Pokémon",
+  "ja": "ひのうまポケモン",
+  "zh-hans": "火马宝可梦",
+  "es-419": "Pokémon Caballo Fuego"
+ },
+ "flavor": {
+  "en": "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half.",
+  "ko": "가장 발이 빠른 날쌩마가 리더가 되어 무리가 갈 장소나 달리는 속도를 정한다."
+ },
+ "varieties": [
+  {
+   "name": "rapidash",
+   "is_default": true
+  },
+  {
+   "name": "rapidash-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "32"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 225,
+ "name": "delibird",
+ "names": {
+  "ja-hrkt": "デリバード",
+  "ja-roma": "Delibird",
+  "ko": "딜리버드",
+  "zh-hant": "信使鳥",
+  "fr": "Cadoizo",
+  "de": "Botogel",
+  "es": "Delibird",
+  "it": "Delibird",
+  "en": "Delibird",
+  "ja": "デリバード",
+  "zh-hans": "信使鸟",
+  "es-419": "Delibird"
+ },
+ "genus": {
+  "ja-hrkt": "はこびやポケモン",
+  "ko": "배달포켓몬",
+  "zh-hant": "搬運寶可夢",
+  "fr": "Pokémon Livraison",
+  "de": "Lieferanten-Pokémon",
+  "es": "Pokémon Reparto",
+  "it": "Pokémon Consegna",
+  "en": "Delivery Pokémon",
+  "ja": "はこびやポケモン",
+  "zh-hans": "搬运宝可梦",
+  "es-419": "Pokémon Reparto"
+ },
+ "flavor": {
+  "en": "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food.",
+  "ko": "자신의 먹이를 사람이나 포켓몬에게 나눠주는 습성이 있어 언제나 먹이를 찾아다닌다."
+ },
+ "varieties": [
+  {
+   "name": "delibird",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "115"
+}

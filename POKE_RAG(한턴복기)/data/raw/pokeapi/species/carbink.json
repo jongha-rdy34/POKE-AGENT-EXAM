@@ -1,0 +1,42 @@
+{
+ "id": 703,
+ "name": "carbink",
+ "names": {
+  "ja-hrkt": "メレシー",
+  "ja-roma": "Melecie",
+  "ko": "멜리시",
+  "zh-hant": "小碎鑽",
+  "fr": "Strassie",
+  "de": "Rocara",
+  "es": "Carbink",
+  "it": "Carbink",
+  "en": "Carbink",
+  "ja": "メレシー",
+  "zh-hans": "小碎钻",
+  "es-419": "Carbink"
+ },
+ "genus": {
+  "ja-hrkt": "ほうせきポケモン",
+  "ko": "보석포켓몬",
+  "zh-hant": "寶石寶可夢",
+  "fr": "Pokémon Joyau",
+  "de": "Edelstein-Pokémon",
+  "es": "Pokémon Joya",
+  "it": "Pokémon Gemma",
+  "en": "Jewel Pokémon",
+  "ja": "ほうせきポケモン",
+  "zh-hans": "宝石宝可梦",
+  "es-419": "Pokémon Joya"
+ },
+ "flavor": {
+  "ko": "세상 어딘가에는 멜리시가 많이 잠들어 있는 광맥이 있고 무리의 여왕도 있다고 한다.",
+  "en": "It’s said that somewhere in the world, there’s a mineral vein housing a large pack of slumbering Carbink. It’s also said that this pack has a queen."
+ },
+ "varieties": [
+  {
+   "name": "carbink",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "361"
+}

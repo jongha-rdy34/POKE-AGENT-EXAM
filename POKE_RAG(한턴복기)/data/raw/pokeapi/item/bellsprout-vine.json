@@ -1,0 +1,20 @@
+{
+ "name": "bellsprout-vine",
+ "names": {
+  "ja-hrkt": "マダツボミのツル",
+  "ko": "모다피의덩굴",
+  "zh-hant": "喇叭芽的藤蔓",
+  "fr": "Liane de Chétiflor",
+  "de": "Knofensa-Ranke",
+  "es": "Liana de Bellsprout",
+  "it": "Viticcio di Bellsprout",
+  "en": "Bellsprout Vine",
+  "ja": "マダツボミのツル",
+  "zh-hans": "喇叭芽的藤蔓"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

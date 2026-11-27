@@ -1,0 +1,42 @@
+{
+ "id": 622,
+ "name": "golett",
+ "names": {
+  "ja-hrkt": "ゴビット",
+  "ja-roma": "Gobit",
+  "ko": "골비람",
+  "zh-hant": "泥偶小人",
+  "fr": "Gringolem",
+  "de": "Golbit",
+  "es": "Golett",
+  "it": "Golett",
+  "en": "Golett",
+  "ja": "ゴビット",
+  "zh-hans": "泥偶小人",
+  "es-419": "Golett"
+ },
+ "genus": {
+  "ja-hrkt": "ゴーレムポケモン",
+  "ko": "골렘포켓몬",
+  "zh-hant": "魔像寶可夢",
+  "fr": "Pokémon Golem Ancien",
+  "de": "Urgolem-Pokémon",
+  "es": "Pokémon Autómata",
+  "it": "Pokémon Statuanimata",
+  "en": "Automaton Pokémon",
+  "ja": "ゴーレムポケモン",
+  "zh-hans": "魔像宝可梦",
+  "es-419": "Pokémon Autómata"
+ },
+ "flavor": {
+  "en": "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.",
+  "ko": "점토로 만들어진 포켓몬이다. 수천 년 전 주인의 명령을 지금도 따르고 있다."
+ },
+ "varieties": [
+  {
+   "name": "golett",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "316"
+}

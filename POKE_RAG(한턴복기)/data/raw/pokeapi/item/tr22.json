@@ -1,0 +1,25 @@
+{
+ "name": "tr22",
+ "names": {
+  "ja-hrkt": "わざレコード２２",
+  "ko": "기술레코드22",
+  "zh-hant": "招式紀錄２２",
+  "fr": "DT22",
+  "de": "TP22",
+  "es": "DT22",
+  "it": "DT22",
+  "en": "TR22",
+  "ja": "わざレコード２２",
+  "zh-hans": "招式记录２２",
+  "es-419": "DT22"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다.",
+  "en": "Unsanitary sludge is hurled at the target. This may also poison the target.",
+  "ja": "汚い ヘドロを 相手に 投げつけて 攻撃する。 毒状態に することが ある。"
+ }
+}

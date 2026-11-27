@@ -1,0 +1,42 @@
+{
+ "id": 688,
+ "name": "binacle",
+ "names": {
+  "ja-hrkt": "カメテテ",
+  "ja-roma": "Kametete",
+  "ko": "거북손손",
+  "zh-hant": "龜腳腳",
+  "fr": "Opermine",
+  "de": "Bithora",
+  "es": "Binacle",
+  "it": "Binacle",
+  "en": "Binacle",
+  "ja": "カメテテ",
+  "zh-hans": "龟脚脚",
+  "es-419": "Binacle"
+ },
+ "genus": {
+  "ja-hrkt": "ふたてポケモン",
+  "ko": "두손포켓몬",
+  "zh-hant": "雙手寶可夢",
+  "fr": "Pokémon Bimane",
+  "de": "Krallenduo-Pokémon",
+  "es": "Pokémon Dos Manos",
+  "it": "Pokémon Bimano",
+  "en": "Two-Handed Pokémon",
+  "ja": "ふたてポケモン",
+  "zh-hans": "双手宝可梦",
+  "es-419": "Pokémon Dos Manos"
+ },
+ "flavor": {
+  "ko": "2마리의 호흡이 맞지 않으면 공격과 방어 어느 쪽도 변변치 않게 되어 살아남지 못한다.",
+  "en": "If the two don’t work well together, both their offense and defense fall apart. Without good teamwork, they won’t survive."
+ },
+ "varieties": [
+  {
+   "name": "binacle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "353"
+}

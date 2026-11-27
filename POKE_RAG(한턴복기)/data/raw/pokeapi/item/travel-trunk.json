@@ -1,0 +1,28 @@
+{
+ "name": "travel-trunk",
+ "names": {
+  "ja-hrkt": "いしょうトランク",
+  "ko": "의상트렁크",
+  "zh-hant": "衣物箱",
+  "fr": "Malle Penderie",
+  "de": "Kleiderkoffer",
+  "es": "Maleta",
+  "it": "Baule per abiti",
+  "en": "Travel Trunk",
+  "ja": "いしょうトランク",
+  "zh-hans": "衣物箱",
+  "es-419": "Maleta"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Non obtenable, mais permet au joueur de changer de vêtements n'importe où.",
+  "en": "Unobtainable, but allows the player to change clothes anywhere."
+ },
+ "flavor": {
+  "ko": "어떤 패션 아이템이라도 담아둘 수 있고 가벼우며 수납력이 뛰어난 트렁크.",
+  "en": "A light and yet incredibly effective trunk, which can contain every last piece of clothing that can be bought.",
+  "ja": "どんな ファッションアイテムでも 詰めこんでおける 収納力 抜群の 軽い トランク。"
+ }
+}

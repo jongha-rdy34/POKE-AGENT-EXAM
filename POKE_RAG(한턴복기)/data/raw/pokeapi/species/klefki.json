@@ -1,0 +1,42 @@
+{
+ "id": 707,
+ "name": "klefki",
+ "names": {
+  "ja-hrkt": "クレッフィ",
+  "ja-roma": "Cleffy",
+  "ko": "클레피",
+  "zh-hant": "鑰圈兒",
+  "fr": "Trousselin",
+  "de": "Clavion",
+  "es": "Klefki",
+  "it": "Klefki",
+  "en": "Klefki",
+  "ja": "クレッフィ",
+  "zh-hans": "钥圈儿",
+  "es-419": "Klefki"
+ },
+ "genus": {
+  "ja-hrkt": "かぎたばポケモン",
+  "ko": "열쇠꾸러미포켓몬",
+  "zh-hant": "鑰匙串寶可夢",
+  "fr": "Pokémon Trousseau",
+  "de": "Schlüssel-Pokémon",
+  "es": "Pokémon Llavero",
+  "it": "Pokémon Portachiavi",
+  "en": "Key Ring Pokémon",
+  "ja": "かぎたばポケモン",
+  "zh-hans": "钥匙串宝可梦",
+  "es-419": "Pokémon Llavero"
+ },
+ "flavor": {
+  "ko": "머리끝으로 금속 이온을 흡수한다. 열쇠를 너무 좋아한 나머지 흉내를 내서 열쇠를 닮은 모습이 되었다고 한다.",
+  "en": "Klefki sucks in metal ions with the horn topping its head. It seems this Pokémon loves keys so much that its head needed to look like one, too."
+ },
+ "varieties": [
+  {
+   "name": "klefki",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "363"
+}

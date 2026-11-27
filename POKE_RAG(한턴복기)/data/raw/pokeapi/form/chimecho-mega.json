@@ -1,0 +1,15 @@
+{
+ "name": "chimecho-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Éoko",
+  "en": "Mega Chimecho"
+ },
+ "form_names": {
+  "ja-hrkt": "メガチリーン",
+  "fr": "Méga-Éoko",
+  "en": "Mega Chimecho",
+  "ja": "メガチリーン"
+ },
+ "is_mega": true
+}

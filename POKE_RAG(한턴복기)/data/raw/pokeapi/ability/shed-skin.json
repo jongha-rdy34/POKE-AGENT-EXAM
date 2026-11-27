@@ -1,0 +1,23 @@
+{
+ "name": "shed-skin",
+ "names": {
+  "ja-hrkt": "だっぴ",
+  "ko": "탈피",
+  "zh-hant": "蛻皮",
+  "fr": "Mue",
+  "de": "Expidermis",
+  "es": "Mudar",
+  "it": "Muta",
+  "en": "Shed Skin",
+  "ja": "だっぴ",
+  "zh-hans": "蜕皮",
+  "es-419": "Mudar"
+ },
+ "effect": {
+  "en": "Has a 33% chance of curing any major status ailment after each turn."
+ },
+ "flavor": {
+  "en": "The Pokémon may cure its own status conditions by shedding its skin.",
+  "ko": "몸의 껍질을 벗어 던져 상태 이상을 회복할 때가 있다."
+ }
+}

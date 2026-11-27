@@ -1,0 +1,25 @@
+{
+ "name": "reins-of-unity",
+ "names": {
+  "ja-hrkt": "キズナのタヅナ",
+  "ko": "유대의고삐",
+  "zh-hant": "牽絆韁繩",
+  "fr": "Rênes de l’Unité",
+  "de": "Zügel des Bundes",
+  "es": "Riendas Unión",
+  "it": "Briglie legame",
+  "en": "Reins of Unity",
+  "ja": "キズナのタヅナ",
+  "zh-hans": "牵绊缰绳",
+  "es-419": "Riendas Unión"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "빛에 비추면 반짝이는 천. 과거에 인간들이 풍요의 왕에게 감사하는 마음을 담아 바쳤다고 한다.",
+  "en": "Cords that shine when you hold them up to the light. The people of old times presented these to the King of Bountiful Harvests to express their gratitude.",
+  "ja": "光に かざすと かがやく 布。 昔 人間が 豊穣の王に 感謝の 気持ちとして 捧げていた。"
+ }
+}

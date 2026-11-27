@@ -1,0 +1,23 @@
+{
+ "name": "stamina",
+ "names": {
+  "ja-hrkt": "じきゅうりょく",
+  "ko": "지구력",
+  "zh-hant": "持久力",
+  "fr": "Endurance",
+  "de": "Zähigkeit",
+  "es": "Firmeza",
+  "it": "Sopportazione",
+  "en": "Stamina",
+  "ja": "じきゅうりょく",
+  "zh-hans": "持久力",
+  "es-419": "Firmeza"
+ },
+ "effect": {
+  "en": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+ },
+ "flavor": {
+  "ko": "공격을 받으면 방어가 올라간다.",
+  "en": "Boosts the Defense stat when the Pokémon is hit by an attack."
+ }
+}

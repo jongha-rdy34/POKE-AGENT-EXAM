@@ -1,0 +1,23 @@
+{
+ "name": "rotom-wash",
+ "form_name": "wash",
+ "names": {
+  "fr": "Motisma Lavage",
+  "de": "Wasch-Rotom",
+  "en": "Wash Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "ウォッシュロトム",
+  "ko": "워시로토무",
+  "zh-hant": "清洗洛托姆",
+  "fr": "Motisma Lavage",
+  "de": "Wasch-Rotom",
+  "es": "Rotom Lavado",
+  "it": "Rotom Lavaggio",
+  "en": "Wash Rotom",
+  "ja": "ウォッシュロトム",
+  "zh-hans": "清洗洛托姆",
+  "es-419": "Rotom Lavado"
+ },
+ "is_mega": false
+}

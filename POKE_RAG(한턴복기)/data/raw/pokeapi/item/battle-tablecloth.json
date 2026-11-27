@@ -1,0 +1,20 @@
+{
+ "name": "battle-tablecloth",
+ "names": {
+  "ja-hrkt": "しょうぶクロス",
+  "ko": "배틀 테이블보",
+  "zh-hant": "對決桌巾",
+  "fr": "Nappe Combat Pokémon",
+  "de": "Action-Tischtuch",
+  "es": "Mantel Combate",
+  "it": "Tovaglia sfida",
+  "en": "Battle Tablecloth",
+  "ja": "しょうぶクロス",
+  "zh-hans": "对决桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

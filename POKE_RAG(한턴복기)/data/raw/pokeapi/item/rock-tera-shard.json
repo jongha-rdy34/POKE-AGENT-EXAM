@@ -1,0 +1,20 @@
+{
+ "name": "rock-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースいわ",
+  "ko": "테라피스 바위",
+  "zh-hant": "岩石太晶碎塊",
+  "fr": "Téra-Éclat Roche",
+  "de": "Tera-Stück (Gestein)",
+  "es": "Teralito Roca",
+  "it": "Teralite Roccia",
+  "en": "Rock Tera Shard",
+  "ja": "テラピースいわ",
+  "zh-hans": "岩石太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

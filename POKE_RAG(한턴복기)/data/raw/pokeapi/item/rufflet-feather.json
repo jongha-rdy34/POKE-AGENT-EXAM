@@ -1,0 +1,20 @@
+{
+ "name": "rufflet-feather",
+ "names": {
+  "ja-hrkt": "ワシボンのはね",
+  "ko": "수리둥보의깃털",
+  "zh-hant": "毛頭小鷹的羽毛",
+  "fr": "Plume de Furaiglon",
+  "de": "Geronimatz-Feder",
+  "es": "Pluma de Rufflet",
+  "it": "Penna di Rufflet",
+  "en": "Rufflet Feather",
+  "ja": "ワシボンのはね",
+  "zh-hans": "毛头小鹰的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,35 @@
+{
+ "id": 1021,
+ "name": "raging-bolt",
+ "names": {
+  "ja-hrkt": "タケルライコ",
+  "ja-roma": "Takeruraiko",
+  "ko": "날뛰는우레",
+  "zh-hant": "猛雷鼓",
+  "fr": "Ire-Foudre",
+  "de": "Furienblitz",
+  "es": "Electrofuria",
+  "it": "Furiatonante",
+  "en": "Raging Bolt",
+  "ja": "タケルライコ",
+  "zh-hans": "猛雷鼓",
+  "es-419": "Electrofuria"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "fr": "Paradoxe",
+  "en": "Paradox Pokémon",
+  "ja": "パラドックスポケモン"
+ },
+ "flavor": {
+  "en": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor."
+ },
+ "varieties": [
+  {
+   "name": "raging-bolt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "545"
+}

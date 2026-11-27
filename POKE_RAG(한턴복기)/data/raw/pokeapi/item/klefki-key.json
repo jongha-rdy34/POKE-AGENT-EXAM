@@ -1,0 +1,20 @@
+{
+ "name": "klefki-key",
+ "names": {
+  "ja-hrkt": "クレッフィのかぎ",
+  "ko": "클레피의열쇠",
+  "zh-hant": "鑰圈兒的鑰匙",
+  "fr": "Clé de Trousselin",
+  "de": "Clavion-Schlüssel",
+  "es": "Llave de Klefki",
+  "it": "Chiave di Klefki",
+  "en": "Klefki Key",
+  "ja": "クレッフィのかぎ",
+  "zh-hans": "钥圈儿的钥匙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

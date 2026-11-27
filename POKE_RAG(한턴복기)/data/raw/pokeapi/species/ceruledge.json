@@ -1,0 +1,37 @@
+{
+ "id": 937,
+ "name": "ceruledge",
+ "names": {
+  "ja-hrkt": "ソウブレイズ",
+  "ja-roma": "Soublades",
+  "ko": "파라블레이즈",
+  "zh-hant": "蒼炎刃鬼",
+  "fr": "Malvalame",
+  "de": "Azugladis",
+  "es": "Ceruledge",
+  "it": "Ceruledge",
+  "en": "Ceruledge",
+  "ja": "ソウブレイズ",
+  "zh-hans": "苍炎刃鬼",
+  "es-419": "Ceruledge"
+ },
+ "genus": {
+  "ja-hrkt": "ひのけんしポケモン",
+  "ko": "불의검사포켓몬",
+  "zh-hant": "火劍士寶可夢",
+  "fr": "Feu Bretteur",
+  "de": "Feuerklingen",
+  "en": "Fire Blades Pokémon",
+  "zh-hans": "火剑士宝可梦"
+ },
+ "flavor": {
+  "en": "An old set of armor steeped in grudges caused this Pokémon’s evolution. Ceruledge cuts its enemies to pieces without mercy."
+ },
+ "varieties": [
+  {
+   "name": "ceruledge",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "490"
+}

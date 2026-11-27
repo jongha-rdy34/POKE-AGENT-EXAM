@@ -1,0 +1,42 @@
+{
+ "id": 602,
+ "name": "tynamo",
+ "names": {
+  "ja-hrkt": "シビシラス",
+  "ja-roma": "Shibishirasu",
+  "ko": "저리어",
+  "zh-hant": "麻麻小魚",
+  "fr": "Anchwatt",
+  "de": "Zapplardin",
+  "es": "Tynamo",
+  "it": "Tynamo",
+  "en": "Tynamo",
+  "ja": "シビシラス",
+  "zh-hans": "麻麻小鱼",
+  "es-419": "Tynamo"
+ },
+ "genus": {
+  "ja-hrkt": "でんきうおポケモン",
+  "ko": "전기물고기포켓몬",
+  "zh-hant": "電魚寶可夢",
+  "fr": "Pokémon Électrophore",
+  "de": "Stromfisch",
+  "es": "Pokémon Electropez",
+  "it": "Pokémon Elettropesce",
+  "en": "EleFish Pokémon",
+  "ja": "でんきうおポケモン",
+  "zh-hans": "电鱼宝可梦",
+  "es-419": "Pokémon Electropez"
+ },
+ "flavor": {
+  "en": "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+  "ko": "약한 전기밖에 낼 수 없어 많은 저리어가 모여서 강력한 전기를 발산한다."
+ },
+ "varieties": [
+  {
+   "name": "tynamo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "306"
+}

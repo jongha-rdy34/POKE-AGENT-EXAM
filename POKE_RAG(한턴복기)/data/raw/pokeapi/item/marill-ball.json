@@ -1,0 +1,20 @@
+{
+ "name": "marill-ball",
+ "names": {
+  "ja-hrkt": "マリルボール",
+  "ko": "마릴볼",
+  "zh-hant": "瑪力露球",
+  "fr": "Ballon Marill",
+  "de": "Marill-Ball",
+  "es": "Pelota Marill",
+  "it": "Palla Marill",
+  "en": "Marill Ball",
+  "ja": "マリルボール",
+  "zh-hans": "玛力露球"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

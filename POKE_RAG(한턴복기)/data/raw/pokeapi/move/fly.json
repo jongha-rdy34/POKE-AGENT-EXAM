@@ -1,0 +1,31 @@
+{
+ "name": "fly",
+ "names": {
+  "ja-hrkt": "そらをとぶ",
+  "ko": "공중날기",
+  "zh-hant": "飛翔",
+  "fr": "Vol",
+  "de": "Fliegen",
+  "es": "Vuelo",
+  "it": "Volo",
+  "en": "Fly",
+  "ja": "そらをとぶ",
+  "zh-hans": "飞翔",
+  "es-419": "Vuelo"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User flies high into the air, dodging all attacks, and hits next turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user flies up into the sky on the first turn, then attacks on the next turn.",
+  "ko": "1턴째에 하늘을 날아 2턴째에 상대를 공격한다."
+ }
+}

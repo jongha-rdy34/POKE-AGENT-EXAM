@@ -1,0 +1,46 @@
+{
+ "id": 37,
+ "name": "vulpix",
+ "names": {
+  "ja-hrkt": "ロコン",
+  "ja-roma": "Rokon",
+  "ko": "식스테일",
+  "zh-hant": "六尾",
+  "fr": "Goupix",
+  "de": "Vulpix",
+  "es": "Vulpix",
+  "it": "Vulpix",
+  "en": "Vulpix",
+  "ja": "ロコン",
+  "zh-hans": "六尾",
+  "es-419": "Vulpix"
+ },
+ "genus": {
+  "ja-hrkt": "きつねポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs-Pokémon",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "きつねポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "en": "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six.",
+  "ko": "6개의 꼬리는 자라면서 털의 결이 좋아지며 아름다워진다. 안으면 살짝 따듯하다."
+ },
+ "varieties": [
+  {
+   "name": "vulpix",
+   "is_default": true
+  },
+  {
+   "name": "vulpix-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "15"
+}

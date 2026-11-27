@@ -1,0 +1,20 @@
+{
+ "name": "barboach-slime",
+ "names": {
+  "ja-hrkt": "ドジョッチのねんえき",
+  "ko": "미꾸리의점액",
+  "zh-hant": "泥泥鰍的黏液",
+  "fr": "Mucus de Barloche",
+  "de": "Schmerbe-Schleim",
+  "es": "Secreción de Barboach",
+  "it": "Muco di Barboach",
+  "en": "Barboach Slime",
+  "ja": "ドジョッチのねんえき",
+  "zh-hans": "泥泥鳅的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

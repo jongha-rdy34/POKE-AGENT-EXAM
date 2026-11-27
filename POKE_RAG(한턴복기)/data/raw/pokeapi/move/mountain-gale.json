@@ -1,0 +1,28 @@
+{
+ "name": "mountain-gale",
+ "names": {
+  "ja-hrkt": "ひょうざんおろし",
+  "ko": "빙산바람",
+  "zh-hant": "冰山風",
+  "fr": "Bise Glaciaire",
+  "de": "Frostfallwind",
+  "es": "Viento Carámbano",
+  "it": "Soffio d’Iceberg",
+  "en": "Mountain Gale",
+  "ja": "ひょうざんおろし",
+  "zh-hans": "冰山风",
+  "es-419": "Viento Carámbano"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 85,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user hurls giant chunks of ice at the target to inflict damage. This may also make the target flinch."
+ }
+}

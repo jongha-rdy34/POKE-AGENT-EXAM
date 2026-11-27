@@ -1,0 +1,42 @@
+{
+ "id": 291,
+ "name": "ninjask",
+ "names": {
+  "ja-hrkt": "テッカニン",
+  "ja-roma": "Tekkanin",
+  "ko": "아이스크",
+  "zh-hant": "鐵面忍者",
+  "fr": "Ninjask",
+  "de": "Ninjask",
+  "es": "Ninjask",
+  "it": "Ninjask",
+  "en": "Ninjask",
+  "ja": "テッカニン",
+  "zh-hans": "铁面忍者",
+  "es-419": "Ninjask"
+ },
+ "genus": {
+  "ja-hrkt": "しのびポケモン",
+  "ko": "시노비포켓몬",
+  "zh-hant": "忍者寶可夢",
+  "fr": "Pokémon Ninja",
+  "de": "Ninja-Pokémon",
+  "es": "Pokémon Ninja",
+  "it": "Pokémon Ninja",
+  "en": "Ninja Pokémon",
+  "ja": "しのびポケモン",
+  "zh-hans": "忍者宝可梦",
+  "es-419": "Pokémon Ninja"
+ },
+ "flavor": {
+  "en": "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap.",
+  "ko": "어떤 공격이든 피할 수 있다고 이야기될 정도로 빠른 포켓몬이다. 달콤한 수액을 매우 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "ninjask",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "144"
+}

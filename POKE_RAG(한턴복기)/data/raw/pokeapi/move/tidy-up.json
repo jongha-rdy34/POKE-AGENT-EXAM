@@ -1,0 +1,28 @@
+{
+ "name": "tidy-up",
+ "names": {
+  "ja-hrkt": "おかたづけ",
+  "ko": "정리정돈",
+  "zh-hant": "大掃除",
+  "fr": "Grand Nettoyage",
+  "de": "Aufräumen",
+  "es": "Limpieza General",
+  "it": "Pulizie",
+  "en": "Tidy Up",
+  "ja": "おかたづけ",
+  "zh-hans": "大扫除",
+  "es-419": "Limpieza General"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tidies up and removes the effects of Spikes, Stealth Rock, Sticky Web, Toxic Spikes, and Substitute. This also boosts the user’s Attack and Speed stats."
+ }
+}

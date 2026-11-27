@@ -1,0 +1,25 @@
+{
+ "name": "tr48",
+ "names": {
+  "ja-hrkt": "わざレコード４８",
+  "ko": "기술레코드48",
+  "zh-hant": "招式紀錄４８",
+  "fr": "DT48",
+  "de": "TP48",
+  "es": "DT48",
+  "it": "DT48",
+  "en": "TR48",
+  "ja": "わざレコード４８",
+  "zh-hans": "招式记录４８",
+  "es-419": "DT48"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다.",
+  "en": "The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.",
+  "ja": "体に 力を こめて 筋肉を ぶあつく することで 自分の 攻撃と 防御を あげる。"
+ }
+}

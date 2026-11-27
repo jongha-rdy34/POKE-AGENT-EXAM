@@ -1,0 +1,19 @@
+{
+ "name": "tm211",
+ "names": {
+  "ko": "기술머신211",
+  "zh-hant": "招式學習器２１１",
+  "fr": "CT211",
+  "de": "TM211",
+  "es": "MT211",
+  "it": "MT211",
+  "en": "TM211",
+  "ja": "わざマシン２１１",
+  "zh-hans": "招式学习器２１１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

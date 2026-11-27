@@ -1,0 +1,31 @@
+{
+ "name": "bone-rush",
+ "names": {
+  "ja-hrkt": "ボーンラッシュ",
+  "ko": "본러시",
+  "zh-hant": "骨棒亂打",
+  "fr": "Charge Os",
+  "de": "Knochenhatz",
+  "es": "Ataque Óseo",
+  "it": "Ossoraffica",
+  "en": "Bone Rush",
+  "ja": "ボーンラッシュ",
+  "zh-hans": "骨棒乱打",
+  "es-419": "Hueso Veloz"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 25,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits 2-5 times in one turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by striking the target with a hard bone. This move hits two to five times in a row.",
+  "ko": "단단한 뼈로 상대를 세게 때려서 공격한다. 2-5회 동안 연속으로 쓴다."
+ }
+}

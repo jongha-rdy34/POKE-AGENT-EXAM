@@ -1,0 +1,28 @@
+{
+ "name": "dawn-stone",
+ "names": {
+  "ja-hrkt": "めざめいし",
+  "ko": "각성의돌",
+  "zh-hant": "覺醒之石",
+  "fr": "Pierre Aube",
+  "de": "Funkelstein",
+  "es": "Piedra Alba",
+  "it": "Pietralbore",
+  "en": "Dawn Stone",
+  "ja": "めざめいし",
+  "zh-hans": "觉醒之石",
+  "es-419": "Piedra Alba"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fait évoluer un Kirlia mâle en Gallame ou un Stalgamin femelle en Momartik.",
+  "en": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It sparkles like a glittering eye.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 눈동자처럼 아름답다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 ひとみのように まばゆい。"
+ }
+}

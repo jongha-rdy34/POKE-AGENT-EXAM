@@ -1,0 +1,42 @@
+{
+ "id": 322,
+ "name": "numel",
+ "names": {
+  "ja-hrkt": "ドンメル",
+  "ja-roma": "Donmel",
+  "ko": "둔타",
+  "zh-hant": "呆火駝",
+  "fr": "Chamallot",
+  "de": "Camaub",
+  "es": "Numel",
+  "it": "Numel",
+  "en": "Numel",
+  "ja": "ドンメル",
+  "zh-hans": "呆火驼",
+  "es-419": "Numel"
+ },
+ "genus": {
+  "ja-hrkt": "どんかんポケモン",
+  "ko": "둔감포켓몬",
+  "zh-hant": "遲鈍寶可夢",
+  "fr": "Pokémon Engourdi",
+  "de": "Taubheit",
+  "es": "Pokémon Torpe",
+  "it": "Pokémon Torpore",
+  "en": "Numb Pokémon",
+  "ja": "どんかんポケモン",
+  "zh-hans": "迟钝宝可梦",
+  "es-419": "Pokémon Torpe"
+ },
+ "flavor": {
+  "en": "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
+  "ko": "1200도의 마그마를 몸에 저장하고 있다. 물에 젖으면 마그마가 식어서 덩어리져 무거워지므로 움직임이 둔해진다."
+ },
+ "varieties": [
+  {
+   "name": "numel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "162"
+}

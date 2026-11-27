@@ -1,0 +1,23 @@
+{
+ "name": "aroma-veil",
+ "names": {
+  "ja-hrkt": "アロマベール",
+  "ko": "아로마베일",
+  "zh-hant": "芳香幕",
+  "fr": "Aroma-Voile",
+  "de": "Dufthülle",
+  "es": "Velo Aroma",
+  "it": "Aromavelo",
+  "en": "Aroma Veil",
+  "ja": "アロマベール",
+  "zh-hans": "芳香幕",
+  "es-419": "Velo Aromático"
+ },
+ "effect": {
+  "en": "Protects allies against moves that affect their mental state."
+ },
+ "flavor": {
+  "ko": "자신과 같은 편으로 향하는 멘탈 공격을 막을 수 있다.",
+  "en": "Protects the Pokémon and its allies from effects that prevent the use of moves."
+ }
+}

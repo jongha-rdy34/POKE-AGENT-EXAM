@@ -1,0 +1,23 @@
+{
+ "name": "suction-cups",
+ "names": {
+  "ja-hrkt": "きゅうばん",
+  "ko": "흡반",
+  "zh-hant": "吸盤",
+  "fr": "Ventouse",
+  "de": "Saugnapf",
+  "es": "Ventosas",
+  "it": "Ventose",
+  "en": "Suction Cups",
+  "ja": "きゅうばん",
+  "zh-hans": "吸盘",
+  "es-419": "Ventosas"
+ },
+ "effect": {
+  "en": "Prevents being forced out of battle by other Pokémon's moves."
+ },
+ "flavor": {
+  "en": "The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out.",
+  "ko": "흡반으로 지면에 달라붙어 포켓몬을 교체시키는 기술이나 도구의 효과를 발휘하지 못하게 한다."
+ }
+}

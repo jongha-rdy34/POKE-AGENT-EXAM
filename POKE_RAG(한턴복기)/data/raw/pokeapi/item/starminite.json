@@ -1,0 +1,20 @@
+{
+ "name": "starminite",
+ "names": {
+  "ko": "아쿠스타나이트",
+  "zh-hant": "寶石海星進化石",
+  "fr": "Starossite",
+  "de": "Starmienit",
+  "es": "Starmita",
+  "it": "Starmite",
+  "en": "Starminite",
+  "ja": "スターミナイト",
+  "zh-hans": "宝石海星进化石",
+  "es-419": "Starmita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 522,
+ "name": "blitzle",
+ "names": {
+  "ja-hrkt": "シママ",
+  "ja-roma": "Shimama",
+  "ko": "줄뮤마",
+  "zh-hant": "斑斑馬",
+  "fr": "Zébibron",
+  "de": "Elezeba",
+  "es": "Blitzle",
+  "it": "Blitzle",
+  "en": "Blitzle",
+  "ja": "シママ",
+  "zh-hans": "斑斑马",
+  "es-419": "Blitzle"
+ },
+ "genus": {
+  "ja-hrkt": "たいでんポケモン",
+  "ko": "하전포켓몬",
+  "zh-hant": "帶電寶可夢",
+  "fr": "Pokémon Étincélec",
+  "de": "Hochspannung",
+  "es": "Pokémon Electrizado",
+  "it": "Pokémon Caricavolt",
+  "en": "Electrified Pokémon",
+  "ja": "たいでんポケモン",
+  "zh-hans": "带电宝可梦",
+  "es-419": "Pokémon Electrizado"
+ },
+ "flavor": {
+  "en": "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
+  "ko": "방전하면 갈기가 빛난다. 갈기가 빛나는 횟수나 리듬으로 동료와 대화한다."
+ },
+ "varieties": [
+  {
+   "name": "blitzle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "267"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "sentret-fur",
+ "names": {
+  "ja-hrkt": "オタチのけ",
+  "ko": "꼬리선의털",
+  "zh-hant": "尾立的毛",
+  "fr": "Poils de Fouinette",
+  "de": "Wiesor-Haar",
+  "es": "Pelo de Sentret",
+  "it": "Pelo di Sentret",
+  "en": "Sentret Fur",
+  "ja": "オタチのけ",
+  "zh-hans": "尾立的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

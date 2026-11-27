@@ -1,0 +1,20 @@
+{
+ "name": "cheese",
+ "names": {
+  "ja-hrkt": "スライスチーズ",
+  "ko": "슬라이스치즈",
+  "zh-hant": "起司片",
+  "fr": "Fromage",
+  "de": "Scheibenkäse",
+  "es": "Queso",
+  "it": "Formaggio",
+  "en": "Cheese",
+  "ja": "スライスチーズ",
+  "zh-hans": "芝士片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

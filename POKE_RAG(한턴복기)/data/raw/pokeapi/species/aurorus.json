@@ -1,0 +1,42 @@
+{
+ "id": 699,
+ "name": "aurorus",
+ "names": {
+  "ja-hrkt": "アマルルガ",
+  "ja-roma": "Amaruruga",
+  "ko": "아마루르가",
+  "zh-hant": "冰雪巨龍",
+  "fr": "Dragmara",
+  "de": "Amagarga",
+  "es": "Aurorus",
+  "it": "Aurorus",
+  "en": "Aurorus",
+  "ja": "アマルルガ",
+  "zh-hans": "冰雪巨龙",
+  "es-419": "Aurorus"
+ },
+ "genus": {
+  "ja-hrkt": "ツンドラポケモン",
+  "ko": "툰드라포켓몬",
+  "zh-hant": "凍原寶可夢",
+  "fr": "Pokémon Toundra",
+  "de": "Tundra-Pokémon",
+  "es": "Pokémon Tundra",
+  "it": "Pokémon Tundra",
+  "en": "Tundra Pokémon",
+  "ja": "ツンドラポケモン",
+  "zh-hans": "冻原宝可梦",
+  "es-419": "Pokémon Tundra"
+ },
+ "flavor": {
+  "ko": "격렬한 분노에 사로잡히면 맹렬하게 냉기를 뿜어내 주변을 모두 얼어붙게 한다.",
+  "en": "When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice."
+ },
+ "varieties": [
+  {
+   "name": "aurorus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "358"
+}

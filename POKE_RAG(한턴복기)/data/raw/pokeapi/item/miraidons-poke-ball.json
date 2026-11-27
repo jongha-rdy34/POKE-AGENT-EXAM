@@ -1,0 +1,20 @@
+{
+ "name": "miraidons-poke-ball",
+ "names": {
+  "ja-hrkt": "ミライドンのボール",
+  "ko": "미라이돈의 볼",
+  "zh-hant": "密勒頓的球",
+  "fr": "Poké Ball de Miraidon",
+  "de": "Miraidons Pokéball",
+  "es": "Poké Ball de Miraidon",
+  "it": "Poké Ball Miraidon",
+  "en": "Miraidon’s Poké Ball",
+  "ja": "ミライドンのボール",
+  "zh-hans": "密勒顿的球"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

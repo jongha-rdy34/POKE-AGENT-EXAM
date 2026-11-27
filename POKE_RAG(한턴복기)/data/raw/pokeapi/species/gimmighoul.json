@@ -1,0 +1,41 @@
+{
+ "id": 999,
+ "name": "gimmighoul",
+ "names": {
+  "ja-hrkt": "コレクレー",
+  "ja-roma": "Collecurei",
+  "ko": "모으령",
+  "zh-hant": "索財靈",
+  "fr": "Mordudor",
+  "de": "Gierspenst",
+  "es": "Gimmighoul",
+  "it": "Gimmighoul",
+  "en": "Gimmighoul",
+  "ja": "コレクレー",
+  "zh-hans": "索财灵",
+  "es-419": "Gimmighoul"
+ },
+ "genus": {
+  "ja-hrkt": "たからばこポケモン",
+  "ko": "보물상자포켓몬",
+  "zh-hant": "寶箱寶可夢",
+  "fr": "Coffrotrésor/Chassotrésor",
+  "de": "Schatztruhe",
+  "en": "Coin Chest Pokémon",
+  "zh-hans": "宝箱宝可梦"
+ },
+ "flavor": {
+  "en": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "gimmighoul",
+   "is_default": true
+  },
+  {
+   "name": "gimmighoul-roaming",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "528"
+}

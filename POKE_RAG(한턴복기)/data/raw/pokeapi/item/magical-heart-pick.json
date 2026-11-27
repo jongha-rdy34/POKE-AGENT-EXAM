@@ -1,0 +1,20 @@
+{
+ "name": "magical-heart-pick",
+ "names": {
+  "ja-hrkt": "マジカルハートピック",
+  "ko": "매지컬 하트 픽",
+  "zh-hant": "魔法甜心三明治籤",
+  "fr": "Pique Cœur Magique",
+  "de": "Zauberherz-Pikser",
+  "es": "Palillo Corazón",
+  "it": "Stecchino magicuore",
+  "en": "Magical Heart Pick",
+  "ja": "マジカルハートピック",
+  "zh-hans": "魔法甜心三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

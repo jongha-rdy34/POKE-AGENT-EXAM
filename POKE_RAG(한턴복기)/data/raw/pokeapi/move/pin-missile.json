@@ -1,0 +1,31 @@
+{
+ "name": "pin-missile",
+ "names": {
+  "ja-hrkt": "ミサイルばり",
+  "ko": "바늘미사일",
+  "zh-hant": "飛彈針",
+  "fr": "Dard-Nuée",
+  "de": "Nadelrakete",
+  "es": "Pin Misil",
+  "it": "Missilspillo",
+  "en": "Pin Missile",
+  "ja": "ミサイルばり",
+  "zh-hans": "飞弹针",
+  "es-419": "Misil Aguja"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 25,
+ "accuracy": 95,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits 2-5 times in one turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by shooting sharp spikes at the target. This move hits two to five times in a row.",
+  "ko": "날카로운 침을 상대에게 발사해서 공격한다. 2-5회 동안 연속으로 쓴다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "chill-drive",
+ "names": {
+  "ja-hrkt": "フリーズカセット",
+  "ko": "프리즈카세트",
+  "zh-hant": "冰凍卡帶",
+  "fr": "Module Cryo",
+  "de": "Gefriermodul",
+  "es": "CrioROM",
+  "it": "Gelomodulo",
+  "en": "Chill Drive",
+  "ja": "フリーズカセット",
+  "zh-hans": "冰冻卡带",
+  "es-419": "CrioROM"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Donne à Genesect un Techno-Buster blanc, de type Glace.",
+  "en": "Grants Genesect a white, Ice-type Techno Blast."
+ },
+ "flavor": {
+  "en": "A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Ice type.",
+  "ko": "게노세크트에게 지니게 하면 테크노버스터라는 기술이 얼음타입으로 바뀌는 카세트.",
+  "ja": "ゲノセクトに 持たせると テクノバスターという 技が こおりタイプになる カセット。"
+ }
+}

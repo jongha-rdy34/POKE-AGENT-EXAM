@@ -1,0 +1,34 @@
+{
+ "name": "hyper-potion",
+ "names": {
+  "ja-hrkt": "すごいキズぐすり",
+  "ko": "고급상처약",
+  "zh-hant": "厲害傷藥",
+  "fr": "Hyper Potion",
+  "de": "Hypertrank",
+  "es": "Hiperpoción",
+  "it": "Iperpozione",
+  "en": "Hyper Potion",
+  "ja": "すごいキズぐすり",
+  "zh-hans": "厉害伤药",
+  "es-419": "Hiperpoción"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 200 PV.",
+  "en": "Restores 200 HP."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating wounds. It can be used to restore 120 HP to a single Pokémon.",
+  "ko": "스프레이식의 상처약. 포켓몬 1마리의 HP를 120만큼 회복한다.",
+  "ja": "スプレー式の キズぐすり。 ポケモン １匹の ＨＰを １２０だけ 回復する。"
+ }
+}

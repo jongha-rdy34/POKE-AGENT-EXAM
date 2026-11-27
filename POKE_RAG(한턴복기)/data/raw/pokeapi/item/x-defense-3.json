@@ -1,0 +1,28 @@
+{
+ "name": "x-defense-3",
+ "names": {
+  "ja-hrkt": "ディフェンダー３",
+  "ko": "디펜드업3",
+  "zh-hant": "防禦強化３",
+  "fr": "Défense 3",
+  "de": "X-Verteidigung 3",
+  "es": "Defensa X 3",
+  "it": "Difesa X-3",
+  "en": "X Defense 3",
+  "ja": "ディフェンダー３",
+  "zh-hans": "防御强化３",
+  "es-419": "Defensa X 3"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la Défense de trois niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Defense by three stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 방어를 상당히 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 防御を かなり あげる。 ひっこめると 元に 戻る。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 59,
+ "name": "arcanine",
+ "names": {
+  "ja-hrkt": "ウインディ",
+  "ja-roma": "Windie",
+  "ko": "윈디",
+  "zh-hant": "風速狗",
+  "fr": "Arcanin",
+  "de": "Arkani",
+  "es": "Arcanine",
+  "it": "Arcanine",
+  "en": "Arcanine",
+  "ja": "ウインディ",
+  "zh-hans": "风速狗",
+  "es-419": "Arcanine"
+ },
+ "genus": {
+  "ja-hrkt": "でんせつポケモン",
+  "ko": "전설포켓몬",
+  "zh-hant": "傳說寶可夢",
+  "fr": "Pokémon Légendaire",
+  "de": "Legendär-Pokémon",
+  "es": "Pokémon Leyenda",
+  "it": "Pokémon Leggenda",
+  "en": "Legendary Pokémon",
+  "ja": "でんせつポケモン",
+  "zh-hans": "传说宝可梦",
+  "es-419": "Pokémon Leyenda"
+ },
+ "flavor": {
+  "en": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.",
+  "ko": "옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 마치 나는 것처럼 경쾌하게 달린다."
+ },
+ "varieties": [
+  {
+   "name": "arcanine",
+   "is_default": true
+  },
+  {
+   "name": "arcanine-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "25"
+}

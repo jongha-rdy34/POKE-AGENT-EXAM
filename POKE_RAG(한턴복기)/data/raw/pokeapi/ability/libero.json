@@ -1,0 +1,23 @@
+{
+ "name": "libero",
+ "names": {
+  "ja-hrkt": "リベロ",
+  "ko": "리베로",
+  "zh-hant": "自由者",
+  "fr": "Libéro",
+  "de": "Libero",
+  "es": "Líbero",
+  "it": "Libero",
+  "en": "Libero",
+  "ja": "リベロ",
+  "zh-hans": "自由者",
+  "es-419": "Líbero"
+ },
+ "effect": {
+  "en": "Libero changes the Pokémon's type to that of its previously used attack."
+ },
+ "flavor": {
+  "ko": "자신이 사용한 기술과 같은 타입으로 변화한다.",
+  "en": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle."
+ }
+}

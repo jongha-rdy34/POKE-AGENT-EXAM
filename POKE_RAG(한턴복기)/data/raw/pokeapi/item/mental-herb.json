@@ -1,0 +1,31 @@
+{
+ "name": "mental-herb",
+ "names": {
+  "ja-hrkt": "メンタルハーブ",
+  "ko": "멘탈허브",
+  "zh-hant": "心靈香草",
+  "fr": "Herbe Mental",
+  "de": "Mentalkraut",
+  "es": "Hierba Mental",
+  "it": "Mentalerba",
+  "en": "Mental Herb",
+  "ja": "メンタルハーブ",
+  "zh-hans": "心灵香草",
+  "es-419": "Hierba Mental"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Utilisé pour soigner l'amour. Gén V : Supprime aussi Provoc, Encore, Tourmente, Entrave, et Corps Maudit.",
+  "en": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. The holder shakes off move-binding effects to move freely. It can be used only once.",
+  "ko": "지니게 한 포켓몬은 헤롱헤롱 상태가 되었을 때 한 번만 회복한다.",
+  "ja": "持たせた ポケモンが 自由に 技を だせなくなったときに １度だけ 回復する。"
+ }
+}

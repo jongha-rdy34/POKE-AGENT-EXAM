@@ -1,0 +1,28 @@
+{
+ "name": "x-sp-atk-2",
+ "names": {
+  "ja-hrkt": "ＳＰアップ２",
+  "ko": "스페셜업2",
+  "zh-hant": "特攻強化２",
+  "fr": "Atq. Spé. 2",
+  "de": "X-Sp.-Ang. 2",
+  "es": "At. Esp. X 2",
+  "it": "Att. Sp. X-2",
+  "en": "X Sp. Atk 2",
+  "ja": "ＳＰアップ２",
+  "zh-hans": "特攻强化２",
+  "es-419": "At. Esp. X 2"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente l'Attaque Spéciale de deux niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Special Attack by two stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 특수공격을 그럭저럭 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 特攻を それなりに あげる。 ひっこめると 元に 戻る。"
+ }
+}

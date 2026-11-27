@@ -1,0 +1,28 @@
+{
+ "name": "data-card-08",
+ "names": {
+  "ja-hrkt": "データカード０８",
+  "ko": "데이터카드08",
+  "zh-hant": "資料卡０８",
+  "fr": "Carte Mémo08",
+  "de": "Datenkarte08",
+  "es": "Tarjeta Datos 08",
+  "it": "Scheda Dati 08",
+  "en": "Data Card 08",
+  "ja": "データカード０８",
+  "zh-hans": "数据卡０８",
+  "es-419": "Tarjeta Datos 08"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Casse Roc du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Block Smash.",
+  "ko": "포켓슬론의 기록이 들어 있다. 브레이크블록 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ブレイクブロック １位 回数が 記録された カード。"
+ }
+}

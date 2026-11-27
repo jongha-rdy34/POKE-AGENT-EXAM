@@ -1,0 +1,42 @@
+{
+ "id": 480,
+ "name": "uxie",
+ "names": {
+  "ja-hrkt": "ユクシー",
+  "ja-roma": "Yuxie",
+  "ko": "유크시",
+  "zh-hant": "由克希",
+  "fr": "Créhelf",
+  "de": "Selfe",
+  "es": "Uxie",
+  "it": "Uxie",
+  "en": "Uxie",
+  "ja": "ユクシー",
+  "zh-hans": "由克希",
+  "es-419": "Uxie"
+ },
+ "genus": {
+  "ja-hrkt": "ちしきポケモン",
+  "ko": "지식포켓몬",
+  "zh-hant": "知識寶可夢",
+  "fr": "Pokémon Savoir",
+  "de": "Wissens-Pokémon",
+  "es": "Pokémon Sabiduría",
+  "it": "Pokémon Sapienza",
+  "en": "Knowledge Pokémon",
+  "ja": "ちしきポケモン",
+  "zh-hans": "知识宝可梦",
+  "es-419": "Pokémon Sabiduría"
+ },
+ "flavor": {
+  "en": "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge.",
+  "ko": "유크시의 탄생에 의해 사람들의 생활을 풍요롭게 하는 지혜가 생겨났다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "uxie",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "241"
+}

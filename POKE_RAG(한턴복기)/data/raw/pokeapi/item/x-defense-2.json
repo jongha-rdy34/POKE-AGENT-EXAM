@@ -1,0 +1,28 @@
+{
+ "name": "x-defense-2",
+ "names": {
+  "ja-hrkt": "ディフェンダー２",
+  "ko": "디펜드업2",
+  "zh-hant": "防禦強化２",
+  "fr": "Défense 2",
+  "de": "X-Verteidigung 2",
+  "es": "Defensa X 2",
+  "it": "Difesa X-2",
+  "en": "X Defense 2",
+  "ja": "ディフェンダー２",
+  "zh-hans": "防御强化２",
+  "es-419": "Defensa X 2"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la Défense de deux niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Defense by two stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 방어를 그럭저럭 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 防御を それなりに あげる。 ひっこめると 元に 戻る。"
+ }
+}

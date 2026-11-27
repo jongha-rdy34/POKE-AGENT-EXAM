@@ -1,0 +1,28 @@
+{
+ "name": "berry-pots",
+ "names": {
+  "ja-hrkt": "きのみプランター",
+  "ko": "나무열매플랜터",
+  "zh-hant": "樹果種植盆",
+  "fr": "Plante-Baies",
+  "de": "Pflanzset",
+  "es": "Plantabayas",
+  "it": "Piantabacche",
+  "en": "Berry Pots",
+  "ja": "きのみプランター",
+  "zh-hans": "树果种植盆",
+  "es-419": "Plantabayas"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet la culture portable des baies.",
+  "en": "Allows portable berry growing."
+ },
+ "flavor": {
+  "en": "Handy containers for cultivating Berries wherever you go.",
+  "ko": "항상 손쉽게 나무열매를 키울 수 있는 휴대형 재배 용기.",
+  "ja": "いつでも 手軽に きのみを 育てられる 携帯式の 栽培容器。"
+ }
+}

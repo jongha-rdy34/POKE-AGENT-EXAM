@@ -1,0 +1,89 @@
+{
+ "id": 530,
+ "name": "excadrill",
+ "species": "excadrill",
+ "is_default": true,
+ "types": [
+  "ground",
+  "steel"
+ ],
+ "stats": {
+  "hp": 110,
+  "attack": 135,
+  "defense": 60,
+  "special-attack": 50,
+  "special-defense": 65,
+  "speed": 88
+ },
+ "abilities": [
+  {
+   "name": "sand-rush",
+   "hidden": false
+  },
+  {
+   "name": "sand-force",
+   "hidden": false
+  },
+  {
+   "name": "mold-breaker",
+   "hidden": true
+  }
+ ],
+ "height": 7,
+ "weight": 404,
+ "champions_moves": [
+  "aerial-ace",
+  "body-slam",
+  "brick-break",
+  "brutal-swing",
+  "bulldoze",
+  "crush-claw",
+  "curse",
+  "dig",
+  "double-edge",
+  "drill-run",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "facade",
+  "fissure",
+  "fling",
+  "focus-blast",
+  "giga-impact",
+  "helping-hand",
+  "high-horsepower",
+  "horn-drill",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "megahorn",
+  "metal-sound",
+  "mud-shot",
+  "mud-slap",
+  "poison-jab",
+  "protect",
+  "rapid-spin",
+  "rest",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sand-tomb",
+  "sandstorm",
+  "scary-face",
+  "scorching-sands",
+  "shadow-claw",
+  "sleep-talk",
+  "sludge-bomb",
+  "smart-strike",
+  "snore",
+  "stealth-rock",
+  "steel-beam",
+  "stomping-tantrum",
+  "substitute",
+  "sunny-day",
+  "swords-dance",
+  "throat-chop",
+  "x-scissor"
+ ]
+}

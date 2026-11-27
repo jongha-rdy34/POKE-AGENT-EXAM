@@ -1,0 +1,20 @@
+{
+ "name": "goomy-goo",
+ "names": {
+  "ja-hrkt": "ヌメラのねんえき",
+  "ko": "미끄메라의점액",
+  "zh-hant": "黏黏寶的黏液",
+  "fr": "Mucus de Mucuscule",
+  "de": "Viscora-Schleim",
+  "es": "Secreción de Goomy",
+  "it": "Bava di Goomy",
+  "en": "Goomy Goo",
+  "ja": "ヌメラのねんえき",
+  "zh-hans": "黏黏宝的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

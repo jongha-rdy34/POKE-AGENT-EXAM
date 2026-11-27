@@ -1,0 +1,25 @@
+{
+ "name": "medicine-pocket",
+ "names": {
+  "ja-hrkt": "かいふくポケット",
+  "ko": "회복포켓",
+  "zh-hant": "回復口袋",
+  "fr": "Trousse de Soins",
+  "de": "Medizintasche",
+  "es": "Botiquín",
+  "it": "Tasca rimedi",
+  "en": "Medicine Pocket",
+  "ja": "かいふくポケット",
+  "zh-hans": "回复口袋",
+  "es-419": "Botiquín"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

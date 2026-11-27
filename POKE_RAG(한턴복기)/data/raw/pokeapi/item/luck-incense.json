@@ -1,0 +1,31 @@
+{
+ "name": "luck-incense",
+ "names": {
+  "ja-hrkt": "こううんのおこう",
+  "ko": "행운의향로",
+  "zh-hant": "幸運薰香",
+  "fr": "Encens Veine",
+  "de": "Glücksrauch",
+  "es": "Incienso Duplo",
+  "it": "Fortunaroma",
+  "en": "Luck Incense",
+  "ja": "こううんのおこう",
+  "zh-hans": "幸运薰香",
+  "es-419": "Incienso Duplo"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Double l'argent gagné en combat. Ne s'accumule pas avec une Pièce Rune. Reproduction: Leveinard et Leuphorie engendrent un Œuf de Ptiravi.",
+  "en": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It doubles any prize money received if the holding Pokémon joins a battle.",
+  "ko": "지니게 한 포켓몬이 한 번이라도 배틀에 나가면 돈을 2배로 받을 수 있다.",
+  "ja": "持たせた ポケモンが １度でも 戦闘に 顔を だすと お金が ２倍 もらえる。"
+ }
+}

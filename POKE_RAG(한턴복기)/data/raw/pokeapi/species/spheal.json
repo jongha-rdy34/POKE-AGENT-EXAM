@@ -1,0 +1,42 @@
+{
+ "id": 363,
+ "name": "spheal",
+ "names": {
+  "ja-hrkt": "タマザラシ",
+  "ja-roma": "Tamazarashi",
+  "ko": "대굴레오",
+  "zh-hant": "海豹球",
+  "fr": "Obalie",
+  "de": "Seemops",
+  "es": "Spheal",
+  "it": "Spheal",
+  "en": "Spheal",
+  "ja": "タマザラシ",
+  "zh-hans": "海豹球",
+  "es-419": "Spheal"
+ },
+ "genus": {
+  "ja-hrkt": "てたたきポケモン",
+  "ko": "손뼉포켓몬",
+  "zh-hant": "拍手寶可夢",
+  "fr": "Pokémon Clap Clap",
+  "de": "Applaus-Pokémon",
+  "es": "Pokémon Aplauso",
+  "it": "Pokémon Rotolante",
+  "en": "Clap Pokémon",
+  "ja": "てたたきポケモン",
+  "zh-hans": "拍手宝可梦",
+  "es-419": "Pokémon Aplauso"
+ },
+ "flavor": {
+  "en": "During the season when drift ice approaches the shore, Spheal prefers living on the ice—where fewer predators lurk—rather than the land. Its fur retains heat superbly and resists harsh cold.",
+  "ko": "파도에 떠다니며 바다의 상태를 살핀다. 먹이를 발견하면 무리의 씨카이저에게 알린다."
+ },
+ "varieties": [
+  {
+   "name": "spheal",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "187"
+}

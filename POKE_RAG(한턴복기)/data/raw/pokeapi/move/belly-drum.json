@@ -1,0 +1,31 @@
+{
+ "name": "belly-drum",
+ "names": {
+  "ja-hrkt": "はらだいこ",
+  "ko": "배북",
+  "zh-hant": "腹鼓",
+  "fr": "Cognobidon",
+  "de": "Bauchtrommel",
+  "es": "Tambor",
+  "it": "Panciamburo",
+  "en": "Belly Drum",
+  "ja": "はらだいこ",
+  "zh-hans": "腹鼓",
+  "es-419": "Tambor"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User pays half its max HP to max out its Attack."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user maximizes its Attack stat but loses HP equal to half its max HP.",
+  "ko": "자신의 HP를 최대 HP의 절반만큼 감소시켜 자신의 공격을 최대로 올린다."
+ }
+}

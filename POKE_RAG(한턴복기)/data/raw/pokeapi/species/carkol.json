@@ -1,0 +1,42 @@
+{
+ "id": 838,
+ "name": "carkol",
+ "names": {
+  "ja-hrkt": "トロッゴン",
+  "ja-roma": "Toroggon",
+  "ko": "탄차곤",
+  "zh-hant": "大炭車",
+  "fr": "Wagomine",
+  "de": "Wagong",
+  "es": "Carkol",
+  "it": "Carkol",
+  "en": "Carkol",
+  "ja": "トロッゴン",
+  "zh-hans": "大炭车",
+  "es-419": "Carkol"
+ },
+ "genus": {
+  "ja-hrkt": "せきたんポケモン",
+  "ko": "석탄포켓몬",
+  "zh-hant": "煤炭寶可夢",
+  "fr": "Pokémon Charbon",
+  "de": "Kohle-Pokémon",
+  "es": "Pokémon Carbón",
+  "it": "Pokémon Carbone",
+  "en": "Coal Pokémon",
+  "ja": "せきたんポケモン",
+  "zh-hans": "煤炭宝可梦",
+  "es-419": "Pokémon Carbón"
+ },
+ "flavor": {
+  "ko": "다리를 고속으로 회전시켜 시속 30km로 달린다. 섭씨 1000도의 불꽃을 내뿜는다.",
+  "en": "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit."
+ },
+ "varieties": [
+  {
+   "name": "carkol",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "441"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "zorua-fur",
+ "names": {
+  "ja-hrkt": "ゾロアのけ",
+  "ko": "조로아의털",
+  "zh-hant": "索羅亞的毛",
+  "fr": "Poils de Zorua",
+  "de": "Zorua-Haar",
+  "es": "Pelo de Zorua",
+  "it": "Pelo di Zorua",
+  "en": "Zorua Fur",
+  "ja": "ゾロアのけ",
+  "zh-hans": "索罗亚的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

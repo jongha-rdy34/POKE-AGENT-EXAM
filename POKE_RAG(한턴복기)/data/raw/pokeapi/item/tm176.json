@@ -1,0 +1,19 @@
+{
+ "name": "tm176",
+ "names": {
+  "ko": "기술머신176",
+  "zh-hant": "招式學習器１７６",
+  "fr": "CT176",
+  "de": "TM176",
+  "es": "MT176",
+  "it": "MT176",
+  "en": "TM176",
+  "ja": "わざマシン１７６",
+  "zh-hans": "招式学习器１７６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

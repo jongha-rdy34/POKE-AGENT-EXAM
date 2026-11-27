@@ -1,0 +1,37 @@
+{
+ "id": 909,
+ "name": "fuecoco",
+ "names": {
+  "ja-hrkt": "ホゲータ",
+  "ja-roma": "Hogator",
+  "ko": "뜨아거",
+  "zh-hant": "呆火鱷",
+  "fr": "Chochodile",
+  "de": "Krokel",
+  "es": "Fuecoco",
+  "it": "Fuecoco",
+  "en": "Fuecoco",
+  "ja": "ホゲータ",
+  "zh-hans": "呆火鳄",
+  "es-419": "Fuecoco"
+ },
+ "genus": {
+  "ja-hrkt": "ほのおワニポケモン",
+  "ko": "불꽃악어포켓몬",
+  "zh-hant": "火鱷寶可夢",
+  "fr": "Croco Feu",
+  "de": "Feuerkroko",
+  "en": "Fire Croc Pokémon",
+  "zh-hans": "火鳄宝可梦"
+ },
+ "flavor": {
+  "en": "Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco’s head and flickers to and fro."
+ },
+ "varieties": [
+  {
+   "name": "fuecoco",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "479"
+}

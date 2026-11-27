@@ -1,0 +1,42 @@
+{
+ "id": 476,
+ "name": "probopass",
+ "names": {
+  "ja-hrkt": "ダイノーズ",
+  "ja-roma": "Dainose",
+  "ko": "대코파스",
+  "zh-hant": "大朝北鼻",
+  "fr": "Tarinorme",
+  "de": "Voluminas",
+  "es": "Probopass",
+  "it": "Probopass",
+  "en": "Probopass",
+  "ja": "ダイノーズ",
+  "zh-hans": "大朝北鼻",
+  "es-419": "Probopass"
+ },
+ "genus": {
+  "ja-hrkt": "コンパスポケモン",
+  "ko": "콤파스포켓몬",
+  "zh-hant": "羅盤寶可夢",
+  "fr": "Pokémon Boussole",
+  "de": "Kompass",
+  "es": "Pokémon Brújula",
+  "it": "Pokémon Bussola",
+  "en": "Compass Pokémon",
+  "ja": "コンパスポケモン",
+  "zh-hans": "罗盘宝可梦",
+  "es-419": "Pokémon Brújula"
+ },
+ "flavor": {
+  "en": "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey.",
+  "ko": "3개의 작은 유닛을 사용해서 먹이를 잡거나 적과 싸운다. 본체는 거의 명령할 뿐이다."
+ },
+ "varieties": [
+  {
+   "name": "probopass",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "147"
+}

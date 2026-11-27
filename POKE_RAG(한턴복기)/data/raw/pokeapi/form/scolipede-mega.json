@@ -1,0 +1,15 @@
+{
+ "name": "scolipede-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Brutapode",
+  "en": "Mega Scolipede"
+ },
+ "form_names": {
+  "ja-hrkt": "メガペンドラー",
+  "fr": "Méga-Brutapode",
+  "en": "Mega Scolipede",
+  "ja": "メガペンドラー"
+ },
+ "is_mega": true
+}

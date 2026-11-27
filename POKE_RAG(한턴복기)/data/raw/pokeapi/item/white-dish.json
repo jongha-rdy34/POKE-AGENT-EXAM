@@ -1,0 +1,20 @@
+{
+ "name": "white-dish",
+ "names": {
+  "ja-hrkt": "ホワイトプレート",
+  "ko": "화이트 플레이트",
+  "zh-hant": "白色盤子",
+  "fr": "Assiette Blanche",
+  "de": "Weißer Teller",
+  "es": "Plato Blanco",
+  "it": "Piatto bianco",
+  "en": "White Dish",
+  "ja": "ホワイトプレート",
+  "zh-hans": "白色盘子"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

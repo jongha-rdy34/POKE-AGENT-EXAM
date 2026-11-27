@@ -1,0 +1,72 @@
+{
+ "id": 10061,
+ "name": "floette-eternal",
+ "species": "floette",
+ "is_default": false,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 74,
+  "attack": 65,
+  "defense": 67,
+  "special-attack": 125,
+  "special-defense": 128,
+  "speed": 92
+ },
+ "abilities": [
+  {
+   "name": "flower-veil",
+   "hidden": false
+  },
+  {
+   "name": "symbiosis",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 9,
+ "champions_moves": [
+  "alluring-voice",
+  "baton-pass",
+  "calm-mind",
+  "charm",
+  "chilling-water",
+  "copycat",
+  "dazzling-gleam",
+  "draining-kiss",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "giga-drain",
+  "grass-knot",
+  "grassy-terrain",
+  "helping-hand",
+  "hyper-beam",
+  "light-of-ruin",
+  "light-screen",
+  "misty-terrain",
+  "moonblast",
+  "petal-blizzard",
+  "petal-dance",
+  "pollen-puff",
+  "protect",
+  "psychic",
+  "rain-dance",
+  "rest",
+  "safeguard",
+  "seed-bomb",
+  "skill-swap",
+  "sleep-talk",
+  "solar-beam",
+  "stored-power",
+  "substitute",
+  "sunny-day",
+  "synthesis",
+  "tearful-look",
+  "trailblaze",
+  "trick",
+  "wish"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": 64,
+ "name": "kadabra",
+ "names": {
+  "ja-hrkt": "ユンゲラー",
+  "ja-roma": "Yungerer",
+  "ko": "윤겔라",
+  "zh-hant": "勇基拉",
+  "fr": "Kadabra",
+  "de": "Kadabra",
+  "es": "Kadabra",
+  "it": "Kadabra",
+  "en": "Kadabra",
+  "ja": "ユンゲラー",
+  "zh-hans": "勇基拉",
+  "es-419": "Kadabra"
+ },
+ "genus": {
+  "ja-hrkt": "ねんりきポケモン",
+  "ko": "초능력포켓몬",
+  "zh-hant": "念力寶可夢",
+  "fr": "Pokémon Psy",
+  "de": "Psi-Pokémon",
+  "es": "Pokémon Psi",
+  "it": "Pokémon Psico",
+  "en": "Psi Pokémon",
+  "ja": "ねんりきポケモン",
+  "zh-hans": "念力宝可梦",
+  "es-419": "Pokémon Psi"
+ },
+ "flavor": {
+  "en": "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves.",
+  "ko": "염동력의 위력은 절대적이다. 진화에 대비하여 이마에 있는 별에 사이코 파워를 비축하고 있다."
+ },
+ "varieties": [
+  {
+   "name": "kadabra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "27"
+}

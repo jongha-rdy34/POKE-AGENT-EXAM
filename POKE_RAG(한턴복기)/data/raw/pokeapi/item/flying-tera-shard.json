@@ -1,0 +1,20 @@
+{
+ "name": "flying-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースひこう",
+  "ko": "테라피스 비행",
+  "zh-hant": "飛行太晶碎塊",
+  "fr": "Téra-Éclat Vol",
+  "de": "Tera-Stück (Flug)",
+  "es": "Teralito Volador",
+  "it": "Teralite Volante",
+  "en": "Flying Tera Shard",
+  "ja": "テラピースひこう",
+  "zh-hans": "飞行太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

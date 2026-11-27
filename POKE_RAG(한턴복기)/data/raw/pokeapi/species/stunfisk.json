@@ -1,0 +1,46 @@
+{
+ "id": 618,
+ "name": "stunfisk",
+ "names": {
+  "ja-hrkt": "マッギョ",
+  "ja-roma": "Maggyo",
+  "ko": "메더",
+  "zh-hant": "泥巴魚",
+  "fr": "Limonde",
+  "de": "Flunschlik",
+  "es": "Stunfisk",
+  "it": "Stunfisk",
+  "en": "Stunfisk",
+  "ja": "マッギョ",
+  "zh-hans": "泥巴鱼",
+  "es-419": "Stunfisk"
+ },
+ "genus": {
+  "ja-hrkt": "トラップポケモン",
+  "ko": "트랩포켓몬",
+  "zh-hant": "陷阱寶可夢",
+  "fr": "Pokémon Piège",
+  "de": "Falle-Pokémon",
+  "es": "Pokémon Trampa",
+  "it": "Pokémon Trappola",
+  "en": "Trap Pokémon",
+  "ja": "トラップポケモン",
+  "zh-hans": "陷阱宝可梦",
+  "es-419": "Pokémon Trampa"
+ },
+ "flavor": {
+  "en": "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body.",
+  "ko": "몸의 노란 무늬에서 강한 전기를 발산할 때 무슨 이유인지 살짝 웃고 있다."
+ },
+ "varieties": [
+  {
+   "name": "stunfisk",
+   "is_default": true
+  },
+  {
+   "name": "stunfisk-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "313"
+}

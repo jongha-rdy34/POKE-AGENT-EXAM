@@ -1,0 +1,28 @@
+{
+ "name": "tm74",
+ "names": {
+  "ja-hrkt": "わざマシン７４",
+  "ko": "기술머신74",
+  "zh-hant": "招式學習器７４",
+  "fr": "CT74",
+  "de": "TM74",
+  "es": "MT74",
+  "it": "MT74",
+  "en": "TM74",
+  "ja": "わざマシン７４",
+  "zh-hans": "招式学习器７４",
+  "es-419": "MT74"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Gyroballe à un Pokémon compatible.",
+  "en": "Teaches Gyro Ball to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.",
+  "ko": "특수한 독액을 끼얹는다. 독 상태의 상대에게는 위력이 2배가 된다.",
+  "ja": "特殊な 毒液を 浴びせかける。 毒状態の 相手には 威力が ２倍に なる。"
+ }
+}

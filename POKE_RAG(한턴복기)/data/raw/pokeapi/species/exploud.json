@@ -1,0 +1,42 @@
+{
+ "id": 295,
+ "name": "exploud",
+ "names": {
+  "ja-hrkt": "バクオング",
+  "ja-roma": "Bakuong",
+  "ko": "폭음룡",
+  "zh-hant": "爆音怪",
+  "fr": "Brouhabam",
+  "de": "Krawumms",
+  "es": "Exploud",
+  "it": "Exploud",
+  "en": "Exploud",
+  "ja": "バクオング",
+  "zh-hans": "爆音怪",
+  "es-419": "Exploud"
+ },
+ "genus": {
+  "ja-hrkt": "そうおんポケモン",
+  "ko": "소음포켓몬",
+  "zh-hant": "噪音寶可夢",
+  "fr": "Pokémon Bruit Sourd",
+  "de": "Krach-Pokémon",
+  "es": "Pokémon Escandaloso",
+  "it": "Pokémon Fragore",
+  "en": "Loud Noise Pokémon",
+  "ja": "そうおんポケモン",
+  "zh-hans": "噪音宝可梦",
+  "es-419": "Pokémon Escandaloso"
+ },
+ "flavor": {
+  "en": "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body.",
+  "ko": "큰 목소리만 가진 것이 아니다. 몸의 구멍에서 다양한 소리를 내어 동료와 의사소통을 한다."
+ },
+ "varieties": [
+  {
+   "name": "exploud",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "145"
+}

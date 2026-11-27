@@ -1,0 +1,46 @@
+{
+ "id": 306,
+ "name": "aggron",
+ "names": {
+  "ja-hrkt": "ボスゴドラ",
+  "ja-roma": "Bossgodora",
+  "ko": "보스로라",
+  "zh-hant": "波士可多拉",
+  "fr": "Galeking",
+  "de": "Stolloss",
+  "es": "Aggron",
+  "it": "Aggron",
+  "en": "Aggron",
+  "ja": "ボスゴドラ",
+  "zh-hans": "波士可多拉",
+  "es-419": "Aggron"
+ },
+ "genus": {
+  "ja-hrkt": "てつヨロイポケモン",
+  "ko": "철갑옷포켓몬",
+  "zh-hant": "鐵鎧寶可夢",
+  "fr": "Pokémon Armurfer",
+  "de": "Eisenpanzer-Pokémon",
+  "es": "Pokémon Coraza Férrea",
+  "it": "Pokémon Corazza",
+  "en": "Iron Armor Pokémon",
+  "ja": "てつヨロイポケモン",
+  "zh-hans": "铁铠宝可梦",
+  "es-419": "Pokémon Coraza Férrea"
+ },
+ "flavor": {
+  "en": "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon’s strength.",
+  "ko": "먼 옛날 어떤 왕은 보스로라의 강함을 선망하여 머리 모양을 본떠 만든 투구를 쓰기도 했다."
+ },
+ "varieties": [
+  {
+   "name": "aggron",
+   "is_default": true
+  },
+  {
+   "name": "aggron-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "151"
+}

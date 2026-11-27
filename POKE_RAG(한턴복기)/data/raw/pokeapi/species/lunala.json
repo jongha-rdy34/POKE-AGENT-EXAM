@@ -1,0 +1,42 @@
+{
+ "id": 792,
+ "name": "lunala",
+ "names": {
+  "ja-hrkt": "ルナアーラ",
+  "ja-roma": "Lunala",
+  "ko": "루나아라",
+  "zh-hant": "露奈雅拉",
+  "fr": "Lunala",
+  "de": "Lunala",
+  "es": "Lunala",
+  "it": "Lunala",
+  "en": "Lunala",
+  "ja": "ルナアーラ",
+  "zh-hans": "露奈雅拉",
+  "es-419": "Lunala"
+ },
+ "genus": {
+  "ja-hrkt": "がちりんポケモン",
+  "ko": "월륜포켓몬",
+  "zh-hant": "月輪寶可夢",
+  "fr": "Pokémon Halo Lunaire",
+  "de": "Mondscheiben-Pokémon",
+  "es": "Pokémon Corona Lunar",
+  "it": "Pokémon Lunare",
+  "en": "Moone Pokémon",
+  "ja": "がちりんポケモン",
+  "zh-hans": "月轮宝可梦",
+  "es-419": "Pokémon Corona Lunar"
+ },
+ "flavor": {
+  "ko": "주위의 빛을 모두 빼앗아 자신 스스로 만월의 모습이 되어 밤하늘에 빛을 발산한다.",
+  "en": "It steals the light from its surroundings and then becomes the full moon, showering its own light across the night sky."
+ },
+ "varieties": [
+  {
+   "name": "lunala",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "413"
+}

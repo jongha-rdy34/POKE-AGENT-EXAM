@@ -1,0 +1,20 @@
+{
+ "name": "tm139",
+ "names": {
+  "ja-hrkt": "わざマシン１３９",
+  "ko": "기술머신139",
+  "zh-hant": "招式學習器１３９",
+  "fr": "CT139",
+  "de": "TM139",
+  "es": "MT139",
+  "it": "MT139",
+  "en": "TM139",
+  "ja": "わざマシン１３９",
+  "zh-hans": "招式学习器１３９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

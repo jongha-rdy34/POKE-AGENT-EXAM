@@ -1,0 +1,31 @@
+{
+ "name": "body-press",
+ "names": {
+  "ja-hrkt": "ボディプレス",
+  "ko": "바디프레스",
+  "zh-hant": "撲擊",
+  "fr": "Big Splash",
+  "de": "Body Press",
+  "es": "Plancha Corporal",
+  "it": "Schiacciacorpo",
+  "en": "Body Press",
+  "ja": "ボディプレス",
+  "zh-hans": "扑击",
+  "es-419": "Plancha Corporal"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Damage is calculated using the user's Defense stat as its Attack, including stat stage changes. "
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "몸을 부딪쳐서 공격한다. 방어가 높을수록 주는 데미지가 올라간다.",
+  "en": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this move deals."
+ }
+}

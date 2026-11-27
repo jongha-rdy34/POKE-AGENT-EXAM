@@ -1,0 +1,20 @@
+{
+ "name": "poochyena-fang",
+ "names": {
+  "ja-hrkt": "ポチエナのキバ",
+  "ko": "포챠나의이빨",
+  "zh-hant": "土狼犬的牙",
+  "fr": "Croc de Medhyèna",
+  "de": "Fiffyen-Zahn",
+  "es": "Colmillo de Poochyena",
+  "it": "Zanna di Poochyena",
+  "en": "Poochyena Fang",
+  "ja": "ポチエナのキバ",
+  "zh-hans": "土狼犬的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

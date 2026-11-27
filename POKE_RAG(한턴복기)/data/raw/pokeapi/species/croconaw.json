@@ -1,0 +1,42 @@
+{
+ "id": 159,
+ "name": "croconaw",
+ "names": {
+  "ja-hrkt": "アリゲイツ",
+  "ja-roma": "Alligates",
+  "ko": "엘리게이",
+  "zh-hant": "藍鱷",
+  "fr": "Crocrodil",
+  "de": "Tyracroc",
+  "es": "Croconaw",
+  "it": "Croconaw",
+  "en": "Croconaw",
+  "ja": "アリゲイツ",
+  "zh-hans": "蓝鳄",
+  "es-419": "Croconaw"
+ },
+ "genus": {
+  "ja-hrkt": "おおあごポケモン",
+  "ko": "큰턱포켓몬",
+  "zh-hant": "大顎寶可夢",
+  "fr": "Pokémon Mâchoire",
+  "de": "Großmaul",
+  "es": "Pokémon Fauces",
+  "it": "Pokémon Mascellone",
+  "en": "Big Jaw Pokémon",
+  "ja": "おおあごポケモン",
+  "zh-hans": "大颚宝可梦",
+  "es-419": "Pokémon Fauces"
+ },
+ "flavor": {
+  "en": "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
+  "ko": "한 번 물고 늘어지면 절대로 놓지 않는다. 이빨 끝이 낚싯바늘처럼 휘어져 있어서 한 번 들어가면 빠지지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "croconaw",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "81"
+}

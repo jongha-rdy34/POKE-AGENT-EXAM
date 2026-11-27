@@ -1,0 +1,20 @@
+{
+ "name": "luvdisc-scales",
+ "names": {
+  "ja-hrkt": "ラブカスのウロコ",
+  "ko": "사랑동이의비늘",
+  "zh-hant": "愛心魚的鱗片",
+  "fr": "Écaille de Lovdisc",
+  "de": "Liebiskus-Schuppe",
+  "es": "Escama de Luvdisc",
+  "it": "Squama di Luvdisc",
+  "en": "Luvdisc Scales",
+  "ja": "ラブカスのウロコ",
+  "zh-hans": "爱心鱼的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "green-apricorn",
+ "names": {
+  "ja-hrkt": "みどぼんぐり",
+  "ko": "초록규토리",
+  "zh-hant": "綠球果",
+  "fr": "Noigrume Vert",
+  "de": "Aprikoko Grün",
+  "es": "Bonguri Verde",
+  "it": "Ghicocca Verde",
+  "en": "Green Apricorn",
+  "ja": "みどぼんぐり",
+  "zh-hans": "绿球果",
+  "es-419": "Bonguri Verde"
+ },
+ "category": "apricorn-box",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour fabriquer une Copain Ball.",
+  "en": "Used to make a Friend Ball."
+ },
+ "flavor": {
+  "en": "A green Apricorn. It has a mysterious, aromatic scent.",
+  "ko": "초록색의 규토리. 이상하게도 고소한 향기가 난다.",
+  "ja": "みどりの ぼんぐり。 不思議と こうばしい かおりがする。"
+ }
+}

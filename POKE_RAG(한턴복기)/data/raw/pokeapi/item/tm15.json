@@ -1,0 +1,28 @@
+{
+ "name": "tm15",
+ "names": {
+  "ja-hrkt": "わざマシン１５",
+  "ko": "기술머신15",
+  "zh-hant": "招式學習器１５",
+  "fr": "CT15",
+  "de": "TM15",
+  "es": "MT15",
+  "it": "MT15",
+  "en": "TM15",
+  "ja": "わざマシン１５",
+  "zh-hans": "招式学习器１５",
+  "es-419": "MT15"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Ultralaser à un Pokémon compatible.",
+  "en": "Teaches Hyper Beam to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user burrows into the ground, then attacks on the next turn.",
+  "ko": "1턴째에 파고들어 2턴째에 상대를 공격한다.",
+  "ja": "１ターン目に 潜り ２ターン目で 相手を 攻撃する。"
+ }
+}

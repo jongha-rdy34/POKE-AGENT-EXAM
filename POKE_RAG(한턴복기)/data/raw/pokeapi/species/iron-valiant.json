@@ -1,0 +1,37 @@
+{
+ "id": 1006,
+ "name": "iron-valiant",
+ "names": {
+  "ja-hrkt": "テツノブジン",
+  "ja-roma": "Tetsunobujin",
+  "ko": "무쇠무인",
+  "zh-hant": "鐵武者",
+  "fr": "Garde-de-Fer",
+  "de": "Eisenkrieger",
+  "es": "Ferropaladín",
+  "it": "Eroeferreo",
+  "en": "Iron Valiant",
+  "ja": "テツノブジン",
+  "zh-hans": "铁武者",
+  "es-419": "Ferropaladín"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal."
+ },
+ "varieties": [
+  {
+   "name": "iron-valiant",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "534"
+}

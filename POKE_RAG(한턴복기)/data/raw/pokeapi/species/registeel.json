@@ -1,0 +1,42 @@
+{
+ "id": 379,
+ "name": "registeel",
+ "names": {
+  "ja-hrkt": "レジスチル",
+  "ja-roma": "Registeel",
+  "ko": "레지스틸",
+  "zh-hant": "雷吉斯奇魯",
+  "fr": "Registeel",
+  "de": "Registeel",
+  "es": "Registeel",
+  "it": "Registeel",
+  "en": "Registeel",
+  "ja": "レジスチル",
+  "zh-hans": "雷吉斯奇鲁",
+  "es-419": "Registeel"
+ },
+ "genus": {
+  "ja-hrkt": "くろがねポケモン",
+  "ko": "쇠철포켓몬",
+  "zh-hant": "黑金寶可夢",
+  "fr": "Pokémon Fer",
+  "de": "Eisen-Pokémon",
+  "es": "Pokémon Hierro",
+  "it": "Pokémon Ferro",
+  "en": "Iron Pokémon",
+  "ja": "くろがねポケモン",
+  "zh-hans": "黑金宝可梦",
+  "es-419": "Pokémon Hierro"
+ },
+ "flavor": {
+  "en": "It’s rumored that this Pokémon was born deep underground in the planet’s mantle and that it emerged onto the surface 10,000 years ago.",
+  "ko": "땅속 맨틀에서 태어나 약 1만 년 전에 지상으로 올라왔다는 이야기가 있다."
+ },
+ "varieties": [
+  {
+   "name": "registeel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "195"
+}

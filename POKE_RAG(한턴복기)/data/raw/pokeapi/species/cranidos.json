@@ -1,0 +1,42 @@
+{
+ "id": 408,
+ "name": "cranidos",
+ "names": {
+  "ja-hrkt": "ズガイドス",
+  "ja-roma": "Zugaidos",
+  "ko": "두개도스",
+  "zh-hant": "頭蓋龍",
+  "fr": "Kranidos",
+  "de": "Koknodon",
+  "es": "Cranidos",
+  "it": "Cranidos",
+  "en": "Cranidos",
+  "ja": "ズガイドス",
+  "zh-hans": "头盖龙",
+  "es-419": "Cranidos"
+ },
+ "genus": {
+  "ja-hrkt": "ずつきポケモン",
+  "ko": "박치기포켓몬",
+  "zh-hant": "頭錘寶可夢",
+  "fr": "Pokémon Coud’Boule",
+  "de": "Kopfstoß",
+  "es": "Pokémon Cabezazo",
+  "it": "Pokémon Cranioso",
+  "en": "Head Butt Pokémon",
+  "ja": "ずつきポケモン",
+  "zh-hans": "头锤宝可梦",
+  "es-419": "Pokémon Cabezazo"
+ },
+ "flavor": {
+  "en": "An incredibly rare sight. They duel each other by ramming their heads together, and the resulting sound echoes throughout the area like the pealing of a bell.",
+  "ko": "단단한 두개골이 특징이다. 박치기로 나무를 부러뜨려 잘 익은 나무열매를 먹었다."
+ },
+ "varieties": [
+  {
+   "name": "cranidos",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "211"
+}

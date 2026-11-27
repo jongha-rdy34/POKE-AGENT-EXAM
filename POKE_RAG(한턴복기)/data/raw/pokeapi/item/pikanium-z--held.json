@@ -1,0 +1,28 @@
+{
+ "name": "pikanium-z--held",
+ "names": {
+  "ja-hrkt": "ピカチュウＺ",
+  "ko": "피카츄Z",
+  "zh-hant": "皮卡丘Ｚ",
+  "fr": "Pikazélite",
+  "de": "Pikachium Z",
+  "es": "Pikastal Z",
+  "it": "Pikacium Z",
+  "en": "Pikanium Z",
+  "ja": "ピカチュウＺ",
+  "zh-hans": "皮卡丘Ｚ",
+  "es-419": "Pikastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Pikachu d'améliorer Électacle en Pikachute Foudroyante.",
+  "en": "Held: Allows Pikachu to upgrade Volt Tackle into Catastropika."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 피카츄의 볼트태클을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Pikachu’s Volt Tackle to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ピカチュウの ボルテッカーを Ｚワザに グレードアップする。"
+ }
+}

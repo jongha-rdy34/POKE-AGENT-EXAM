@@ -1,0 +1,42 @@
+{
+ "id": 857,
+ "name": "hattrem",
+ "names": {
+  "ja-hrkt": "テブリム",
+  "ja-roma": "Tebrim",
+  "ko": "손지브림",
+  "zh-hant": "提布莉姆",
+  "fr": "Chapotus",
+  "de": "Brimano",
+  "es": "Hattrem",
+  "it": "Hattrem",
+  "en": "Hattrem",
+  "ja": "テブリム",
+  "zh-hans": "提布莉姆",
+  "es-419": "Hattrem"
+ },
+ "genus": {
+  "ja-hrkt": "せいしゅくポケモン",
+  "ko": "정숙포켓몬",
+  "zh-hant": "肅靜寶可夢",
+  "fr": "Pokémon Serein",
+  "de": "Ruhe-Pokémon",
+  "es": "Pokémon Serenidad",
+  "it": "Pokémon Quiete",
+  "en": "Serene Pokémon",
+  "ja": "せいしゅくポケモン",
+  "zh-hans": "肃静宝可梦",
+  "es-419": "Pokémon Serenidad"
+ },
+ "flavor": {
+  "ko": "머리의 술로 상대를 때려 꼼짝 못 하게 한다. 프로복서조차 한 방에 KO되는 파괴력이다.",
+  "en": "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer."
+ },
+ "varieties": [
+  {
+   "name": "hattrem",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "450"
+}

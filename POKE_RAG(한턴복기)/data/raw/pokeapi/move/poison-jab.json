@@ -1,0 +1,31 @@
+{
+ "name": "poison-jab",
+ "names": {
+  "ja-hrkt": "どくづき",
+  "ko": "독찌르기",
+  "zh-hant": "毒擊",
+  "fr": "Direct Toxik",
+  "de": "Gifthieb",
+  "es": "Puya Nociva",
+  "it": "Velenpuntura",
+  "en": "Poison Jab",
+  "ja": "どくづき",
+  "zh-hans": "毒击",
+  "es-419": "Golpe Venenoso"
+ },
+ "type": "poison",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to poison the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target.",
+  "ko": "독에 물든 촉수나 팔로 상대를 꿰찌른다. 독 상태로 만들 때가 있다."
+ }
+}

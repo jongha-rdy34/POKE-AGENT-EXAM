@@ -1,0 +1,42 @@
+{
+ "id": 625,
+ "name": "bisharp",
+ "names": {
+  "ja-hrkt": "キリキザン",
+  "ja-roma": "Kirikizan",
+  "ko": "절각참",
+  "zh-hant": "劈斬司令",
+  "fr": "Scalproie",
+  "de": "Caesurio",
+  "es": "Bisharp",
+  "it": "Bisharp",
+  "en": "Bisharp",
+  "ja": "キリキザン",
+  "zh-hans": "劈斩司令",
+  "es-419": "Bisharp"
+ },
+ "genus": {
+  "ja-hrkt": "とうじんポケモン",
+  "ko": "도인포켓몬",
+  "zh-hant": "刀刃寶可夢",
+  "fr": "Pokémon Tranchant",
+  "de": "Schwertklingen-Pokémon",
+  "es": "Pokémon Filo",
+  "it": "Pokémon Fildilama",
+  "en": "Sword Blade Pokémon",
+  "ja": "とうじんポケモン",
+  "zh-hans": "刀刃宝可梦",
+  "es-419": "Pokémon Filo"
+ },
+ "flavor": {
+  "en": "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found.",
+  "ko": "칼날을 가는 돌의 장소를 두고 액슨도와 격렬하게 싸움을 벌인다."
+ },
+ "varieties": [
+  {
+   "name": "bisharp",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "317"
+}

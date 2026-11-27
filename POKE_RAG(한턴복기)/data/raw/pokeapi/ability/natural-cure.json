@@ -1,0 +1,23 @@
+{
+ "name": "natural-cure",
+ "names": {
+  "ja-hrkt": "しぜんかいふく",
+  "ko": "자연회복",
+  "zh-hant": "自然回復",
+  "fr": "Médic Nature",
+  "de": "Innere Kraft",
+  "es": "Cura Natural",
+  "it": "Alternacura",
+  "en": "Natural Cure",
+  "ja": "しぜんかいふく",
+  "zh-hans": "自然回复",
+  "es-419": "Curación Natural"
+ },
+ "effect": {
+  "en": "Cures any major status ailment upon switching out."
+ },
+ "flavor": {
+  "en": "The Pokémon's status conditions are cured when it switches out.",
+  "ko": "지닌 포켓몬으로 돌아오면 상태 이상이 회복된다."
+ }
+}

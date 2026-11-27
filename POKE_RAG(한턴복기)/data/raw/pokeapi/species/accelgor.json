@@ -1,0 +1,42 @@
+{
+ "id": 617,
+ "name": "accelgor",
+ "names": {
+  "ja-hrkt": "アギルダー",
+  "ja-roma": "Agilder",
+  "ko": "어지리더",
+  "zh-hant": "敏捷蟲",
+  "fr": "Limaspeed",
+  "de": "Hydragil",
+  "es": "Accelgor",
+  "it": "Accelgor",
+  "en": "Accelgor",
+  "ja": "アギルダー",
+  "zh-hans": "敏捷虫",
+  "es-419": "Accelgor"
+ },
+ "genus": {
+  "ja-hrkt": "からぬけポケモン",
+  "ko": "탈껍질포켓몬",
+  "zh-hant": "脫殼寶可夢",
+  "fr": "Pokémon Exuviateur",
+  "de": "Entschalungs-Pokémon",
+  "es": "Pokémon Sincaparazón",
+  "it": "Pokémon Sgusciato",
+  "en": "Shell Out Pokémon",
+  "ja": "からぬけポケモン",
+  "zh-hans": "脱壳宝可梦",
+  "es-419": "Pokémon Sincaparazón"
+ },
+ "flavor": {
+  "en": "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane.",
+  "ko": "껍질을 벗어 몸이 가벼워졌다. 띠 형태의 점막을 몸에 둘러 건조해지는 것을 방지한다."
+ },
+ "varieties": [
+  {
+   "name": "accelgor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "312"
+}

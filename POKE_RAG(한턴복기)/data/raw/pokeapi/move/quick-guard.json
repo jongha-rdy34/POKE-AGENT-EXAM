@@ -1,0 +1,31 @@
+{
+ "name": "quick-guard",
+ "names": {
+  "ja-hrkt": "ファストガード",
+  "ko": "패스트가드",
+  "zh-hant": "快速防守",
+  "fr": "Prévention",
+  "de": "Rapidschutz",
+  "es": "Anticipo",
+  "it": "Anticipo",
+  "en": "Quick Guard",
+  "ja": "ファストガード",
+  "zh-hans": "快速防守",
+  "es-419": "Defensa Rápida"
+ },
+ "type": "fighting",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 3,
+ "target": "users-field",
+ "effect": {
+  "en": "Prevents any priority moves from hitting friendly Pokémon this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user protects itself and its allies from priority moves.",
+  "ko": "자신과 같은 편을 상대의 선제공격으로부터 지킨다."
+ }
+}

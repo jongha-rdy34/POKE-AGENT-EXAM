@@ -1,0 +1,23 @@
+{
+ "name": "hunger-switch",
+ "names": {
+  "ja-hrkt": "はらぺこスイッチ",
+  "ko": "꼬르륵스위치",
+  "zh-hant": "飽了又餓",
+  "fr": "Déclic Fringale",
+  "de": "Heißhunger",
+  "es": "Mutapetito",
+  "it": "Pancialterna",
+  "en": "Hunger Switch",
+  "ja": "はらぺこスイッチ",
+  "zh-hans": "饱了又饿",
+  "es-419": "Mutapetito"
+ },
+ "effect": {
+  "en": "Causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode"
+ },
+ "flavor": {
+  "ko": "턴이 끝날 때마다 배부른 모양, 배고픈 모양, 배부른 모양...으로 번갈아서 모습을 바꾼다.",
+  "en": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "galladite",
+ "names": {
+  "ja-hrkt": "エルレイドナイト",
+  "ko": "엘레이드나이트",
+  "zh-hant": "艾路雷朵進化石",
+  "fr": "Gallamite",
+  "de": "Galagladinit",
+  "es": "Galladita",
+  "it": "Galladite",
+  "en": "Galladite",
+  "ja": "エルレイドナイト",
+  "zh-hans": "艾路雷朵进化石",
+  "es-419": "Galladita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Gallame de Méga-Évoluer en Méga-Gallame.",
+  "en": "Held: Allows Gallade to Mega Evolve into Mega Gallade."
+ },
+ "flavor": {
+  "ko": "엘레이드에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Gallade hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "エルレイドに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

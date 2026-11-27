@@ -1,0 +1,28 @@
+{
+ "name": "poison-gem",
+ "names": {
+  "ja-hrkt": "どくのジュエル",
+  "ko": "독주얼",
+  "zh-hant": "毒之寶石",
+  "fr": "Joyau Poison",
+  "de": "Giftjuwel",
+  "es": "Gema Veneno",
+  "it": "Bijouveleno",
+  "en": "Poison Gem",
+  "ja": "どくのジュエル",
+  "zh-hans": "毒之宝石",
+  "es-419": "Gema Veneno"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Poison, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Poison-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of poison. When held, it strengthens the power of a Poison-type move one time.",
+  "ko": "독타입의 주얼. 지니게 하면 한 번만 독 기술의 위력이 강해진다.",
+  "ja": "どくの タイプの ジュエル。 持たせると １度だけ どくの 技の 威力が 強まる。"
+ }
+}

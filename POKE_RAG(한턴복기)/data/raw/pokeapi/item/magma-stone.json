@@ -1,0 +1,28 @@
+{
+ "name": "magma-stone",
+ "names": {
+  "ja-hrkt": "かざんのおきいし",
+  "ko": "화산의돌",
+  "zh-hant": "火山鎮石",
+  "fr": "Pierre Magma",
+  "de": "Magmastein",
+  "es": "Piedra Magma",
+  "it": "Magmapietra",
+  "en": "Magma Stone",
+  "ja": "かざんのおきいし",
+  "zh-hans": "火山镇石",
+  "es-419": "Piedra Magma"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Du magma est scellé à l'intérieur.",
+  "en": "Magma is sealed inside."
+ },
+ "flavor": {
+  "en": "A stone formed by boulders melting in intensely hot magma, then hardening. Magma remains sealed inside it.",
+  "ko": "이글거리는 마그마의 열로 녹은 암석이 굳어져 생긴 것. 안에는 마그마가 남아 있다.",
+  "ja": "しゃくねつの マグマの 熱でとけた 岩石が 固まって できたもの。 中に マグマが 残っている。"
+ }
+}

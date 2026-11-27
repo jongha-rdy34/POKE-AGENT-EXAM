@@ -1,0 +1,31 @@
+{
+ "name": "shadow-punch",
+ "names": {
+  "ja-hrkt": "シャドーパンチ",
+  "ko": "섀도펀치",
+  "zh-hant": "暗影拳",
+  "fr": "Poing Ombre",
+  "de": "Finsterfaust",
+  "es": "Puño Sombra",
+  "it": "Pugnodombra",
+  "en": "Shadow Punch",
+  "ja": "シャドーパンチ",
+  "zh-hans": "暗影拳",
+  "es-419": "Puño Sombra"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 60,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Never misses."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user throws a punch from the shadows. This attack never misses.",
+  "ko": "그림자에 섞여 펀치를 날린다. 공격은 반드시 명중한다."
+ }
+}

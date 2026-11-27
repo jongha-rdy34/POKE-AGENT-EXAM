@@ -1,0 +1,20 @@
+{
+ "name": "mimikyu-scrap",
+ "names": {
+  "ja-hrkt": "ミミッキュのきれはし",
+  "ko": "따라큐의천조각",
+  "zh-hant": "謎擬Ｑ的殘片",
+  "fr": "Tissu de Mimiqui",
+  "de": "Mimigma-Fetzen",
+  "es": "Retal de Mimikyu",
+  "it": "Brandello di Mimikyu",
+  "en": "Mimikyu Scrap",
+  "ja": "ミミッキュのきれはし",
+  "zh-hans": "谜拟丘的残片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

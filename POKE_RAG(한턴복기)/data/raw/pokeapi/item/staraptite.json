@@ -1,0 +1,20 @@
+{
+ "name": "staraptite",
+ "names": {
+  "ko": "찌르호크나이트",
+  "zh-hant": "姆克鷹進化石",
+  "fr": "Étouraptorite",
+  "de": "Staraptornit",
+  "es": "Staraptorita",
+  "it": "Staraptorite",
+  "en": "Staraptite",
+  "ja": "ムクホークナイト",
+  "zh-hans": "姆克鹰进化石",
+  "es-419": "Staraptorita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 447,
+ "name": "riolu",
+ "names": {
+  "ja-hrkt": "リオル",
+  "ja-roma": "Riolu",
+  "ko": "리오르",
+  "zh-hant": "利歐路",
+  "fr": "Riolu",
+  "de": "Riolu",
+  "es": "Riolu",
+  "it": "Riolu",
+  "en": "Riolu",
+  "ja": "リオル",
+  "zh-hans": "利欧路",
+  "es-419": "Riolu"
+ },
+ "genus": {
+  "ja-hrkt": "はもんポケモン",
+  "ko": "파문포켓몬",
+  "zh-hant": "波紋寶可夢",
+  "fr": "Pokémon Émanation",
+  "de": "Wellenspiel-Pokémon",
+  "es": "Pokémon Emanación",
+  "it": "Pokémon Emanazione",
+  "en": "Emanation Pokémon",
+  "ja": "はもんポケモン",
+  "zh-hans": "波纹宝可梦",
+  "es-419": "Pokémon Emanación"
+ },
+ "flavor": {
+  "en": "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing.",
+  "ko": "상대의 감정뿐만 아니라 자연의 상태도 파동이라는 파장의 형태로 느낀다."
+ },
+ "varieties": [
+  {
+   "name": "riolu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "232"
+}

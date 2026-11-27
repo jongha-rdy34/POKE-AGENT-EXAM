@@ -1,0 +1,31 @@
+{
+ "name": "wild-charge",
+ "names": {
+  "ja-hrkt": "ワイルドボルト",
+  "ko": "와일드볼트",
+  "zh-hant": "瘋狂伏特",
+  "fr": "Éclair Fou",
+  "de": "Stromstoß",
+  "es": "Voltio Cruel",
+  "it": "Sprizzalampo",
+  "en": "Wild Charge",
+  "ja": "ワイルドボルト",
+  "zh-hans": "疯狂伏特",
+  "es-419": "Carga Salvaje"
+ },
+ "type": "electric",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User receives 1/4 the damage it inflicts in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user shrouds itself in electricity and smashes into its target. This also damages the user a little.",
+  "ko": "전기를 두르고 상대에게 부딪쳐 공격한다. 자신도 조금 데미지를 입는다."
+ }
+}

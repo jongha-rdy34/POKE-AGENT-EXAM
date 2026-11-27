@@ -1,0 +1,42 @@
+{
+ "id": 481,
+ "name": "mesprit",
+ "names": {
+  "ja-hrkt": "エムリット",
+  "ja-roma": "Emrit",
+  "ko": "엠라이트",
+  "zh-hant": "艾姆利多",
+  "fr": "Créfollet",
+  "de": "Vesprit",
+  "es": "Mesprit",
+  "it": "Mesprit",
+  "en": "Mesprit",
+  "ja": "エムリット",
+  "zh-hans": "艾姆利多",
+  "es-419": "Mesprit"
+ },
+ "genus": {
+  "ja-hrkt": "かんじょうポケモン",
+  "ko": "감정포켓몬",
+  "zh-hant": "感情寶可夢",
+  "fr": "Pokémon Émotion",
+  "de": "Emotions-Pokémon",
+  "es": "Pokémon Sensorio",
+  "it": "Pokémon Emozione",
+  "en": "Emotion Pokémon",
+  "ja": "かんじょうポケモン",
+  "zh-hans": "感情宝可梦",
+  "es-419": "Pokémon Sensorio"
+ },
+ "flavor": {
+  "en": "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray.",
+  "ko": "호수의 밑바닥에서 잠자고 있지만 영혼이 빠져나가서 수면을 날아다닌다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "mesprit",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "242"
+}

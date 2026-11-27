@@ -1,0 +1,28 @@
+{
+ "name": "tm73",
+ "names": {
+  "ja-hrkt": "わざマシン７３",
+  "ko": "기술머신73",
+  "zh-hant": "招式學習器７３",
+  "fr": "CT73",
+  "de": "TM73",
+  "es": "MT73",
+  "it": "MT73",
+  "en": "TM73",
+  "ja": "わざマシン７３",
+  "zh-hans": "招式学习器７３",
+  "es-419": "MT73"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Cage Éclair à un Pokémon compatible.",
+  "en": "Teaches Thunder Wave to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.",
+  "ko": "독 칼날로 상대를 베어 가른다. 독 상태로 만들 때가 있고 급소에도 맞기 쉽다.",
+  "ja": "毒の 刃で 相手を 切り裂く。 毒状態に することが あり 急所にも 当たりやすい。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "normalium-z--held",
+ "names": {
+  "ja-hrkt": "ノーマルＺ",
+  "ko": "노말Z",
+  "zh-hant": "一般Ｚ",
+  "fr": "Normazélite",
+  "de": "Normium Z",
+  "es": "Normastal Z",
+  "it": "Normium Z",
+  "en": "Normalium Z",
+  "ja": "ノーマルＺ",
+  "zh-hans": "一般Ｚ",
+  "es-419": "Normastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Normal.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Normal moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 노말타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Normal-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 ノーマルタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

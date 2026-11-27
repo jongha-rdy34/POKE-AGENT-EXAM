@@ -1,0 +1,18 @@
+{
+ "name": "naughty",
+ "names": {
+  "ja-hrkt": "やんちゃ",
+  "ko": "개구쟁이",
+  "zh-hant": "頑皮",
+  "fr": "Mauvais",
+  "de": "Frech",
+  "es": "Pícara",
+  "it": "Birbona",
+  "en": "Naughty",
+  "ja": "やんちゃ",
+  "zh-hans": "顽皮",
+  "es-419": "Pícara"
+ },
+ "plus": "attack",
+ "minus": "special-defense"
+}

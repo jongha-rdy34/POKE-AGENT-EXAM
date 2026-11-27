@@ -1,0 +1,23 @@
+{
+ "name": "synchronize",
+ "names": {
+  "ja-hrkt": "シンクロ",
+  "ko": "싱크로",
+  "zh-hant": "同步",
+  "fr": "Synchro",
+  "de": "Synchro",
+  "es": "Sincronía",
+  "it": "Sincronismo",
+  "en": "Synchronize",
+  "ja": "シンクロ",
+  "zh-hans": "同步",
+  "es-419": "Sincronía"
+ },
+ "effect": {
+  "en": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+ },
+ "flavor": {
+  "en": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition.",
+  "ko": "자신이 걸린 독이나 마비, 화상을 상대에게 옮긴다."
+ }
+}

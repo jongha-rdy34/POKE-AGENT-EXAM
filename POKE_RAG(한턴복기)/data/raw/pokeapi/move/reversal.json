@@ -1,0 +1,31 @@
+{
+ "name": "reversal",
+ "names": {
+  "ja-hrkt": "きしかいせい",
+  "ko": "기사회생",
+  "zh-hant": "起死回生",
+  "fr": "Contre",
+  "de": "Gegenschlag",
+  "es": "Inversión",
+  "it": "Contropiede",
+  "en": "Reversal",
+  "ja": "きしかいせい",
+  "zh-hans": "起死回生",
+  "es-419": "Inversión"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "An all-out attack that becomes more powerful the less HP the user has.",
+  "ko": "힘을 쥐어짜서 공격한다. 자신의 HP가 적을수록 기술의 위력이 올라간다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "minimize",
+ "names": {
+  "ja-hrkt": "ちいさくなる",
+  "ko": "작아지기",
+  "zh-hant": "變小",
+  "fr": "Lilliput",
+  "de": "Komprimator",
+  "es": "Reducción",
+  "it": "Minimizzato",
+  "en": "Minimize",
+  "ja": "ちいさくなる",
+  "zh-hans": "变小",
+  "es-419": "Reducción"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s evasion by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user compresses its body to make itself look smaller, which sharply boosts its evasiveness.",
+  "ko": "몸을 축소하여 작게 보임으로써 자신의 회피율을 크게 올린다."
+ }
+}

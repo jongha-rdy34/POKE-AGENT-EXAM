@@ -1,0 +1,28 @@
+{
+ "name": "data-card-27",
+ "names": {
+  "ja-hrkt": "データカード２７",
+  "ko": "데이터카드27",
+  "zh-hant": "資料卡２７",
+  "fr": "Carte Mémo27",
+  "de": "Datenkarte27",
+  "es": "Tarjeta Datos 27",
+  "it": "Scheda Dati 27",
+  "en": "Data Card 27",
+  "ja": "データカード２７",
+  "zh-hans": "数据卡２７",
+  "es-419": "Tarjeta Datos 27"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le temps total passé au Pokéathlon.",
+  "en": "Records the total time spent in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how much time you spent participating in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓슬론으로 즐긴 시간이 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケスロンで 遊んだ 時間が 記録された カード。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 486,
+ "name": "regigigas",
+ "names": {
+  "ja-hrkt": "レジギガス",
+  "ja-roma": "Regigigas",
+  "ko": "레지기가스",
+  "zh-hant": "雷吉奇卡斯",
+  "fr": "Regigigas",
+  "de": "Regigigas",
+  "es": "Regigigas",
+  "it": "Regigigas",
+  "en": "Regigigas",
+  "ja": "レジギガス",
+  "zh-hans": "雷吉奇卡斯",
+  "es-419": "Regigigas"
+ },
+ "genus": {
+  "ja-hrkt": "きょだいポケモン",
+  "ko": "거대포켓몬",
+  "zh-hant": "巨大寶可夢",
+  "fr": "Pokémon Prodigieux",
+  "de": "Kolossal-Pokémon",
+  "es": "Pokémon Colosal",
+  "it": "Pokémon Colossale",
+  "en": "Colossal Pokémon",
+  "ja": "きょだいポケモン",
+  "zh-hans": "巨大宝可梦",
+  "es-419": "Pokémon Colosal"
+ },
+ "flavor": {
+  "en": "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth.",
+  "ko": "다양한 재료로 포켓몬을 만든 후 대륙을 지금의 장소로 이동시켰다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "regigigas",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "247"
+}

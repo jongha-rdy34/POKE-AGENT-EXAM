@@ -1,0 +1,42 @@
+{
+ "id": 261,
+ "name": "poochyena",
+ "names": {
+  "ja-hrkt": "ポチエナ",
+  "ja-roma": "Pochiena",
+  "ko": "포챠나",
+  "zh-hant": "土狼犬",
+  "fr": "Medhyèna",
+  "de": "Fiffyen",
+  "es": "Poochyena",
+  "it": "Poochyena",
+  "en": "Poochyena",
+  "ja": "ポチエナ",
+  "zh-hans": "土狼犬",
+  "es-419": "Poochyena"
+ },
+ "genus": {
+  "ja-hrkt": "かみつきポケモン",
+  "ko": "물어뜯기포켓몬",
+  "zh-hant": "緊咬寶可夢",
+  "fr": "Pokémon Morsure",
+  "de": "Biss",
+  "es": "Pokémon Mordisco",
+  "it": "Pokémon Morso",
+  "en": "Bite Pokémon",
+  "ja": "かみつきポケモン",
+  "zh-hans": "紧咬宝可梦",
+  "es-419": "Pokémon Mordisco"
+ },
+ "flavor": {
+  "en": "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
+  "ko": "무엇이든 먹는 잡식성인 포켓몬이다. 몸에 비해 큰 이빨이 특징이다. 꼬리의 털을 세우고 적을 위협한다."
+ },
+ "varieties": [
+  {
+   "name": "poochyena",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "133"
+}

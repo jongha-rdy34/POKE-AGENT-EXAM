@@ -1,0 +1,28 @@
+{
+ "name": "makeup-bag",
+ "names": {
+  "ja-hrkt": "コスメポーチ",
+  "ko": "코스메틱파우치",
+  "zh-hant": "化妝包",
+  "fr": "Trousse Beauté",
+  "de": "Kosmetiketui",
+  "es": "Kit Maquillaje",
+  "it": "Trousse",
+  "en": "Makeup Bag",
+  "ja": "コスメポーチ",
+  "zh-hans": "化妆包",
+  "es-419": "Kit Maquillaje"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de changer la couleur de son rouge à lèvres",
+  "en": "Allows the player to change their lipstick color."
+ },
+ "flavor": {
+  "ko": "립을 담아둘 수 있는 멋진 케이스.",
+  "en": "A rather chic-looking case for carrying lipsticks.",
+  "ja": "リップを しまっておける おしゃれな 小物入れ。"
+ }
+}

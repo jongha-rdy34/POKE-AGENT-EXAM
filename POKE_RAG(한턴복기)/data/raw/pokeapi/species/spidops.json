@@ -1,0 +1,37 @@
+{
+ "id": 918,
+ "name": "spidops",
+ "names": {
+  "ja-hrkt": "ワナイダー",
+  "ja-roma": "Wanaider",
+  "ko": "트래피더",
+  "zh-hant": "操陷蛛",
+  "fr": "Filentrappe",
+  "de": "Spinsidias",
+  "es": "Spidops",
+  "it": "Spidops",
+  "en": "Spidops",
+  "ja": "ワナイダー",
+  "zh-hans": "操陷蛛",
+  "es-419": "Spidops"
+ },
+ "genus": {
+  "ja-hrkt": "トラップポケモン",
+  "ko": "트랩포켓몬",
+  "zh-hant": "陷阱寶可夢",
+  "fr": "Piège",
+  "de": "Falle",
+  "en": "Trap Pokémon",
+  "zh-hans": "陷阱宝可梦"
+ },
+ "flavor": {
+  "en": "Spidops covers its territory in tough, sticky threads to set up traps for intruders."
+ },
+ "varieties": [
+  {
+   "name": "spidops",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "482"
+}

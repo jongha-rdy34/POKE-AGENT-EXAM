@@ -1,0 +1,42 @@
+{
+ "id": 439,
+ "name": "mime-jr",
+ "names": {
+  "ja-hrkt": "マネネ",
+  "ja-roma": "Manene",
+  "ko": "흉내내",
+  "zh-hant": "魔尼尼",
+  "fr": "Mime Jr.",
+  "de": "Pantimimi",
+  "es": "Mime Jr.",
+  "it": "Mime Jr.",
+  "en": "Mime Jr.",
+  "ja": "マネネ",
+  "zh-hans": "魔尼尼",
+  "es-419": "Mime Jr."
+ },
+ "genus": {
+  "ja-hrkt": "マイムポケモン",
+  "ko": "따라하기포켓몬",
+  "zh-hant": "默劇寶可夢",
+  "fr": "Pokémon Mime",
+  "de": "Mimen-Pokémon",
+  "es": "Pokémon Mimo",
+  "it": "Pokémon Mimo",
+  "en": "Mime Pokémon",
+  "ja": "マイムポケモン",
+  "zh-hans": "默剧宝可梦",
+  "es-419": "Pokémon Mimo"
+ },
+ "flavor": {
+  "en": "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling.",
+  "ko": "춤을 잘 추는 마임꽁꽁의 제자인 것마냥 따라다니며 스텝을 열심히 흉내 낸다."
+ },
+ "varieties": [
+  {
+   "name": "mime-jr",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "57"
+}

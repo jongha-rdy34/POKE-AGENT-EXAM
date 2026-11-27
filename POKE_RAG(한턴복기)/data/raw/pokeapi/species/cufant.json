@@ -1,0 +1,42 @@
+{
+ "id": 878,
+ "name": "cufant",
+ "names": {
+  "ja-hrkt": "ゾウドウ",
+  "ja-roma": "Zoudou",
+  "ko": "끼리동",
+  "zh-hant": "銅象",
+  "fr": "Charibari",
+  "de": "Kupfanti",
+  "es": "Cufant",
+  "it": "Cufant",
+  "en": "Cufant",
+  "ja": "ゾウドウ",
+  "zh-hans": "铜象",
+  "es-419": "Cufant"
+ },
+ "genus": {
+  "ja-hrkt": "どうぞうポケモン",
+  "ko": "동상포켓몬",
+  "zh-hant": "像銅寶可夢",
+  "fr": "Pokémon Pachycuivre",
+  "de": "Kupferfant-Pokémon",
+  "es": "Pokémon Broncefante",
+  "it": "Pokémon Bronzofante",
+  "en": "Copperderm Pokémon",
+  "ja": "どうぞうポケモン",
+  "zh-hans": "像铜宝可梦",
+  "es-419": "Pokémon Broncefante"
+ },
+ "flavor": {
+  "ko": "힘쓰는 일에 강하다. 동으로 된 몸체는 비에 녹슬어 선명한 녹색으로 변한다.",
+  "en": "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color."
+ },
+ "varieties": [
+  {
+   "name": "cufant",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "460"
+}

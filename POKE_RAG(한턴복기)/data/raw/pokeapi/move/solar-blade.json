@@ -1,0 +1,31 @@
+{
+ "name": "solar-blade",
+ "names": {
+  "ja-hrkt": "ソーラーブレード",
+  "ko": "솔라블레이드",
+  "zh-hant": "日光刃",
+  "fr": "Lame Solaire",
+  "de": "Solarklinge",
+  "es": "Cuchilla Solar",
+  "it": "Lama Solare",
+  "en": "Solar Blade",
+  "ja": "ソーラーブレード",
+  "zh-hans": "日光刃",
+  "es-419": "Cuchillada Solar"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 125,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Requires a turn to charge before attacking."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "1턴째에 빛을 가득 모아 2턴째에 그 힘을 검에 담아 공격한다.",
+  "en": "The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn."
+ }
+}

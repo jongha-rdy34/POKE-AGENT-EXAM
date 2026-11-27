@@ -1,0 +1,25 @@
+{
+ "name": "fishing-rod--galar",
+ "names": {
+  "ja-hrkt": "つりざお",
+  "ko": "낚싯대",
+  "zh-hant": "釣竿",
+  "fr": "Canne à Pêche",
+  "de": "Angel",
+  "es": "Caña",
+  "it": "Amo",
+  "en": "Fishing Rod",
+  "ja": "つりざお",
+  "zh-hans": "钓竿",
+  "es-419": "Caña"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "물이 있는 장소에서 사용하면 다양한 포켓몬을 낚을 수 있다.",
+  "en": "Use it by the water to fish up various kinds of Pokémon.",
+  "ja": "水の ある 場所で 使うと いろんな ポケモンが つれる。"
+ }
+}

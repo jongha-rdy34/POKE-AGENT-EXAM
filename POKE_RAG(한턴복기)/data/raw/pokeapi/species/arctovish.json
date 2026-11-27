@@ -1,0 +1,42 @@
+{
+ "id": 883,
+ "name": "arctovish",
+ "names": {
+  "ja-hrkt": "ウオチルドン",
+  "ja-roma": "Uochilldon",
+  "ko": "어치르돈",
+  "zh-hant": "鰓魚海獸",
+  "fr": "Hydragla",
+  "de": "Pescryodon",
+  "es": "Arctovish",
+  "it": "Arctovish",
+  "en": "Arctovish",
+  "ja": "ウオチルドン",
+  "zh-hans": "鳃鱼海兽",
+  "es-419": "Arctovish"
+ },
+ "genus": {
+  "ja-hrkt": "かせきポケモン",
+  "ko": "화석포켓몬",
+  "zh-hant": "化石寶可夢",
+  "fr": "Pokémon Fossile",
+  "de": "Fossil-Pokémon",
+  "es": "Pokémon Fósil",
+  "it": "Pokémon Fossile",
+  "en": "Fossil Pokémon",
+  "ja": "かせきポケモン",
+  "zh-hans": "化石宝可梦",
+  "es-419": "Pokémon Fósil"
+ },
+ "flavor": {
+  "ko": "어떤 공격에도 상처 입지 않는 얼굴 가죽을 가졌지만 호흡이 자유롭지 않았던 탓에 멸종하였다.",
+  "en": "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway."
+ },
+ "varieties": [
+  {
+   "name": "arctovish",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "464"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "rock-incense",
+ "names": {
+  "ja-hrkt": "がんせきおこう",
+  "ko": "암석향로",
+  "zh-hant": "岩石薰香",
+  "fr": "Encens Roc",
+  "de": "Steinrauch",
+  "es": "Incienso Roca",
+  "it": "Roccioaroma",
+  "en": "Rock Incense",
+  "ja": "がんせきおこう",
+  "zh-hans": "岩石薰香",
+  "es-419": "Incienso Roca"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Roche du porteur infligent 20% de dégâts supplémentaires. Reproduction: Simularbre engendre un Œuf de Manzaï.",
+  "en": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Rock-type moves.",
+  "ko": "이상한 향기의 향로. 지니게 하면 바위타입 기술의 위력이 올라간다.",
+  "ja": "不思議な 香りの 御香。 持たせると いわタイプの 技の 威力が あがる。"
+ }
+}

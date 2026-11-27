@@ -1,0 +1,25 @@
+{
+ "name": "ss-ticket--letsgo",
+ "names": {
+  "ja-hrkt": "ふねのチケット",
+  "ko": "승선티켓",
+  "zh-hant": "船票",
+  "fr": "Passe Bateau",
+  "de": "Bootsticket",
+  "es": "Ticket del Barco",
+  "it": "Biglietto nave",
+  "en": "S.S. Ticket",
+  "ja": "ふねのチケット",
+  "zh-hans": "船票",
+  "es-419": "Ticket del Barco"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상트앙느호에 탈 때 필요한 승선 티켓. 배 그림이 그려져 있다.",
+  "en": "The ticket required to board the S.S. Anne. It has a drawing of a ship on it.",
+  "ja": "サント・アンヌ号に 乗るとき 必要な 船の チケット。 船の 絵が 描かれている。"
+ }
+}

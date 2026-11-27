@@ -1,0 +1,15 @@
+{
+ "name": "drampa-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Draïeul",
+  "en": "Mega Drampa"
+ },
+ "form_names": {
+  "ja-hrkt": "メガジジーロン",
+  "fr": "Méga-Draïeul",
+  "en": "Mega Drampa",
+  "ja": "メガジジーロン"
+ },
+ "is_mega": true
+}

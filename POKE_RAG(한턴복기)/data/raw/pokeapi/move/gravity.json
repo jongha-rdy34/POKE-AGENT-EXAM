@@ -1,0 +1,31 @@
+{
+ "name": "gravity",
+ "names": {
+  "ja-hrkt": "じゅうりょく",
+  "ko": "중력",
+  "zh-hant": "重力",
+  "fr": "Gravité",
+  "de": "Erdanziehung",
+  "es": "Gravedad",
+  "it": "Gravità",
+  "en": "Gravity",
+  "ja": "じゅうりょく",
+  "zh-hans": "重力",
+  "es-419": "Gravedad"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Disables moves and immunities that involve flying or levitating for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used.",
+  "ko": "5턴 동안 부유나 비행타입에 땅타입의 기술이 맞게 된다. 공중으로 나는 기술도 사용할 수 없다."
+ }
+}

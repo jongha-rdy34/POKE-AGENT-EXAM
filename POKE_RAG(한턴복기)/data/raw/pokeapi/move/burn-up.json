@@ -1,0 +1,31 @@
+{
+ "name": "burn-up",
+ "names": {
+  "ja-hrkt": "もえつきる",
+  "ko": "불사르기",
+  "zh-hant": "燃盡",
+  "fr": "Flamme Ultime",
+  "de": "Ausbrennen",
+  "es": "Llama Final",
+  "it": "Ultima Fiamma",
+  "en": "Burn Up",
+  "ja": "もえつきる",
+  "zh-hans": "燃尽",
+  "es-419": "Llama Final"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 130,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Removes the user’s Fire type after inflicting damage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "전신의 불꽃을 모두 태워서 큰 데미지를 준다. 자신의 불꽃타입이 없어진다.",
+  "en": "To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type."
+ }
+}

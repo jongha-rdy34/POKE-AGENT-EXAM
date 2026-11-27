@@ -1,0 +1,28 @@
+{
+ "name": "health-wing",
+ "names": {
+  "ja-hrkt": "たいりょくのハネ",
+  "ko": "체력깃털",
+  "zh-hant": "體力之羽",
+  "fr": "Plume Santé",
+  "de": "Heilfeder",
+  "es": "Pluma Vigor",
+  "it": "Piumsalute",
+  "en": "Health Feather",
+  "ja": "たいりょくのハネ",
+  "zh-hans": "体力之羽",
+  "es-419": "Pluma Vigor"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les EV de PV de 1.",
+  "en": "Increases HP effort by 1."
+ },
+ "flavor": {
+  "en": "An item for use on a Pokémon. It slightly increases the HP base points of a single Pokémon.",
+  "ko": "포켓몬에게 사용하는 도구. 포켓몬 1마리의 HP 기초 포인트를 조금 올린다.",
+  "ja": "ポケモンに 使う 道具。 ポケモン １匹の ＨＰの 基礎ポイントを ちょっと あげる。"
+ }
+}

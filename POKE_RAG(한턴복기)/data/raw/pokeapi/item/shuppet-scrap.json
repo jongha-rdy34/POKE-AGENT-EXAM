@@ -1,0 +1,20 @@
+{
+ "name": "shuppet-scrap",
+ "names": {
+  "ja-hrkt": "カゲボウズのきれはし",
+  "ko": "어둠대신의천조각",
+  "zh-hant": "怨影娃娃的殘片",
+  "fr": "Tissu de Polichombr",
+  "de": "Shuppet-Fetzen",
+  "es": "Retal de Shuppet",
+  "it": "Brandello di Shuppet",
+  "en": "Shuppet Scrap",
+  "ja": "カゲボウズのきれはし",
+  "zh-hans": "怨影娃娃的残片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

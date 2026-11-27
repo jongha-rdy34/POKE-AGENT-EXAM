@@ -1,0 +1,23 @@
+{
+ "name": "guard-dog",
+ "names": {
+  "ja-hrkt": "ばんけん",
+  "ko": "파수견",
+  "zh-hant": "看門犬",
+  "fr": "Chien de Garde",
+  "de": "Wachhund",
+  "es": "Perro Guardián",
+  "it": "Cane da Guardia",
+  "en": "Guard Dog",
+  "ja": "ばんけん",
+  "zh-hans": "看门犬",
+  "pt-br": "Cão de Guarda",
+  "es-419": "Perro Guardián"
+ },
+ "effect": {
+  "en": "Boosts Attack if intimidated, and prevents being forced to switch out."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon’s Attack stat if intimidated. Moves and items that would force the Pokémon to switch out also fail to work."
+ }
+}

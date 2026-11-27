@@ -1,0 +1,28 @@
+{
+ "name": "tm83",
+ "names": {
+  "ja-hrkt": "わざマシン８３",
+  "ko": "기술머신83",
+  "zh-hant": "招式學習器８３",
+  "fr": "CT83",
+  "de": "TM83",
+  "es": "MT83",
+  "it": "MT83",
+  "en": "TM83",
+  "ja": "わざマシン８３",
+  "zh-hans": "招式学习器８３",
+  "es-419": "MT83"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Rengorgement à un Pokémon compatible. (Gén IV: Don Naturel)",
+  "en": "Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)"
+ },
+ "flavor": {
+  "en": "The user cuts its target with sharp shells. This may also lower the target’s Defense stat.",
+  "ko": "날카로운 조개껍질로 베어 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+  "ja": "鋭い 貝殻で 切りつけて 攻撃する。 相手の 防御を さげることが ある。"
+ }
+}

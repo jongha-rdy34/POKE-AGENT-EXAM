@@ -1,0 +1,23 @@
+{
+ "name": "prankster",
+ "names": {
+  "ja-hrkt": "いたずらごころ",
+  "ko": "짓궂은마음",
+  "zh-hant": "惡作劇之心",
+  "fr": "Farceur",
+  "de": "Strolch",
+  "es": "Bromista",
+  "it": "Burla",
+  "en": "Prankster",
+  "ja": "いたずらごころ",
+  "zh-hans": "恶作剧之心",
+  "es-419": "Timador"
+ },
+ "effect": {
+  "en": "Raises non-damaging moves' priority by one stage."
+ },
+ "flavor": {
+  "en": "Gives priority to the Pokémon's status moves.",
+  "ko": "변화 기술을 먼저 쓸 수 있다."
+ }
+}

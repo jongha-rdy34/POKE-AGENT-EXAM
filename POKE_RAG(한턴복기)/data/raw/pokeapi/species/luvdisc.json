@@ -1,0 +1,42 @@
+{
+ "id": 370,
+ "name": "luvdisc",
+ "names": {
+  "ja-hrkt": "ラブカス",
+  "ja-roma": "Lovecus",
+  "ko": "사랑동이",
+  "zh-hant": "愛心魚",
+  "fr": "Lovdisc",
+  "de": "Liebiskus",
+  "es": "Luvdisc",
+  "it": "Luvdisc",
+  "en": "Luvdisc",
+  "ja": "ラブカス",
+  "zh-hans": "爱心鱼",
+  "es-419": "Luvdisc"
+ },
+ "genus": {
+  "ja-hrkt": "ランデブーポケモン",
+  "ko": "랑데부포켓몬",
+  "zh-hant": "相隨寶可夢",
+  "fr": "Pokémon Rendezvous",
+  "de": "Rendezvous",
+  "es": "Pokémon Cita",
+  "it": "Pokémon Rendezvous",
+  "en": "Rendezvous Pokémon",
+  "ja": "ランデブーポケモン",
+  "zh-hans": "相随宝可梦",
+  "es-419": "Pokémon Cita"
+ },
+ "flavor": {
+  "en": "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
+  "ko": "따뜻한 바다의 산호초가 서식지다. 코산호의 가지 사이에서 자는 것을 특히 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "luvdisc",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "190"
+}

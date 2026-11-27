@@ -1,0 +1,20 @@
+{
+ "name": "lechonk-hair",
+ "names": {
+  "ja-hrkt": "グルトンのけ",
+  "ko": "맛보돈의털",
+  "zh-hant": "愛吃豚的毛",
+  "fr": "Poils de Gourmelet",
+  "de": "Ferkuli-Haar",
+  "es": "Pelo de Lechonk",
+  "it": "Pelo di Lechonk",
+  "en": "Lechonk Hair",
+  "ja": "グルトンのけ",
+  "zh-hans": "爱吃豚的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

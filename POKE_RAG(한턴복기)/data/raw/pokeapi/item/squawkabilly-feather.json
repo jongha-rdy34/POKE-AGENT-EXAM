@@ -1,0 +1,20 @@
+{
+ "name": "squawkabilly-feather",
+ "names": {
+  "ja-hrkt": "イキリンコのはね",
+  "ko": "시비꼬의깃털",
+  "zh-hant": "怒鸚哥的羽毛",
+  "fr": "Plume de Tapatoès",
+  "de": "Krawalloro-Feder",
+  "es": "Pluma de Squawkabilly",
+  "it": "Penna di Squawkabilly",
+  "en": "Squawkabilly Feather",
+  "ja": "イキリンコのはね",
+  "zh-hans": "怒鹦哥的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

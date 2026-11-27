@@ -1,0 +1,31 @@
+{
+ "name": "swallow",
+ "names": {
+  "ja-hrkt": "のみこむ",
+  "ko": "꿀꺽",
+  "zh-hant": "吞下",
+  "fr": "Avale",
+  "de": "Verzehrer",
+  "es": "Tragar",
+  "it": "Introenergia",
+  "en": "Swallow",
+  "ja": "のみこむ",
+  "zh-hans": "吞下",
+  "es-419": "Tragar"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The power stored using the move Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored.",
+  "ko": "비축된 힘을 꿀꺽해서 자신의 HP를 회복한다. 비축된 만큼 회복한다."
+ }
+}

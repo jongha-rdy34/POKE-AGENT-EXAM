@@ -1,0 +1,46 @@
+{
+ "id": 841,
+ "name": "flapple",
+ "names": {
+  "ja-hrkt": "アップリュー",
+  "ja-roma": "Appryu",
+  "ko": "애프룡",
+  "zh-hant": "蘋裹龍",
+  "fr": "Pomdrapi",
+  "de": "Drapfel",
+  "es": "Flapple",
+  "it": "Flapple",
+  "en": "Flapple",
+  "ja": "アップリュー",
+  "zh-hans": "苹裹龙",
+  "es-419": "Flapple"
+ },
+ "genus": {
+  "ja-hrkt": "りんごはねポケモン",
+  "ko": "사과날개포켓몬",
+  "zh-hant": "蘋果翅寶可夢",
+  "fr": "Pokémon Ailes Pomme",
+  "de": "Apfelflügel-Pokémon",
+  "es": "Pokémon Manzanala",
+  "it": "Pokémon Pomivolo",
+  "en": "Apple Wing Pokémon",
+  "ja": "りんごはねポケモン",
+  "zh-hans": "苹果翅宝可梦",
+  "es-419": "Pokémon Manzanala"
+ },
+ "flavor": {
+  "ko": "사과 껍질로 된 날개로 날며 강산성의 타액을 뱉는다. 사과의 형태로 변형한다.",
+  "en": "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple."
+ },
+ "varieties": [
+  {
+   "name": "flapple",
+   "is_default": true
+  },
+  {
+   "name": "flapple-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "442"
+}

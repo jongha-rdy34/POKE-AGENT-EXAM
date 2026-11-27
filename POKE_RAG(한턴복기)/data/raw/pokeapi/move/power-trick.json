@@ -1,0 +1,31 @@
+{
+ "name": "power-trick",
+ "names": {
+  "ja-hrkt": "パワートリック",
+  "ko": "파워트릭",
+  "zh-hant": "力量戲法",
+  "fr": "Astuce Force",
+  "de": "Krafttrick",
+  "es": "Truco Fuerza",
+  "it": "Ingannoforza",
+  "en": "Power Trick",
+  "ja": "パワートリック",
+  "zh-hans": "力量戏法",
+  "es-419": "Truco Fuerza"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User swaps Attack and Defense."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to switch its Attack stat with its Defense stat.",
+  "ko": "초능력으로 자신의 공격과 방어의 힘을 교환한다."
+ }
+}

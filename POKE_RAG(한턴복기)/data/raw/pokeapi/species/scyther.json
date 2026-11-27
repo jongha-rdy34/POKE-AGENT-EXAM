@@ -1,0 +1,42 @@
+{
+ "id": 123,
+ "name": "scyther",
+ "names": {
+  "ja-hrkt": "ストライク",
+  "ja-roma": "Strike",
+  "ko": "스라크",
+  "zh-hant": "飛天螳螂",
+  "fr": "Insécateur",
+  "de": "Sichlor",
+  "es": "Scyther",
+  "it": "Scyther",
+  "en": "Scyther",
+  "ja": "ストライク",
+  "zh-hans": "飞天螳螂",
+  "es-419": "Scyther"
+ },
+ "genus": {
+  "ja-hrkt": "かまきりポケモン",
+  "ko": "버마재비포켓몬",
+  "zh-hant": "螳螂寶可夢",
+  "fr": "Pokémon Mante",
+  "de": "Mantis-Pokémon",
+  "es": "Pokémon Mantis",
+  "it": "Pokémon Mantide",
+  "en": "Mantis Pokémon",
+  "ja": "かまきりポケモン",
+  "zh-hans": "螳螂宝可梦",
+  "es-419": "Pokémon Mantis"
+ },
+ "flavor": {
+  "en": "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pokémon's nimble motions.",
+  "ko": "숲속에서 많은 나무가 베인 채 쓰러져 있는 장소를 발견했다면 그곳은 스라크의 영역이다."
+ },
+ "varieties": [
+  {
+   "name": "scyther",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "58"
+}

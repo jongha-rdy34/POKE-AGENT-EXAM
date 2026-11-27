@@ -1,0 +1,20 @@
+{
+ "name": "murkrow-bauble",
+ "names": {
+  "ja-hrkt": "ヤミカラスのおたから",
+  "ko": "니로우의보물",
+  "zh-hant": "黑暗鴉的寶物",
+  "fr": "Trésor de Cornèbre",
+  "de": "Kramurx-Schatz",
+  "es": "Tesoro de Murkrow",
+  "it": "Tesoro di Murkrow",
+  "en": "Murkrow Bauble",
+  "ja": "ヤミカラスのおたから",
+  "zh-hans": "黑暗鸦的宝物"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "manectite",
+ "names": {
+  "ja-hrkt": "ライボルトナイト",
+  "ko": "썬더볼트나이트",
+  "zh-hant": "雷電獸進化石",
+  "fr": "Élecsprintite",
+  "de": "Voltensonit",
+  "es": "Manectricita",
+  "it": "Manectricite",
+  "en": "Manectite",
+  "ja": "ライボルトナイト",
+  "zh-hans": "雷电兽进化石",
+  "es-419": "Manectricita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Élecsprint de Méga-Évoluer en Méga-Élecsprint.",
+  "en": "Held: Allows Manectric to Mega Evolve into Mega Manectric."
+ },
+ "flavor": {
+  "ko": "썬더볼트에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Manectric hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ライボルトに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

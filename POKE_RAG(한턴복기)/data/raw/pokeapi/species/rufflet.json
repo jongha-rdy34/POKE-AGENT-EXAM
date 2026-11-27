@@ -1,0 +1,42 @@
+{
+ "id": 627,
+ "name": "rufflet",
+ "names": {
+  "ja-hrkt": "ワシボン",
+  "ja-roma": "Washibon",
+  "ko": "수리둥보",
+  "zh-hant": "毛頭小鷹",
+  "fr": "Furaiglon",
+  "de": "Geronimatz",
+  "es": "Rufflet",
+  "it": "Rufflet",
+  "en": "Rufflet",
+  "ja": "ワシボン",
+  "zh-hans": "毛头小鹰",
+  "es-419": "Rufflet"
+ },
+ "genus": {
+  "ja-hrkt": "ヒナわしポケモン",
+  "ko": "새끼독수리포켓몬",
+  "zh-hant": "雛鷹寶可夢",
+  "fr": "Pokémon Aiglon",
+  "de": "Adlerküken-Pokémon",
+  "es": "Pokémon Aguilucho",
+  "it": "Pokémon Aquilotto",
+  "en": "Eaglet Pokémon",
+  "ja": "ヒナわしポケモン",
+  "zh-hans": "雏鹰宝可梦",
+  "es-419": "Pokémon Aguilucho"
+ },
+ "flavor": {
+  "en": "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength.",
+  "ko": "딱딱한 나무열매도 산산조각 내는 악력을 가졌다. 쉽게 다투고 아무에게나 승부를 건다."
+ },
+ "varieties": [
+  {
+   "name": "rufflet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "319"
+}

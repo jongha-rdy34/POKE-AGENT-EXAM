@@ -1,0 +1,28 @@
+{
+ "name": "coin-case",
+ "names": {
+  "ja-hrkt": "コインケース",
+  "ko": "동전케이스",
+  "zh-hant": "代幣盒",
+  "fr": "Boîte Jetons",
+  "de": "Münzkorb",
+  "es": "Monedero",
+  "it": "Salvadanaio",
+  "en": "Coin Case",
+  "ja": "コインケース",
+  "zh-hans": "代币盒",
+  "es-419": "Monedero"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les jetons pour le Casino.",
+  "en": "Holds coins for the Game Corner."
+ },
+ "flavor": {
+  "en": "A case for holding coins obtained at the Game Corner. It can hold up to 50,000 coins.",
+  "ko": "게임코너에서 손에 넣은 동전을 50000개 까지 넣을 수 있는 케이스.",
+  "ja": "ゲームコーナーで てにいれた コインを ５００００枚まで いれることが できる ケース。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr26",
+ "names": {
+  "ja-hrkt": "わざレコード２６",
+  "ko": "기술레코드26",
+  "zh-hant": "招式紀錄２６",
+  "fr": "DT26",
+  "de": "TP26",
+  "es": "DT26",
+  "it": "DT26",
+  "en": "TR26",
+  "ja": "わざレコード２６",
+  "zh-hans": "招式记录２６",
+  "es-419": "DT26"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "공격을 받아도 HP를 반드시 1만큼은 남긴다. 연속으로 쓰면 실패하기 쉽다.",
+  "en": "The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.",
+  "ja": "攻撃を 受けても ＨＰを 必ず １だけ 残せる。 連続で だすと 失敗しやすい。"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "name": "antidote",
+ "names": {
+  "ja-hrkt": "どくけし",
+  "ko": "해독제",
+  "zh-hant": "解毒藥",
+  "fr": "Antidote",
+  "de": "Gegengift",
+  "es": "Antídoto",
+  "it": "Antidoto",
+  "en": "Antidote",
+  "ja": "どくけし",
+  "zh-hans": "解毒药",
+  "es-419": "Antídoto"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne le poison.",
+  "en": "Cures poison."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating poisoning. It can be used to lift the effects of being poisoned from a single Pokémon.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 독 상태를 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の どくの 状態を 回復する。"
+ }
+}

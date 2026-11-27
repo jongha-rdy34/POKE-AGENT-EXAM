@@ -1,0 +1,89 @@
+{
+ "id": 279,
+ "name": "pelipper",
+ "species": "pelipper",
+ "is_default": true,
+ "types": [
+  "water",
+  "flying"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 50,
+  "defense": 100,
+  "special-attack": 95,
+  "special-defense": 70,
+  "speed": 65
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "drizzle",
+   "hidden": false
+  },
+  {
+   "name": "rain-dish",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 280,
+ "champions_moves": [
+  "acrobatics",
+  "aerial-ace",
+  "agility",
+  "air-cutter",
+  "air-slash",
+  "aqua-ring",
+  "blizzard",
+  "body-slam",
+  "brave-bird",
+  "chilling-water",
+  "dual-wingbeat",
+  "endure",
+  "facade",
+  "feather-dance",
+  "fling",
+  "fly",
+  "giga-impact",
+  "gunk-shot",
+  "helping-hand",
+  "hurricane",
+  "hydro-pump",
+  "hyper-beam",
+  "ice-beam",
+  "icy-wind",
+  "knock-off",
+  "liquidation",
+  "muddy-water",
+  "protect",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "roost",
+  "round",
+  "seed-bomb",
+  "sleep-talk",
+  "snore",
+  "snowscape",
+  "soak",
+  "spit-up",
+  "steel-wing",
+  "stockpile",
+  "substitute",
+  "surf",
+  "swallow",
+  "tailwind",
+  "thief",
+  "u-turn",
+  "uproar",
+  "water-pulse",
+  "waterfall",
+  "weather-ball",
+  "whirlpool",
+  "wide-guard"
+ ]
+}

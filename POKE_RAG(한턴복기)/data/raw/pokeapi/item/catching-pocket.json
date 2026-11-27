@@ -1,0 +1,25 @@
+{
+ "name": "catching-pocket",
+ "names": {
+  "ja-hrkt": "ほかくポケット",
+  "ko": "포획포켓",
+  "zh-hant": "捕捉口袋",
+  "fr": "Poche de Capture",
+  "de": "Fangtasche",
+  "es": "Bolsillo Captura",
+  "it": "Tasca cattura",
+  "en": "Catching Pocket",
+  "ja": "ほかくポケット",
+  "zh-hans": "捕捉口袋",
+  "es-419": "Bolsillo Captura"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

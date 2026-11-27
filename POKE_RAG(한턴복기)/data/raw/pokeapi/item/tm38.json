@@ -1,0 +1,28 @@
+{
+ "name": "tm38",
+ "names": {
+  "ja-hrkt": "わざマシン３８",
+  "ko": "기술머신38",
+  "zh-hant": "招式學習器３８",
+  "fr": "CT38",
+  "de": "TM38",
+  "es": "MT38",
+  "it": "MT38",
+  "en": "TM38",
+  "ja": "わざマシン３８",
+  "zh-hans": "招式学习器３８",
+  "es-419": "MT38"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Déflagration à un Pokémon compatible.",
+  "en": "Teaches Fire Blast to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user shoots a sinister flame at the target to inflict a burn.",
+  "ko": "으스스하고 괴상한 불꽃을 쏘아 상대를 화상 상태로 만든다.",
+  "ja": "不気味で 怪しい 炎を 放って 相手を やけどの 状態に する。"
+ }
+}

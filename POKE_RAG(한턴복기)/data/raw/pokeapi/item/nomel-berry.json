@@ -1,0 +1,28 @@
+{
+ "name": "nomel-berry",
+ "names": {
+  "ja-hrkt": "ノメルのみ",
+  "ko": "노멜열매",
+  "zh-hant": "檬檸果",
+  "fr": "Baie Tronci",
+  "de": "Tronzibeere",
+  "es": "Baya Monli",
+  "it": "Baccalemon",
+  "en": "Nomel Berry",
+  "ja": "ノメルのみ",
+  "zh-hans": "檬柠果",
+  "es-419": "Baya Monli"
+ },
+ "category": "baking-only",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour créer des Pokéblocs et Poffins.",
+  "en": "Used for creating PokéBlocks and Poffins."
+ },
+ "flavor": {
+  "en": "Used to make Pokéblocks that will enhance your Toughness, this Berry is rare in other regions.",
+  "ko": "강인함을 연마하기 위한 포켓몬스넥을 만들 때 사용된다. 다른 지방에서는 희귀한 나무열매.",
+  "ja": "たくましさに 磨きを かける ための ポロックを つくるとき 使われる。 ほかの 地方では めずらしい きのみ。"
+ }
+}

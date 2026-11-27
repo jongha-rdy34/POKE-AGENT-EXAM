@@ -1,0 +1,15 @@
+{
+ "name": "froslass-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Momartik",
+  "en": "Mega Froslass"
+ },
+ "form_names": {
+  "ja-hrkt": "メガユキメノコ",
+  "fr": "Méga-Momartik",
+  "en": "Mega Froslass",
+  "ja": "メガユキメノコ"
+ },
+ "is_mega": true
+}

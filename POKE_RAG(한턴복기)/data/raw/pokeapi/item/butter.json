@@ -1,0 +1,20 @@
+{
+ "name": "butter",
+ "names": {
+  "ja-hrkt": "バター",
+  "ko": "버터",
+  "zh-hant": "奶油",
+  "fr": "Beurre",
+  "de": "Butter",
+  "es": "Mantequilla",
+  "it": "Burro",
+  "en": "Butter",
+  "ja": "バター",
+  "zh-hans": "黄油"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

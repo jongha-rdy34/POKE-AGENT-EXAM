@@ -1,0 +1,37 @@
+{
+ "id": 928,
+ "name": "smoliv",
+ "names": {
+  "ja-hrkt": "ミニーブ",
+  "ja-roma": "Minive",
+  "ko": "미니브",
+  "zh-hant": "迷你芙",
+  "fr": "Olivini",
+  "de": "Olini",
+  "es": "Smoliv",
+  "it": "Smoliv",
+  "en": "Smoliv",
+  "ja": "ミニーブ",
+  "zh-hans": "迷你芙",
+  "es-419": "Smoliv"
+ },
+ "genus": {
+  "ja-hrkt": "オリーブポケモン",
+  "ko": "올리브포켓몬",
+  "zh-hant": "橄欖寶可夢",
+  "fr": "Olive",
+  "de": "Olive",
+  "en": "Olive Pokémon",
+  "zh-hans": "橄榄宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking."
+ },
+ "varieties": [
+  {
+   "name": "smoliv",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "487"
+}

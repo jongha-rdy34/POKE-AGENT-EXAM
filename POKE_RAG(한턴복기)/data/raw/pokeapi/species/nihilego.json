@@ -1,0 +1,42 @@
+{
+ "id": 793,
+ "name": "nihilego",
+ "names": {
+  "ja-hrkt": "ウツロイド",
+  "ja-roma": "Uturoid",
+  "ko": "텅비드",
+  "zh-hant": "虛吾伊德",
+  "fr": "Zéroïd",
+  "de": "Anego",
+  "es": "Nihilego",
+  "it": "Nihilego",
+  "en": "Nihilego",
+  "ja": "ウツロイド",
+  "zh-hans": "虚吾伊德",
+  "es-419": "Nihilego"
+ },
+ "genus": {
+  "ja-hrkt": "きせいポケモン",
+  "ko": "기생포켓몬",
+  "zh-hant": "寄生寶可夢",
+  "fr": "Pokémon Parasite",
+  "de": "Parasiten-Pokémon",
+  "es": "Pokémon Parásito",
+  "it": "Pokémon Parassita",
+  "en": "Parasite Pokémon",
+  "ja": "きせいポケモン",
+  "zh-hans": "寄生宝可梦",
+  "es-419": "Pokémon Parásito"
+ },
+ "flavor": {
+  "ko": "울트라홀을 통해 이 세계에 나타났다. 포켓몬이나 인간에게 기생해서 사는 듯하다.",
+  "en": "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "nihilego",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "414"
+}

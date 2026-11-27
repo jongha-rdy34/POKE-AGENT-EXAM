@@ -1,0 +1,46 @@
+{
+ "id": 15,
+ "name": "beedrill",
+ "names": {
+  "ja-hrkt": "スピアー",
+  "ja-roma": "Spear",
+  "ko": "독침붕",
+  "zh-hant": "大針蜂",
+  "fr": "Dardargnan",
+  "de": "Bibor",
+  "es": "Beedrill",
+  "it": "Beedrill",
+  "en": "Beedrill",
+  "ja": "スピアー",
+  "zh-hans": "大针蜂",
+  "es-419": "Beedrill"
+ },
+ "genus": {
+  "ja-hrkt": "どくばちポケモン",
+  "ko": "독벌포켓몬",
+  "zh-hant": "毒蜂寶可夢",
+  "fr": "Pokémon Guêpoison",
+  "de": "Giftbiene",
+  "es": "Pokémon Abeja Veneno",
+  "it": "Pokémon Velenape",
+  "en": "Poison Bee Pokémon",
+  "ja": "どくばちポケモン",
+  "zh-hans": "毒蜂宝可梦",
+  "es-419": "Pokémon Abeja Veneno"
+ },
+ "flavor": {
+  "en": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+  "ko": "양손과 엉덩이에 있는 3개의 독침으로 상대를 찌르고 찌르고 또 찌르며 공격한다."
+ },
+ "varieties": [
+  {
+   "name": "beedrill",
+   "is_default": true
+  },
+  {
+   "name": "beedrill-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "5"
+}

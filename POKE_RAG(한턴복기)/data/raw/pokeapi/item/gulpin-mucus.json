@@ -1,0 +1,20 @@
+{
+ "name": "gulpin-mucus",
+ "names": {
+  "ja-hrkt": "ゴクリンのねんえき",
+  "ko": "꼴깍몬의점액",
+  "zh-hant": "溶食獸的黏液",
+  "fr": "Mucus de Gloupti",
+  "de": "Schluppuck-Schleim",
+  "es": "Secreción de Gulpin",
+  "it": "Muco di Gulpin",
+  "en": "Gulpin Mucus",
+  "ja": "ゴクリンのねんえき",
+  "zh-hans": "溶食兽的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

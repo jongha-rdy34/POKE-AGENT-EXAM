@@ -1,0 +1,23 @@
+{
+ "name": "heavy-metal",
+ "names": {
+  "ja-hrkt": "ヘヴィメタル",
+  "ko": "헤비메탈",
+  "zh-hant": "重金屬",
+  "fr": "Heavy Metal",
+  "de": "Schwermetall",
+  "es": "Metal Pesado",
+  "it": "Metalpesante",
+  "en": "Heavy Metal",
+  "ja": "ヘヴィメタル",
+  "zh-hans": "重金属",
+  "es-419": "Metal Pesado"
+ },
+ "effect": {
+  "en": "Doubles the Pokémon's weight."
+ },
+ "flavor": {
+  "en": "Doubles the Pokémon's weight.",
+  "ko": "자신의 무게가 2배가 된다."
+ }
+}

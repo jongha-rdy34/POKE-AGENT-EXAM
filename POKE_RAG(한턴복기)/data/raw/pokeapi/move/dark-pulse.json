@@ -1,0 +1,31 @@
+{
+ "name": "dark-pulse",
+ "names": {
+  "ja-hrkt": "あくのはどう",
+  "ko": "악의파동",
+  "zh-hant": "惡之波動",
+  "fr": "Vibrobscur",
+  "de": "Finsteraura",
+  "es": "Pulso Umbrío",
+  "it": "Neropulsar",
+  "en": "Dark Pulse",
+  "ja": "あくのはどう",
+  "zh-hans": "恶之波动",
+  "es-419": "Pulso Oscuro"
+ },
+ "type": "dark",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user releases a horrible aura imbued with ill intent. This may also make the target flinch.",
+  "ko": "몸에서 악의로 가득한 무서운 오라를 발한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "name": "lawing-ball",
+ "names": {
+  "ko": "윙볼",
+  "zh-hant": "飛翼球",
+  "fr": "Envol Ball",
+  "de": "Flügelball",
+  "es": "Ala Ball",
+  "it": "Wing Ball",
+  "en": "Wing Ball",
+  "ja": "ウイングボール",
+  "zh-hans": "飞翼球",
+  "es-419": "Alabola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Can be thrown further than a Feather Ball. Is more effective for catching Pokémon that fly high in the air."
+ }
+}

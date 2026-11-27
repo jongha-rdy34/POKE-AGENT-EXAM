@@ -1,0 +1,28 @@
+{
+ "name": "big-nugget",
+ "names": {
+  "ja-hrkt": "でかいきんのたま",
+  "ko": "큰금구슬",
+  "zh-hant": "巨大金珠",
+  "fr": "Maxi Pépite",
+  "de": "Riesennugget",
+  "es": "Maxipepita",
+  "it": "Granpepita",
+  "en": "Big Nugget",
+  "ja": "でかいきんのたま",
+  "zh-hans": "巨大金珠",
+  "es-419": "Maxipepita"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au collectionneur d'objets pour 30000 Pokédollars.",
+  "en": "Sell to Ore Collector for 30000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A big nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops.",
+  "ko": "금색으로 반짝반짝 빛나는 순금으로 만들어진 큰 구슬. 상점에서 비싸게 팔린다.",
+  "ja": "キラキラと 金色に 光る 純金製の おおきな 玉。 ショップで 高く 売れる。"
+ }
+}

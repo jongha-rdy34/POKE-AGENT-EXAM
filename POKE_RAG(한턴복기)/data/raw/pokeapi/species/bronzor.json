@@ -1,0 +1,42 @@
+{
+ "id": 436,
+ "name": "bronzor",
+ "names": {
+  "ja-hrkt": "ドーミラー",
+  "ja-roma": "Dohmirror",
+  "ko": "동미러",
+  "zh-hant": "銅鏡怪",
+  "fr": "Archéomire",
+  "de": "Bronzel",
+  "es": "Bronzor",
+  "it": "Bronzor",
+  "en": "Bronzor",
+  "ja": "ドーミラー",
+  "zh-hans": "铜镜怪",
+  "es-419": "Bronzor"
+ },
+ "genus": {
+  "ja-hrkt": "せいどうポケモン",
+  "ko": "청동포켓몬",
+  "zh-hant": "青銅寶可夢",
+  "fr": "Pokémon Bronze",
+  "de": "Bronze-Pokémon",
+  "es": "Pokémon Bronce",
+  "it": "Pokémon Bronzo",
+  "en": "Bronze Pokémon",
+  "ja": "せいどうポケモン",
+  "zh-hans": "青铜宝可梦",
+  "es-419": "Pokémon Bronce"
+ },
+ "flavor": {
+  "en": "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places.",
+  "ko": "닦으면 빛이 나며 진실을 비춘다고 전해지지만 동미러는 닦이는 걸 매우 싫어한다."
+ },
+ "varieties": [
+  {
+   "name": "bronzor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "224"
+}

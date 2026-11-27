@@ -1,0 +1,28 @@
+{
+ "name": "power-plant-pass",
+ "names": {
+  "ja-hrkt": "はつでんしょパス",
+  "ko": "발전소패스",
+  "zh-hant": "發電廠通行證",
+  "fr": "Passe Centrale",
+  "de": "Kraftwerks-Pass",
+  "es": "Pase Central",
+  "it": "Pass Centrale",
+  "en": "Power Plant Pass",
+  "ja": "はつでんしょパス",
+  "zh-hans": "发电厂通行证",
+  "es-419": "Pase Central"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet l'entrée dans la Centrale.",
+  "en": "Permits entry to the Kalos Power Plant."
+ },
+ "flavor": {
+  "ko": "13번도로에 있는 발전소에 들어가기 위한 신분증이 되는 패스.",
+  "en": "This pass serves as an ID card for gaining access to the Power Plant that lies along Route 13.",
+  "ja": "１３番道路に ある 発電所に 入るための 身分証となる パス。"
+ }
+}

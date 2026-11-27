@@ -1,0 +1,31 @@
+{
+ "name": "curse",
+ "names": {
+  "ja-hrkt": "のろい",
+  "ko": "저주",
+  "zh-hant": "詛咒",
+  "fr": "Malédiction",
+  "de": "Fluch",
+  "es": "Maldición",
+  "it": "Maledizione",
+  "en": "Curse",
+  "ja": "のろい",
+  "zh-hans": "诅咒",
+  "es-419": "Maldición"
+ },
+ "type": "ghost",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "specific-move",
+ "effect": {
+  "en": "Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A move that has different effects depending on whether the user is a Ghost type or not.",
+  "ko": "기술을 쓰는 포켓몬이 고스트타입일 때와 그 이외의 타입일 때는 효과가 다르다."
+ }
+}

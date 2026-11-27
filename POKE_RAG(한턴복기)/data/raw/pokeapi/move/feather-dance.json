@@ -1,0 +1,31 @@
+{
+ "name": "feather-dance",
+ "names": {
+  "ja-hrkt": "フェザーダンス",
+  "ko": "깃털댄스",
+  "zh-hant": "羽毛舞",
+  "fr": "Danse Plumes",
+  "de": "Daunenreigen",
+  "es": "Danza Pluma",
+  "it": "Danzadipiume",
+  "en": "Feather Dance",
+  "ja": "フェザーダンス",
+  "zh-hans": "羽毛舞",
+  "es-419": "Danza de Plumas"
+ },
+ "type": "flying",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user covers the target's body with a mass of down that harshly lowers its Attack stat.",
+  "ko": "깃털을 흩뿌려 상대의 몸에 휘감는다. 상대의 공격을 크게 떨어뜨린다."
+ }
+}

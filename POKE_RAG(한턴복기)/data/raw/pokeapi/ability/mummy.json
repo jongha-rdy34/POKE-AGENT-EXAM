@@ -1,0 +1,23 @@
+{
+ "name": "mummy",
+ "names": {
+  "ja-hrkt": "ミイラ",
+  "ko": "미라",
+  "zh-hant": "木乃伊",
+  "fr": "Momie",
+  "de": "Mumie",
+  "es": "Momia",
+  "it": "Mummia",
+  "en": "Mummy",
+  "ja": "ミイラ",
+  "zh-hans": "木乃伊",
+  "es-419": "Momia"
+ },
+ "effect": {
+  "en": "Changes attacking Pokémon's abilities to Mummy on contact."
+ },
+ "flavor": {
+  "en": "Contact with the Pokémon changes the attacker’s Ability to Mummy.",
+  "ko": "상대가 접촉하면 상대를 미라로 만들어버린다."
+ }
+}

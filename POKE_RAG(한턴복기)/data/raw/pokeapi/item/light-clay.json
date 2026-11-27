@@ -1,0 +1,32 @@
+{
+ "name": "light-clay",
+ "names": {
+  "ja-hrkt": "ひかりのねんど",
+  "ko": "빛의점토",
+  "zh-hant": "光之黏土",
+  "fr": "Lumargile",
+  "de": "Lichtlehm",
+  "es": "Refleluz",
+  "it": "Creta Luce",
+  "en": "Light Clay",
+  "ja": "ひかりのねんど",
+  "zh-hans": "光之黏土",
+  "es-419": "Refleluz"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Mur Lumière et Protection utilisés par le porteur durent 8 tours au lieu de 5.",
+  "en": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. Protective moves like Light Screen and Reflect will be effective longer.",
+  "ko": "지니게 한 포켓몬이 빛의장막이나 리플렉터를 사용했을 때 여느 때보다 긴 시간 동안 지속된다.",
+  "ja": "持たせた ポケモンが ひかりのかべや リフレクターを 使ったとき いつもよりも 長く 残る。"
+ }
+}

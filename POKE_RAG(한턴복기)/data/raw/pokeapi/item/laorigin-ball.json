@@ -1,0 +1,20 @@
+{
+ "name": "laorigin-ball",
+ "names": {
+  "ko": "오리진볼",
+  "zh-hant": "起源球",
+  "fr": "Origine Ball",
+  "de": "Urball",
+  "es": "Origen Ball",
+  "it": "Origin Ball",
+  "en": "Origin Ball",
+  "ja": "オリジンボール",
+  "zh-hans": "起源球",
+  "es-419": "Origenbola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

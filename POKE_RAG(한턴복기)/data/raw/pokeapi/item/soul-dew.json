@@ -1,0 +1,30 @@
+{
+ "name": "soul-dew",
+ "names": {
+  "ja-hrkt": "こころのしずく",
+  "ko": "마음의물방울",
+  "zh-hant": "心之水滴",
+  "fr": "Rosée Âme",
+  "de": "Seelentau",
+  "es": "Rocío Bondad",
+  "it": "Cuorugiada",
+  "en": "Soul Dew",
+  "ja": "こころのしずく",
+  "zh-hans": "心之水滴",
+  "es-419": "Rocío Bondad"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'Attaque Spéciale et la Défense Spéciale de Latias et Latios de 50%.",
+  "en": "Raises Latias and Latios’s Special Attack and Special Defense by 50%."
+ },
+ "flavor": {
+  "en": "A wondrous orb to be held by either Latios or Latias. It raises the power of Psychic- and Dragon-type moves.",
+  "ko": "라티오스나 라티아스에게 지니게 하면 에스퍼와 드래곤타입 기술의 위력이 올라가는 이상한 구슬.",
+  "ja": "ラティオスや ラティアスに 持たせると エスパーと ドラゴンタイプの 技の 威力が あがる 不思議な 珠。"
+ }
+}

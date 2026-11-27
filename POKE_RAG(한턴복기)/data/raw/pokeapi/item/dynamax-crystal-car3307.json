@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-car3307",
+ "names": {
+  "ja-hrkt": "★Car3307",
+  "ko": "★Car3307",
+  "zh-hant": "★Car3307",
+  "fr": "★Car3307",
+  "de": "★Car3307",
+  "es": "★Car3307",
+  "it": "★Car3307",
+  "en": "★Car3307",
+  "ja": "★Car3307",
+  "zh-hans": "★Car3307",
+  "es-419": "★Car3307"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

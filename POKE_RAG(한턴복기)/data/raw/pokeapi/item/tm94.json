@@ -1,0 +1,28 @@
+{
+ "name": "tm94",
+ "names": {
+  "ja-hrkt": "わざマシン９４",
+  "ko": "기술머신94",
+  "zh-hant": "招式學習器９４",
+  "fr": "CT94",
+  "de": "TM94",
+  "es": "MT94",
+  "it": "MT94",
+  "en": "TM94",
+  "ja": "わざマシン９４",
+  "zh-hans": "招式学习器９４",
+  "es-419": "MT94"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Éclate-Roc à un Pokémon compatible.",
+  "en": "Teaches Rock Smash to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.",
+  "ko": "상대의 HP가 반드시 1만 남도록 조절하여 공격한다.",
+  "ja": "相手の ＨＰが 必ず １だけ 残るように 手加減して 攻撃する。"
+ }
+}

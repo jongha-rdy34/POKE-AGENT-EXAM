@@ -1,0 +1,23 @@
+{
+ "name": "liquid-ooze",
+ "names": {
+  "ja-hrkt": "ヘドロえき",
+  "ko": "해감액",
+  "zh-hant": "污泥漿",
+  "fr": "Suintement",
+  "de": "Kloakensoße",
+  "es": "Lodo Líquido",
+  "it": "Melma",
+  "en": "Liquid Ooze",
+  "ja": "ヘドロえき",
+  "zh-hans": "污泥浆",
+  "es-419": "Lodo Líquido"
+ },
+ "effect": {
+  "en": "Damages opponents using leeching moves for as much as they would heal."
+ },
+ "flavor": {
+  "en": "The strong stench of the Pokémon's oozed liquid damages attackers that use HP-draining moves.",
+  "ko": "해감액을 흡수한 상대는 강렬한 악취로 데미지를 받아 HP가 줄어든다."
+ }
+}

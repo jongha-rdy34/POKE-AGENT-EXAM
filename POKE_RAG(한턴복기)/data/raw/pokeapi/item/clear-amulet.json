@@ -1,0 +1,20 @@
+{
+ "name": "clear-amulet",
+ "names": {
+  "ja-hrkt": "クリアチャーム",
+  "ko": "클리어참",
+  "zh-hant": "清淨墜飾",
+  "fr": "Talisman Sain",
+  "de": "Neutralschmuck",
+  "es": "Amuleto Puro",
+  "it": "Ciondolochiaro",
+  "en": "Clear Amulet",
+  "ja": "クリアチャーム",
+  "zh-hans": "清净坠饰"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

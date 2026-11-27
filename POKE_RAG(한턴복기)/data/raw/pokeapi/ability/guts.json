@@ -1,0 +1,23 @@
+{
+ "name": "guts",
+ "names": {
+  "ja-hrkt": "こんじょう",
+  "ko": "근성",
+  "zh-hant": "毅力",
+  "fr": "Cran",
+  "de": "Adrenalin",
+  "es": "Agallas",
+  "it": "Dentistretti",
+  "en": "Guts",
+  "ja": "こんじょう",
+  "zh-hans": "毅力",
+  "es-419": "Agallas"
+ },
+ "effect": {
+  "en": "Increases Attack to 1.5× with a major status ailment."
+ },
+ "flavor": {
+  "en": "It's so gutsy that having a status condition boosts the Pokémon's Attack stat.",
+  "ko": "상태 이상이 되면 근성을 보여서 공격이 올라간다."
+ }
+}

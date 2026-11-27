@@ -1,0 +1,18 @@
+{
+ "name": "brave",
+ "names": {
+  "ja-hrkt": "ゆうかん",
+  "ko": "용감",
+  "zh-hant": "勇敢",
+  "fr": "Brave",
+  "de": "Mutig",
+  "es": "Audaz",
+  "it": "Audace",
+  "en": "Brave",
+  "ja": "ゆうかん",
+  "zh-hans": "勇敢",
+  "es-419": "Audaz"
+ },
+ "plus": "attack",
+ "minus": "speed"
+}

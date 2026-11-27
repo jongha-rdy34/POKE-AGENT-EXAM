@@ -1,0 +1,28 @@
+{
+ "name": "groundium-z--held",
+ "names": {
+  "ja-hrkt": "ジメンＺ",
+  "ko": "땅Z",
+  "zh-hant": "地面Ｚ",
+  "fr": "Terrazélite",
+  "de": "Terrium Z",
+  "es": "Geostal Z",
+  "it": "Terrium Z",
+  "en": "Groundium Z",
+  "ja": "ジメンＺ",
+  "zh-hans": "地面Ｚ",
+  "es-419": "Geostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Sol.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 땅타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Ground-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 じめんタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "lucario-mega-z",
+ "form_name": "mega-z",
+ "names": {
+  "fr": "Méga-Lucario Z",
+  "en": "Mega Lucario Z"
+ },
+ "form_names": {
+  "ja-hrkt": "メガルカリオZ",
+  "fr": "Méga-Lucario Z",
+  "en": "Mega Lucario Z",
+  "ja": "メガルカリオZ"
+ },
+ "is_mega": true
+}

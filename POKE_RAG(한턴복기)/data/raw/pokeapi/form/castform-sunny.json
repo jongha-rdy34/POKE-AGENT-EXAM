@@ -1,0 +1,23 @@
+{
+ "name": "castform-sunny",
+ "form_name": "sunny",
+ "names": {
+  "fr": "Morphéo Solaire",
+  "de": "Formeo (Sonne)",
+  "en": "Sunny Castform"
+ },
+ "form_names": {
+  "ja-hrkt": "たいようのすがた",
+  "ko": "태양의 모습",
+  "zh-hant": "太陽的樣子",
+  "fr": "Forme Solaire",
+  "de": "Sonnenform",
+  "es": "Forma Sol",
+  "it": "Forma Sole",
+  "en": "Sunny Form",
+  "ja": "たいようのすがた",
+  "zh-hans": "太阳的样子",
+  "es-419": "Forma Sol"
+ },
+ "is_mega": false
+}

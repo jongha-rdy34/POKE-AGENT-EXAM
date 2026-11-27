@@ -1,0 +1,42 @@
+{
+ "id": 31,
+ "name": "nidoqueen",
+ "names": {
+  "ja-hrkt": "ニドクイン",
+  "ja-roma": "Nidoqueen",
+  "ko": "니드퀸",
+  "zh-hant": "尼多后",
+  "fr": "Nidoqueen",
+  "de": "Nidoqueen",
+  "es": "Nidoqueen",
+  "it": "Nidoqueen",
+  "en": "Nidoqueen",
+  "ja": "ニドクイン",
+  "zh-hans": "尼多后",
+  "es-419": "Nidoqueen"
+ },
+ "genus": {
+  "ja-hrkt": "ドリルポケモン",
+  "ko": "드릴포켓몬",
+  "zh-hant": "鑽錐寶可夢",
+  "fr": "Pokémon Perceur",
+  "de": "Bohrer-Pokémon",
+  "es": "Pokémon Taladro",
+  "it": "Pokémon Trapano",
+  "en": "Drill Pokémon",
+  "ja": "ドリルポケモン",
+  "zh-hans": "钻锥宝可梦",
+  "es-419": "Pokémon Taladro"
+ },
+ "flavor": {
+  "en": "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present.",
+  "ko": "등의 가시 틈에 새끼를 태우고 달랜다. 이때는 독이 절대 나오지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "nidoqueen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "12"
+}

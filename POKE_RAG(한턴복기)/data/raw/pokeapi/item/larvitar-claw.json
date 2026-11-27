@@ -1,0 +1,20 @@
+{
+ "name": "larvitar-claw",
+ "names": {
+  "ja-hrkt": "ヨーギラスのツメ",
+  "ko": "애버라스의발톱",
+  "zh-hant": "幼基拉斯的爪子",
+  "fr": "Griffe d'Embrylex",
+  "de": "Larvitar-Kralle",
+  "es": "Garra de Larvitar",
+  "it": "Artiglio di Larvitar",
+  "en": "Larvitar Claw",
+  "ja": "ヨーギラスのツメ",
+  "zh-hans": "幼基拉斯的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

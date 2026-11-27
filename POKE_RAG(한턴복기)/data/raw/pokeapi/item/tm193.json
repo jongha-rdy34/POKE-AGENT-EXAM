@@ -1,0 +1,19 @@
+{
+ "name": "tm193",
+ "names": {
+  "ko": "기술머신193",
+  "zh-hant": "招式學習器１９３",
+  "fr": "CT193",
+  "de": "TM193",
+  "es": "MT193",
+  "it": "MT193",
+  "en": "TM193",
+  "ja": "わざマシン１９３",
+  "zh-hans": "招式学习器１９３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

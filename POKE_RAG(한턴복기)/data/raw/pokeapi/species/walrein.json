@@ -1,0 +1,42 @@
+{
+ "id": 365,
+ "name": "walrein",
+ "names": {
+  "ja-hrkt": "トドゼルガ",
+  "ja-roma": "Todoseruga",
+  "ko": "씨카이저",
+  "zh-hant": "帝牙海獅",
+  "fr": "Kaimorse",
+  "de": "Walraisa",
+  "es": "Walrein",
+  "it": "Walrein",
+  "en": "Walrein",
+  "ja": "トドゼルガ",
+  "zh-hans": "帝牙海狮",
+  "es-419": "Walrein"
+ },
+ "genus": {
+  "ja-hrkt": "こおりわりポケモン",
+  "ko": "얼음깨기포켓몬",
+  "zh-hant": "破冰寶可夢",
+  "fr": "Pokémon Brise Glace",
+  "de": "Eisbrecher-Pokémon",
+  "es": "Pokémon Rompehielo",
+  "it": "Pokémon Spaccagelo",
+  "en": "Ice Break Pokémon",
+  "ja": "こおりわりポケモン",
+  "zh-hans": "破冰宝可梦",
+  "es-419": "Pokémon Rompehielo"
+ },
+ "flavor": {
+  "en": "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks.",
+  "ko": "이빨은 평생 자란다. 싸우다 부러져도 1년이 지나면 원래의 훌륭한 이빨로 복원된다."
+ },
+ "varieties": [
+  {
+   "name": "walrein",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "187"
+}

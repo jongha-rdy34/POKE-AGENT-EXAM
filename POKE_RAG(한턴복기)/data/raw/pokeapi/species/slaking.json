@@ -1,0 +1,42 @@
+{
+ "id": 289,
+ "name": "slaking",
+ "names": {
+  "ja-hrkt": "ケッキング",
+  "ja-roma": "Kekking",
+  "ko": "게을킹",
+  "zh-hant": "請假王",
+  "fr": "Monaflèmit",
+  "de": "Letarking",
+  "es": "Slaking",
+  "it": "Slaking",
+  "en": "Slaking",
+  "ja": "ケッキング",
+  "zh-hans": "请假王",
+  "es-419": "Slaking"
+ },
+ "genus": {
+  "ja-hrkt": "ものぐさポケモン",
+  "ko": "나태함포켓몬",
+  "zh-hant": "怕麻煩寶可夢",
+  "fr": "Pokémon Fainéant",
+  "de": "Müßig",
+  "es": "Pokémon Holgazán",
+  "it": "Pokémon Pigrizia",
+  "en": "Lazy Pokémon",
+  "ja": "ものぐさポケモン",
+  "zh-hans": "怕麻烦宝可梦",
+  "es-419": "Pokémon Holgazán"
+ },
+ "flavor": {
+  "en": "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.",
+  "ko": "초원에 새겨진 반경 1m의 둥근 띠 모양은 게을킹이 누운 채로 주변의 풀을 먹어치워 생긴 것이다."
+ },
+ "varieties": [
+  {
+   "name": "slaking",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "143"
+}

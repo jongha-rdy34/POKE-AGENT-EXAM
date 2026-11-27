@@ -1,0 +1,23 @@
+{
+ "name": "shell-armor",
+ "names": {
+  "ja-hrkt": "シェルアーマー",
+  "ko": "조가비갑옷",
+  "zh-hant": "硬殼盔甲",
+  "fr": "Coque Armure",
+  "de": "Panzerhaut",
+  "es": "Caparazón",
+  "it": "Guscioscudo",
+  "en": "Shell Armor",
+  "ja": "シェルアーマー",
+  "zh-hans": "硬壳盔甲",
+  "es-419": "Caparazón"
+ },
+ "effect": {
+  "en": "Protects against critical hits."
+ },
+ "flavor": {
+  "en": "A hard shell protects the Pokémon from critical hits.",
+  "ko": "단단한 껍질의 보호를 받아 상대의 공격이 급소에 맞지 않는다."
+ }
+}

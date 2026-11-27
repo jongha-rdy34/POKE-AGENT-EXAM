@@ -1,0 +1,25 @@
+{
+ "name": "lone-earring",
+ "names": {
+  "ja-hrkt": "かたっぽピアス",
+  "ko": "한쪽귀고리",
+  "zh-hant": "一邊的耳環",
+  "fr": "Boucle d’Oreille",
+  "de": "Ohrring",
+  "es": "Pendiente",
+  "it": "Orecchino",
+  "en": "Lone Earring",
+  "ja": "かたっぽピアス",
+  "zh-hans": "一边的耳环",
+  "es-419": "Pendiente"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "누군가가 떨어뜨린 한쪽뿐인 귀고리.",
+  "en": "A single earring that somebody dropped.",
+  "ja": "だれかが 落とした 片っぽ だけの ピアス。"
+ }
+}

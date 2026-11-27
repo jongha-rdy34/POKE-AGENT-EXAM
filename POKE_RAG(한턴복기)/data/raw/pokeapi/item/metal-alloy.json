@@ -1,0 +1,19 @@
+{
+ "name": "metal-alloy",
+ "names": {
+  "ko": "복합금속",
+  "zh-hant": "複合金屬",
+  "fr": "Métal Composite",
+  "de": "Legierungsmetall",
+  "es": "Metal Compuesto",
+  "it": "Metallo composito",
+  "en": "Metal Alloy",
+  "ja": "ふくごうきんぞく",
+  "zh-hans": "复合金属"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

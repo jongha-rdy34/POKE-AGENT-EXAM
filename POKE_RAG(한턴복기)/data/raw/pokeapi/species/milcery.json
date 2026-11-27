@@ -1,0 +1,42 @@
+{
+ "id": 868,
+ "name": "milcery",
+ "names": {
+  "ja-hrkt": "マホミル",
+  "ja-roma": "Mahomil",
+  "ko": "마빌크",
+  "zh-hant": "小仙奶",
+  "fr": "Crèmy",
+  "de": "Hokumil",
+  "es": "Milcery",
+  "it": "Milcery",
+  "en": "Milcery",
+  "ja": "マホミル",
+  "zh-hans": "小仙奶",
+  "es-419": "Milcery"
+ },
+ "genus": {
+  "ja-hrkt": "クリームポケモン",
+  "ko": "크림포켓몬",
+  "zh-hant": "鮮奶油寶可夢",
+  "fr": "Pokémon Crème",
+  "de": "Sahne-Pokémon",
+  "es": "Pokémon Nata",
+  "it": "Pokémon Pannafresca",
+  "en": "Cream Pokémon",
+  "ja": "クリームポケモン",
+  "zh-hans": "鲜奶油宝可梦",
+  "es-419": "Pokémon Nata"
+ },
+ "flavor": {
+  "ko": "마빌크가 모습을 보인 디저트 가게는 크게 번창한다고 전해지고 있다.",
+  "en": "They say that any patisserie visited by Milcery is guaranteed success and good fortune."
+ },
+ "varieties": [
+  {
+   "name": "milcery",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "452"
+}

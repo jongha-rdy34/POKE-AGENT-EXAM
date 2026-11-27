@@ -1,0 +1,42 @@
+{
+ "id": 102,
+ "name": "exeggcute",
+ "names": {
+  "ja-hrkt": "タマタマ",
+  "ja-roma": "Tamatama",
+  "ko": "아라리",
+  "zh-hant": "蛋蛋",
+  "fr": "Noeunoeuf",
+  "de": "Owei",
+  "es": "Exeggcute",
+  "it": "Exeggcute",
+  "en": "Exeggcute",
+  "ja": "タマタマ",
+  "zh-hans": "蛋蛋",
+  "es-419": "Exeggcute"
+ },
+ "genus": {
+  "ja-hrkt": "たまごポケモン",
+  "ko": "알포켓몬",
+  "zh-hant": "蛋寶可夢",
+  "fr": "Pokémon Œuf",
+  "de": "Ei-Pokémon",
+  "es": "Pokémon Huevo",
+  "it": "Pokémon Uovo",
+  "en": "Egg Pokémon",
+  "ja": "たまごポケモン",
+  "zh-hans": "蛋宝可梦",
+  "es-419": "Pokémon Huevo"
+ },
+ "flavor": {
+  "en": "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly.",
+  "ko": "6마리가 아니면 진정하지 못한다. 1마리라도 없어지면 바로 도망태세가 된다."
+ },
+ "varieties": [
+  {
+   "name": "exeggcute",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "45"
+}

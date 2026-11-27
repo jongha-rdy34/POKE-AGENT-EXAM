@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-cru4853",
+ "names": {
+  "ja-hrkt": "★Cru4853",
+  "ko": "★Cru4853",
+  "zh-hant": "★Cru4853",
+  "fr": "★Cru4853",
+  "de": "★Cru4853",
+  "es": "★Cru4853",
+  "it": "★Cru4853",
+  "en": "★Cru4853",
+  "ja": "★Cru4853",
+  "zh-hans": "★Cru4853",
+  "es-419": "★Cru4853"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

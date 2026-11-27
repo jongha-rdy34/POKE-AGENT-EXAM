@@ -1,0 +1,20 @@
+{
+ "name": "glimmet-crystal",
+ "names": {
+  "ja-hrkt": "キラーメのけっしょう",
+  "ko": "초롱순의결정",
+  "zh-hant": "晶光芽的結晶",
+  "fr": "Cristal de Germéclat",
+  "de": "Lumispross-Kristall",
+  "es": "Cristal de Glimmet",
+  "it": "Cristallo di Glimmet",
+  "en": "Glimmet Crystal",
+  "ja": "キラーメのけっしょう",
+  "zh-hans": "晶光芽的结晶"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,46 @@
+{
+ "id": 877,
+ "name": "morpeko",
+ "names": {
+  "ja-hrkt": "モルペコ",
+  "ja-roma": "Morpeko",
+  "ko": "모르페코",
+  "zh-hant": "莫魯貝可",
+  "fr": "Morpeko",
+  "de": "Morpeko",
+  "es": "Morpeko",
+  "it": "Morpeko",
+  "en": "Morpeko",
+  "ja": "モルペコ",
+  "zh-hans": "莫鲁贝可",
+  "es-419": "Morpeko"
+ },
+ "genus": {
+  "ja-hrkt": "にめんポケモン",
+  "ko": "양면포켓몬",
+  "zh-hant": "雙面寶可夢",
+  "fr": "Pokémon Volt Face",
+  "de": "Alter Ego-Pokémon",
+  "es": "Pokémon Dos Caras",
+  "it": "Pokémon Doppiafaccia",
+  "en": "Two-Sided Pokémon",
+  "ja": "にめんポケモン",
+  "zh-hans": "双面宝可梦",
+  "es-419": "Pokémon Dos Caras"
+ },
+ "flavor": {
+  "ko": "아무리 먹어도 금방 배가 고프다. 전기로 구운 씨앗을 소중히 갖고 다닌다.",
+  "en": "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order."
+ },
+ "varieties": [
+  {
+   "name": "morpeko-full-belly",
+   "is_default": true
+  },
+  {
+   "name": "morpeko-hangry",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "459"
+}

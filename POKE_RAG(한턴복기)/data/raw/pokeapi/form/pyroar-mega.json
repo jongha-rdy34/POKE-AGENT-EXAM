@@ -1,0 +1,15 @@
+{
+ "name": "pyroar-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Némélios",
+  "en": "Mega Pyroar"
+ },
+ "form_names": {
+  "ja-hrkt": "メガカエンジシ",
+  "fr": "Méga-Némélios",
+  "en": "Mega Pyroar",
+  "ja": "メガカエンジシ"
+ },
+ "is_mega": true
+}

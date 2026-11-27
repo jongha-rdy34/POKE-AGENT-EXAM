@@ -1,0 +1,31 @@
+{
+ "name": "coil",
+ "names": {
+  "ja-hrkt": "とぐろをまく",
+  "ko": "똬리틀기",
+  "zh-hant": "盤蜷",
+  "fr": "Enroulement",
+  "de": "Einrollen",
+  "es": "Enrosque",
+  "it": "Arrotola",
+  "en": "Coil",
+  "ja": "とぐろをまく",
+  "zh-hans": "盘蜷",
+  "es-419": "Enrosque"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Attack, Defense, and accuracy by one stage each."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user coils up and concentrates. This boosts its Attack and Defense stats as well as its accuracy.",
+  "ko": "똬리를 틀어서 집중한다. 자신의 공격과 방어와 명중률을 올린다."
+ }
+}

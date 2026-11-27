@@ -1,0 +1,85 @@
+{
+ "id": 10248,
+ "name": "basculegion-female",
+ "species": "basculegion",
+ "is_default": false,
+ "types": [
+  "water",
+  "ghost"
+ ],
+ "stats": {
+  "hp": 120,
+  "attack": 92,
+  "defense": 65,
+  "special-attack": 100,
+  "special-defense": 75,
+  "speed": 78
+ },
+ "abilities": [
+  {
+   "name": "swift-swim",
+   "hidden": false
+  },
+  {
+   "name": "adaptability",
+   "hidden": false
+  },
+  {
+   "name": "mold-breaker",
+   "hidden": true
+  }
+ ],
+ "height": 30,
+ "weight": 1100,
+ "champions_moves": [
+  "agility",
+  "aqua-jet",
+  "bite",
+  "blizzard",
+  "chilling-water",
+  "confuse-ray",
+  "crunch",
+  "double-edge",
+  "endeavor",
+  "endure",
+  "facade",
+  "flail",
+  "flip-turn",
+  "giga-impact",
+  "head-smash",
+  "hex",
+  "hydro-pump",
+  "hyper-beam",
+  "ice-beam",
+  "ice-fang",
+  "icy-wind",
+  "last-respects",
+  "liquidation",
+  "mud-shot",
+  "muddy-water",
+  "night-shade",
+  "outrage",
+  "pain-split",
+  "phantom-force",
+  "protect",
+  "psychic-fangs",
+  "rain-dance",
+  "rest",
+  "scale-shot",
+  "scary-face",
+  "shadow-ball",
+  "sleep-talk",
+  "snowscape",
+  "soak",
+  "spite",
+  "substitute",
+  "surf",
+  "thrash",
+  "uproar",
+  "water-pulse",
+  "waterfall",
+  "wave-crash",
+  "whirlpool",
+  "zen-headbutt"
+ ]
+}

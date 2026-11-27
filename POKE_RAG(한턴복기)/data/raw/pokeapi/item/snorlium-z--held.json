@@ -1,0 +1,28 @@
+{
+ "name": "snorlium-z--held",
+ "names": {
+  "ja-hrkt": "カビゴンＺ",
+  "ko": "잠만보Z",
+  "zh-hant": "卡比獸Ｚ",
+  "fr": "Ronflézélite",
+  "de": "Relaxonium Z",
+  "es": "Snorlastal Z",
+  "it": "Snorlactium Z",
+  "en": "Snorlium Z",
+  "ja": "カビゴンＺ",
+  "zh-hans": "卡比兽Ｚ",
+  "es-419": "Snorlastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Ronflex d'améliorer Giga Impact en Gare au Ronflex.",
+  "en": "Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 잠만보의 기가임팩트를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Snorlax’s Giga Impact to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 カビゴンの ギガインパクトを Ｚワザに グレードアップする。"
+ }
+}

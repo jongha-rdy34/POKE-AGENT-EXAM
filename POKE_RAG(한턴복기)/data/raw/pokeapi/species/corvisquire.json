@@ -1,0 +1,42 @@
+{
+ "id": 822,
+ "name": "corvisquire",
+ "names": {
+  "ja-hrkt": "アオガラス",
+  "ja-roma": "Aogarasu",
+  "ko": "파크로우",
+  "zh-hant": "藍鴉",
+  "fr": "Bleuseille",
+  "de": "Kranoviz",
+  "es": "Corvisquire",
+  "it": "Corvisquire",
+  "en": "Corvisquire",
+  "ja": "アオガラス",
+  "zh-hans": "蓝鸦",
+  "es-419": "Corvisquire"
+ },
+ "genus": {
+  "ja-hrkt": "カラスポケモン",
+  "ko": "까마귀포켓몬",
+  "zh-hant": "烏鴉寶可夢",
+  "fr": "Pokémon Corbeau",
+  "de": "Krähen-Pokémon",
+  "es": "Pokémon Cuervo",
+  "it": "Pokémon Corvo",
+  "en": "Raven Pokémon",
+  "ja": "カラスポケモン",
+  "zh-hans": "乌鸦宝可梦",
+  "es-419": "Pokémon Cuervo"
+ },
+ "flavor": {
+  "ko": "혹독한 싸움을 헤쳐 나와 상대의 역량을 정확히 판단하는 힘을 습득했다.",
+  "en": "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength."
+ },
+ "varieties": [
+  {
+   "name": "corvisquire",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "434"
+}

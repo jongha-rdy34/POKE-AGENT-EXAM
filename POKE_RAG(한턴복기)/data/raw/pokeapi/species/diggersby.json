@@ -1,0 +1,42 @@
+{
+ "id": 660,
+ "name": "diggersby",
+ "names": {
+  "ja-hrkt": "ホルード",
+  "ja-roma": "Horudo",
+  "ko": "파르토",
+  "zh-hant": "掘地兔",
+  "fr": "Excavarenne",
+  "de": "Grebbit",
+  "es": "Diggersby",
+  "it": "Diggersby",
+  "en": "Diggersby",
+  "ja": "ホルード",
+  "zh-hans": "掘地兔",
+  "es-419": "Diggersby"
+ },
+ "genus": {
+  "ja-hrkt": "あなほりポケモン",
+  "ko": "땅구멍파기포켓몬",
+  "zh-hant": "挖洞寶可夢",
+  "fr": "Pokémon Fouisseur",
+  "de": "Baugräber-Pokémon",
+  "es": "Pokémon Excavador",
+  "it": "Pokémon Scavabuche",
+  "en": "Digging Pokémon",
+  "ja": "あなほりポケモン",
+  "zh-hans": "挖洞宝可梦",
+  "es-419": "Pokémon Excavador"
+ },
+ "flavor": {
+  "ko": "배의 털은 보온성이 뛰어나다. 옛날 사람들은 파르토의 몸에서 빠진 털로 방한복을 만들었다.",
+  "en": "The fur on its belly retains heat exceptionally well. People used to make heavy winter clothing from fur shed by this Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "diggersby",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "340"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "egg",
+ "names": {
+  "ja-hrkt": "スライスエッグ",
+  "ko": "에그슬라이스",
+  "zh-hant": "水煮蛋片",
+  "fr": "Œuf",
+  "de": "Ei",
+  "es": "Huevo Cocido",
+  "it": "Uovo bollito",
+  "en": "Egg",
+  "ja": "スライスエッグ",
+  "zh-hans": "水煮蛋片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

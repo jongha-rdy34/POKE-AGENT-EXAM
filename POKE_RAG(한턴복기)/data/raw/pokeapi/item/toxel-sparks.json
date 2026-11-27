@@ -1,0 +1,20 @@
+{
+ "name": "toxel-sparks",
+ "names": {
+  "ja-hrkt": "エレズンのでんき",
+  "ko": "일레즌의전기",
+  "zh-hant": "毒電嬰的電力",
+  "fr": "Électricité de Toxizap",
+  "de": "Toxel-Strom",
+  "es": "Electricidad de Toxel",
+  "it": "Elettricità di Toxel",
+  "en": "Toxel Sparks",
+  "ja": "エレズンのでんき",
+  "zh-hans": "电音婴的电力"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

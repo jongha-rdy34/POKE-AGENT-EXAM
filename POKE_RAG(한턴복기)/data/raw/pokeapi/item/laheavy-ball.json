@@ -1,0 +1,22 @@
+{
+ "name": "laheavy-ball",
+ "names": {
+  "ko": "헤비볼",
+  "zh-hant": "沉重球",
+  "fr": "Masse Ball",
+  "de": "Schwerball",
+  "es": "Peso Ball",
+  "it": "Peso Ball",
+  "en": "Heavy Ball",
+  "ja": "ヘビーボール",
+  "zh-hans": "沉重球",
+  "es-419": "Pesabola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Doesn't fly far, but is more effective if the Pokémon hasn't noticed the player."
+ }
+}

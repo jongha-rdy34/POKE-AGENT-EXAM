@@ -1,0 +1,28 @@
+{
+ "name": "comeuppance",
+ "names": {
+  "ja-hrkt": "ほうふく",
+  "ko": "앙갚음",
+  "zh-hant": "復仇",
+  "fr": "Vindicte",
+  "de": "Vendetta",
+  "es": "Resarcimiento",
+  "it": "Ritorsione",
+  "en": "Comeuppance",
+  "ja": "ほうふく",
+  "zh-hans": "复仇",
+  "es-419": "Resarcimiento"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 1,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "specific-move",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user retaliates with much greater force against the opponent that last inflicted damage on it."
+ }
+}

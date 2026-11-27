@@ -1,0 +1,42 @@
+{
+ "id": 148,
+ "name": "dragonair",
+ "names": {
+  "ja-hrkt": "ハクリュー",
+  "ja-roma": "Hakuryu",
+  "ko": "신뇽",
+  "zh-hant": "哈克龍",
+  "fr": "Draco",
+  "de": "Dragonir",
+  "es": "Dragonair",
+  "it": "Dragonair",
+  "en": "Dragonair",
+  "ja": "ハクリュー",
+  "zh-hans": "哈克龙",
+  "es-419": "Dragonair"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance.",
+  "ko": "꼬리의 구슬에 힘을 모아 날씨를 조종한다. 오라에 둘러싸인 모습은 신비롭다."
+ },
+ "varieties": [
+  {
+   "name": "dragonair",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "76"
+}

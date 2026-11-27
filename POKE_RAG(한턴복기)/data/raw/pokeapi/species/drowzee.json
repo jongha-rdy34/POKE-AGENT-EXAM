@@ -1,0 +1,42 @@
+{
+ "id": 96,
+ "name": "drowzee",
+ "names": {
+  "ja-hrkt": "スリープ",
+  "ja-roma": "Sleepe",
+  "ko": "슬리프",
+  "zh-hant": "催眠貘",
+  "fr": "Soporifik",
+  "de": "Traumato",
+  "es": "Drowzee",
+  "it": "Drowzee",
+  "en": "Drowzee",
+  "ja": "スリープ",
+  "zh-hans": "催眠貘",
+  "es-419": "Drowzee"
+ },
+ "genus": {
+  "ja-hrkt": "さいみんポケモン",
+  "ko": "최면포켓몬",
+  "zh-hant": "催眠寶可夢",
+  "fr": "Pokémon Hypnose",
+  "de": "Hypnose",
+  "es": "Pokémon Hipnosis",
+  "it": "Pokémon Ipnosi",
+  "en": "Hypnosis Pokémon",
+  "ja": "さいみんポケモン",
+  "zh-hans": "催眠宝可梦",
+  "es-419": "Pokémon Hipnosis"
+ },
+ "flavor": {
+  "en": "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",
+  "ko": "언제나 함께 잠들다 보면 가끔 옛날에 먹었던 꿈을 보여줄 때가 있다."
+ },
+ "varieties": [
+  {
+   "name": "drowzee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "42"
+}

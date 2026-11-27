@@ -1,0 +1,20 @@
+{
+ "name": "scroll-of-darkness",
+ "names": {
+  "ja-hrkt": "あくのかけじく",
+  "ko": "악의 족자",
+  "zh-hant": "惡之掛軸",
+  "fr": "Rouleau des Ténèbres",
+  "de": "Unlicht-Schriftrolle",
+  "es": "Manuscrito Sombras",
+  "it": "Rotolo del Buio",
+  "en": "Scroll of Darkness",
+  "ja": "あくのかけじく",
+  "zh-hans": "恶之挂轴"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

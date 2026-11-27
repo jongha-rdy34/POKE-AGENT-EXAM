@@ -1,0 +1,31 @@
+{
+ "name": "ancient-power",
+ "names": {
+  "ja-hrkt": "げんしのちから",
+  "ko": "원시의힘",
+  "zh-hant": "原始之力",
+  "fr": "Pouvoir Antique",
+  "de": "Antik-Kraft",
+  "es": "Poder Pasado",
+  "it": "Forzantica",
+  "en": "Ancient Power",
+  "ja": "げんしのちから",
+  "zh-hans": "原始之力",
+  "es-419": "Poder Antiguo"
+ },
+ "type": "rock",
+ "category": "special",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to raise all of the user’s stats by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user attacks with a prehistoric power. This may also boost all the user's stats at once.",
+  "ko": "원시의 힘으로 공격한다. 자신의 모든 능력이 오를 때가 있다."
+ }
+}

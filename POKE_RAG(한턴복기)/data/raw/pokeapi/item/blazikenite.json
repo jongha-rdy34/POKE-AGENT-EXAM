@@ -1,0 +1,28 @@
+{
+ "name": "blazikenite",
+ "names": {
+  "ja-hrkt": "バシャーモナイト",
+  "ko": "번치코나이트",
+  "zh-hant": "火焰雞進化石",
+  "fr": "Braségalite",
+  "de": "Lohgocknit",
+  "es": "Blazikenita",
+  "it": "Blazikenite",
+  "en": "Blazikenite",
+  "ja": "バシャーモナイト",
+  "zh-hans": "火焰鸡进化石",
+  "es-419": "Blazikenita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Braségali de Méga-Évoluer en Méga-Braségali.",
+  "en": "Held: Allows Blaziken to Mega Evolve into Mega Blaziken."
+ },
+ "flavor": {
+  "ko": "번치코에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Blaziken hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "バシャーモに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

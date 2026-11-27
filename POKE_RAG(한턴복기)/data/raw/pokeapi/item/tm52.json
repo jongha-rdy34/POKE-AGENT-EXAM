@@ -1,0 +1,28 @@
+{
+ "name": "tm52",
+ "names": {
+  "ja-hrkt": "わざマシン５２",
+  "ko": "기술머신52",
+  "zh-hant": "招式學習器５２",
+  "fr": "CT52",
+  "de": "TM52",
+  "es": "MT52",
+  "it": "MT52",
+  "en": "TM52",
+  "ja": "わざマシン５２",
+  "zh-hans": "招式学习器５２",
+  "es-419": "MT52"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Exploforce à un Pokémon compatible.",
+  "en": "Teaches Focus Blast to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",
+  "ko": "하늘 높이 뛰어올라 2턴째에 상대를 공격한다. 마비 상태로 만들 때가 있다.",
+  "ja": "空高く 飛び跳ねて ２ターン目に 相手を 攻撃する。 まひ状態に することが ある。"
+ }
+}

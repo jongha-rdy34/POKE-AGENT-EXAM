@@ -1,0 +1,31 @@
+{
+ "name": "leech-life",
+ "names": {
+  "ja-hrkt": "きゅうけつ",
+  "ko": "흡혈",
+  "zh-hant": "吸血",
+  "fr": "Vampirisme",
+  "de": "Blutsauger",
+  "es": "Chupavidas",
+  "it": "Sanguisuga",
+  "en": "Leech Life",
+  "ja": "きゅうけつ",
+  "zh-hans": "吸血",
+  "es-419": "Chupavidas"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Drains half the damage inflicted to heal the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user drains the target's blood. The user's HP is restored by up to half the damage taken by the target.",
+  "ko": "피를 빨아서 상대를 공격한다. 준 데미지의 절반을 HP로 회복한다."
+ }
+}

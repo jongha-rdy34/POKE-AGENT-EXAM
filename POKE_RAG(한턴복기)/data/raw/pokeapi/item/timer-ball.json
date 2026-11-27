@@ -1,0 +1,33 @@
+{
+ "name": "timer-ball",
+ "names": {
+  "ja-hrkt": "タイマーボール",
+  "ko": "타이머볼",
+  "zh-hant": "計時球",
+  "fr": "Chrono Ball",
+  "de": "Timerball",
+  "es": "Turno Ball",
+  "it": "Timer Ball",
+  "en": "Timer Ball",
+  "ja": "タイマーボール",
+  "zh-hans": "计时球",
+  "es-419": "Turnobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès augmente de 0.1× (Gén V : 0.3x) à chaque tour, jusqu'à 4× max.",
+  "en": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that becomes progressively more effective at catching Pokémon the more turns that are taken in battle.",
+  "ko": "턴 수가 길어지면 길어질수록 포켓몬을 잡기 쉬운 조금 특이한 볼.",
+  "ja": "ターン数が かかれば かかるほど ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

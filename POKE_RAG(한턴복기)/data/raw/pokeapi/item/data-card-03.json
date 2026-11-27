@@ -1,0 +1,28 @@
+{
+ "name": "data-card-03",
+ "names": {
+  "ja-hrkt": "データカード０３",
+  "ko": "데이터카드03",
+  "zh-hant": "資料卡０３",
+  "fr": "Carte Mémo03",
+  "de": "Datenkarte03",
+  "es": "Tarjeta Datos 03",
+  "it": "Scheda Dati 03",
+  "en": "Data Card 03",
+  "ja": "データカード０３",
+  "zh-hans": "数据卡０３",
+  "es-419": "Tarjeta Datos 03"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a utilisé le sprint au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have dashed in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon dashed in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬이 대시한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの ダッシュした 回数が 記録された カード。"
+ }
+}

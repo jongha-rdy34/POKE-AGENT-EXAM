@@ -1,0 +1,31 @@
+{
+ "name": "cosmic-power",
+ "names": {
+  "ja-hrkt": "コスモパワー",
+  "ko": "코스믹파워",
+  "zh-hant": "宇宙力量",
+  "fr": "Force Cosmique",
+  "de": "Kosmik-Kraft",
+  "es": "Masa Cósmica",
+  "it": "Cosmoforza",
+  "en": "Cosmic Power",
+  "ja": "コスモパワー",
+  "zh-hans": "宇宙力量",
+  "es-419": "Masa Cósmica"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Defense and Special Defense by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user absorbs a mystical power from space to boost its Defense and Sp. Def stats.",
+  "ko": "우주로부터 신비한 힘을 손에 넣음으로써 자신의 방어와 특수방어를 올린다."
+ }
+}

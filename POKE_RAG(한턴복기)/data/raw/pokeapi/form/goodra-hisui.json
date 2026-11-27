@@ -1,0 +1,17 @@
+{
+ "name": "goodra-hisui",
+ "form_name": "hisui",
+ "names": {
+  "fr": "Muplodocus de Hisui",
+  "de": "Hisui Viscogon",
+  "en": "Hisuian Goodra"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒスイのすがた",
+  "fr": "Forme de Hisui",
+  "de": "Hisui-Form",
+  "en": "Hisuian Form",
+  "ja": "ヒスイのすがた"
+ },
+ "is_mega": false
+}

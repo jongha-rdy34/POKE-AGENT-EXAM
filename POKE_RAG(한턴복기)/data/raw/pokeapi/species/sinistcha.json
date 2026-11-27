@@ -1,0 +1,33 @@
+{
+ "id": 1013,
+ "name": "sinistcha",
+ "names": {
+  "ja-hrkt": "ヤバソチャ",
+  "ja-roma": "Yabasocha",
+  "ko": "그우린차",
+  "zh-hant": "來悲粗茶",
+  "fr": "Théffroyable",
+  "de": "Fatalitcha",
+  "es": "Sinistcha",
+  "it": "Sinistcha",
+  "en": "Sinistcha",
+  "ja": "ヤバソチャ",
+  "zh-hans": "来悲粗茶",
+  "es-419": "Sinistcha"
+ },
+ "genus": {
+  "ko": "말차포켓몬",
+  "fr": "Matcha",
+  "en": "Matcha Pokémon"
+ },
+ "flavor": {
+  "en": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset."
+ },
+ "varieties": [
+  {
+   "name": "sinistcha",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "539"
+}

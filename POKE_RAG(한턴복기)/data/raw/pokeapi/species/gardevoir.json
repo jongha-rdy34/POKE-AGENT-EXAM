@@ -1,0 +1,46 @@
+{
+ "id": 282,
+ "name": "gardevoir",
+ "names": {
+  "ja-hrkt": "サーナイト",
+  "ja-roma": "Sirnight",
+  "ko": "가디안",
+  "zh-hant": "沙奈朵",
+  "fr": "Gardevoir",
+  "de": "Guardevoir",
+  "es": "Gardevoir",
+  "it": "Gardevoir",
+  "en": "Gardevoir",
+  "ja": "サーナイト",
+  "zh-hans": "沙奈朵",
+  "es-419": "Gardevoir"
+ },
+ "genus": {
+  "ja-hrkt": "ほうようポケモン",
+  "ko": "포용포켓몬",
+  "zh-hant": "包容寶可夢",
+  "fr": "Pokémon Étreinte",
+  "de": "Umarmungs-Pokémon",
+  "es": "Pokémon Envolvente",
+  "it": "Pokémon Abbraccio",
+  "en": "Embrace Pokémon",
+  "ja": "ほうようポケモン",
+  "zh-hans": "包容宝可梦",
+  "es-419": "Pokémon Envolvente"
+ },
+ "flavor": {
+  "en": "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life.",
+  "ko": "트레이너를 지키기 위해서라면 사이코 파워를 모두 써서 작은 블랙홀을 만들어 낸다."
+ },
+ "varieties": [
+  {
+   "name": "gardevoir",
+   "is_default": true
+  },
+  {
+   "name": "gardevoir-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "140"
+}

@@ -1,0 +1,46 @@
+{
+ "id": 724,
+ "name": "decidueye",
+ "names": {
+  "ja-hrkt": "ジュナイパー",
+  "ja-roma": "Junaiper",
+  "ko": "모크나이퍼",
+  "zh-hant": "狙射樹梟",
+  "fr": "Archéduc",
+  "de": "Silvarro",
+  "es": "Decidueye",
+  "it": "Decidueye",
+  "en": "Decidueye",
+  "ja": "ジュナイパー",
+  "zh-hans": "狙射树枭",
+  "es-419": "Decidueye"
+ },
+ "genus": {
+  "ja-hrkt": "やばねポケモン",
+  "ko": "화살깃포켓몬",
+  "zh-hant": "箭羽寶可夢",
+  "fr": "Pokémon Plumeflèche",
+  "de": "Pfeilflügel-Pokémon",
+  "es": "Pokémon Pluma Flecha",
+  "it": "Pokémon Alifreccia",
+  "en": "Arrow Quill Pokémon",
+  "ja": "やばねポケモン",
+  "zh-hans": "箭羽宝可梦",
+  "es-419": "Pokémon Pluma Flecha"
+ },
+ "flavor": {
+  "ko": "0.1초 만에 화살깃을 날개에 달린 시위에 메겨 발사한다. 상대가 알아차리기 전에 급소를 꿰뚫어버린다.",
+  "en": "The air stored inside the rachises of Decidueye's feathers insulates the Pokémon against Hisui's extreme cold. This is firm proof that evolution can be influenced by environment."
+ },
+ "varieties": [
+  {
+   "name": "decidueye",
+   "is_default": true
+  },
+  {
+   "name": "decidueye-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "374"
+}

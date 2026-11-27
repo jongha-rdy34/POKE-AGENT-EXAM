@@ -1,0 +1,20 @@
+{
+ "name": "heroic-sword-pick",
+ "names": {
+  "ja-hrkt": "ゆうしゃのけんピック",
+  "ko": "용사의 검 픽",
+  "zh-hant": "勇者之劍三明治籤",
+  "fr": "Pique Épée du Héros",
+  "de": "Heldenschwert-Pikser",
+  "es": "Palillo Heroico",
+  "it": "Stecchino spadone",
+  "en": "Heroic Sword Pick",
+  "ja": "ゆうしゃのけんピック",
+  "zh-hans": "勇者之剑三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

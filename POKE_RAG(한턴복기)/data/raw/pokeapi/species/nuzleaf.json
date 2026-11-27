@@ -1,0 +1,42 @@
+{
+ "id": 274,
+ "name": "nuzleaf",
+ "names": {
+  "ja-hrkt": "コノハナ",
+  "ja-roma": "Konohana",
+  "ko": "잎새코",
+  "zh-hant": "長鼻葉",
+  "fr": "Pifeuil",
+  "de": "Blanas",
+  "es": "Nuzleaf",
+  "it": "Nuzleaf",
+  "en": "Nuzleaf",
+  "ja": "コノハナ",
+  "zh-hans": "长鼻叶",
+  "es-419": "Nuzleaf"
+ },
+ "genus": {
+  "ja-hrkt": "いじわるポケモン",
+  "ko": "꾀부리기포켓몬",
+  "zh-hant": "捉弄寶可夢",
+  "fr": "Pokémon Malin",
+  "de": "Hinterlist-Pokémon",
+  "es": "Pokémon Astuto",
+  "it": "Pokémon Scaltro",
+  "en": "Wily Pokémon",
+  "ja": "いじわるポケモン",
+  "zh-hans": "捉弄宝可梦",
+  "es-419": "Pokémon Astuto"
+ },
+ "flavor": {
+  "en": "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread.",
+  "ko": "잎새코가 부는 풀피리 소리는 듣는 이를 불안하게 만든다. 큰 나무의 비어 있는 구멍에 산다."
+ },
+ "varieties": [
+  {
+   "name": "nuzleaf",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "137"
+}

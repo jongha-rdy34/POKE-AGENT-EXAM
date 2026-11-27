@@ -1,0 +1,28 @@
+{
+ "name": "aloraichium-z--held",
+ "names": {
+  "ja-hrkt": "アロライＺ",
+  "ko": "알로라이Z",
+  "zh-hant": "阿羅雷Ｚ",
+  "fr": "Aloraïzélite",
+  "de": "A-Raichunium Z",
+  "es": "Alo-Raistal Z",
+  "it": "Aloraicium Z",
+  "en": "Aloraichium Z",
+  "ja": "アロライＺ",
+  "zh-hans": "阿罗雷Ｚ",
+  "es-419": "Alo-Raistal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Raichu d'Alola d'améliorer Tonnerre en Électro-Surf Survolté.",
+  "en": "Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 알로라지방의 라이츄의 10만볼트를 Z기술로 바꾼다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Alolan Raichu’s Thunderbolt to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 アローラ地方の ライチュウの １０まんボルトを Ｚワザに 変える。"
+ }
+}

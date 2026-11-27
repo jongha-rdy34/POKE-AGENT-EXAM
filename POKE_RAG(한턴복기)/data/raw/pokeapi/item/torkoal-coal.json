@@ -1,0 +1,20 @@
+{
+ "name": "torkoal-coal",
+ "names": {
+  "ja-hrkt": "コータスのせきたん",
+  "ko": "코터스의석탄",
+  "zh-hant": "煤炭龜的煤炭",
+  "fr": "Charbon de Chartor",
+  "de": "Qurtel-Kohle",
+  "es": "Carbón de Torkoal",
+  "it": "Carbone di Torkoal",
+  "en": "Torkoal Coal",
+  "ja": "コータスのせきたん",
+  "zh-hans": "煤炭龟的煤炭"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

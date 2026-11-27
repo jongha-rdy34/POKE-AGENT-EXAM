@@ -1,0 +1,20 @@
+{
+ "name": "illumise-fluid",
+ "names": {
+  "ja-hrkt": "イルミーゼのしる",
+  "ko": "네오비트의체액",
+  "zh-hant": "甜甜螢的汁液",
+  "fr": "Fluide de Lumivole",
+  "de": "Illumise-Sekret",
+  "es": "Fluido de Illumise",
+  "it": "Fluido di Illumise",
+  "en": "Illumise Fluid",
+  "ja": "イルミーゼのしる",
+  "zh-hans": "甜甜萤的汁液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

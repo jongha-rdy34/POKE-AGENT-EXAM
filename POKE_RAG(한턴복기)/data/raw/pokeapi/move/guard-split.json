@@ -1,0 +1,31 @@
+{
+ "name": "guard-split",
+ "names": {
+  "ja-hrkt": "ガードシェア",
+  "ko": "가드셰어",
+  "zh-hant": "防守平分",
+  "fr": "Partage Garde",
+  "de": "Schutzteiler",
+  "es": "Isoguardia",
+  "it": "Paridifesa",
+  "en": "Guard Split",
+  "ja": "ガードシェア",
+  "zh-hans": "防守平分",
+  "es-419": "Guardia Dividida"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Averages Defense and Special Defense with the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.",
+  "ko": "초능력으로 자신과 상대의 방어와 특수방어를 더해서 반으로 나눈다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "squirt-bottle",
+ "names": {
+  "ja-hrkt": "ゼニガメじょうろ",
+  "ko": "꼬부기물뿌리개",
+  "zh-hant": "傑尼龜噴壺",
+  "fr": "Carapuce à O",
+  "de": "Schiggykanne",
+  "es": "Regadera",
+  "it": "Annaffiatoio",
+  "en": "Squirt Bottle",
+  "ja": "ゼニガメじょうろ",
+  "zh-hans": "杰尼龟喷壶",
+  "es-419": "Regadera"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À utiliser sur le Simularbre bloquant le chemin sur la Route 36. Arrose aussi les baies.",
+  "en": "Use on Sudowoodo blocking the path on Route 36. Also waters berries."
+ },
+ "flavor": {
+  "en": "A bottle used for watering plants in the Berry Pots.",
+  "ko": "물을 주는 도구. 나무열매플랜터의 나무열매를 쑥쑥 키운다.",
+  "ja": "みずを かける 道具。 きのみプランターの きのみを すくすく 育てる。"
+ }
+}

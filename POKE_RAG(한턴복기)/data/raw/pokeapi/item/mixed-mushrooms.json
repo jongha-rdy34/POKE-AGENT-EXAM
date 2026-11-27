@@ -1,0 +1,25 @@
+{
+ "name": "mixed-mushrooms",
+ "names": {
+  "ja-hrkt": "キノコパック",
+  "ko": "버섯팩",
+  "zh-hant": "袋裝蕈菇",
+  "fr": "Champignons",
+  "de": "Pilzmix",
+  "es": "Setas",
+  "it": "Funghi",
+  "en": "Mixed Mushrooms",
+  "ja": "キノコパック",
+  "zh-hans": "袋装蕈菇",
+  "es-419": "Setas"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 다양한 버섯의 질감이 식감을 바꿔준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The chewy texture of the mushrooms transforms any dish they’re added to.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。いろんな キノコの 歯応えが 食感を 変えてくれる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 244,
+ "name": "entei",
+ "names": {
+  "ja-hrkt": "エンテイ",
+  "ja-roma": "Entei",
+  "ko": "앤테이",
+  "zh-hant": "炎帝",
+  "fr": "Entei",
+  "de": "Entei",
+  "es": "Entei",
+  "it": "Entei",
+  "en": "Entei",
+  "ja": "エンテイ",
+  "zh-hans": "炎帝",
+  "es-419": "Entei"
+ },
+ "genus": {
+  "ja-hrkt": "かざんポケモン",
+  "ko": "화산포켓몬",
+  "zh-hant": "火山寶可夢",
+  "fr": "Pokémon Volcan",
+  "de": "Vulkan-Pokémon",
+  "es": "Pokémon Volcán",
+  "it": "Pokémon Vulcano",
+  "en": "Volcano Pokémon",
+  "ja": "かざんポケモン",
+  "zh-hans": "火山宝可梦",
+  "es-419": "Pokémon Volcán"
+ },
+ "flavor": {
+  "en": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+  "ko": "마그마의 정열이 깃들어 있는 포켓몬이다. 화산 분화 속에서 태어났다고 여겨지며 모든 것을 태워버리는 불꽃을 뿜어 올린다."
+ },
+ "varieties": [
+  {
+   "name": "entei",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "124"
+}

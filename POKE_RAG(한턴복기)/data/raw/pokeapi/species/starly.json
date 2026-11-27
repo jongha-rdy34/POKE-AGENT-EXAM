@@ -1,0 +1,42 @@
+{
+ "id": 396,
+ "name": "starly",
+ "names": {
+  "ja-hrkt": "ムックル",
+  "ja-roma": "Mukkuru",
+  "ko": "찌르꼬",
+  "zh-hant": "姆克兒",
+  "fr": "Étourmi",
+  "de": "Staralili",
+  "es": "Starly",
+  "it": "Starly",
+  "en": "Starly",
+  "ja": "ムックル",
+  "zh-hans": "姆克儿",
+  "es-419": "Starly"
+ },
+ "genus": {
+  "ja-hrkt": "むくどりポケモン",
+  "ko": "찌르레기포켓몬",
+  "zh-hant": "椋鳥寶可夢",
+  "fr": "Pokémon Étourneau",
+  "de": "Star",
+  "es": "Pokémon Estornino",
+  "it": "Pokémon Storno",
+  "en": "Starling Pokémon",
+  "ja": "むくどりポケモン",
+  "zh-hans": "椋鸟宝可梦",
+  "es-419": "Pokémon Estornino"
+ },
+ "flavor": {
+  "en": "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week.",
+  "ko": "벌레 포켓몬을 노리고 산과 들을 많은 무리로 날아다닌다. 울음소리가 무척 시끄럽다."
+ },
+ "varieties": [
+  {
+   "name": "starly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "206"
+}

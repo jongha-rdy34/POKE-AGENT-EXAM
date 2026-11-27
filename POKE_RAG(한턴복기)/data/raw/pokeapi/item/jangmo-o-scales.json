@@ -1,0 +1,20 @@
+{
+ "name": "jangmo-o-scales",
+ "names": {
+  "ja-hrkt": "ジャラコのウロコ",
+  "ko": "짜랑꼬의비늘",
+  "zh-hant": "心鱗寶的鱗片",
+  "fr": "Écaille de Bébécaille",
+  "de": "Miniras-Schuppe",
+  "es": "Escama de Jangmo-o",
+  "it": "Squama di Jangmo-o",
+  "en": "Jangmo-o Scales",
+  "ja": "ジャラコのウロコ",
+  "zh-hans": "心鳞宝的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

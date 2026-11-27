@@ -1,0 +1,46 @@
+{
+ "id": 851,
+ "name": "centiskorch",
+ "names": {
+  "ja-hrkt": "マルヤクデ",
+  "ja-roma": "Maruyakude",
+  "ko": "다태우지네",
+  "zh-hant": "焚焰蚣",
+  "fr": "Scolocendre",
+  "de": "Infernopod",
+  "es": "Centiskorch",
+  "it": "Centiskorch",
+  "en": "Centiskorch",
+  "ja": "マルヤクデ",
+  "zh-hans": "焚焰蚣",
+  "es-419": "Centiskorch"
+ },
+ "genus": {
+  "ja-hrkt": "はつねつポケモン",
+  "ko": "발열포켓몬",
+  "zh-hant": "發熱寶可夢",
+  "fr": "Pokémon Calorifère",
+  "de": "Exotherm-Pokémon",
+  "es": "Pokémon Radiador",
+  "it": "Pokémon Termogeno",
+  "en": "Radiator Pokémon",
+  "ja": "はつねつポケモン",
+  "zh-hans": "发热宝可梦",
+  "es-419": "Pokémon Radiador"
+ },
+ "flavor": {
+  "ko": "공격적인 성질을 가졌다. 탄 몸도 위험하지만 큰 이빨도 날카롭다.",
+  "en": "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs."
+ },
+ "varieties": [
+  {
+   "name": "centiskorch",
+   "is_default": true
+  },
+  {
+   "name": "centiskorch-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "447"
+}

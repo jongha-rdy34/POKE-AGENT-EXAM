@@ -1,0 +1,42 @@
+{
+ "id": 70,
+ "name": "weepinbell",
+ "names": {
+  "ja-hrkt": "ウツドン",
+  "ja-roma": "Utsudon",
+  "ko": "우츠동",
+  "zh-hant": "口呆花",
+  "fr": "Boustiflor",
+  "de": "Ultrigaria",
+  "es": "Weepinbell",
+  "it": "Weepinbell",
+  "en": "Weepinbell",
+  "ja": "ウツドン",
+  "zh-hans": "口呆花",
+  "es-419": "Weepinbell"
+ },
+ "genus": {
+  "ja-hrkt": "ハエとりポケモン",
+  "ko": "파리잡이포켓몬",
+  "zh-hant": "捕蠅寶可夢",
+  "fr": "Pokémon Carnivore",
+  "de": "Fliegentod",
+  "es": "Pokémon Matamoscas",
+  "it": "Pokémon Moschivoro",
+  "en": "Flycatcher Pokémon",
+  "ja": "ハエとりポケモン",
+  "zh-hans": "捕蝇宝可梦",
+  "es-419": "Pokémon Matamoscas"
+ },
+ "flavor": {
+  "en": "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",
+  "ko": "배가 고프면 움직이는 것을 닥치는 대로 삼킨 다음 용해액으로 마무리한다."
+ },
+ "varieties": [
+  {
+   "name": "weepinbell",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "29"
+}

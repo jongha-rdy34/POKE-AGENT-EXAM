@@ -1,0 +1,30 @@
+{
+ "name": "claw-fossil",
+ "names": {
+  "ja-hrkt": "ツメのカセキ",
+  "ko": "발톱화석",
+  "zh-hant": "爪子化石",
+  "fr": "Fossile Griffe",
+  "de": "Klauenfossil",
+  "es": "Fósil Garra",
+  "it": "Fossilunghia",
+  "en": "Claw Fossil",
+  "ja": "ツメのカセキ",
+  "zh-hans": "爪子化石",
+  "es-419": "Fósil Garra"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Anorith.",
+  "en": "Can be revived into an Anorith."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sea. It appears to be a fragment of a claw.",
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬의 화석. 발톱의 일부인 듯하다.",
+  "ja": "大昔 海に すんでいた 古代ポケモンの カセキ。 ツメの 一部らしい。"
+ }
+}

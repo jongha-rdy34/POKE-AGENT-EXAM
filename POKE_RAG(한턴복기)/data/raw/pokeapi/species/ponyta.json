@@ -1,0 +1,46 @@
+{
+ "id": 77,
+ "name": "ponyta",
+ "names": {
+  "ja-hrkt": "ポニータ",
+  "ja-roma": "Ponyta",
+  "ko": "포니타",
+  "zh-hant": "小火馬",
+  "fr": "Ponyta",
+  "de": "Ponita",
+  "es": "Ponyta",
+  "it": "Ponyta",
+  "en": "Ponyta",
+  "ja": "ポニータ",
+  "zh-hans": "小火马",
+  "es-419": "Ponyta"
+ },
+ "genus": {
+  "ja-hrkt": "ひのうまポケモン",
+  "ko": "불의말포켓몬",
+  "zh-hant": "火馬寶可夢",
+  "fr": "Pokémon Cheval Feu",
+  "de": "Feuerpferd-Pokémon",
+  "es": "Pokémon Caballo Fuego",
+  "it": "Pokémon Cavalfuoco",
+  "en": "Fire Horse Pokémon",
+  "ja": "ひのうまポケモン",
+  "zh-hans": "火马宝可梦",
+  "es-419": "Pokémon Caballo Fuego"
+ },
+ "flavor": {
+  "en": "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth.",
+  "ko": "포니타에게 인정받으면 타오르는 갈기를 만져도 뜨거움을 느끼지 않게 된다."
+ },
+ "varieties": [
+  {
+   "name": "ponyta",
+   "is_default": true
+  },
+  {
+   "name": "ponyta-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "32"
+}

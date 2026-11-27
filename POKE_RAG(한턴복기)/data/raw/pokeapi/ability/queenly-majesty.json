@@ -1,0 +1,23 @@
+{
+ "name": "queenly-majesty",
+ "names": {
+  "ja-hrkt": "じょおうのいげん",
+  "ko": "여왕의위엄",
+  "zh-hant": "女王的威嚴",
+  "fr": "Prestance Royale",
+  "de": "Majestät",
+  "es": "Regia Presencia",
+  "it": "Regalità",
+  "en": "Queenly Majesty",
+  "ja": "じょおうのいげん",
+  "zh-hans": "女王的威严",
+  "es-419": "Regia Presencia"
+ },
+ "effect": {
+  "en": "Opposing Pokémon cannot use priority attacks."
+ },
+ "flavor": {
+  "ko": "상대에게 위압감을 줘서 이쪽을 향한 선제 기술을 사용할 수 없게 한다.",
+  "en": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+ }
+}

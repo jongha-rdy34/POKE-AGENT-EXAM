@@ -1,0 +1,23 @@
+{
+ "name": "cheek-pouch",
+ "names": {
+  "ja-hrkt": "ほおぶくろ",
+  "ko": "볼주머니",
+  "zh-hant": "頰囊",
+  "fr": "Bajoues",
+  "de": "Backentaschen",
+  "es": "Carrillo",
+  "it": "Guancegonfie",
+  "en": "Cheek Pouch",
+  "ja": "ほおぶくろ",
+  "zh-hans": "颊囊",
+  "es-419": "Mejillas"
+ },
+ "effect": {
+  "en": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+ },
+ "flavor": {
+  "ko": "어떤 나무열매라도 먹으면 HP도 회복한다.",
+  "en": "The Pokémon's HP is restored when it eats any Berry, in addition to the Berry's usual effect."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "grassium-z--bag",
+ "names": {
+  "ja-hrkt": "クサＺ",
+  "ko": "풀Z",
+  "zh-hant": "草Ｚ",
+  "fr": "Florazélite",
+  "de": "Botanium Z",
+  "es": "Fitostal Z",
+  "it": "Herbium Z",
+  "en": "Grassium Z",
+  "ja": "クサＺ",
+  "zh-hans": "草Ｚ",
+  "es-419": "Fitostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour grassium-z--bag",
+  "en": "XXX new effect for grassium-z--bag"
+ },
+ "flavor": {
+  "ko": "풀타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Grass-type moves to Grass-type Z-Moves.",
+  "ja": "くさタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

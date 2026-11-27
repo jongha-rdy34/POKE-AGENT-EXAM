@@ -1,0 +1,20 @@
+{
+ "name": "tm104",
+ "names": {
+  "ja-hrkt": "わざマシン１０４",
+  "ko": "기술머신104",
+  "zh-hant": "招式學習器１０４",
+  "fr": "CT104",
+  "de": "TM104",
+  "es": "MT104",
+  "it": "MT104",
+  "en": "TM104",
+  "ja": "わざマシン１０４",
+  "zh-hans": "招式学习器１０４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

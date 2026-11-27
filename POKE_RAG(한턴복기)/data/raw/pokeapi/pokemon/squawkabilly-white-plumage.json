@@ -1,0 +1,35 @@
+{
+ "id": 10262,
+ "name": "squawkabilly-white-plumage",
+ "species": "squawkabilly",
+ "is_default": false,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 82,
+  "attack": 96,
+  "defense": 51,
+  "special-attack": 45,
+  "special-defense": 51,
+  "speed": 92
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "hustle",
+   "hidden": false
+  },
+  {
+   "name": "sheer-force",
+   "hidden": true
+  }
+ ],
+ "height": 6,
+ "weight": 24,
+ "champions_moves": []
+}

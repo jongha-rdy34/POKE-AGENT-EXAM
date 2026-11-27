@@ -1,0 +1,46 @@
+{
+ "id": 812,
+ "name": "rillaboom",
+ "names": {
+  "ja-hrkt": "ゴリランダー",
+  "ja-roma": "Gorirander",
+  "ko": "고릴타",
+  "zh-hant": "轟擂金剛猩",
+  "fr": "Gorythmic",
+  "de": "Gortrom",
+  "es": "Rillaboom",
+  "it": "Rillaboom",
+  "en": "Rillaboom",
+  "ja": "ゴリランダー",
+  "zh-hans": "轰擂金刚猩",
+  "es-419": "Rillaboom"
+ },
+ "genus": {
+  "ja-hrkt": "ドラマーポケモン",
+  "ko": "드러머포켓몬",
+  "zh-hant": "鼓手寶可夢",
+  "fr": "Pokémon Batteur",
+  "de": "Drummer-Pokémon",
+  "es": "Pokémon Percusión",
+  "it": "Pokémon Percussione",
+  "en": "Drummer Pokémon",
+  "ja": "ドラマーポケモン",
+  "zh-hans": "鼓手宝可梦",
+  "es-419": "Pokémon Percusión"
+ },
+ "flavor": {
+  "ko": "드럼 테크닉이 가장 뛰어난 자가 보스가 된다. 천성이 온화해서 그룹의 조화를 중히 여긴다.",
+  "en": "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group."
+ },
+ "varieties": [
+  {
+   "name": "rillaboom",
+   "is_default": true
+  },
+  {
+   "name": "rillaboom-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "430"
+}

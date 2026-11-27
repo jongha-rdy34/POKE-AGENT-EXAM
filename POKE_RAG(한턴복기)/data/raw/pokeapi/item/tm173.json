@@ -1,0 +1,19 @@
+{
+ "name": "tm173",
+ "names": {
+  "ko": "기술머신173",
+  "zh-hant": "招式學習器１７３",
+  "fr": "CT173",
+  "de": "TM173",
+  "es": "MT173",
+  "it": "MT173",
+  "en": "TM173",
+  "ja": "わざマシン１７３",
+  "zh-hans": "招式学习器１７３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

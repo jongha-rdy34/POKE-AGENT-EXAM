@@ -1,0 +1,28 @@
+{
+ "name": "supercell-slam",
+ "names": {
+  "ja-hrkt": "サンダーダイブ",
+  "ko": "썬더다이브",
+  "zh-hant": "閃電強襲",
+  "fr": "Volt Assaut",
+  "de": "Donnerstoß",
+  "es": "Plancha Voltaica",
+  "it": "Elettrotuffo",
+  "en": "Supercell Slam",
+  "ja": "サンダーダイブ",
+  "zh-hans": "闪电强袭",
+  "es-419": "Golpe Voltaico"
+ },
+ "type": "electric",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+ }
+}

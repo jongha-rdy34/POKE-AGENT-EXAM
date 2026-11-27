@@ -1,0 +1,42 @@
+{
+ "id": 252,
+ "name": "treecko",
+ "names": {
+  "ja-hrkt": "キモリ",
+  "ja-roma": "Kimori",
+  "ko": "나무지기",
+  "zh-hant": "木守宮",
+  "fr": "Arcko",
+  "de": "Geckarbor",
+  "es": "Treecko",
+  "it": "Treecko",
+  "en": "Treecko",
+  "ja": "キモリ",
+  "zh-hans": "木守宫",
+  "es-419": "Treecko"
+ },
+ "genus": {
+  "ja-hrkt": "もりトカゲポケモン",
+  "ko": "숲도마뱀포켓몬",
+  "zh-hant": "林蜥寶可夢",
+  "fr": "Pokémon Bois Gecko",
+  "de": "Waldgecko-Pokémon",
+  "es": "Pokémon Geco Bosque",
+  "it": "Pokémon Legnogeco",
+  "en": "Wood Gecko Pokémon",
+  "ja": "もりトカゲポケモン",
+  "zh-hans": "林蜥宝可梦",
+  "es-419": "Pokémon Geco Bosque"
+ },
+ "flavor": {
+  "en": "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
+  "ko": "침착 냉정 어떤 일에도 동요하지 않는다. 체격이 큰 포켓몬이 노려봐도 한 발짝도 물러서지 않고 같이 노려본다."
+ },
+ "varieties": [
+  {
+   "name": "treecko",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "130"
+}

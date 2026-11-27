@@ -1,0 +1,31 @@
+{
+ "name": "earth-power",
+ "names": {
+  "ja-hrkt": "だいちのちから",
+  "ko": "대지의힘",
+  "zh-hant": "大地之力",
+  "fr": "Telluriforce",
+  "de": "Erdkräfte",
+  "es": "Tierra Viva",
+  "it": "Geoforza",
+  "en": "Earth Power",
+  "ja": "だいちのちから",
+  "zh-hans": "大地之力",
+  "es-419": "Poder Terrestre"
+ },
+ "type": "ground",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Defense by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user makes the ground under the target erupt with power. This may also lower the target's Sp. Def stat.",
+  "ko": "상대의 발밑에 대지의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다."
+ }
+}

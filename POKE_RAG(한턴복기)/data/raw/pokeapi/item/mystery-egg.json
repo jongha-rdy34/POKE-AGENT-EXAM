@@ -1,0 +1,28 @@
+{
+ "name": "mystery-egg",
+ "names": {
+  "ja-hrkt": "ふしぎなタマゴ",
+  "ko": "이상한알",
+  "zh-hant": "神奇蛋",
+  "fr": "Œuf Mystère",
+  "de": "Rätsel-Ei",
+  "es": "Huevo Misterioso",
+  "it": "Uovo Mistero",
+  "en": "Mystery Egg",
+  "ja": "ふしぎなタマゴ",
+  "zh-hans": "神奇蛋",
+  "es-419": "Huevo Misterioso"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À livrer au Professeur Orme.",
+  "en": "Deliver to Professor Elm."
+ },
+ "flavor": {
+  "en": "A mysterious Egg obtained from Mr. Pokémon. What is in the Egg is unknown.",
+  "ko": "포켓몬 할아버지로부터 받은 이상한 모양의 알. 어떤 알인지 모른다.",
+  "ja": "ポケモンじいさんから あずかった 不思議な もようの タマゴ。 なんの タマゴか わからない。"
+ }
+}

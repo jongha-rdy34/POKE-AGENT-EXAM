@@ -1,0 +1,20 @@
+{
+ "name": "croagunk-poison",
+ "names": {
+  "ja-hrkt": "グレッグルのどくそ",
+  "ko": "삐딱구리의독소",
+  "zh-hant": "不良蛙的毒素",
+  "fr": "Poison de Cradopaud",
+  "de": "Glibunkel-Toxin",
+  "es": "Toxinas de Croagunk",
+  "it": "Tossine di Croagunk",
+  "en": "Croagunk Poison",
+  "ja": "グレッグルのどくそ",
+  "zh-hans": "不良蛙的毒素"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

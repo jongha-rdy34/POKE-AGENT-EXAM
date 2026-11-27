@@ -1,0 +1,28 @@
+{
+ "name": "razz-berry",
+ "names": {
+  "ja-hrkt": "ズリのみ",
+  "ko": "라즈열매",
+  "zh-hant": "蔓莓果",
+  "fr": "Baie Framby",
+  "de": "Himmihbeere",
+  "es": "Baya Frambu",
+  "it": "Baccalampon",
+  "en": "Razz Berry",
+  "ja": "ズリのみ",
+  "zh-hans": "蔓莓果",
+  "es-419": "Baya Frambu"
+ },
+ "category": "baking-only",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour créer des Pokéblocs et Poffins.",
+  "en": "Used for creating PokéBlocks and Poffins."
+ },
+ "flavor": {
+  "en": "Used to make Pokéblocks that will enhance your Coolness. Its red flesh is spicy when eaten.",
+  "ko": "근사함을 연마하기 위한 포켓몬스넥을 만들 때 사용된다. 빨간색 열매는 먹으면 맵다.",
+  "ja": "かっこよさに 磨きを かける ための ポロックを つくるとき 使われる。 赤色の実は 食べると 辛い。"
+ }
+}

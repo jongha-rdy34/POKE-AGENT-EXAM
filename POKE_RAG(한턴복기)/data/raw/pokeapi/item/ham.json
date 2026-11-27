@@ -1,0 +1,20 @@
+{
+ "name": "ham",
+ "names": {
+  "ja-hrkt": "ハムスライス",
+  "ko": "슬라이스햄",
+  "zh-hant": "火腿片",
+  "fr": "Jambon Blanc",
+  "de": "Kochschinken",
+  "es": "Jamón Cocido",
+  "it": "Prosciutto cotto",
+  "en": "Ham",
+  "ja": "ハムスライス",
+  "zh-hans": "火腿片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

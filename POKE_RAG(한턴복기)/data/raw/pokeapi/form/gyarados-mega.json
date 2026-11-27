@@ -1,0 +1,23 @@
+{
+ "name": "gyarados-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Léviator",
+  "de": "Mega-Garados",
+  "en": "Mega Gyarados"
+ },
+ "form_names": {
+  "ja-hrkt": "メガギャラドス",
+  "ko": "메가갸라도스",
+  "zh-hant": "超級暴鯉龍",
+  "fr": "Méga-Léviator",
+  "de": "Mega-Form",
+  "es": "Mega-Gyarados",
+  "it": "MegaGyarados",
+  "en": "Mega Gyarados",
+  "ja": "メガギャラドス",
+  "zh-hans": "超级暴鲤龙",
+  "es-419": "Mega-Gyarados"
+ },
+ "is_mega": true
+}

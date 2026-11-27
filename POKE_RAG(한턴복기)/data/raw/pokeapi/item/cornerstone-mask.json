@@ -1,0 +1,20 @@
+{
+ "name": "cornerstone-mask",
+ "names": {
+  "ja-hrkt": "いしずえのめん",
+  "ko": "주춧돌의가면",
+  "zh-hant": "礎石面具",
+  "fr": "Masque de la Pierre",
+  "de": "Fundamentmaske",
+  "es": "Máscara Cimiento",
+  "it": "Maschera Fondamenta",
+  "en": "Cornerstone Mask",
+  "ja": "いしずえのめん",
+  "zh-hans": "础石面具"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

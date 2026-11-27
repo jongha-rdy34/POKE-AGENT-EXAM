@@ -1,0 +1,31 @@
+{
+ "name": "counter",
+ "names": {
+  "ja-hrkt": "カウンター",
+  "ko": "카운터",
+  "zh-hant": "雙倍奉還",
+  "fr": "Riposte",
+  "de": "Konter",
+  "es": "Contraataque",
+  "it": "Contrattacco",
+  "en": "Counter",
+  "ja": "カウンター",
+  "zh-hans": "双倍奉还",
+  "es-419": "Contraataque"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": -5,
+ "target": "specific-move",
+ "effect": {
+  "en": "Inflicts twice the damage the user received from the last physical hit it took."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A retaliatory attack that counters any physical move, inflicting double the damage taken.",
+  "ko": "상대로부터 받은 물리공격의 데미지를 2배로 만들어 같은 상대에게 돌려준다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 432,
+ "name": "purugly",
+ "names": {
+  "ja-hrkt": "ブニャット",
+  "ja-roma": "Bunyatto",
+  "ko": "몬냥이",
+  "zh-hant": "東施喵",
+  "fr": "Chaffreux",
+  "de": "Shnurgarst",
+  "es": "Purugly",
+  "it": "Purugly",
+  "en": "Purugly",
+  "ja": "ブニャット",
+  "zh-hans": "东施喵",
+  "es-419": "Purugly"
+ },
+ "genus": {
+  "ja-hrkt": "とらねこポケモン",
+  "ko": "얼룩고양이포켓몬",
+  "zh-hant": "虎斑貓寶可夢",
+  "fr": "Pokémon Chatigre",
+  "de": "Tigerkatze",
+  "es": "Pokémon Tigre Gato",
+  "it": "Pokémon Gattotigre",
+  "en": "Tiger Cat Pokémon",
+  "ja": "とらねこポケモン",
+  "zh-hans": "虎斑猫宝可梦",
+  "es-419": "Pokémon Tigre Gato"
+ },
+ "flavor": {
+  "en": "Though impudent and difficult to tame, Purugly enjoys great popularity due to its fur, the beauty of which surpasses even velveteen.",
+  "ko": "몸을 크게 보여서 상대를 위압하기 위해 두 갈래의 꼬리로 허리를 꼭 쥐고 있다."
+ },
+ "varieties": [
+  {
+   "name": "purugly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "221"
+}

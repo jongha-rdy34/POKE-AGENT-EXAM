@@ -1,0 +1,42 @@
+{
+ "id": 298,
+ "name": "azurill",
+ "names": {
+  "ja-hrkt": "ルリリ",
+  "ja-roma": "Ruriri",
+  "ko": "루리리",
+  "zh-hant": "露力麗",
+  "fr": "Azurill",
+  "de": "Azurill",
+  "es": "Azurill",
+  "it": "Azurill",
+  "en": "Azurill",
+  "ja": "ルリリ",
+  "zh-hans": "露力丽",
+  "es-419": "Azurill"
+ },
+ "genus": {
+  "ja-hrkt": "みずたまポケモン",
+  "ko": "물방울포켓몬",
+  "zh-hant": "水珠寶可夢",
+  "fr": "Pokémon Point Polka",
+  "de": "Gepunktet-Pokémon",
+  "es": "Pokémon A Topos",
+  "it": "Pokémon Pois",
+  "en": "Polka Dot Pokémon",
+  "ja": "みずたまポケモン",
+  "zh-hans": "水珠宝可梦",
+  "es-419": "Pokémon A Topos"
+ },
+ "flavor": {
+  "en": "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents.",
+  "ko": "얌전한 포켓몬이지만 화가 나면 꼬리의 큰 공을 붕붕 휘두르다 세차게 내리친다."
+ },
+ "varieties": [
+  {
+   "name": "azurill",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "90"
+}

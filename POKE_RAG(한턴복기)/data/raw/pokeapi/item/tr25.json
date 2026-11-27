@@ -1,0 +1,25 @@
+{
+ "name": "tr25",
+ "names": {
+  "ja-hrkt": "わざレコード２５",
+  "ko": "기술레코드25",
+  "zh-hant": "招式紀錄２５",
+  "fr": "DT25",
+  "de": "TP25",
+  "es": "DT25",
+  "it": "DT25",
+  "en": "TR25",
+  "ja": "わざレコード２５",
+  "zh-hans": "招式记录２５",
+  "es-419": "DT25"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다.",
+  "en": "The user materializes an odd psychic wave to attack the target. This attack does physical damage.",
+  "ja": "不思議な 念波を 実体化して 相手を 攻撃する。 物理的な ダメージを 与える。"
+ }
+}

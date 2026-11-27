@@ -1,0 +1,28 @@
+{
+ "name": "sun-flute",
+ "names": {
+  "ja-hrkt": "たいようのふえ",
+  "ko": "태양의피리",
+  "zh-hant": "太陽之笛",
+  "fr": "Flûte du Soleil",
+  "de": "Sonnenflöte",
+  "es": "Flauta Solar",
+  "it": "Flauto solare",
+  "en": "Sun Flute",
+  "ja": "たいようのふえ",
+  "zh-hans": "太阳之笛",
+  "es-419": "Flauta Solar"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fait évoluer Doudou en Solgaleo quand utilisé à l'Autel du Soleil.",
+  "en": "Evolves Nebby into Solgaleo when used at the Altar of the Sunne."
+ },
+ "flavor": {
+  "ko": "태양의 전설포켓몬에게 감사의 마음을 표현하기 위해 음색을 바쳤다고 한다.",
+  "en": "It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the sun.",
+  "ja": "太陽の 伝説ポケモンに 感謝の 気持ちを 表すため 音色を 捧げていた という。"
+ }
+}

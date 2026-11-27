@@ -1,0 +1,42 @@
+{
+ "id": 490,
+ "name": "manaphy",
+ "names": {
+  "ja-hrkt": "マナフィ",
+  "ja-roma": "Manaphy",
+  "ko": "마나피",
+  "zh-hant": "瑪納霏",
+  "fr": "Manaphy",
+  "de": "Manaphy",
+  "es": "Manaphy",
+  "it": "Manaphy",
+  "en": "Manaphy",
+  "ja": "マナフィ",
+  "zh-hans": "玛纳霏",
+  "es-419": "Manaphy"
+ },
+ "genus": {
+  "ja-hrkt": "かいゆうポケモン",
+  "ko": "회유포켓몬",
+  "zh-hant": "洄游寶可夢",
+  "fr": "Pokémon Voyagenmer",
+  "de": "Seefahrer",
+  "es": "Pokémon Náutico",
+  "it": "Pokémon Oceandante",
+  "en": "Seafaring Pokémon",
+  "ja": "かいゆうポケモン",
+  "zh-hans": "回游宝可梦",
+  "es-419": "Pokémon Náutico"
+ },
+ "flavor": {
+  "en": "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear.",
+  "ko": "어떤 포켓몬과도 마음이 통하고 맞출 수 있는 이상한 능력을 가지고 있다."
+ },
+ "varieties": [
+  {
+   "name": "manaphy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "250"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "resist-mochi",
+ "names": {
+  "ja-hrkt": "ていこうのもち",
+  "ko": "저항력떡",
+  "zh-hant": "抵抗糬",
+  "fr": "Mochi Armure",
+  "de": "Abwehr-Mochi",
+  "es": "Mochi Aguante",
+  "it": "Mochi della tutela",
+  "en": "Resist Mochi",
+  "ja": "ていこうのもち",
+  "zh-hans": "抵抗粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

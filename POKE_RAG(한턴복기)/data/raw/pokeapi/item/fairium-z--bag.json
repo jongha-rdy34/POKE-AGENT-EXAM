@@ -1,0 +1,28 @@
+{
+ "name": "fairium-z--bag",
+ "names": {
+  "ja-hrkt": "フェアリーＺ",
+  "ko": "페어리Z",
+  "zh-hant": "妖精Ｚ",
+  "fr": "Nymphézélite",
+  "de": "Sylphium Z",
+  "es": "Feeristal Z",
+  "it": "Follectium Z",
+  "en": "Fairium Z",
+  "ja": "フェアリーＺ",
+  "zh-hans": "妖精Ｚ",
+  "es-419": "Feeristal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour fairium-z--bag",
+  "en": "XXX new effect for fairium-z--bag"
+ },
+ "flavor": {
+  "ko": "페어리타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Fairy-type moves to Fairy-type Z-Moves.",
+  "ja": "フェアリータイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

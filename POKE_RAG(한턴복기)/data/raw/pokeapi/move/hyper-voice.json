@@ -1,0 +1,31 @@
+{
+ "name": "hyper-voice",
+ "names": {
+  "ja-hrkt": "ハイパーボイス",
+  "ko": "하이퍼보이스",
+  "zh-hant": "巨聲",
+  "fr": "Mégaphone",
+  "de": "Schallwelle",
+  "es": "Vozarrón",
+  "it": "Granvoce",
+  "en": "Hyper Voice",
+  "ja": "ハイパーボイス",
+  "zh-hans": "巨声",
+  "es-419": "Hipervoz"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by letting loose a horribly loud, resounding cry.",
+  "ko": "시끄럽게 울리는 큰 진동을 상대에게 전달하여 공격한다."
+ }
+}

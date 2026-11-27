@@ -1,0 +1,30 @@
+{
+ "name": "babiri-berry",
+ "names": {
+  "ja-hrkt": "リリバのみ",
+  "ko": "바리비열매",
+  "zh-hant": "霹霹果",
+  "fr": "Baie Babiri",
+  "de": "Babiribeere",
+  "es": "Baya Baribá",
+  "it": "Baccababiri",
+  "en": "Babiri Berry",
+  "ja": "リリバのみ",
+  "zh-hans": "霹霹果",
+  "es-419": "Baya Baribá"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Acier super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Steel-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Steel-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 강철 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの はがね技を 受けたとき 威力が 弱まる。"
+ }
+}

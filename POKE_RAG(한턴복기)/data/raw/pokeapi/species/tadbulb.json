@@ -1,0 +1,37 @@
+{
+ "id": 938,
+ "name": "tadbulb",
+ "names": {
+  "ja-hrkt": "ズピカ",
+  "ja-roma": "Zupika",
+  "ko": "빈나두",
+  "zh-hant": "光蚪仔",
+  "fr": "Têtampoule",
+  "de": "Blipp",
+  "es": "Tadbulb",
+  "it": "Tadbulb",
+  "en": "Tadbulb",
+  "ja": "ズピカ",
+  "zh-hans": "光蚪仔",
+  "es-419": "Tadbulb"
+ },
+ "genus": {
+  "ja-hrkt": "でんきおたまポケモン",
+  "ko": "전기올챙이포켓몬",
+  "zh-hant": "電蝌蚪寶可夢",
+  "fr": "Électêtard",
+  "de": "Stromquappe",
+  "en": "EleTadpole Pokémon",
+  "zh-hans": "电蝌蚪宝可梦"
+ },
+ "flavor": {
+  "en": "It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground."
+ },
+ "varieties": [
+  {
+   "name": "tadbulb",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "491"
+}

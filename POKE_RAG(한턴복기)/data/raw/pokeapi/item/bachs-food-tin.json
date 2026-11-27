@@ -1,0 +1,25 @@
+{
+ "name": "bachs-food-tin",
+ "names": {
+  "ja-hrkt": "バックのかんづめ",
+  "ko": "바크의통조림",
+  "zh-hant": "巴哈罐頭",
+  "fr": "Conserve de Bach",
+  "de": "Bachs Feinkost",
+  "es": "Lata de Bach",
+  "it": "Scatoletta Bach",
+  "en": "Bach’s Food Tin",
+  "ja": "バックのかんづめ",
+  "zh-hans": "巴哈罐头",
+  "es-419": "Lata de Bach"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 바크가 파는 통조림은 어째선지 가라르에서 인기다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bach sells is curiously popular in Galar.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。バックが 売る 缶詰が なぜか ガラルで 人気だ。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm61",
+ "names": {
+  "ja-hrkt": "わざマシン６１",
+  "ko": "기술머신61",
+  "zh-hant": "招式學習器６１",
+  "fr": "CT61",
+  "de": "TM61",
+  "es": "MT61",
+  "it": "MT61",
+  "en": "TM61",
+  "ja": "わざマシン６１",
+  "zh-hans": "招式学习器６１",
+  "es-419": "MT61"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Feu Follet à un Pokémon compatible.",
+  "en": "Teaches Will-O-Wisp to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.",
+  "ko": "초능력으로 자신과 상대의 방어와 특수방어의 능력 변화를 교체한다.",
+  "ja": "超能力で 自分と 相手の 防御と 特防の 能力変化を 入れ替える。"
+ }
+}

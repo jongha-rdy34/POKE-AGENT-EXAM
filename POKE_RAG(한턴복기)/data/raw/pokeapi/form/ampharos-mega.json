@@ -1,0 +1,23 @@
+{
+ "name": "ampharos-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Pharamp",
+  "de": "Mega-Ampharos",
+  "en": "Mega Ampharos"
+ },
+ "form_names": {
+  "ja-hrkt": "メガデンリュウ",
+  "ko": "메가전룡",
+  "zh-hant": "超級電龍",
+  "fr": "Méga-Pharamp",
+  "de": "Mega-Form",
+  "es": "Mega-Ampharos",
+  "it": "MegaAmpharos",
+  "en": "Mega Ampharos",
+  "ja": "メガデンリュウ",
+  "zh-hans": "超级电龙",
+  "es-419": "Mega-Ampharos"
+ },
+ "is_mega": true
+}

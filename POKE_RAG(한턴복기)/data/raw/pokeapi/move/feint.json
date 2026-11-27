@@ -1,0 +1,31 @@
+{
+ "name": "feint",
+ "names": {
+  "ja-hrkt": "フェイント",
+  "ko": "페인트",
+  "zh-hant": "佯攻",
+  "fr": "Ruse",
+  "de": "Offenlegung",
+  "es": "Amago",
+  "it": "Fintoattacco",
+  "en": "Feint",
+  "ja": "フェイント",
+  "zh-hans": "佯攻",
+  "es-419": "Amago"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 30,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 2,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits through Protect and Detect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves.",
+  "ko": "방어나 판별 등을 하고 있는 상대에게 공격할 수 있다. 방어 효과를 해제시킨다."
+ }
+}

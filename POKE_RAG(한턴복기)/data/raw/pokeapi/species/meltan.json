@@ -1,0 +1,42 @@
+{
+ "id": 808,
+ "name": "meltan",
+ "names": {
+  "ja-hrkt": "メルタン",
+  "ja-roma": "Meltan",
+  "ko": "멜탄",
+  "zh-hant": "美錄坦",
+  "fr": "Meltan",
+  "de": "Meltan",
+  "es": "Meltan",
+  "it": "Meltan",
+  "en": "Meltan",
+  "ja": "メルタン",
+  "zh-hans": "美录坦",
+  "es-419": "Meltan"
+ },
+ "genus": {
+  "ja-hrkt": "ナットポケモン",
+  "ko": "너트포켓몬",
+  "zh-hant": "螺帽寶可夢",
+  "fr": "Pokémon Écrou",
+  "de": "Mutter-Pokémon",
+  "es": "Pokémon Tuerca",
+  "it": "Pokémon Bullone",
+  "en": "Hex Nut Pokémon",
+  "ja": "ナットポケモン",
+  "zh-hans": "螺帽宝可梦",
+  "es-419": "Pokémon Tuerca"
+ },
+ "flavor": {
+  "ko": "무리 지어 생활하지만 때가 되면 1마리의 강한 멜탄이 동료들을 흡수해 진화한다.",
+  "en": "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve."
+ },
+ "varieties": [
+  {
+   "name": "meltan",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "428"
+}

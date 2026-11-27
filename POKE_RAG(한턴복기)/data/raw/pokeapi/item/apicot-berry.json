@@ -1,0 +1,30 @@
+{
+ "name": "apicot-berry",
+ "names": {
+  "ja-hrkt": "ズアのみ",
+  "ko": "규살열매",
+  "zh-hant": "杏仔果",
+  "fr": "Baie Abriko",
+  "de": "Apikobeere",
+  "es": "Baya Aricoc",
+  "it": "Baccacocca",
+  "en": "Apicot Berry",
+  "ja": "ズアのみ",
+  "zh-hans": "杏仔果",
+  "es-419": "Baya Aricoc"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster la Défense Spéciale.",
+  "en": "Held: Consumed at 1/4 max HP to boost Special Defense."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its Sp. Def stat will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 자신의 특수방어가 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 自分の 特防が あがる。"
+ }
+}

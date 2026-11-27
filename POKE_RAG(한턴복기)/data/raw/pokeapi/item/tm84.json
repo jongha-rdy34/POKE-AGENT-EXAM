@@ -1,0 +1,28 @@
+{
+ "name": "tm84",
+ "names": {
+  "ja-hrkt": "わざマシン８４",
+  "ko": "기술머신84",
+  "zh-hant": "招式學習器８４",
+  "fr": "CT84",
+  "de": "TM84",
+  "es": "MT84",
+  "it": "MT84",
+  "en": "TM84",
+  "ja": "わざマシン８４",
+  "zh-hans": "招式学习器８４",
+  "es-419": "MT84"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Direct Toxik à un Pokémon compatible.",
+  "en": "Teaches Poison Jab to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.",
+  "ko": "단단한 꼬리로 상대를 때려서 공격한다. 2-5회 동안 연속으로 쓴다.",
+  "ja": "硬い しっぽで 相手を たたいて 攻撃する。 ２ー５回の 間 連続で だす。"
+ }
+}

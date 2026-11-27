@@ -1,0 +1,20 @@
+{
+ "name": "noodles",
+ "names": {
+  "ja-hrkt": "ヌードル",
+  "ko": "누들",
+  "zh-hant": "麵條",
+  "fr": "Nouilles",
+  "de": "Nudeln",
+  "es": "Fideos",
+  "it": "Noodle",
+  "en": "Noodles",
+  "ja": "ヌードル",
+  "zh-hans": "面条"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

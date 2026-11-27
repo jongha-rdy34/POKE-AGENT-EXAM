@@ -1,0 +1,25 @@
+{
+ "name": "flower-sweet",
+ "names": {
+  "ja-hrkt": "おはなアメざいく",
+  "ko": "꽃사탕공예",
+  "zh-hant": "花朵糖飾",
+  "fr": "Fleur en Sucre",
+  "de": "Zucker-Blume",
+  "es": "Confite Flor",
+  "it": "Bonbonfiore",
+  "en": "Flower Sweet",
+  "ja": "おはなアメざいく",
+  "zh-hans": "花朵糖饰",
+  "es-419": "Confite Flor"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "꽃 모양의 사탕공예. 마빌크에게 지니게 하면 빙빙 돌며 기뻐한다.",
+  "en": "A flower-shaped sweet. When a Milcery holds this, it spins around happily.",
+  "ja": "おはなの 形を した アメ細工。 マホミルに 持たせてあげると くるくる 回って 喜ぶ。"
+ }
+}

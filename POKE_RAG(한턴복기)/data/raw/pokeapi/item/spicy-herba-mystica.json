@@ -1,0 +1,20 @@
+{
+ "name": "spicy-herba-mystica",
+ "names": {
+  "ja-hrkt": "ひでん：からスパイス",
+  "ko": "비전 매콤스파이스",
+  "zh-hant": "秘傳：辣味料",
+  "fr": "Épice Secrète Corsée",
+  "de": "Scharfes Geheimgewürz",
+  "es": "Especia Oculta Picante",
+  "it": "Spezia nascosta pepata",
+  "en": "Spicy Herba Mystica",
+  "ja": "ひでん：からスパイス",
+  "zh-hans": "秘传：辣味料"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

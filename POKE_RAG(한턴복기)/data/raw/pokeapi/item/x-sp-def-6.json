@@ -1,0 +1,28 @@
+{
+ "name": "x-sp-def-6",
+ "names": {
+  "ja-hrkt": "ＳＰガード６",
+  "ko": "스페셜가드6",
+  "zh-hant": "特防強化６",
+  "fr": "Déf. Spé. 6",
+  "de": "X-Sp.-Vert. 6",
+  "es": "Def. Esp. X 6",
+  "it": "Dif. Spec. X-6",
+  "en": "X Sp. Def 6",
+  "ja": "ＳＰガード６",
+  "zh-hans": "特防强化６",
+  "es-419": "Def. Esp. X 6"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la Défense Spéciale de six niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Special Defense by six stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 특수방어를 엄청나게 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 特防を ものすごく あげる。 ひっこめると 元に 戻る。"
+ }
+}

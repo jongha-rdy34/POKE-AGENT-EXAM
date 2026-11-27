@@ -1,0 +1,23 @@
+{
+ "name": "receiver",
+ "names": {
+  "ja-hrkt": "レシーバー",
+  "ko": "리시버",
+  "zh-hant": "接球手",
+  "fr": "Receveur",
+  "de": "Receiver",
+  "es": "Receptor",
+  "it": "Ricezione",
+  "en": "Receiver",
+  "ja": "レシーバー",
+  "zh-hans": "接球手",
+  "es-419": "Receptor"
+ },
+ "effect": {
+  "en": "When an ally faints, this Pokémon gains its Ability."
+ },
+ "flavor": {
+  "ko": "쓰러진 같은 편의 특성을 이어받아 같은 특성이 된다.",
+  "en": "The Pokémon copies the Ability of a defeated ally."
+ }
+}

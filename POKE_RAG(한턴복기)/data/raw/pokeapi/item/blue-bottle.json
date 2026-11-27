@@ -1,0 +1,20 @@
+{
+ "name": "blue-bottle",
+ "names": {
+  "ja-hrkt": "ブルーボトル",
+  "ko": "블루 보틀",
+  "zh-hant": "藍色水壺",
+  "fr": "Gourde Bleue",
+  "de": "Blaue Flasche",
+  "es": "Termo Azul",
+  "it": "Borraccia celeste",
+  "en": "Blue Bottle",
+  "ja": "ブルーボトル",
+  "zh-hans": "蓝色水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

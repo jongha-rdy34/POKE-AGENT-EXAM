@@ -1,0 +1,42 @@
+{
+ "id": 218,
+ "name": "slugma",
+ "names": {
+  "ja-hrkt": "マグマッグ",
+  "ja-roma": "Magmag",
+  "ko": "마그마그",
+  "zh-hant": "熔岩蟲",
+  "fr": "Limagma",
+  "de": "Schneckmag",
+  "es": "Slugma",
+  "it": "Slugma",
+  "en": "Slugma",
+  "ja": "マグマッグ",
+  "zh-hans": "熔岩虫",
+  "es-419": "Slugma"
+ },
+ "genus": {
+  "ja-hrkt": "ようがんポケモン",
+  "ko": "용암포켓몬",
+  "zh-hant": "熔岩寶可夢",
+  "fr": "Pokémon Lave",
+  "de": "Lava",
+  "es": "Pokémon Lava",
+  "it": "Pokémon Lava",
+  "en": "Lava Pokémon",
+  "ja": "ようがんポケモン",
+  "zh-hans": "熔岩宝可梦",
+  "es-419": "Pokémon Lava"
+ },
+ "flavor": {
+  "en": "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.",
+  "ko": "몸 안에는 혈액 대신 필요한 영양과 산소를 운반하기 위해 작열하는 마그마가 순환되고 있다."
+ },
+ "varieties": [
+  {
+   "name": "slugma",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "111"
+}

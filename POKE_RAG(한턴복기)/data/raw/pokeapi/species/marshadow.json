@@ -1,0 +1,42 @@
+{
+ "id": 802,
+ "name": "marshadow",
+ "names": {
+  "ja-hrkt": "マーシャドー",
+  "ja-roma": "Marshadow",
+  "ko": "마샤도",
+  "zh-hant": "瑪夏多",
+  "fr": "Marshadow",
+  "de": "Marshadow",
+  "es": "Marshadow",
+  "it": "Marshadow",
+  "en": "Marshadow",
+  "ja": "マーシャドー",
+  "zh-hans": "玛夏多",
+  "es-419": "Marshadow"
+ },
+ "genus": {
+  "ja-hrkt": "かげすみポケモン",
+  "ko": "그림자살이포켓몬",
+  "zh-hant": "棲影寶可夢",
+  "fr": "Pokémon Ombrefuge",
+  "de": "Dunkelwesen-Pokémon",
+  "es": "Pokémon Morasombra",
+  "it": "Pokémon Vivinombra",
+  "en": "Gloomdweller Pokémon",
+  "ja": "かげすみポケモン",
+  "zh-hans": "栖影宝可梦",
+  "es-419": "Pokémon Morasombra"
+ },
+ "flavor": {
+  "ko": "모든 그림자 안에 숨어들 수 있는 능력을 갖고 있어 오랫동안 누구에게도 발견되지 않았다.",
+  "en": "This Pokémon can conceal itself in any shadow, so it went undiscovered for a long time."
+ },
+ "varieties": [
+  {
+   "name": "marshadow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "423"
+}

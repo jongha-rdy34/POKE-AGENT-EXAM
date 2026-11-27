@@ -1,0 +1,20 @@
+{
+ "name": "poltchageist-powder",
+ "names": {
+  "ja-hrkt": "チャデスのこな",
+  "ko": "차데스의가루",
+  "zh-hant": "斯魔茶的粉",
+  "fr": "Poudre de Poltchageist",
+  "de": "Mortcha-Puder",
+  "es": "Polvo de Poltchageist",
+  "it": "Polvere di Poltchageist",
+  "en": "Poltchageist Powder",
+  "ja": "チャデスのこな",
+  "zh-hans": "斯魔茶的粉"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

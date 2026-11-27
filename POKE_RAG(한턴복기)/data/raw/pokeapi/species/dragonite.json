@@ -1,0 +1,46 @@
+{
+ "id": 149,
+ "name": "dragonite",
+ "names": {
+  "ja-hrkt": "カイリュー",
+  "ja-roma": "Kairyu",
+  "ko": "망나뇽",
+  "zh-hant": "快龍",
+  "fr": "Dracolosse",
+  "de": "Dragoran",
+  "es": "Dragonite",
+  "it": "Dragonite",
+  "en": "Dragonite",
+  "ja": "カイリュー",
+  "zh-hans": "快龙",
+  "es-419": "Dragonite"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships.",
+  "ko": "바다의 화신이라고 불린다. 망나뇽 형태의 조각상을 뱃머리에 두는 배도 많다."
+ },
+ "varieties": [
+  {
+   "name": "dragonite",
+   "is_default": true
+  },
+  {
+   "name": "dragonite-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "76"
+}

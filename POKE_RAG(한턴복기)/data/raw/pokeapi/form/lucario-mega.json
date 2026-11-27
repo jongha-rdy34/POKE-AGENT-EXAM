@@ -1,0 +1,23 @@
+{
+ "name": "lucario-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Lucario",
+  "de": "Mega-Lucario",
+  "en": "Mega Lucario"
+ },
+ "form_names": {
+  "ja-hrkt": "メガルカリオ",
+  "ko": "메가루카리오",
+  "zh-hant": "超級路卡利歐",
+  "fr": "Méga-Lucario",
+  "de": "Mega-Form",
+  "es": "Mega-Lucario",
+  "it": "MegaLucario",
+  "en": "Mega Lucario",
+  "ja": "メガルカリオ",
+  "zh-hans": "超级路卡利欧",
+  "es-419": "Mega-Lucario"
+ },
+ "is_mega": true
+}

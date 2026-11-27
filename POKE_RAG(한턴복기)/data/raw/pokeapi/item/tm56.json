@@ -1,0 +1,28 @@
+{
+ "name": "tm56",
+ "names": {
+  "ja-hrkt": "わざマシン５６",
+  "ko": "기술머신56",
+  "zh-hant": "招式學習器５６",
+  "fr": "CT56",
+  "de": "TM56",
+  "es": "MT56",
+  "it": "MT56",
+  "en": "TM56",
+  "ja": "わざマシン５６",
+  "zh-hans": "招式学习器５６",
+  "es-419": "MT56"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Dégommage à un Pokémon compatible.",
+  "en": "Teaches Fling to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+  "ko": "공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다.",
+  "ja": "攻撃したあと ものすごい スピードで もどってきて 控えの ポケモンと 入れ替わる。"
+ }
+}

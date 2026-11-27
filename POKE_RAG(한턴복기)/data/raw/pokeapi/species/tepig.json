@@ -1,0 +1,42 @@
+{
+ "id": 498,
+ "name": "tepig",
+ "names": {
+  "ja-hrkt": "ポカブ",
+  "ja-roma": "Pokabu",
+  "ko": "뚜꾸리",
+  "zh-hant": "暖暖豬",
+  "fr": "Gruikui",
+  "de": "Floink",
+  "es": "Tepig",
+  "it": "Tepig",
+  "en": "Tepig",
+  "ja": "ポカブ",
+  "zh-hans": "暖暖猪",
+  "es-419": "Tepig"
+ },
+ "genus": {
+  "ja-hrkt": "ひぶたポケモン",
+  "ko": "불돼지포켓몬",
+  "zh-hant": "火豬寶可夢",
+  "fr": "Pokémon Cochon Feu",
+  "de": "Feuerferkel",
+  "es": "Pokémon Cerdo Fuego",
+  "it": "Pokémon Suinfuoco",
+  "en": "Fire Pig Pokémon",
+  "ja": "ひぶたポケモン",
+  "zh-hans": "火猪宝可梦",
+  "es-419": "Pokémon Cerdo Fuego"
+ },
+ "flavor": {
+  "en": "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
+  "ko": "구운 나무열매를 먹는 것을 매우 좋아하지만 너무 흥분해서 가끔 새까맣게 태워버린다."
+ },
+ "varieties": [
+  {
+   "name": "tepig",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "257"
+}

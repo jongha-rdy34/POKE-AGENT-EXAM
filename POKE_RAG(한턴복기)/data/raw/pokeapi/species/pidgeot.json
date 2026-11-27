@@ -1,0 +1,46 @@
+{
+ "id": 18,
+ "name": "pidgeot",
+ "names": {
+  "ja-hrkt": "ピジョット",
+  "ja-roma": "Pigeot",
+  "ko": "피죤투",
+  "zh-hant": "大比鳥",
+  "fr": "Roucarnage",
+  "de": "Tauboss",
+  "es": "Pidgeot",
+  "it": "Pidgeot",
+  "en": "Pidgeot",
+  "ja": "ピジョット",
+  "zh-hans": "大比鸟",
+  "es-419": "Pidgeot"
+ },
+ "genus": {
+  "ja-hrkt": "とりポケモン",
+  "ko": "새포켓몬",
+  "zh-hant": "鳥寶可夢",
+  "fr": "Pokémon Oiseau",
+  "de": "Vogel",
+  "es": "Pokémon Pájaro",
+  "it": "Pokémon Uccello",
+  "en": "Bird Pokémon",
+  "ja": "とりポケモン",
+  "zh-hans": "鸟宝可梦",
+  "es-419": "Pokémon Pájaro"
+ },
+ "flavor": {
+  "en": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+  "ko": "마하2의 속도로 비행하여 먹이를 찾는다. 그 커다란 발톱은 무기로서도 두려움의 대상이다."
+ },
+ "varieties": [
+  {
+   "name": "pidgeot",
+   "is_default": true
+  },
+  {
+   "name": "pidgeot-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "6"
+}

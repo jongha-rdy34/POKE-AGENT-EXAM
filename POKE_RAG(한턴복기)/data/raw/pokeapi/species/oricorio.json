@@ -1,0 +1,54 @@
+{
+ "id": 741,
+ "name": "oricorio",
+ "names": {
+  "ja-hrkt": "オドリドリ",
+  "ja-roma": "Odoridori",
+  "ko": "춤추새",
+  "zh-hant": "花舞鳥",
+  "fr": "Plumeline",
+  "de": "Choreogel",
+  "es": "Oricorio",
+  "it": "Oricorio",
+  "en": "Oricorio",
+  "ja": "オドリドリ",
+  "zh-hans": "花舞鸟",
+  "es-419": "Oricorio"
+ },
+ "genus": {
+  "ja-hrkt": "ダンスポケモン",
+  "ko": "댄스포켓몬",
+  "zh-hant": "舞蹈寶可夢",
+  "fr": "Pokémon Danse",
+  "de": "Tanz",
+  "es": "Pokémon Danza",
+  "it": "Pokémon Danza",
+  "en": "Dancing Pokémon",
+  "ja": "ダンスポケモン",
+  "zh-hans": "舞蹈宝可梦",
+  "es-419": "Pokémon Danza"
+ },
+ "flavor": {
+  "ko": "다홍꿀을 빨아들인 춤추새. 트레이너가 틀린 지시를 내리면 격렬하게 화를 내는 격정적인 성격이다.",
+  "en": "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry."
+ },
+ "varieties": [
+  {
+   "name": "oricorio-baile",
+   "is_default": true
+  },
+  {
+   "name": "oricorio-pom-pom",
+   "is_default": false
+  },
+  {
+   "name": "oricorio-pau",
+   "is_default": false
+  },
+  {
+   "name": "oricorio-sensu",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "381"
+}

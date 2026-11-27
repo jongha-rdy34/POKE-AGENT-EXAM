@@ -1,0 +1,20 @@
+{
+ "name": "tm109",
+ "names": {
+  "ja-hrkt": "わざマシン１０９",
+  "ko": "기술머신109",
+  "zh-hant": "招式學習器１０９",
+  "fr": "CT109",
+  "de": "TM109",
+  "es": "MT109",
+  "it": "MT109",
+  "en": "TM109",
+  "ja": "わざマシン１０９",
+  "zh-hans": "招式学习器１０９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

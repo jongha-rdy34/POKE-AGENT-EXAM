@@ -1,0 +1,33 @@
+{
+ "id": 1011,
+ "name": "dipplin",
+ "names": {
+  "ja-hrkt": "カミッチュ",
+  "ja-roma": "Kamicchu",
+  "ko": "과미르",
+  "zh-hant": "裹蜜蟲",
+  "fr": "Pomdramour",
+  "de": "Sirapfel",
+  "es": "Dipplin",
+  "it": "Dipplin",
+  "en": "Dipplin",
+  "ja": "カミッチュ",
+  "zh-hans": "裹蜜虫",
+  "es-419": "Dipplin"
+ },
+ "genus": {
+  "ko": "사과사탕포켓몬",
+  "fr": "Sirop Pomme",
+  "en": "Candy Apple Pokémon"
+ },
+ "flavor": {
+  "en": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out."
+ },
+ "varieties": [
+  {
+   "name": "dipplin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "442"
+}

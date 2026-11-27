@@ -1,0 +1,20 @@
+{
+ "name": "tm159",
+ "names": {
+  "ja-hrkt": "わざマシン１５９",
+  "ko": "기술머신159",
+  "zh-hant": "招式學習器１５９",
+  "fr": "CT159",
+  "de": "TM159",
+  "es": "MT159",
+  "it": "MT159",
+  "en": "TM159",
+  "ja": "わざマシン１５９",
+  "zh-hans": "招式学习器１５９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

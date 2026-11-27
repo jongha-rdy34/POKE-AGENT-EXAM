@@ -1,0 +1,42 @@
+{
+ "id": 125,
+ "name": "electabuzz",
+ "names": {
+  "ja-hrkt": "エレブー",
+  "ja-roma": "Eleboo",
+  "ko": "에레브",
+  "zh-hant": "電擊獸",
+  "fr": "Élektek",
+  "de": "Elektek",
+  "es": "Electabuzz",
+  "it": "Electabuzz",
+  "en": "Electabuzz",
+  "ja": "エレブー",
+  "zh-hans": "电击兽",
+  "es-419": "Electabuzz"
+ },
+ "genus": {
+  "ja-hrkt": "でんげきポケモン",
+  "ko": "전기포켓몬",
+  "zh-hant": "電擊寶可夢",
+  "fr": "Pokémon Électrique",
+  "de": "Elektro-Pokémon",
+  "es": "Pokémon Eléctrico",
+  "it": "Pokémon Elettrico",
+  "en": "Electric Pokémon",
+  "ja": "でんげきポケモン",
+  "zh-hans": "电击宝可梦",
+  "es-419": "Pokémon Eléctrico"
+ },
+ "flavor": {
+  "en": "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike.",
+  "ko": "폭풍이 치면 높은 나무 주위에 모여 번개가 떨어지기를 가만히 기다린다."
+ },
+ "varieties": [
+  {
+   "name": "electabuzz",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "60"
+}

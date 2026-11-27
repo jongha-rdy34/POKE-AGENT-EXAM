@@ -1,0 +1,20 @@
+{
+ "name": "jalapeno",
+ "names": {
+  "ja-hrkt": "バラペーニョ",
+  "ko": "할라페뇨",
+  "zh-hant": "小辣椒",
+  "fr": "Piment",
+  "de": "Jalapeño",
+  "es": "Jalapeño",
+  "it": "Jalapeño",
+  "en": "Jalapeño",
+  "ja": "バラペーニョ",
+  "zh-hans": "小辣椒"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tm101",
+ "names": {
+  "ja-hrkt": "わざマシン１０１",
+  "ko": "기술머신101",
+  "zh-hant": "招式學習器１０１",
+  "fr": "CT101",
+  "de": "TM101",
+  "es": "MT101",
+  "it": "MT101",
+  "en": "TM101",
+  "ja": "わざマシン１０１",
+  "zh-hans": "招式学习器１０１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

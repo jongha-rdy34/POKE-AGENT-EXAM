@@ -1,0 +1,20 @@
+{
+ "name": "booster-energy",
+ "names": {
+  "ja-hrkt": "ブーストエナジー",
+  "ko": "부스트에너지",
+  "zh-hant": "驅勁能量",
+  "fr": "Énergie Booster",
+  "de": "Energiekapsel",
+  "es": "Energía Potenciadora",
+  "it": "Capsula energetica",
+  "en": "Booster Energy",
+  "ja": "ブーストエナジー",
+  "zh-hans": "驱劲能量"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

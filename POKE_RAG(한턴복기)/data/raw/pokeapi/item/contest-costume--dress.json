@@ -1,0 +1,28 @@
+{
+ "name": "contest-costume--dress",
+ "names": {
+  "ja-hrkt": "ライブドレス",
+  "ko": "라이브드레스",
+  "zh-hant": "演出禮裙",
+  "fr": "Robe Live",
+  "de": "Live-Kleid",
+  "es": "Vestido de Gala",
+  "it": "Vestito Live",
+  "en": "Contest Costume",
+  "ja": "ライブドレス",
+  "zh-hans": "演出礼裙",
+  "es-419": "Vestido de Gala"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour contest-costume--dress",
+  "en": "XXX new effect for contest-costume--dress"
+ },
+ "flavor": {
+  "ko": "콘테스트 라이브에서 입는 아주 귀여운 드레스다.",
+  "en": "A very cute dress to be worn during the Contest Spectacular.",
+  "ja": "コンテストライブで 着る とっても 可愛い ドレス。"
+ }
+}

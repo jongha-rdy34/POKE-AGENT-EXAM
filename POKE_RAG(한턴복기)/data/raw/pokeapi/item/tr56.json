@@ -1,0 +1,25 @@
+{
+ "name": "tr56",
+ "names": {
+  "ja-hrkt": "わざレコード５６",
+  "ko": "기술레코드56",
+  "zh-hant": "招式紀錄５６",
+  "fr": "DT56",
+  "de": "TP56",
+  "es": "DT56",
+  "it": "DT56",
+  "en": "TR56",
+  "ja": "わざレコード５６",
+  "zh-hans": "招式记录５６",
+  "es-419": "DT56"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸속에서 파동의 힘을 끌어내 상대에게 쏜다. 공격은 반드시 명중한다.",
+  "en": "The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.",
+  "ja": "体の 奥から 波導の 力を 相手に うち放つ。 攻撃は 必ず 命中する。"
+ }
+}

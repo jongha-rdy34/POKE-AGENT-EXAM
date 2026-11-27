@@ -1,0 +1,23 @@
+{
+ "name": "technician",
+ "names": {
+  "ja-hrkt": "テクニシャン",
+  "ko": "테크니션",
+  "zh-hant": "技術高手",
+  "fr": "Technicien",
+  "de": "Techniker",
+  "es": "Experto",
+  "it": "Tecnico",
+  "en": "Technician",
+  "ja": "テクニシャン",
+  "zh-hans": "技术高手",
+  "es-419": "Experto"
+ },
+ "effect": {
+  "en": "Strengthens moves of 60 base power or less to 1.5× their power."
+ },
+ "flavor": {
+  "en": "Powers up weak moves so the Pokémon can deal more damage with them.",
+  "ko": "위력이 약한 기술의 위력을 올려서 공격할 수 있다."
+ }
+}

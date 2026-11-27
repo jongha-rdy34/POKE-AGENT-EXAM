@@ -1,0 +1,20 @@
+{
+ "name": "volbeat-fluid",
+ "names": {
+  "ja-hrkt": "バルビートのしる",
+  "ko": "볼비트의체액",
+  "zh-hant": "電螢蟲的汁液",
+  "fr": "Fluide de Muciole",
+  "de": "Volbeat-Sekret",
+  "es": "Fluido de Volbeat",
+  "it": "Fluido di Volbeat",
+  "en": "Volbeat Fluid",
+  "ja": "バルビートのしる",
+  "zh-hans": "电萤虫的汁液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

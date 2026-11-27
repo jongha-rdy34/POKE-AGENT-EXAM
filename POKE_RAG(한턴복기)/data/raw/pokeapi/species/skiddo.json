@@ -1,0 +1,42 @@
+{
+ "id": 672,
+ "name": "skiddo",
+ "names": {
+  "ja-hrkt": "メェークル",
+  "ja-roma": "Meecle",
+  "ko": "메이클",
+  "zh-hant": "坐騎小羊",
+  "fr": "Cabriolaine",
+  "de": "Mähikel",
+  "es": "Skiddo",
+  "it": "Skiddo",
+  "en": "Skiddo",
+  "ja": "メェークル",
+  "zh-hans": "坐骑小羊",
+  "es-419": "Skiddo"
+ },
+ "genus": {
+  "ja-hrkt": "ライドポケモン",
+  "ko": "라이드포켓몬",
+  "zh-hant": "坐騎寶可夢",
+  "fr": "Pokémon Monture",
+  "de": "Ritt",
+  "es": "Pokémon Montura",
+  "it": "Pokémon Cavalcatura",
+  "en": "Mount Pokémon",
+  "ja": "ライドポケモン",
+  "zh-hans": "坐骑宝可梦",
+  "es-419": "Pokémon Montura"
+ },
+ "flavor": {
+  "ko": "물과 태양이 있으면 등에 있는 잎으로 에너지를 만들 수 있어서 먹이를 먹지 않아도 괜찮다.",
+  "en": "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back."
+ },
+ "varieties": [
+  {
+   "name": "skiddo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "345"
+}

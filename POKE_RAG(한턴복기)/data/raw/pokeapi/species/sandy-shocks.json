@@ -1,0 +1,37 @@
+{
+ "id": 989,
+ "name": "sandy-shocks",
+ "names": {
+  "ja-hrkt": "スナノケガワ",
+  "ja-roma": "Sunanokegawa",
+  "ko": "모래털가죽",
+  "zh-hant": "沙鐵皮",
+  "fr": "Pelage-Sablé",
+  "de": "Sandfell",
+  "es": "Pelarena",
+  "it": "Peldisabbia",
+  "en": "Sandy Shocks",
+  "ja": "スナノケガワ",
+  "zh-hans": "沙铁皮",
+  "es-419": "Pelarena"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It slightly resembles a Magneton that lived for 10,000 years and was featured in an article in a paranormal magazine."
+ },
+ "varieties": [
+  {
+   "name": "sandy-shocks",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "520"
+}

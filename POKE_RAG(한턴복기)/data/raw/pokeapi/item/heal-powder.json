@@ -1,0 +1,34 @@
+{
+ "name": "heal-powder",
+ "names": {
+  "ja-hrkt": "ばんのうごな",
+  "ko": "만능가루",
+  "zh-hant": "萬能粉",
+  "fr": "Poudre Soin",
+  "de": "Heilpuder",
+  "es": "Polvo Curación",
+  "it": "Polvocura",
+  "en": "Heal Powder",
+  "ja": "ばんのうごな",
+  "zh-hans": "万能粉",
+  "es-419": "Polvo Curación"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne n'importe quelle altération de statut, mais diminue le bonheur.",
+  "en": "Cures any status ailment, but lowers happiness."
+ },
+ "flavor": {
+  "en": "A very bitter medicinal powder. It can be used once to heal all the status conditions of a Pokémon.",
+  "ko": "매우 쓴 가루약. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "ja": "とても にがい 粉薬。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

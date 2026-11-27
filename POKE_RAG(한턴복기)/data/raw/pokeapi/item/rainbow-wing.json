@@ -1,0 +1,28 @@
+{
+ "name": "rainbow-wing",
+ "names": {
+  "ja-hrkt": "にじいろのはね",
+  "ko": "무지갯빛깃털",
+  "zh-hant": "虹色之羽",
+  "fr": "Arc-en-Ci’Aile",
+  "de": "Buntschwinge",
+  "es": "Ala Arcoíris",
+  "it": "Ala d’Iride",
+  "en": "Rainbow Wing",
+  "ja": "にじいろのはね",
+  "zh-hans": "虹色之羽",
+  "es-419": "Ala Arcoíris"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Ho-Oh au sommet de la Tour Carillon.",
+  "en": "Summons Ho-Oh at the top of the Bell Tower."
+ },
+ "flavor": {
+  "en": "A mystical rainbow feather that sparkles.",
+  "ko": "무지갯빛으로 빛나는 이상한 날개.",
+  "ja": "にじいろに ひかり かがやく 不思議な はね。"
+ }
+}

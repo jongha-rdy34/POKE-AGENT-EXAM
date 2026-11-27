@@ -1,0 +1,31 @@
+{
+ "name": "sludge-bomb",
+ "names": {
+  "ja-hrkt": "ヘドロばくだん",
+  "ko": "오물폭탄",
+  "zh-hant": "污泥炸彈",
+  "fr": "Bombe Beurk",
+  "de": "Matschbombe",
+  "es": "Bomba Lodo",
+  "it": "Fangobomba",
+  "en": "Sludge Bomb",
+  "ja": "ヘドロばくだん",
+  "zh-hans": "污泥炸弹",
+  "es-419": "Bomba Lodo"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to poison the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target.",
+  "ko": "더러운 오물을 상대에게 내던져서 공격한다. 독 상태로 만들 때가 있다."
+ }
+}

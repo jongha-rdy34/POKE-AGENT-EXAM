@@ -1,0 +1,42 @@
+{
+ "id": 462,
+ "name": "magnezone",
+ "names": {
+  "ja-hrkt": "ジバコイル",
+  "ja-roma": "Jibacoil",
+  "ko": "자포코일",
+  "zh-hant": "自爆磁怪",
+  "fr": "Magnézone",
+  "de": "Magnezone",
+  "es": "Magnezone",
+  "it": "Magnezone",
+  "en": "Magnezone",
+  "ja": "ジバコイル",
+  "zh-hans": "自爆磁怪",
+  "es-419": "Magnezone"
+ },
+ "genus": {
+  "ja-hrkt": "じばポケモン",
+  "ko": "자기장포켓몬",
+  "zh-hant": "磁場寶可夢",
+  "fr": "Pokémon Aimant",
+  "de": "Magnetgebiets-Pokémon",
+  "es": "Pokémon Magnético",
+  "it": "Pokémon Magnetico",
+  "en": "Magnet Area Pokémon",
+  "ja": "じばポケモン",
+  "zh-hans": "磁场宝可梦",
+  "es-419": "Pokémon Magnético"
+ },
+ "flavor": {
+  "en": "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna.",
+  "ko": "특수한 자기장의 영향으로 몸의 분자 구조가 변화해 진화했다고 여겨지고 있다."
+ },
+ "varieties": [
+  {
+   "name": "magnezone",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "34"
+}

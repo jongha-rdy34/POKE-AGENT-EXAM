@@ -1,0 +1,42 @@
+{
+ "id": 513,
+ "name": "pansear",
+ "names": {
+  "ja-hrkt": "バオップ",
+  "ja-roma": "Baoppu",
+  "ko": "바오프",
+  "zh-hant": "爆香猴",
+  "fr": "Flamajou",
+  "de": "Grillmak",
+  "es": "Pansear",
+  "it": "Pansear",
+  "en": "Pansear",
+  "ja": "バオップ",
+  "zh-hans": "爆香猴",
+  "es-419": "Pansear"
+ },
+ "genus": {
+  "ja-hrkt": "こうおんポケモン",
+  "ko": "고온포켓몬",
+  "zh-hant": "高溫寶可夢",
+  "fr": "Pokémon Brûlant",
+  "de": "Hitze",
+  "es": "Pokémon Ardiente",
+  "it": "Pokémon Testacalda",
+  "en": "High Temp Pokémon",
+  "ja": "こうおんポケモン",
+  "zh-hans": "高温宝可梦",
+  "es-419": "Pokémon Ardiente"
+ },
+ "flavor": {
+  "en": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
+  "ko": "화산 동굴에서 산다. 머리의 송아리 속이 불타고 있어 300도나 되는 높은 온도가 된다."
+ },
+ "varieties": [
+  {
+   "name": "pansear",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "263"
+}

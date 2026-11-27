@@ -1,0 +1,25 @@
+{
+ "name": "fossilized-drake",
+ "names": {
+  "ja-hrkt": "カセキのリュウ",
+  "ko": "화석용",
+  "zh-hant": "化石龍",
+  "fr": "Fossile Dragon",
+  "de": "Drachenfossil",
+  "es": "Dracofósil",
+  "it": "Dracofossile",
+  "en": "Fossilized Drake",
+  "ja": "カセキのリュウ",
+  "zh-hans": "化石龙",
+  "es-419": "Dracofósil"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "오랜 옛날 육지에 살았던 고대 포켓몬 화석의 일부. 어떤 모습이었는지는 수수께끼다.",
+  "en": "The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.",
+  "ja": "大昔 陸に すんでいた 古代 ポケモンの カセキの一部。 どんな 姿 だったのかは 謎。"
+ }
+}

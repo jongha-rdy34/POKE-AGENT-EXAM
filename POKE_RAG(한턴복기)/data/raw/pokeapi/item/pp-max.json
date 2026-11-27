@@ -1,0 +1,34 @@
+{
+ "name": "pp-max",
+ "names": {
+  "ja-hrkt": "ポイントマックス",
+  "ko": "포인트맥스",
+  "zh-hant": "ＰＰ極限提升劑",
+  "fr": "PP Max",
+  "de": "AP-Top",
+  "es": "PP Máximos",
+  "it": "PP-Max",
+  "en": "PP Max",
+  "ja": "ポイントマックス",
+  "zh-hans": "ＰＰ极限提升剂",
+  "es-419": "PP Máximos"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente les PP max d'une capacité de 60%.",
+  "en": "Raises a move’s max PP by 60%."
+ },
+ "flavor": {
+  "en": "A medicine that optimally raises the max PP of a single selected move that has been learned by a Pokémon.",
+  "ko": "기억하고 있는 기술 중 1개의 PP 최대치를 최고까지 올린다.",
+  "ja": "覚えている 技のうち １つの ＰＰの 最大値を 最高まで あげる。"
+ }
+}

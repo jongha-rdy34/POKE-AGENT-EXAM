@@ -1,0 +1,220 @@
+{
+ "request": {
+  "my_form_key": "dragonite",
+  "opp_form_key": "garchomp",
+  "actor": "opp",
+  "move_key": "outrage",
+  "actual": {
+   "kind": "ko"
+  },
+  "flags": [
+   "crit"
+  ]
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "상대가 고집 생명의구슬이면 확정 1타예요",
+    "summary": "계산하지 않은 상황이 있어 참고용이에요. 계산상, 상대가 A32 · 고집 · 생명의구슬일 때 16번 중 16번 한 방이에요. 또는 상대가 A32 · 노력 · 생명의구슬일 때 16번 중 16번 한 방이에요. 실제 랭크배틀 통계 기준, 이 타격은 상대가 결과를 바꾸는 도구를 들지 않았을 때 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 2번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 8번). 계산에 넣지 않은 것: 계산하지 않은 특수 상황: 급소.",
+    "calc": {
+     "rows": [
+      {
+       "label": "A32 · 고집 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "pokedb M-6 이 포켓몬 생명의구슬 채용 1%",
+        "Smogon 생명의구슬 채용 6%"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        110.1,
+        131.3
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "pokedb M-6 이 포켓몬 생명의구슬 채용 1%",
+        "Smogon 생명의구슬 채용 6%"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        100.0,
+        119.7
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 달인의띠 채용 1% 미만"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        102.0,
+        121.2
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 달인의띠 채용 1% 미만"
+       ],
+       "k": 9,
+       "pct": 56.3,
+       "damage": [
+        91.9,
+        110.1
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 용의이빨",
+       "in_champions": true,
+       "same_items": [
+        "용의플레이트"
+       ],
+       "usage": [
+        "Smogon 용의이빨 채용 1% 미만"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        103.0,
+        121.2
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 용의이빨",
+       "in_champions": true,
+       "same_items": [
+        "용의플레이트"
+       ],
+       "usage": [
+        "Smogon 용의이빨 채용 1% 미만"
+       ],
+       "k": 10,
+       "pct": 62.5,
+       "damage": [
+        93.9,
+        110.1
+       ]
+      }
+     ],
+     "more": 5,
+     "near": [],
+     "assumed": "상대 SP A32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "H32 B32 · 장난꾸러기 · 특성 정신력 · 울퉁불퉁멧",
+     "headline_row": 0
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): H32 B32 · 장난꾸러기 · 울퉁불퉁멧 · 특성 정신력"
+      ],
+      "causes": [
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 2번",
+        "rolls_k": 2,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 모래숨기",
+         "고집 · H2 A32 B32 · 특성 까칠한피부",
+         "고집 · H2 A32 C32 · 특성 모래숨기"
+        ]
+       },
+       {
+        "key": "life-orb",
+        "label": "생명의구슬",
+        "rank": 2,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 모래숨기",
+         "고집 · H2 A32 B32 · 특성 까칠한피부",
+         "노력 · H2 A32 B32 · 특성 모래숨기"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0006,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): H2 A32 S32 · 고집 · 울퉁불퉁멧 · 특성 멀티스케일"
+      ],
+      "causes": [
+       {
+        "key": "life-orb",
+        "label": "생명의구슬",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 8번",
+        "rolls_k": 8,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 까칠한피부",
+         "고집 · A32 B2 S32 · 특성 까칠한피부",
+         "고집 · A32 D2 S32 · 특성 까칠한피부"
+        ]
+       },
+       {
+        "key": "dragon-fang",
+        "label": "용의이빨",
+        "rank": 2,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 1번",
+        "rolls_k": 1,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 까칠한피부",
+         "고집 · A32 B2 S32 · 특성 까칠한피부",
+         "고집 · A32 D2 S32 · 특성 까칠한피부"
+        ]
+       }
+      ]
+     }
+    },
+    "differs": true,
+    "diff_reason": "한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)",
+    "unsupported": [
+     "계산하지 않은 특수 상황: 급소"
+    ],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": true,
+    "degraded": false,
+    "review_id": "sample-reference-only-crit"
+   }
+  }
+ ]
+}

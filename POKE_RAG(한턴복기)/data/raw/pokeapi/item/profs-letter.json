@@ -1,0 +1,28 @@
+{
+ "name": "profs-letter",
+ "names": {
+  "ja-hrkt": "はかせのてがみ",
+  "ko": "박사의편지",
+  "zh-hant": "博士的信",
+  "fr": "Lettre du Prof",
+  "de": "Brief vom Prof",
+  "es": "Carta Profesor",
+  "it": "Lettera del Prof",
+  "en": "Prof’s Letter",
+  "ja": "はかせのてがみ",
+  "zh-hans": "博士的信",
+  "es-419": "Carta Profesor"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé à la mère du joueur contre la Carte et une Potion.",
+  "en": "Traded to the player’s mom for the Town Map and a Potion."
+ },
+ "flavor": {
+  "ko": "플라타느박사가 엄마에게 쓴 편지. 은은하게 좋은 향기가 난다.",
+  "en": "A letter that Professor Sycamore wrote to your mother. A faint but pleasant perfume seems to cling to the paper.",
+  "ja": "プラターヌ博士から ママあてに 書かれた 手紙。 ほんのり いい 香りがする。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "sausages",
+ "names": {
+  "ja-hrkt": "あらびきヴルスト",
+  "ko": "탱글탱글부어스트",
+  "zh-hant": "粗絞肉香腸",
+  "fr": "Saucisses",
+  "de": "Würstchen",
+  "es": "Salchichas",
+  "it": "Salsicce",
+  "en": "Sausages",
+  "ja": "あらびきヴルスト",
+  "zh-hans": "粗绞肉香肠",
+  "es-419": "Salchichas"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 부어스트는 소시지의 한 종류다. 삶아서 먹는다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. These sausages should be boiled before eating.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ヴルストとは ソーセージの 種類。ボイルして食べる。"
+ }
+}

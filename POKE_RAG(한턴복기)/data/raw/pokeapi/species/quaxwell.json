@@ -1,0 +1,37 @@
+{
+ "id": 913,
+ "name": "quaxwell",
+ "names": {
+  "ja-hrkt": "ウェルカモ",
+  "ja-roma": "Welkamo",
+  "ko": "아꾸왁",
+  "zh-hant": "湧躍鴨",
+  "fr": "Canarbello",
+  "de": "Fuentente",
+  "es": "Quaxwell",
+  "it": "Quaxwell",
+  "en": "Quaxwell",
+  "ja": "ウェルカモ",
+  "zh-hans": "涌跃鸭",
+  "es-419": "Quaxwell"
+ },
+ "genus": {
+  "ja-hrkt": "レッスンポケモン",
+  "ko": "레슨포켓몬",
+  "zh-hant": "習藝寶可夢",
+  "fr": "Leçon",
+  "de": "Übung",
+  "en": "Practicing Pokémon",
+  "zh-hans": "习艺宝可梦"
+ },
+ "flavor": {
+  "en": "The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines."
+ },
+ "varieties": [
+  {
+   "name": "quaxwell",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "480"
+}

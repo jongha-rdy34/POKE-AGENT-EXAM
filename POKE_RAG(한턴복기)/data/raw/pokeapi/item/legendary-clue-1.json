@@ -1,0 +1,25 @@
+{
+ "name": "legendary-clue-1",
+ "names": {
+  "ja-hrkt": "でんせつのメモ１",
+  "ko": "전설의메모1",
+  "zh-hant": "傳說筆記１",
+  "fr": "Note Légende 1",
+  "de": "Legenden-Notiz 1",
+  "es": "Leyenda 1",
+  "it": "Leggenda 1",
+  "en": "Legendary Clue 1",
+  "ja": "でんせつのメモ１",
+  "zh-hans": "传说笔记１",
+  "es-419": "Leyenda 1"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풍요의 왕 전설에 대해 피오니가 정리한 메모. 오래된 사진이 붙어 있다.",
+  "en": "A clue about the King of Bountiful Harvests. It’s written by Peony, and an old photo is attached to it.",
+  "ja": "豊穣の王 伝説について ピオニーが まとめた メモ。 古い 写真が 貼り付けられている。"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "garchomp-mega-z",
+ "form_name": "mega-z",
+ "names": {
+  "fr": "Méga-Carchacrok Z",
+  "en": "Mega Garchomp Z"
+ },
+ "form_names": {
+  "ja-hrkt": "メガガブリアスZ",
+  "fr": "Méga-Carchacrok Z",
+  "en": "Mega Garchomp Z",
+  "ja": "メガガブリアスZ"
+ },
+ "is_mega": true
+}

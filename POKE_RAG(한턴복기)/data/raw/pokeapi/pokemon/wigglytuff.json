@@ -1,0 +1,35 @@
+{
+ "id": 40,
+ "name": "wigglytuff",
+ "species": "wigglytuff",
+ "is_default": true,
+ "types": [
+  "normal",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 140,
+  "attack": 70,
+  "defense": 45,
+  "special-attack": 85,
+  "special-defense": 50,
+  "speed": 45
+ },
+ "abilities": [
+  {
+   "name": "cute-charm",
+   "hidden": false
+  },
+  {
+   "name": "competitive",
+   "hidden": false
+  },
+  {
+   "name": "frisk",
+   "hidden": true
+  }
+ ],
+ "height": 10,
+ "weight": 120,
+ "champions_moves": []
+}

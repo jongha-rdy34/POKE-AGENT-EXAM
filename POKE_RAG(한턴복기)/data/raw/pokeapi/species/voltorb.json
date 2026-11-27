@@ -1,0 +1,46 @@
+{
+ "id": 100,
+ "name": "voltorb",
+ "names": {
+  "ja-hrkt": "ビリリダマ",
+  "ja-roma": "Biriridama",
+  "ko": "찌리리공",
+  "zh-hant": "霹靂電球",
+  "fr": "Voltorbe",
+  "de": "Voltobal",
+  "es": "Voltorb",
+  "it": "Voltorb",
+  "en": "Voltorb",
+  "ja": "ビリリダマ",
+  "zh-hans": "霹雳电球",
+  "es-419": "Voltorb"
+ },
+ "genus": {
+  "ja-hrkt": "ボールポケモン",
+  "ko": "볼포켓몬",
+  "zh-hant": "球寶可夢",
+  "fr": "Pokémon Balle",
+  "de": "Ball",
+  "es": "Pokémon Bola",
+  "it": "Pokémon Ball",
+  "en": "Ball Pokémon",
+  "ja": "ボールポケモン",
+  "zh-hans": "球宝可梦",
+  "es-419": "Pokémon Bola"
+ },
+ "flavor": {
+  "en": "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.",
+  "ko": "몬스터볼과 닮은 것은 보호색으로 위장하기 위해서라고 전해지나 의외로 쉽게 자폭한다."
+ },
+ "varieties": [
+  {
+   "name": "voltorb",
+   "is_default": true
+  },
+  {
+   "name": "voltorb-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "44"
+}

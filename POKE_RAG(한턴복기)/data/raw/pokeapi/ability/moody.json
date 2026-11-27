@@ -1,0 +1,23 @@
+{
+ "name": "moody",
+ "names": {
+  "ja-hrkt": "ムラっけ",
+  "ko": "변덕쟁이",
+  "zh-hant": "心情不定",
+  "fr": "Lunatique",
+  "de": "Gefühlswippe",
+  "es": "Veleta",
+  "it": "Altalena",
+  "en": "Moody",
+  "ja": "ムラっけ",
+  "zh-hans": "心情不定",
+  "es-419": "Temperamental"
+ },
+ "effect": {
+  "en": "Raises a random stat two stages and lowers another one stage after each turn."
+ },
+ "flavor": {
+  "en": "Every turn, one of the Pokémon's stats will be boosted sharply but another stat will be lowered.",
+  "ko": "매 턴 능력 중 하나가 크게 오르고 하나가 떨어진다."
+ }
+}

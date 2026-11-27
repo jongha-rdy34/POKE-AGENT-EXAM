@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+data/raw/pokedb/
+chroma_db/
+*.log
+data/logs/

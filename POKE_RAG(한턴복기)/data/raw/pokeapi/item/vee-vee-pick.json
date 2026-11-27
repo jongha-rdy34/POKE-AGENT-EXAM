@@ -1,0 +1,20 @@
+{
+ "name": "vee-vee-pick",
+ "names": {
+  "ja-hrkt": "ブイブイピック",
+  "ko": "브이브이 픽",
+  "zh-hant": "伊布三明治籤",
+  "fr": "Pique Volivoli",
+  "de": "Volivoli-Pikser",
+  "es": "Palillo Eevee",
+  "it": "Stecchino Eevee",
+  "en": "Vee-Vee Pick",
+  "ja": "ブイブイピック",
+  "zh-hans": "伊布三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

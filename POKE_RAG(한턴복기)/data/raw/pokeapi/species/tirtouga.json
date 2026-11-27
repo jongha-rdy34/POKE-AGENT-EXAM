@@ -1,0 +1,42 @@
+{
+ "id": 564,
+ "name": "tirtouga",
+ "names": {
+  "ja-hrkt": "プロトーガ",
+  "ja-roma": "Protoga",
+  "ko": "프로토가",
+  "zh-hant": "原蓋海龜",
+  "fr": "Carapagos",
+  "de": "Galapaflos",
+  "es": "Tirtouga",
+  "it": "Tirtouga",
+  "en": "Tirtouga",
+  "ja": "プロトーガ",
+  "zh-hans": "原盖海龟",
+  "es-419": "Tirtouga"
+ },
+ "genus": {
+  "ja-hrkt": "こだいがめポケモン",
+  "ko": "옛날거북포켓몬",
+  "zh-hant": "古代龜寶可夢",
+  "fr": "Pokémon Tortantique",
+  "de": "Urzeitkröten-Pokémon",
+  "es": "Pokémon Pretortuga",
+  "it": "Pokémon Ancestruga",
+  "en": "Prototurtle Pokémon",
+  "ja": "こだいがめポケモン",
+  "zh-hans": "古代龟宝可梦",
+  "es-419": "Pokémon Pretortuga"
+ },
+ "flavor": {
+  "en": "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.",
+  "ko": "많은 거북포켓몬의 선조로 여겨지고 있는 포켓몬이다. 화석에서 복원되었다."
+ },
+ "varieties": [
+  {
+   "name": "tirtouga",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "288"
+}

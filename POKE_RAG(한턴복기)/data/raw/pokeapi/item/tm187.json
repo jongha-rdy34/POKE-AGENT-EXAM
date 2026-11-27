@@ -1,0 +1,19 @@
+{
+ "name": "tm187",
+ "names": {
+  "ko": "기술머신187",
+  "zh-hant": "招式學習器１８７",
+  "fr": "CT187",
+  "de": "TM187",
+  "es": "MT187",
+  "it": "MT187",
+  "en": "TM187",
+  "ja": "わざマシン１８７",
+  "zh-hans": "招式学习器１８７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

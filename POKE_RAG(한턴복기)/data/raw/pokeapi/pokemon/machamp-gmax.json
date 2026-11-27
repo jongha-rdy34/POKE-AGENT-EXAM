@@ -1,0 +1,34 @@
+{
+ "id": 10201,
+ "name": "machamp-gmax",
+ "species": "machamp",
+ "is_default": false,
+ "types": [
+  "fighting"
+ ],
+ "stats": {
+  "hp": 90,
+  "attack": 130,
+  "defense": 80,
+  "special-attack": 65,
+  "special-defense": 85,
+  "speed": 55
+ },
+ "abilities": [
+  {
+   "name": "guts",
+   "hidden": false
+  },
+  {
+   "name": "no-guard",
+   "hidden": false
+  },
+  {
+   "name": "steadfast",
+   "hidden": true
+  }
+ ],
+ "height": 250,
+ "weight": 10000,
+ "champions_moves": []
+}

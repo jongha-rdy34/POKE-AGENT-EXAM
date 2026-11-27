@@ -1,0 +1,42 @@
+{
+ "id": 348,
+ "name": "armaldo",
+ "names": {
+  "ja-hrkt": "アーマルド",
+  "ja-roma": "Armaldo",
+  "ko": "아말도",
+  "zh-hant": "太古盔甲",
+  "fr": "Armaldo",
+  "de": "Armaldo",
+  "es": "Armaldo",
+  "it": "Armaldo",
+  "en": "Armaldo",
+  "ja": "アーマルド",
+  "zh-hans": "太古盔甲",
+  "es-419": "Armaldo"
+ },
+ "genus": {
+  "ja-hrkt": "かっちゅうポケモン",
+  "ko": "갑주포켓몬",
+  "zh-hant": "甲胄寶可夢",
+  "fr": "Pokémon Blindage",
+  "de": "Schild-Pokémon",
+  "es": "Pokémon Armadura",
+  "it": "Pokémon Piastre",
+  "en": "Plate Pokémon",
+  "ja": "かっちゅうポケモン",
+  "zh-hans": "甲胄宝可梦",
+  "es-419": "Pokémon Armadura"
+ },
+ "flavor": {
+  "en": "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry.",
+  "ko": "육지에서 생활하지만 헤엄도 잘 친다. 먹이를 찾아 바다로 잠수해 날카로운 발톱으로 꼼짝 못 하게 한다."
+ },
+ "varieties": [
+  {
+   "name": "armaldo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "177"
+}

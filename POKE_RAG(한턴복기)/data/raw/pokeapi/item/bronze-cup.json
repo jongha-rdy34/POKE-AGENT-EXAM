@@ -1,0 +1,20 @@
+{
+ "name": "bronze-cup",
+ "names": {
+  "ja-hrkt": "ブロンズチタンカップ",
+  "ko": "브론즈 티탄 컵",
+  "zh-hant": "銅鈦水杯",
+  "fr": "Tasse Titane (Bronze)",
+  "de": "Bronze-Titantasse",
+  "es": "Taza Bronceada",
+  "it": "Tazza bronzo",
+  "en": "Bronze Cup",
+  "ja": "ブロンズチタンカップ",
+  "zh-hans": "铜钛水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "starly-feather",
+ "names": {
+  "ja-hrkt": "ムックルのはね",
+  "ko": "찌르꼬의깃털",
+  "zh-hant": "姆克兒的羽毛",
+  "fr": "Plume d’Étourmi",
+  "de": "Staralili-Feder",
+  "es": "Pluma de Starly",
+  "it": "Penna di Starly",
+  "en": "Starly Feather",
+  "ja": "ムックルのはね",
+  "zh-hans": "姆克儿的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

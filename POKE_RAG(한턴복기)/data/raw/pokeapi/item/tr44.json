@@ -1,0 +1,25 @@
+{
+ "name": "tr44",
+ "names": {
+  "ja-hrkt": "わざレコード４４",
+  "ko": "기술레코드44",
+  "zh-hant": "招式紀錄４４",
+  "fr": "DT44",
+  "de": "TP44",
+  "es": "DT44",
+  "it": "DT44",
+  "en": "TR44",
+  "ja": "わざレコード４４",
+  "zh-hans": "招式记录４４",
+  "es-419": "DT44"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "우주로부터 신비한 힘을 손에 넣음으로써 자신의 방어와 특수방어를 올린다.",
+  "en": "The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.",
+  "ja": "宇宙から 神秘の 力を とりこむ ことで 自分の 防御と 特防を あげる。"
+ }
+}

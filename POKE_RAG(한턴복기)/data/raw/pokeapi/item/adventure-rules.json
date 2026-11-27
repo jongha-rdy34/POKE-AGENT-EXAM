@@ -1,0 +1,28 @@
+{
+ "name": "adventure-rules",
+ "names": {
+  "ja-hrkt": "たんけんこころえ",
+  "ko": "탐험수칙",
+  "zh-hant": "探險心得",
+  "fr": "ABC Aventure",
+  "de": "Abenteuerfibel",
+  "es": "Guía de Aventura",
+  "it": "Guida Avventura",
+  "en": "Adventure Guide",
+  "ja": "たんけんこころえ",
+  "zh-hans": "探险心得",
+  "es-419": "Guía de Aventura"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Contient des informations basic sur le gameplay.",
+  "en": "Contains basic gameplay information."
+ },
+ "flavor": {
+  "ko": "트레이너가 여행할 때 필요한 어드바이스가 자동으로 추가되고 정리되는 소형 머신.",
+  "en": "A compact device that automatically collects and records advice when a Trainer is out on an adventure.",
+  "ja": "トレーナーが 旅を するときの アドバイスが 自動で 追加されて まとめられていく 小型マシン。"
+ }
+}

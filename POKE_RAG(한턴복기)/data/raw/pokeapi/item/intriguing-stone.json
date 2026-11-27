@@ -1,0 +1,28 @@
+{
+ "name": "intriguing-stone",
+ "names": {
+  "ja-hrkt": "すごそうないし",
+  "ko": "대단할듯한돌",
+  "zh-hant": "似珍石",
+  "fr": "Pierre Insolite",
+  "de": "Kurioser Stein",
+  "es": "Piedra Insólita",
+  "it": "Sasso suggestivo",
+  "en": "Intriguing Stone",
+  "ja": "すごそうないし",
+  "zh-hans": "似珍石",
+  "es-419": "Piedra Insólita"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger pour une Pierre Soleil dans X et Y, ou une Roucarnagite dans Omega Ruby et Saphir Alpha.",
+  "en": "Trade for a Sun Stone in X and Y, or Pidgeotite in Omega Ruby and Alpha Sapphire."
+ },
+ "flavor": {
+  "ko": "보는 사람에 따라서는 귀중할지도 모르는 꽤 특이한 돌.",
+  "en": "A rather curious stone that might appear valuable to some. It’s all in the eye of the beholder.",
+  "ja": "みる 人に よっては 貴重 かもしれない かなり 変わった 石。"
+ }
+}

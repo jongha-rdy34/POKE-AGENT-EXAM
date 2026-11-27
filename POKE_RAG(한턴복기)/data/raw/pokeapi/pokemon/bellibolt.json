@@ -1,0 +1,74 @@
+{
+ "id": 939,
+ "name": "bellibolt",
+ "species": "bellibolt",
+ "is_default": true,
+ "types": [
+  "electric"
+ ],
+ "stats": {
+  "hp": 109,
+  "attack": 64,
+  "defense": 91,
+  "special-attack": 103,
+  "special-defense": 83,
+  "speed": 45
+ },
+ "abilities": [
+  {
+   "name": "electromorphosis",
+   "hidden": false
+  },
+  {
+   "name": "static",
+   "hidden": false
+  },
+  {
+   "name": "damp",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 1130,
+ "champions_moves": [
+  "acid-spray",
+  "charge",
+  "charge-beam",
+  "chilling-water",
+  "confuse-ray",
+  "discharge",
+  "eerie-impulse",
+  "electric-terrain",
+  "electro-ball",
+  "electroweb",
+  "endure",
+  "flail",
+  "giga-impact",
+  "hyper-beam",
+  "hyper-voice",
+  "light-screen",
+  "mud-shot",
+  "mud-slap",
+  "muddy-water",
+  "parabolic-charge",
+  "protect",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "slack-off",
+  "sleep-talk",
+  "soak",
+  "substitute",
+  "sucker-punch",
+  "supercell-slam",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt",
+  "toxic",
+  "volt-switch",
+  "water-pulse",
+  "weather-ball",
+  "wild-charge",
+  "zap-cannon"
+ ]
+}

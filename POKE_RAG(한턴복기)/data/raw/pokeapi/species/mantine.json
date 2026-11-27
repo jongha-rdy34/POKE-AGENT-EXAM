@@ -1,0 +1,42 @@
+{
+ "id": 226,
+ "name": "mantine",
+ "names": {
+  "ja-hrkt": "マンタイン",
+  "ja-roma": "Mantain",
+  "ko": "만타인",
+  "zh-hant": "巨翅飛魚",
+  "fr": "Démanta",
+  "de": "Mantax",
+  "es": "Mantine",
+  "it": "Mantine",
+  "en": "Mantine",
+  "ja": "マンタイン",
+  "zh-hans": "巨翅飞鱼",
+  "es-419": "Mantine"
+ },
+ "genus": {
+  "ja-hrkt": "カイトポケモン",
+  "ko": "연포켓몬",
+  "zh-hant": "風箏寶可夢",
+  "fr": "Pokémon Cervolant",
+  "de": "Flugrochen-Pokémon",
+  "es": "Pokémon Milano",
+  "it": "Pokémon Aquilone",
+  "en": "Kite Pokémon",
+  "ja": "カイトポケモン",
+  "zh-hans": "风筝宝可梦",
+  "es-419": "Pokémon Milano"
+ },
+ "flavor": {
+  "en": "This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior.",
+  "ko": "여유롭게 바다를 헤엄친다. 먹다 남은 음식을 노린 총어가 달라붙어 있어도 신경 쓰지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "mantine",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "116"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 2,
+ "name": "ivysaur",
+ "names": {
+  "ja-hrkt": "フシギソウ",
+  "ja-roma": "Fushigisou",
+  "ko": "이상해풀",
+  "zh-hant": "妙蛙草",
+  "fr": "Herbizarre",
+  "de": "Bisaknosp",
+  "es": "Ivysaur",
+  "it": "Ivysaur",
+  "en": "Ivysaur",
+  "ja": "フシギソウ",
+  "zh-hans": "妙蛙草",
+  "es-419": "Ivysaur"
+ },
+ "genus": {
+  "ja-hrkt": "たねポケモン",
+  "ko": "씨앗포켓몬",
+  "zh-hant": "種子寶可夢",
+  "fr": "Pokémon Graine",
+  "de": "Samen-Pokémon",
+  "es": "Pokémon Semilla",
+  "it": "Pokémon Seme",
+  "en": "Seed Pokémon",
+  "ja": "たねポケモン",
+  "zh-hans": "种子宝可梦",
+  "es-419": "Pokémon Semilla"
+ },
+ "flavor": {
+  "en": "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger.",
+  "ko": "햇빛을 받을수록 몸에 힘이 솟아나 등의 꽃봉오리가 자라난다."
+ },
+ "varieties": [
+  {
+   "name": "ivysaur",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "1"
+}

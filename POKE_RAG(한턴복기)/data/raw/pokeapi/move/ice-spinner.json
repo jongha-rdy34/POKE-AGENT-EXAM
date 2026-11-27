@@ -1,0 +1,28 @@
+{
+ "name": "ice-spinner",
+ "names": {
+  "ja-hrkt": "アイススピナー",
+  "ko": "아이스스피너",
+  "zh-hant": "冰旋",
+  "fr": "Cryo-Pirouette",
+  "de": "Eiskreisel",
+  "es": "Pirueta Helada",
+  "it": "Vortighiaccio",
+  "en": "Ice Spinner",
+  "ja": "アイススピナー",
+  "zh-hans": "冰旋",
+  "es-419": "Pirueta Helada"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain."
+ }
+}

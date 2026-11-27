@@ -1,0 +1,23 @@
+{
+ "name": "unnerve",
+ "names": {
+  "ja-hrkt": "きんちょうかん",
+  "ko": "긴장감",
+  "zh-hant": "緊張感",
+  "fr": "Tension",
+  "de": "Anspannung",
+  "es": "Nerviosismo",
+  "it": "Agitazione",
+  "en": "Unnerve",
+  "ja": "きんちょうかん",
+  "zh-hans": "紧张感",
+  "es-419": "Nerviosismo"
+ },
+ "effect": {
+  "en": "Prevents opposing Pokémon from eating held Berries."
+ },
+ "flavor": {
+  "en": "Unnerves opposing Pokémon and makes them unable to eat Berries.",
+  "ko": "상대를 긴장시켜 나무열매를 먹지 못하게 한다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 581,
+ "name": "swanna",
+ "names": {
+  "ja-hrkt": "スワンナ",
+  "ja-roma": "Swanna",
+  "ko": "스완나",
+  "zh-hant": "舞天鵝",
+  "fr": "Lakmécygne",
+  "de": "Swaroness",
+  "es": "Swanna",
+  "it": "Swanna",
+  "en": "Swanna",
+  "ja": "スワンナ",
+  "zh-hans": "舞天鹅",
+  "es-419": "Swanna"
+ },
+ "genus": {
+  "ja-hrkt": "しらとりポケモン",
+  "ko": "백조포켓몬",
+  "zh-hant": "白鳥寶可夢",
+  "fr": "Pokémon Cygne",
+  "de": "Schwan",
+  "es": "Pokémon Cisne",
+  "it": "Pokémon Biancuccello",
+  "en": "White Bird Pokémon",
+  "ja": "しらとりポケモン",
+  "zh-hans": "白鸟宝可梦",
+  "es-419": "Pokémon Cisne"
+ },
+ "flavor": {
+  "en": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+  "ko": "새벽이 오면 스완나들이 춤추기 시작한다. 한가운데에서 춤추는 스완나가 무리의 우두머리다."
+ },
+ "varieties": [
+  {
+   "name": "swanna",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "295"
+}

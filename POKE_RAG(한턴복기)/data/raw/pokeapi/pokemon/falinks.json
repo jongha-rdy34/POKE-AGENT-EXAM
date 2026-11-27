@@ -1,0 +1,82 @@
+{
+ "id": 870,
+ "name": "falinks",
+ "species": "falinks",
+ "is_default": true,
+ "types": [
+  "fighting"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 100,
+  "defense": 100,
+  "special-attack": 70,
+  "special-defense": 60,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "battle-armor",
+   "hidden": false
+  },
+  {
+   "name": "defiant",
+   "hidden": true
+  }
+ ],
+ "height": 30,
+ "weight": 620,
+ "champions_moves": [
+  "agility",
+  "assurance",
+  "beat-up",
+  "body-press",
+  "body-slam",
+  "brick-break",
+  "bulk-up",
+  "close-combat",
+  "coaching",
+  "counter",
+  "double-hit",
+  "endeavor",
+  "endure",
+  "facade",
+  "first-impression",
+  "focus-blast",
+  "focus-energy",
+  "giga-impact",
+  "helping-hand",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "knock-off",
+  "lunge",
+  "megahorn",
+  "no-retreat",
+  "payback",
+  "poison-jab",
+  "protect",
+  "psych-up",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "screech",
+  "seed-bomb",
+  "sleep-talk",
+  "smart-strike",
+  "snore",
+  "substitute",
+  "sunny-day",
+  "superpower",
+  "swords-dance",
+  "throat-chop",
+  "trailblaze",
+  "upper-hand",
+  "uproar",
+  "zen-headbutt"
+ ]
+}

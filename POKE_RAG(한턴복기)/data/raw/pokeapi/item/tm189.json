@@ -1,0 +1,19 @@
+{
+ "name": "tm189",
+ "names": {
+  "ko": "기술머신189",
+  "zh-hant": "招式學習器１８９",
+  "fr": "CT189",
+  "de": "TM189",
+  "es": "MT189",
+  "it": "MT189",
+  "en": "TM189",
+  "ja": "わざマシン１８９",
+  "zh-hans": "招式学习器１８９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

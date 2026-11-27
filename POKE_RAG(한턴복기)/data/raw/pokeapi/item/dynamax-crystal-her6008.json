@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-her6008",
+ "names": {
+  "ja-hrkt": "★Her6008",
+  "ko": "★Her6008",
+  "zh-hant": "★Her6008",
+  "fr": "★Her6008",
+  "de": "★Her6008",
+  "es": "★Her6008",
+  "it": "★Her6008",
+  "en": "★Her6008",
+  "ja": "★Her6008",
+  "zh-hans": "★Her6008",
+  "es-419": "★Her6008"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "name": "lustrous-orb",
+ "names": {
+  "ja-hrkt": "しらたま",
+  "ko": "백옥",
+  "zh-hant": "白玉寶珠",
+  "fr": "Orbe Perlé",
+  "de": "Weiß-Orb",
+  "es": "Lustresfera",
+  "it": "Splendisfera",
+  "en": "Lustrous Orb",
+  "ja": "しらたま",
+  "zh-hans": "白玉宝珠",
+  "es-419": "Lustresfera"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Booste les dégâts des attaques Dragon et Eau de Palkia de 20%.",
+  "en": "Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%."
+ },
+ "flavor": {
+  "en": "A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon- and Water-type moves when it is held.",
+  "ko": "펄기아에게 지니게 하면 드래곤과 물타입 기술의 위력이 올라가는 아름답게 반짝이는 구슬.",
+  "ja": "パルキアに 持たせると ドラゴンと みずタイプの 技の 威力が あがる 美しく 輝く 珠。"
+ }
+}

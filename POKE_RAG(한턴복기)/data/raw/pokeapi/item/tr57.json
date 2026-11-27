@@ -1,0 +1,25 @@
+{
+ "name": "tr57",
+ "names": {
+  "ja-hrkt": "わざレコード５７",
+  "ko": "기술레코드57",
+  "zh-hant": "招式紀錄５７",
+  "fr": "DT57",
+  "de": "TP57",
+  "es": "DT57",
+  "it": "DT57",
+  "en": "TR57",
+  "ja": "わざレコード５７",
+  "zh-hans": "招式记录５７",
+  "es-419": "DT57"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "독에 물든 촉수나 팔로 상대를 꿰찌른다. 독 상태로 만들 때가 있다.",
+  "en": "The target is stabbed with a tentacle, arm, or the like steeped in poison. This may also poison the target.",
+  "ja": "毒に そまった 触手や 腕で 相手を 突き刺す。 毒状態に することが ある。"
+ }
+}

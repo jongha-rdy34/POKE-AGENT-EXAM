@@ -1,0 +1,42 @@
+{
+ "id": 472,
+ "name": "gliscor",
+ "names": {
+  "ja-hrkt": "グライオン",
+  "ja-roma": "Glion",
+  "ko": "글라이온",
+  "zh-hant": "天蠍王",
+  "fr": "Scorvol",
+  "de": "Skorgro",
+  "es": "Gliscor",
+  "it": "Gliscor",
+  "en": "Gliscor",
+  "ja": "グライオン",
+  "zh-hans": "天蝎王",
+  "es-419": "Gliscor"
+ },
+ "genus": {
+  "ja-hrkt": "キバさそりポケモン",
+  "ko": "송곳니전갈포켓몬",
+  "zh-hant": "牙蠍寶可夢",
+  "fr": "Pokémon Scorpicroc",
+  "de": "Zahnskorpi",
+  "es": "Pokémon Colmicorpio",
+  "it": "Pokémon Scorpidente",
+  "en": "Fang Scorpion Pokémon",
+  "ja": "キバさそりポケモン",
+  "zh-hans": "牙蝎宝可梦",
+  "es-419": "Pokémon Colmicorpio"
+ },
+ "flavor": {
+  "en": "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood.",
+  "ko": "날갯소리를 내지 않고 하늘을 난다. 긴 꼬리로 먹이를 잡아 송곳니로 급소를 공격한다."
+ },
+ "varieties": [
+  {
+   "name": "gliscor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "104"
+}

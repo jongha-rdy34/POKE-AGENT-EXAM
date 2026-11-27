@@ -1,0 +1,42 @@
+{
+ "id": 676,
+ "name": "furfrou",
+ "names": {
+  "ja-hrkt": "トリミアン",
+  "ja-roma": "Trimmien",
+  "ko": "트리미앙",
+  "zh-hant": "多麗米亞",
+  "fr": "Couafarel",
+  "de": "Coiffwaff",
+  "es": "Furfrou",
+  "it": "Furfrou",
+  "en": "Furfrou",
+  "ja": "トリミアン",
+  "zh-hans": "多丽米亚",
+  "es-419": "Furfrou"
+ },
+ "genus": {
+  "ja-hrkt": "プードルポケモン",
+  "ko": "푸들포켓몬",
+  "zh-hant": "貴賓犬寶可夢",
+  "fr": "Pokémon Caniche",
+  "de": "Pudel",
+  "es": "Pokémon Caniche",
+  "it": "Pokémon Barboncino",
+  "en": "Poodle Pokémon",
+  "ja": "プードルポケモン",
+  "zh-hans": "贵宾犬宝可梦",
+  "es-419": "Pokémon Caniche"
+ },
+ "flavor": {
+  "ko": "가만히 두면 털이 점점 자라지만 신뢰하는 자가 아니면 커트를 허락하지 않는다.",
+  "en": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it."
+ },
+ "varieties": [
+  {
+   "name": "furfrou",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "347"
+}

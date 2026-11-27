@@ -1,0 +1,28 @@
+{
+ "name": "love-ball",
+ "names": {
+  "ja-hrkt": "ラブラブボール",
+  "ko": "러브러브볼",
+  "zh-hant": "甜蜜球",
+  "fr": "Love Ball",
+  "de": "Sympaball",
+  "es": "Amor Ball",
+  "it": "Love Ball",
+  "en": "Love Ball",
+  "ja": "ラブラブボール",
+  "zh-hans": "甜蜜球",
+  "es-419": "Amorbola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "8× plus efficace sur le sexe opposé, de la même espèce du Pokémon Actif. Fait à partir de Noigrume Ros.",
+  "en": "8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that works best when catching a Pokémon that is of the opposite gender of your Pokémon.",
+  "ko": "자신의 포켓몬과 성별이 다르면 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "自分の ポケモンと 性別が 違うと 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

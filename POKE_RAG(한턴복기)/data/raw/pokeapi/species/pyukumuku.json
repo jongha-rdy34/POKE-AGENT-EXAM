@@ -1,0 +1,42 @@
+{
+ "id": 771,
+ "name": "pyukumuku",
+ "names": {
+  "ja-hrkt": "ナマコブシ",
+  "ja-roma": "Namakobushi",
+  "ko": "해무기",
+  "zh-hant": "拳海參",
+  "fr": "Concombaffe",
+  "de": "Gufa",
+  "es": "Pyukumuku",
+  "it": "Pyukumuku",
+  "en": "Pyukumuku",
+  "ja": "ナマコブシ",
+  "zh-hans": "拳海参",
+  "es-419": "Pyukumuku"
+ },
+ "genus": {
+  "ja-hrkt": "なまこポケモン",
+  "ko": "해삼포켓몬",
+  "zh-hant": "海參寶可夢",
+  "fr": "Pokémon Holothurie",
+  "de": "Seegurken-Pokémon",
+  "es": "Pokémon Pepino Mar",
+  "it": "Pokémon Oloturia",
+  "en": "Sea Cucumber Pokémon",
+  "ja": "なまこポケモン",
+  "zh-hans": "海参宝可梦",
+  "es-419": "Pokémon Pepino Mar"
+ },
+ "flavor": {
+  "ko": "보습 효과가 뛰어난 점액이 피부를 감싸고 있어 며칠을 육지에 있어도 마르지 않는다.",
+  "en": "It’s covered in a slime that keeps its skin moist, allowing it to stay on land for days without drying up."
+ },
+ "varieties": [
+  {
+   "name": "pyukumuku",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "398"
+}

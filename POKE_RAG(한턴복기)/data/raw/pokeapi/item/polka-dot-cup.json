@@ -1,0 +1,20 @@
+{
+ "name": "polka-dot-cup",
+ "names": {
+  "ja-hrkt": "みずたまカップ",
+  "ko": "물방울 컵",
+  "zh-hant": "圓點水杯",
+  "fr": "Tasse à Pois",
+  "de": "Punkte-Tasse",
+  "es": "Taza Lunares",
+  "it": "Tazza a pois",
+  "en": "Polka-Dot Cup",
+  "ja": "みずたまカップ",
+  "zh-hans": "圆点水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

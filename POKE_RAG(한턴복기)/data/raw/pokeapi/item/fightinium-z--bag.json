@@ -1,0 +1,28 @@
+{
+ "name": "fightinium-z--bag",
+ "names": {
+  "ja-hrkt": "カクトウＺ",
+  "ko": "격투Z",
+  "zh-hant": "格鬥Ｚ",
+  "fr": "Combazélite",
+  "de": "Battalium Z",
+  "es": "Lizastal Z",
+  "it": "Luctium Z",
+  "en": "Fightinium Z",
+  "ja": "カクトウＺ",
+  "zh-hans": "格斗Ｚ",
+  "es-419": "Lizastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour fightinium-z--bag",
+  "en": "XXX new effect for fightinium-z--bag"
+ },
+ "flavor": {
+  "ko": "격투타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Fighting-type moves to Fighting-type Z-Moves.",
+  "ja": "かくとうタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

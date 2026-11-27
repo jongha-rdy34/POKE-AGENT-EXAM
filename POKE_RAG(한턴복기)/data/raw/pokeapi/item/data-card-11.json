@@ -1,0 +1,28 @@
+{
+ "name": "data-card-11",
+ "names": {
+  "ja-hrkt": "データカード１１",
+  "ko": "데이터카드11",
+  "zh-hant": "資料卡１１",
+  "fr": "Carte Mémo11",
+  "de": "Datenkarte11",
+  "es": "Tarjeta Datos 11",
+  "it": "Scheda Dati 11",
+  "en": "Data Card 11",
+  "ja": "データカード１１",
+  "zh-hans": "数据卡１１",
+  "es-419": "Tarjeta Datos 11"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de points gagnés par le dresseur au Pokéathlon.",
+  "en": "Records the number of points the trainer has earned in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many points your Pokémon scored in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬의 획득 포인트가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの 獲得ポイントが 記録された カード。"
+ }
+}

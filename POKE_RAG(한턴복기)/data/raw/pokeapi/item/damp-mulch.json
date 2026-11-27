@@ -1,0 +1,28 @@
+{
+ "name": "damp-mulch",
+ "names": {
+  "ja-hrkt": "じめじめこやし",
+  "ko": "축축이비료",
+  "zh-hant": "濕濕肥",
+  "fr": "Fertihumide",
+  "de": "Feuchtmulch",
+  "es": "Abono Lento",
+  "it": "Fertilidro",
+  "en": "Damp Mulch",
+  "ja": "じめじめこやし",
+  "zh-hans": "湿湿肥",
+  "es-419": "Abono Lento"
+ },
+ "category": "mulch",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Le temps de croissance des baies est augmenté, mais le sol se dessèche plus lentement.",
+  "en": "Growing time of berries is increased, but the soil dries out slower."
+ },
+ "flavor": {
+  "en": "A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect.",
+  "ko": "나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다.",
+  "ja": "きのみを 育てるときの 肥料。 しかし ホウエン地方の 土には まるで なじまないので 効果が ない。"
+ }
+}

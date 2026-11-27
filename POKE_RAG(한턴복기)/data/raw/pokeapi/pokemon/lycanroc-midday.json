@@ -1,0 +1,93 @@
+{
+ "id": 745,
+ "name": "lycanroc-midday",
+ "species": "lycanroc",
+ "is_default": true,
+ "types": [
+  "rock"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 115,
+  "defense": 65,
+  "special-attack": 55,
+  "special-defense": 65,
+  "speed": 112
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "sand-rush",
+   "hidden": false
+  },
+  {
+   "name": "steadfast",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 250,
+ "champions_moves": [
+  "accelerock",
+  "agility",
+  "assurance",
+  "bite",
+  "body-slam",
+  "brick-break",
+  "bulk-up",
+  "bulldoze",
+  "charm",
+  "close-combat",
+  "crunch",
+  "dig",
+  "double-edge",
+  "double-team",
+  "drill-run",
+  "earth-power",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-fang",
+  "giga-impact",
+  "helping-hand",
+  "howl",
+  "hyper-voice",
+  "iron-defense",
+  "iron-head",
+  "iron-tail",
+  "last-resort",
+  "mud-slap",
+  "play-rough",
+  "protect",
+  "psychic-fangs",
+  "quick-attack",
+  "quick-guard",
+  "rest",
+  "roar",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sucker-punch",
+  "sunny-day",
+  "swords-dance",
+  "tail-slap",
+  "taunt",
+  "thrash",
+  "thunder-fang",
+  "trailblaze",
+  "zen-headbutt"
+ ]
+}

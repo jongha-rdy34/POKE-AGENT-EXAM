@@ -1,0 +1,18 @@
+{
+ "name": "gentle",
+ "names": {
+  "ja-hrkt": "おとなしい",
+  "ko": "얌전",
+  "zh-hant": "溫順",
+  "fr": "Gentil",
+  "de": "Zart",
+  "es": "Amable",
+  "it": "Gentile",
+  "en": "Gentle",
+  "ja": "おとなしい",
+  "zh-hans": "温顺",
+  "es-419": "Amable"
+ },
+ "plus": "special-defense",
+ "minus": "defense"
+}

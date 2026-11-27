@@ -1,0 +1,23 @@
+{
+ "name": "rotom-mow",
+ "form_name": "mow",
+ "names": {
+  "fr": "Motisma Tonte",
+  "de": "Schneid-Rotom",
+  "en": "Mow Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "カットロトム",
+  "ko": "커트로토무",
+  "zh-hant": "切割洛托姆",
+  "fr": "Motisma Tonte",
+  "de": "Schneid-Rotom",
+  "es": "Rotom Corte",
+  "it": "Rotom Taglio",
+  "en": "Mow Rotom",
+  "ja": "カットロトム",
+  "zh-hans": "切割洛托姆",
+  "es-419": "Rotom Corte"
+ },
+ "is_mega": false
+}

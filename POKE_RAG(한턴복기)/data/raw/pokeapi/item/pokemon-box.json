@@ -1,0 +1,25 @@
+{
+ "name": "pokemon-box",
+ "names": {
+  "ja-hrkt": "ポケモンボックス",
+  "ko": "포켓몬 박스",
+  "zh-hant": "寶可夢盒",
+  "fr": "Boîte Pokémon",
+  "de": "Pokémon-Box",
+  "es": "Caja de Pokémon",
+  "it": "Box Pokémon",
+  "en": "Pokémon Box Link",
+  "ja": "ポケモンボックス",
+  "zh-hans": "宝可梦盒",
+  "es-419": "Caja de Pokémon"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

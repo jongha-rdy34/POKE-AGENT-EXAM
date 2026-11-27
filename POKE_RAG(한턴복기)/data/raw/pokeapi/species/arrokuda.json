@@ -1,0 +1,42 @@
+{
+ "id": 846,
+ "name": "arrokuda",
+ "names": {
+  "ja-hrkt": "サシカマス",
+  "ja-roma": "Sasikamasu",
+  "ko": "찌로꼬치",
+  "zh-hant": "刺梭魚",
+  "fr": "Embrochet",
+  "de": "Pikuda",
+  "es": "Arrokuda",
+  "it": "Arrokuda",
+  "en": "Arrokuda",
+  "ja": "サシカマス",
+  "zh-hans": "刺梭鱼",
+  "es-419": "Arrokuda"
+ },
+ "genus": {
+  "ja-hrkt": "とつげきポケモン",
+  "ko": "돌격포켓몬",
+  "zh-hant": "突擊寶可夢",
+  "fr": "Pokémon Fonceur",
+  "de": "Rempler-Pokémon",
+  "es": "Pokémon Arremetida",
+  "it": "Pokémon Carica",
+  "en": "Rush Pokémon",
+  "ja": "とつげきポケモン",
+  "zh-hans": "突击宝可梦",
+  "es-419": "Pokémon Arremetida"
+ },
+ "flavor": {
+  "ko": "배가 불러서 현저히 움직임이 둔해지면 윽우지가 통째로 삼켜버린다.",
+  "en": "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up."
+ },
+ "varieties": [
+  {
+   "name": "arrokuda",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "445"
+}

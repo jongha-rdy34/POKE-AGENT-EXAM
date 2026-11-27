@@ -1,0 +1,28 @@
+{
+ "name": "dowsing-machine",
+ "names": {
+  "ja-hrkt": "ダウジングマシン",
+  "ko": "다우징머신",
+  "zh-hant": "探寶器",
+  "fr": "Cherch’Objet",
+  "de": "Itemradar",
+  "es": "Zahorí",
+  "it": "Ricerca strum.",
+  "en": "Dowsing Machine",
+  "ja": "ダウジングマシン",
+  "zh-hans": "探宝器",
+  "es-419": "Zahorí"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À utiliser pour trouver des objets cachés sur le sol. Aussi connu sous le nom de Cherch'Objet.",
+  "en": "Use to find hidden items on the field. AKA Itemfinder."
+ },
+ "flavor": {
+  "en": "A high-tech machine that shows the location of invisible items. It’s attached to the head when in use.",
+  "ko": "보이지 않는 도구에 반응해서 장소를 가르쳐주는 최신 기계. 머리에 쓰고 사용한다.",
+  "ja": "みえない 道具に 反応して 場所を 教えてくれる 最新の 機械。 頭に つけて 使う。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "spikes",
+ "names": {
+  "ja-hrkt": "まきびし",
+  "ko": "압정뿌리기",
+  "zh-hant": "撒菱",
+  "fr": "Picots",
+  "de": "Stachler",
+  "es": "Púas",
+  "it": "Punte",
+  "en": "Spikes",
+  "ja": "まきびし",
+  "zh-hans": "撒菱",
+  "es-419": "Púas"
+ },
+ "type": "ground",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "opponents-field",
+ "effect": {
+  "en": "Scatters Spikes, hurting opposing Pokémon that switch in."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lays a trap of spikes at the feet of the opposing team. The spikes will damage opposing Pokémon that switch into battle.",
+  "ko": "상대의 발밑에 압정을 뿌린다. 교체된 상대 포켓몬에게 데미지를 준다."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "cyber-ball",
+ "names": {
+  "ja-hrkt": "ゲーミングボール",
+  "ko": "게이밍볼",
+  "zh-hant": "電競球",
+  "fr": "Ballon Gaming",
+  "de": "Cyber-Ball",
+  "es": "Pelota Cibernética",
+  "it": "Palla gaming",
+  "en": "Cyber Ball",
+  "ja": "ゲーミングボール",
+  "zh-hans": "电竞球"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

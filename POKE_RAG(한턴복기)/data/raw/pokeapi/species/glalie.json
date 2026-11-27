@@ -1,0 +1,46 @@
+{
+ "id": 362,
+ "name": "glalie",
+ "names": {
+  "ja-hrkt": "オニゴーリ",
+  "ja-roma": "Onigohri",
+  "ko": "얼음귀신",
+  "zh-hant": "冰鬼護",
+  "fr": "Oniglali",
+  "de": "Firnontor",
+  "es": "Glalie",
+  "it": "Glalie",
+  "en": "Glalie",
+  "ja": "オニゴーリ",
+  "zh-hans": "冰鬼护",
+  "es-419": "Glalie"
+ },
+ "genus": {
+  "ja-hrkt": "がんめんポケモン",
+  "ko": "얼굴포켓몬",
+  "zh-hant": "臉面寶可夢",
+  "fr": "Pokémon Face",
+  "de": "Antlitz-Pokémon",
+  "es": "Pokémon Cara",
+  "it": "Pokémon Tuttomuso",
+  "en": "Face Pokémon",
+  "ja": "がんめんポケモン",
+  "zh-hans": "脸面宝可梦",
+  "es-419": "Pokémon Cara"
+ },
+ "flavor": {
+  "en": "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts.",
+  "ko": "공기 중의 수분을 단숨에 얼게 하는 힘으로 먹이를 냉동시켜 버린다."
+ },
+ "varieties": [
+  {
+   "name": "glalie",
+   "is_default": true
+  },
+  {
+   "name": "glalie-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "186"
+}

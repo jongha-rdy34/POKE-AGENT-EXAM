@@ -1,0 +1,20 @@
+{
+ "name": "darkranite",
+ "names": {
+  "ko": "다크라이나이트",
+  "zh-hant": "達克萊伊進化石",
+  "fr": "Darkraïte",
+  "de": "Darkrainit",
+  "es": "Darkrainita",
+  "it": "Darkraite",
+  "en": "Darkranite",
+  "ja": "ダークライナイト",
+  "zh-hans": "达克莱伊进化石",
+  "es-419": "Darkrainita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

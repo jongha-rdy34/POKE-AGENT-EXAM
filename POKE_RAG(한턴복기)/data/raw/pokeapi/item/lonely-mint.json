@@ -1,0 +1,25 @@
+{
+ "name": "lonely-mint",
+ "names": {
+  "ja-hrkt": "さみしがりミント",
+  "ko": "외로움민트",
+  "zh-hant": "怕寂寞薄荷",
+  "fr": "Aromate Solo",
+  "de": "Solo-Minze",
+  "es": "Menta Huraña",
+  "it": "Menta Schiva",
+  "en": "Lonely Mint",
+  "ja": "さみしがりミント",
+  "zh-hans": "怕寂寞薄荷",
+  "es-419": "Menta Huraña"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 공격이 오르기 쉬워지지만 방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Attack will grow more easily, but its Defense will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 攻撃が 上がりやすく なるが 防御は 上がりにくくなる ミント。"
+ }
+}

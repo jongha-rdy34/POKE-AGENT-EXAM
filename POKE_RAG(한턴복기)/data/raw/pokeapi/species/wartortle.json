@@ -1,0 +1,42 @@
+{
+ "id": 8,
+ "name": "wartortle",
+ "names": {
+  "ja-hrkt": "カメール",
+  "ja-roma": "Kameil",
+  "ko": "어니부기",
+  "zh-hant": "卡咪龜",
+  "fr": "Carabaffe",
+  "de": "Schillok",
+  "es": "Wartortle",
+  "it": "Wartortle",
+  "en": "Wartortle",
+  "ja": "カメール",
+  "zh-hans": "卡咪龟",
+  "es-419": "Wartortle"
+ },
+ "genus": {
+  "ja-hrkt": "かめポケモン",
+  "ko": "거북포켓몬",
+  "zh-hant": "龜寶可夢",
+  "fr": "Pokémon Tortue",
+  "de": "Kröten-Pokémon",
+  "es": "Pokémon Tortuga",
+  "it": "Pokémon Tartaruga",
+  "en": "Turtle Pokémon",
+  "ja": "かめポケモン",
+  "zh-hans": "龟宝可梦",
+  "es-419": "Pokémon Tortuga"
+ },
+ "flavor": {
+  "en": "It cleverly controls its furry ears and tail to maintain its balance while swimming.",
+  "ko": "탐스러운 귀와 꼬리를 능숙하게 다뤄서 수중에서의 밸런스를 유지한다."
+ },
+ "varieties": [
+  {
+   "name": "wartortle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "3"
+}

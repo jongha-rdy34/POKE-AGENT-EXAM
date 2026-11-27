@@ -1,0 +1,23 @@
+{
+ "name": "drought",
+ "names": {
+  "ja-hrkt": "ひでり",
+  "ko": "가뭄",
+  "zh-hant": "日照",
+  "fr": "Sécheresse",
+  "de": "Dürre",
+  "es": "Sequía",
+  "it": "Siccità",
+  "en": "Drought",
+  "ja": "ひでり",
+  "zh-hans": "日照",
+  "es-419": "Sequía"
+ },
+ "effect": {
+  "en": "Summons strong sunlight that lasts indefinitely upon entering battle."
+ },
+ "flavor": {
+  "en": "Turns the sunlight harsh when the Pokémon enters a battle.",
+  "ko": "등장했을 때 날씨를 맑음으로 만든다."
+ }
+}

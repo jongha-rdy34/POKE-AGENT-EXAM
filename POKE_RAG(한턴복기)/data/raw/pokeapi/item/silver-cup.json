@@ -1,0 +1,20 @@
+{
+ "name": "silver-cup",
+ "names": {
+  "ja-hrkt": "シルバーチタンカップ",
+  "ko": "실버 티탄 컵",
+  "zh-hant": "銀鈦水杯",
+  "fr": "Tasse Titane (Argent)",
+  "de": "Silber-Titantasse",
+  "es": "Taza Plateada",
+  "it": "Tazza argento",
+  "en": "Silver Cup",
+  "ja": "シルバーチタンカップ",
+  "zh-hans": "银钛水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

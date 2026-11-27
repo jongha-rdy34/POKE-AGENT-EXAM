@@ -1,0 +1,42 @@
+{
+ "id": 180,
+ "name": "flaaffy",
+ "names": {
+  "ja-hrkt": "モココ",
+  "ja-roma": "Mokoko",
+  "ko": "보송송",
+  "zh-hant": "茸茸羊",
+  "fr": "Lainergie",
+  "de": "Waaty",
+  "es": "Flaaffy",
+  "it": "Flaaffy",
+  "en": "Flaaffy",
+  "ja": "モココ",
+  "zh-hans": "茸茸羊",
+  "es-419": "Flaaffy"
+ },
+ "genus": {
+  "ja-hrkt": "わたげポケモン",
+  "ko": "솜털포켓몬",
+  "zh-hant": "綿毛寶可夢",
+  "fr": "Pokémon Laine",
+  "de": "Wolle",
+  "es": "Pokémon Lana",
+  "it": "Pokémon Lana",
+  "en": "Wool Pokémon",
+  "ja": "わたげポケモン",
+  "zh-hans": "绵毛宝可梦",
+  "es-419": "Pokémon Lana"
+ },
+ "flavor": {
+  "en": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+  "ko": "푹신푹신한 털에 전기를 저장한다. 너무 많이 저장해서 여기저기 반질반질하게 털이 빠져 버렸다."
+ },
+ "varieties": [
+  {
+   "name": "flaaffy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "89"
+}

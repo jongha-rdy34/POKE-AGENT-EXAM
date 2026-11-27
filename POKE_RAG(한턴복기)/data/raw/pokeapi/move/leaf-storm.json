@@ -1,0 +1,31 @@
+{
+ "name": "leaf-storm",
+ "names": {
+  "ja-hrkt": "リーフストーム",
+  "ko": "리프스톰",
+  "zh-hant": "飛葉風暴",
+  "fr": "Tempête Verte",
+  "de": "Blättersturm",
+  "es": "Lluevehojas",
+  "it": "Verdebufera",
+  "en": "Leaf Storm",
+  "ja": "リーフストーム",
+  "zh-hans": "飞叶风暴",
+  "es-419": "Tormenta de Hojas"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 130,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the user’s Special Attack by two stages after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user whips up a storm of leaves around the target. The recoil from this move harshly lowers the user's Sp. Atk stat.",
+  "ko": "뾰족한 잎사귀로 상대에게 돌풍을 일으킨다. 사용하면 반동으로 자신의 특수공격이 크게 떨어진다."
+ }
+}

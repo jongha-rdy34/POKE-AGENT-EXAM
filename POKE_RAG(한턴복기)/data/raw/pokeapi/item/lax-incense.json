@@ -1,0 +1,31 @@
+{
+ "name": "lax-incense",
+ "names": {
+  "ja-hrkt": "のんきのおこう",
+  "ko": "무사태평향로",
+  "zh-hant": "悠閒薰香",
+  "fr": "Encens Doux",
+  "de": "Laxrauch",
+  "es": "Incienso Suave",
+  "it": "Distraroma",
+  "en": "Lax Incense",
+  "ja": "のんきのおこう",
+  "zh-hans": "悠闲薰香",
+  "es-419": "Incienso Suave"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: L'esquive du porteur est augmentée de 5%. Reproduction: Qulbutoké engendre un Œuf d'Okéoké.",
+  "en": "Held: Holder’s evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. The beguiling aroma of this incense may cause attacks to miss its holder.",
+  "ko": "지니게 하면 향로의 이상한 향기가 상대를 혼란시켜 기술이 명중하기 어려워진다.",
+  "ja": "持たせると 御香の 不思議な 香りが 相手を まどわせて 技が 命中 しにくくなる。"
+ }
+}

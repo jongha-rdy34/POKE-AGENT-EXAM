@@ -1,0 +1,20 @@
+{
+ "name": "stantler-hair",
+ "names": {
+  "ja-hrkt": "オドシシのけ",
+  "ko": "노라키의털",
+  "zh-hant": "驚角鹿的毛",
+  "fr": "Poils de Cerfrousse",
+  "de": "Damhirplex-Haar",
+  "es": "Pelo de Stantler",
+  "it": "Pelo di Stantler",
+  "en": "Stantler Hair",
+  "ja": "オドシシのけ",
+  "zh-hans": "惊角鹿的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

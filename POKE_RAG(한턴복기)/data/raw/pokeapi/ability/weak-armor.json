@@ -1,0 +1,23 @@
+{
+ "name": "weak-armor",
+ "names": {
+  "ja-hrkt": "くだけるよろい",
+  "ko": "깨어진갑옷",
+  "zh-hant": "碎裂鎧甲",
+  "fr": "Armurouillée",
+  "de": "Bruchrüstung",
+  "es": "Armadura Frágil",
+  "it": "Sottilguscio",
+  "en": "Weak Armor",
+  "ja": "くだけるよろい",
+  "zh-hans": "碎裂铠甲",
+  "es-419": "Armadura Frágil"
+ },
+ "effect": {
+  "en": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+ },
+ "flavor": {
+  "en": "The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.",
+  "ko": "물리 기술로 데미지를 받으면 방어가 떨어지고 스피드가 크게 올라간다."
+ }
+}

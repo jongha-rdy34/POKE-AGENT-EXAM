@@ -1,0 +1,34 @@
+{
+ "name": "lava-cookie",
+ "names": {
+  "ja-hrkt": "フエンせんべい",
+  "ko": "용암전병",
+  "zh-hant": "釜炎仙貝",
+  "fr": "Lava Cookie",
+  "de": "Lavakeks",
+  "es": "Galleta Lava",
+  "it": "Lavottino",
+  "en": "Lava Cookie",
+  "ja": "フエンせんべい",
+  "zh-hans": "釜炎仙贝",
+  "es-419": "Galleta Lava"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne n'importe quelle altération de statut et la confusion.",
+  "en": "Cures any status ailment and confusion."
+ },
+ "flavor": {
+  "en": "Lavaridge Town’s local specialty. It can be used once to heal all the status conditions of a Pokémon.",
+  "ko": "용암마을의 명물인 전병. 포켓몬 1마리의 상태 이상을 회복한다.",
+  "ja": "フエン名物の せんべい。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

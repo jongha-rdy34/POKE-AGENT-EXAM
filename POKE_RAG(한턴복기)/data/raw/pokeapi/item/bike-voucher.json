@@ -1,0 +1,22 @@
+{
+ "name": "bike-voucher",
+ "names": {
+  "ja-hrkt": "ひきかえけん",
+  "fr": "Bon Commande",
+  "de": "Rad-Coupon",
+  "es": "Bono Bici",
+  "it": "Buono Bici",
+  "en": "Bike Voucher",
+  "es-419": "Bono Bici"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger aux Cycles à Gogo à Azuria pour un Vélo.",
+  "en": "Trade in Cerulean bike shop for a Bicycle."
+ },
+ "flavor": {
+  "en": "Take this voucher to the BIKE SHOP in CERULEAN CITY and exchange it for a bicycle."
+ }
+}

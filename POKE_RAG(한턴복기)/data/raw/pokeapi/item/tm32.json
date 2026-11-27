@@ -1,0 +1,28 @@
+{
+ "name": "tm32",
+ "names": {
+  "ja-hrkt": "わざマシン３２",
+  "ko": "기술머신32",
+  "zh-hant": "招式學習器３２",
+  "fr": "CT32",
+  "de": "TM32",
+  "es": "MT32",
+  "it": "MT32",
+  "en": "TM32",
+  "ja": "わざマシン３２",
+  "zh-hans": "招式学习器３２",
+  "es-419": "MT32"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Reflet à un Pokémon compatible.",
+  "en": "Teaches Double Team to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "A five-turn sandstorm is summoned to hurt all combatants except Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",
+  "ko": "5턴 동안 모래바람을 일으켜 바위 땅, 강철타입 이외의 상대에게 데미지를 준다. 바위타입의 특수방어가 올라간다.",
+  "ja": "５ターンの 間 砂あらしで いわ じめん はがねタイプ 以外に ダメージ。 いわタイプの 特防が あがる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm25",
+ "names": {
+  "ja-hrkt": "わざマシン２５",
+  "ko": "기술머신25",
+  "zh-hant": "招式學習器２５",
+  "fr": "CT25",
+  "de": "TM25",
+  "es": "MT25",
+  "it": "MT25",
+  "en": "TM25",
+  "ja": "わざマシン２５",
+  "zh-hans": "招式学习器２５",
+  "es-419": "MT25"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Fatal-Foudre à un Pokémon compatible.",
+  "en": "Teaches Thunder to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
+  "ko": "상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다.",
+  "ja": "相手の 攻撃を まったく 受けない。 連続で だすと 失敗しやすい。"
+ }
+}

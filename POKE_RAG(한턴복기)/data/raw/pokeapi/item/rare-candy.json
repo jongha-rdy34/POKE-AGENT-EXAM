@@ -1,0 +1,34 @@
+{
+ "name": "rare-candy",
+ "names": {
+  "ja-hrkt": "ふしぎなアメ",
+  "ko": "이상한사탕",
+  "zh-hant": "神奇糖果",
+  "fr": "Super Bonbon",
+  "de": "Sonderbonbon",
+  "es": "Caramelo Raro",
+  "it": "Caramella rara",
+  "en": "Rare Candy",
+  "ja": "ふしぎなアメ",
+  "zh-hans": "神奇糖果",
+  "es-419": "Caramelo Raro"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Provoque une montée de niveau et augmente le bonheur.",
+  "en": "Causes a level-up and raises happiness."
+ },
+ "flavor": {
+  "en": "A candy that is packed with energy. When consumed, it will instantly raise the level of a single Pokémon by one.",
+  "ko": "에너지가 가득한 사탕. 먹이면 포켓몬 1마리의 레벨이 1만큼 올라간다.",
+  "ja": "エネルギーの つまった アメ。 あたえると ポケモン １匹の レベルが １だけ あがる。"
+ }
+}

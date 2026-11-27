@@ -1,0 +1,42 @@
+{
+ "id": 60,
+ "name": "poliwag",
+ "names": {
+  "ja-hrkt": "ニョロモ",
+  "ja-roma": "Nyoromo",
+  "ko": "발챙이",
+  "zh-hant": "蚊香蝌蚪",
+  "fr": "Ptitard",
+  "de": "Quapsel",
+  "es": "Poliwag",
+  "it": "Poliwag",
+  "en": "Poliwag",
+  "ja": "ニョロモ",
+  "zh-hans": "蚊香蝌蚪",
+  "es-419": "Poliwag"
+ },
+ "genus": {
+  "ja-hrkt": "おたまポケモン",
+  "ko": "올챙이포켓몬",
+  "zh-hant": "蝌蚪寶可夢",
+  "fr": "Pokémon Têtard",
+  "de": "Kaulquappen-Pokémon",
+  "es": "Pokémon Renacuajo",
+  "it": "Pokémon Girino",
+  "en": "Tadpole Pokémon",
+  "ja": "おたまポケモン",
+  "zh-hans": "蝌蚪宝可梦",
+  "es-419": "Pokémon Renacuajo"
+ },
+ "flavor": {
+  "en": "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup.",
+  "ko": "유속이 빠른 강에서는 두꺼운 입술을 흡반처럼 사용해 바위에 달라붙는다."
+ },
+ "varieties": [
+  {
+   "name": "poliwag",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "26"
+}

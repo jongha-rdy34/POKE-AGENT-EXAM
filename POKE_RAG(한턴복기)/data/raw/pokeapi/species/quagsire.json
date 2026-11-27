@@ -1,0 +1,42 @@
+{
+ "id": 195,
+ "name": "quagsire",
+ "names": {
+  "ja-hrkt": "ヌオー",
+  "ja-roma": "Nuoh",
+  "ko": "누오",
+  "zh-hant": "沼王",
+  "fr": "Maraiste",
+  "de": "Morlord",
+  "es": "Quagsire",
+  "it": "Quagsire",
+  "en": "Quagsire",
+  "ja": "ヌオー",
+  "zh-hans": "沼王",
+  "es-419": "Quagsire"
+ },
+ "genus": {
+  "ja-hrkt": "みずうおポケモン",
+  "ko": "수어포켓몬",
+  "zh-hant": "水魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Fisch-Pokémon",
+  "es": "Pokémon Pez Agua",
+  "it": "Pokémon Acquapesce",
+  "en": "Water Fish Pokémon",
+  "ja": "みずうおポケモン",
+  "zh-hans": "水鱼宝可梦",
+  "es-419": "Pokémon Pez Agua"
+ },
+ "flavor": {
+  "en": "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care.",
+  "ko": "몸은 항상 미끄럽다. 헤엄칠 때마다 강바닥에 머리를 부딪치지만 신경 쓰지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "quagsire",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "96"
+}

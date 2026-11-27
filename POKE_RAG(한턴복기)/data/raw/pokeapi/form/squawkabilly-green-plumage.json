@@ -1,0 +1,15 @@
+{
+ "name": "squawkabilly-green-plumage",
+ "form_name": "green-plumage",
+ "names": {
+  "fr": "Tapatoès Plumage Vert",
+  "en": "Green Plumage Squawkabilly"
+ },
+ "form_names": {
+  "ja-hrkt": "グリーンフェザー",
+  "fr": "Plumage Vert",
+  "en": "Green Plumage",
+  "ja": "グリーンフェザー"
+ },
+ "is_mega": false
+}

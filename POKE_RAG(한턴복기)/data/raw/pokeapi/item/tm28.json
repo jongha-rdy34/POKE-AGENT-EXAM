@@ -1,0 +1,28 @@
+{
+ "name": "tm28",
+ "names": {
+  "ja-hrkt": "わざマシン２８",
+  "ko": "기술머신28",
+  "zh-hant": "招式學習器２８",
+  "fr": "CT28",
+  "de": "TM28",
+  "es": "MT28",
+  "it": "MT28",
+  "en": "TM28",
+  "ja": "わざマシン２８",
+  "zh-hans": "招式学习器２８",
+  "es-419": "MT28"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Tunnel à un Pokémon compatible.",
+  "en": "Teaches Dig to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.",
+  "ko": "양분을 흡수하여 공격한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다.",
+  "ja": "養分を 吸い取り 攻撃する。 与えた ダメージの 半分の ＨＰを 回復できる。"
+ }
+}

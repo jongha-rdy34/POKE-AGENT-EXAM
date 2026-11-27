@@ -1,0 +1,20 @@
+{
+ "name": "noibat-fur",
+ "names": {
+  "ja-hrkt": "オンバットのけ",
+  "ko": "음뱃의털",
+  "zh-hant": "嗡蝠的毛",
+  "fr": "Poils de Sonistrelle",
+  "de": "eF-eM-Haar",
+  "es": "Pelo de Noibat",
+  "it": "Pelo di Noibat",
+  "en": "Noibat Fur",
+  "ja": "オンバットのけ",
+  "zh-hans": "嗡蝠的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

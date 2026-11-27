@@ -1,0 +1,42 @@
+{
+ "id": 239,
+ "name": "elekid",
+ "names": {
+  "ja-hrkt": "エレキッド",
+  "ja-roma": "Elekid",
+  "ko": "에레키드",
+  "zh-hant": "電擊怪",
+  "fr": "Élekid",
+  "de": "Elekid",
+  "es": "Elekid",
+  "it": "Elekid",
+  "en": "Elekid",
+  "ja": "エレキッド",
+  "zh-hans": "电击怪",
+  "es-419": "Elekid"
+ },
+ "genus": {
+  "ja-hrkt": "でんきポケモン",
+  "ko": "전류포켓몬",
+  "zh-hant": "電氣寶可夢",
+  "fr": "Pokémon Électrique",
+  "de": "Elektro-Pokémon",
+  "es": "Pokémon Eléctrico",
+  "it": "Pokémon Elettrico",
+  "en": "Electric Pokémon",
+  "ja": "でんきポケモン",
+  "zh-hans": "电气宝可梦",
+  "es-419": "Pokémon Eléctrico"
+ },
+ "flavor": {
+  "en": "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid.",
+  "ko": "아직 전기를 모으는 게 서툴다. 전기를 먹기 위해 민가에 숨어들어 콘센트를 찾는다."
+ },
+ "varieties": [
+  {
+   "name": "elekid",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "60"
+}

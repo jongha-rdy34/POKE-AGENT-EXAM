@@ -1,0 +1,20 @@
+{
+ "name": "dunsparce-scales",
+ "names": {
+  "ja-hrkt": "ノコッチのウロコ",
+  "ko": "노고치의비늘",
+  "zh-hant": "土龍弟弟的鱗片",
+  "fr": "Écaille d'Insolourdo",
+  "de": "Dummisel-Schuppe",
+  "es": "Escama de Dunsparce",
+  "it": "Squama di Dunsparce",
+  "en": "Dunsparce Scales",
+  "ja": "ノコッチのウロコ",
+  "zh-hans": "土龙弟弟的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

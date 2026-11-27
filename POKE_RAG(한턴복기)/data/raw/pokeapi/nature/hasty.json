@@ -1,0 +1,18 @@
+{
+ "name": "hasty",
+ "names": {
+  "ja-hrkt": "せっかち",
+  "ko": "성급",
+  "zh-hant": "急躁",
+  "fr": "Pressé",
+  "de": "Hastig",
+  "es": "Activa",
+  "it": "Lesta",
+  "en": "Hasty",
+  "ja": "せっかち",
+  "zh-hans": "急躁",
+  "es-419": "Activa"
+ },
+ "plus": "speed",
+ "minus": "defense"
+}

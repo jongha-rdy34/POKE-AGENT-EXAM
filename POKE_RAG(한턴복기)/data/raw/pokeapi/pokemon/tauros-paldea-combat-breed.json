@@ -1,0 +1,83 @@
+{
+ "id": 10250,
+ "name": "tauros-paldea-combat-breed",
+ "species": "tauros",
+ "is_default": false,
+ "types": [
+  "fighting"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 110,
+  "defense": 105,
+  "special-attack": 30,
+  "special-defense": 70,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "anger-point",
+   "hidden": false
+  },
+  {
+   "name": "cud-chew",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 1150,
+ "champions_moves": [
+  "assurance",
+  "body-press",
+  "body-slam",
+  "bulk-up",
+  "bulldoze",
+  "close-combat",
+  "curse",
+  "dig",
+  "double-edge",
+  "drill-run",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "giga-impact",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-head",
+  "iron-tail",
+  "lash-out",
+  "megahorn",
+  "outrage",
+  "protect",
+  "raging-bull",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "smart-strike",
+  "snore",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "surf",
+  "swagger",
+  "thief",
+  "thrash",
+  "throat-chop",
+  "trailblaze",
+  "uproar",
+  "wild-charge",
+  "zen-headbutt"
+ ]
+}

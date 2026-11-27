@@ -1,0 +1,83 @@
+{
+ "id": 516,
+ "name": "simipour",
+ "species": "simipour",
+ "is_default": true,
+ "types": [
+  "water"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 98,
+  "defense": 63,
+  "special-attack": 98,
+  "special-defense": 63,
+  "speed": 101
+ },
+ "abilities": [
+  {
+   "name": "gluttony",
+   "hidden": false
+  },
+  {
+   "name": "torrent",
+   "hidden": true
+  }
+ ],
+ "height": 10,
+ "weight": 290,
+ "champions_moves": [
+  "acrobatics",
+  "aqua-ring",
+  "attract",
+  "belch",
+  "bite",
+  "blizzard",
+  "brick-break",
+  "chilling-water",
+  "crunch",
+  "dig",
+  "dive",
+  "endure",
+  "facade",
+  "fake-out",
+  "fling",
+  "flip-turn",
+  "focus-blast",
+  "giga-impact",
+  "grass-knot",
+  "gunk-shot",
+  "helping-hand",
+  "hydro-pump",
+  "hyper-beam",
+  "ice-beam",
+  "ice-punch",
+  "icy-wind",
+  "iron-tail",
+  "liquidation",
+  "low-kick",
+  "low-sweep",
+  "nasty-plot",
+  "payback",
+  "protect",
+  "rain-dance",
+  "recycle",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "scald",
+  "shadow-claw",
+  "sleep-talk",
+  "snore",
+  "stuff-cheeks",
+  "substitute",
+  "superpower",
+  "surf",
+  "taunt",
+  "thief",
+  "throat-chop",
+  "uproar",
+  "waterfall"
+ ]
+}

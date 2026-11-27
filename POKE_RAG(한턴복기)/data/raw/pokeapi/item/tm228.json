@@ -1,0 +1,19 @@
+{
+ "name": "tm228",
+ "names": {
+  "ko": "기술머신228",
+  "zh-hant": "招式學習器２２８",
+  "fr": "CT228",
+  "de": "TM228",
+  "es": "MT228",
+  "it": "MT228",
+  "en": "TM228",
+  "ja": "わざマシン２２８",
+  "zh-hans": "招式学习器２２８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

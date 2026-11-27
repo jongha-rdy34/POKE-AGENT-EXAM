@@ -1,0 +1,28 @@
+{
+ "name": "pearl",
+ "names": {
+  "ja-hrkt": "しんじゅ",
+  "ko": "진주",
+  "zh-hant": "珍珠",
+  "fr": "Perle",
+  "de": "Perle",
+  "es": "Perla",
+  "it": "Perla",
+  "en": "Pearl",
+  "ja": "しんじゅ",
+  "zh-hans": "珍珠",
+  "es-419": "Perla"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre pour 700 Pokédollars, ou au collectionneur d'objets pour 1400 Pokédollars.",
+  "en": "Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars."
+ },
+ "flavor": {
+  "en": "A rather small pearl that has a very nice silvery sheen to it. It can be sold at a low price to shops.",
+  "ko": "예쁜 은색으로 빛나는 자그마한 진주. 상점에서 싸게 팔린다.",
+  "ja": "きれいな 銀色に 光る 少し ちいさめの 真珠。 ショップで 安く 売れる。"
+ }
+}

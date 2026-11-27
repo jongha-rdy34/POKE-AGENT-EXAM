@@ -1,0 +1,28 @@
+{
+ "name": "wailmer-pail",
+ "names": {
+  "ja-hrkt": "ホエルコじょうろ",
+  "ko": "고래왕자물뿌리개",
+  "zh-hant": "吼吼鯨噴壺",
+  "fr": "Wailmerrosoir",
+  "de": "Wailmerkanne",
+  "es": "Wailmegadera",
+  "it": "Vaso Wailmer",
+  "en": "Wailmer Pail",
+  "ja": "ホエルコじょうろ",
+  "zh-hans": "吼吼鲸喷壶",
+  "es-419": "Wailmegadera"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour arroser les baies.",
+  "en": "Used to water berries."
+ },
+ "flavor": {
+  "en": "This is a tool for watering Berries you planted to make them grow more quickly.",
+  "ko": "물을 주는 도구. 땅에 심은 나무열매를 쑥쑥 키운다.",
+  "ja": "みずを かける 道具。 土に うめた きのみを すくすく 育てる。"
+ }
+}

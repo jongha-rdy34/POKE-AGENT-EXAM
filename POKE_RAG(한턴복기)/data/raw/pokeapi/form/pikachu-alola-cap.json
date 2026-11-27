@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-alola-cap",
+ "form_name": "alola-cap",
+ "names": {
+  "fr": "Pikachu Casquette d’Alola",
+  "de": "Pikachu (Alola-Kappe)",
+  "en": "Alola Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "アローラキャップ",
+  "ko": "알로라캡",
+  "zh-hant": "阿羅拉帽子",
+  "fr": "Casquette d’Alola",
+  "de": "Alola-Kappe",
+  "es": "Gorra Alola",
+  "it": "Berretto Alola",
+  "en": "Alola Cap",
+  "ja": "アローラキャップ",
+  "zh-hans": "阿罗拉帽子",
+  "es-419": "Gorra Alola"
+ },
+ "is_mega": false
+}

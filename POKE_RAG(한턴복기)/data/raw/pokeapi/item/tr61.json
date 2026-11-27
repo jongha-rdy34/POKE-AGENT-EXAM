@@ -1,0 +1,25 @@
+{
+ "name": "tr61",
+ "names": {
+  "ja-hrkt": "わざレコード６１",
+  "ko": "기술레코드61",
+  "zh-hant": "招式紀錄６１",
+  "fr": "DT61",
+  "de": "TP61",
+  "es": "DT61",
+  "it": "DT61",
+  "en": "TR61",
+  "ja": "わざレコード６１",
+  "zh-hans": "招式记录６１",
+  "es-419": "DT61"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "진동으로 음파를 일으켜서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user generates a damaging sound wave by vibration. This may also lower the target’s Sp. Def stat.",
+  "ja": "振動で 音波を おこして 攻撃する。相手の 特防を さげることが ある。"
+ }
+}

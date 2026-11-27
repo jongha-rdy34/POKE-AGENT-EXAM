@@ -1,0 +1,28 @@
+{
+ "name": "loot-sack",
+ "names": {
+  "ja-hrkt": "たからぶくろ",
+  "ko": "보물주머니",
+  "zh-hant": "寶物袋",
+  "fr": "Sac Butin",
+  "de": "Beutesack",
+  "es": "Saca Botín",
+  "it": "Bottinosacca",
+  "en": "Loot Sack",
+  "ja": "たからぶくろ",
+  "zh-hans": "宝物袋",
+  "es-419": "Saca Botín"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les objets obtenus dans le Souterrain de Sinnoh.",
+  "en": "Carries coal mine loot."
+ },
+ "flavor": {
+  "en": "A sturdy, spacious bag that is used to carry any treasures or loot obtained in the coal mine.",
+  "ko": "탄갱에서 손에 넣은 보물을 보관해둘 수 있는 크고 튼튼한 주머니다.",
+  "ja": "炭鉱で てにいれた 宝物を しまっておける おおきくて 丈夫な ふくろ。"
+ }
+}

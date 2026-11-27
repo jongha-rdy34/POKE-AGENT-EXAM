@@ -1,0 +1,25 @@
+{
+ "name": "tr63",
+ "names": {
+  "ja-hrkt": "わざレコード６３",
+  "ko": "기술레코드63",
+  "zh-hant": "招式紀錄６３",
+  "fr": "DT63",
+  "de": "TP63",
+  "es": "DT63",
+  "it": "DT63",
+  "en": "TR63",
+  "ja": "わざレコード６３",
+  "zh-hans": "招式记录６３",
+  "es-419": "DT63"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "보석처럼 반짝이는 빛을 발사하여 상대를 공격한다.",
+  "en": "The user attacks with a ray of light that sparkles as if it were made of gemstones.",
+  "ja": "宝石のように きらめく 光を 発射して 相手を 攻撃する。"
+ }
+}

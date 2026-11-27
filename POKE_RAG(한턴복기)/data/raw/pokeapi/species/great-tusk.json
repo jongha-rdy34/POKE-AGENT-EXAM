@@ -1,0 +1,37 @@
+{
+ "id": 984,
+ "name": "great-tusk",
+ "names": {
+  "ja-hrkt": "イダイナキバ",
+  "ja-roma": "Idainakiba",
+  "ko": "위대한엄니",
+  "zh-hant": "雄偉牙",
+  "fr": "Fort-Ivoire",
+  "de": "Riesenzahn",
+  "es": "Colmilargo",
+  "it": "Grandizanne",
+  "en": "Great Tusk",
+  "ja": "イダイナキバ",
+  "zh-hans": "雄伟牙",
+  "es-419": "Colmilargo"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "This creature resembles a mysterious Pokémon that, according to a paranormal magazine, has lived since ancient times."
+ },
+ "varieties": [
+  {
+   "name": "great-tusk",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "515"
+}

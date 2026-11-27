@@ -1,0 +1,31 @@
+{
+ "name": "swords-dance",
+ "names": {
+  "ja-hrkt": "つるぎのまい",
+  "ko": "칼춤",
+  "zh-hant": "劍舞",
+  "fr": "Danse Lames",
+  "de": "Schwerttanz",
+  "es": "Danza Espada",
+  "it": "Danzaspada",
+  "en": "Swords Dance",
+  "ja": "つるぎのまい",
+  "zh-hans": "剑舞",
+  "es-419": "Danza de Espadas"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Attack by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A frenetic dance to uplift the fighting spirit. This sharply boosts the user's Attack stat.",
+  "ko": "싸움의 춤을 격렬하게 춰서 기세를 높인다. 자신의 공격을 크게 올린다."
+ }
+}

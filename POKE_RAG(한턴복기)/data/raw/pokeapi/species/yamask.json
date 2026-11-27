@@ -1,0 +1,46 @@
+{
+ "id": 562,
+ "name": "yamask",
+ "names": {
+  "ja-hrkt": "デスマス",
+  "ja-roma": "Desumasu",
+  "ko": "데스마스",
+  "zh-hant": "哭哭面具",
+  "fr": "Tutafeh",
+  "de": "Makabaja",
+  "es": "Yamask",
+  "it": "Yamask",
+  "en": "Yamask",
+  "ja": "デスマス",
+  "zh-hans": "哭哭面具",
+  "es-419": "Yamask"
+ },
+ "genus": {
+  "ja-hrkt": "たましいポケモン",
+  "ko": "영혼포켓몬",
+  "zh-hant": "魂寶可夢",
+  "fr": "Pokémon Âme",
+  "de": "Seelen-Pokémon",
+  "es": "Pokémon Espíritu",
+  "it": "Pokémon Fatuanima",
+  "en": "Spirit Pokémon",
+  "ja": "たましいポケモン",
+  "zh-hans": "魂宝可梦",
+  "es-419": "Pokémon Espíritu"
+ },
+ "flavor": {
+  "en": "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.",
+  "ko": "고대인의 영혼이 포켓몬이 되어 태어났다. 자신의 얼굴을 아는 사람을 찾아 유적을 떠돈다."
+ },
+ "varieties": [
+  {
+   "name": "yamask",
+   "is_default": true
+  },
+  {
+   "name": "yamask-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "287"
+}

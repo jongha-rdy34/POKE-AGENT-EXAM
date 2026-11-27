@@ -1,0 +1,28 @@
+{
+ "name": "roto-exp-points",
+ "names": {
+  "ja-hrkt": "けいけんポン",
+  "ko": "경험캡슐토이",
+  "zh-hant": "經驗碰碰",
+  "fr": "Moti-Exp",
+  "de": "EP-Bon",
+  "es": "Cupón Exp",
+  "it": "Esp’n’roll",
+  "en": "Roto Exp. Points",
+  "ja": "けいけんポン",
+  "zh-hans": "经验碰碰",
+  "es-419": "Cupón Exp"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-exp-points",
+  "en": "XXX new effect for roto-exp-points"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 승부 후에 얻는 경험치가 조금 늘어난다.",
+  "en": "One of the Rotom Powers. It increases the Exp. Points your Pokémon receive after battle a little.",
+  "ja": "ロトムパワーの ひとつ。 勝負の あとに もらえる 経験値が 少し 増える。"
+ }
+}

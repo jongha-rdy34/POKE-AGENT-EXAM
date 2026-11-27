@@ -1,0 +1,15 @@
+{
+ "name": "tauros-paldea-aqua-breed",
+ "form_name": "paldea-aqua-breed",
+ "names": {
+  "fr": "Tauros de Paldéa Race Aquatique",
+  "en": "Paldean Tauros (Aqua Breed)"
+ },
+ "form_names": {
+  "ja-hrkt": "パルデアのすがた",
+  "fr": "Forme de Paldéa",
+  "en": "Paldean Form (Aqua Breed)",
+  "ja": "パルデアのすがた"
+ },
+ "is_mega": false
+}

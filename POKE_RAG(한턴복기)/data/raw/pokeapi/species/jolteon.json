@@ -1,0 +1,42 @@
+{
+ "id": 135,
+ "name": "jolteon",
+ "names": {
+  "ja-hrkt": "サンダース",
+  "ja-roma": "Thunders",
+  "ko": "쥬피썬더",
+  "zh-hant": "雷伊布",
+  "fr": "Voltali",
+  "de": "Blitza",
+  "es": "Jolteon",
+  "it": "Jolteon",
+  "en": "Jolteon",
+  "ja": "サンダース",
+  "zh-hans": "雷伊布",
+  "es-419": "Jolteon"
+ },
+ "genus": {
+  "ja-hrkt": "かみなりポケモン",
+  "ko": "번개포켓몬",
+  "zh-hant": "雷寶可夢",
+  "fr": "Pokémon Orage",
+  "de": "Blitz-Pokémon",
+  "es": "Pokémon Relámpago",
+  "it": "Pokémon Luminoso",
+  "en": "Lightning Pokémon",
+  "ja": "かみなりポケモン",
+  "zh-hans": "雷宝可梦",
+  "es-419": "Pokémon Relámpago"
+ },
+ "flavor": {
+  "en": "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales.",
+  "ko": "공기 중의 마이너스 이온을 빨아들여 약 10000볼트의 전기를 내뱉을 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "jolteon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

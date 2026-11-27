@@ -1,0 +1,20 @@
+{
+ "name": "scolipite",
+ "names": {
+  "ko": "펜드라나이트",
+  "zh-hant": "蜈蚣王進化石",
+  "fr": "Brutapodite",
+  "de": "Cerapendranit",
+  "es": "Scolipedita",
+  "it": "Scolipedite",
+  "en": "Scolipite",
+  "ja": "ペンドラナイト",
+  "zh-hans": "蜈蚣王进化石",
+  "es-419": "Scolipedita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

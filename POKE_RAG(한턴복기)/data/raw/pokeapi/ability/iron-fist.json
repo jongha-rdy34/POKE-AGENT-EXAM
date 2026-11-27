@@ -1,0 +1,23 @@
+{
+ "name": "iron-fist",
+ "names": {
+  "ja-hrkt": "てつのこぶし",
+  "ko": "철주먹",
+  "zh-hant": "鐵拳",
+  "fr": "Poing de Fer",
+  "de": "Eisenfaust",
+  "es": "Puño Férreo",
+  "it": "Ferropugno",
+  "en": "Iron Fist",
+  "ja": "てつのこぶし",
+  "zh-hans": "铁拳",
+  "es-419": "Puño Férreo"
+ },
+ "effect": {
+  "en": "Strengthens punch-based moves to 1.2× their power."
+ },
+ "flavor": {
+  "en": "Powers up punching moves.",
+  "ko": "펀치를 사용하는 기술의 위력이 올라간다."
+ }
+}

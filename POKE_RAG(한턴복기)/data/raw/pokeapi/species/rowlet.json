@@ -1,0 +1,42 @@
+{
+ "id": 722,
+ "name": "rowlet",
+ "names": {
+  "ja-hrkt": "モクロー",
+  "ja-roma": "Mokuroh",
+  "ko": "나몰빼미",
+  "zh-hant": "木木梟",
+  "fr": "Brindibou",
+  "de": "Bauz",
+  "es": "Rowlet",
+  "it": "Rowlet",
+  "en": "Rowlet",
+  "ja": "モクロー",
+  "zh-hans": "木木枭",
+  "es-419": "Rowlet"
+ },
+ "genus": {
+  "ja-hrkt": "くさばねポケモン",
+  "ko": "풀깃포켓몬",
+  "zh-hant": "草羽寶可夢",
+  "fr": "Pokémon Plumefeuille",
+  "de": "Laubflügel-Pokémon",
+  "es": "Pokémon Pluma Hoja",
+  "it": "Pokémon Aliderba",
+  "en": "Grass Quill Pokémon",
+  "ja": "くさばねポケモン",
+  "zh-hans": "草羽宝可梦",
+  "es-419": "Pokémon Pluma Hoja"
+ },
+ "flavor": {
+  "ko": "낮 동안에는 광합성으로 힘을 비축하고 밤이 되면 소리 없이 날며 먹이를 찾는다.",
+  "en": "Flies noiselessly on delicate wings. It has mastered the art of deftly launching dagger-sharp feathers from those same wings."
+ },
+ "varieties": [
+  {
+   "name": "rowlet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "374"
+}

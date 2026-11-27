@@ -1,0 +1,23 @@
+{
+ "name": "flower-veil",
+ "names": {
+  "ja-hrkt": "フラワーベール",
+  "ko": "플라워베일",
+  "zh-hant": "花幕",
+  "fr": "Flora-Voile",
+  "de": "Blütenhülle",
+  "es": "Velo Flor",
+  "it": "Fiorvelo",
+  "en": "Flower Veil",
+  "ja": "フラワーベール",
+  "zh-hans": "花幕",
+  "es-419": "Velo Florido"
+ },
+ "effect": {
+  "en": "Protects friendly Grass Pokémon from having their stats lowered by other Pokémon."
+ },
+ "flavor": {
+  "ko": "같은 편의 풀타입 포켓몬은 능력이 떨어지지 않고 상태 이상도 되지 않는다.",
+  "en": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."
+ }
+}

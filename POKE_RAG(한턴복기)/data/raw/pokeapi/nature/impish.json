@@ -1,0 +1,18 @@
+{
+ "name": "impish",
+ "names": {
+  "ja-hrkt": "わんぱく",
+  "ko": "장난꾸러기",
+  "zh-hant": "淘氣",
+  "fr": "Malin",
+  "de": "Pfiffig",
+  "es": "Agitada",
+  "it": "Scaltra",
+  "en": "Impish",
+  "ja": "わんぱく",
+  "zh-hans": "淘气",
+  "es-419": "Agitada"
+ },
+ "plus": "defense",
+ "minus": "special-attack"
+}

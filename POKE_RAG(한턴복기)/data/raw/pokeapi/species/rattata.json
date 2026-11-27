@@ -1,0 +1,46 @@
+{
+ "id": 19,
+ "name": "rattata",
+ "names": {
+  "ja-hrkt": "コラッタ",
+  "ja-roma": "Koratta",
+  "ko": "꼬렛",
+  "zh-hant": "小拉達",
+  "fr": "Rattata",
+  "de": "Rattfratz",
+  "es": "Rattata",
+  "it": "Rattata",
+  "en": "Rattata",
+  "ja": "コラッタ",
+  "zh-hans": "小拉达",
+  "es-419": "Rattata"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Pokémon Souris",
+  "de": "Maus",
+  "es": "Pokémon Ratón",
+  "it": "Pokémon Topo",
+  "en": "Mouse Pokémon",
+  "ja": "ねずみポケモン",
+  "zh-hans": "鼠宝可梦",
+  "es-419": "Pokémon Ratón"
+ },
+ "flavor": {
+  "en": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+  "ko": "2개의 이빨로 뭐든지 일단 갉고 본다. 1마리를 발견했다면 그곳에 40마리는 살고 있을 것이다."
+ },
+ "varieties": [
+  {
+   "name": "rattata",
+   "is_default": true
+  },
+  {
+   "name": "rattata-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "7"
+}

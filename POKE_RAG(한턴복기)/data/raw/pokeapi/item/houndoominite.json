@@ -1,0 +1,28 @@
+{
+ "name": "houndoominite",
+ "names": {
+  "ja-hrkt": "ヘルガナイト",
+  "ko": "헬가나이트",
+  "zh-hant": "黑魯加進化石",
+  "fr": "Démolossite",
+  "de": "Hundemonit",
+  "es": "Houndoomita",
+  "it": "Houndoomite",
+  "en": "Houndoominite",
+  "ja": "ヘルガナイト",
+  "zh-hans": "黑鲁加进化石",
+  "es-419": "Houndoomita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Démolosse de Méga-Évoluer en Méga-Démolosse.",
+  "en": "Held: Allows Houndoom to Mega Evolve into Mega Houndoom."
+ },
+ "flavor": {
+  "ko": "헬가에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Houndoom hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ヘルガーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

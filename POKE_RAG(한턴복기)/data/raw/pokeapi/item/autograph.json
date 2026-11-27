@@ -1,0 +1,25 @@
+{
+ "name": "autograph",
+ "names": {
+  "ja-hrkt": "マチスのサイン",
+  "ko": "마티스의사인",
+  "zh-hant": "馬志士的簽名",
+  "fr": "Dédicace de Bob",
+  "de": "Autogramm",
+  "es": "Autógrafo",
+  "it": "Autografo",
+  "en": "Autograph",
+  "ja": "マチスのサイン",
+  "zh-hans": "马志士的签名",
+  "es-419": "Autógrafo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "갈색체육관 관장 마티스에게 받은 사인이 적힌 종이. Good Luck!이라고 써 있다.",
+  "en": "The autograph you got from the Vermilion City Gym Leader, Lt. Surge. He wrote, “Good luck!”",
+  "ja": "クチバ ジムリーダー マチスから もらった サイン色紙。 Ｇｏｏｄ Ｌｕｃｋ！と 書かれている。"
+ }
+}

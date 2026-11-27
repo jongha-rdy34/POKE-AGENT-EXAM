@@ -1,0 +1,28 @@
+{
+ "name": "greet-mail",
+ "names": {
+  "ja-hrkt": "はじめてメール",
+  "ko": "첫메일",
+  "zh-hant": "初次郵件",
+  "fr": "Lettre Salut",
+  "de": "Grußbrief",
+  "es": "Carta Inicial",
+  "it": "Messaggio Inizio",
+  "en": "Greet Mail",
+  "ja": "はじめてメール",
+  "zh-hans": "初次邮件",
+  "es-419": "Carta Inicial"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery designed to be easy to use when writing someone for the first time. Have a Pokémon hold it for delivery.",
+  "ko": "첫인사를 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다.",
+  "ja": "はじめましての あいさつが 書きやすい レターペーパー。 ポケモンに 持たせて 使う。"
+ }
+}

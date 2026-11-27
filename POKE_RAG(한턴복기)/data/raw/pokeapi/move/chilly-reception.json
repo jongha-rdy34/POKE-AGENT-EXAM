@@ -1,0 +1,28 @@
+{
+ "name": "chilly-reception",
+ "names": {
+  "ja-hrkt": "さむいギャグ",
+  "ko": "썰렁개그",
+  "zh-hant": "冷笑話",
+  "fr": "Neigeux de Mots",
+  "de": "Eisige Stimmung",
+  "es": "Fría Acogida",
+  "it": "Freddura",
+  "en": "Chilly Reception",
+  "ja": "さむいギャグ",
+  "zh-hans": "冷笑话",
+  "es-419": "Respuesta Fría"
+ },
+ "type": "ice",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tells a chillingly bad joke before switching places with a party Pokémon in waiting. This summons a snowstorm lasting five turns."
+ }
+}

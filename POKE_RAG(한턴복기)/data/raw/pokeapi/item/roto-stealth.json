@@ -1,0 +1,28 @@
+{
+ "name": "roto-stealth",
+ "names": {
+  "ja-hrkt": "かくれポン",
+  "ko": "숨기캡슐토이",
+  "zh-hant": "隱身碰碰",
+  "fr": "Moti-Camouflage",
+  "de": "Schutzbon",
+  "es": "Cupón Sigilo",
+  "it": "Repelle’n’roll",
+  "en": "Roto Stealth",
+  "ja": "かくれポン",
+  "zh-hans": "隐身碰碰",
+  "es-419": "Cupón Sigilo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-stealth",
+  "en": "XXX new effect for roto-stealth"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 일정 시간 야생 포켓몬과 전혀 만나지 않게 된다.",
+  "en": "One of the Rotom Powers. It prevents you from encountering wild Pokémon for a certain period of time.",
+  "ja": "ロトムパワーの ひとつ。 一定時間 野生ポケモンと ぜんぜん 出会わなくなる。"
+ }
+}

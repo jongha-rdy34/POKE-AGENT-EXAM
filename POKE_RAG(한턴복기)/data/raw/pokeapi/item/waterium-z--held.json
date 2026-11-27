@@ -1,0 +1,28 @@
+{
+ "name": "waterium-z--held",
+ "names": {
+  "ja-hrkt": "ミズＺ",
+  "ko": "물Z",
+  "zh-hant": "水Ｚ",
+  "fr": "Aquazélite",
+  "de": "Aquium Z",
+  "es": "Hidrostal Z",
+  "it": "Idrium Z",
+  "en": "Waterium Z",
+  "ja": "ミズＺ",
+  "zh-hans": "水Ｚ",
+  "es-419": "Hidrostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Eau.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Water moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 물타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Water-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 みずタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

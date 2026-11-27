@@ -1,0 +1,42 @@
+{
+ "id": 520,
+ "name": "tranquill",
+ "names": {
+  "ja-hrkt": "ハトーボー",
+  "ja-roma": "Hatoboh",
+  "ko": "유토브",
+  "zh-hant": "咕咕鴿",
+  "fr": "Colombeau",
+  "de": "Navitaub",
+  "es": "Tranquill",
+  "it": "Tranquill",
+  "en": "Tranquill",
+  "ja": "ハトーボー",
+  "zh-hans": "咕咕鸽",
+  "es-419": "Tranquill"
+ },
+ "genus": {
+  "ja-hrkt": "のばとポケモン",
+  "ko": "들비둘기포켓몬",
+  "zh-hant": "野鴿寶可夢",
+  "fr": "Pokémon Sauvapigeon",
+  "de": "Wildtauben-Pokémon",
+  "es": "Pokémon Torcaz",
+  "it": "Pokémon Granpiccione",
+  "en": "Wild Pigeon Pokémon",
+  "ja": "のばとポケモン",
+  "zh-hans": "野鸽宝可梦",
+  "es-419": "Pokémon Torcaz"
+ },
+ "flavor": {
+  "en": "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners.",
+  "ko": "영리하고 기억력이 좋다. 배달원이 파트너로 선택하는 경우가 많다."
+ },
+ "varieties": [
+  {
+   "name": "tranquill",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "266"
+}

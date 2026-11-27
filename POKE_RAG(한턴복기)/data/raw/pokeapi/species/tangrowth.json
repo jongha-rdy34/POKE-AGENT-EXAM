@@ -1,0 +1,42 @@
+{
+ "id": 465,
+ "name": "tangrowth",
+ "names": {
+  "ja-hrkt": "モジャンボ",
+  "ja-roma": "Mojumbo",
+  "ko": "덩쿠림보",
+  "zh-hant": "巨蔓藤",
+  "fr": "Bouldeneu",
+  "de": "Tangoloss",
+  "es": "Tangrowth",
+  "it": "Tangrowth",
+  "en": "Tangrowth",
+  "ja": "モジャンボ",
+  "zh-hans": "巨蔓藤",
+  "es-419": "Tangrowth"
+ },
+ "genus": {
+  "ja-hrkt": "ツルじょうポケモン",
+  "ko": "넝쿨포켓몬",
+  "zh-hant": "藤蔓狀寶可夢",
+  "fr": "Pokémon Vigne",
+  "de": "Ranken-Pokémon",
+  "es": "Pokémon Enredadera",
+  "it": "Pokémon Liana",
+  "en": "Vine Pokémon",
+  "ja": "ツルじょうポケモン",
+  "zh-hans": "藤蔓状宝可梦",
+  "es-419": "Pokémon Enredadera"
+ },
+ "flavor": {
+  "en": "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them.",
+  "ko": "따듯한 땅에서 살수록 덩굴의 성장이 빠르다. 길어지면 스스로 잘라내어 짧게 만든다."
+ },
+ "varieties": [
+  {
+   "name": "tangrowth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "52"
+}

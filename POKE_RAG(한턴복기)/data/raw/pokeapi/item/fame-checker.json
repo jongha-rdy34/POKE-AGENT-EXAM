@@ -1,0 +1,22 @@
+{
+ "name": "fame-checker",
+ "names": {
+  "ja-hrkt": "ボイスチェッカー",
+  "fr": "Memorydex",
+  "de": "Ruhmesdatei",
+  "es": "Memorín",
+  "it": "PokéVIP",
+  "en": "Fame Checker",
+  "es-419": "Memorín"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre des informations sur les PNJs.",
+  "en": "Records information about NPCs."
+ },
+ "flavor": {
+  "en": "A device that enables you to recall what you’ve heard and seen about famous people."
+ }
+}

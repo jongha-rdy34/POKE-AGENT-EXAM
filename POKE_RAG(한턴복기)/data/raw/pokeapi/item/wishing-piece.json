@@ -1,0 +1,25 @@
+{
+ "name": "wishing-piece",
+ "names": {
+  "ja-hrkt": "ねがいのかたまり",
+  "ko": "소원의덩어리",
+  "zh-hant": "許願星塊",
+  "fr": "Morceau Vœu",
+  "de": "Wunschbrocken",
+  "es": "Trozo Deseo",
+  "it": "Desioblocco",
+  "en": "Wishing Piece",
+  "ja": "ねがいのかたまり",
+  "zh-hans": "许愿星块",
+  "es-419": "Trozo Deseo"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬굴에 던져넣으면 다이맥스 포켓몬이 나타난다.",
+  "en": "Throw one into a Pokémon Den to attract a wild Dynamax Pokémon.",
+  "ja": "ポケモンの 巣穴に 投げいれると ダイマックスポケモンが 現れる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "strength-sap",
+ "names": {
+  "ja-hrkt": "ちからをすいとる",
+  "ko": "힘흡수",
+  "zh-hant": "吸取力量",
+  "fr": "Vole-Force",
+  "de": "Kraftabsorber",
+  "es": "Absorbefuerza",
+  "it": "Assorbiforza",
+  "en": "Strength Sap",
+  "ja": "ちからをすいとる",
+  "zh-hans": "吸取力量",
+  "es-419": "Absorbefuerza"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Heals the user by the target’s current Attack stat and lowers the target’s Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "상대 공격력과 동일하게 자신의 HP를 회복한다. 그리고 상대의 공격을 떨어뜨린다.",
+  "en": "The user restores its own HP by the same amount as the target's Attack stat. It then lowers the target's Attack stat."
+ }
+}

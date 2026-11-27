@@ -1,0 +1,50 @@
+{
+ "id": 20,
+ "name": "raticate",
+ "names": {
+  "ja-hrkt": "ラッタ",
+  "ja-roma": "Ratta",
+  "ko": "레트라",
+  "zh-hant": "拉達",
+  "fr": "Rattatac",
+  "de": "Rattikarl",
+  "es": "Raticate",
+  "it": "Raticate",
+  "en": "Raticate",
+  "ja": "ラッタ",
+  "zh-hans": "拉达",
+  "es-419": "Raticate"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Pokémon Souris",
+  "de": "Maus",
+  "es": "Pokémon Ratón",
+  "it": "Pokémon Topo",
+  "en": "Mouse Pokémon",
+  "ja": "ねずみポケモン",
+  "zh-hans": "鼠宝可梦",
+  "es-419": "Pokémon Ratón"
+ },
+ "flavor": {
+  "en": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+  "ko": "뒷다리에 달린 작은 물갈퀴로 강을 헤엄치는 이유는 물속에 있는 먹이를 잡기 위해서다."
+ },
+ "varieties": [
+  {
+   "name": "raticate",
+   "is_default": true
+  },
+  {
+   "name": "raticate-alola",
+   "is_default": false
+  },
+  {
+   "name": "raticate-totem-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "7"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm97",
+ "names": {
+  "ja-hrkt": "わざマシン９７",
+  "ko": "기술머신97",
+  "zh-hant": "招式學習器９７",
+  "fr": "CT97",
+  "de": "TM97",
+  "es": "MT97",
+  "it": "MT97",
+  "en": "TM97",
+  "ja": "わざマシン９７",
+  "zh-hans": "招式学习器９７",
+  "es-419": "MT97"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend la CT97 à un Pokémon.",
+  "en": "Teaches a Pokémon TM97."
+ },
+ "flavor": {
+  "ko": "자신의 몸을 세차게 휘둘러서 상대에게 데미지를 준다.",
+  "en": "The user swings its body around violently to inflict damage on everything in its vicinity.",
+  "ja": "自分の 体を ぶんまわして 相手に ダメージを 与える。"
+ }
+}

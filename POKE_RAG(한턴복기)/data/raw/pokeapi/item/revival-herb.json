@@ -1,0 +1,34 @@
+{
+ "name": "revival-herb",
+ "names": {
+  "ja-hrkt": "ふっかつそう",
+  "ko": "부활초",
+  "zh-hant": "復活草",
+  "fr": "Herbe Rappel",
+  "de": "Vitalkraut",
+  "es": "Hierba Revivir",
+  "it": "Vitalerba",
+  "en": "Revival Herb",
+  "ja": "ふっかつそう",
+  "zh-hans": "复活草",
+  "es-419": "Hierba Revivir"
+ },
+ "category": "revival",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Renaît avec tous les PV, mais diminue le bonheur.",
+  "en": "Revives with full HP, but lowers happiness."
+ },
+ "flavor": {
+  "en": "A terribly bitter medicinal herb. It revives a fainted Pokémon and fully restores its max HP.",
+  "ko": "매우 쓴 약초. 기절한 포켓몬 1마리의 HP를 모두 회복한다.",
+  "ja": "とても にがい 薬草。 ひんしの ポケモン １匹の ＨＰを すべて 回復する。"
+ }
+}

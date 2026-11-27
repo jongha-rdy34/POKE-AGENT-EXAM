@@ -1,0 +1,42 @@
+{
+ "id": 209,
+ "name": "snubbull",
+ "names": {
+  "ja-hrkt": "ブルー",
+  "ja-roma": "Bulu",
+  "ko": "블루",
+  "zh-hant": "布魯",
+  "fr": "Snubbull",
+  "de": "Snubbull",
+  "es": "Snubbull",
+  "it": "Snubbull",
+  "en": "Snubbull",
+  "ja": "ブルー",
+  "zh-hans": "布鲁",
+  "es-419": "Snubbull"
+ },
+ "genus": {
+  "ja-hrkt": "ようせいポケモン",
+  "ko": "요정포켓몬",
+  "zh-hant": "妖精寶可夢",
+  "fr": "Pokémon Fée",
+  "de": "Fee",
+  "es": "Pokémon Hada",
+  "it": "Pokémon Fata",
+  "en": "Fairy Pokémon",
+  "ja": "ようせいポケモン",
+  "zh-hans": "妖精宝可梦",
+  "es-419": "Pokémon Hada"
+ },
+ "flavor": {
+  "en": "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.",
+  "ko": "겉보기와 다르게 겁쟁이라 다른 강아지포켓몬과 함께 있으면 괴롭힘을 당할 때도 있다."
+ },
+ "varieties": [
+  {
+   "name": "snubbull",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "105"
+}

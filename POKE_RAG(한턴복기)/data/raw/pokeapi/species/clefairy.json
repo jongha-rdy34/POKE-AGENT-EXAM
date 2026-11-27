@@ -1,0 +1,42 @@
+{
+ "id": 35,
+ "name": "clefairy",
+ "names": {
+  "ja-hrkt": "ピッピ",
+  "ja-roma": "Pippi",
+  "ko": "삐삐",
+  "zh-hant": "皮皮",
+  "fr": "Mélofée",
+  "de": "Piepi",
+  "es": "Clefairy",
+  "it": "Clefairy",
+  "en": "Clefairy",
+  "ja": "ピッピ",
+  "zh-hans": "皮皮",
+  "es-419": "Clefairy"
+ },
+ "genus": {
+  "ja-hrkt": "ようせいポケモン",
+  "ko": "요정포켓몬",
+  "zh-hant": "妖精寶可夢",
+  "fr": "Pokémon Fée",
+  "de": "Feen-Pokémon",
+  "es": "Pokémon Hada",
+  "it": "Pokémon Fata",
+  "en": "Fairy Pokémon",
+  "ja": "ようせいポケモン",
+  "zh-hans": "妖精宝可梦",
+  "es-419": "Pokémon Hada"
+ },
+ "flavor": {
+  "en": "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality.",
+  "ko": "애교 있는 몸동작과 울음소리로 귀엽다고 많은 인기를 누리는 포켓몬. 그러나 좀처럼 눈에 띄지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "clefairy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "14"
+}

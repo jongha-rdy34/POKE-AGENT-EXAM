@@ -1,0 +1,31 @@
+{
+ "name": "triple-axel",
+ "names": {
+  "ja-hrkt": "トリプルアクセル",
+  "ko": "트리플악셀",
+  "zh-hant": "三旋擊",
+  "fr": "Triple Axel",
+  "de": "Dreifach-Axel",
+  "es": "Triple Axel",
+  "it": "Triplo Axel",
+  "en": "Triple Axel",
+  "ja": "トリプルアクセル",
+  "zh-hans": "三旋击",
+  "es-419": "Triple Axel"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 20,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits three times, increasing power by 100% with each successful hit."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "3회 연속으로 킥을 날려 공격한다. 기술이 맞을 때마다 위력이 올라간다.",
+  "en": "A consecutive three-kick attack that becomes more powerful with each successful hit."
+ }
+}

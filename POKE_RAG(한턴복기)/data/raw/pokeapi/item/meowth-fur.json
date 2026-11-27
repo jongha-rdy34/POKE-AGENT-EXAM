@@ -1,0 +1,20 @@
+{
+ "name": "meowth-fur",
+ "names": {
+  "ja-hrkt": "ニャースのけ",
+  "ko": "나옹의털",
+  "zh-hant": "喵喵的毛",
+  "fr": "Poils de Miaouss",
+  "de": "Mauzi-Haar",
+  "es": "Pelo de Meowth",
+  "it": "Pelo di Meowth",
+  "en": "Meowth Fur",
+  "ja": "ニャースのけ",
+  "zh-hans": "喵喵的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

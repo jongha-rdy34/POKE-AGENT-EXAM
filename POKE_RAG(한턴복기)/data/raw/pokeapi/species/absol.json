@@ -1,0 +1,50 @@
+{
+ "id": 359,
+ "name": "absol",
+ "names": {
+  "ja-hrkt": "アブソル",
+  "ja-roma": "Absol",
+  "ko": "앱솔",
+  "zh-hant": "阿勃梭魯",
+  "fr": "Absol",
+  "de": "Absol",
+  "es": "Absol",
+  "it": "Absol",
+  "en": "Absol",
+  "ja": "アブソル",
+  "zh-hans": "阿勃梭鲁",
+  "es-419": "Absol"
+ },
+ "genus": {
+  "ja-hrkt": "わざわいポケモン",
+  "ko": "재난포켓몬",
+  "zh-hant": "災禍寶可夢",
+  "fr": "Pokémon Désastre",
+  "de": "Desaster-Pokémon",
+  "es": "Pokémon Catástrofe",
+  "it": "Pokémon Catastrofe",
+  "en": "Disaster Pokémon",
+  "ja": "わざわいポケモン",
+  "zh-hans": "灾祸宝可梦",
+  "es-419": "Pokémon Catástrofe"
+ },
+ "flavor": {
+  "en": "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom.",
+  "ko": "위험을 감지하는 능력이 있어 사람들로부터 재앙을 불러오는 포켓몬이라는 오해를 샀다."
+ },
+ "varieties": [
+  {
+   "name": "absol",
+   "is_default": true
+  },
+  {
+   "name": "absol-mega",
+   "is_default": false
+  },
+  {
+   "name": "absol-mega-z",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "185"
+}

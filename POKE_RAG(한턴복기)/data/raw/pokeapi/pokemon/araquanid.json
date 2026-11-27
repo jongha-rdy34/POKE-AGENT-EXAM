@@ -1,0 +1,83 @@
+{
+ "id": 752,
+ "name": "araquanid",
+ "species": "araquanid",
+ "is_default": true,
+ "types": [
+  "water",
+  "bug"
+ ],
+ "stats": {
+  "hp": 68,
+  "attack": 70,
+  "defense": 92,
+  "special-attack": 50,
+  "special-defense": 132,
+  "speed": 42
+ },
+ "abilities": [
+  {
+   "name": "water-bubble",
+   "hidden": false
+  },
+  {
+   "name": "water-absorb",
+   "hidden": true
+  }
+ ],
+ "height": 18,
+ "weight": 820,
+ "champions_moves": [
+  "aqua-ring",
+  "attract",
+  "bite",
+  "blizzard",
+  "body-slam",
+  "bug-bite",
+  "bug-buzz",
+  "chilling-water",
+  "crunch",
+  "dive",
+  "endeavor",
+  "endure",
+  "entrainment",
+  "facade",
+  "giga-drain",
+  "giga-impact",
+  "hydro-pump",
+  "hyper-beam",
+  "ice-beam",
+  "icy-wind",
+  "infestation",
+  "iron-defense",
+  "leech-life",
+  "liquidation",
+  "lunge",
+  "magic-room",
+  "mirror-coat",
+  "poison-jab",
+  "pounce",
+  "power-split",
+  "protect",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "round",
+  "scary-face",
+  "skitter-smack",
+  "sleep-talk",
+  "snore",
+  "soak",
+  "spit-up",
+  "sticky-web",
+  "stockpile",
+  "substitute",
+  "surf",
+  "trailblaze",
+  "water-pulse",
+  "waterfall",
+  "wide-guard",
+  "wonder-room",
+  "x-scissor"
+ ]
+}

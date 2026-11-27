@@ -1,0 +1,28 @@
+{
+ "name": "seal-case",
+ "names": {
+  "ja-hrkt": "シールいれ",
+  "ko": "실상자",
+  "zh-hant": "貼紙盒",
+  "fr": "Boîte Sceaux",
+  "de": "Stickerkoffer",
+  "es": "Caja Sellos",
+  "it": "Portabolli",
+  "en": "Seal Case",
+  "ja": "シールいれ",
+  "zh-hans": "贴纸盒",
+  "es-419": "Caja Sellos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les Sceaux qui peuvent être appliqués aux Capsule Balls.",
+  "en": "Stores Seals that can be applied to Poké Ball capsules."
+ },
+ "flavor": {
+  "en": "A case for storing Seals that can be applied to the exteriors of Poké Balls.",
+  "ko": "볼캡슐에 붙일 수 있는 실이 들어 있는 용기.",
+  "ja": "ボールカプセルに はりつけられる シールが はいった いれもの。"
+ }
+}

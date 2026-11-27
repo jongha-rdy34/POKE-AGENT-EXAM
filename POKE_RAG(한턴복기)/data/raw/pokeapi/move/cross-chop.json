@@ -1,0 +1,31 @@
+{
+ "name": "cross-chop",
+ "names": {
+  "ja-hrkt": "クロスチョップ",
+  "ko": "크로스촙",
+  "zh-hant": "十字劈",
+  "fr": "Coup Croix",
+  "de": "Kreuzhieb",
+  "es": "Tajo Cruzado",
+  "it": "Incrocolpo",
+  "en": "Cross Chop",
+  "ja": "クロスチョップ",
+  "zh-hans": "十字劈",
+  "es-419": "Golpe Cruzado"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 80,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has an increased chance for a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user delivers a double chop with its forearms crossed. This move has a heightened chance of landing a critical hit.",
+  "ko": "양손으로 당수를 상대에게 힘껏 쳐서 공격한다. 급소에 맞기 쉽다."
+ }
+}

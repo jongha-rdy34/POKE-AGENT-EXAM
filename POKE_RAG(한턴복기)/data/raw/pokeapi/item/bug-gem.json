@@ -1,0 +1,28 @@
+{
+ "name": "bug-gem",
+ "names": {
+  "ja-hrkt": "むしのジュエル",
+  "ko": "벌레주얼",
+  "zh-hant": "蟲之寶石",
+  "fr": "Joyau Insecte",
+  "de": "Käferjuwel",
+  "es": "Gema Bicho",
+  "it": "Bijoucoleottero",
+  "en": "Bug Gem",
+  "ja": "むしのジュエル",
+  "zh-hans": "虫之宝石",
+  "es-419": "Gema Bicho"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Insecte, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Bug-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move one time.",
+  "ko": "벌레타입의 주얼. 지니게 하면 한 번만 벌레 기술의 위력이 강해진다.",
+  "ja": "むしの タイプの ジュエル。 持たせると １度だけ むしの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 565,
+ "name": "carracosta",
+ "names": {
+  "ja-hrkt": "アバゴーラ",
+  "ja-roma": "Abagoura",
+  "ko": "늑골라",
+  "zh-hant": "肋骨海龜",
+  "fr": "Mégapagos",
+  "de": "Karippas",
+  "es": "Carracosta",
+  "it": "Carracosta",
+  "en": "Carracosta",
+  "ja": "アバゴーラ",
+  "zh-hans": "肋骨海龟",
+  "es-419": "Carracosta"
+ },
+ "genus": {
+  "ja-hrkt": "こだいがめポケモン",
+  "ko": "옛날거북포켓몬",
+  "zh-hant": "古代龜寶可夢",
+  "fr": "Pokémon Tortantique",
+  "de": "Urzeitkröten-Pokémon",
+  "es": "Pokémon Pretortuga",
+  "it": "Pokémon Ancestruga",
+  "en": "Prototurtle Pokémon",
+  "ja": "こだいがめポケモン",
+  "zh-hans": "古代龟宝可梦",
+  "es-419": "Pokémon Pretortuga"
+ },
+ "flavor": {
+  "en": "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land.",
+  "ko": "물속과 비교하면 움직임이 둔하지만 먹이를 찾아 육지에서도 활동한다."
+ },
+ "varieties": [
+  {
+   "name": "carracosta",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "288"
+}

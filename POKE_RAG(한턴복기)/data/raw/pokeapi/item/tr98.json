@@ -1,0 +1,25 @@
+{
+ "name": "tr98",
+ "names": {
+  "ja-hrkt": "わざレコード９８",
+  "ko": "기술레코드98",
+  "zh-hant": "招式紀錄９８",
+  "fr": "DT98",
+  "de": "TP98",
+  "es": "DT98",
+  "it": "DT98",
+  "en": "TR98",
+  "ja": "わざレコード９８",
+  "zh-hans": "招式记录９８",
+  "es-419": "DT98"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "물의 힘으로 상대에게 부딪쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+  "en": "The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.",
+  "ja": "水の 力で 相手に ぶつかって 攻撃する。 相手の 防御を さげる ことがある。"
+ }
+}

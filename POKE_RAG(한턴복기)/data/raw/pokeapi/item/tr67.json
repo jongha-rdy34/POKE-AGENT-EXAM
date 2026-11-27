@@ -1,0 +1,25 @@
+{
+ "name": "tr67",
+ "names": {
+  "ja-hrkt": "わざレコード６７",
+  "ko": "기술레코드67",
+  "zh-hant": "招式紀錄６７",
+  "fr": "DT67",
+  "de": "TP67",
+  "es": "DT67",
+  "it": "DT67",
+  "en": "TR67",
+  "ja": "わざレコード６７",
+  "zh-hans": "招式记录６７",
+  "es-419": "DT67"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대의 발밑에 대지의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def stat.",
+  "ja": "相手の 足下へ 大地の力を 放出する。相手の 特防を さげることが ある。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "stakeout",
+ "names": {
+  "ja-hrkt": "はりこみ",
+  "ko": "잠복",
+  "zh-hant": "監視",
+  "fr": "Filature",
+  "de": "Beschattung",
+  "es": "Vigilante",
+  "it": "Sorveglianza",
+  "en": "Stakeout",
+  "ja": "はりこみ",
+  "zh-hans": "蹲守",
+  "es-419": "Vigilante"
+ },
+ "effect": {
+  "en": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+ },
+ "flavor": {
+  "ko": "교체로 나온 상대에게 2배 데미지로 공격할 수 있다.",
+  "en": "Doubles the damage dealt to a target that has just switched into battle."
+ }
+}

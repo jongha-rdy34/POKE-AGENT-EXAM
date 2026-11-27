@@ -1,0 +1,20 @@
+{
+ "name": "pawmi-fur",
+ "names": {
+  "ja-hrkt": "パモのけ",
+  "ko": "빠모의털",
+  "zh-hant": "布撥的毛",
+  "fr": "Poils de Pohm",
+  "de": "Pamo-Haar",
+  "es": "Pelo de Pawmi",
+  "it": "Pelo di Pawmi",
+  "en": "Pawmi Fur",
+  "ja": "パモのけ",
+  "zh-hans": "布拨的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

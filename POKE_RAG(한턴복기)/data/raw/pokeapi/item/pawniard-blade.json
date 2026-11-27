@@ -1,0 +1,20 @@
+{
+ "name": "pawniard-blade",
+ "names": {
+  "ja-hrkt": "コマタナのやいば",
+  "ko": "자망칼의칼날",
+  "zh-hant": "駒刀小兵的刀",
+  "fr": "Lame de Scalpion",
+  "de": "Gladiantri-Klinge",
+  "es": "Cuchilla de Pawniard",
+  "it": "Lama di Pawniard",
+  "en": "Pawniard Blade",
+  "ja": "コマタナのやいば",
+  "zh-hans": "驹刀小兵的刀"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "freeze-dry",
+ "names": {
+  "ja-hrkt": "フリーズドライ",
+  "ko": "프리즈드라이",
+  "zh-hant": "冷凍乾燥",
+  "fr": "Lyophilisation",
+  "de": "Gefriertrockner",
+  "es": "Liofilización",
+  "it": "Liofilizzazione",
+  "en": "Freeze-Dry",
+  "ja": "フリーズドライ",
+  "zh-hans": "冷冻干燥",
+  "es-419": "Liofilización"
+ },
+ "type": "ice",
+ "category": "special",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Super-effective against Water."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "ko": "상대를 급격히 차갑게 하여 얼음 상태로 만들 때가 있다. 물타입 포켓몬에게도 효과가 굉장해진다.",
+  "en": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
+ }
+}

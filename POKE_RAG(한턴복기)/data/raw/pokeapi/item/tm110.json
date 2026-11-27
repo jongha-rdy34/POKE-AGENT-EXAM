@@ -1,0 +1,20 @@
+{
+ "name": "tm110",
+ "names": {
+  "ja-hrkt": "わざマシン１１０",
+  "ko": "기술머신110",
+  "zh-hant": "招式學習器１１０",
+  "fr": "CT110",
+  "de": "TM110",
+  "es": "MT110",
+  "it": "MT110",
+  "en": "TM110",
+  "ja": "わざマシン１１０",
+  "zh-hans": "招式学习器１１０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

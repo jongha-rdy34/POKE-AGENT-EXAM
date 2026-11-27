@@ -1,0 +1,31 @@
+{
+ "name": "magnet-rise",
+ "names": {
+  "ja-hrkt": "でんじふゆう",
+  "ko": "전자부유",
+  "zh-hant": "電磁飄浮",
+  "fr": "Vol Magnétik",
+  "de": "Magnetflug",
+  "es": "Levitón",
+  "it": "Magnetascesa",
+  "en": "Magnet Rise",
+  "ja": "でんじふゆう",
+  "zh-hans": "电磁飘浮",
+  "es-419": "Superimán"
+ },
+ "type": "electric",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User is immune to Ground moves and effects for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user levitates using electrically generated magnetism for five turns.",
+  "ko": "전기로 만든 자력의 힘으로 허공에 뜬다. 5턴 동안 부유할 수 있다."
+ }
+}

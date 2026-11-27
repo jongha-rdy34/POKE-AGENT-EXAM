@@ -1,0 +1,20 @@
+{
+ "name": "sandygast-sand",
+ "names": {
+  "ja-hrkt": "スナバァのすな",
+  "ko": "모래꿍의모래",
+  "zh-hant": "沙丘娃的沙",
+  "fr": "Sable de Bacabouh",
+  "de": "Sankabuh-Sand",
+  "es": "Arena de Sandygast",
+  "it": "Sabbia di Sandygast",
+  "en": "Sandygast Sand",
+  "ja": "スナバァのすな",
+  "zh-hans": "沙丘娃的沙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

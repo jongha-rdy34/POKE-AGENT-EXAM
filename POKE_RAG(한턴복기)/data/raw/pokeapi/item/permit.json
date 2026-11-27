@@ -1,0 +1,28 @@
+{
+ "name": "permit",
+ "names": {
+  "ja-hrkt": "きょかしょう",
+  "ko": "허가증",
+  "zh-hant": "許可證",
+  "fr": "Permis",
+  "de": "Genehmigung",
+  "es": "Pase",
+  "it": "Permesso",
+  "en": "Permit",
+  "ja": "きょかしょう",
+  "zh-hans": "许可证",
+  "es-419": "Pase"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à la Réserve Naturelle.",
+  "en": "Grants access to the Nature Preserve."
+ },
+ "flavor": {
+  "en": "A permit that is needed to enter the Nature Preserve. Not many know about it.",
+  "ko": "소수의 사람밖에 모르는 자연보호구역에 들어가기 위해 필요한 라이선스 카드.",
+  "ja": "わずかな 人しか 知らない 自然保護区に 入るために 必要な ライセンスカード。"
+ }
+}

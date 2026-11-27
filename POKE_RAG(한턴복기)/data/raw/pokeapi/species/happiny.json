@@ -1,0 +1,42 @@
+{
+ "id": 440,
+ "name": "happiny",
+ "names": {
+  "ja-hrkt": "ピンプク",
+  "ja-roma": "Pinpuku",
+  "ko": "핑복",
+  "zh-hant": "小福蛋",
+  "fr": "Ptiravi",
+  "de": "Wonneira",
+  "es": "Happiny",
+  "it": "Happiny",
+  "en": "Happiny",
+  "ja": "ピンプク",
+  "zh-hans": "小福蛋",
+  "es-419": "Happiny"
+ },
+ "genus": {
+  "ja-hrkt": "ままごとポケモン",
+  "ko": "소꿉놀이포켓몬",
+  "zh-hant": "家家酒寶可夢",
+  "fr": "Pokémon Maisonjouet",
+  "de": "Spielhaus-Pokémon",
+  "es": "Pokémon Casita",
+  "it": "Pokémon Ovettino",
+  "en": "Playhouse Pokémon",
+  "ja": "ままごとポケモン",
+  "zh-hans": "家家酒宝可梦",
+  "es-419": "Pokémon Casita"
+ },
+ "flavor": {
+  "en": "In imitation of Chansey, it keeps a round stone tucked into its belly pouch and cherishes it dearly. It gets along well with children and will sometimes play house with them for fun.",
+  "ko": "친해진 상대에게는 소중하게 여기는 둥근 돌을 빌려준다. 돌려주지 않으면 울고불고하다가 난폭해진다."
+ },
+ "varieties": [
+  {
+   "name": "happiny",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "51"
+}

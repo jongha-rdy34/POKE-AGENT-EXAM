@@ -1,0 +1,81 @@
+A Venusaur with 32 stat points in Defense, 32 in Sp. Atk, and 2 in HP
+Stat points (Japanese: 能力(のうりょく)ポイント stat points) are a mechanic in Pokémon Champions. They serve a similar role to effort values, which are not present in this game.
+
+## Mechanics
+
+Pokémon are limited to a total of 32 stat points per stat, and 66 stat points in total. A Pokémon's stat points can be changed through the Training feature in exchange for VP or Training Tickets.
+
+When a Pokémon is sent to visit Pokémon Champions for the first time from Pokémon HOME, effort values are converted to stat points matching how EV training works at level 50 with an odd IV: 4 EVs for the first stat point in a stat and 8 EVs for each additional stat point. Therefore, a Pokémon fully EV trained in 3 or 4 stats will have a maximum of 65 stat points when transferred, and be able to earn one additional stat point in Champions. Pokémon EV trained in 5 or 6 stats will be transferred with the maximum of 66 stat points.
+
+## Calculation
+
+HP=Base+StatPoints+75OtherStat=⌊(Base+StatPoints+20)×Alignment⌋
+
+where:
+
+Base is the Pokémon species' base value for that stat.
+
+Alignment is 0.9 if the Pokémon's stat alignment lowers that stat, 1.1 if it raises that stat, and 1 otherwise.
+
+StatPoints is the amount of stat points the Pokémon has in the respective stat.
+
+## In other languages
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+能力點數 Nàhnglihk dímsou
+
+Mandarin
+
+能力點數 / 能力点数 Nénglì diǎnshù
+
+French
+
+Points de stats
+
+German
+
+Statuswertpunkte
+
+Italian
+
+Punti statistica
+
+Korean
+
+능력 포인트 Neungnyeok point
+
+Spanish
+
+Puntos de característica
+
+Pokémon individuality
+
+Level (Experience) • Stats • Shininess • Gender • Nature • Characteristic
+Ability (Hidden Ability) • Effort values • Individual values • Go Power • Effort level • Stat points
+Size • Sheen • Condition • Performance • Friendship • Affection • Memory
+Dynamax Level • Gigantamax Factor • Tera Type
+
+This game mechanic article is part of Project Games, a Bulbapedia project that aims to write comprehensive articles on the Pokémon games.
+
+Retrieved from "https://bulbapedia.bulbagarden.net/w/index.php?title=Stat_point&oldid=4565742"
+
+ CategoriesGame mechanics
+Pokémon Champions
+
+ This page was last edited on 2 June 2026, at 07:02.
+
+ Content is available under Attribution-NonCommercial-ShareAlike 2.5. (see Copyrights for details)
+
+Privacy policy
+
+About Bulbapedia
+
+Disclaimers
+

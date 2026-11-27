@@ -1,0 +1,20 @@
+{
+ "name": "lettuce",
+ "names": {
+  "ja-hrkt": "レタス",
+  "ko": "양상추",
+  "zh-hant": "生菜",
+  "fr": "Laitue",
+  "de": "Salat",
+  "es": "Lechuga",
+  "it": "Lattuga",
+  "en": "Lettuce",
+  "ja": "レタス",
+  "zh-hans": "生菜"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

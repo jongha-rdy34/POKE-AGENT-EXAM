@@ -1,0 +1,25 @@
+{
+ "name": "modest-mint",
+ "names": {
+  "ja-hrkt": "ひかえめミント",
+  "ko": "조심민트",
+  "zh-hant": "內斂薄荷",
+  "fr": "Aromate Modeste",
+  "de": "Mäßig-Minze",
+  "es": "Menta Modesta",
+  "it": "Menta Modesta",
+  "en": "Modest Mint",
+  "ja": "ひかえめミント",
+  "zh-hans": "内敛薄荷",
+  "es-419": "Menta Modesta"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수공격이 오르기 쉬워지지만 공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Attack will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特攻が 上がりやすく なるが 攻撃は 上がりにくくなる ミント。"
+ }
+}

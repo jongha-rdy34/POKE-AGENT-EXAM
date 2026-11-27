@@ -1,0 +1,20 @@
+{
+ "name": "skwovet-fur",
+ "names": {
+  "ja-hrkt": "ホシガリスのけ",
+  "ko": "탐리스의털",
+  "zh-hant": "貪心栗鼠的毛",
+  "fr": "Poils de Rongourmand",
+  "de": "Raffel-Haar",
+  "es": "Pelo de Skwovet",
+  "it": "Pelo di Skwovet",
+  "en": "Skwovet Fur",
+  "ja": "ホシガリスのけ",
+  "zh-hans": "贪心栗鼠的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

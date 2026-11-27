@@ -1,0 +1,28 @@
+{
+ "name": "silver-wing",
+ "names": {
+  "ja-hrkt": "ぎんいろのはね",
+  "ko": "은빛깃털",
+  "zh-hant": "銀色之羽",
+  "fr": "Argent’Aile",
+  "de": "Silberflügel",
+  "es": "Ala Plateada",
+  "it": "Aladargento",
+  "en": "Silver Wing",
+  "ja": "ぎんいろのはね",
+  "zh-hans": "银色之羽",
+  "es-419": "Ala Plateada"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Lugia aux Tourb'Îles.",
+  "en": "Summons Lugia to the Whirl Islands."
+ },
+ "flavor": {
+  "en": "A strange, silvery feather that sparkles.",
+  "ko": "은빛으로 빛나는 신비한 날개.",
+  "ja": "ぎんいろに ひかり かがやく 不思議な はね。"
+ }
+}

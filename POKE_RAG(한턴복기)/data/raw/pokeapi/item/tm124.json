@@ -1,0 +1,20 @@
+{
+ "name": "tm124",
+ "names": {
+  "ja-hrkt": "わざマシン１２４",
+  "ko": "기술머신124",
+  "zh-hant": "招式學習器１２４",
+  "fr": "CT124",
+  "de": "TM124",
+  "es": "MT124",
+  "it": "MT124",
+  "en": "TM124",
+  "ja": "わざマシン１２４",
+  "zh-hans": "招式学习器１２４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

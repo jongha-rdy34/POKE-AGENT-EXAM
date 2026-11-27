@@ -1,0 +1,28 @@
+{
+ "name": "zygarde-cube",
+ "names": {
+  "ja-hrkt": "ジガルデキューブ",
+  "ko": "지가르데큐브",
+  "zh-hant": "基格爾德多面體",
+  "fr": "Boîte Zygarde",
+  "de": "Zygarde-Würfel",
+  "es": "Arca de Zygarde",
+  "it": "Teca Zygarde",
+  "en": "Zygarde Cube",
+  "ja": "ジガルデキューブ",
+  "zh-hans": "基格尔德多面体",
+  "es-419": "Arca de Zygarde"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Contient les cellules/cœurs Zygarde collectés.  Permet d'apprendre des capacités à Zygarde.",
+  "en": "Contains collected Zygarde cells/cores.  Can teach Zygarde moves."
+ },
+ "flavor": {
+  "ko": "포켓몬 지가르데의 코어와 셀이 모여있는 도구. 지가르데의 모습을 바꿀 수도 있다.",
+  "en": "An item in which Zygarde Cores and Cells are gathered. You can also use it to change Zygarde’s forms.",
+  "ja": "ポケモン ジガルデの コアと セルが 集まった道具。 ジガルデの 姿を 変えることが できる。"
+ }
+}

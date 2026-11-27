@@ -1,0 +1,23 @@
+{
+ "name": "absol-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Absol",
+  "de": "Mega-Absol",
+  "en": "Mega Absol"
+ },
+ "form_names": {
+  "ja-hrkt": "メガアブソル",
+  "ko": "메가앱솔",
+  "zh-hant": "超級阿勃梭魯",
+  "fr": "Méga-Absol",
+  "de": "Mega-Form",
+  "es": "Mega-Absol",
+  "it": "MegaAbsol",
+  "en": "Mega Absol",
+  "ja": "メガアブソル",
+  "zh-hans": "超级阿勃梭鲁",
+  "es-419": "Mega-Absol"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,20 @@
+{
+ "name": "pink-cup",
+ "names": {
+  "ja-hrkt": "ピンクカップ",
+  "ko": "핑크 컵",
+  "zh-hant": "粉紅水杯",
+  "fr": "Tasse Rose",
+  "de": "Pinke Tasse",
+  "es": "Taza Rosa",
+  "it": "Tazza rosa",
+  "en": "Pink Cup",
+  "ja": "ピンクカップ",
+  "zh-hans": "粉红水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

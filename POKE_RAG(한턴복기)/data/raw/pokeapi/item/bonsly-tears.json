@@ -1,0 +1,20 @@
+{
+ "name": "bonsly-tears",
+ "names": {
+  "ja-hrkt": "ウソハチのなみだ",
+  "ko": "꼬지지의눈물",
+  "zh-hant": "盆才怪的眼淚",
+  "fr": "Larme de Manzaï",
+  "de": "Mobai-Träne",
+  "es": "Lágrima de Bonsly",
+  "it": "Lacrime di Bonsly",
+  "en": "Bonsly Tears",
+  "ja": "ウソハチのなみだ",
+  "zh-hans": "盆才怪的眼泪"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

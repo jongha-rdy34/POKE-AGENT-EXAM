@@ -1,0 +1,42 @@
+{
+ "id": 357,
+ "name": "tropius",
+ "names": {
+  "ja-hrkt": "トロピウス",
+  "ja-roma": "Tropius",
+  "ko": "트로피우스",
+  "zh-hant": "熱帶龍",
+  "fr": "Tropius",
+  "de": "Tropius",
+  "es": "Tropius",
+  "it": "Tropius",
+  "en": "Tropius",
+  "ja": "トロピウス",
+  "zh-hans": "热带龙",
+  "es-419": "Tropius"
+ },
+ "genus": {
+  "ja-hrkt": "フルーツポケモン",
+  "ko": "후르츠포켓몬",
+  "zh-hant": "水果寶可夢",
+  "fr": "Pokémon Fruit",
+  "de": "Obst",
+  "es": "Pokémon Fruto",
+  "it": "Pokémon Frutto",
+  "en": "Fruit Pokémon",
+  "ja": "フルーツポケモン",
+  "zh-hans": "水果宝可梦",
+  "es-419": "Pokémon Fruto"
+ },
+ "flavor": {
+  "en": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+  "ko": "목에 난 송이는 맛있어서 인기다. 따뜻한 장소에는 트로피우스를 키우는 목장이 많다."
+ },
+ "varieties": [
+  {
+   "name": "tropius",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "183"
+}

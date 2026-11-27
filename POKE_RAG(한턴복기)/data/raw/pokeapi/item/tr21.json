@@ -1,0 +1,25 @@
+{
+ "name": "tr21",
+ "names": {
+  "ja-hrkt": "わざレコード２１",
+  "ko": "기술레코드21",
+  "zh-hant": "招式紀錄２１",
+  "fr": "DT21",
+  "de": "TP21",
+  "es": "DT21",
+  "it": "DT21",
+  "en": "TR21",
+  "ja": "わざレコード２１",
+  "zh-hans": "招式记录２１",
+  "es-419": "DT21"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "힘을 쥐어짜서 공격한다. 자신의 HP가 적을수록 기술의 위력이 올라간다.",
+  "en": "An all-out attack that becomes more powerful the less HP the user has.",
+  "ja": "力を ふりしぼり 攻撃する。 自分の ＨＰが 少ないほど 技の 威力は あがる。"
+ }
+}

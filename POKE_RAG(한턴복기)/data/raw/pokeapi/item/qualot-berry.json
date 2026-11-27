@@ -1,0 +1,28 @@
+{
+ "name": "qualot-berry",
+ "names": {
+  "ja-hrkt": "タポルのみ",
+  "ko": "파비열매",
+  "zh-hant": "比巴果",
+  "fr": "Baie Qualot",
+  "de": "Qualotbeere",
+  "es": "Baya Ispero",
+  "it": "Baccaloquat",
+  "en": "Qualot Berry",
+  "ja": "タポルのみ",
+  "zh-hans": "比巴果",
+  "es-419": "Baya Ispero"
+ },
+ "category": "effort-drop",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Diminue les EV de Défense de 10 et augmente le bonheur.",
+  "en": "Drops Defense Effort Values by 10 and raises happiness."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its Defense base points.",
+  "ko": "포켓몬에게 주면 매우 친밀해지기 쉬워지지만 방어의 기초 포인트가 떨어진다.",
+  "ja": "ポケモンに あげると とても なかよく なりやすくなるが 防御の 基礎ポイントは さがる。"
+ }
+}

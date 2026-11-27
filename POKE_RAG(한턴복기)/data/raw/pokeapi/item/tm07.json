@@ -1,0 +1,28 @@
+{
+ "name": "tm07",
+ "names": {
+  "ja-hrkt": "わざマシン０７",
+  "ko": "기술머신07",
+  "zh-hant": "招式學習器０７",
+  "fr": "CT07",
+  "de": "TM07",
+  "es": "MT07",
+  "it": "MT07",
+  "en": "TM07",
+  "ja": "わざマシン０７",
+  "zh-hans": "招式学习器０７",
+  "es-419": "MT07"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Grêle à un Pokémon compatible. (Gén II: Élecanon Gén I: Empal'Korne)",
+  "en": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)"
+ },
+ "flavor": {
+  "en": "Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.",
+  "ko": "날카로운 침을 상대에게 발사해서 공격한다. 2-5회 동안 연속으로 쓴다.",
+  "ja": "鋭い ハリを 相手に 発射して 攻撃する。 ２ー５回の 間 連続で だす。"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "id": 10010,
+ "name": "rotom-frost",
+ "species": "rotom",
+ "is_default": false,
+ "types": [
+  "electric",
+  "ice"
+ ],
+ "stats": {
+  "hp": 50,
+  "attack": 65,
+  "defense": 107,
+  "special-attack": 105,
+  "special-defense": 107,
+  "speed": 86
+ },
+ "abilities": [
+  {
+   "name": "levitate",
+   "hidden": false
+  }
+ ],
+ "height": 3,
+ "weight": 3,
+ "champions_moves": [
+  "blizzard",
+  "charge",
+  "charge-beam",
+  "confuse-ray",
+  "dark-pulse",
+  "discharge",
+  "double-team",
+  "eerie-impulse",
+  "electric-terrain",
+  "electro-ball",
+  "electroweb",
+  "endure",
+  "facade",
+  "foul-play",
+  "helping-hand",
+  "hex",
+  "hyper-voice",
+  "light-screen",
+  "nasty-plot",
+  "night-shade",
+  "pain-split",
+  "poltergeist",
+  "protect",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "rising-voltage",
+  "round",
+  "shadow-ball",
+  "sleep-talk",
+  "snore",
+  "spite",
+  "stored-power",
+  "substitute",
+  "sunny-day",
+  "thief",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt",
+  "trick",
+  "uproar",
+  "volt-switch",
+  "will-o-wisp"
+ ]
+}

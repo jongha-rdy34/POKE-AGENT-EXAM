@@ -1,0 +1,34 @@
+{
+ "name": "blue-flute",
+ "names": {
+  "ja-hrkt": "あおいビードロ",
+  "ko": "파랑비드로",
+  "zh-hant": "藍色玻璃哨",
+  "fr": "Flûte Bleue",
+  "de": "Blaue Flöte",
+  "es": "Flauta Azul",
+  "it": "Flauto Blu",
+  "en": "Blue Flute",
+  "ja": "あおいビードロ",
+  "zh-hans": "蓝色玻璃哨",
+  "es-419": "Flauta Azul"
+ },
+ "category": "flutes",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne le sommeil.",
+  "en": "Cures sleep."
+ },
+ "flavor": {
+  "en": "A flute made from blue glass. It awakens sleeping Pokémon.",
+  "ko": "파란 유리로 만들어진 피리. 잠듦 상태를 회복한다.",
+  "ja": "青いガラスで できた 笛。 眠り状態を 回復する。"
+ }
+}

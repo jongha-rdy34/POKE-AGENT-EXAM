@@ -1,0 +1,23 @@
+{
+ "name": "scizor-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Cizayox",
+  "de": "Mega-Scherox",
+  "en": "Mega Scizor"
+ },
+ "form_names": {
+  "ja-hrkt": "メガハッサム",
+  "ko": "메가핫삼",
+  "zh-hant": "超級巨鉗螳螂",
+  "fr": "Méga-Cizayox",
+  "de": "Mega-Form",
+  "es": "Mega-Scizor",
+  "it": "MegaScizor",
+  "en": "Mega Scizor",
+  "ja": "メガハッサム",
+  "zh-hans": "超级巨钳螳螂",
+  "es-419": "Mega-Scizor"
+ },
+ "is_mega": true
+}

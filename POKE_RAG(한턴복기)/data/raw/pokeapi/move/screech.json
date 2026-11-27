@@ -1,0 +1,31 @@
+{
+ "name": "screech",
+ "names": {
+  "ja-hrkt": "いやなおと",
+  "ko": "싫은소리",
+  "zh-hant": "刺耳聲",
+  "fr": "Grincement",
+  "de": "Kreideschrei",
+  "es": "Chirrido",
+  "it": "Stridio",
+  "en": "Screech",
+  "ja": "いやなおと",
+  "zh-hans": "刺耳声",
+  "es-419": "Chillido"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 85,
+ "pp": 40,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Defense by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "An earsplitting screech harshly lowers the target's Defense stat.",
+  "ko": "그만 귀를 막아버리고 싶은 싫은 소리를 내어 상대의 방어를 크게 떨어뜨린다."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "corphish-shell",
+ "names": {
+  "ja-hrkt": "ヘイガニのから",
+  "ko": "가재군의껍데기",
+  "zh-hant": "龍蝦小兵的殼",
+  "fr": "Carapace d’Écrapince",
+  "de": "Krebscorps-Schale",
+  "es": "Cáscara de Corphish",
+  "it": "Carapace di Corphish",
+  "en": "Corphish Shell",
+  "ja": "ヘイガニのから",
+  "zh-hans": "龙虾小兵的壳"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

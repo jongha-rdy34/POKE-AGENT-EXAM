@@ -1,0 +1,34 @@
+{
+ "name": "moomoo-milk",
+ "names": {
+  "ja-hrkt": "モーモーミルク",
+  "ko": "튼튼밀크",
+  "zh-hant": "哞哞鮮奶",
+  "fr": "Lait Meumeu",
+  "de": "Kuhmuh-Milch",
+  "es": "Leche Mu-mu",
+  "it": "Latte Mumu",
+  "en": "Moomoo Milk",
+  "ja": "モーモーミルク",
+  "zh-hans": "哞哞鲜奶",
+  "es-419": "Leche Mu-mu"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 100 PV.",
+  "en": "Restores 100 HP."
+ },
+ "flavor": {
+  "en": "A bottle of highly nutritious milk. It can be used to restore 100 HP to a single Pokémon.",
+  "ko": "영양 만점의 우유. 포켓몬 1마리의 HP를 100만큼 회복한다.",
+  "ja": "栄養満点の ミルク。 ポケモン １匹の ＨＰを １００だけ 回復する。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "blaziken-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Braségali",
+  "de": "Mega-Lohgock",
+  "en": "Mega Blaziken"
+ },
+ "form_names": {
+  "ja-hrkt": "メガバシャーモ",
+  "ko": "메가번치코",
+  "zh-hant": "超級火焰雞",
+  "fr": "Méga-Braségali",
+  "de": "Mega-Form",
+  "es": "Mega-Blaziken",
+  "it": "MegaBlaziken",
+  "en": "Mega Blaziken",
+  "ja": "メガバシャーモ",
+  "zh-hans": "超级火焰鸡",
+  "es-419": "Mega-Blaziken"
+ },
+ "is_mega": true
+}

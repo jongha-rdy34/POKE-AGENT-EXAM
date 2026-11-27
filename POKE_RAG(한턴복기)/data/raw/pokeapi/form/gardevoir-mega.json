@@ -1,0 +1,23 @@
+{
+ "name": "gardevoir-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Gardevoir",
+  "de": "Mega-Guardevoir",
+  "en": "Mega Gardevoir"
+ },
+ "form_names": {
+  "ja-hrkt": "メガサーナイト",
+  "ko": "메가가디안",
+  "zh-hant": "超級沙奈朵",
+  "fr": "Méga-Gardevoir",
+  "de": "Mega-Form",
+  "es": "Mega-Gardevoir",
+  "it": "MegaGardevoir",
+  "en": "Mega Gardevoir",
+  "ja": "メガサーナイト",
+  "zh-hans": "超级沙奈朵",
+  "es-419": "Mega-Gardevoir"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,23 @@
+{
+ "name": "protean",
+ "names": {
+  "ja-hrkt": "へんげんじざい",
+  "ko": "변환자재",
+  "zh-hant": "變幻自如",
+  "fr": "Protéen",
+  "de": "Wandlungskunst",
+  "es": "Mutatipo",
+  "it": "Mutatipo",
+  "en": "Protean",
+  "ja": "へんげんじざい",
+  "zh-hans": "变幻自如",
+  "es-419": "Mutatipo"
+ },
+ "effect": {
+  "en": "Changes the bearer's type to match each move it uses."
+ },
+ "flavor": {
+  "ko": "자신이 사용한 기술과 같은 타입으로 변화한다.",
+  "en": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle."
+ }
+}

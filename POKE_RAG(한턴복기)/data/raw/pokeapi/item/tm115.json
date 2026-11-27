@@ -1,0 +1,20 @@
+{
+ "name": "tm115",
+ "names": {
+  "ja-hrkt": "わざマシン１１５",
+  "ko": "기술머신115",
+  "zh-hant": "招式學習器１１５",
+  "fr": "CT115",
+  "de": "TM115",
+  "es": "MT115",
+  "it": "MT115",
+  "en": "TM115",
+  "ja": "わざマシン１１５",
+  "zh-hans": "招式学习器１１５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

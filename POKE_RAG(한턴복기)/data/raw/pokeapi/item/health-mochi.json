@@ -1,0 +1,20 @@
+{
+ "name": "health-mochi",
+ "names": {
+  "ja-hrkt": "たいりょくのもち",
+  "ko": "체력떡",
+  "zh-hant": "體力糬",
+  "fr": "Mochi Santé",
+  "de": "Heil-Mochi",
+  "es": "Mochi Vigor",
+  "it": "Mochi della salute",
+  "en": "Health Mochi",
+  "ja": "たいりょくのもち",
+  "zh-hans": "体力粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

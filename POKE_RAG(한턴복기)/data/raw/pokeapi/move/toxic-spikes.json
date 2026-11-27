@@ -1,0 +1,31 @@
+{
+ "name": "toxic-spikes",
+ "names": {
+  "ja-hrkt": "どくびし",
+  "ko": "독압정",
+  "zh-hant": "毒菱",
+  "fr": "Pics Toxik",
+  "de": "Giftspitzen",
+  "es": "Púas Tóxicas",
+  "it": "Fielepunte",
+  "en": "Toxic Spikes",
+  "ja": "どくびし",
+  "zh-hans": "毒菱",
+  "es-419": "Púas Tóxicas"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "opponents-field",
+ "effect": {
+  "en": "Scatters poisoned spikes, poisoning opposing Pokémon that switch in."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.",
+  "ko": "상대의 발밑에 독 압정을 뿌린다. 교체로 나온 상대 포켓몬에게 독을 퍼지게 한다."
+ }
+}

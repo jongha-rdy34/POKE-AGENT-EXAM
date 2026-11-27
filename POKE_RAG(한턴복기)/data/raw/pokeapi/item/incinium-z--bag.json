@@ -1,0 +1,28 @@
+{
+ "name": "incinium-z--bag",
+ "names": {
+  "ja-hrkt": "ガオガエンＺ",
+  "ko": "어흥염Z",
+  "zh-hant": "熾焰咆哮虎Ｚ",
+  "fr": "Félinozélite",
+  "de": "Fuegronium Z",
+  "es": "Incinostal Z",
+  "it": "Incineronium Z",
+  "en": "Incinium Z",
+  "ja": "ガオガエンＺ",
+  "zh-hans": "炽焰咆哮虎Ｚ",
+  "es-419": "Incinostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour incinium-z--bag",
+  "en": "XXX new effect for incinium-z--bag"
+ },
+ "flavor": {
+  "ko": "어흥염의 DD래리어트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Incineroar’s Darkest Lariat to an exclusive Z-Move.",
+  "ja": "ガオガエンの ＤＤラリアットを 特別な Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

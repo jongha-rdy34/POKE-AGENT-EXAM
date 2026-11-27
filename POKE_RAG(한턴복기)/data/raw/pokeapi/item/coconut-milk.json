@@ -1,0 +1,25 @@
+{
+ "name": "coconut-milk",
+ "names": {
+  "ja-hrkt": "ヤシのミルク",
+  "ko": "야자밀크",
+  "zh-hant": "椰奶",
+  "fr": "Lait de Coco",
+  "de": "Kokosmilch",
+  "es": "Leche de Coco",
+  "it": "Latte di cocco",
+  "en": "Coconut Milk",
+  "ja": "ヤシのミルク",
+  "zh-hans": "椰奶",
+  "es-419": "Leche de Coco"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 고급스러운 단맛이 나는 코코넛 밀크가 인기다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The refined sweetness of this coconut milk makes it quite popular.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ココナッツの 上品な 甘さの ミルクが 人気。"
+ }
+}

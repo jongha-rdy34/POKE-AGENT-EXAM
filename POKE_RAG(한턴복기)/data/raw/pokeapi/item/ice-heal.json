@@ -1,0 +1,34 @@
+{
+ "name": "ice-heal",
+ "names": {
+  "ja-hrkt": "こおりなおし",
+  "ko": "얼음상태치료제",
+  "zh-hant": "解凍藥",
+  "fr": "Antigel",
+  "de": "Eisheiler",
+  "es": "Antihielo",
+  "it": "Antigelo",
+  "en": "Ice Heal",
+  "ja": "こおりなおし",
+  "zh-hans": "解冻药",
+  "es-419": "Antihielo"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne le gel.",
+  "en": "Cures freezing."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating freezing. It can be used to thaw out a single Pokémon that has been frozen solid.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 얼음 상태를 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の こおりの 状態を 回復する。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "swampert-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Laggron",
+  "de": "Mega-Sumpex",
+  "en": "Mega Swampert"
+ },
+ "form_names": {
+  "ja-hrkt": "メガラグラージ",
+  "ko": "메가대짱이",
+  "zh-hant": "超級巨沼怪",
+  "fr": "Méga-Laggron",
+  "de": "Mega-Form",
+  "es": "Mega-Swampert",
+  "it": "MegaSwampert",
+  "en": "Mega Swampert",
+  "ja": "メガラグラージ",
+  "zh-hans": "超级巨沼怪",
+  "es-419": "Mega-Swampert"
+ },
+ "is_mega": true
+}

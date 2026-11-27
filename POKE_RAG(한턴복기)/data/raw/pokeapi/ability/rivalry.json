@@ -1,0 +1,23 @@
+{
+ "name": "rivalry",
+ "names": {
+  "ja-hrkt": "とうそうしん",
+  "ko": "투쟁심",
+  "zh-hant": "鬥爭心",
+  "fr": "Rivalité",
+  "de": "Rivalität",
+  "es": "Rivalidad",
+  "it": "Antagonismo",
+  "en": "Rivalry",
+  "ja": "とうそうしん",
+  "zh-hans": "斗争心",
+  "es-419": "Rivalidad"
+ },
+ "effect": {
+  "en": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+ },
+ "flavor": {
+  "en": "The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.",
+  "ko": "성별이 같으면 투쟁심을 불태워 강해진다. 성별이 다르면 약해진다."
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "id": 1019,
+ "name": "hydrapple",
+ "species": "hydrapple",
+ "is_default": true,
+ "types": [
+  "grass",
+  "dragon"
+ ],
+ "stats": {
+  "hp": 106,
+  "attack": 80,
+  "defense": 110,
+  "special-attack": 120,
+  "special-defense": 80,
+  "speed": 44
+ },
+ "abilities": [
+  {
+   "name": "supersweet-syrup",
+   "hidden": false
+  },
+  {
+   "name": "regenerator",
+   "hidden": false
+  },
+  {
+   "name": "sticky-hold",
+   "hidden": true
+  }
+ ],
+ "height": 18,
+ "weight": 930,
+ "champions_moves": [
+  "body-press",
+  "body-slam",
+  "breaking-swipe",
+  "bug-bite",
+  "bullet-seed",
+  "curse",
+  "double-edge",
+  "double-hit",
+  "draco-meteor",
+  "dragon-cheer",
+  "dragon-pulse",
+  "dragon-tail",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fickle-beam",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "growth",
+  "gyro-ball",
+  "heavy-slam",
+  "hydro-pump",
+  "hyper-beam",
+  "infestation",
+  "leaf-storm",
+  "nasty-plot",
+  "outrage",
+  "pollen-puff",
+  "pounce",
+  "power-whip",
+  "protect",
+  "rain-dance",
+  "recover",
+  "recycle",
+  "reflect",
+  "rest",
+  "seed-bomb",
+  "sleep-talk",
+  "solar-beam",
+  "substitute",
+  "sucker-punch",
+  "sunny-day",
+  "sweet-scent",
+  "syrup-bomb",
+  "uproar",
+  "yawn"
+ ]
+}

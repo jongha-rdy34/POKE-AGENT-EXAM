@@ -1,0 +1,42 @@
+{
+ "id": 827,
+ "name": "nickit",
+ "names": {
+  "ja-hrkt": "クスネ",
+  "ja-roma": "Kusune",
+  "ko": "훔처우",
+  "zh-hant": "偷兒狐",
+  "fr": "Goupilou",
+  "de": "Kleptifux",
+  "es": "Nickit",
+  "it": "Nickit",
+  "en": "Nickit",
+  "ja": "クスネ",
+  "zh-hans": "狡小狐",
+  "es-419": "Nickit"
+ },
+ "genus": {
+  "ja-hrkt": "きつねポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs-Pokémon",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "きつねポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "ko": "조심성이 많고 교활하다. 먹이를 훔치고는 꼬리로 발자국을 지우며 도망간다.",
+  "en": "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder."
+ },
+ "varieties": [
+  {
+   "name": "nickit",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "436"
+}

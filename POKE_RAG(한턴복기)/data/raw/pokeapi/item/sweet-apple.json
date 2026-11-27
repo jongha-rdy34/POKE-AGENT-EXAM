@@ -1,0 +1,25 @@
+{
+ "name": "sweet-apple",
+ "names": {
+  "ja-hrkt": "あまーいりんご",
+  "ko": "달콤한사과",
+  "zh-hant": "甜甜蘋果",
+  "fr": "Pomme Sucrée",
+  "de": "Süßer Apfel",
+  "es": "Manzana Dulce",
+  "it": "Dolcepomo",
+  "en": "Sweet Apple",
+  "ja": "あまーいりんご",
+  "zh-hans": "甜甜苹果",
+  "es-419": "Manzana Dulce"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 사과. 엄청나게 달다.",
+  "en": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally sweet.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な りんご。 とにかく 甘い。"
+ }
+}

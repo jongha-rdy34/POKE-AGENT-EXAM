@@ -1,0 +1,20 @@
+{
+ "name": "tm103",
+ "names": {
+  "ja-hrkt": "わざマシン１０３",
+  "ko": "기술머신103",
+  "zh-hant": "招式學習器１０３",
+  "fr": "CT103",
+  "de": "TM103",
+  "es": "MT103",
+  "it": "MT103",
+  "en": "TM103",
+  "ja": "わざマシン１０３",
+  "zh-hans": "招式学习器１０３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

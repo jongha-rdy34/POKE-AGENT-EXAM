@@ -1,0 +1,23 @@
+{
+ "name": "fairy-aura",
+ "names": {
+  "ja-hrkt": "フェアリーオーラ",
+  "ko": "페어리오라",
+  "zh-hant": "妖精氣場",
+  "fr": "Aura Féérique",
+  "de": "Feenaura",
+  "es": "Aura Feérica",
+  "it": "Aurafolletto",
+  "en": "Fairy Aura",
+  "ja": "フェアリーオーラ",
+  "zh-hans": "妖精气场",
+  "es-419": "Aura Feérica"
+ },
+ "effect": {
+  "en": "Strengthens Fairy moves to 1.33× their power for all friendly and opposing Pokémon."
+ },
+ "flavor": {
+  "ko": "전원의 페어리타입 기술이 강해진다.",
+  "en": "Powers up each Pokémon’s Fairy-type moves."
+ }
+}

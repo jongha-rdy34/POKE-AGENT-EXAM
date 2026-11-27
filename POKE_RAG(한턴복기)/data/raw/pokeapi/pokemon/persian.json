@@ -1,0 +1,34 @@
+{
+ "id": 53,
+ "name": "persian",
+ "species": "persian",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 70,
+  "defense": 60,
+  "special-attack": 65,
+  "special-defense": 65,
+  "speed": 115
+ },
+ "abilities": [
+  {
+   "name": "limber",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": false
+  },
+  {
+   "name": "unnerve",
+   "hidden": true
+  }
+ ],
+ "height": 10,
+ "weight": 320,
+ "champions_moves": []
+}

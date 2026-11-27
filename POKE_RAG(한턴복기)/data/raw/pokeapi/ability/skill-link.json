@@ -1,0 +1,23 @@
+{
+ "name": "skill-link",
+ "names": {
+  "ja-hrkt": "スキルリンク",
+  "ko": "스킬링크",
+  "zh-hant": "連續攻擊",
+  "fr": "Multi-Coups",
+  "de": "Wertelink",
+  "es": "Encadenado",
+  "it": "Abillegame",
+  "en": "Skill Link",
+  "ja": "スキルリンク",
+  "zh-hans": "连续攻击",
+  "es-419": "Encadenado"
+ },
+ "effect": {
+  "en": "Extends two-to-five-hit moves and Triple Kick to their full length every time."
+ },
+ "flavor": {
+  "en": "Maximizes the number of times multistrike moves hit.",
+  "ko": "연속 기술을 사용하면 항상 최고 횟수를 사용할 수 있다."
+ }
+}

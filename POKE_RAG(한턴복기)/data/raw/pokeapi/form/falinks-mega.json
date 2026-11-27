@@ -1,0 +1,15 @@
+{
+ "name": "falinks-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Hexadron",
+  "en": "Mega Falinks"
+ },
+ "form_names": {
+  "ja-hrkt": "メガタイレーツ",
+  "fr": "Méga-Hexadron",
+  "en": "Mega Falinks",
+  "ja": "メガタイレーツ"
+ },
+ "is_mega": true
+}

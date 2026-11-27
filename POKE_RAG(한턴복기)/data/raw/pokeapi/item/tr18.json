@@ -1,0 +1,25 @@
+{
+ "name": "tr18",
+ "names": {
+  "ja-hrkt": "わざレコード１８",
+  "ko": "기술레코드18",
+  "zh-hant": "招式紀錄１８",
+  "fr": "DT18",
+  "de": "TP18",
+  "es": "DT18",
+  "it": "DT18",
+  "en": "TR18",
+  "ja": "わざレコード１８",
+  "zh-hans": "招式记录１８",
+  "es-419": "DT18"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "피를 빨아서 상대를 공격한다. 준 데미지의 절반을 HP로 회복한다.",
+  "en": "The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.",
+  "ja": "血を 吸い取って 相手を 攻撃する。 与えた ダメージの 半分の ＨＰを 回復できる。"
+ }
+}

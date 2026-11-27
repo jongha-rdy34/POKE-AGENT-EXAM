@@ -1,0 +1,31 @@
+{
+ "name": "instruct",
+ "names": {
+  "ja-hrkt": "さいはい",
+  "ko": "지휘",
+  "zh-hant": "號令",
+  "fr": "Sommation",
+  "de": "Kommando",
+  "es": "Mandato",
+  "it": "Imposizione",
+  "en": "Instruct",
+  "ja": "さいはい",
+  "zh-hans": "号令",
+  "es-419": "Mandato"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Forces the target to repeat its last used move."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대에게 지시하여 상대가 쓴 기술을 다시 한번 쓰게 할 수 있다.",
+  "en": "The user instructs the target to reuse the move last used by the target."
+ }
+}

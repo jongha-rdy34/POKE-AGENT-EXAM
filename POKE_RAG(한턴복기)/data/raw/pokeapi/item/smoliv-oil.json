@@ -1,0 +1,20 @@
+{
+ "name": "smoliv-oil",
+ "names": {
+  "ja-hrkt": "ミニーブのオイル",
+  "ko": "미니브의오일",
+  "zh-hant": "迷你芙的油",
+  "fr": "Huile d'Olivini",
+  "de": "Olini-Öl",
+  "es": "Aceite de Smoliv",
+  "it": "Olio di Smoliv",
+  "en": "Smoliv Oil",
+  "ja": "ミニーブのオイル",
+  "zh-hans": "迷你芙的油"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

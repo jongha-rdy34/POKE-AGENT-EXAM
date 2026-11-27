@@ -1,0 +1,42 @@
+{
+ "id": 198,
+ "name": "murkrow",
+ "names": {
+  "ja-hrkt": "ヤミカラス",
+  "ja-roma": "Yamikarasu",
+  "ko": "니로우",
+  "zh-hant": "黑暗鴉",
+  "fr": "Cornèbre",
+  "de": "Kramurx",
+  "es": "Murkrow",
+  "it": "Murkrow",
+  "en": "Murkrow",
+  "ja": "ヤミカラス",
+  "zh-hans": "黑暗鸦",
+  "es-419": "Murkrow"
+ },
+ "genus": {
+  "ja-hrkt": "くらやみポケモン",
+  "ko": "어둠포켓몬",
+  "zh-hant": "黑暗寶可夢",
+  "fr": "Pokémon Obscurité",
+  "de": "Finsternis",
+  "es": "Pokémon Oscuridad",
+  "it": "Pokémon Oscurità",
+  "en": "Darkness Pokémon",
+  "ja": "くらやみポケモン",
+  "zh-hans": "黑暗宝可梦",
+  "es-419": "Pokémon Oscuridad"
+ },
+ "flavor": {
+  "en": "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation.",
+  "ko": "보스를 위해 반짝반짝 빛나는 것을 찾고 있다. 불길한 존재로 여겨 몹시 싫어하는 사람도 많다."
+ },
+ "varieties": [
+  {
+   "name": "murkrow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "97"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "drampanite",
+ "names": {
+  "ko": "할비롱나이트",
+  "zh-hant": "老翁龍進化石",
+  "fr": "Draïeulite",
+  "de": "Sen-Longnit",
+  "es": "Drampanita",
+  "it": "Drampite",
+  "en": "Drampanite",
+  "ja": "ジジーロナイト",
+  "zh-hans": "老翁龙进化石",
+  "es-419": "Drampanita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr95",
+ "names": {
+  "ja-hrkt": "わざレコード９５",
+  "ko": "기술레코드95",
+  "zh-hant": "招式紀錄９５",
+  "fr": "DT95",
+  "de": "TP95",
+  "es": "DT95",
+  "it": "DT95",
+  "en": "TR95",
+  "ja": "わざレコード９５",
+  "zh-hans": "招式记录９５",
+  "es-419": "DT95"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "이 기술에 맞은 상대는 지옥의 고통 때문에 2턴 동안 소리 기술을 낼 수 없다.",
+  "en": "The user attacks the target’s throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.",
+  "ja": "この 技を 受けた 相手は 地獄の 苦しみから ２ターンの間 音の 技を 出すことが できなくなる。"
+ }
+}

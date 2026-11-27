@@ -1,0 +1,30 @@
+{
+ "name": "salac-berry",
+ "names": {
+  "ja-hrkt": "カムラのみ",
+  "ko": "캄라열매",
+  "zh-hant": "沙鱗果",
+  "fr": "Baie Sailak",
+  "de": "Salkabeere",
+  "es": "Baya Aslac",
+  "it": "Baccasalak",
+  "en": "Salac Berry",
+  "ja": "カムラのみ",
+  "zh-hans": "沙鳞果",
+  "es-419": "Baya Aslac"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster la Vitesse.",
+  "en": "Held: Consumed at 1/4 max HP to boost Speed."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its Speed stat will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 자신의 스피드가 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 自分の 素早さが あがる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 189,
+ "name": "jumpluff",
+ "names": {
+  "ja-hrkt": "ワタッコ",
+  "ja-roma": "Watacco",
+  "ko": "솜솜코",
+  "zh-hant": "毽子棉",
+  "fr": "Cotovol",
+  "de": "Papungha",
+  "es": "Jumpluff",
+  "it": "Jumpluff",
+  "en": "Jumpluff",
+  "ja": "ワタッコ",
+  "zh-hans": "毽子棉",
+  "es-419": "Jumpluff"
+ },
+ "genus": {
+  "ja-hrkt": "わたくさポケモン",
+  "ko": "솜풀포켓몬",
+  "zh-hant": "棉草寶可夢",
+  "fr": "Pokémon Pissenlit",
+  "de": "Löwenzahn",
+  "es": "Pokémon Algadón",
+  "it": "Pokémon Gramigna",
+  "en": "Cottonweed Pokémon",
+  "ja": "わたくさポケモン",
+  "zh-hans": "棉草宝可梦",
+  "es-419": "Pokémon Algadón"
+ },
+ "flavor": {
+  "en": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
+  "ko": "따뜻한 남풍을 타고 바다를 건너 외국까지 날아가는 포켓몬이다. 차가운 공기에 닿으면 땅에 내려온다."
+ },
+ "varieties": [
+  {
+   "name": "jumpluff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "92"
+}

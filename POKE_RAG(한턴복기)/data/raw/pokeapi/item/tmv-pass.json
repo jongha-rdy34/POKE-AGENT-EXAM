@@ -1,0 +1,28 @@
+{
+ "name": "tmv-pass",
+ "names": {
+  "ja-hrkt": "ＴＭＶパス",
+  "ko": "TMV패스",
+  "zh-hant": "ＴＭＶ自由票",
+  "fr": "Passe TMV",
+  "de": "TMV-Pass",
+  "es": "Abono del TMV",
+  "it": "Pass TMV",
+  "en": "TMV Pass",
+  "ja": "ＴＭＶパス",
+  "zh-hans": "ＴＭＶ自由票",
+  "es-419": "Abono del TMV"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à Batisques.",
+  "en": "Permits access to Kiloude City."
+ },
+ "flavor": {
+  "ko": "미르시티와 기남시티를 잇는 초고속철도를 언제든지 탈 수 있는 티켓.",
+  "en": "A commuter pass that allows the holder to ride the TMV between Lumiose City and Kiloude City at any time.",
+  "ja": "ミアレシティと キナンシティを 結ぶ 超高速鉄道に いつでも 乗れる チケット。"
+ }
+}

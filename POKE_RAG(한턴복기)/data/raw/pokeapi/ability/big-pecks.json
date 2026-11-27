@@ -1,0 +1,23 @@
+{
+ "name": "big-pecks",
+ "names": {
+  "ja-hrkt": "はとむね",
+  "ko": "부풀린가슴",
+  "zh-hant": "健壯胸肌",
+  "fr": "Cœur de Coq",
+  "de": "Brustbieter",
+  "es": "Sacapecho",
+  "it": "Pettinfuori",
+  "en": "Big Pecks",
+  "ja": "はとむね",
+  "zh-hans": "健壮胸肌",
+  "es-419": "Sacapecho"
+ },
+ "effect": {
+  "en": "Protects against Defense drops."
+ },
+ "flavor": {
+  "en": "Prevents the Pokémon from having its Defense stat lowered.",
+  "ko": "방어를 떨어뜨리는 효과를 받지 않는다."
+ }
+}

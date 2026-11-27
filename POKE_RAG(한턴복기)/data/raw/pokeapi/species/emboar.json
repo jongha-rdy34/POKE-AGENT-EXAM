@@ -1,0 +1,46 @@
+{
+ "id": 500,
+ "name": "emboar",
+ "names": {
+  "ja-hrkt": "エンブオー",
+  "ja-roma": "Enbuoh",
+  "ko": "염무왕",
+  "zh-hant": "炎武王",
+  "fr": "Roitiflam",
+  "de": "Flambirex",
+  "es": "Emboar",
+  "it": "Emboar",
+  "en": "Emboar",
+  "ja": "エンブオー",
+  "zh-hans": "炎武王",
+  "es-419": "Emboar"
+ },
+ "genus": {
+  "ja-hrkt": "おおひぶたポケモン",
+  "ko": "큰불돼지포켓몬",
+  "zh-hant": "大火豬寶可夢",
+  "fr": "Pokémon Grochon Feu",
+  "de": "Feuerschwein",
+  "es": "Pokémon Cerdo Ígneo",
+  "it": "Pokémon Suincendio",
+  "en": "Mega Fire Pig Pokémon",
+  "ja": "おおひぶたポケモン",
+  "zh-hans": "大火猪宝可梦",
+  "es-419": "Pokémon Cerdo Ígneo"
+ },
+ "flavor": {
+  "en": "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
+  "ko": "불꽃 턱수염을 기르고 있다. 파워와 스피드를 겸비한 격투 기술을 익히고 있다."
+ },
+ "varieties": [
+  {
+   "name": "emboar",
+   "is_default": true
+  },
+  {
+   "name": "emboar-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "257"
+}

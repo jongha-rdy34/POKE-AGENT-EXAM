@@ -1,0 +1,28 @@
+{
+ "name": "tapunium-z--held",
+ "names": {
+  "ja-hrkt": "カプＺ",
+  "ko": "카푸Z",
+  "zh-hant": "卡璞Ｚ",
+  "fr": "Tokozélite",
+  "de": "Kapium Z",
+  "es": "Tapistal Z",
+  "it": "Tapium Z",
+  "en": "Tapunium Z",
+  "ja": "カプＺ",
+  "zh-hans": "卡璞Ｚ",
+  "es-419": "Tapistal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet aux Tapus d'améliorer Ire de la Nature en Colère du Gardien d'Alola.",
+  "en": "Held: Allows the Tapus to upgrade Nature’s Madness into Guardian of Alola."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 카푸들의 자연의분노를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades the tapu’s Nature’s Madness to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 カプたちの しぜんのいかりを Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "name": "x-defense",
+ "names": {
+  "ja-hrkt": "ディフェンダー",
+  "ko": "디펜드업",
+  "zh-hant": "防禦強化",
+  "fr": "Défense +",
+  "de": "X-Verteidigung",
+  "es": "Defensa X",
+  "it": "Difesa X",
+  "en": "X Defense",
+  "ja": "ディフェンダー",
+  "zh-hans": "防御强化",
+  "es-419": "Defensa X"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente la Défense d'un niveau en combat. Augmente le bonheur.",
+  "en": "Raises Defense by one stage in battle.  Raises happiness."
+ },
+ "flavor": {
+  "en": "An item that sharply boosts the Defense stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 방어를 크게 올리는 도구. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 防御を 大きく あげる 道具。 ひっこめると 元に 戻る。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "breaking-swipe",
+ "names": {
+  "ja-hrkt": "ワイドブレイカー",
+  "ko": "와이드브레이커",
+  "zh-hant": "廣域破壞",
+  "fr": "Abattage",
+  "de": "Breitseite",
+  "es": "Vasto Impacto",
+  "it": "Vastoimpatto",
+  "en": "Breaking Swipe",
+  "ja": "ワイドブレイカー",
+  "zh-hans": "广域破坏",
+  "es-419": "Vasto Impacto"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Lowers the target’s Attack by one stage after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "강인한 꼬리를 세차게 휘둘러서 상대를 공격한다. 상대의 공격을 떨어뜨린다.",
+  "en": "The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats."
+ }
+}

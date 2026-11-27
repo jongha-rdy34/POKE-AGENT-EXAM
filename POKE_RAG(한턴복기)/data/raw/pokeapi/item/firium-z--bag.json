@@ -1,0 +1,28 @@
+{
+ "name": "firium-z--bag",
+ "names": {
+  "ja-hrkt": "ホノオＺ",
+  "ko": "불꽃Z",
+  "zh-hant": "火Ｚ",
+  "fr": "Pyrozélite",
+  "de": "Pyrium Z",
+  "es": "Pirostal Z",
+  "it": "Pirium Z",
+  "en": "Firium Z",
+  "ja": "ホノオＺ",
+  "zh-hans": "火Ｚ",
+  "es-419": "Pirostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour firium-z--bag",
+  "en": "XXX new effect for firium-z--bag"
+ },
+ "flavor": {
+  "ko": "불꽃타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Fire-type moves to Fire-type Z-Moves.",
+  "ja": "ほのおタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

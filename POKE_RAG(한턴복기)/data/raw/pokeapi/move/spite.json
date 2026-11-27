@@ -1,0 +1,31 @@
+{
+ "name": "spite",
+ "names": {
+  "ja-hrkt": "うらみ",
+  "ko": "원한",
+  "zh-hant": "怨恨",
+  "fr": "Dépit",
+  "de": "Groll",
+  "es": "Rencor",
+  "it": "Dispetto",
+  "en": "Spite",
+  "ja": "うらみ",
+  "zh-hans": "怨恨",
+  "es-419": "Rencor"
+ },
+ "type": "ghost",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the PP of the target’s last used move by 4."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.",
+  "ko": "상대가 마지막으로 사용한 기술에 원한을 품어 그 기술의 PP를 4만큼 줄인다."
+ }
+}

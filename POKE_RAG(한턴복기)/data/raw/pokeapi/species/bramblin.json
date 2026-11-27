@@ -1,0 +1,37 @@
+{
+ "id": 946,
+ "name": "bramblin",
+ "names": {
+  "ja-hrkt": "アノクサ",
+  "ja-roma": "Anokusa",
+  "ko": "그푸리",
+  "zh-hant": "納噬草",
+  "fr": "Virovent",
+  "de": "Weherba",
+  "es": "Bramblin",
+  "it": "Bramblin",
+  "en": "Bramblin",
+  "ja": "アノクサ",
+  "zh-hans": "纳噬草",
+  "es-419": "Bramblin"
+ },
+ "genus": {
+  "ja-hrkt": "ころがりぐさポケモン",
+  "ko": "회전초포켓몬",
+  "zh-hant": "滾草寶可夢",
+  "fr": "Virevoltant",
+  "de": "Rollgras",
+  "en": "Tumbleweed Pokémon",
+  "zh-hans": "滚草宝可梦"
+ },
+ "flavor": {
+  "en": "Not even Bramblin knows where it is headed as it tumbles across the wilderness, blown by the wind. It loathes getting wet."
+ },
+ "varieties": [
+  {
+   "name": "bramblin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "495"
+}

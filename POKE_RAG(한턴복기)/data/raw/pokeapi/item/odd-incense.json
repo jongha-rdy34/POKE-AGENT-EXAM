@@ -1,0 +1,31 @@
+{
+ "name": "odd-incense",
+ "names": {
+  "ja-hrkt": "あやしいおこう",
+  "ko": "괴상한향로",
+  "zh-hant": "奇異薰香",
+  "fr": "Encens Bizarre",
+  "de": "Schrägrauch",
+  "es": "Incienso Raro",
+  "it": "Bizzoaroma",
+  "en": "Odd Incense",
+  "ja": "あやしいおこう",
+  "zh-hans": "奇异薰香",
+  "es-419": "Incienso Raro"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Psy du porteur infligent 20% de dégâts supplémentaires. Reproduction: M. Mime engendre un Œuf de Mime Jr.",
+  "en": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This exotic-smelling incense boosts the power of Psychic-type moves.",
+  "ko": "이상한 향기의 향로. 지니게 하면 에스퍼타입 기술의 위력이 올라간다.",
+  "ja": "不思議な 香りの 御香。 持たせると エスパータイプの 技の 威力が あがる。"
+ }
+}

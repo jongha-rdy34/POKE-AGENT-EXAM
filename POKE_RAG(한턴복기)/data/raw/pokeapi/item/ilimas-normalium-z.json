@@ -1,0 +1,28 @@
+{
+ "name": "ilimas-normalium-z",
+ "names": {
+  "ja-hrkt": "イリマノーマルＺ",
+  "ko": "일리마의 노말Z",
+  "zh-hant": "伊利馬一般Ｚ",
+  "fr": "Cristal Z Althéo",
+  "de": "Elimas Normium Z",
+  "es": "Cristal Z (Liam)",
+  "it": "Normium Z Liam",
+  "en": "Ilima Normalium Z",
+  "ja": "イリマノーマルＺ",
+  "zh-hans": "伊利马一般Ｚ",
+  "es-419": "Cristal Z (Liam)"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour ilimas-normalium-z",
+  "en": "XXX new effect for ilimas-normalium-z"
+ },
+ "flavor": {
+  "ko": "일리마에게 받은 노말Z. 우거진 동굴 안쪽에 있는 대좌에 두도록 부탁받았다.",
+  "en": "The Normalium Z you were entrusted with by Ilima. You were asked to place it on the pedestal at the back of Verdant Cavern.",
+  "ja": "イリマから 預かった ノーマルＺ。 茂みの洞窟 奥にある 台座に 置くよう 頼まれた。"
+ }
+}

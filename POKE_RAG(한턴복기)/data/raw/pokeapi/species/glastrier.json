@@ -1,0 +1,42 @@
+{
+ "id": 896,
+ "name": "glastrier",
+ "names": {
+  "ja-hrkt": "ブリザポス",
+  "ja-roma": "Blizzapos",
+  "ko": "블리자포스",
+  "zh-hant": "雪暴馬",
+  "fr": "Blizzeval",
+  "de": "Polaross",
+  "es": "Glastrier",
+  "it": "Glastrier",
+  "en": "Glastrier",
+  "ja": "ブリザポス",
+  "zh-hans": "雪暴马",
+  "es-419": "Glastrier"
+ },
+ "genus": {
+  "ja-hrkt": "あばれうまポケモン",
+  "ko": "사나운말포켓몬",
+  "zh-hant": "烈馬寶可夢",
+  "fr": "Pokémon Cheval Rétif",
+  "de": "Wildblut-Pokémon",
+  "es": "Pokémon Corcel Feroz",
+  "it": "Pokémon Furiequino",
+  "en": "Wild Horse Pokémon",
+  "ja": "あばれうまポケモン",
+  "zh-hans": "烈马宝可梦",
+  "es-419": "Pokémon Corcel Feroz"
+ },
+ "flavor": {
+  "ko": "굉장한 괴력을 가졌다. 얼굴을 덮는 얼음 마스크는 다이아몬드보다 100배 단단하다.",
+  "en": "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond."
+ },
+ "varieties": [
+  {
+   "name": "glastrier",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "474"
+}

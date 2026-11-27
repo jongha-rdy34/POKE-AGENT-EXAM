@@ -1,0 +1,42 @@
+{
+ "id": 349,
+ "name": "feebas",
+ "names": {
+  "ja-hrkt": "ヒンバス",
+  "ja-roma": "Hinbass",
+  "ko": "빈티나",
+  "zh-hant": "醜醜魚",
+  "fr": "Barpau",
+  "de": "Barschwa",
+  "es": "Feebas",
+  "it": "Feebas",
+  "en": "Feebas",
+  "ja": "ヒンバス",
+  "zh-hans": "丑丑鱼",
+  "es-419": "Feebas"
+ },
+ "genus": {
+  "ja-hrkt": "さかなポケモン",
+  "ko": "물고기포켓몬",
+  "zh-hant": "魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Fisch-Pokémon",
+  "es": "Pokémon Pez",
+  "it": "Pokémon Pesce",
+  "en": "Fish Pokémon",
+  "ja": "さかなポケモン",
+  "zh-hans": "鱼宝可梦",
+  "es-419": "Pokémon Pez"
+ },
+ "flavor": {
+  "en": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+  "ko": "볼품없고 못생긴 포켓몬이지만 강인한 생명력을 가져 약간의 물만 있어도 살아남는다."
+ },
+ "varieties": [
+  {
+   "name": "feebas",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "178"
+}

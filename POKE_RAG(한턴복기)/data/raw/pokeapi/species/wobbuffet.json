@@ -1,0 +1,42 @@
+{
+ "id": 202,
+ "name": "wobbuffet",
+ "names": {
+  "ja-hrkt": "ソーナンス",
+  "ja-roma": "Sonans",
+  "ko": "마자용",
+  "zh-hant": "果然翁",
+  "fr": "Qulbutoké",
+  "de": "Woingenau",
+  "es": "Wobbuffet",
+  "it": "Wobbuffet",
+  "en": "Wobbuffet",
+  "ja": "ソーナンス",
+  "zh-hans": "果然翁",
+  "es-419": "Wobbuffet"
+ },
+ "genus": {
+  "ja-hrkt": "がまんポケモン",
+  "ko": "참기포켓몬",
+  "zh-hant": "忍耐寶可夢",
+  "fr": "Pokémon Patient",
+  "de": "Gedulds-Pokémon",
+  "es": "Pokémon Paciente",
+  "it": "Pokémon Pazienza",
+  "en": "Patient Pokémon",
+  "ja": "がまんポケモン",
+  "zh-hans": "忍耐宝可梦",
+  "es-419": "Pokémon Paciente"
+ },
+ "flavor": {
+  "en": "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack.",
+  "ko": "새까만 꼬리를 숨기기 위해 어둠 속에서 은밀히 지내고 있다. 자신이 먼저 공격하는 일은 없다."
+ },
+ "varieties": [
+  {
+   "name": "wobbuffet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "100"
+}

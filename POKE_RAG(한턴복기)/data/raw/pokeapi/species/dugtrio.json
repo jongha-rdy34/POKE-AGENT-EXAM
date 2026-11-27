@@ -1,0 +1,46 @@
+{
+ "id": 51,
+ "name": "dugtrio",
+ "names": {
+  "ja-hrkt": "ダグトリオ",
+  "ja-roma": "Dugtrio",
+  "ko": "닥트리오",
+  "zh-hant": "三地鼠",
+  "fr": "Triopikeur",
+  "de": "Digdri",
+  "es": "Dugtrio",
+  "it": "Dugtrio",
+  "en": "Dugtrio",
+  "ja": "ダグトリオ",
+  "zh-hans": "三地鼠",
+  "es-419": "Dugtrio"
+ },
+ "genus": {
+  "ja-hrkt": "もぐらポケモン",
+  "ko": "두더지포켓몬",
+  "zh-hant": "鼴鼠寶可夢",
+  "fr": "Pokémon Taupe",
+  "de": "Maulwurf-Pokémon",
+  "es": "Pokémon Topo",
+  "it": "Pokémon Talpa",
+  "en": "Mole Pokémon",
+  "ja": "もぐらポケモン",
+  "zh-hans": "鼹鼠宝可梦",
+  "es-419": "Pokémon Topo"
+ },
+ "flavor": {
+  "en": "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground.",
+  "ko": "지하 100km까지 파고들 수 있는 파워를 간직한 세쌍둥이 디그다. 땅 밑은 아무도 모른다."
+ },
+ "varieties": [
+  {
+   "name": "dugtrio",
+   "is_default": true
+  },
+  {
+   "name": "dugtrio-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "21"
+}

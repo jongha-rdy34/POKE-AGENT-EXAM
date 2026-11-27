@@ -1,0 +1,20 @@
+{
+ "name": "geodude-fragment",
+ "names": {
+  "ja-hrkt": "イシツブテのかけら",
+  "ko": "꼬마돌의조각",
+  "zh-hant": "小拳石的碎片",
+  "fr": "Fragment de Racaillou",
+  "de": "Kleinstein-Splitter",
+  "es": "Fragmento de Geodude",
+  "it": "Frammento di Geodude",
+  "en": "Geodude Fragment",
+  "ja": "イシツブテのかけら",
+  "zh-hans": "小拳石的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

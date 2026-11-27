@@ -1,0 +1,20 @@
+{
+ "name": "komala-claw",
+ "names": {
+  "ja-hrkt": "ネッコアラのツメ",
+  "ko": "자말라의발톱",
+  "zh-hant": "樹枕尾熊的爪子",
+  "fr": "Griffe de Dodoala",
+  "de": "Koalelu-Kralle",
+  "es": "Garra de Komala",
+  "it": "Artiglio di Komala",
+  "en": "Komala Claw",
+  "ja": "ネッコアラのツメ",
+  "zh-hans": "树枕尾熊的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

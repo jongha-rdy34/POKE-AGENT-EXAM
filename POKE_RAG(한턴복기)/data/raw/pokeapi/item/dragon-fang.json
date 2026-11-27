@@ -1,0 +1,31 @@
+{
+ "name": "dragon-fang",
+ "names": {
+  "ja-hrkt": "りゅうのキバ",
+  "ko": "용의이빨",
+  "zh-hant": "龍之牙",
+  "fr": "Croc Dragon",
+  "de": "Drachenzahn",
+  "es": "Colmillo de Dragón",
+  "it": "Dentedidrago",
+  "en": "Dragon Fang",
+  "ja": "りゅうのキバ",
+  "zh-hans": "龙之牙",
+  "es-419": "Colmillo Dragón"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Dragon du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Dragon-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This hard and sharp fang boosts the power of Dragon-type moves.",
+  "ko": "단단하고 날카로운 이빨. 지니게 하면 드래곤타입 기술의 위력이 올라간다.",
+  "ja": "硬くて 鋭い キバ。 持たせると ドラゴンタイプの 技の 威力が あがる。"
+ }
+}

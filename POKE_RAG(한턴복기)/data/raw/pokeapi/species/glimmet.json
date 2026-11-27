@@ -1,0 +1,37 @@
+{
+ "id": 969,
+ "name": "glimmet",
+ "names": {
+  "ja-hrkt": "キラーメ",
+  "ja-roma": "Kirame",
+  "ko": "초롱순",
+  "zh-hant": "晶光芽",
+  "fr": "Germéclat",
+  "de": "Lumispross",
+  "es": "Glimmet",
+  "it": "Glimmet",
+  "en": "Glimmet",
+  "ja": "キラーメ",
+  "zh-hans": "晶光芽",
+  "es-419": "Glimmet"
+ },
+ "genus": {
+  "ja-hrkt": "こうせきポケモン",
+  "ko": "광석포켓몬",
+  "zh-hant": "礦石寶可夢",
+  "fr": "Minerai",
+  "de": "Erz",
+  "en": "Ore Pokémon",
+  "zh-hans": "矿石宝可梦"
+ },
+ "flavor": {
+  "en": "Glimmet’s toxic mineral crystals look just like flower petals. This Pokémon scatters poisonous powder like pollen to protect itself."
+ },
+ "varieties": [
+  {
+   "name": "glimmet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "508"
+}

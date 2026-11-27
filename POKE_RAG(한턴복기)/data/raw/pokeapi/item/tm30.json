@@ -1,0 +1,28 @@
+{
+ "name": "tm30",
+ "names": {
+  "ja-hrkt": "わざマシン３０",
+  "ko": "기술머신30",
+  "zh-hant": "招式學習器３０",
+  "fr": "CT30",
+  "de": "TM30",
+  "es": "MT30",
+  "it": "MT30",
+  "en": "TM30",
+  "ja": "わざマシン３０",
+  "zh-hans": "招式学习器３０",
+  "es-419": "MT30"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Ball'Ombre à un Pokémon compatible. (Gén I: Téléport)",
+  "en": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)"
+ },
+ "flavor": {
+  "en": "The target is hit with wings of steel. This may also raise the user’s Defense stat.",
+  "ko": "단단한 날개를 상대에게 부딪쳐서 공격한다. 자신의 방어가 올라갈 때가 있다.",
+  "ja": "硬い 翼を 相手に たたきつけて 攻撃する。 自分の 防御が あがることが ある。"
+ }
+}

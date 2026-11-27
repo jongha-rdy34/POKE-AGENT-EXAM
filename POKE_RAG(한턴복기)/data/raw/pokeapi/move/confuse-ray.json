@@ -1,0 +1,31 @@
+{
+ "name": "confuse-ray",
+ "names": {
+  "ja-hrkt": "あやしいひかり",
+  "ko": "이상한빛",
+  "zh-hant": "奇異之光",
+  "fr": "Onde Folie",
+  "de": "Konfusstrahl",
+  "es": "Rayo Confuso",
+  "it": "Stordiraggio",
+  "en": "Confuse Ray",
+  "ja": "あやしいひかり",
+  "zh-hans": "奇异之光",
+  "es-419": "Rayo de Confusión"
+ },
+ "type": "ghost",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Confuses the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is exposed to a sinister ray that causes confusion.",
+  "ko": "이상한 빛을 상대에게 비춰 당황하게 한다. 상대를 혼란시킨다."
+ }
+}

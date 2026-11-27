@@ -1,0 +1,20 @@
+{
+ "name": "bombirdier-feather",
+ "names": {
+  "ja-hrkt": "オトシドリのはね",
+  "ko": "떨구새의깃털",
+  "zh-hant": "下石鳥的羽毛",
+  "fr": "Plume de Lestombaile",
+  "de": "Adebom-Feder",
+  "es": "Pluma de Bombirdier",
+  "it": "Penna di Bombirdier",
+  "en": "Bombirdier Feather",
+  "ja": "オトシドリのはね",
+  "zh-hans": "下石鸟的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

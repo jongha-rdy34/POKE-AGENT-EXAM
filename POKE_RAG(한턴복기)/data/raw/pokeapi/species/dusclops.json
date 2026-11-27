@@ -1,0 +1,42 @@
+{
+ "id": 356,
+ "name": "dusclops",
+ "names": {
+  "ja-hrkt": "サマヨール",
+  "ja-roma": "Samayouru",
+  "ko": "미라몽",
+  "zh-hant": "彷徨夜靈",
+  "fr": "Téraclope",
+  "de": "Zwirrklop",
+  "es": "Dusclops",
+  "it": "Dusclops",
+  "en": "Dusclops",
+  "ja": "サマヨール",
+  "zh-hans": "彷徨夜灵",
+  "es-419": "Dusclops"
+ },
+ "genus": {
+  "ja-hrkt": "てまねきポケモン",
+  "ko": "손짓포켓몬",
+  "zh-hant": "招手寶可夢",
+  "fr": "Pokémon Appel",
+  "de": "Wink-Pokémon",
+  "es": "Pokémon Atrayente",
+  "it": "Pokémon Ipnosguardo",
+  "en": "Beckon Pokémon",
+  "ja": "てまねきポケモン",
+  "zh-hans": "招手宝可梦",
+  "es-419": "Pokémon Atrayente"
+ },
+ "flavor": {
+  "en": "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify.",
+  "ko": "떠도는 사람의 영혼을 찾아 텅 빈 체내로 빨아들인다. 그 후 영혼이 어떻게 되는지는 알 수 없다."
+ },
+ "varieties": [
+  {
+   "name": "dusclops",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "182"
+}

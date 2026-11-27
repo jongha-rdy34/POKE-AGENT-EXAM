@@ -1,0 +1,46 @@
+{
+ "id": 531,
+ "name": "audino",
+ "names": {
+  "ja-hrkt": "タブンネ",
+  "ja-roma": "Tabunne",
+  "ko": "다부니",
+  "zh-hant": "差不多娃娃",
+  "fr": "Nanméouïe",
+  "de": "Ohrdoch",
+  "es": "Audino",
+  "it": "Audino",
+  "en": "Audino",
+  "ja": "タブンネ",
+  "zh-hans": "差不多娃娃",
+  "es-419": "Audino"
+ },
+ "genus": {
+  "ja-hrkt": "ヒヤリングポケモン",
+  "ko": "히어링포켓몬",
+  "zh-hant": "聽力寶可夢",
+  "fr": "Pokémon Audition",
+  "de": "Gehör-Pokémon",
+  "es": "Pokémon Escucha",
+  "it": "Pokémon Ascolto",
+  "en": "Hearing Pokémon",
+  "ja": "ヒヤリングポケモン",
+  "zh-hans": "听力宝可梦",
+  "es-419": "Pokémon Escucha"
+ },
+ "flavor": {
+  "en": "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions.",
+  "ko": "마음 착한 포켓몬이다. 더듬이를 갖다 대어 상대의 마음과 몸 상태를 파악한다."
+ },
+ "varieties": [
+  {
+   "name": "audino",
+   "is_default": true
+  },
+  {
+   "name": "audino-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "271"
+}

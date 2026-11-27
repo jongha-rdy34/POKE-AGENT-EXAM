@@ -1,0 +1,31 @@
+{
+ "name": "roost",
+ "names": {
+  "ja-hrkt": "はねやすめ",
+  "ko": "날개쉬기",
+  "zh-hant": "羽棲",
+  "fr": "Atterrissage",
+  "de": "Ruheort",
+  "es": "Respiro",
+  "it": "Trespolo",
+  "en": "Roost",
+  "ja": "はねやすめ",
+  "zh-hans": "羽栖",
+  "es-419": "Respiro"
+ },
+ "type": "flying",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lands and rests its body. This move restores the user's HP by up to half its max HP.",
+  "ko": "땅에 내려와 몸을 쉬게 한다. 최대 HP의 절반만큼 HP를 회복한다."
+ }
+}

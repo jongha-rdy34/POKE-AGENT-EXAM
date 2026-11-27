@@ -1,0 +1,22 @@
+{
+ "name": "old-sea-map",
+ "names": {
+  "ja-hrkt": "ふるびたかいず",
+  "fr": "Vieillecarte",
+  "de": "Alte Karte",
+  "es": "Mapa Viejo",
+  "it": "Mappa Stinta",
+  "en": "Old Sea Map",
+  "es-419": "Mapa Viejo"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à l'ïle Lointaine et Mew. Jamais diffusé hors Japon.",
+  "en": "Allows access to Faraway Island and Mew. Unreleased outside of Japan."
+ },
+ "flavor": {
+  "en": "A faded sea chart that shows the way to a certain island."
+ }
+}

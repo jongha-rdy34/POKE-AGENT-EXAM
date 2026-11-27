@@ -1,0 +1,28 @@
+{
+ "name": "gengarite",
+ "names": {
+  "ja-hrkt": "ゲンガナイト",
+  "ko": "팬텀나이트",
+  "zh-hant": "耿鬼進化石",
+  "fr": "Ectoplasmite",
+  "de": "Gengarnit",
+  "es": "Gengarita",
+  "it": "Gengarite",
+  "en": "Gengarite",
+  "ja": "ゲンガナイト",
+  "zh-hans": "耿鬼进化石",
+  "es-419": "Gengarita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Ectoplasma de Méga-Évoluer en Méga-Ectoplasma.",
+  "en": "Held: Allows Gengar to Mega Evolve into Mega Gengar."
+ },
+ "flavor": {
+  "ko": "팬텀에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Gengar hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ゲンガーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

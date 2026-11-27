@@ -1,0 +1,42 @@
+{
+ "id": 238,
+ "name": "smoochum",
+ "names": {
+  "ja-hrkt": "ムチュール",
+  "ja-roma": "Muchul",
+  "ko": "뽀뽀라",
+  "zh-hant": "迷唇娃",
+  "fr": "Lippouti",
+  "de": "Kussilla",
+  "es": "Smoochum",
+  "it": "Smoochum",
+  "en": "Smoochum",
+  "ja": "ムチュール",
+  "zh-hans": "迷唇娃",
+  "es-419": "Smoochum"
+ },
+ "genus": {
+  "ja-hrkt": "くちづけポケモン",
+  "ko": "뽀뽀포켓몬",
+  "zh-hant": "親吻寶可夢",
+  "fr": "Pokémon Bisou",
+  "de": "Kuss-Pokémon",
+  "es": "Pokémon Beso",
+  "it": "Pokémon Bacio",
+  "en": "Kiss Pokémon",
+  "ja": "くちづけポケモン",
+  "zh-hans": "亲吻宝可梦",
+  "es-419": "Pokémon Beso"
+ },
+ "flavor": {
+  "en": "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips.",
+  "ko": "호기심이 왕성한 포켓몬이다. 뭐든지 입술에 대보고 좋은지 싫은지 판단한다."
+ },
+ "varieties": [
+  {
+   "name": "smoochum",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "59"
+}

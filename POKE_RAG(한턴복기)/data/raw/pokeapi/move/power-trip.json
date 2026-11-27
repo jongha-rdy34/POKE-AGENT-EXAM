@@ -1,0 +1,31 @@
+{
+ "name": "power-trip",
+ "names": {
+  "ja-hrkt": "つけあがる",
+  "ko": "기어오르기",
+  "zh-hant": "囂張",
+  "fr": "Arrogance",
+  "de": "Überheblichkeit",
+  "es": "Chulería",
+  "it": "Tracotanza",
+  "en": "Power Trip",
+  "ja": "つけあがる",
+  "zh-hans": "嚣张",
+  "es-419": "Arrogancia"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 20,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is higher the more the user’s stats have been raised, to a maximum of 31×."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "자신의 강함을 뻐기고 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다.",
+  "en": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power."
+ }
+}

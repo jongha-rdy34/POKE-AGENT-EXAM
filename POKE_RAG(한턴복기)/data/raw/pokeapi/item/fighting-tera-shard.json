@@ -1,0 +1,20 @@
+{
+ "name": "fighting-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースかくとう",
+  "ko": "테라피스 격투",
+  "zh-hant": "格鬥太晶碎塊",
+  "fr": "Téra-Éclat Combat",
+  "de": "Tera-Stück (Kampf)",
+  "es": "Teralito Lucha",
+  "it": "Teralite Lotta",
+  "en": "Fighting Tera Shard",
+  "ja": "テラピースかくとう",
+  "zh-hans": "格斗太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

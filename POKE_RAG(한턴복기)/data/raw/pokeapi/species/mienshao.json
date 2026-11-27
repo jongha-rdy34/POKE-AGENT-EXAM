@@ -1,0 +1,42 @@
+{
+ "id": 620,
+ "name": "mienshao",
+ "names": {
+  "ja-hrkt": "コジョンド",
+  "ja-roma": "Kojondo",
+  "ko": "비조도",
+  "zh-hant": "師父鼬",
+  "fr": "Shaofouine",
+  "de": "Wie-Shu",
+  "es": "Mienshao",
+  "it": "Mienshao",
+  "en": "Mienshao",
+  "ja": "コジョンド",
+  "zh-hans": "师父鼬",
+  "es-419": "Mienshao"
+ },
+ "genus": {
+  "ja-hrkt": "ぶじゅつポケモン",
+  "ko": "무술포켓몬",
+  "zh-hant": "武術寶可夢",
+  "fr": "Pokémon Art Martial",
+  "de": "Kampfkünste-Pokémon",
+  "es": "Pokémon Arte Marcial",
+  "it": "Pokémon Marziale",
+  "en": "Martial Arts Pokémon",
+  "ja": "ぶじゅつポケモン",
+  "zh-hans": "武术宝可梦",
+  "es-419": "Pokémon Arte Marcial"
+ },
+ "flavor": {
+  "en": "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.",
+  "ko": "눈에 보이지 않을 정도의 스피드로 구사하는 발차기는 거대한 바위도 산산이 조각낸다."
+ },
+ "varieties": [
+  {
+   "name": "mienshao",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "314"
+}

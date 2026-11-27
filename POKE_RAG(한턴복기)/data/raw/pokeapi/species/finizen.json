@@ -1,0 +1,37 @@
+{
+ "id": 963,
+ "name": "finizen",
+ "names": {
+  "ja-hrkt": "ナミイルカ",
+  "ja-roma": "Namiiruka",
+  "ko": "맨돌핀",
+  "zh-hant": "波普海豚",
+  "fr": "Dofin",
+  "de": "Normifin",
+  "es": "Finizen",
+  "it": "Finizen",
+  "en": "Finizen",
+  "ja": "ナミイルカ",
+  "zh-hans": "波普海豚",
+  "es-419": "Finizen"
+ },
+ "genus": {
+  "ja-hrkt": "イルカポケモン",
+  "ko": "돌고래포켓몬",
+  "zh-hant": "海豚寶可夢",
+  "fr": "Dauphin",
+  "de": "Delfin",
+  "en": "Dolphin Pokémon",
+  "zh-hans": "海豚宝可梦"
+ },
+ "flavor": {
+  "en": "Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole."
+ },
+ "varieties": [
+  {
+   "name": "finizen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "504"
+}

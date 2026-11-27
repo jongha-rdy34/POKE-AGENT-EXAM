@@ -1,0 +1,42 @@
+{
+ "id": 781,
+ "name": "dhelmise",
+ "names": {
+  "ja-hrkt": "ダダリン",
+  "ja-roma": "Dadarin",
+  "ko": "타타륜",
+  "zh-hant": "破破舵輪",
+  "fr": "Sinistrail",
+  "de": "Moruda",
+  "es": "Dhelmise",
+  "it": "Dhelmise",
+  "en": "Dhelmise",
+  "ja": "ダダリン",
+  "zh-hans": "破破舵轮",
+  "es-419": "Dhelmise"
+ },
+ "genus": {
+  "ja-hrkt": "もくずポケモン",
+  "ko": "해초조각포켓몬",
+  "zh-hant": "碎藻寶可夢",
+  "fr": "Pokémon Varech",
+  "de": "Seetang-Pokémon",
+  "es": "Pokémon Alga Ancla",
+  "it": "Pokémon Brandellalga",
+  "en": "Sea Creeper Pokémon",
+  "ja": "もくずポケモン",
+  "zh-hans": "碎藻宝可梦",
+  "es-419": "Pokémon Alga Ancla"
+ },
+ "flavor": {
+  "ko": "바다에 닻을 내려 먹이를 기다린다. 몸집이 큰 고래왕을 잡아 생기를 빨아들인다.",
+  "en": "After lowering its anchor, it waits for its prey. It catches large Wailord and drains their life-force."
+ },
+ "varieties": [
+  {
+   "name": "dhelmise",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "407"
+}

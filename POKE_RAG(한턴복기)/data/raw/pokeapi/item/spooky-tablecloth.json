@@ -1,0 +1,20 @@
+{
+ "name": "spooky-tablecloth",
+ "names": {
+  "ja-hrkt": "うらめしクロス",
+  "ko": "원망 테이블보",
+  "zh-hant": "鬼祟桌巾",
+  "fr": "Nappe Hantée",
+  "de": "Groll-Tischtuch",
+  "es": "Mantel Espectral",
+  "it": "Tovaglia dispetto",
+  "en": "Spooky Tablecloth",
+  "ja": "うらめしクロス",
+  "zh-hans": "鬼祟桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

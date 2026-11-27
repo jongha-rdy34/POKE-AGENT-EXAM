@@ -1,0 +1,23 @@
+{
+ "name": "trace",
+ "names": {
+  "ja-hrkt": "トレース",
+  "ko": "트레이스",
+  "zh-hant": "複製",
+  "fr": "Calque",
+  "de": "Erfassen",
+  "es": "Calco",
+  "it": "Traccia",
+  "en": "Trace",
+  "ja": "トレース",
+  "zh-hans": "复制",
+  "es-419": "Calco"
+ },
+ "effect": {
+  "en": "Copies an opponent's ability upon entering battle."
+ },
+ "flavor": {
+  "en": "When it enters a battle, the Pokémon copies an opposing Pokémon's Ability.",
+  "ko": "등장했을 때 상대의 특성을 트레이스해서 같은 특성이 된다."
+ }
+}

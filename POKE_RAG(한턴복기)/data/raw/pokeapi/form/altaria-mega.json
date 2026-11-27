@@ -1,0 +1,23 @@
+{
+ "name": "altaria-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Altaria",
+  "de": "Mega-Altaria",
+  "en": "Mega Altaria"
+ },
+ "form_names": {
+  "ja-hrkt": "メガチルタリス",
+  "ko": "메가파비코리",
+  "zh-hant": "超級七夕青鳥",
+  "fr": "Méga-Altaria",
+  "de": "Mega-Form",
+  "es": "Mega-Altaria",
+  "it": "MegaAltaria",
+  "en": "Mega Altaria",
+  "ja": "メガチルタリス",
+  "zh-hans": "超级七夕青鸟",
+  "es-419": "Mega-Altaria"
+ },
+ "is_mega": true
+}

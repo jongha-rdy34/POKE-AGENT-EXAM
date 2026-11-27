@@ -1,0 +1,28 @@
+{
+ "name": "poke-toy",
+ "names": {
+  "ja-hrkt": "ポケじゃらし",
+  "ko": "포켓풀",
+  "zh-hant": "寶可尾草",
+  "fr": "Poké Plumet",
+  "de": "Pokéwedel",
+  "es": "Pokéseñuelo",
+  "it": "Pokégingillo",
+  "en": "Poké Toy",
+  "ja": "ポケじゃらし",
+  "zh-hans": "宝可尾草",
+  "es-419": "Pokéseñuelo"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Met fin à un combat sauvage.",
+  "en": "Ends a wild battle."
+ },
+ "flavor": {
+  "en": "A toy that attracts the attention of a Pokémon. It guarantees escape from any battle with wild Pokémon.",
+  "ko": "포켓몬의 관심을 끄는 도구. 야생 포켓몬과의 배틀에서 반드시 도망칠 수 있다.",
+  "ja": "ポケモンの 気をひかせる 道具。 野生ポケモンとの 戦闘から 絶対に 逃げられる。"
+ }
+}

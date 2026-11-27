@@ -1,0 +1,59 @@
+{
+ "id": 10073,
+ "name": "pidgeot-mega",
+ "species": "pidgeot",
+ "is_default": false,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 83,
+  "attack": 80,
+  "defense": 80,
+  "special-attack": 135,
+  "special-defense": 80,
+  "speed": 121
+ },
+ "abilities": [
+  {
+   "name": "no-guard",
+   "hidden": false
+  }
+ ],
+ "height": 22,
+ "weight": 505,
+ "champions_moves": [
+  "aerial-ace",
+  "agility",
+  "air-slash",
+  "attract",
+  "brave-bird",
+  "dual-wingbeat",
+  "endure",
+  "facade",
+  "feather-dance",
+  "fly",
+  "giga-impact",
+  "heat-wave",
+  "hurricane",
+  "hyper-beam",
+  "protect",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "roost",
+  "round",
+  "sky-attack",
+  "sleep-talk",
+  "snore",
+  "steel-wing",
+  "substitute",
+  "sunny-day",
+  "tailwind",
+  "thief",
+  "u-turn",
+  "uproar",
+  "whirlwind"
+ ]
+}

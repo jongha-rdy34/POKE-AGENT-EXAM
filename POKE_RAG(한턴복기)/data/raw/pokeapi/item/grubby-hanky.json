@@ -1,0 +1,28 @@
+{
+ "name": "grubby-hanky",
+ "names": {
+  "ja-hrkt": "よごれたハンカチ",
+  "ko": "더러운손수건",
+  "zh-hant": "髒手帕",
+  "fr": "Mouchoir Sale",
+  "de": "Schnäuztuch",
+  "es": "Pañuelo Sucio",
+  "it": "Pezza Sporca",
+  "en": "Grubby Hanky",
+  "ja": "よごれたハンカチ",
+  "zh-hans": "脏手帕",
+  "es-419": "Pañuelo Sucio"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apparaît dans le Café de la Grange le Dimanche; retourne au client avec un Ratentif le Jeudi.",
+  "en": "Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday."
+ },
+ "flavor": {
+  "en": "A handkerchief dropped by a regular at Café Warehouse. It smells faintly like a Pokémon.",
+  "ko": "칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다.",
+  "ja": "シッポウシティにある カフェソーコの 常連が 落とした ハンカチ。 ほのかに ポケモンの 香りがする。"
+ }
+}

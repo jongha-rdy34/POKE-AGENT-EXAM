@@ -1,0 +1,29 @@
+{
+ "name": "ice",
+ "names": {
+  "ja-hrkt": "こおり",
+  "ko": "얼음",
+  "zh-hant": "冰",
+  "fr": "Glace",
+  "de": "Eis",
+  "es": "Hielo",
+  "it": "Ghiaccio",
+  "en": "Ice",
+  "ja": "こおり",
+  "zh-hans": "冰",
+  "es-419": "Hielo"
+ },
+ "double_to": [
+  "flying",
+  "ground",
+  "grass",
+  "dragon"
+ ],
+ "half_to": [
+  "steel",
+  "fire",
+  "water",
+  "ice"
+ ],
+ "zero_to": []
+}

@@ -1,0 +1,42 @@
+{
+ "id": 217,
+ "name": "ursaring",
+ "names": {
+  "ja-hrkt": "リングマ",
+  "ja-roma": "Ringuma",
+  "ko": "링곰",
+  "zh-hant": "圈圈熊",
+  "fr": "Ursaring",
+  "de": "Ursaring",
+  "es": "Ursaring",
+  "it": "Ursaring",
+  "en": "Ursaring",
+  "ja": "リングマ",
+  "zh-hans": "圈圈熊",
+  "es-419": "Ursaring"
+ },
+ "genus": {
+  "ja-hrkt": "とうみんポケモン",
+  "ko": "동면포켓몬",
+  "zh-hant": "冬眠寶可夢",
+  "fr": "Pokémon Hibernant",
+  "de": "Schläfer",
+  "es": "Pokémon Hibernante",
+  "it": "Pokémon Letargo",
+  "en": "Hibernator Pokémon",
+  "ja": "とうみんポケモン",
+  "zh-hans": "冬眠宝可梦",
+  "es-419": "Pokémon Hibernante"
+ },
+ "flavor": {
+  "en": "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger.",
+  "ko": "숲 속에는 링곰이 먹이를 수집하는 큰 나무나 시냇가가 여기저기에 있다고 한다. 매일 먹이를 모으며 숲을 걷는다."
+ },
+ "varieties": [
+  {
+   "name": "ursaring",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "110"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tm156",
+ "names": {
+  "ja-hrkt": "わざマシン１５６",
+  "ko": "기술머신156",
+  "zh-hant": "招式學習器１５６",
+  "fr": "CT156",
+  "de": "TM156",
+  "es": "MT156",
+  "it": "MT156",
+  "en": "TM156",
+  "ja": "わざマシン１５６",
+  "zh-hans": "招式学习器１５６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

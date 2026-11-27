@@ -1,0 +1,28 @@
+{
+ "name": "data-card-04",
+ "names": {
+  "ja-hrkt": "データカード０４",
+  "ko": "데이터카드04",
+  "zh-hant": "資料卡０４",
+  "fr": "Carte Mémo04",
+  "de": "Datenkarte04",
+  "es": "Tarjeta Datos 04",
+  "it": "Scheda Dati 04",
+  "en": "Data Card 04",
+  "ja": "データカード０４",
+  "zh-hans": "数据卡０４",
+  "es-419": "Tarjeta Datos 04"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a sauté au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have jumped in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon jumped in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬이 점프한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの ジャンプした 回数が 記録された カード。"
+ }
+}

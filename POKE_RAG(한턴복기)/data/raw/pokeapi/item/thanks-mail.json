@@ -1,0 +1,28 @@
+{
+ "name": "thanks-mail",
+ "names": {
+  "ja-hrkt": "かんしゃメール",
+  "ko": "감사메일",
+  "zh-hant": "感謝郵件",
+  "fr": "Lettre Merci",
+  "de": "Dankesbrief",
+  "es": "Carta Gracias",
+  "it": "Messaggio Grazie",
+  "en": "Thanks Mail",
+  "ja": "かんしゃメール",
+  "zh-hans": "感谢邮件",
+  "es-419": "Carta Gracias"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery designed to make it easy for you to express thanks. Have a Pokémon hold it for delivery.",
+  "ko": "감사의 마음을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다.",
+  "ja": "感謝を 伝える メールが 書きやすい レターペーパー。 ポケモンに 持たせて 使う。"
+ }
+}

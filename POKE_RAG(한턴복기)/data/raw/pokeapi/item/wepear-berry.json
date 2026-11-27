@@ -1,0 +1,28 @@
+{
+ "name": "wepear-berry",
+ "names": {
+  "ja-hrkt": "セシナのみ",
+  "ko": "서배열매",
+  "zh-hant": "西梨果",
+  "fr": "Baie Repoi",
+  "de": "Nirbebeere",
+  "es": "Baya Peragu",
+  "it": "Baccapera",
+  "en": "Wepear Berry",
+  "ja": "セシナのみ",
+  "zh-hans": "西梨果",
+  "es-419": "Baya Peragu"
+ },
+ "category": "baking-only",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour créer des Pokéblocs et Poffins.",
+  "en": "Used for creating PokéBlocks and Poffins."
+ },
+ "flavor": {
+  "en": "Used to make Pokéblocks that will enhance your Cleverness. Its green flesh is bitter when eaten.",
+  "ko": "슬기로움을 연마하기 위한 포켓몬스넥을 만들 때 사용된다. 초록색 열매는 먹으면 쓰다.",
+  "ja": "かしこさに 磨きを かける ための ポロックを つくるとき 使われる。 緑色の実は 食べると 苦い。"
+ }
+}

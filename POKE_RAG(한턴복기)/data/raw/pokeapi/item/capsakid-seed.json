@@ -1,0 +1,20 @@
+{
+ "name": "capsakid-seed",
+ "names": {
+  "ja-hrkt": "カプサイジのたね",
+  "ko": "캡싸이의씨앗",
+  "zh-hant": "熱辣娃的種子",
+  "fr": "Graine de Pimito",
+  "de": "Chilingel-Samen",
+  "es": "Semilla de Capsakid",
+  "it": "Seme di Capsakid",
+  "en": "Capsakid Seed",
+  "ja": "カプサイジのたね",
+  "zh-hans": "热辣娃的种子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

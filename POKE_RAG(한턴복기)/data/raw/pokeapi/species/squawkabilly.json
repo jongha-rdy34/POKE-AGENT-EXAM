@@ -1,0 +1,49 @@
+{
+ "id": 931,
+ "name": "squawkabilly",
+ "names": {
+  "ja-hrkt": "イキリンコ",
+  "ja-roma": "Ikirinko",
+  "ko": "시비꼬",
+  "zh-hant": "怒鸚哥",
+  "fr": "Tapatoès",
+  "de": "Krawalloro",
+  "es": "Squawkabilly",
+  "it": "Squawkabilly",
+  "en": "Squawkabilly",
+  "ja": "イキリンコ",
+  "zh-hans": "怒鹦哥",
+  "es-419": "Squawkabilly"
+ },
+ "genus": {
+  "ja-hrkt": "インコポケモン",
+  "ko": "잉꼬포켓몬",
+  "zh-hant": "鸚鵡寶可夢",
+  "fr": "Perroquet",
+  "de": "Sittich",
+  "en": "Parrot Pokémon",
+  "zh-hans": "鹦鹉宝可梦"
+ },
+ "flavor": {
+  "en": "Green-feathered flocks hold the most sway. When they’re out searching for food in the mornings and evenings, it gets very noisy."
+ },
+ "varieties": [
+  {
+   "name": "squawkabilly-green-plumage",
+   "is_default": true
+  },
+  {
+   "name": "squawkabilly-blue-plumage",
+   "is_default": false
+  },
+  {
+   "name": "squawkabilly-yellow-plumage",
+   "is_default": false
+  },
+  {
+   "name": "squawkabilly-white-plumage",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "488"
+}

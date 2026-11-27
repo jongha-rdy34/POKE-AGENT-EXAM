@@ -1,0 +1,42 @@
+{
+ "id": 635,
+ "name": "hydreigon",
+ "names": {
+  "ja-hrkt": "サザンドラ",
+  "ja-roma": "Sazandora",
+  "ko": "삼삼드래",
+  "zh-hant": "三首惡龍",
+  "fr": "Trioxhydre",
+  "de": "Trikephalo",
+  "es": "Hydreigon",
+  "it": "Hydreigon",
+  "en": "Hydreigon",
+  "ja": "サザンドラ",
+  "zh-hans": "三首恶龙",
+  "es-419": "Hydreigon"
+ },
+ "genus": {
+  "ja-hrkt": "きょうぼうポケモン",
+  "ko": "난폭포켓몬",
+  "zh-hant": "凶暴寶可夢",
+  "fr": "Pokémon Brutal",
+  "de": "Brutal-Pokémon",
+  "es": "Pokémon Voraz",
+  "it": "Pokémon Brutale",
+  "en": "Brutal Pokémon",
+  "ja": "きょうぼうポケモン",
+  "zh-hans": "凶暴宝可梦",
+  "es-419": "Pokémon Voraz"
+ },
+ "flavor": {
+  "en": "The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down.",
+  "ko": "3개의 머리로 번갈아 가며 물어뜯는다. 상대가 쓰러질 때까지 공격을 멈추지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "hydreigon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "323"
+}

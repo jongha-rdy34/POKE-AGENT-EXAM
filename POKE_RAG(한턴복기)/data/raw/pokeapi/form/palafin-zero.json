@@ -1,0 +1,15 @@
+{
+ "name": "palafin-zero",
+ "form_name": "zero",
+ "names": {
+  "fr": "Superdofin Forme Ordinaire",
+  "en": "Zero Form Palafin"
+ },
+ "form_names": {
+  "ja-hrkt": "ナイーブフォルム",
+  "fr": "Forme Ordinaire",
+  "en": "Zero Form",
+  "ja": "ナイーブフォルム"
+ },
+ "is_mega": false
+}

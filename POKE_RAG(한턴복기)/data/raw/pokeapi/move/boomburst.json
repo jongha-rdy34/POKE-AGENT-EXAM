@@ -1,0 +1,31 @@
+{
+ "name": "boomburst",
+ "names": {
+  "ja-hrkt": "ばくおんぱ",
+  "ko": "폭음파",
+  "zh-hant": "爆音波",
+  "fr": "Bang Sonique",
+  "de": "Überschallknall",
+  "es": "Estruendo",
+  "it": "Ondaboato",
+  "en": "Boomburst",
+  "ja": "ばくおんぱ",
+  "zh-hans": "爆音波",
+  "es-419": "Estruendo"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 140,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "무시무시한 폭음의 파괴력으로 주위에 있는 포켓몬을 공격한다.",
+  "en": "The user attacks everything around it with the destructive power of a terrible explosive sound."
+ }
+}

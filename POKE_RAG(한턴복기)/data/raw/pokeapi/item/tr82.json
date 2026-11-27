@@ -1,0 +1,25 @@
+{
+ "name": "tr82",
+ "names": {
+  "ja-hrkt": "わざレコード８２",
+  "ko": "기술레코드82",
+  "zh-hant": "招式紀錄８２",
+  "fr": "DT82",
+  "de": "TP82",
+  "es": "DT82",
+  "it": "DT82",
+  "en": "TR82",
+  "ja": "わざレコード８２",
+  "zh-hans": "招式记录８２",
+  "es-419": "DT82"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "축적된 파워로 상대를 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다.",
+  "en": "The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",
+  "ja": "蓄積された パワーで 相手を 攻撃する。自分の 能力が あがっているほど 威力が あがる。"
+ }
+}

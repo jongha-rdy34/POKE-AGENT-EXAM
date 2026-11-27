@@ -1,0 +1,34 @@
+{
+ "name": "zinc",
+ "names": {
+  "ja-hrkt": "キトサン",
+  "ko": "키토산",
+  "zh-hant": "特防增強劑",
+  "fr": "Zinc",
+  "de": "Zink",
+  "es": "Zinc",
+  "it": "Zinco",
+  "en": "Zinc",
+  "ja": "キトサン",
+  "zh-hans": "特防增强剂",
+  "es-419": "Zinc"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'effort en Défense Spéciale et le bonheur.",
+  "en": "Raises Special Defense and happiness."
+ },
+ "flavor": {
+  "en": "A nutritious drink for Pokémon. When consumed, it raises the Sp. Def base points of a single Pokémon.",
+  "ko": "포켓몬의 영양 드링크. 포켓몬 1마리의 특수방어 기초 포인트를 올린다.",
+  "ja": "ポケモンの 栄養ドリンク。 ポケモン １匹の 特防の 基礎ポイントを あげる。"
+ }
+}

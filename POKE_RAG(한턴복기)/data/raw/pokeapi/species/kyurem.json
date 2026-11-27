@@ -1,0 +1,50 @@
+{
+ "id": 646,
+ "name": "kyurem",
+ "names": {
+  "ja-hrkt": "キュレム",
+  "ja-roma": "Kyurem",
+  "ko": "큐레무",
+  "zh-hant": "酋雷姆",
+  "fr": "Kyurem",
+  "de": "Kyurem",
+  "es": "Kyurem",
+  "it": "Kyurem",
+  "en": "Kyurem",
+  "ja": "キュレム",
+  "zh-hans": "酋雷姆",
+  "es-419": "Kyurem"
+ },
+ "genus": {
+  "ja-hrkt": "きょうかいポケモン",
+  "ko": "경계포켓몬",
+  "zh-hant": "境界寶可夢",
+  "fr": "Pokémon Frontière",
+  "de": "Schwellen-Pokémon",
+  "es": "Pokémon Frontera",
+  "it": "Pokémon Confine",
+  "en": "Boundary Pokémon",
+  "ja": "きょうかいポケモン",
+  "zh-hans": "境界宝可梦",
+  "es-419": "Pokémon Frontera"
+ },
+ "flavor": {
+  "en": "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure.",
+  "ko": "세포 조직을 안정시키기 위해 자신이 발생시킨 냉기로 몸을 얼어붙게 한 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "kyurem",
+   "is_default": true
+  },
+  {
+   "name": "kyurem-black",
+   "is_default": false
+  },
+  {
+   "name": "kyurem-white",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "333"
+}

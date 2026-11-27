@@ -1,0 +1,31 @@
+{
+ "name": "scope-lens",
+ "names": {
+  "ja-hrkt": "ピントレンズ",
+  "ko": "초점렌즈",
+  "zh-hant": "焦點鏡",
+  "fr": "Lentilscope",
+  "de": "Scope-Linse",
+  "es": "Periscopio",
+  "it": "Mirino",
+  "en": "Scope Lens",
+  "ja": "ピントレンズ",
+  "zh-hans": "焦点镜",
+  "es-419": "Periscopio"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente le taux de coups critiques du porteur d'un niveau.",
+  "en": "Held: Raises the holder’s critical hit ratio by one stage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a lens for scoping out weak points. It boosts the holder’s critical-hit ratio.",
+  "ko": "약점이 보이는 렌즈. 지니게 한 포켓몬의 기술이 급소에 맞기 쉬워진다.",
+  "ja": "弱点が みえる レンズ。 持たせた ポケモンの 技が 急所に 当たりやすくなる。"
+ }
+}

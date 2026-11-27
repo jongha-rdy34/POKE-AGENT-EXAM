@@ -1,0 +1,28 @@
+{
+ "name": "tm51",
+ "names": {
+  "ja-hrkt": "わざマシン５１",
+  "ko": "기술머신51",
+  "zh-hant": "招式學習器５１",
+  "fr": "CT51",
+  "de": "TM51",
+  "es": "MT51",
+  "it": "MT51",
+  "en": "TM51",
+  "ja": "わざマシン５１",
+  "zh-hans": "招式学习器５１",
+  "es-419": "MT51"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Interversion à un Pokémon compatible. (Gén IV: Atterrissage)",
+  "en": "Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)"
+ },
+ "flavor": {
+  "en": "The user launches sharp icicles at the target two to five times in a row.",
+  "ko": "날카로운 고드름을 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다.",
+  "ja": "鋭い 氷柱を 相手に 発射して 攻撃する。 ２ー５回の 間 連続で だす。"
+ }
+}

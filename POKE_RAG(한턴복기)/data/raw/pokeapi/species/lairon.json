@@ -1,0 +1,42 @@
+{
+ "id": 305,
+ "name": "lairon",
+ "names": {
+  "ja-hrkt": "コドラ",
+  "ja-roma": "Kodora",
+  "ko": "갱도라",
+  "zh-hant": "可多拉",
+  "fr": "Galegon",
+  "de": "Stollrak",
+  "es": "Lairon",
+  "it": "Lairon",
+  "en": "Lairon",
+  "ja": "コドラ",
+  "zh-hans": "可多拉",
+  "es-419": "Lairon"
+ },
+ "genus": {
+  "ja-hrkt": "てつヨロイポケモン",
+  "ko": "철갑옷포켓몬",
+  "zh-hant": "鐵鎧寶可夢",
+  "fr": "Pokémon Armurfer",
+  "de": "Eisenpanzer-Pokémon",
+  "es": "Pokémon Coraza Férrea",
+  "it": "Pokémon Corazza",
+  "en": "Iron Armor Pokémon",
+  "ja": "てつヨロイポケモン",
+  "zh-hans": "铁铠宝可梦",
+  "es-419": "Pokémon Coraza Férrea"
+ },
+ "flavor": {
+  "en": "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents.",
+  "ko": "서로 몸을 부딪치며 영역 싸움을 한다. 강철의 갑옷은 잘 보면 흠집과 파인 곳이 있다."
+ },
+ "varieties": [
+  {
+   "name": "lairon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "151"
+}

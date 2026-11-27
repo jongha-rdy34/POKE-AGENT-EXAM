@@ -1,0 +1,25 @@
+{
+ "name": "power-up-pocket",
+ "names": {
+  "ja-hrkt": "きょうかポケット",
+  "ko": "강화포켓",
+  "zh-hant": "強化口袋",
+  "fr": "Poche à Renforts",
+  "de": "Stärkungstasche",
+  "es": "Bolsillo Mejoras",
+  "it": "Tasca potenziam.",
+  "en": "Power-Up Pocket",
+  "ja": "きょうかポケット",
+  "zh-hans": "强化口袋",
+  "es-419": "Bolsillo Mejoras"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

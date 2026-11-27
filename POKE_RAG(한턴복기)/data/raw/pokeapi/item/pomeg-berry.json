@@ -1,0 +1,28 @@
+{
+ "name": "pomeg-berry",
+ "names": {
+  "ja-hrkt": "ザロクのみ",
+  "ko": "유석열매",
+  "zh-hant": "榴石果",
+  "fr": "Baie Grena",
+  "de": "Granabeere",
+  "es": "Baya Grana",
+  "it": "Baccagrana",
+  "en": "Pomeg Berry",
+  "ja": "ザロクのみ",
+  "zh-hans": "榴石果",
+  "es-419": "Baya Grana"
+ },
+ "category": "effort-drop",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Diminue les EV de PV de 10 et augmente le bonheur.",
+  "en": "Drops HP Effort Values by 10 and raises happiness."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its HP base points.",
+  "ko": "포켓몬에게 주면 매우 친밀해지기 쉬워지지만 HP의 기초 포인트가 떨어진다.",
+  "ja": "ポケモンに あげると とても なかよく なりやすくなるが ＨＰの 基礎ポイントは さがる。"
+ }
+}

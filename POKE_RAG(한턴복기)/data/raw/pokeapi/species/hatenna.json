@@ -1,0 +1,42 @@
+{
+ "id": 856,
+ "name": "hatenna",
+ "names": {
+  "ja-hrkt": "ミブリム",
+  "ja-roma": "Mibrim",
+  "ko": "몸지브림",
+  "zh-hant": "迷布莉姆",
+  "fr": "Bibichut",
+  "de": "Brimova",
+  "es": "Hatenna",
+  "it": "Hatenna",
+  "en": "Hatenna",
+  "ja": "ミブリム",
+  "zh-hans": "迷布莉姆",
+  "es-419": "Hatenna"
+ },
+ "genus": {
+  "ja-hrkt": "おだやかポケモン",
+  "ko": "차분포켓몬",
+  "zh-hant": "寧靜寶可夢",
+  "fr": "Pokémon Calme",
+  "de": "Geruhsam-Pokémon",
+  "es": "Pokémon Calma",
+  "it": "Pokémon Calma",
+  "en": "Calm Pokémon",
+  "ja": "おだやかポケモン",
+  "zh-hans": "宁静宝可梦",
+  "es-419": "Pokémon Calma"
+ },
+ "flavor": {
+  "ko": "인적이 드문 곳을 좋아한다. 강한 감정이 느껴지면 쏜살같이 도망쳐버린다.",
+  "en": "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people."
+ },
+ "varieties": [
+  {
+   "name": "hatenna",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "450"
+}

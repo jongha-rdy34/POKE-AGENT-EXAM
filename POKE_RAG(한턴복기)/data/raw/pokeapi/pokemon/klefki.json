@@ -1,0 +1,76 @@
+{
+ "id": 707,
+ "name": "klefki",
+ "species": "klefki",
+ "is_default": true,
+ "types": [
+  "steel",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 57,
+  "attack": 80,
+  "defense": 91,
+  "special-attack": 80,
+  "special-defense": 87,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "prankster",
+   "hidden": false
+  },
+  {
+   "name": "magician",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 30,
+ "champions_moves": [
+  "calm-mind",
+  "dazzling-gleam",
+  "draining-kiss",
+  "endure",
+  "facade",
+  "fairy-lock",
+  "flash-cannon",
+  "foul-play",
+  "future-sight",
+  "giga-impact",
+  "hyper-beam",
+  "imprison",
+  "iron-defense",
+  "last-resort",
+  "light-screen",
+  "magic-room",
+  "magnet-rise",
+  "metal-sound",
+  "misty-terrain",
+  "play-rough",
+  "protect",
+  "psych-up",
+  "psychic",
+  "psyshock",
+  "rain-dance",
+  "recycle",
+  "reflect",
+  "rest",
+  "round",
+  "safeguard",
+  "sandstorm",
+  "skitter-smack",
+  "sleep-talk",
+  "snore",
+  "spikes",
+  "steel-beam",
+  "stored-power",
+  "substitute",
+  "sunny-day",
+  "switcheroo",
+  "thief",
+  "thunder-wave",
+  "torment",
+  "trick-room"
+ ]
+}

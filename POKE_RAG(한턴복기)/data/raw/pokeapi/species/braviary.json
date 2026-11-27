@@ -1,0 +1,46 @@
+{
+ "id": 628,
+ "name": "braviary",
+ "names": {
+  "ja-hrkt": "ウォーグル",
+  "ja-roma": "Warrgle",
+  "ko": "워글",
+  "zh-hant": "勇士雄鷹",
+  "fr": "Gueriaigle",
+  "de": "Washakwil",
+  "es": "Braviary",
+  "it": "Braviary",
+  "en": "Braviary",
+  "ja": "ウォーグル",
+  "zh-hans": "勇士雄鹰",
+  "es-419": "Braviary"
+ },
+ "genus": {
+  "ja-hrkt": "ゆうもうポケモン",
+  "ko": "용맹포켓몬",
+  "zh-hant": "勇猛寶可夢",
+  "fr": "Pokémon Vaillant",
+  "de": "Kühnheits-Pokémon",
+  "es": "Pokémon Aguerrido",
+  "it": "Pokémon Baldanza",
+  "en": "Valiant Pokémon",
+  "ja": "ゆうもうポケモン",
+  "zh-hans": "勇猛宝可梦",
+  "es-419": "Pokémon Aguerrido"
+ },
+ "flavor": {
+  "en": "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface.",
+  "ko": "혈기왕성하고 거칠어서 가라르의 배달부 자리는 아머까오에게 뺏겼다."
+ },
+ "varieties": [
+  {
+   "name": "braviary",
+   "is_default": true
+  },
+  {
+   "name": "braviary-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "319"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 61,
+ "name": "poliwhirl",
+ "names": {
+  "ja-hrkt": "ニョロゾ",
+  "ja-roma": "Nyorozo",
+  "ko": "슈륙챙이",
+  "zh-hant": "蚊香君",
+  "fr": "Têtarte",
+  "de": "Quaputzi",
+  "es": "Poliwhirl",
+  "it": "Poliwhirl",
+  "en": "Poliwhirl",
+  "ja": "ニョロゾ",
+  "zh-hans": "蚊香君",
+  "es-419": "Poliwhirl"
+ },
+ "genus": {
+  "ja-hrkt": "おたまポケモン",
+  "ko": "올챙이포켓몬",
+  "zh-hant": "蝌蚪寶可夢",
+  "fr": "Pokémon Têtard",
+  "de": "Kaulquappen-Pokémon",
+  "es": "Pokémon Renacuajo",
+  "it": "Pokémon Girino",
+  "en": "Tadpole Pokémon",
+  "ja": "おたまポケモン",
+  "zh-hans": "蝌蚪宝可梦",
+  "es-419": "Pokémon Renacuajo"
+ },
+ "flavor": {
+  "en": "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape.",
+  "ko": "미끈미끈한 점액 형태의 땀을 흘린다. 적에게 붙잡혀도 스르륵 빠져나와 도망친다."
+ },
+ "varieties": [
+  {
+   "name": "poliwhirl",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "26"
+}

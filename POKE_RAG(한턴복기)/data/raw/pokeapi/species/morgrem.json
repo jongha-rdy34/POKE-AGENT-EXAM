@@ -1,0 +1,42 @@
+{
+ "id": 860,
+ "name": "morgrem",
+ "names": {
+  "ja-hrkt": "ギモー",
+  "ja-roma": "Gimoh",
+  "ko": "쏘겨모",
+  "zh-hant": "詐唬魔",
+  "fr": "Fourbelin",
+  "de": "Pelzebub",
+  "es": "Morgrem",
+  "it": "Morgrem",
+  "en": "Morgrem",
+  "ja": "ギモー",
+  "zh-hans": "诈唬魔",
+  "es-419": "Morgrem"
+ },
+ "genus": {
+  "ja-hrkt": "しょうわるポケモン",
+  "ko": "성악포켓몬",
+  "zh-hant": "壞心眼寶可夢",
+  "fr": "Pokémon Scélérat",
+  "de": "Schelm-Pokémon",
+  "es": "Pokémon Malicioso",
+  "it": "Pokémon Furbizia",
+  "en": "Devious Pokémon",
+  "ja": "しょうわるポケモン",
+  "zh-hans": "坏心眼宝可梦",
+  "es-419": "Pokémon Malicioso"
+ },
+ "flavor": {
+  "ko": "못된 꾀를 내어 밤에 숲으로 꾀어내려 한다. 농작물을 키우는 힘을 갖고 있는 듯하다.",
+  "en": "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow."
+ },
+ "varieties": [
+  {
+   "name": "morgrem",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "451"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "haze",
+ "names": {
+  "ja-hrkt": "くろいきり",
+  "ko": "흑안개",
+  "zh-hant": "黑霧",
+  "fr": "Buée Noire",
+  "de": "Dunkelnebel",
+  "es": "Niebla",
+  "it": "Nube",
+  "en": "Haze",
+  "ja": "くろいきり",
+  "zh-hans": "黑雾",
+  "es-419": "Niebla"
+ },
+ "type": "ice",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 30,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Resets all Pokémon’s stats, accuracy, and evasion."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.",
+  "ko": "흑안개를 뿜어 배틀에 참가 중인 포켓몬 전원의 능력 변화를 원래대로 돌린다."
+ }
+}

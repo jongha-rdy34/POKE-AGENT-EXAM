@@ -1,0 +1,42 @@
+{
+ "id": 170,
+ "name": "chinchou",
+ "names": {
+  "ja-hrkt": "チョンチー",
+  "ja-roma": "Chonchie",
+  "ko": "초라기",
+  "zh-hant": "燈籠魚",
+  "fr": "Loupio",
+  "de": "Lampi",
+  "es": "Chinchou",
+  "it": "Chinchou",
+  "en": "Chinchou",
+  "ja": "チョンチー",
+  "zh-hans": "灯笼鱼",
+  "es-419": "Chinchou"
+ },
+ "genus": {
+  "ja-hrkt": "あんこうポケモン",
+  "ko": "아귀포켓몬",
+  "zh-hant": "琵琶魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Angler-Pokémon",
+  "es": "Pokémon Rape",
+  "it": "Pokémon Pescatore",
+  "en": "Angler Pokémon",
+  "ja": "あんこうポケモン",
+  "zh-hans": "琵琶鱼宝可梦",
+  "es-419": "Pokémon Rape"
+ },
+ "flavor": {
+  "en": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+  "ko": "어두운 해저에서는 항상 깜빡거리는 촉수의 빛이 유일한 통신 수단이다."
+ },
+ "varieties": [
+  {
+   "name": "chinchou",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "86"
+}

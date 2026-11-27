@@ -1,0 +1,20 @@
+{
+ "name": "cubchoo-fur",
+ "names": {
+  "ja-hrkt": "クマシュンのけ",
+  "ko": "코고미의털",
+  "zh-hant": "噴嚏熊的毛",
+  "fr": "Poils de Polarhume",
+  "de": "Petznief-Haar",
+  "es": "Pelo de Cubchoo",
+  "it": "Pelo di Cubchoo",
+  "en": "Cubchoo Fur",
+  "ja": "クマシュンのけ",
+  "zh-hans": "喷嚏熊的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

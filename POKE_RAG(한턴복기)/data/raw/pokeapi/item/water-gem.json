@@ -1,0 +1,28 @@
+{
+ "name": "water-gem",
+ "names": {
+  "ja-hrkt": "みずのジュエル",
+  "ko": "물주얼",
+  "zh-hant": "水之寶石",
+  "fr": "Joyau Eau",
+  "de": "Wasserjuwel",
+  "es": "Gema Agua",
+  "it": "Bijouacqua",
+  "en": "Water Gem",
+  "ja": "みずのジュエル",
+  "zh-hans": "水之宝石",
+  "es-419": "Gema Agua"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Eau, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Water-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of water. When held, it strengthens the power of a Water-type move one time.",
+  "ko": "물타입의 주얼. 지니게 하면 한 번만 물 기술의 위력이 강해진다.",
+  "ja": "みずの タイプの ジュエル。 持たせると １度だけ みずの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 419,
+ "name": "floatzel",
+ "names": {
+  "ja-hrkt": "フローゼル",
+  "ja-roma": "Floazel",
+  "ko": "플로젤",
+  "zh-hant": "浮潛鼬",
+  "fr": "Mustéflott",
+  "de": "Bojelin",
+  "es": "Floatzel",
+  "it": "Floatzel",
+  "en": "Floatzel",
+  "ja": "フローゼル",
+  "zh-hans": "浮潜鼬",
+  "es-419": "Floatzel"
+ },
+ "genus": {
+  "ja-hrkt": "うみイタチポケモン",
+  "ko": "바다족제비포켓몬",
+  "zh-hant": "海鼬寶可夢",
+  "fr": "Pokémon Aquabelette",
+  "de": "Meereswiesel",
+  "es": "Pokémon Nutria Mar.",
+  "it": "Pokémon Maridonnola",
+  "en": "Sea Weasel Pokémon",
+  "ja": "うみイタチポケモン",
+  "zh-hans": "海鼬宝可梦",
+  "es-419": "Pokémon Nutria Mar."
+ },
+ "flavor": {
+  "en": "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time.",
+  "ko": "수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다."
+ },
+ "varieties": [
+  {
+   "name": "floatzel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "216"
+}

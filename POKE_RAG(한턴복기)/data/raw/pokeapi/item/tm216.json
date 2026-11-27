@@ -1,0 +1,19 @@
+{
+ "name": "tm216",
+ "names": {
+  "ko": "기술머신216",
+  "zh-hant": "招式學習器２１６",
+  "fr": "CT216",
+  "de": "TM216",
+  "es": "MT216",
+  "it": "MT216",
+  "en": "TM216",
+  "ja": "わざマシン２１６",
+  "zh-hans": "招式学习器２１６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

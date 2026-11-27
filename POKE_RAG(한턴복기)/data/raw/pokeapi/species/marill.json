@@ -1,0 +1,42 @@
+{
+ "id": 183,
+ "name": "marill",
+ "names": {
+  "ja-hrkt": "マリル",
+  "ja-roma": "Maril",
+  "ko": "마릴",
+  "zh-hant": "瑪力露",
+  "fr": "Marill",
+  "de": "Marill",
+  "es": "Marill",
+  "it": "Marill",
+  "en": "Marill",
+  "ja": "マリル",
+  "zh-hans": "玛力露",
+  "es-419": "Marill"
+ },
+ "genus": {
+  "ja-hrkt": "みずねずみポケモン",
+  "ko": "물쥐포켓몬",
+  "zh-hant": "水鼠寶可夢",
+  "fr": "Pokémon Aquasouris",
+  "de": "Aquamaus-Pokémon",
+  "es": "Pokémon Ratón Agua",
+  "it": "Pokémon Acquatopo",
+  "en": "Aqua Mouse Pokémon",
+  "ja": "みずねずみポケモン",
+  "zh-hans": "水鼠宝可梦",
+  "es-419": "Pokémon Ratón Agua"
+ },
+ "flavor": {
+  "en": "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold.",
+  "ko": "물을 잘 튕겨내는 털은 차가운 바다에 있다가 나와도 금방 말라서 춥지 않다."
+ },
+ "varieties": [
+  {
+   "name": "marill",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "90"
+}

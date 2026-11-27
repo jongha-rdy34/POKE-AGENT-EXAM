@@ -1,0 +1,42 @@
+{
+ "id": 272,
+ "name": "ludicolo",
+ "names": {
+  "ja-hrkt": "ルンパッパ",
+  "ja-roma": "Runpappa",
+  "ko": "로파파",
+  "zh-hant": "樂天河童",
+  "fr": "Ludicolo",
+  "de": "Kappalores",
+  "es": "Ludicolo",
+  "it": "Ludicolo",
+  "en": "Ludicolo",
+  "ja": "ルンパッパ",
+  "zh-hans": "乐天河童",
+  "es-419": "Ludicolo"
+ },
+ "genus": {
+  "ja-hrkt": "のうてんきポケモン",
+  "ko": "행복하기포켓몬",
+  "zh-hant": "樂天寶可夢",
+  "fr": "Pokémon Insouciant",
+  "de": "Sorglos-Pokémon",
+  "es": "Pokémon Optimista",
+  "it": "Pokémon Spensierato",
+  "en": "Carefree Pokémon",
+  "ja": "のうてんきポケモン",
+  "zh-hans": "乐天宝可梦",
+  "es-419": "Pokémon Optimista"
+ },
+ "flavor": {
+  "en": "If it hears festive music, it begins moving in rhythm in order to amplify its power.",
+  "ko": "경쾌한 리듬에 맞춰 몸을 움직여서 파워를 증폭시키고 있다."
+ },
+ "varieties": [
+  {
+   "name": "ludicolo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "136"
+}

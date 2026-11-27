@@ -1,0 +1,17 @@
+{
+ "name": "corviknight-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Corvaillus Gigamax",
+  "de": "Gigadynamax-Krarmor",
+  "en": "Gigantamax Corviknight"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

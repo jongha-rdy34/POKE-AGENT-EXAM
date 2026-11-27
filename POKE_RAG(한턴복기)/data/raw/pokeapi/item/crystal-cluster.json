@@ -1,0 +1,20 @@
+{
+ "name": "crystal-cluster",
+ "names": {
+  "ja-hrkt": "けっしょうのかけら",
+  "ko": "결정조각",
+  "zh-hant": "結晶碎片",
+  "fr": "Morceau de Cristal",
+  "de": "Kristallfragment",
+  "es": "Fragmento de Cristal",
+  "it": "Pezzo di cristallo",
+  "en": "Crystal Cluster",
+  "ja": "けっしょうのかけら",
+  "zh-hans": "结晶碎片"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "chilling-water",
+ "names": {
+  "ja-hrkt": "ひやみず",
+  "ko": "찬물끼얹기",
+  "zh-hant": "潑冷水",
+  "fr": "Douche Froide",
+  "de": "Kalte Dusche",
+  "es": "Agua Fría",
+  "it": "Doccia Fredda",
+  "en": "Chilling Water",
+  "ja": "ひやみず",
+  "zh-hans": "泼冷水",
+  "es-419": "Agua Fría"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target by showering it with water that's so cold it saps the target's power. This also lowers the target's Attack stat."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "venoshock",
+ "names": {
+  "ja-hrkt": "ベノムショック",
+  "ko": "베놈쇼크",
+  "zh-hant": "毒液衝擊",
+  "fr": "Choc Venin",
+  "de": "Giftschock",
+  "es": "Carga Tóxica",
+  "it": "Velenoshock",
+  "en": "Venoshock",
+  "ja": "ベノムショック",
+  "zh-hans": "毒液冲击",
+  "es-419": "Carga Tóxica"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts double damage if the target is Poisoned."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user drenches the target in a special poisonous liquid. This move's power is doubled if the target is poisoned.",
+  "ko": "특수한 독액을 끼얹는다. 독 상태의 상대에게는 위력이 2배가 된다."
+ }
+}

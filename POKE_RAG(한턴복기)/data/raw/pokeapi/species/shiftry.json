@@ -1,0 +1,42 @@
+{
+ "id": 275,
+ "name": "shiftry",
+ "names": {
+  "ja-hrkt": "ダーテング",
+  "ja-roma": "Dirteng",
+  "ko": "다탱구",
+  "zh-hant": "狡猾天狗",
+  "fr": "Tengalice",
+  "de": "Tengulist",
+  "es": "Shiftry",
+  "it": "Shiftry",
+  "en": "Shiftry",
+  "ja": "ダーテング",
+  "zh-hans": "狡猾天狗",
+  "es-419": "Shiftry"
+ },
+ "genus": {
+  "ja-hrkt": "よこしまポケモン",
+  "ko": "부정하기포켓몬",
+  "zh-hant": "邪惡寶可夢",
+  "fr": "Pokémon Malveillant",
+  "de": "Verschlagen-Pokémon",
+  "es": "Pokémon Malvado",
+  "it": "Pokémon Burbero",
+  "en": "Wicked Pokémon",
+  "ja": "よこしまポケモン",
+  "zh-hans": "邪恶宝可梦",
+  "es-419": "Pokémon Malvado"
+ },
+ "flavor": {
+  "en": "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds.",
+  "ko": "숲속에서 조용히 지낸다. 큰 부채로 부치면 쌀쌀한 바람이 분다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "shiftry",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "137"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 862,
+ "name": "obstagoon",
+ "names": {
+  "ja-hrkt": "タチフサグマ",
+  "ja-roma": "Tachifusaguma",
+  "ko": "가로막구리",
+  "zh-hant": "堵攔熊",
+  "fr": "Ixon",
+  "de": "Barrikadax",
+  "es": "Obstagoon",
+  "it": "Obstagoon",
+  "en": "Obstagoon",
+  "ja": "タチフサグマ",
+  "zh-hans": "堵拦熊",
+  "es-419": "Obstagoon"
+ },
+ "genus": {
+  "ja-hrkt": "ていしポケモン",
+  "ko": "정지포켓몬",
+  "zh-hant": "停止寶可夢",
+  "fr": "Pokémon Barrage",
+  "de": "Barrikaden-Pokémon",
+  "es": "Pokémon Bloqueador",
+  "it": "Pokémon Bloccaggio",
+  "en": "Blocking Pokémon",
+  "ja": "ていしポケモン",
+  "zh-hans": "停止宝可梦",
+  "es-419": "Pokémon Bloqueador"
+ },
+ "flavor": {
+  "ko": "싸움을 반복하면서 진화한다. 팔을 크로스하고 우렁차게 외치면 어떤 상대라도 풀죽게 된다.",
+  "en": "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch."
+ },
+ "varieties": [
+  {
+   "name": "obstagoon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "134"
+}

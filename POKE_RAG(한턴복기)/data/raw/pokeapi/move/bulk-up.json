@@ -1,0 +1,31 @@
+{
+ "name": "bulk-up",
+ "names": {
+  "ja-hrkt": "ビルドアップ",
+  "ko": "벌크업",
+  "zh-hant": "健美",
+  "fr": "Gonflette",
+  "de": "Protzer",
+  "es": "Corpulencia",
+  "it": "Granfisico",
+  "en": "Bulk Up",
+  "ja": "ビルドアップ",
+  "zh-hans": "健美",
+  "es-419": "Corpulencia"
+ },
+ "type": "fighting",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Attack and Defense by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tenses its muscles to bulk up its body, boosting its Attack and Defense stats.",
+  "ko": "몸에 힘을 담아 근육을 두껍게 해서 자신의 공격과 방어를 올린다."
+ }
+}

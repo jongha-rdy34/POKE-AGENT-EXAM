@@ -1,0 +1,25 @@
+{
+ "name": "tr60",
+ "names": {
+  "ja-hrkt": "わざレコード６０",
+  "ko": "기술레코드60",
+  "zh-hant": "招式紀錄６０",
+  "fr": "DT60",
+  "de": "TP60",
+  "es": "DT60",
+  "it": "DT60",
+  "en": "TR60",
+  "ja": "わざレコード６０",
+  "zh-hans": "招式记录６０",
+  "es-419": "DT60"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "낫이나 발톱을 가위처럼 교차시키면서 상대를 베어 가른다.",
+  "en": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.",
+  "ja": "カマや ツメを ハサミのように 交差させながら 相手を 切り裂く。"
+ }
+}

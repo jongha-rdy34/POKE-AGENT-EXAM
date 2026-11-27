@@ -1,0 +1,20 @@
+{
+ "name": "swablu-fluff",
+ "names": {
+  "ja-hrkt": "チルットのはね",
+  "ko": "파비코의깃털",
+  "zh-hant": "青綿鳥的羽毛",
+  "fr": "Plume de Tylton",
+  "de": "Wablu-Feder",
+  "es": "Pluma de Swablu",
+  "it": "Piuma di Swablu",
+  "en": "Swablu Fluff",
+  "ja": "チルットのはね",
+  "zh-hans": "青绵鸟的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

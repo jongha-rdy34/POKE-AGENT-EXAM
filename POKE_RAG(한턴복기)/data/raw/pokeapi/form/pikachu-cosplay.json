@@ -1,0 +1,17 @@
+{
+ "name": "pikachu-cosplay",
+ "form_name": "cosplay",
+ "names": {
+  "fr": "Pikachu Cosplayeur",
+  "de": "Cosplay Pikachu",
+  "en": "Cosplay Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "おきがえピカチュウ",
+  "fr": "Pikachu Cosplayeur",
+  "de": "Cosplayform",
+  "en": "Cosplay Pikachu",
+  "ja": "おきがえピカチュウ"
+ },
+ "is_mega": false
+}

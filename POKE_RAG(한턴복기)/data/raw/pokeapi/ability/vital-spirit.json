@@ -1,0 +1,23 @@
+{
+ "name": "vital-spirit",
+ "names": {
+  "ja-hrkt": "やるき",
+  "ko": "의기양양",
+  "zh-hant": "幹勁",
+  "fr": "Esprit Vital",
+  "de": "Munterkeit",
+  "es": "Espíritu Vital",
+  "it": "Spiritovivo",
+  "en": "Vital Spirit",
+  "ja": "やるき",
+  "zh-hans": "干劲",
+  "es-419": "Espíritu Vital"
+ },
+ "effect": {
+  "en": "Prevents sleep."
+ },
+ "flavor": {
+  "en": "The Pokémon is full of vitality, and that prevents it from falling asleep.",
+  "ko": "의기양양해져서 잠듦 상태가 되지 않는다."
+ }
+}

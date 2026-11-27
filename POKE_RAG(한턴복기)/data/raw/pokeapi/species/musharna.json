@@ -1,0 +1,42 @@
+{
+ "id": 518,
+ "name": "musharna",
+ "names": {
+  "ja-hrkt": "ムシャーナ",
+  "ja-roma": "Musharna",
+  "ko": "몽얌나",
+  "zh-hant": "夢夢蝕",
+  "fr": "Mushana",
+  "de": "Somnivora",
+  "es": "Musharna",
+  "it": "Musharna",
+  "en": "Musharna",
+  "ja": "ムシャーナ",
+  "zh-hans": "梦梦蚀",
+  "es-419": "Musharna"
+ },
+ "genus": {
+  "ja-hrkt": "ゆめうつつポケモン",
+  "ko": "꿈결포켓몬",
+  "zh-hant": "半夢半醒寶可夢",
+  "fr": "Pokémon Rêveur",
+  "de": "Halbschlaf-Pokémon",
+  "es": "Pokémon Duermevela",
+  "it": "Pokémon Dormiveglia",
+  "en": "Drowsing Pokémon",
+  "ja": "ゆめうつつポケモン",
+  "zh-hans": "半梦半醒宝可梦",
+  "es-419": "Pokémon Duermevela"
+ },
+ "flavor": {
+  "en": "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep.",
+  "ko": "언제나 선잠을 자며 꿈을 꾼다. 잠에서 깨면 매우 불쾌해하므로 가만히 내버려 두자."
+ },
+ "varieties": [
+  {
+   "name": "musharna",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "265"
+}

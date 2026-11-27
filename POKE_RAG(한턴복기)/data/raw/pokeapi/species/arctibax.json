@@ -1,0 +1,37 @@
+{
+ "id": 997,
+ "name": "arctibax",
+ "names": {
+  "ja-hrkt": "セゴール",
+  "ja-roma": "Segohru",
+  "ko": "드니꽁",
+  "zh-hant": "凍脊龍",
+  "fr": "Cryodo",
+  "de": "Cryospino",
+  "es": "Arctibax",
+  "it": "Arctibax",
+  "en": "Arctibax",
+  "ja": "セゴール",
+  "zh-hans": "冻脊龙",
+  "es-419": "Arctibax"
+ },
+ "genus": {
+  "ja-hrkt": "こおりビレポケモン",
+  "ko": "얼음지느러미포켓몬",
+  "zh-hant": "冰鰭寶可夢",
+  "fr": "Glaçaileron",
+  "de": "Eisfinne",
+  "en": "Ice Fin Pokémon",
+  "zh-hans": "冰鳍宝可梦"
+ },
+ "flavor": {
+  "en": "It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique."
+ },
+ "varieties": [
+  {
+   "name": "arctibax",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "527"
+}

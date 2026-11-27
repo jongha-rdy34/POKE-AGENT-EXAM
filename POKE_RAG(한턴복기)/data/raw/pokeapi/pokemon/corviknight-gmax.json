@@ -1,0 +1,35 @@
+{
+ "id": 10212,
+ "name": "corviknight-gmax",
+ "species": "corviknight",
+ "is_default": false,
+ "types": [
+  "flying",
+  "steel"
+ ],
+ "stats": {
+  "hp": 98,
+  "attack": 87,
+  "defense": 105,
+  "special-attack": 53,
+  "special-defense": 85,
+  "speed": 67
+ },
+ "abilities": [
+  {
+   "name": "pressure",
+   "hidden": false
+  },
+  {
+   "name": "unnerve",
+   "hidden": false
+  },
+  {
+   "name": "mirror-armor",
+   "hidden": true
+  }
+ ],
+ "height": 140,
+ "weight": 10000,
+ "champions_moves": []
+}

@@ -1,0 +1,31 @@
+{
+ "name": "switcheroo",
+ "names": {
+  "ja-hrkt": "すりかえ",
+  "ko": "바꿔치기",
+  "zh-hant": "掉包",
+  "fr": "Passe-Passe",
+  "de": "Wechseldich",
+  "es": "Trapicheo",
+  "it": "Rapidscambio",
+  "en": "Switcheroo",
+  "ja": "すりかえ",
+  "zh-hans": "掉包",
+  "es-419": "Trueque"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User and target swap items."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user trades held items with the target faster than the eye can follow.",
+  "ko": "눈에 보이지 않는 속도로 자신과 상대가 지닌 물건을 교환한다."
+ }
+}

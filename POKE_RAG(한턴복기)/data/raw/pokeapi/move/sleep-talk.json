@@ -1,0 +1,31 @@
+{
+ "name": "sleep-talk",
+ "names": {
+  "ja-hrkt": "ねごと",
+  "ko": "잠꼬대",
+  "zh-hant": "夢話",
+  "fr": "Blabla Dodo",
+  "de": "Schlafrede",
+  "es": "Sonámbulo",
+  "it": "Sonnolalia",
+  "en": "Sleep Talk",
+  "ja": "ねごと",
+  "zh-hans": "梦话",
+  "es-419": "Sonámbulo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Randomly uses one of the user’s other three moves.  Only works if the user is sleeping."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user randomly uses one of the moves it knows. This move can only be used while the user is asleep.",
+  "ko": "자신이 배운 기술 중 하나를 무작위로 날린다. 자신이 잠들어 있을 때만 쓸 수 있다."
+ }
+}

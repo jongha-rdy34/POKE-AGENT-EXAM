@@ -1,0 +1,37 @@
+{
+ "id": 957,
+ "name": "tinkatink",
+ "names": {
+  "ja-hrkt": "カヌチャン",
+  "ja-roma": "Kanuchan",
+  "ko": "어리짱",
+  "zh-hant": "小鍛匠",
+  "fr": "Forgerette",
+  "de": "Forgita",
+  "es": "Tinkatink",
+  "it": "Tinkatink",
+  "en": "Tinkatink",
+  "ja": "カヌチャン",
+  "zh-hans": "小锻匠",
+  "es-419": "Tinkatink"
+ },
+ "genus": {
+  "ja-hrkt": "かなうちポケモン",
+  "ko": "대장장이포켓몬",
+  "zh-hant": "錘鍊寶可夢",
+  "fr": "Forge",
+  "de": "Schmied",
+  "en": "Metalsmith Pokémon",
+  "zh-hans": "锤炼宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result."
+ },
+ "varieties": [
+  {
+   "name": "tinkatink",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "501"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "decidium-z--held",
+ "names": {
+  "ja-hrkt": "ジュナイパーＺ",
+  "ko": "모크나이퍼Z",
+  "zh-hant": "狙射樹梟Ｚ",
+  "fr": "Archézélite",
+  "de": "Silvarronium Z",
+  "es": "Dueyestal Z",
+  "it": "Deciduenium Z",
+  "en": "Decidium Z",
+  "ja": "ジュナイパーＺ",
+  "zh-hans": "狙射树枭Ｚ",
+  "es-419": "Dueyestal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Archéduc d'améliorer Tisse Ombre en Fureur des Plumes Spectrales.",
+  "en": "Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 모크나이퍼의 그림자꿰매기를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Decidueye’s Spirit Shackle to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ジュナイパーの かげぬいを Ｚワザに グレードアップする。"
+ }
+}

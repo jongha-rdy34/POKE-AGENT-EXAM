@@ -1,0 +1,23 @@
+{
+ "name": "poison-touch",
+ "names": {
+  "ja-hrkt": "どくしゅ",
+  "ko": "독수",
+  "zh-hant": "毒手",
+  "fr": "Toxitouche",
+  "de": "Giftgriff",
+  "es": "Toque Tóxico",
+  "it": "Velentocco",
+  "en": "Poison Touch",
+  "ja": "どくしゅ",
+  "zh-hans": "毒手",
+  "es-419": "Contacto Tóxico"
+ },
+ "effect": {
+  "en": "Has a 30% chance of poisoning target Pokémon upon contact."
+ },
+ "flavor": {
+  "en": "May poison a target when the Pokémon makes contact.",
+  "ko": "접촉하기만 해도 상대를 독 상태로 만들 때가 있다."
+ }
+}

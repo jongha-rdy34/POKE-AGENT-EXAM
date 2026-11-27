@@ -1,0 +1,42 @@
+{
+ "id": 727,
+ "name": "incineroar",
+ "names": {
+  "ja-hrkt": "ガオガエン",
+  "ja-roma": "Gaogaen",
+  "ko": "어흥염",
+  "zh-hant": "熾焰咆哮虎",
+  "fr": "Félinferno",
+  "de": "Fuegro",
+  "es": "Incineroar",
+  "it": "Incineroar",
+  "en": "Incineroar",
+  "ja": "ガオガエン",
+  "zh-hans": "炽焰咆哮虎",
+  "es-419": "Incineroar"
+ },
+ "genus": {
+  "ja-hrkt": "ヒールポケモン",
+  "ko": "힐포켓몬",
+  "zh-hant": "反派寶可夢",
+  "fr": "Pokémon Vil Catcheur",
+  "de": "Fieslings-Pokémon",
+  "es": "Pokémon Rudo",
+  "it": "Pokémon Colpibassi",
+  "en": "Heel Pokémon",
+  "ja": "ヒールポケモン",
+  "zh-hans": "反派宝可梦",
+  "es-419": "Pokémon Rudo"
+ },
+ "flavor": {
+  "ko": "난폭한 거동이 눈에 띄지만 작은 포켓몬을 도와주는 상냥한 일면도 있다.",
+  "en": "Incineroar’s rough and aggressive behavior is its most notable trait, but the way it helps out small Pokémon shows that it has a kind side as well."
+ },
+ "varieties": [
+  {
+   "name": "incineroar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "375"
+}

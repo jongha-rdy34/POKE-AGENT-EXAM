@@ -1,0 +1,20 @@
+{
+ "name": "grass-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースくさ",
+  "ko": "테라피스 풀",
+  "zh-hant": "草太晶碎塊",
+  "fr": "Téra-Éclat Plante",
+  "de": "Tera-Stück (Pflanze)",
+  "es": "Teralito Planta",
+  "it": "Teralite Erba",
+  "en": "Grass Tera Shard",
+  "ja": "テラピースくさ",
+  "zh-hans": "草太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

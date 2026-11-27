@@ -1,0 +1,28 @@
+{
+ "name": "eject-button",
+ "names": {
+  "ja-hrkt": "だっしゅつボタン",
+  "ko": "탈출버튼",
+  "zh-hant": "逃脫按鍵",
+  "fr": "Bouton Fuite",
+  "de": "Fluchtknopf",
+  "es": "Botón Escape",
+  "it": "Pulsantefuga",
+  "en": "Eject Button",
+  "ja": "だっしゅつボタン",
+  "zh-hans": "逃脱按键",
+  "es-419": "Botón de Escape"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur subit des dégâts d'une capacité, il se retire pour un Pokémon de l'équipe au choix du Dresseur.",
+  "en": "Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. If the holder is hit by an attack, it will be switched out of battle.",
+  "ko": "지니게 하고 기술을 받으면 배틀에서 탈출하여 지닌 포켓몬과 교체할 수 있다.",
+  "ja": "持たせて 技を 受けると 戦闘から 脱出して 手持ちと 入れ替わる ことができる。"
+ }
+}

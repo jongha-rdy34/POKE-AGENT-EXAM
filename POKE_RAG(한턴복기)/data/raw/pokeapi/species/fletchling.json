@@ -1,0 +1,42 @@
+{
+ "id": 661,
+ "name": "fletchling",
+ "names": {
+  "ja-hrkt": "ヤヤコマ",
+  "ja-roma": "Yayakoma",
+  "ko": "화살꼬빈",
+  "zh-hant": "小箭雀",
+  "fr": "Passerouge",
+  "de": "Dartiri",
+  "es": "Fletchling",
+  "it": "Fletchling",
+  "en": "Fletchling",
+  "ja": "ヤヤコマ",
+  "zh-hans": "小箭雀",
+  "es-419": "Fletchling"
+ },
+ "genus": {
+  "ja-hrkt": "コマドリポケモン",
+  "ko": "울새포켓몬",
+  "zh-hant": "知更鳥寶可夢",
+  "fr": "Pokémon Rougegorge",
+  "de": "Rotkehlchen-Pokémon",
+  "es": "Pokémon Petirrojo",
+  "it": "Pokémon Pettirosso",
+  "en": "Tiny Robin Pokémon",
+  "ja": "コマドリポケモン",
+  "zh-hans": "知更鸟宝可梦",
+  "es-419": "Pokémon Petirrojo"
+ },
+ "flavor": {
+  "ko": "흥분하면 체온이 확 오른다. 맨손으로 만지면 화상을 입기도 할 정도다.",
+  "en": "When this Pokémon gets excited, its body temperature increases sharply. If you touch a Fletchling with bare hands, you might get burned."
+ },
+ "varieties": [
+  {
+   "name": "fletchling",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "341"
+}

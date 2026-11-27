@@ -1,0 +1,30 @@
+{
+ "id": 871,
+ "name": "pincurchin",
+ "species": "pincurchin",
+ "is_default": true,
+ "types": [
+  "electric"
+ ],
+ "stats": {
+  "hp": 48,
+  "attack": 101,
+  "defense": 95,
+  "special-attack": 91,
+  "special-defense": 85,
+  "speed": 15
+ },
+ "abilities": [
+  {
+   "name": "lightning-rod",
+   "hidden": false
+  },
+  {
+   "name": "electric-surge",
+   "hidden": true
+  }
+ ],
+ "height": 3,
+ "weight": 10,
+ "champions_moves": []
+}

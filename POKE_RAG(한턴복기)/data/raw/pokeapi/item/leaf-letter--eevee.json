@@ -1,0 +1,25 @@
+{
+ "name": "leaf-letter--eevee",
+ "names": {
+  "ja-hrkt": "このはのおてがみ",
+  "ko": "나뭇잎편지",
+  "zh-hant": "樹葉信",
+  "fr": "Lettre Végétale",
+  "de": "Blattbrief",
+  "es": "Hoja Escrita",
+  "it": "Foglialettera",
+  "en": "Leaf Letter",
+  "ja": "このはのおてがみ",
+  "zh-hans": "树叶信",
+  "es-419": "Hoja Escrita"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "나뭇잎으로 만든 편지. 이브이의 발자국으로 무언가가 쓰여 있다.",
+  "en": "A letter written on a leaf. Something is written using Eevee’s footprints.",
+  "ja": "木の葉で 作った 手紙。 イーブイの 足あとで なにかが 書かれて いる。"
+ }
+}

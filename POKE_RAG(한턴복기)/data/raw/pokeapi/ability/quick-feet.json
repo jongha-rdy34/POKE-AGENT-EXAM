@@ -1,0 +1,23 @@
+{
+ "name": "quick-feet",
+ "names": {
+  "ja-hrkt": "はやあし",
+  "ko": "속보",
+  "zh-hant": "飛毛腿",
+  "fr": "Pied Véloce",
+  "de": "Rasanz",
+  "es": "Pies Rápidos",
+  "it": "Piedisvelti",
+  "en": "Quick Feet",
+  "ja": "はやあし",
+  "zh-hans": "飞毛腿",
+  "es-419": "Pies Rápidos"
+ },
+ "effect": {
+  "en": "Increases Speed to 1.5× with a major status ailment."
+ },
+ "flavor": {
+  "en": "Boosts the Speed stat if the Pokémon has a status condition.",
+  "ko": "상태 이상이 되면 스피드가 올라간다."
+ }
+}

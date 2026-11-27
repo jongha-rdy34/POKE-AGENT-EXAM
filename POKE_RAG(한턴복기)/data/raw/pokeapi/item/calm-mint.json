@@ -1,0 +1,25 @@
+{
+ "name": "calm-mint",
+ "names": {
+  "ja-hrkt": "おだやかミント",
+  "ko": "차분민트",
+  "zh-hant": "溫和薄荷",
+  "fr": "Aromate Calme",
+  "de": "Still-Minze",
+  "es": "Menta Serena",
+  "it": "Menta Calma",
+  "en": "Calm Mint",
+  "ja": "おだやかミント",
+  "zh-hans": "温和薄荷",
+  "es-419": "Menta Serena"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수방어가 오르기 쉬워지지만 공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Attack will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特防が 上がりやすく なるが 攻撃は 上がりにくくなる ミント。"
+ }
+}

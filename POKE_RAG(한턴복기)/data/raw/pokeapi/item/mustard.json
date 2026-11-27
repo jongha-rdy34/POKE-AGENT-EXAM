@@ -1,0 +1,20 @@
+{
+ "name": "mustard",
+ "names": {
+  "ja-hrkt": "マスタード",
+  "ko": "머스터드",
+  "zh-hant": "黃芥末醬",
+  "fr": "Moutarde",
+  "de": "Senf",
+  "es": "Mostaza",
+  "it": "Senape",
+  "en": "Mustard",
+  "ja": "マスタード",
+  "zh-hans": "黄芥末酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

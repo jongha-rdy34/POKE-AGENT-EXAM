@@ -1,0 +1,27 @@
+{
+ "name": "water",
+ "names": {
+  "ja-hrkt": "みず",
+  "ko": "물",
+  "zh-hant": "水",
+  "fr": "Eau",
+  "de": "Wasser",
+  "es": "Agua",
+  "it": "Acqua",
+  "en": "Water",
+  "ja": "みず",
+  "zh-hans": "水",
+  "es-419": "Agua"
+ },
+ "double_to": [
+  "ground",
+  "rock",
+  "fire"
+ ],
+ "half_to": [
+  "water",
+  "grass",
+  "dragon"
+ ],
+ "zero_to": []
+}

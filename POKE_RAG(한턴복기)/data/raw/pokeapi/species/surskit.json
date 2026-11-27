@@ -1,0 +1,42 @@
+{
+ "id": 283,
+ "name": "surskit",
+ "names": {
+  "ja-hrkt": "アメタマ",
+  "ja-roma": "Ametama",
+  "ko": "비구술",
+  "zh-hant": "溜溜糖球",
+  "fr": "Arakdo",
+  "de": "Gehweiher",
+  "es": "Surskit",
+  "it": "Surskit",
+  "en": "Surskit",
+  "ja": "アメタマ",
+  "zh-hans": "溜溜糖球",
+  "es-419": "Surskit"
+ },
+ "genus": {
+  "ja-hrkt": "あめんぼポケモン",
+  "ko": "소금쟁이포켓몬",
+  "zh-hant": "水黽寶可夢",
+  "fr": "Pokémon Maresurfeur",
+  "de": "Wassergeher",
+  "es": "Pokémon Zapatero",
+  "it": "Pokémon Sfiorapozze",
+  "en": "Pond Skater Pokémon",
+  "ja": "あめんぼポケモン",
+  "zh-hans": "水黾宝可梦",
+  "es-419": "Pokémon Zapatero"
+ },
+ "flavor": {
+  "en": "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
+  "ko": "물풀이 많은 연못이나 늪에 산다. 서식지도 먹는 먹이도 비슷한 물거미와 자주 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "surskit",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "141"
+}

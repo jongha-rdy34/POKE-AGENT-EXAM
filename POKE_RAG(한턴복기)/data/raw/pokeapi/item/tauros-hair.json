@@ -1,0 +1,20 @@
+{
+ "name": "tauros-hair",
+ "names": {
+  "ja-hrkt": "ケンタロスのけ",
+  "ko": "켄타로스의털",
+  "zh-hant": "肯泰羅的毛",
+  "fr": "Poils de Tauros",
+  "de": "Tauros-Haar",
+  "es": "Pelo de Tauros",
+  "it": "Pelo di Tauros",
+  "en": "Tauros Hair",
+  "ja": "ケンタロスのけ",
+  "zh-hans": "肯泰罗的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

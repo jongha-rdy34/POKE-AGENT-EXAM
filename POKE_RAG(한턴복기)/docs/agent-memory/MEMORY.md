@@ -1,0 +1,8 @@
+- [User domain interests](user-domain-interests.md) — not medical-only; also SCSA-type targets
+- [AI core project 2](ai-core-project-2.md) — RAG service, Pokémon domain, planning stage
+- [Machine migration](machine-migration.md) — laptop after 2026-10-23; read docs/HANDOFF-machine-migration.md
+- [GMS key expiry](gms-key-expiry.md) — expires 2026-10-23; Plus ≠ API, switch via .env
+- [Data source priority](data-source-priority.md) — PokeAPI > pokedb(도구·채용률) + Smogon(성격·SP·특성), 챔피언스는 기준 아님, champions-data 구버전 보충 전용
+- [gstack tooling quirks](gstack-tooling-quirks.md) — bun reinstalled 10-23 (npm i -g bun) if helpers break; read sub-skills directly; no jq
+- [Portfolio direction](portfolio-direction.md) — 10-23 no monetization; deploy + funnel + /changelog (docs/designs/portfolio-ops.md)
+- [Calc-first direction](calc-first-direction.md) — show damage calc per opponent build first (Smart Nuo parity), stats as annotations, Champions items first

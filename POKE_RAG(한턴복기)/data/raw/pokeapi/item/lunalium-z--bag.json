@@ -1,0 +1,28 @@
+{
+ "name": "lunalium-z--bag",
+ "names": {
+  "ja-hrkt": "ルナアーラＺ",
+  "ko": "루나아라Z",
+  "zh-hant": "露奈雅拉Ｚ",
+  "fr": "Lunazélite",
+  "de": "Lunalium Z",
+  "es": "Lunalastal Z",
+  "it": "Lunalium Z",
+  "en": "Lunalium Z",
+  "ja": "ルナアーラＺ",
+  "zh-hans": "露奈雅拉Ｚ",
+  "es-419": "Lunalastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour lunalium-z--bag",
+  "en": "XXX new effect for lunalium-z--bag"
+ },
+ "flavor": {
+  "ko": "루나아라의 섀도레이를 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Lunala’s Moongeist Beam to an exclusive Z-Move.",
+  "ja": "ルナアーラの シャドーレイを Ｚワザに グレードアップする Ｚパワーの 結晶を つくりだす。"
+ }
+}

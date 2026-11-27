@@ -1,0 +1,155 @@
+{
+ "request": {
+  "my_form_key": "garchomp-mega-z",
+  "opp_form_key": "pawmot",
+  "actor": "opp",
+  "move_key": "ice-punch",
+  "actual": {
+   "kind": "ko"
+  },
+  "my_build": {
+   "sp": {
+    "hp": 2,
+    "spa": 32,
+    "spe": 32
+   },
+   "nature": "modest"
+  }
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "챔피언스에 있는 도구로는 16번 중 1번만 한 방이에요",
+    "summary": "계산상, 상대가 A32 · 고집 · 특성 철주먹 · 생명의구슬일 때 16번 중 1번 한 방이에요. 또는 상대가 A32 · 고집 · 특성 철주먹 · 구애머리띠(챔피언스에 없는 도구)일 때 16번 중 12번 한 방이에요. 실제 랭크배틀 통계 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 1번). 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 축전.",
+    "calc": {
+     "rows": [
+      {
+       "label": "A32 · 고집 · 특성 철주먹 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "pokedb M-6 이 포켓몬 생명의구슬 채용 31%",
+        "Smogon 생명의구슬 채용 4%",
+        "Smogon 철주먹 채용 92%"
+       ],
+       "k": 1,
+       "pct": 6.3,
+       "damage": [
+        84.3,
+        100.0
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 특성 철주먹 · 구애머리띠",
+       "in_champions": false,
+       "same_items": [],
+       "usage": [
+        "Smogon 철주먹 채용 92%"
+       ],
+       "k": 12,
+       "pct": 75.0,
+       "damage": [
+        96.2,
+        113.5
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 특성 철주먹 · 구애머리띠",
+       "in_champions": false,
+       "same_items": [],
+       "usage": [
+        "Smogon 철주먹 채용 92%"
+       ],
+       "k": 4,
+       "pct": 25.0,
+       "damage": [
+        87.6,
+        103.8
+       ]
+      }
+     ],
+     "more": 0,
+     "near": [],
+     "assumed": "상대 SP A32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "H2 C32 S32 · 조심 · 특성 부유 · 한카리아스나이트Z",
+     "headline_row": 0
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 한카리아스나이트Z · 특성 부유"
+      ],
+      "causes": [
+       {
+        "key": "life-orb",
+        "label": "생명의구슬",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 1번",
+        "rolls_k": 1,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 철주먹",
+         "고집 · H2 A32 C32 · 특성 철주먹",
+         "고집 · H2 A32 D32 · 특성 철주먹"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): 한카리아스나이트Z · 특성 부유"
+      ],
+      "causes": [
+       {
+        "key": "life-orb",
+        "label": "생명의구슬",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 1번",
+        "rolls_k": 1,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 철주먹",
+         "고집 · A32 D2 S32 · 특성 철주먹",
+         "고집 · A32 B2 S32 · 특성 철주먹"
+        ]
+       }
+      ]
+     }
+    },
+    "differs": false,
+    "diff_reason": "",
+    "unsupported": [
+     "계산하지 않은 상대 특성: 축전"
+    ],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "sample-friend1-calc-first"
+   }
+  }
+ ]
+}

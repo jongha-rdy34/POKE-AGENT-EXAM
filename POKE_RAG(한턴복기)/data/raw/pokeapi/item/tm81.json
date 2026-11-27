@@ -1,0 +1,28 @@
+{
+ "name": "tm81",
+ "names": {
+  "ja-hrkt": "わざマシン８１",
+  "ko": "기술머신81",
+  "zh-hant": "招式學習器８１",
+  "fr": "CT81",
+  "de": "TM81",
+  "es": "MT81",
+  "it": "MT81",
+  "en": "TM81",
+  "ja": "わざマシン８１",
+  "zh-hans": "招式学习器８１",
+  "es-419": "MT81"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Plaie Croix à un Pokémon compatible.",
+  "en": "Teaches X-Scissor to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit.",
+  "ko": "땅을 힘껏 밟아 자신의 주위에 있는 포켓몬을 공격한다. 상대의 스피드를 떨어뜨린다.",
+  "ja": "地面を 踏みならして 自分の 周りに いるものを 攻撃する。 相手の 素早さを さげる。"
+ }
+}

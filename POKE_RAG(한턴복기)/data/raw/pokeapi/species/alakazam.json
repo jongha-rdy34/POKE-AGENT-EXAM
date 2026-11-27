@@ -1,0 +1,46 @@
+{
+ "id": 65,
+ "name": "alakazam",
+ "names": {
+  "ja-hrkt": "フーディン",
+  "ja-roma": "Foodin",
+  "ko": "후딘",
+  "zh-hant": "胡地",
+  "fr": "Alakazam",
+  "de": "Simsala",
+  "es": "Alakazam",
+  "it": "Alakazam",
+  "en": "Alakazam",
+  "ja": "フーディン",
+  "zh-hans": "胡地",
+  "es-419": "Alakazam"
+ },
+ "genus": {
+  "ja-hrkt": "ねんりきポケモン",
+  "ko": "초능력포켓몬",
+  "zh-hant": "念力寶可夢",
+  "fr": "Pokémon Psy",
+  "de": "Psi-Pokémon",
+  "es": "Pokémon Psi",
+  "it": "Pokémon Psico",
+  "en": "Psi Pokémon",
+  "ja": "ねんりきポケモン",
+  "zh-hans": "念力宝可梦",
+  "es-419": "Pokémon Psi"
+ },
+ "flavor": {
+  "en": "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head.",
+  "ko": "강력한 초능력을 구사한다. 양손에 든 숟가락은 그 힘으로 만들어낸 것이라고 한다."
+ },
+ "varieties": [
+  {
+   "name": "alakazam",
+   "is_default": true
+  },
+  {
+   "name": "alakazam-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "27"
+}

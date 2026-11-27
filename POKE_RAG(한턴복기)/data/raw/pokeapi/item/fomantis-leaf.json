@@ -1,0 +1,20 @@
+{
+ "name": "fomantis-leaf",
+ "names": {
+  "ja-hrkt": "カリキリのはっぱ",
+  "ko": "짜랑랑의잎",
+  "zh-hant": "偽螳草的葉片",
+  "fr": "Feuille de Mimantis",
+  "de": "Imantis-Blatt",
+  "es": "Hoja de Fomantis",
+  "it": "Foglia di Fomantis",
+  "en": "Fomantis Leaf",
+  "ja": "カリキリのはっぱ",
+  "zh-hans": "伪螳草的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

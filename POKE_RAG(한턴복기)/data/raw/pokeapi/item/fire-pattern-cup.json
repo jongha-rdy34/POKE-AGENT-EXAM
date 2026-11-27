@@ -1,0 +1,20 @@
+{
+ "name": "fire-pattern-cup",
+ "names": {
+  "ja-hrkt": "ファイヤーカップ",
+  "ko": "파이어 컵",
+  "zh-hant": "火焰水杯",
+  "fr": "Tasse à Flammes",
+  "de": "Flammen-Tasse",
+  "es": "Taza Llamas",
+  "it": "Tazza con fiamme",
+  "en": "Fire Pattern Cup",
+  "ja": "ファイヤーカップ",
+  "zh-hans": "火焰水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

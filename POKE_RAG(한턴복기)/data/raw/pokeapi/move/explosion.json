@@ -1,0 +1,31 @@
+{
+ "name": "explosion",
+ "names": {
+  "ja-hrkt": "だいばくはつ",
+  "ko": "대폭발",
+  "zh-hant": "大爆炸",
+  "fr": "Explosion",
+  "de": "Explosion",
+  "es": "Explosión",
+  "it": "Esplosione",
+  "en": "Explosion",
+  "ja": "だいばくはつ",
+  "zh-hans": "大爆炸",
+  "es-419": "Explosión"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 250,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "User faints."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.",
+  "ko": "큰 폭발로 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서는 기절한다."
+ }
+}

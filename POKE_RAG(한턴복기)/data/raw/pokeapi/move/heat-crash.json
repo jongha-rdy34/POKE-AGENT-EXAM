@@ -1,0 +1,31 @@
+{
+ "name": "heat-crash",
+ "names": {
+  "ja-hrkt": "ヒートスタンプ",
+  "ko": "히트스탬프",
+  "zh-hant": "高溫重壓",
+  "fr": "Tacle Feu",
+  "de": "Brandstempel",
+  "es": "Golpe Calor",
+  "it": "Marchiafuoco",
+  "en": "Heat Crash",
+  "ja": "ヒートスタンプ",
+  "zh-hans": "高温重压",
+  "es-419": "Golpe de Calor"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is higher when the user weighs more than the target, up to a maximum of 120."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slams into the target with its flame-covered body. The more the user outweighs the target, the greater the move's power.",
+  "ko": "불타는 몸으로 상대에게 부딪쳐서 공격한다. 자신이 상대보다 무거울수록 위력이 올라간다."
+ }
+}

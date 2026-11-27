@@ -1,0 +1,28 @@
+{
+ "name": "venusaurite",
+ "names": {
+  "ja-hrkt": "フシギバナイト",
+  "ko": "이상해꽃나이트",
+  "zh-hant": "妙蛙花進化石",
+  "fr": "Florizarrite",
+  "de": "Bisaflornit",
+  "es": "Venusaurita",
+  "it": "Venusaurite",
+  "en": "Venusaurite",
+  "ja": "フシギバナイト",
+  "zh-hans": "妙蛙花进化石",
+  "es-419": "Venusaurita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Florizarre de Méga-Évoluer en Méga-Florizarre.",
+  "en": "Held: Allows Venusaur to Mega Evolve into Mega Venusaur."
+ },
+ "flavor": {
+  "ko": "이상해꽃에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Venusaur hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "フシギバナに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

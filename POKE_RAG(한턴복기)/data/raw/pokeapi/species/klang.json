@@ -1,0 +1,42 @@
+{
+ "id": 600,
+ "name": "klang",
+ "names": {
+  "ja-hrkt": "ギギアル",
+  "ja-roma": "Gigiaru",
+  "ko": "기기어르",
+  "zh-hant": "齒輪組",
+  "fr": "Clic",
+  "de": "Kliklak",
+  "es": "Klang",
+  "it": "Klang",
+  "en": "Klang",
+  "ja": "ギギアル",
+  "zh-hans": "齿轮组",
+  "es-419": "Klang"
+ },
+ "genus": {
+  "ja-hrkt": "はぐるまポケモン",
+  "ko": "톱니바퀴포켓몬",
+  "zh-hant": "齒輪寶可夢",
+  "fr": "Pokémon Engrenage",
+  "de": "Getriebe-Pokémon",
+  "es": "Pokémon Engranaje",
+  "it": "Pokémon Ingranaggio",
+  "en": "Gear Pokémon",
+  "ja": "はぐるまポケモン",
+  "zh-hans": "齿轮宝可梦",
+  "es-419": "Pokémon Engranaje"
+ },
+ "flavor": {
+  "en": "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology.",
+  "ko": "공업 기술의 상징으로 많은 가라르의 회사에서 기업 로고로 채용하고 있다."
+ },
+ "varieties": [
+  {
+   "name": "klang",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "305"
+}

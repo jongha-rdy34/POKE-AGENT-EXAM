@@ -1,0 +1,18 @@
+{
+ "name": "relaxed",
+ "names": {
+  "ja-hrkt": "のんき",
+  "ko": "무사태평",
+  "zh-hant": "悠閒",
+  "fr": "Relax",
+  "de": "Locker",
+  "es": "Plácida",
+  "it": "Placida",
+  "en": "Relaxed",
+  "ja": "のんき",
+  "zh-hans": "悠闲",
+  "es-419": "Relajada"
+ },
+ "plus": "defense",
+ "minus": "speed"
+}

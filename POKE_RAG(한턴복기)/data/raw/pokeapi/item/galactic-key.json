@@ -1,0 +1,28 @@
+{
+ "name": "galactic-key",
+ "names": {
+  "ja-hrkt": "ギンガだんのカギ",
+  "ko": "갤럭시단의열쇠",
+  "zh-hant": "銀河隊鑰匙",
+  "fr": "Clé Galaxie",
+  "de": "G-Schlüssel",
+  "es": "Llave Galaxia",
+  "it": "Galachiave",
+  "en": "Galactic Key",
+  "ja": "ギンガだんのカギ",
+  "zh-hans": "银河队钥匙",
+  "es-419": "Llave Galaxia"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder au Centre Galaxie de Voilaroc.",
+  "en": "Grants access to Galactic HQ in Veilstone City."
+ },
+ "flavor": {
+  "en": "A card key for disengaging the security systems in the Galactic HQ. Losing it can result in punishment, apparently.",
+  "ko": "갤럭시단아지트의 보안을 해제하기 위한 카드키다. 잃어버리면 벌을 받는 듯하다.",
+  "ja": "ギンガ団アジトの セキュリティを 解除するための カードキー。 なくすと おしおき されるらしい。"
+ }
+}

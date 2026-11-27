@@ -1,0 +1,42 @@
+{
+ "id": 385,
+ "name": "jirachi",
+ "names": {
+  "ja-hrkt": "ジラーチ",
+  "ja-roma": "Jirachi",
+  "ko": "지라치",
+  "zh-hant": "基拉祈",
+  "fr": "Jirachi",
+  "de": "Jirachi",
+  "es": "Jirachi",
+  "it": "Jirachi",
+  "en": "Jirachi",
+  "ja": "ジラーチ",
+  "zh-hans": "基拉祈",
+  "es-419": "Jirachi"
+ },
+ "genus": {
+  "ja-hrkt": "ねがいごとポケモン",
+  "ko": "희망사항포켓몬",
+  "zh-hant": "祈願寶可夢",
+  "fr": "Pokémon Souhait",
+  "de": "Wünscher-Pokémon",
+  "es": "Pokémon Deseo",
+  "it": "Pokémon Desiderio",
+  "en": "Wish Pokémon",
+  "ja": "ねがいごとポケモン",
+  "zh-hans": "祈愿宝可梦",
+  "es-419": "Pokémon Deseo"
+ },
+ "flavor": {
+  "en": "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head.",
+  "ko": "1000년의 잠에서 깨어났을 때 머리의 종이에 쓰인 소원을 이루어준다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "jirachi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "201"
+}

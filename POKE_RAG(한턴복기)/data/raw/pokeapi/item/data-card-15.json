@@ -1,0 +1,28 @@
+{
+ "name": "data-card-15",
+ "names": {
+  "ja-hrkt": "データカード１５",
+  "ko": "데이터카드15",
+  "zh-hant": "資料卡１５",
+  "fr": "Carte Mémo15",
+  "de": "Datenkarte15",
+  "es": "Tarjeta Datos 15",
+  "it": "Scheda Dati 15",
+  "en": "Data Card 15",
+  "ja": "データカード１５",
+  "zh-hans": "数据卡１５",
+  "es-419": "Tarjeta Datos 15"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que les Pokémon du dresseur sont tombés au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have fallen in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon fell down in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬이 떨어진 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの 落ちた 回数が 記録された カード。"
+ }
+}

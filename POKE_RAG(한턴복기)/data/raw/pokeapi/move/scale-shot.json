@@ -1,0 +1,31 @@
+{
+ "name": "scale-shot",
+ "names": {
+  "ja-hrkt": "スケイルショット",
+  "ko": "스케일샷",
+  "zh-hant": "鱗射",
+  "fr": "Rafale Écailles",
+  "de": "Schuppenschuss",
+  "es": "Ráfaga Escamas",
+  "it": "Squamacolpo",
+  "en": "Scale Shot",
+  "ja": "スケイルショット",
+  "zh-hans": "鳞射",
+  "es-419": "Disparo Escamas"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 25,
+ "accuracy": 90,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "비늘을 쏘아서 공격한다. 2-5회 동안 연속으로 쓴다. 스피드가 올라가지만 방어가 떨어진다.",
+  "en": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat."
+ }
+}

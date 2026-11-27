@@ -1,0 +1,42 @@
+{
+ "id": 831,
+ "name": "wooloo",
+ "names": {
+  "ja-hrkt": "ウールー",
+  "ja-roma": "Wooluu",
+  "ko": "우르",
+  "zh-hant": "毛辮羊",
+  "fr": "Moumouton",
+  "de": "Wolly",
+  "es": "Wooloo",
+  "it": "Wooloo",
+  "en": "Wooloo",
+  "ja": "ウールー",
+  "zh-hans": "毛辫羊",
+  "es-419": "Wooloo"
+ },
+ "genus": {
+  "ja-hrkt": "ひつじポケモン",
+  "ko": "양포켓몬",
+  "zh-hant": "綿羊寶可夢",
+  "fr": "Pokémon Mouton",
+  "de": "Schaf-Pokémon",
+  "es": "Pokémon Oveja",
+  "it": "Pokémon Pecora",
+  "en": "Sheep Pokémon",
+  "ja": "ひつじポケモン",
+  "zh-hans": "绵羊宝可梦",
+  "es-419": "Pokémon Oveja"
+ },
+ "flavor": {
+  "ko": "털이 많이 자라면 움직이지 못한다. 우르의 털로 짠 천은 놀라울 정도로 튼튼하다.",
+  "en": "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong."
+ },
+ "varieties": [
+  {
+   "name": "wooloo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "438"
+}

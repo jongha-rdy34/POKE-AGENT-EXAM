@@ -1,0 +1,28 @@
+{
+ "name": "old-rod",
+ "names": {
+  "ja-hrkt": "ボロのつりざお",
+  "ko": "낡은낚싯대",
+  "zh-hant": "破舊釣竿",
+  "fr": "Canne",
+  "de": "Angel",
+  "es": "Caña Vieja",
+  "it": "Amo Vecchio",
+  "en": "Old Rod",
+  "ja": "ボロのつりざお",
+  "zh-hans": "破旧钓竿",
+  "es-419": "Caña Vieja"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour capturer des Pokémon dans les points d'eau.",
+  "en": "Used to catch Pokémon in bodies of water."
+ },
+ "flavor": {
+  "en": "An old and beat-up fishing rod. Use it at any body of water to fish for wild aquatic Pokémon.",
+  "ko": "낡고 조잡한 낚싯대. 물이 있는 장소에서 사용하면 포켓몬을 낚을 수 있다.",
+  "ja": "ふるくて ボロい つりざお。 水の ある 場所で 使うと ポケモンが つれる。"
+ }
+}

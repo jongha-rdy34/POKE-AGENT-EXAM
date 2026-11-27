@@ -1,0 +1,46 @@
+{
+ "id": 76,
+ "name": "golem",
+ "names": {
+  "ja-hrkt": "ゴローニャ",
+  "ja-roma": "Golonya",
+  "ko": "딱구리",
+  "zh-hant": "隆隆岩",
+  "fr": "Grolem",
+  "de": "Geowaz",
+  "es": "Golem",
+  "it": "Golem",
+  "en": "Golem",
+  "ja": "ゴローニャ",
+  "zh-hans": "隆隆岩",
+  "es-419": "Golem"
+ },
+ "genus": {
+  "ja-hrkt": "メガトンポケモン",
+  "ko": "메가톤포켓몬",
+  "zh-hant": "重量級寶可夢",
+  "fr": "Pokémon Titanesque",
+  "de": "Urgestein",
+  "es": "Pokémon Megatón",
+  "it": "Pokémon Megatone",
+  "en": "Megaton Pokémon",
+  "ja": "メガトンポケモン",
+  "zh-hans": "重量级宝可梦",
+  "es-419": "Pokémon Megatón"
+ },
+ "flavor": {
+  "en": "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth.",
+  "ko": "탈피한 직후에는 전체가 하얗고 부드럽지만 금방 공기와 접촉해서 단단해진다."
+ },
+ "varieties": [
+  {
+   "name": "golem",
+   "is_default": true
+  },
+  {
+   "name": "golem-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "31"
+}

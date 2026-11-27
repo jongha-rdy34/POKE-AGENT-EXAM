@@ -1,0 +1,28 @@
+{
+ "name": "acro-bike",
+ "names": {
+  "ja-hrkt": "ダートじてんしゃ",
+  "ko": "더트자전거",
+  "zh-hant": "越野自行車",
+  "fr": "Vélo Cross",
+  "de": "Kunstrad",
+  "es": "Bici Acrobática",
+  "it": "Bici da cross",
+  "en": "Acro Bike",
+  "ja": "ダートじてんしゃ",
+  "zh-hans": "越野自行车",
+  "es-419": "Bici Acrobática"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Plus manœuvrable que le Vélo de Course, et permet de sauter le long des rails.",
+  "en": "More maneuverable than the Mach Bike, and allows hopping along rails."
+ },
+ "flavor": {
+  "en": "This folding bike allows you to perform actions such as wheelies and bunny hops.",
+  "ko": "점프나 윌리 액션을 할 수 있는 접이식 자전거다.",
+  "ja": "ジャンプや ウィリーの アクションが できる おりたたみの 自転車。"
+ }
+}

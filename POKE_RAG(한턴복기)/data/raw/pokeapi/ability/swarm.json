@@ -1,0 +1,23 @@
+{
+ "name": "swarm",
+ "names": {
+  "ja-hrkt": "むしのしらせ",
+  "ko": "벌레의알림",
+  "zh-hant": "蟲之預感",
+  "fr": "Essaim",
+  "de": "Hexaplaga",
+  "es": "Enjambre",
+  "it": "Aiutinsetto",
+  "en": "Swarm",
+  "ja": "むしのしらせ",
+  "zh-hans": "虫之预感",
+  "es-419": "Enjambre"
+ },
+ "effect": {
+  "en": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+ },
+ "flavor": {
+  "en": "Powers up Bug-type moves when the Pokémon's HP is low.",
+  "ko": "HP가 줄었을 때 벌레타입 기술의 위력이 올라간다."
+ }
+}

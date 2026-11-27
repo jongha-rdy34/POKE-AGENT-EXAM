@@ -1,0 +1,42 @@
+{
+ "id": 270,
+ "name": "lotad",
+ "names": {
+  "ja-hrkt": "ハスボー",
+  "ja-roma": "Hassboh",
+  "ko": "연꽃몬",
+  "zh-hant": "蓮葉童子",
+  "fr": "Nénupiot",
+  "de": "Loturzel",
+  "es": "Lotad",
+  "it": "Lotad",
+  "en": "Lotad",
+  "ja": "ハスボー",
+  "zh-hans": "莲叶童子",
+  "es-419": "Lotad"
+ },
+ "genus": {
+  "ja-hrkt": "うきくさポケモン",
+  "ko": "개구리밥포켓몬",
+  "zh-hant": "浮萍寶可夢",
+  "fr": "Pokémon Aquaplante",
+  "de": "Wasserlinsen-Pokémon",
+  "es": "Pokémon Lenteja Agua",
+  "it": "Pokémon Alga",
+  "en": "Water Weed Pokémon",
+  "ja": "うきくさポケモン",
+  "zh-hans": "浮萍宝可梦",
+  "es-419": "Pokémon Lenteja Agua"
+ },
+ "flavor": {
+  "en": "Its leaf grew too large for it to live on land. That is how it began to live floating in the water.",
+  "ko": "잎사귀가 너무 커서 무거워졌기 때문에 물에 떠서 생활하게 되었다."
+ },
+ "varieties": [
+  {
+   "name": "lotad",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "136"
+}

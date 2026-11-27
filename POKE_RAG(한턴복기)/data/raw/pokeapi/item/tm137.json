@@ -1,0 +1,20 @@
+{
+ "name": "tm137",
+ "names": {
+  "ja-hrkt": "わざマシン１３７",
+  "ko": "기술머신137",
+  "zh-hant": "招式學習器１３７",
+  "fr": "CT137",
+  "de": "TM137",
+  "es": "MT137",
+  "it": "MT137",
+  "en": "TM137",
+  "ja": "わざマシン１３７",
+  "zh-hans": "招式学习器１３７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

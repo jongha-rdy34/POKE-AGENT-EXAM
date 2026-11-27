@@ -1,0 +1,23 @@
+{
+ "name": "overcoat",
+ "names": {
+  "ja-hrkt": "ぼうじん",
+  "ko": "방진",
+  "zh-hant": "防塵",
+  "fr": "Envelocape",
+  "de": "Partikelschutz",
+  "es": "Funda",
+  "it": "Copricapo",
+  "en": "Overcoat",
+  "ja": "ぼうじん",
+  "zh-hans": "防尘",
+  "es-419": "Funda"
+ },
+ "effect": {
+  "en": "Protects against damage from weather."
+ },
+ "flavor": {
+  "en": "The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.",
+  "ko": "모래바람이나 싸라기눈 등의 데미지를 입지 않는다. 가루의 기술을 받지 않는다."
+ }
+}

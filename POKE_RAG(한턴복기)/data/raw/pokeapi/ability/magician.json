@@ -1,0 +1,23 @@
+{
+ "name": "magician",
+ "names": {
+  "ja-hrkt": "マジシャン",
+  "ko": "매지션",
+  "zh-hant": "魔術師",
+  "fr": "Magicien",
+  "de": "Zauberer",
+  "es": "Prestidigitador",
+  "it": "Prestigiatore",
+  "en": "Magician",
+  "ja": "マジシャン",
+  "zh-hans": "魔术师",
+  "es-419": "Prestidigitador"
+ },
+ "effect": {
+  "en": "Steals the target's held item when the bearer uses a damaging move."
+ },
+ "flavor": {
+  "ko": "기술을 맞은 상대의 도구를 빼앗아 버린다.",
+  "en": "The Pokémon steals the held item from any target it hits with a move."
+ }
+}

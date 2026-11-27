@@ -1,0 +1,28 @@
+{
+ "name": "icium-z--bag",
+ "names": {
+  "ja-hrkt": "コオリＺ",
+  "ko": "얼음Z",
+  "zh-hant": "冰Ｚ",
+  "fr": "Cryozélite",
+  "de": "Glacium Z",
+  "es": "Criostal Z",
+  "it": "Glacium Z",
+  "en": "Icium Z",
+  "ja": "コオリＺ",
+  "zh-hans": "冰Ｚ",
+  "es-419": "Criostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour icium-z--bag",
+  "en": "XXX new effect for icium-z--bag"
+ },
+ "flavor": {
+  "ko": "얼음타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Ice-type moves to Ice-type Z-Moves.",
+  "ja": "こおりタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

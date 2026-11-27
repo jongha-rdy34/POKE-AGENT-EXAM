@@ -1,0 +1,25 @@
+{
+ "name": "rotom-catalog",
+ "names": {
+  "ja-hrkt": "ロトムのカタログ",
+  "ko": "로토무카탈로그",
+  "zh-hant": "洛托姆型錄",
+  "fr": "Moti-Catalogue",
+  "de": "Rotom-Katalog",
+  "es": "Catálogo Rotom",
+  "it": "Catalogo Rotom",
+  "en": "Rotom Catalog",
+  "ja": "ロトムのカタログ",
+  "zh-hans": "洛托姆型录",
+  "es-419": "Catálogo Rotom"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "로토무가 좋아하는 가전제품이 실려 있다. 카탈로그를 사용하면 로토무를 가전제품에 넣거나 꺼낼 수 있다.",
+  "en": "A catalog of devices that Rotom like. Use the catalog to have Rotom hop in and out of the various devices listed within.",
+  "ja": "ロトムが 好きな 家電が 載っている。 カタログを 使うことで ロトムを 家電に いれたり だすことが できる。"
+ }
+}

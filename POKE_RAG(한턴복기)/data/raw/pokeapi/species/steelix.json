@@ -1,0 +1,46 @@
+{
+ "id": 208,
+ "name": "steelix",
+ "names": {
+  "ja-hrkt": "ハガネール",
+  "ja-roma": "Haganeil",
+  "ko": "강철톤",
+  "zh-hant": "大鋼蛇",
+  "fr": "Steelix",
+  "de": "Stahlos",
+  "es": "Steelix",
+  "it": "Steelix",
+  "en": "Steelix",
+  "ja": "ハガネール",
+  "zh-hans": "大钢蛇",
+  "es-419": "Steelix"
+ },
+ "genus": {
+  "ja-hrkt": "てつへびポケモン",
+  "ko": "철뱀포켓몬",
+  "zh-hant": "鐵蛇寶可夢",
+  "fr": "Pokémon Serpenfer",
+  "de": "Stahlboa-Pokémon",
+  "es": "Pokémon Serpiente Férrea",
+  "it": "Pokémon Ferroserpe",
+  "en": "Iron Snake Pokémon",
+  "ja": "てつへびポケモン",
+  "zh-hans": "铁蛇宝可梦",
+  "es-419": "Pokémon Serpiente Férrea"
+ },
+ "flavor": {
+  "en": "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch.",
+  "ko": "흙과 함께 삼킨 강철이 축적되어 몸이 변화한 것이라 여겨지고 있다."
+ },
+ "varieties": [
+  {
+   "name": "steelix",
+   "is_default": true
+  },
+  {
+   "name": "steelix-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "41"
+}

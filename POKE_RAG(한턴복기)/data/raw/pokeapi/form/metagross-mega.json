@@ -1,0 +1,23 @@
+{
+ "name": "metagross-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Métalosse",
+  "de": "Mega-Metagross",
+  "en": "Mega Metagross"
+ },
+ "form_names": {
+  "ja-hrkt": "メガメタグロス",
+  "ko": "메가메타그로스",
+  "zh-hant": "超級巨金怪",
+  "fr": "Méga-Métalosse",
+  "de": "Mega-Form",
+  "es": "Mega-Metagross",
+  "it": "MegaMetagross",
+  "en": "Mega Metagross",
+  "ja": "メガメタグロス",
+  "zh-hans": "超级巨金怪",
+  "es-419": "Mega-Metagross"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,30 @@
+{
+ "name": "lansat-berry",
+ "names": {
+  "ja-hrkt": "サンのみ",
+  "ko": "랑사열매",
+  "zh-hant": "蘭薩果",
+  "fr": "Baie Lansat",
+  "de": "Lansatbeere",
+  "es": "Baya Zonlan",
+  "it": "Baccalangsa",
+  "en": "Lansat Berry",
+  "ja": "サンのみ",
+  "zh-hans": "兰萨果",
+  "es-419": "Baya Zonlan"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster le taux de coups critiques de deux niveaux.",
+  "en": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its critical-hit ratio will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 공격이 급소를 맞히기 쉬워진다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 攻撃が 急所に 当たりやすくなる。"
+ }
+}

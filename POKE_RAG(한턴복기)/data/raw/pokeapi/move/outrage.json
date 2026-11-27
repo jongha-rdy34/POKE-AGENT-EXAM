@@ -1,0 +1,31 @@
+{
+ "name": "outrage",
+ "names": {
+  "ja-hrkt": "げきりん",
+  "ko": "역린",
+  "zh-hant": "逆鱗",
+  "fr": "Colère",
+  "de": "Wutanfall",
+  "es": "Enfado",
+  "it": "Oltraggio",
+  "en": "Outrage",
+  "ja": "げきりん",
+  "zh-hans": "逆鳞",
+  "es-419": "Enfado"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "random-opponent",
+ "effect": {
+  "en": "Hits every turn for 2-3 turns, then confuses the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+  "ko": "2-3턴 동안 마구 난동 부려서 공격한다. 난동 부린 뒤에는 혼란에 빠진다."
+ }
+}

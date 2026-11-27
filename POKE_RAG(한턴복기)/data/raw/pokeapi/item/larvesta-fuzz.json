@@ -1,0 +1,20 @@
+{
+ "name": "larvesta-fuzz",
+ "names": {
+  "ja-hrkt": "メラルバのけ",
+  "ko": "활화르바의털",
+  "zh-hant": "燃燒蟲的毛",
+  "fr": "Poils de Pyronille",
+  "de": "Ignivor-Haar",
+  "es": "Pelo de Larvesta",
+  "it": "Pelo di Larvesta",
+  "en": "Larvesta Fuzz",
+  "ja": "メラルバのけ",
+  "zh-hans": "燃烧虫的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

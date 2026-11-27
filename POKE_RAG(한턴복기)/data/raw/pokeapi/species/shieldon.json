@@ -1,0 +1,42 @@
+{
+ "id": 410,
+ "name": "shieldon",
+ "names": {
+  "ja-hrkt": "タテトプス",
+  "ja-roma": "Tatetops",
+  "ko": "방패톱스",
+  "zh-hant": "盾甲龍",
+  "fr": "Dinoclier",
+  "de": "Schilterus",
+  "es": "Shieldon",
+  "it": "Shieldon",
+  "en": "Shieldon",
+  "ja": "タテトプス",
+  "zh-hans": "盾甲龙",
+  "es-419": "Shieldon"
+ },
+ "genus": {
+  "ja-hrkt": "シールドポケモン",
+  "ko": "실드포켓몬",
+  "zh-hant": "護盾寶可夢",
+  "fr": "Pokémon Bouclier",
+  "de": "Schutzschild",
+  "es": "Pokémon Escudo",
+  "it": "Pokémon Schermo",
+  "en": "Shield Pokémon",
+  "ja": "シールドポケモン",
+  "zh-hans": "护盾宝可梦",
+  "es-419": "Pokémon Escudo"
+ },
+ "flavor": {
+  "en": "Much remains unknown about this Pokémon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks.",
+  "ko": "태고의 지층에서 화석이 발견되었지만 얼굴 이외의 부분이 발견된 적은 없다."
+ },
+ "varieties": [
+  {
+   "name": "shieldon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "212"
+}

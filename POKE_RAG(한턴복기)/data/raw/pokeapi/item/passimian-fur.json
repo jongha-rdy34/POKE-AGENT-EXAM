@@ -1,0 +1,20 @@
+{
+ "name": "passimian-fur",
+ "names": {
+  "ja-hrkt": "ナゲツケサルのけ",
+  "ko": "내던숭이의털",
+  "zh-hant": "投擲猴的毛",
+  "fr": "Poils de Quartermac",
+  "de": "Quartermak-Haar",
+  "es": "Pelo de Passimian",
+  "it": "Pelo di Passimian",
+  "en": "Passimian Fur",
+  "ja": "ナゲツケサルのけ",
+  "zh-hans": "投掷猴的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

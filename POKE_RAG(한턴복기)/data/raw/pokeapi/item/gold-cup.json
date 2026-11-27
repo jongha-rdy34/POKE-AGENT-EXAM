@@ -1,0 +1,20 @@
+{
+ "name": "gold-cup",
+ "names": {
+  "ja-hrkt": "ゴールドチタンカップ",
+  "ko": "골드 티탄 컵",
+  "zh-hant": "金鈦水杯",
+  "fr": "Tasse Titane (Or)",
+  "de": "Gold-Titantasse",
+  "es": "Taza Dorada",
+  "it": "Tazza oro",
+  "en": "Gold Cup",
+  "ja": "ゴールドチタンカップ",
+  "zh-hans": "金钛水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

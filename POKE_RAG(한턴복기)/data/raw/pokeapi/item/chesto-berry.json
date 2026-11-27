@@ -1,0 +1,30 @@
+{
+ "name": "chesto-berry",
+ "names": {
+  "ja-hrkt": "カゴのみ",
+  "ko": "유루열매",
+  "zh-hant": "零餘果",
+  "fr": "Baie Maron",
+  "de": "Maronbeere",
+  "es": "Baya Atania",
+  "it": "Baccastagna",
+  "en": "Chesto Berry",
+  "ja": "カゴのみ",
+  "zh-hans": "零余果",
+  "es-419": "Baya Atania"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé quand endormi pour soigner le sommeil.",
+  "en": "Held: Consumed when asleep to cure sleep."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from sleep on its own in battle.",
+  "ko": "포켓몬에게 지니게 하면 잠듦을 회복한다.",
+  "ja": "ポケモンに 持たせると 眠りを 回復する。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 829,
+ "name": "gossifleur",
+ "names": {
+  "ja-hrkt": "ヒメンカ",
+  "ja-roma": "Himenka",
+  "ko": "꼬모카",
+  "zh-hant": "幼棉棉",
+  "fr": "Tournicoton",
+  "de": "Cottini",
+  "es": "Gossifleur",
+  "it": "Gossifleur",
+  "en": "Gossifleur",
+  "ja": "ヒメンカ",
+  "zh-hans": "幼棉棉",
+  "es-419": "Gossifleur"
+ },
+ "genus": {
+  "ja-hrkt": "はなかざりポケモン",
+  "ko": "꽃장식포켓몬",
+  "zh-hant": "花飾寶可夢",
+  "fr": "Pokémon Chef-Fleur",
+  "de": "Blumenzier-Pokémon",
+  "es": "Pokémon Adornofloral",
+  "it": "Pokémon Fiorfronzolo",
+  "en": "Flowering Pokémon",
+  "ja": "はなかざりポケモン",
+  "zh-hans": "花饰宝可梦",
+  "es-419": "Pokémon Adornofloral"
+ },
+ "flavor": {
+  "ko": "산들바람에 빙글빙글 돌면서 즐겁게 노래하는 귀여운 모습에 반해서 키우는 사람이 많다.",
+  "en": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "gossifleur",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "437"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "assurance",
+ "names": {
+  "ja-hrkt": "ダメおし",
+  "ko": "승부굳히기",
+  "zh-hant": "惡意追擊",
+  "fr": "Assurance",
+  "de": "Gewissheit",
+  "es": "Buena Baza",
+  "it": "Garanzia",
+  "en": "Assurance",
+  "ja": "ダメおし",
+  "zh-hans": "恶意追击",
+  "es-419": "Garantía"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is doubled if the target has already received damage this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move's power is doubled if the target has already taken some damage in the same turn.",
+  "ko": "그 턴에 상대가 이미 데미지를 입었다면 기술의 위력은 2배가 된다."
+ }
+}

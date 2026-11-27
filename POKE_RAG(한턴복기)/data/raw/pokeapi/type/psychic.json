@@ -1,0 +1,27 @@
+{
+ "name": "psychic",
+ "names": {
+  "ja-hrkt": "エスパー",
+  "ko": "에스퍼",
+  "zh-hant": "超能力",
+  "fr": "Psy",
+  "de": "Psycho",
+  "es": "Psíquico",
+  "it": "Psico",
+  "en": "Psychic",
+  "ja": "エスパー",
+  "zh-hans": "超能力",
+  "es-419": "Psíquico"
+ },
+ "double_to": [
+  "fighting",
+  "poison"
+ ],
+ "half_to": [
+  "steel",
+  "psychic"
+ ],
+ "zero_to": [
+  "dark"
+ ]
+}

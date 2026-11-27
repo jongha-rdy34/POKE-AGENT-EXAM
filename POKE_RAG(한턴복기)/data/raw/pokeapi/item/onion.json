@@ -1,0 +1,20 @@
+{
+ "name": "onion",
+ "names": {
+  "ja-hrkt": "たまねぎスライス",
+  "ko": "양파슬라이스",
+  "zh-hant": "洋蔥片",
+  "fr": "Oignon",
+  "de": "Zwiebel",
+  "es": "Cebolla",
+  "it": "Cipolla",
+  "en": "Onion",
+  "ja": "たまねぎスライス",
+  "zh-hans": "洋葱片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

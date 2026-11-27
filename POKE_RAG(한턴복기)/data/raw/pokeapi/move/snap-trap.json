@@ -1,0 +1,31 @@
+{
+ "name": "snap-trap",
+ "names": {
+  "ja-hrkt": "トラバサミ",
+  "ko": "집게덫",
+  "zh-hant": "捕獸夾",
+  "fr": "Troquenard",
+  "de": "Fangeisen",
+  "es": "Cepo",
+  "it": "Tagliola",
+  "en": "Snap Trap",
+  "ja": "トラバサミ",
+  "zh-hans": "捕兽夹",
+  "es-419": "Trampa Presión"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 35,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "집게덫으로 붙잡은 뒤 4-5턴 동안 상대를 끼워서 공격한다.",
+  "en": "The user snares the target in a snap trap for four to five turns."
+ }
+}

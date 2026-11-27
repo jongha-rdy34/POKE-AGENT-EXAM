@@ -1,0 +1,28 @@
+{
+ "name": "slowpoke-tail",
+ "names": {
+  "ja-hrkt": "おいしいシッポ",
+  "ko": "맛있는꼬리",
+  "zh-hant": "美味尾巴",
+  "fr": "Queue Ramoloss",
+  "de": "Flegmon-Rute",
+  "es": "Cola Slowpoke",
+  "it": "Coda Slowpoke",
+  "en": "Slowpoke Tail",
+  "ja": "おいしいシッポ",
+  "zh-hans": "美味尾巴",
+  "es-419": "Cola Slowpoke"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Une queue savoureuse vendue très cher. ",
+  "en": "A tasty tail that sells for a high price."
+ },
+ "flavor": {
+  "en": "A very tasty tail of something. It can be sold at a high price to shops.",
+  "ko": "매우 맛있는 무언가의 꼬리. 가게에서 비싸게 팔린다.",
+  "ja": "とても おいしい なにかの しっぽ。 ショップで 高く 売れる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "key-to-room-4",
+ "names": {
+  "ja-hrkt": "４ごうしつのカギ",
+  "ko": "4호실열쇠",
+  "zh-hant": "４號客房的鑰匙",
+  "fr": "Clé Salle 4",
+  "de": "R4-Schlüssel",
+  "es": "Ll. Habitación 4",
+  "it": "Chiave stanza 4",
+  "en": "Key to Room 4",
+  "ja": "４ごうしつのカギ",
+  "zh-hans": "４号客房的钥匙",
+  "es-419": "Ll. Habitación 4"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Débloque la porte de la Salle 4 du Lavandia Sea.",
+  "en": "Unlocks the door to Room 4 in Sea Mauville."
+ },
+ "flavor": {
+  "ko": "씨보라의 방으로 들어가기 위한 열쇠.",
+  "en": "A key that opens a door inside Sea Mauville.",
+  "ja": "シーキンセツの 部屋に 入るための カギ。"
+ }
+}

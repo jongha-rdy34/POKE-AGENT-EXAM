@@ -1,0 +1,42 @@
+{
+ "id": 714,
+ "name": "noibat",
+ "names": {
+  "ja-hrkt": "オンバット",
+  "ja-roma": "Onbat",
+  "ko": "음뱃",
+  "zh-hant": "嗡蝠",
+  "fr": "Sonistrelle",
+  "de": "eF-eM",
+  "es": "Noibat",
+  "it": "Noibat",
+  "en": "Noibat",
+  "ja": "オンバット",
+  "zh-hans": "嗡蝠",
+  "es-419": "Noibat"
+ },
+ "genus": {
+  "ja-hrkt": "おんぱポケモン",
+  "ko": "음파포켓몬",
+  "zh-hant": "音波寶可夢",
+  "fr": "Pokémon Ondes",
+  "de": "Schallwellen-Pokémon",
+  "es": "Pokémon Onda Sónica",
+  "it": "Pokémon Ondasonora",
+  "en": "Sound Wave Pokémon",
+  "ja": "おんぱポケモン",
+  "zh-hans": "音波宝可梦",
+  "es-419": "Pokémon Onda Sónica"
+ },
+ "flavor": {
+  "ko": "온갖 주파수의 음파를 조종한다. 초음파를 맞으면 거대한 몸집의 포켓몬도 견디지 못한다.",
+  "en": "No wavelength of sound is beyond Noibat’s ability to produce. The ultrasonic waves it generates can overcome much larger Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "noibat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "367"
+}

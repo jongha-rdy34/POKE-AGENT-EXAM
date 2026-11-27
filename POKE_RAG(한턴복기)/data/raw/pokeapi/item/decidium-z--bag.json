@@ -1,0 +1,28 @@
+{
+ "name": "decidium-z--bag",
+ "names": {
+  "ja-hrkt": "ジュナイパーＺ",
+  "ko": "모크나이퍼Z",
+  "zh-hant": "狙射樹梟Ｚ",
+  "fr": "Archézélite",
+  "de": "Silvarronium Z",
+  "es": "Dueyestal Z",
+  "it": "Deciduenium Z",
+  "en": "Decidium Z",
+  "ja": "ジュナイパーＺ",
+  "zh-hans": "狙射树枭Ｚ",
+  "es-419": "Dueyestal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour decidium-z--bag",
+  "en": "XXX new effect for decidium-z--bag"
+ },
+ "flavor": {
+  "ko": "모크나이퍼의 그림자꿰매기를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Decidueye’s Spirit Shackle to an exclusive Z-Move.",
+  "ja": "ジュナイパーの かげぬいを 特別な Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

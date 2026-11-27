@@ -1,0 +1,20 @@
+{
+ "name": "tm161",
+ "names": {
+  "ja-hrkt": "わざマシン１６１",
+  "ko": "기술머신161",
+  "zh-hant": "招式學習器１６１",
+  "fr": "CT161",
+  "de": "TM161",
+  "es": "MT161",
+  "it": "MT161",
+  "en": "TM161",
+  "ja": "わざマシン１６１",
+  "zh-hans": "招式学习器１６１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

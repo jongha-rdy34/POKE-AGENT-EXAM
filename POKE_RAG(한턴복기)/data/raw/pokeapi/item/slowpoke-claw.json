@@ -1,0 +1,20 @@
+{
+ "name": "slowpoke-claw",
+ "names": {
+  "ja-hrkt": "ヤドンのツメ",
+  "ko": "야돈의발톱",
+  "zh-hant": "呆呆獸的爪子",
+  "fr": "Griffe de Ramoloss",
+  "de": "Flegmon-Kralle",
+  "es": "Garra de Slowpoke",
+  "it": "Artiglio di Slowpoke",
+  "en": "Slowpoke Claw",
+  "ja": "ヤドンのツメ",
+  "zh-hans": "呆呆兽的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

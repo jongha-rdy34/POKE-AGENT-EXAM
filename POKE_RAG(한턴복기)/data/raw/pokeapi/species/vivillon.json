@@ -1,0 +1,42 @@
+{
+ "id": 666,
+ "name": "vivillon",
+ "names": {
+  "ja-hrkt": "ビビヨン",
+  "ja-roma": "Viviyon",
+  "ko": "비비용",
+  "zh-hant": "彩粉蝶",
+  "fr": "Prismillon",
+  "de": "Vivillon",
+  "es": "Vivillon",
+  "it": "Vivillon",
+  "en": "Vivillon",
+  "ja": "ビビヨン",
+  "zh-hans": "彩粉蝶",
+  "es-419": "Vivillon"
+ },
+ "genus": {
+  "ja-hrkt": "りんぷんポケモン",
+  "ko": "인분포켓몬",
+  "zh-hant": "鱗粉寶可夢",
+  "fr": "Pokémon Lépidécaille",
+  "de": "Flügelstaub",
+  "es": "Pokémon Escamaposa",
+  "it": "Pokémon Farfascaglia",
+  "en": "Scale Pokémon",
+  "ja": "りんぷんポケモン",
+  "zh-hans": "鳞粉宝可梦",
+  "es-419": "Pokémon Escamaposa"
+ },
+ "flavor": {
+  "ko": "살고 있는 장소의 기후나 풍토에 따라 날개의 모양이 다른 포켓몬이다. 화려한 색의 날개 가루를 뿌린다.",
+  "en": "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales."
+ },
+ "varieties": [
+  {
+   "name": "vivillon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "342"
+}

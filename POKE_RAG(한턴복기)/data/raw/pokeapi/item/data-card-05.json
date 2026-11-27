@@ -1,0 +1,28 @@
+{
+ "name": "data-card-05",
+ "names": {
+  "ja-hrkt": "データカード０５",
+  "ko": "데이터카드05",
+  "zh-hant": "資料卡０５",
+  "fr": "Carte Mémo05",
+  "de": "Datenkarte05",
+  "es": "Tarjeta Datos 05",
+  "it": "Scheda Dati 05",
+  "en": "Data Card 05",
+  "ja": "データカード０５",
+  "zh-hans": "数据卡０５",
+  "es-419": "Tarjeta Datos 05"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier de la Cours'Obstacles du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Hurdle Dash.",
+  "ko": "포켓슬론의 기록이 들어 있다. 대시허들 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ダッシュハードル １位 回数が 記録された カード。"
+ }
+}

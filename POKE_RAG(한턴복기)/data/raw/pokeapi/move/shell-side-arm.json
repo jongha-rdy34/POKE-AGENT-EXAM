@@ -1,0 +1,31 @@
+{
+ "name": "shell-side-arm",
+ "names": {
+  "ja-hrkt": "シェルアームズ",
+  "ko": "셸암즈",
+  "zh-hant": "臂貝武器",
+  "fr": "Kokiyarme",
+  "de": "Muschelwaffe",
+  "es": "Moluscañón",
+  "it": "Armaguscio",
+  "en": "Shell Side Arm",
+  "ja": "シェルアームズ",
+  "zh-hans": "臂贝武器",
+  "es-419": "Moluscañón"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to poison the target. This switches categories between physical and special, depending on which would deal more damage to the target."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "ko": "물리와 특수 중 더 많은 데미지를 줄 수 있는 능력으로 공격한다. 독 상태로 만들 때가 있다.",
+  "en": "This move is either physical or special—whichever will inflict more damage. This may also poison the target."
+ }
+}

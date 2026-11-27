@@ -1,0 +1,37 @@
+{
+ "id": 922,
+ "name": "pawmo",
+ "names": {
+  "ja-hrkt": "パモット",
+  "ja-roma": "Pamot",
+  "ko": "빠모트",
+  "zh-hant": "布土撥",
+  "fr": "Pohmotte",
+  "de": "Pamamo",
+  "es": "Pawmo",
+  "it": "Pawmo",
+  "en": "Pawmo",
+  "ja": "パモット",
+  "zh-hans": "布土拨",
+  "es-419": "Pawmo"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Souris",
+  "de": "Maus",
+  "en": "Mouse Pokémon",
+  "zh-hans": "鼠宝可梦"
+ },
+ "flavor": {
+  "en": "Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously."
+ },
+ "varieties": [
+  {
+   "name": "pawmo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "484"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 488,
+ "name": "cresselia",
+ "names": {
+  "ja-hrkt": "クレセリア",
+  "ja-roma": "Cresselia",
+  "ko": "크레세리아",
+  "zh-hant": "克雷色利亞",
+  "fr": "Cresselia",
+  "de": "Cresselia",
+  "es": "Cresselia",
+  "it": "Cresselia",
+  "en": "Cresselia",
+  "ja": "クレセリア",
+  "zh-hans": "克雷色利亚",
+  "es-419": "Cresselia"
+ },
+ "genus": {
+  "ja-hrkt": "みかづきポケモン",
+  "ko": "초승달포켓몬",
+  "zh-hant": "新月寶可夢",
+  "fr": "Pokémon Lunaire",
+  "de": "Lunar-Pokémon",
+  "es": "Pokémon Lunar",
+  "it": "Pokémon Falcato",
+  "en": "Lunar Pokémon",
+  "ja": "みかづきポケモン",
+  "zh-hans": "新月宝可梦",
+  "es-419": "Pokémon Lunar"
+ },
+ "flavor": {
+  "en": "Cresselia is reminiscent of the crescent moon. It leaves a brilliant line of light in its wake as it flies across the night sky. I daresay it resembles the heavenly maiden who created the Milky Way.",
+  "ko": "크레세리아의 날개를 가지고 자면 즐거운 꿈을 꿀 수 있다고 한다. 초승달의 화신으로 불리고 있다."
+ },
+ "varieties": [
+  {
+   "name": "cresselia",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "249"
+}

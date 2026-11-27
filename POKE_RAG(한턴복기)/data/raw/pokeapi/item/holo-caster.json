@@ -1,0 +1,28 @@
+{
+ "name": "holo-caster",
+ "names": {
+  "ja-hrkt": "ホロキャスター",
+  "ko": "홀로캐스터",
+  "zh-hant": "全像投影通訊器",
+  "fr": "Holokit",
+  "de": "Holo-Log",
+  "es": "Holomisor",
+  "it": "Holovox",
+  "en": "Holo Caster",
+  "ja": "ホロキャスター",
+  "zh-hans": "全息影像通讯器",
+  "es-419": "Holomisor"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Affiche les conversations des cinématiques au fur et à mesure que l'intrigue avance.",
+  "en": "Displays cutscene conversations as the plot advances."
+ },
+ "flavor": {
+  "ko": "수신한 홀로그램 영상 데이터를 언제라도 볼 수 있는 장치.",
+  "en": "A device that allows users to receive and view hologram clips at any time. It’s also used to chat with others.",
+  "ja": "受信した ホログラムの 映像データを いつでも 観ることが できる 装置。"
+ }
+}

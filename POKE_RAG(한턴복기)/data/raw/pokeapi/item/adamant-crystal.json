@@ -1,0 +1,20 @@
+{
+ "name": "adamant-crystal",
+ "names": {
+  "ja-hrkt": "だいこんごうだま",
+  "ko": "큰금강옥",
+  "zh-hant": "大金剛寶玉",
+  "fr": "Globe Adamant",
+  "de": "Adamantkristall",
+  "es": "Gran Diamansfera",
+  "it": "Adamasferoide",
+  "en": "Adamant Crystal",
+  "ja": "だいこんごうだま",
+  "zh-hans": "大金刚宝玉"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

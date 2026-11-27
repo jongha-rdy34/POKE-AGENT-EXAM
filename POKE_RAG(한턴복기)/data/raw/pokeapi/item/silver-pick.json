@@ -1,0 +1,20 @@
+{
+ "name": "silver-pick",
+ "names": {
+  "ja-hrkt": "シルバーピック",
+  "ko": "실버 픽",
+  "zh-hant": "銀色三明治籤",
+  "fr": "Pique Argentée",
+  "de": "Silber-Pikser",
+  "es": "Palillo Plateado",
+  "it": "Stecchino argento",
+  "en": "Silver Pick",
+  "ja": "シルバーピック",
+  "zh-hans": "银色三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "healer",
+ "names": {
+  "ja-hrkt": "いやしのこころ",
+  "ko": "치유의마음",
+  "zh-hant": "治癒之心",
+  "fr": "Cœur Soin",
+  "de": "Heilherz",
+  "es": "Alma Cura",
+  "it": "Curacuore",
+  "en": "Healer",
+  "ja": "いやしのこころ",
+  "zh-hans": "治愈之心",
+  "es-419": "Alma Sanadora"
+ },
+ "effect": {
+  "en": "Has a 30% chance of curing each adjacent ally of any major status ailment after each turn."
+ },
+ "flavor": {
+  "en": "Sometimes cures the status conditions of the Pokémon's allies.",
+  "ko": "같은 편의 상태 이상을 가끔 회복시킨다."
+ }
+}

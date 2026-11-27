@@ -1,0 +1,23 @@
+{
+ "name": "immunity",
+ "names": {
+  "ja-hrkt": "めんえき",
+  "ko": "면역",
+  "zh-hant": "免疫",
+  "fr": "Vaccin",
+  "de": "Immunität",
+  "es": "Inmunidad",
+  "it": "Immunità",
+  "en": "Immunity",
+  "ja": "めんえき",
+  "zh-hans": "免疫",
+  "es-419": "Inmunidad"
+ },
+ "effect": {
+  "en": "Prevents poison."
+ },
+ "flavor": {
+  "en": "The Pokémon's immune system prevents it from being poisoned.",
+  "ko": "체내에 면역을 가지고 있어 독 상태가 되지 않는다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "power-herb",
+ "names": {
+  "ja-hrkt": "パワフルハーブ",
+  "ko": "파워풀허브",
+  "zh-hant": "強力香草",
+  "fr": "Herbe Pouvoir",
+  "de": "Energiekraut",
+  "es": "Hierba Única",
+  "it": "Vigorerba",
+  "en": "Power Herb",
+  "ja": "パワフルハーブ",
+  "zh-hans": "强力香草",
+  "es-419": "Hierba Única"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les deux tours d'un coup en deux tours ont lieu en un. Consommé quand utilisé.",
+  "en": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use."
+ },
+ "flavor": {
+  "en": "A single-use item to be held by a Pokémon. It allows the holder to immediately use a move that normally requires a turn to charge.",
+  "ko": "지니게 한 포켓몬은 한 번만 1턴째에 힘을 모으는 기술을 바로 사용할 수가 있다.",
+  "ja": "持たせた ポケモンは １度だけ １ターン目に ちからを ためる技を すぐに 使うことが できる。"
+ }
+}

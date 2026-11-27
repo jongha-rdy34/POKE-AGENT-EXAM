@@ -1,0 +1,42 @@
+{
+ "id": 366,
+ "name": "clamperl",
+ "names": {
+  "ja-hrkt": "パールル",
+  "ja-roma": "Pearlulu",
+  "ko": "진주몽",
+  "zh-hant": "珍珠貝",
+  "fr": "Coquiperl",
+  "de": "Perlu",
+  "es": "Clamperl",
+  "it": "Clamperl",
+  "en": "Clamperl",
+  "ja": "パールル",
+  "zh-hans": "珍珠贝",
+  "es-419": "Clamperl"
+ },
+ "genus": {
+  "ja-hrkt": "２まいがいポケモン",
+  "ko": "두조개포켓몬",
+  "zh-hant": "雙殼貝寶可夢",
+  "fr": "Pokémon Bivalve",
+  "de": "Muschel",
+  "es": "Pokémon Bivalvo",
+  "it": "Pokémon Bivalve",
+  "en": "Bivalve Pokémon",
+  "ja": "２まいがいポケモン",
+  "zh-hans": "双壳贝宝可梦",
+  "es-419": "Pokémon Bivalvo"
+ },
+ "flavor": {
+  "en": "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls.",
+  "ko": "진주몽의 진주는 매우 귀하다. 셀러의 진주의 10배 이상 가치가 있다고도 한다."
+ },
+ "varieties": [
+  {
+   "name": "clamperl",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "188"
+}

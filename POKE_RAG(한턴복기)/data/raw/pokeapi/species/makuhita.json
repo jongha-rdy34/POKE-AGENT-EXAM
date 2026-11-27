@@ -1,0 +1,42 @@
+{
+ "id": 296,
+ "name": "makuhita",
+ "names": {
+  "ja-hrkt": "マクノシタ",
+  "ja-roma": "Makunoshita",
+  "ko": "마크탕",
+  "zh-hant": "幕下力士",
+  "fr": "Makuhita",
+  "de": "Makuhita",
+  "es": "Makuhita",
+  "it": "Makuhita",
+  "en": "Makuhita",
+  "ja": "マクノシタ",
+  "zh-hans": "幕下力士",
+  "es-419": "Makuhita"
+ },
+ "genus": {
+  "ja-hrkt": "こんじょうポケモン",
+  "ko": "근성포켓몬",
+  "zh-hant": "毅力寶可夢",
+  "fr": "Pokémon Tenace",
+  "de": "Courage",
+  "es": "Pokémon Valiente",
+  "it": "Pokémon Coraggio",
+  "en": "Guts Pokémon",
+  "ja": "こんじょうポケモン",
+  "zh-hans": "毅力宝可梦",
+  "es-419": "Pokémon Valiente"
+ },
+ "flavor": {
+  "en": "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
+  "ko": "강한 마크탕을 키우기 위해 트레이너들이 전통적으로 만드는 전골 요리가 있다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "makuhita",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "146"
+}

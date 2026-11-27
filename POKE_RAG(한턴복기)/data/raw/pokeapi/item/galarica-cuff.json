@@ -1,0 +1,25 @@
+{
+ "name": "galarica-cuff",
+ "names": {
+  "ja-hrkt": "ガラナツブレス",
+  "ko": "가라두구팔찌",
+  "zh-hant": "伽勒荳蔻手環",
+  "fr": "Bracelet Galanoa",
+  "de": "Galarnuss-Reif",
+  "es": "Brazal Galanuez",
+  "it": "Fascia Galarnoce",
+  "en": "Galarica Cuff",
+  "ja": "ガラナツブレス",
+  "zh-hans": "伽勒豆蔻手环",
+  "es-419": "Brazal Galanuez"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "가라두구가지를 엮어서 만든 팔찌. 가라르지방의 야돈에게 채워주면 기뻐한다.",
+  "en": "A cuff made from woven-together Galarica Twigs. Giving it to Galarian Slowpoke makes the Pokémon very happy.",
+  "ja": "ガラナツのえだを 編み込んだ ブレスレット。 ガラル地方の ヤドンに つけてあげると 喜ぶ。"
+ }
+}

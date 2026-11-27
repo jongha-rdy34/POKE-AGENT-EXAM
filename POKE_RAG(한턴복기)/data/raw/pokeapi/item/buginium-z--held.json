@@ -1,0 +1,28 @@
+{
+ "name": "buginium-z--held",
+ "names": {
+  "ja-hrkt": "ムシＺ",
+  "ko": "벌레Z",
+  "zh-hant": "蟲Ｚ",
+  "fr": "Insectozélite",
+  "de": "Insectium Z",
+  "es": "Insectostal Z",
+  "it": "Insectium Z",
+  "en": "Buginium Z",
+  "ja": "ムシＺ",
+  "zh-hans": "虫Ｚ",
+  "es-419": "Insectostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Insecte.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 벌레타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Bug-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 むしタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

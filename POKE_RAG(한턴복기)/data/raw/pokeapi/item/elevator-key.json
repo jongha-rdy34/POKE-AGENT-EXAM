@@ -1,0 +1,28 @@
+{
+ "name": "elevator-key",
+ "names": {
+  "ja-hrkt": "エレベータのキー",
+  "ko": "엘리베이터키",
+  "zh-hant": "電梯鑰匙",
+  "fr": "Clé Ascenseur",
+  "de": "Liftschlüssel",
+  "es": "Llave Ascensor",
+  "it": "Chiave ascensore",
+  "en": "Elevator Key",
+  "ja": "エレベータのキー",
+  "zh-hans": "电梯钥匙",
+  "es-419": "Llave Ascensor"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Débloque l'ascenseur des Labos Lysandre.",
+  "en": "Unlocks the elevator in Lysandre Labs."
+ },
+ "flavor": {
+  "ko": "플라드리 래버러토리에 있는 엘리베이터를 작동시키는 카드키. 플레어단의 마크가 새겨져 있다.",
+  "en": "A card key that activates the elevator in Lysandre Labs. It is emblazoned with Team Flare’s logo.",
+  "ja": "フラダリラボに ある エレベータを 動かす カードキー。 フレア団の マークいり。"
+ }
+}

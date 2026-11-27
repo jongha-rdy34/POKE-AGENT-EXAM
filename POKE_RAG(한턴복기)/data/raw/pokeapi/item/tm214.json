@@ -1,0 +1,19 @@
+{
+ "name": "tm214",
+ "names": {
+  "ko": "기술머신214",
+  "zh-hant": "招式學習器２１４",
+  "fr": "CT214",
+  "de": "TM214",
+  "es": "MT214",
+  "it": "MT214",
+  "en": "TM214",
+  "ja": "わざマシン２１４",
+  "zh-hans": "招式学习器２１４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

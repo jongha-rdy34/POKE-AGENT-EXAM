@@ -1,0 +1,25 @@
+{
+ "name": "mew-candy",
+ "names": {
+  "ja-hrkt": "ミュウのアメ",
+  "ko": "뮤의사탕",
+  "zh-hant": "夢幻的糖果",
+  "fr": "Bonbon Mew",
+  "de": "Mew-Bonbon",
+  "es": "Caramelo Mew",
+  "it": "Caramella Mew",
+  "en": "Mew Candy",
+  "ja": "ミュウのアメ",
+  "zh-hans": "梦幻的糖果",
+  "es-419": "Caramelo Mew"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

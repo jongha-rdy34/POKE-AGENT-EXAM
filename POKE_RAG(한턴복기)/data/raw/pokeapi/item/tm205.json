@@ -1,0 +1,19 @@
+{
+ "name": "tm205",
+ "names": {
+  "ko": "기술머신205",
+  "zh-hant": "招式學習器２０５",
+  "fr": "CT205",
+  "de": "TM205",
+  "es": "MT205",
+  "it": "MT205",
+  "en": "TM205",
+  "ja": "わざマシン２０５",
+  "zh-hans": "招式学习器２０５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

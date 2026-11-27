@@ -1,0 +1,20 @@
+{
+ "name": "chingling-fragment",
+ "names": {
+  "ja-hrkt": "リーシャンのかけら",
+  "ko": "랑딸랑의조각",
+  "zh-hant": "鈴鐺響的碎片",
+  "fr": "Fragment de Korillon",
+  "de": "Klingplim-Splitter",
+  "es": "Fragmento de Chingling",
+  "it": "Frammento di Chingling",
+  "en": "Chingling Fragment",
+  "ja": "リーシャンのかけら",
+  "zh-hans": "铃铛响的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

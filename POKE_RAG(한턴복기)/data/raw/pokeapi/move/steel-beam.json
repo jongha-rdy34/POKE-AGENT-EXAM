@@ -1,0 +1,31 @@
+{
+ "name": "steel-beam",
+ "names": {
+  "ja-hrkt": "てっていこうせん",
+  "ko": "철제광선",
+  "zh-hant": "鐵蹄光線",
+  "fr": "Métalaser",
+  "de": "Stahlstrahl",
+  "es": "Metaláser",
+  "it": "Raggio d’Acciaio",
+  "en": "Steel Beam",
+  "ja": "てっていこうせん",
+  "zh-hans": "铁蹄光线",
+  "es-419": "Metaláser"
+ },
+ "type": "steel",
+ "category": "special",
+ "power": 140,
+ "accuracy": 95,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "전신에서 끌어모은 강철을 빔으로 바꿔 세차게 발사한다. 자신도 데미지를 받는다.",
+  "en": "The user fires a beam of steel that it collected from its entire body. This also damages the user."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "excadrill-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Minotaupe",
+  "en": "Mega Excadrill"
+ },
+ "form_names": {
+  "ja-hrkt": "メガドリュウズ",
+  "fr": "Méga-Minotaupe",
+  "en": "Mega Excadrill",
+  "ja": "メガドリュウズ"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,46 @@
+{
+ "id": 380,
+ "name": "latias",
+ "names": {
+  "ja-hrkt": "ラティアス",
+  "ja-roma": "Latias",
+  "ko": "라티아스",
+  "zh-hant": "拉帝亞斯",
+  "fr": "Latias",
+  "de": "Latias",
+  "es": "Latias",
+  "it": "Latias",
+  "en": "Latias",
+  "ja": "ラティアス",
+  "zh-hans": "拉帝亚斯",
+  "es-419": "Latias"
+ },
+ "genus": {
+  "ja-hrkt": "むげんポケモン",
+  "ko": "무한포켓몬",
+  "zh-hant": "無限寶可夢",
+  "fr": "Pokémon Éon",
+  "de": "Äon-Pokémon",
+  "es": "Pokémon Eón",
+  "it": "Pokémon Eone",
+  "en": "Eon Pokémon",
+  "ja": "むげんポケモン",
+  "zh-hans": "无限宝可梦",
+  "es-419": "Pokémon Eón"
+ },
+ "flavor": {
+  "en": "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
+  "ko": "지능이 높아 사람의 말을 이해한다. 몸을 감싼 유리 같은 깃털로 빛을 굴절시켜 모습을 바꾼다."
+ },
+ "varieties": [
+  {
+   "name": "latias",
+   "is_default": true
+  },
+  {
+   "name": "latias-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "196"
+}

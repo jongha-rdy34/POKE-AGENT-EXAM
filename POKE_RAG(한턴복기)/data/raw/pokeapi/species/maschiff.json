@@ -1,0 +1,37 @@
+{
+ "id": 942,
+ "name": "maschiff",
+ "names": {
+  "ja-hrkt": "オラチフ",
+  "ja-roma": "Orachifu",
+  "ko": "오라티프",
+  "zh-hant": "偶叫獒",
+  "fr": "Grondogue",
+  "de": "Mobtiff",
+  "es": "Maschiff",
+  "it": "Maschiff",
+  "en": "Maschiff",
+  "ja": "オラチフ",
+  "zh-hans": "偶叫獒",
+  "es-419": "Maschiff"
+ },
+ "genus": {
+  "ja-hrkt": "わかぞうポケモン",
+  "ko": "애송이포켓몬",
+  "zh-hant": "小輩寶可夢",
+  "fr": "Jeunot",
+  "de": "Halbstark",
+  "en": "Rascal Pokémon",
+  "zh-hans": "小辈宝可梦"
+ },
+ "flavor": {
+  "en": "Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense."
+ },
+ "varieties": [
+  {
+   "name": "maschiff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "493"
+}

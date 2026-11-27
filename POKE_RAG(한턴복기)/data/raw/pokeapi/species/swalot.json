@@ -1,0 +1,42 @@
+{
+ "id": 317,
+ "name": "swalot",
+ "names": {
+  "ja-hrkt": "マルノーム",
+  "ja-roma": "Marunoom",
+  "ko": "꿀꺽몬",
+  "zh-hant": "吞食獸",
+  "fr": "Avaltout",
+  "de": "Schlukwech",
+  "es": "Swalot",
+  "it": "Swalot",
+  "en": "Swalot",
+  "ja": "マルノーム",
+  "zh-hans": "吞食兽",
+  "es-419": "Swalot"
+ },
+ "genus": {
+  "ja-hrkt": "どくぶくろポケモン",
+  "ko": "독봉지포켓몬",
+  "zh-hant": "毒袋寶可夢",
+  "fr": "Pokémon Sac Poison",
+  "de": "Giftbeutel",
+  "es": "Pokémon Bolsa Veneno",
+  "it": "Pokémon Velenosacco",
+  "en": "Poison Bag Pokémon",
+  "ja": "どくぶくろポケモン",
+  "zh-hans": "毒袋宝可梦",
+  "es-419": "Pokémon Bolsa Veneno"
+ },
+ "flavor": {
+  "en": "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
+  "ko": "이빨이 하나도 없어서 무엇이든 통째로 삼킨다. 최대한 벌린 입은 정말 커서 자동차 타이어마저도 쑥 들어간다."
+ },
+ "varieties": [
+  {
+   "name": "swalot",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "159"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-partner-cap",
+ "form_name": "partner-cap",
+ "names": {
+  "fr": "Pikachu Casquette Partenaire",
+  "de": "Pikachu (Partner-Kappe)",
+  "en": "Partner Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "キミにきめたキャップ",
+  "ko": "너로정했다캡",
+  "zh-hant": "就決定是你了之帽子",
+  "fr": "Casquette Partenaire",
+  "de": "Partner-Kappe",
+  "es": "Gorra Compañero",
+  "it": "Berretto Compagni",
+  "en": "Partner Cap",
+  "ja": "キミにきめたキャップ",
+  "zh-hans": "就决定是你了之帽子",
+  "es-419": "Gorra Compañero"
+ },
+ "is_mega": false
+}

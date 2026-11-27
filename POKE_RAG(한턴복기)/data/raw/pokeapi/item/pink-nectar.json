@@ -1,0 +1,28 @@
+{
+ "name": "pink-nectar",
+ "names": {
+  "ja-hrkt": "うすもものミツ",
+  "ko": "연분홍꿀",
+  "zh-hant": "桃粉色花蜜",
+  "fr": "Nectar Rose",
+  "de": "Rosa Nektar",
+  "es": "Néctar Rosa",
+  "it": "Nettare rosa",
+  "en": "Pink Nectar",
+  "ja": "うすもものミツ",
+  "zh-hans": "桃粉色花蜜",
+  "es-419": "Néctar Rosa"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Change Plumeline en Style Hula.",
+  "en": "Changes Oricorio to Pa’u Style."
+ },
+ "flavor": {
+  "ko": "로열 애버뉴 화단에서 손에 넣은 꽃의 꿀. 특정 포켓몬의 모습을 바꾼다.",
+  "en": "A flower nectar obtained from the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.",
+  "ja": "ロイヤルアベニューの 花壇で 手に入れた 花のミツ。 特定の ポケモンの 姿を 変える。"
+ }
+}

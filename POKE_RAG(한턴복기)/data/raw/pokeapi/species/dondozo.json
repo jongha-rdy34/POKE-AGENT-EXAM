@@ -1,0 +1,37 @@
+{
+ "id": 977,
+ "name": "dondozo",
+ "names": {
+  "ja-hrkt": "ヘイラッシャ",
+  "ja-roma": "Heyrusher",
+  "ko": "어써러셔",
+  "zh-hant": "吃吼霸",
+  "fr": "Oyacata",
+  "de": "Heerashai",
+  "es": "Dondozo",
+  "it": "Dondozo",
+  "en": "Dondozo",
+  "ja": "ヘイラッシャ",
+  "zh-hans": "吃吼霸",
+  "es-419": "Dondozo"
+ },
+ "genus": {
+  "ja-hrkt": "おおなまずポケモン",
+  "ko": "큰메기포켓몬",
+  "zh-hant": "大鯰寶可夢",
+  "fr": "Grand Silure",
+  "de": "Großwels",
+  "en": "Big Catfish Pokémon",
+  "zh-hans": "大鲶宝可梦"
+ },
+ "flavor": {
+  "en": "It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart."
+ },
+ "varieties": [
+  {
+   "name": "dondozo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "513"
+}

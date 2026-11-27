@@ -1,0 +1,42 @@
+{
+ "id": 542,
+ "name": "leavanny",
+ "names": {
+  "ja-hrkt": "ハハコモリ",
+  "ja-roma": "Hahakomori",
+  "ko": "모아머",
+  "zh-hant": "保母蟲",
+  "fr": "Manternel",
+  "de": "Matrifol",
+  "es": "Leavanny",
+  "it": "Leavanny",
+  "en": "Leavanny",
+  "ja": "ハハコモリ",
+  "zh-hans": "保姆虫",
+  "es-419": "Leavanny"
+ },
+ "genus": {
+  "ja-hrkt": "こそだてポケモン",
+  "ko": "육아포켓몬",
+  "zh-hant": "育兒寶可夢",
+  "fr": "Pokémon Précepteur",
+  "de": "Kinderpflege",
+  "es": "Pokémon Cuidador",
+  "it": "Pokémon Balia",
+  "en": "Nurturing Pokémon",
+  "ja": "こそだてポケモン",
+  "zh-hans": "育儿宝可梦",
+  "es-419": "Pokémon Cuidador"
+ },
+ "flavor": {
+  "en": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+  "ko": "낙엽이 발효되는 열로 알을 따뜻하게 한다. 잎사귀로 두르보의 포대기를 만든다."
+ },
+ "varieties": [
+  {
+   "name": "leavanny",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "276"
+}

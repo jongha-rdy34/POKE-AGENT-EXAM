@@ -1,0 +1,22 @@
+{
+ "name": "retro-mail",
+ "names": {
+  "ja-hrkt": "レトロメール",
+  "fr": "Lettre Retro",
+  "de": "Retrobrief",
+  "es": "Carta Retro.",
+  "it": "Mess. Rétro",
+  "en": "Retro Mail",
+  "es-419": "Carta Retro."
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL featuring a print of three cute POKéMON. It is to be held by a POKéMON."
+ }
+}

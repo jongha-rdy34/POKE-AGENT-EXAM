@@ -1,0 +1,23 @@
+{
+ "name": "sweet-veil",
+ "names": {
+  "ja-hrkt": "スイートベール",
+  "ko": "스위트베일",
+  "zh-hant": "甜幕",
+  "fr": "Gluco-Voile",
+  "de": "Zuckerhülle",
+  "es": "Velo Dulce",
+  "it": "Dolcevelo",
+  "en": "Sweet Veil",
+  "ja": "スイートベール",
+  "zh-hans": "甜幕",
+  "es-419": "Velo Dulce"
+ },
+ "effect": {
+  "en": "Prevents friendly Pokémon from sleeping."
+ },
+ "flavor": {
+  "ko": "같은 편의 포켓몬이 잠들지 않게 된다.",
+  "en": "Prevents the Pokémon and its allies from falling asleep."
+ }
+}

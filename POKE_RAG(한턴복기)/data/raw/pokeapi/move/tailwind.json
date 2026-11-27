@@ -1,0 +1,31 @@
+{
+ "name": "tailwind",
+ "names": {
+  "ja-hrkt": "おいかぜ",
+  "ko": "순풍",
+  "zh-hant": "順風",
+  "fr": "Vent Arrière",
+  "de": "Rückenwind",
+  "es": "Viento Afín",
+  "it": "Ventoincoda",
+  "en": "Tailwind",
+  "ja": "おいかぜ",
+  "zh-hans": "顺风",
+  "es-419": "Viento Afín"
+ },
+ "type": "flying",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "users-field",
+ "effect": {
+  "en": "For three turns, friendly Pokémon have doubled Speed."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns.",
+  "ko": "세차게 불어대는 바람의 소용돌이를 만들어 4턴 동안 같은 편 모두의 스피드를 올린다."
+ }
+}

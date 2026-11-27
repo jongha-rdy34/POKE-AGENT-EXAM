@@ -1,0 +1,31 @@
+{
+ "id": 10153,
+ "name": "araquanid-totem",
+ "species": "araquanid",
+ "is_default": false,
+ "types": [
+  "water",
+  "bug"
+ ],
+ "stats": {
+  "hp": 68,
+  "attack": 70,
+  "defense": 92,
+  "special-attack": 50,
+  "special-defense": 132,
+  "speed": 42
+ },
+ "abilities": [
+  {
+   "name": "water-bubble",
+   "hidden": false
+  },
+  {
+   "name": "water-absorb",
+   "hidden": true
+  }
+ ],
+ "height": 31,
+ "weight": 2175,
+ "champions_moves": []
+}

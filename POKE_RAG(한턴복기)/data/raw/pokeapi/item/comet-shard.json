@@ -1,0 +1,28 @@
+{
+ "name": "comet-shard",
+ "names": {
+  "ja-hrkt": "すいせいのかけら",
+  "ko": "혜성조각",
+  "zh-hant": "彗星碎片",
+  "fr": "Morceau Comète",
+  "de": "Kometstück",
+  "es": "Fragmento Cometa",
+  "it": "Pezzo Cometa",
+  "en": "Comet Shard",
+  "ja": "すいせいのかけら",
+  "zh-hans": "彗星碎片",
+  "es-419": "Fragmento Cometa"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au collectionneur d'objets pour 60000 Pokédollars.",
+  "en": "Sell to Ore Collector for 60000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A shard that fell to the ground when a comet approached. It can be sold at a high price to shops.",
+  "ko": "혜성이 가까워졌을 때 지표면에 떨어진 조각. 상점에서 비싸게 팔린다.",
+  "ja": "すい星が 近づいたとき 地表に 落ちた かけら。 ショップで 高く 売れる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "jade-orb",
+ "names": {
+  "ja-hrkt": "もえぎいろのたま",
+  "ko": "연둣빛구슬",
+  "zh-hant": "草綠色寶珠",
+  "fr": "Orbe Vert",
+  "de": "Grüne Kugel",
+  "es": "Esfera Verde",
+  "it": "Sfera Verde",
+  "en": "Jade Orb",
+  "ja": "もえぎいろのたま",
+  "zh-hans": "草绿色宝珠",
+  "es-419": "Esfera Verde"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Rayquaza à la Tour Enfouie.",
+  "en": "Summons Rayquaza to the Embedded Tower."
+ },
+ "flavor": {
+  "en": "A shiny green orb that is said to have a legend tied to it. It’s known to have a deep connection with the Hoenn region.",
+  "ko": "호연지방의 전설과 깊은 연관이 있다고 전해지는 초록색으로 빛나는 구슬.",
+  "ja": "ホウエン地方の 伝説と 深い 関わりが あると いわれる みどりいろに かがやく たま。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "jolly-mint",
+ "names": {
+  "ja-hrkt": "ようきミント",
+  "ko": "명랑민트",
+  "zh-hant": "爽朗薄荷",
+  "fr": "Aromate Jovial",
+  "de": "Froh-Minze",
+  "es": "Menta Alegre",
+  "it": "Menta Allegra",
+  "en": "Jolly Mint",
+  "ja": "ようきミント",
+  "zh-hans": "爽朗薄荷",
+  "es-419": "Menta Alegre"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 스피드가 오르기 쉬워지지만 특수공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Atk will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 素早さが 上がりやすく なるが 特攻は 上がりにくくなる ミント。"
+ }
+}

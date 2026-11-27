@@ -1,0 +1,42 @@
+{
+ "id": 45,
+ "name": "vileplume",
+ "names": {
+  "ja-hrkt": "ラフレシア",
+  "ja-roma": "Ruffresia",
+  "ko": "라플레시아",
+  "zh-hant": "霸王花",
+  "fr": "Rafflesia",
+  "de": "Giflor",
+  "es": "Vileplume",
+  "it": "Vileplume",
+  "en": "Vileplume",
+  "ja": "ラフレシア",
+  "zh-hans": "霸王花",
+  "es-419": "Vileplume"
+ },
+ "genus": {
+  "ja-hrkt": "フラワーポケモン",
+  "ko": "꽃포켓몬",
+  "zh-hant": "花寶可夢",
+  "fr": "Pokémon Fleur",
+  "de": "Blumen-Pokémon",
+  "es": "Pokémon Flor",
+  "it": "Pokémon Fiore",
+  "en": "Flower Pokémon",
+  "ja": "フラワーポケモン",
+  "zh-hans": "花宝可梦",
+  "es-419": "Pokémon Flor"
+ },
+ "flavor": {
+  "en": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+  "ko": "꽃잎이 클수록 많은 꽃가루를 만들어 내지만 머리가 무거워서 지쳐버린다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "vileplume",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "18"
+}

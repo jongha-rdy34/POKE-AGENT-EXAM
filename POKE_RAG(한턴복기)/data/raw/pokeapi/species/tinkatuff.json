@@ -1,0 +1,37 @@
+{
+ "id": 958,
+ "name": "tinkatuff",
+ "names": {
+  "ja-hrkt": "ナカヌチャン",
+  "ja-roma": "Nakanuchan",
+  "ko": "벼리짱",
+  "zh-hant": "巧鍛匠",
+  "fr": "Forgella",
+  "de": "Tafforgita",
+  "es": "Tinkatuff",
+  "it": "Tinkatuff",
+  "en": "Tinkatuff",
+  "ja": "ナカヌチャン",
+  "zh-hans": "巧锻匠",
+  "es-419": "Tinkatuff"
+ },
+ "genus": {
+  "ja-hrkt": "ハンマーポケモン",
+  "ko": "해머포켓몬",
+  "zh-hant": "錘子寶可夢",
+  "fr": "Marteau",
+  "de": "Hammer",
+  "en": "Hammer Pokémon",
+  "zh-hans": "锤子宝可梦"
+ },
+ "flavor": {
+  "en": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together."
+ },
+ "varieties": [
+  {
+   "name": "tinkatuff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "501"
+}

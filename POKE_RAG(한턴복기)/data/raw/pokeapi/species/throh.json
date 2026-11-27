@@ -1,0 +1,42 @@
+{
+ "id": 538,
+ "name": "throh",
+ "names": {
+  "ja-hrkt": "ナゲキ",
+  "ja-roma": "Nageki",
+  "ko": "던지미",
+  "zh-hant": "投摔鬼",
+  "fr": "Judokrak",
+  "de": "Jiutesto",
+  "es": "Throh",
+  "it": "Throh",
+  "en": "Throh",
+  "ja": "ナゲキ",
+  "zh-hans": "投摔鬼",
+  "es-419": "Throh"
+ },
+ "genus": {
+  "ja-hrkt": "じゅうどうポケモン",
+  "ko": "유도포켓몬",
+  "zh-hant": "柔道寶可夢",
+  "fr": "Pokémon Judo",
+  "de": "Judo-Pokémon",
+  "es": "Pokémon Judo",
+  "it": "Pokémon Judo",
+  "en": "Judo Pokémon",
+  "ja": "じゅうどうポケモン",
+  "zh-hans": "柔道宝可梦",
+  "es-419": "Pokémon Judo"
+ },
+ "flavor": {
+  "en": "They train in groups of five. Any member that can’t keep up will discard its belt and leave the group.",
+  "ko": "5마리의 무리가 수련한다. 수련에 뒤떨어지면 띠를 버리고 무리를 떠난다."
+ },
+ "varieties": [
+  {
+   "name": "throh",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "274"
+}

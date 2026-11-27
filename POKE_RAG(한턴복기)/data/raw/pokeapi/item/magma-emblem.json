@@ -1,0 +1,22 @@
+{
+ "name": "magma-emblem",
+ "names": {
+  "ja-hrkt": "マグマのしるし",
+  "fr": "Sceau Magma",
+  "de": "Magmaemblem",
+  "es": "Signo Magma",
+  "it": "Stemma Magma",
+  "en": "Magma Emblem",
+  "es-419": "Signo Magma"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à la Planque Magma au Sentier Sinuroc.",
+  "en": "Provides access to the Team Magma Hideout in the Jagged Pass."
+ },
+ "flavor": {
+  "en": "A medal-like item in the same shape as TEAM MAGMA’s mark."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "hippopotas-sand",
+ "names": {
+  "ja-hrkt": "ヒポポタスのすな",
+  "ko": "히포포타스의모래",
+  "zh-hant": "沙河馬的沙",
+  "fr": "Sable d'Hippopotas",
+  "de": "Hippopotas-Sand",
+  "es": "Arena de Hippopotas",
+  "it": "Sabbia di Hippopotas",
+  "en": "Hippopotas Sand",
+  "ja": "ヒポポタスのすな",
+  "zh-hans": "沙河马的沙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

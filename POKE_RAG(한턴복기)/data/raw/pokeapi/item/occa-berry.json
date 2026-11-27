@@ -1,0 +1,30 @@
+{
+ "name": "occa-berry",
+ "names": {
+  "ja-hrkt": "オッカのみ",
+  "ko": "오카열매",
+  "zh-hant": "巧可果",
+  "fr": "Baie Chocco",
+  "de": "Koakobeere",
+  "es": "Baya Caoca",
+  "it": "Baccacao",
+  "en": "Occa Berry",
+  "ja": "オッカのみ",
+  "zh-hans": "巧可果",
+  "es-419": "Baya Caoca"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Feu super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Fire-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fire-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 불꽃 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの ほのお技を 受けたとき 威力が 弱まる。"
+ }
+}

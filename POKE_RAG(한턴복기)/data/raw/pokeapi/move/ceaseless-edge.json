@@ -1,0 +1,28 @@
+{
+ "name": "ceaseless-edge",
+ "names": {
+  "ja-hrkt": "ひけん・ちえなみ",
+  "ko": "비검천중파",
+  "zh-hant": "秘劍・千重濤",
+  "fr": "Vagues à Lames",
+  "de": "Klingenschwall",
+  "es": "Tajo Metralla",
+  "it": "Lama Milleflutti",
+  "en": "Ceaseless Edge",
+  "ja": "ひけん・ちえなみ",
+  "zh-hans": "秘剑・千重涛",
+  "es-419": "Corte Metralla"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 90,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes."
+ }
+}

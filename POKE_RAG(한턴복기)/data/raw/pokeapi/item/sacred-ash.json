@@ -1,0 +1,34 @@
+{
+ "name": "sacred-ash",
+ "names": {
+  "ja-hrkt": "せいなるはい",
+  "ko": "성스러운분말",
+  "zh-hant": "聖灰",
+  "fr": "Cendre Sacrée",
+  "de": "Zauberasche",
+  "es": "Ceniza Sagrada",
+  "it": "Ceneremagica",
+  "en": "Sacred Ash",
+  "ja": "せいなるはい",
+  "zh-hans": "圣灰",
+  "es-419": "Ceniza Sagrada"
+ },
+ "category": "revival",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Renaît tous les Pokémon KO avec tous leurs PV.",
+  "en": "Revives all fainted Pokémon with full HP."
+ },
+ "flavor": {
+  "en": "This rare ash can revive all fainted Pokémon in a party. In doing so, it also fully restores their max HP.",
+  "ko": "기절해 버린 포켓몬 전원의 HP를 모두 회복한다.",
+  "ja": "ひんしに なってしまった ポケモン 全員の ＨＰを すべて 回復する。"
+ }
+}

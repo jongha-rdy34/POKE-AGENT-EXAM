@@ -1,0 +1,20 @@
+{
+ "name": "maschiff-fang",
+ "names": {
+  "ja-hrkt": "オラチフのキバ",
+  "ko": "오라티프의이빨",
+  "zh-hant": "偶叫獒的牙",
+  "fr": "Croc de Grondogue",
+  "de": "Mobtiff-Zahn",
+  "es": "Colmillo de Maschiff",
+  "it": "Zanna di Maschiff",
+  "en": "Maschiff Fang",
+  "ja": "オラチフのキバ",
+  "zh-hans": "偶叫獒的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

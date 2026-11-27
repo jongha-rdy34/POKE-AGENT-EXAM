@@ -1,0 +1,23 @@
+{
+ "name": "tangled-feet",
+ "names": {
+  "ja-hrkt": "ちどりあし",
+  "ko": "갈지자걸음",
+  "zh-hant": "蹣跚",
+  "fr": "Pieds Confus",
+  "de": "Fußangel",
+  "es": "Tumbos",
+  "it": "Intricopiedi",
+  "en": "Tangled Feet",
+  "ja": "ちどりあし",
+  "zh-hans": "蹒跚",
+  "es-419": "Tambaleo"
+ },
+ "effect": {
+  "en": "Doubles evasion when confused."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's evasiveness if it is confused.",
+  "ko": "혼란 상태일 때는 회피율이 올라간다."
+ }
+}

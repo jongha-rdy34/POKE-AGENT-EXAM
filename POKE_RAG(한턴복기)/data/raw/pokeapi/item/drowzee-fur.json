@@ -1,0 +1,20 @@
+{
+ "name": "drowzee-fur",
+ "names": {
+  "ja-hrkt": "スリープのけ",
+  "ko": "슬리프의털",
+  "zh-hant": "催眠貘的毛",
+  "fr": "Poils de Soporifik",
+  "de": "Traumato-Haar",
+  "es": "Pelo de Drowzee",
+  "it": "Pelo di Drowzee",
+  "en": "Drowzee Fur",
+  "ja": "スリープのけ",
+  "zh-hans": "催眠貘的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

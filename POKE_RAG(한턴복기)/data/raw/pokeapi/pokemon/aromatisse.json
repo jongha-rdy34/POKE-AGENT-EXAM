@@ -1,0 +1,79 @@
+{
+ "id": 683,
+ "name": "aromatisse",
+ "species": "aromatisse",
+ "is_default": true,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 101,
+  "attack": 72,
+  "defense": 72,
+  "special-attack": 99,
+  "special-defense": 89,
+  "speed": 29
+ },
+ "abilities": [
+  {
+   "name": "healer",
+   "hidden": false
+  },
+  {
+   "name": "aroma-veil",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 155,
+ "champions_moves": [
+  "after-you",
+  "alluring-voice",
+  "ally-switch",
+  "aromatic-mist",
+  "attract",
+  "calm-mind",
+  "charm",
+  "dazzling-gleam",
+  "disable",
+  "drain-punch",
+  "draining-kiss",
+  "encore",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fake-tears",
+  "flail",
+  "flash-cannon",
+  "giga-impact",
+  "gyro-ball",
+  "heal-pulse",
+  "helping-hand",
+  "hyper-beam",
+  "hypnosis",
+  "light-screen",
+  "misty-explosion",
+  "misty-terrain",
+  "moonblast",
+  "nasty-plot",
+  "protect",
+  "psych-up",
+  "psychic",
+  "psyshock",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "round",
+  "skill-swap",
+  "sleep-talk",
+  "snore",
+  "substitute",
+  "sunny-day",
+  "sweet-kiss",
+  "sweet-scent",
+  "thunder",
+  "thunderbolt",
+  "trick-room",
+  "wish"
+ ]
+}

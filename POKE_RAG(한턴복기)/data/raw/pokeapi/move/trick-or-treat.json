@@ -1,0 +1,31 @@
+{
+ "name": "trick-or-treat",
+ "names": {
+  "ja-hrkt": "ハロウィン",
+  "ko": "핼러윈",
+  "zh-hant": "萬聖夜",
+  "fr": "Halloween",
+  "de": "Halloween",
+  "es": "Halloween",
+  "it": "Halloween",
+  "en": "Trick-or-Treat",
+  "ja": "ハロウィン",
+  "zh-hans": "万圣夜",
+  "es-419": "Halloween"
+ },
+ "type": "ghost",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Adds Ghost to the target’s types."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대를 핼러윈으로 초대한다. 상대 타입에 고스트타입이 추가된다.",
+  "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type."
+ }
+}

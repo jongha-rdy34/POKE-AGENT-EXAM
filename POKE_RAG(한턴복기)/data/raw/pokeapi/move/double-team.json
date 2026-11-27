@@ -1,0 +1,31 @@
+{
+ "name": "double-team",
+ "names": {
+  "ja-hrkt": "かげぶんしん",
+  "ko": "그림자분신",
+  "zh-hant": "影子分身",
+  "fr": "Reflet",
+  "de": "Doppelteam",
+  "es": "Doble Equipo",
+  "it": "Doppioteam",
+  "en": "Double Team",
+  "ja": "かげぶんしん",
+  "zh-hans": "影子分身",
+  "es-419": "Doble Equipo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s evasion by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "By moving rapidly, the user makes illusory copies of itself to boost its evasiveness.",
+  "ko": "재빠른 움직임으로 분신을 만들어 상대를 혼란시켜 회피율을 올린다."
+ }
+}

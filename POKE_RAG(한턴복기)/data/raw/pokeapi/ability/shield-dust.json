@@ -1,0 +1,23 @@
+{
+ "name": "shield-dust",
+ "names": {
+  "ja-hrkt": "りんぷん",
+  "ko": "인분",
+  "zh-hant": "鱗粉",
+  "fr": "Écran Poudre",
+  "de": "Puderabwehr",
+  "es": "Polvo Escudo",
+  "it": "Polvoscudo",
+  "en": "Shield Dust",
+  "ja": "りんぷん",
+  "zh-hans": "鳞粉",
+  "es-419": "Polvo Escudo"
+ },
+ "effect": {
+  "en": "Protects against incoming moves' extra effects."
+ },
+ "flavor": {
+  "en": "Protective dust shields the Pokémon from the additional effects of moves.",
+  "ko": "인분에 보호받아 기술의 추가 효과를 받지 않게 된다."
+ }
+}

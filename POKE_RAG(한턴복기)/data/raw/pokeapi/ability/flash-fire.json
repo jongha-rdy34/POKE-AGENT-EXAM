@@ -1,0 +1,23 @@
+{
+ "name": "flash-fire",
+ "names": {
+  "ja-hrkt": "もらいび",
+  "ko": "타오르는불꽃",
+  "zh-hant": "引火",
+  "fr": "Torche",
+  "de": "Feuerfänger",
+  "es": "Absorbe Fuego",
+  "it": "Fuocardore",
+  "en": "Flash Fire",
+  "ja": "もらいび",
+  "zh-hans": "引火",
+  "es-419": "Absorbefuego"
+ },
+ "effect": {
+  "en": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+ },
+ "flavor": {
+  "en": "If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves.",
+  "ko": "불꽃타입의 기술을 받으면 불꽃을 받아서 자신이 사용하는 불꽃타입의 기술이 강해진다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "dragon-claw",
+ "names": {
+  "ja-hrkt": "ドラゴンクロー",
+  "ko": "드래곤클로",
+  "zh-hant": "龍爪",
+  "fr": "Draco-Griffe",
+  "de": "Drachenklaue",
+  "es": "Garra Dragón",
+  "it": "Dragartigli",
+  "en": "Dragon Claw",
+  "ja": "ドラゴンクロー",
+  "zh-hans": "龙爪",
+  "es-419": "Garra Dragón"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slashes the target with huge, sharp claws to inflict damage.",
+  "ko": "날카롭고 뾰족한 거대한 발톱으로 상대를 베어 갈라서 공격한다."
+ }
+}

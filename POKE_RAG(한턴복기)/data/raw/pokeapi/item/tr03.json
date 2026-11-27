@@ -1,0 +1,25 @@
+{
+ "name": "tr03",
+ "names": {
+  "ja-hrkt": "わざレコード０３",
+  "ko": "기술레코드03",
+  "zh-hant": "招式紀錄０３",
+  "fr": "DT03",
+  "de": "TP03",
+  "es": "DT03",
+  "it": "DT03",
+  "en": "TR03",
+  "ja": "わざレコード０３",
+  "zh-hans": "招式记录０３",
+  "es-419": "DT03"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "대량의 물을 세찬 기세로 상대에게 발사하여 공격한다.",
+  "en": "The target is blasted by a huge volume of water launched under great pressure.",
+  "ja": "大量の 水を 激しい 勢いで 相手に 発射して 攻撃する。"
+ }
+}

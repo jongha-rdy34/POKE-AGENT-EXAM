@@ -1,0 +1,20 @@
+{
+ "name": "steel-bottle-r",
+ "names": {
+  "ja-hrkt": "Rステンレスボトル",
+  "ko": "R 스테인리스 보틀",
+  "zh-hant": "紅紋不鏽鋼水壺",
+  "fr": "Gourde Inox (Rouge)",
+  "de": "Edelstahlflasche (R)",
+  "es": "Termo Metal Rojo",
+  "it": "Borraccia inox R",
+  "en": "Steel Bottle (R)",
+  "ja": "Rステンレスボトル",
+  "zh-hans": "红纹不锈钢水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

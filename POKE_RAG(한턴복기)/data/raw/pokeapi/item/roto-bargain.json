@@ -1,0 +1,28 @@
+{
+ "name": "roto-bargain",
+ "names": {
+  "ja-hrkt": "やすうりポン",
+  "ko": "할인캡슐토이",
+  "zh-hant": "優惠碰碰",
+  "fr": "Moti-Promo",
+  "de": "Schnäppchenbon",
+  "es": "Cupón Rebaja",
+  "it": "Sconto’n’roll",
+  "en": "Roto Bargain",
+  "ja": "やすうりポン",
+  "zh-hans": "优惠碰碰",
+  "es-419": "Cupón Rebaja"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-bargain",
+  "en": "XXX new effect for roto-bargain"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 사용하면 프렌들리숍의 상품이 반값이 된다.",
+  "en": "One of the Rotom Powers. It reduces the prices of products at Poké Marts by half.",
+  "ja": "ロトムパワーの ひとつ。 使うと フレンドリィショップの 商品が 半額に なる。"
+ }
+}

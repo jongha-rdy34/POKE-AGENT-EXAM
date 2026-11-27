@@ -1,0 +1,23 @@
+{
+ "name": "castform-snowy",
+ "form_name": "snowy",
+ "names": {
+  "fr": "Morphéo Blizzard",
+  "de": "Formeo (Schnee)",
+  "en": "Snowy Castform"
+ },
+ "form_names": {
+  "ja-hrkt": "ゆきぐものすがた",
+  "ko": "설운의 모습",
+  "zh-hant": "雪雲的樣子",
+  "fr": "Forme Blizzard",
+  "de": "Schneeform",
+  "es": "Forma Nieve",
+  "it": "Forma Nuvola di Neve",
+  "en": "Snowy Form",
+  "ja": "ゆきぐものすがた",
+  "zh-hans": "雪云的样子",
+  "es-419": "Forma Nieve"
+ },
+ "is_mega": false
+}

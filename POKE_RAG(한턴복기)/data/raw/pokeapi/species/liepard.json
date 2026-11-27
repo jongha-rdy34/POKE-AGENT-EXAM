@@ -1,0 +1,42 @@
+{
+ "id": 510,
+ "name": "liepard",
+ "names": {
+  "ja-hrkt": "レパルダス",
+  "ja-roma": "Lepardas",
+  "ko": "레파르다스",
+  "zh-hant": "酷豹",
+  "fr": "Léopardus",
+  "de": "Kleoparda",
+  "es": "Liepard",
+  "it": "Liepard",
+  "en": "Liepard",
+  "ja": "レパルダス",
+  "zh-hans": "酷豹",
+  "es-419": "Liepard"
+ },
+ "genus": {
+  "ja-hrkt": "れいこくポケモン",
+  "ko": "냉혹포켓몬",
+  "zh-hant": "冷酷寶可夢",
+  "fr": "Pokémon Implacable",
+  "de": "Gefühlskälte-Pokémon",
+  "es": "Pokémon Calculador",
+  "it": "Pokémon Sanguefreddo",
+  "en": "Cruel Pokémon",
+  "ja": "れいこくポケモン",
+  "zh-hans": "冷酷宝可梦",
+  "es-419": "Pokémon Calculador"
+ },
+ "flavor": {
+  "en": "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory.",
+  "ko": "폭슬라이와 영역을 두고 다툰다. 소리를 전혀 내지 않고 먹이의 배후에 접근한다."
+ },
+ "varieties": [
+  {
+   "name": "liepard",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "261"
+}

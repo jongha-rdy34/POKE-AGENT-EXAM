@@ -1,0 +1,30 @@
+{
+ "name": "odd-keystone",
+ "names": {
+  "ja-hrkt": "かなめいし",
+  "ko": "쐐기돌",
+  "zh-hant": "楔石",
+  "fr": "Clé de Voûte",
+  "de": "Spiritkern",
+  "es": "Piedra Espíritu",
+  "it": "Roccianima",
+  "en": "Odd Keystone",
+  "ja": "かなめいし",
+  "zh-hans": "楔石",
+  "es-419": "Piedra Espíritu"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "À utiliser sur la tour de la Route 209 pour rencontrer Spiritomb si vous avez au moins 32 salutations dans le Souterrain.",
+  "en": "Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings."
+ },
+ "flavor": {
+  "en": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally.",
+  "ko": "이것이 없으면 돌탑이 무너져버리는 중요한 돌. 가끔 돌에서 목소리가 들린다.",
+  "ja": "これがないと 石の塔が 崩れてしまう 大事な石。 ときどき 石から 声が聞こえる。"
+ }
+}

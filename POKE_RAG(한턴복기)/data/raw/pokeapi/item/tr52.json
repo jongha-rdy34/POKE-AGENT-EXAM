@@ -1,0 +1,25 @@
+{
+ "name": "tr52",
+ "names": {
+  "ja-hrkt": "わざレコード５２",
+  "ko": "기술레코드52",
+  "zh-hant": "招式紀錄５２",
+  "fr": "DT52",
+  "de": "TP52",
+  "es": "DT52",
+  "it": "DT52",
+  "en": "TR52",
+  "ja": "わざレコード５２",
+  "zh-hans": "招式记录５２",
+  "es-419": "DT52"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸을 고속으로 회전시켜 몸통박치기한다. 상대보다 스피드가 낮을수록 위력은 올라간다.",
+  "en": "The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",
+  "ja": "体を 高速に 回転させて 体当たりする。相手より 素早さが 低いほど 強い。"
+ }
+}

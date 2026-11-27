@@ -1,0 +1,25 @@
+{
+ "name": "tr76",
+ "names": {
+  "ja-hrkt": "わざレコード７６",
+  "ko": "기술레코드76",
+  "zh-hant": "招式紀錄７６",
+  "fr": "DT76",
+  "de": "TP76",
+  "es": "DT76",
+  "it": "DT76",
+  "en": "TR76",
+  "ja": "わざレコード７６",
+  "zh-hans": "招式记录７６",
+  "es-419": "DT76"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대의 주위에 무수한 바위를 띄워 교체해서 나온 상대 포켓몬에게 데미지를 준다.",
+  "en": "The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.",
+  "ja": "相手の 周りに 無数の 岩を 浮かべて 交代で でてきた 相手の ポケモンに ダメージを 与える。"
+ }
+}

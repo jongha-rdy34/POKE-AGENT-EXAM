@@ -1,0 +1,22 @@
+{
+ "name": "laleaden-ball",
+ "names": {
+  "ko": "메가톤볼",
+  "zh-hant": "超重球",
+  "fr": "Mégamasse Ball",
+  "de": "Zentnerball",
+  "es": "Kilo Ball",
+  "it": "Megaton Ball",
+  "en": "Leaden Ball",
+  "ja": "メガトンボール",
+  "zh-hans": "超重球",
+  "es-419": "Kilobola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Upgraded version of the Heavy Ball. Doesn't fly far, but is more effective if the Pokémon hasn't noticed the player."
+ }
+}

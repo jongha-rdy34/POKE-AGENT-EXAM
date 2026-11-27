@@ -1,0 +1,28 @@
+{
+ "name": "pikanium-z--bag",
+ "names": {
+  "ja-hrkt": "ピカチュウＺ",
+  "ko": "피카츄Z",
+  "zh-hant": "皮卡丘Ｚ",
+  "fr": "Pikazélite",
+  "de": "Pikachium Z",
+  "es": "Pikastal Z",
+  "it": "Pikacium Z",
+  "en": "Pikanium Z",
+  "ja": "ピカチュウＺ",
+  "zh-hans": "皮卡丘Ｚ",
+  "es-419": "Pikastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour pikanium-z--bag",
+  "en": "XXX new effect for pikanium-z--bag"
+ },
+ "flavor": {
+  "ko": "피카츄의 볼트태클을 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Pikachu’s Volt Tackle to an exclusive Z-Move.",
+  "ja": "ピカチュウの ボルテッカーを 特別な Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

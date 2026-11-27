@@ -1,0 +1,42 @@
+{
+ "id": 527,
+ "name": "woobat",
+ "names": {
+  "ja-hrkt": "コロモリ",
+  "ja-roma": "Koromori",
+  "ko": "또르박쥐",
+  "zh-hant": "滾滾蝙蝠",
+  "fr": "Chovsourir",
+  "de": "Fleknoil",
+  "es": "Woobat",
+  "it": "Woobat",
+  "en": "Woobat",
+  "ja": "コロモリ",
+  "zh-hans": "滚滚蝙蝠",
+  "es-419": "Woobat"
+ },
+ "genus": {
+  "ja-hrkt": "こうもりポケモン",
+  "ko": "박쥐포켓몬",
+  "zh-hant": "蝙蝠寶可夢",
+  "fr": "Pokémon Chovsouris",
+  "de": "Fledermaus-Pokémon",
+  "es": "Pokémon Murciélago",
+  "it": "Pokémon Pipistrello",
+  "en": "Bat Pokémon",
+  "ja": "こうもりポケモン",
+  "zh-hans": "蝙蝠宝可梦",
+  "es-419": "Pokémon Murciélago"
+ },
+ "flavor": {
+  "en": "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon.",
+  "ko": "초음파를 발산하면서 흔들흔들 날아다닌다. 먹이인 벌레포켓몬을 찾고 있다."
+ },
+ "varieties": [
+  {
+   "name": "woobat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "269"
+}

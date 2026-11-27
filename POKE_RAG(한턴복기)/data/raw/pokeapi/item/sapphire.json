@@ -1,0 +1,22 @@
+{
+ "name": "sapphire",
+ "names": {
+  "ja-hrkt": "サファイア",
+  "fr": "Saphir",
+  "de": "Saphir",
+  "es": "Zafiro",
+  "it": "Zaffiro",
+  "en": "Sapphire",
+  "es-419": "Zafiro"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À donner à Cliéo dans Rubis pour activer le Centre Réseau Pokémon et avoir le Passe Prisme.",
+  "en": "Give to Celio with Ruby to activate Network Machine and get Rainbow Pass."
+ },
+ "flavor": {
+  "en": "An exquisitely beautiful gem that has a blue glow. It symbolizes honesty."
+ }
+}

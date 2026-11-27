@@ -1,0 +1,42 @@
+{
+ "id": 278,
+ "name": "wingull",
+ "names": {
+  "ja-hrkt": "キャモメ",
+  "ja-roma": "Camome",
+  "ko": "갈모매",
+  "zh-hant": "長翅鷗",
+  "fr": "Goélise",
+  "de": "Wingull",
+  "es": "Wingull",
+  "it": "Wingull",
+  "en": "Wingull",
+  "ja": "キャモメ",
+  "zh-hans": "长翅鸥",
+  "es-419": "Wingull"
+ },
+ "genus": {
+  "ja-hrkt": "うみねこポケモン",
+  "ko": "괭이갈매기포켓몬",
+  "zh-hant": "海鷗寶可夢",
+  "fr": "Pokémon Mouette",
+  "de": "Seemöwen-Pokémon",
+  "es": "Pokémon Gaviota",
+  "it": "Pokémon Gabbiano",
+  "en": "Seagull Pokémon",
+  "ja": "うみねこポケモン",
+  "zh-hans": "海鸥宝可梦",
+  "es-419": "Pokémon Gaviota"
+ },
+ "flavor": {
+  "en": "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge.",
+  "ko": "공기의 흐름을 이용하여 날갯짓하지 않고 하늘로 날아오른다. 해변의 절벽에 둥지를 만든다."
+ },
+ "varieties": [
+  {
+   "name": "wingull",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "139"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "drizzle",
+ "names": {
+  "ja-hrkt": "あめふらし",
+  "ko": "잔비",
+  "zh-hant": "降雨",
+  "fr": "Crachin",
+  "de": "Niesel",
+  "es": "Llovizna",
+  "it": "Piovischio",
+  "en": "Drizzle",
+  "ja": "あめふらし",
+  "zh-hans": "降雨",
+  "es-419": "Llovizna"
+ },
+ "effect": {
+  "en": "Summons rain that lasts indefinitely upon entering battle."
+ },
+ "flavor": {
+  "en": "The Pokémon makes it rain when it enters a battle.",
+  "ko": "등장했을 때 날씨를 비로 만든다."
+ }
+}

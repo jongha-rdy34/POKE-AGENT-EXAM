@@ -1,0 +1,25 @@
+{
+ "name": "white-mane-hair",
+ "names": {
+  "ja-hrkt": "しろいたてがみ",
+  "ko": "하얀갈기",
+  "zh-hant": "白色鬃毛",
+  "fr": "Crins Blancs",
+  "de": "Helles Rosshaar",
+  "es": "Crin Blanca",
+  "it": "Crini bianchi",
+  "en": "White Mane Hair",
+  "ja": "しろいたてがみ",
+  "zh-hans": "白色鬃毛",
+  "es-419": "Crin Blanca"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풍요의 왕의 애마 블리자포스의 갈기. 튼튼하고도 매우 유연하다.",
+  "en": "Mane hair that belonged to the King of Bountiful Harvests’ beloved steed, Glastrier. The hair is strong and very flexible.",
+  "ja": "豊穣の王の 愛馬 ブリザポスの たてがみ。 丈夫で よく しなる。"
+ }
+}

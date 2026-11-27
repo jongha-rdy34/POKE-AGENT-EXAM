@@ -1,0 +1,20 @@
+{
+ "name": "horseradish",
+ "names": {
+  "ja-hrkt": "ホースラディッシュ",
+  "ko": "호스래디시",
+  "zh-hant": "辣根",
+  "fr": "Raifort",
+  "de": "Meerrettich",
+  "es": "Rábano Picante",
+  "it": "Rafano",
+  "en": "Horseradish",
+  "ja": "ホースラディッシュ",
+  "zh-hans": "辣根"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

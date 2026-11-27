@@ -1,0 +1,28 @@
+{
+ "name": "gracidea",
+ "names": {
+  "ja-hrkt": "グラシデアのはな",
+  "ko": "그라시데아꽃",
+  "zh-hant": "葛拉西蒂亞花",
+  "fr": "Gracidée",
+  "de": "Gracidea",
+  "es": "Gracídea",
+  "it": "Gracidea",
+  "en": "Gracidea",
+  "ja": "グラシデアのはな",
+  "zh-hans": "葛拉西蒂亚花",
+  "es-419": "Gracídea"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Change un Shaymin non gelé en Forme Céleste le jour.",
+  "en": "Changes an unfrozen Shaymin to Sky Forme in the day."
+ },
+ "flavor": {
+  "en": "A flower sometimes bundled in bouquets to convey gratitude on special occasions, such as birthdays.",
+  "ko": "생일이나 기념일 등에 감사의 마음을 전하기 위해 부케로 만들어 보내는 일이 있다.",
+  "ja": "誕生日や 記念日などに 感謝の 気持ちを 伝えるため ブーケにして 贈ることが ある。"
+ }
+}

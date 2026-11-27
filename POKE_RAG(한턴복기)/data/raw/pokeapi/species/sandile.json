@@ -1,0 +1,42 @@
+{
+ "id": 551,
+ "name": "sandile",
+ "names": {
+  "ja-hrkt": "メグロコ",
+  "ja-roma": "Meguroco",
+  "ko": "깜눈크",
+  "zh-hant": "黑眼鱷",
+  "fr": "Mascaïman",
+  "de": "Ganovil",
+  "es": "Sandile",
+  "it": "Sandile",
+  "en": "Sandile",
+  "ja": "メグロコ",
+  "zh-hans": "黑眼鳄",
+  "es-419": "Sandile"
+ },
+ "genus": {
+  "ja-hrkt": "さばくワニポケモン",
+  "ko": "사막악어포켓몬",
+  "zh-hant": "沙漠鱷魚寶可夢",
+  "fr": "Pokémon Croco Sable",
+  "de": "Wüstenkroko-Pokémon",
+  "es": "Pokémon Desierdrilo",
+  "it": "Pokémon Sabbiadrillo",
+  "en": "Desert Croc Pokémon",
+  "ja": "さばくワニポケモン",
+  "zh-hans": "沙漠鳄鱼宝可梦",
+  "es-419": "Pokémon Desierdrilo"
+ },
+ "flavor": {
+  "en": "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it’s swimming.",
+  "ko": "작지만 하체의 힘은 세다. 모래를 헤치며 사막을 헤엄치듯 이동한다."
+ },
+ "varieties": [
+  {
+   "name": "sandile",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "281"
+}

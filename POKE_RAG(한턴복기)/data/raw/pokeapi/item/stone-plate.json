@@ -1,0 +1,32 @@
+{
+ "name": "stone-plate",
+ "names": {
+  "ja-hrkt": "がんせきプレート",
+  "ko": "암석플레이트",
+  "zh-hant": "岩石石板",
+  "fr": "Plaque Roc",
+  "de": "Steintafel",
+  "es": "Tabla Pétrea",
+  "it": "Lastrapietra",
+  "en": "Stone Plate",
+  "ja": "がんせきプレート",
+  "zh-hans": "岩石石板",
+  "es-419": "Tabla Pétrea"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Roche du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Roche.",
+  "en": "Held: Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Rock-type moves.",
+  "ko": "바위타입의 석판. 지니게 하면 바위타입 기술의 위력이 강해진다.",
+  "ja": "いわの タイプの 石盤。 持たせると いわタイプの 技の 威力が 強まる。"
+ }
+}

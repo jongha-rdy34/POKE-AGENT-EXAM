@@ -1,0 +1,34 @@
+{
+ "name": "old-gateau",
+ "names": {
+  "ja-hrkt": "もりのヨウカン",
+  "ko": "숲의양갱",
+  "zh-hant": "森之羊羹",
+  "fr": "Vieux Gâteau",
+  "de": "Spezialität",
+  "es": "Barrita Plus",
+  "it": "Dolce Gateau",
+  "en": "Old Gateau",
+  "ja": "もりのヨウカン",
+  "zh-hans": "森之羊羹",
+  "es-419": "Barrita Plus"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne toutes les altérations de statut et la confusion.",
+  "en": "Cures any status ailment and confusion."
+ },
+ "flavor": {
+  "en": "The Old Chateau’s hidden specialty. It can be used once to heal all the status conditions of a Pokémon.",
+  "ko": "영원시티의 숨은 명물. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "ja": "ハクタイの 隠れた 名物。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

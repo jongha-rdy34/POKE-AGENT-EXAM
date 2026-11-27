@@ -1,0 +1,15 @@
+{
+ "name": "squawkabilly-yellow-plumage",
+ "form_name": "yellow-plumage",
+ "names": {
+  "fr": "Tapatoès Plumage Jaune",
+  "en": "Yellow Plumage Squawkabilly"
+ },
+ "form_names": {
+  "ja-hrkt": "イエローフェザー",
+  "fr": "Plumage Jaune",
+  "en": "Yellow Plumage",
+  "ja": "イエローフェザー"
+ },
+ "is_mega": false
+}

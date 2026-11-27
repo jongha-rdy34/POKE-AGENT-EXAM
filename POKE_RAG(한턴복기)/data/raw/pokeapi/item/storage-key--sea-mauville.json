@@ -1,0 +1,28 @@
+{
+ "name": "storage-key--sea-mauville",
+ "names": {
+  "ja-hrkt": "そうこのカギ",
+  "ko": "창고열쇠",
+  "zh-hant": "倉庫鑰匙",
+  "fr": "Clé Stockage",
+  "de": "Lagerschlüssel",
+  "es": "Llave Almacén",
+  "it": "Chiave magazzino",
+  "en": "Storage Key",
+  "ja": "そうこのカギ",
+  "zh-hans": "仓库钥匙",
+  "es-419": "Llave Almacén"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour storage-key--sea-mauville",
+  "en": "XXX new effect for storage-key--sea-mauville"
+ },
+ "flavor": {
+  "ko": "씨보라의 창고로 들어가기 위한 열쇠.",
+  "en": "A key that opens the storage hold inside Sea Mauville.",
+  "ja": "シーキンセツの 倉庫に 入るための カギ。"
+ }
+}

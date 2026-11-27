@@ -1,0 +1,19 @@
+{
+ "name": "peat-block",
+ "names": {
+  "ko": "피트블록",
+  "zh-hant": "泥炭塊",
+  "fr": "Bloc de Tourbe",
+  "de": "Torfblock",
+  "es": "Bloque de Turba",
+  "it": "Blocco di torba",
+  "en": "Peat Block",
+  "ja": "ピートブロック",
+  "zh-hans": "泥炭块"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

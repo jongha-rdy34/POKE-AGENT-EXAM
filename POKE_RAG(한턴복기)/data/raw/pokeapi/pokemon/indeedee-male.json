@@ -1,0 +1,35 @@
+{
+ "id": 876,
+ "name": "indeedee-male",
+ "species": "indeedee",
+ "is_default": true,
+ "types": [
+  "psychic",
+  "normal"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 65,
+  "defense": 55,
+  "special-attack": 105,
+  "special-defense": 95,
+  "speed": 95
+ },
+ "abilities": [
+  {
+   "name": "inner-focus",
+   "hidden": false
+  },
+  {
+   "name": "synchronize",
+   "hidden": false
+  },
+  {
+   "name": "psychic-surge",
+   "hidden": true
+  }
+ ],
+ "height": 9,
+ "weight": 280,
+ "champions_moves": []
+}

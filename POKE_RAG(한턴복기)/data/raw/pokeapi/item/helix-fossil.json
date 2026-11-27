@@ -1,0 +1,30 @@
+{
+ "name": "helix-fossil",
+ "names": {
+  "ja-hrkt": "かいのカセキ",
+  "ko": "조개화석",
+  "zh-hant": "貝殼化石",
+  "fr": "Nautile",
+  "de": "Helixfossil",
+  "es": "Fósil Hélix",
+  "it": "Helixfossile",
+  "en": "Helix Fossil",
+  "ja": "かいのカセキ",
+  "zh-hans": "贝壳化石",
+  "es-419": "Fósil Hélix"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Amonita.",
+  "en": "Can be revived into an Omanyte."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sea. It might be a piece of a seashell.",
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬의 화석. 조개껍질의 일부인 듯하다.",
+  "ja": "大昔 海に すんでいた 古代ポケモンの カセキ。 貝殻の 一部らしい。"
+ }
+}

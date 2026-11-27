@@ -1,0 +1,19 @@
+{
+ "name": "tm184",
+ "names": {
+  "ko": "기술머신184",
+  "zh-hant": "招式學習器１８４",
+  "fr": "CT184",
+  "de": "TM184",
+  "es": "MT184",
+  "it": "MT184",
+  "en": "TM184",
+  "ja": "わざマシン１８４",
+  "zh-hans": "招式学习器１８４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "body-slam",
+ "names": {
+  "ja-hrkt": "のしかかり",
+  "ko": "누르기",
+  "zh-hant": "泰山壓頂",
+  "fr": "Plaquage",
+  "de": "Bodyslam",
+  "es": "Golpe Cuerpo",
+  "it": "Corposcontro",
+  "en": "Body Slam",
+  "ja": "のしかかり",
+  "zh-hans": "泰山压顶",
+  "es-419": "Golpe de Cuerpo"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 85,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis.",
+  "ko": "몸 전체로 상대를 덮쳐눌러 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

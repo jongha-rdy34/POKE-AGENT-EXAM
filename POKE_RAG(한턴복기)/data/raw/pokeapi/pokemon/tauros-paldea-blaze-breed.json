@@ -1,0 +1,89 @@
+{
+ "id": 10251,
+ "name": "tauros-paldea-blaze-breed",
+ "species": "tauros",
+ "is_default": false,
+ "types": [
+  "fighting",
+  "fire"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 110,
+  "defense": 105,
+  "special-attack": 30,
+  "special-defense": 70,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "anger-point",
+   "hidden": false
+  },
+  {
+   "name": "cud-chew",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 850,
+ "champions_moves": [
+  "body-press",
+  "body-slam",
+  "bulk-up",
+  "bulldoze",
+  "close-combat",
+  "curse",
+  "dig",
+  "double-edge",
+  "drill-run",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-blast",
+  "fire-spin",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "giga-impact",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-head",
+  "iron-tail",
+  "lash-out",
+  "megahorn",
+  "outrage",
+  "overheat",
+  "protect",
+  "raging-bull",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "smart-strike",
+  "snore",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "swagger",
+  "temper-flare",
+  "thief",
+  "thrash",
+  "trailblaze",
+  "uproar",
+  "wild-charge",
+  "will-o-wisp",
+  "zen-headbutt"
+ ]
+}

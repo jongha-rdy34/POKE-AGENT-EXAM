@@ -1,0 +1,28 @@
+{
+ "name": "lost-item",
+ "names": {
+  "ja-hrkt": "おとしもの",
+  "ko": "분실물",
+  "zh-hant": "遺失物",
+  "fr": "Objet perdu",
+  "de": "Fundsache",
+  "es": "Objeto Perdido",
+  "it": "Strumento perso",
+  "en": "Lost Item",
+  "ja": "おとしもの",
+  "zh-hans": "遗失物",
+  "es-419": "Objeto Perdido"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Une Poké Poupée perdue par la Copieuse qui vit à Safrania. À échanger pour un Pass.",
+  "en": "A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass."
+ },
+ "flavor": {
+  "en": "The Mime Jr. doll that was lost by the Copycat.",
+  "ko": "흉내내기 아가씨가 잃어버린 흉내내인형.",
+  "ja": "モノマネ娘が なくした マネネの 人形。"
+ }
+}

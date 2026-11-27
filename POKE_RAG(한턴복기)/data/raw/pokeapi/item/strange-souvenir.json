@@ -1,0 +1,28 @@
+{
+ "name": "strange-souvenir",
+ "names": {
+  "ja-hrkt": "ふしぎなおきもの",
+  "ko": "이상한장식품",
+  "zh-hant": "神秘擺設",
+  "fr": "Bibelot Bizarre",
+  "de": "Skurriloskulptur",
+  "es": "Estatuilla Rara",
+  "it": "Strano ninnolo",
+  "en": "Strange Souvenir",
+  "ja": "ふしぎなおきもの",
+  "zh-hans": "神秘摆设",
+  "es-419": "Estatuilla Rara"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Déchêt.",
+  "en": "Vendor trash."
+ },
+ "flavor": {
+  "ko": "알로라지방에서 예로부터 수호신으로 여겨지는 신비한 포켓몬을 본떠 만든 장식품.",
+  "en": "An ornament depicting a mysterious Pokémon that has been venerated as a guardian deity for an extremely long time in the Alola region.",
+  "ja": "アローラ地方で 古くから 守り神 とされる 不思議な ポケモンを かたどった 置物。"
+ }
+}

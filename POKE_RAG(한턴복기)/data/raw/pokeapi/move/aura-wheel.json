@@ -1,0 +1,31 @@
+{
+ "name": "aura-wheel",
+ "names": {
+  "ja-hrkt": "オーラぐるま",
+  "ko": "오라휠",
+  "zh-hant": "氣場輪",
+  "fr": "Roue Libre",
+  "de": "Aura-Rad",
+  "es": "Rueda Aural",
+  "it": "Ruota d’Aura",
+  "en": "Aura Wheel",
+  "ja": "オーラぐるま",
+  "zh-hans": "气场轮",
+  "es-419": "Rueda Aural"
+ },
+ "type": "electric",
+ "category": "physical",
+ "power": 110,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Raises the user's Speed by 1 stage. In Full Belly Mode, this move is Electric type. In Hangry Mode, this move is Dark type."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "볼주머니에 저장해둔 에너지로 공격하고 자신의 스피드를 올린다. 모르페코의 모습에 따라 타입이 바뀐다.",
+  "en": "Morpeko attacks and boosts its Speed stat with the energy stored in its cheeks. This move's type changes depending on the user's form."
+ }
+}

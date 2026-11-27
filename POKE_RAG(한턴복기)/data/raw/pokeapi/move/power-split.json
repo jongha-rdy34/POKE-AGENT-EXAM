@@ -1,0 +1,31 @@
+{
+ "name": "power-split",
+ "names": {
+  "ja-hrkt": "パワーシェア",
+  "ko": "파워셰어",
+  "zh-hant": "力量平分",
+  "fr": "Partage Force",
+  "de": "Kraftteiler",
+  "es": "Isofuerza",
+  "it": "Pariattacco",
+  "en": "Power Split",
+  "ja": "パワーシェア",
+  "zh-hans": "力量平分",
+  "es-419": "Fuerza Dividida"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Averages Attack and Special Attack with the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.",
+  "ko": "초능력으로 자신과 상대의 공격과 특수공격을 더해서 반으로 나눈다."
+ }
+}

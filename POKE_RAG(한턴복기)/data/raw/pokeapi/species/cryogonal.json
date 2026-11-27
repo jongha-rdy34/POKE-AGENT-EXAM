@@ -1,0 +1,42 @@
+{
+ "id": 615,
+ "name": "cryogonal",
+ "names": {
+  "ja-hrkt": "フリージオ",
+  "ja-roma": "Freegeo",
+  "ko": "프리지오",
+  "zh-hant": "幾何雪花",
+  "fr": "Hexagel",
+  "de": "Frigometri",
+  "es": "Cryogonal",
+  "it": "Cryogonal",
+  "en": "Cryogonal",
+  "ja": "フリージオ",
+  "zh-hans": "几何雪花",
+  "es-419": "Cryogonal"
+ },
+ "genus": {
+  "ja-hrkt": "けっしょうポケモン",
+  "ko": "결정포켓몬",
+  "zh-hant": "結晶寶可夢",
+  "fr": "Pokémon Cristal",
+  "de": "Kristall-Pokémon",
+  "es": "Pokémon Cristal",
+  "it": "Pokémon Cristallo",
+  "en": "Crystallizing Pokémon",
+  "ja": "けっしょうポケモン",
+  "zh-hans": "结晶宝可梦",
+  "es-419": "Pokémon Cristal"
+ },
+ "flavor": {
+  "en": "When the weather gets hot, these Pokémon turn into water vapor. Cryogonal are almost never seen during summer.",
+  "ko": "뜨거워지면 수증기로 변한다. 여름철에 모습을 볼 일은 거의 없다."
+ },
+ "varieties": [
+  {
+   "name": "cryogonal",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "311"
+}

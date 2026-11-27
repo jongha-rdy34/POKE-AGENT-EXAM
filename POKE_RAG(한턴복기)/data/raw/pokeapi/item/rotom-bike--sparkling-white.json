@@ -1,0 +1,25 @@
+{
+ "name": "rotom-bike--sparkling-white",
+ "names": {
+  "ja-hrkt": "ロトムじてんしゃ",
+  "ko": "로토무자전거",
+  "zh-hant": "洛托姆自行車",
+  "fr": "Moticyclette",
+  "de": "Rotom-Rad",
+  "es": "Bici Rotom",
+  "it": "Bici Rotom",
+  "en": "Rotom Bike",
+  "ja": "ロトムじてんしゃ",
+  "zh-hans": "洛托姆自行车",
+  "es-419": "Bici Rotom"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "로토무의 힘으로 터보를 사용할 수 있고 물 위에서도 달릴 수 있는 자전거. 하얗게 빛나는 스파클링 화이트 디자인이다.",
+  "en": "This bike can do a turbo boost and run on the water using Rotom’s power. It’s a sparkling white that shines brilliantly.",
+  "ja": "ロトムの 力で ターボが でき 水上も 走れる じてんしゃ。 白く 輝く ぴかぴかホワイト。"
+ }
+}

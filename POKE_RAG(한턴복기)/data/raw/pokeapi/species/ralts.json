@@ -1,0 +1,42 @@
+{
+ "id": 280,
+ "name": "ralts",
+ "names": {
+  "ja-hrkt": "ラルトス",
+  "ja-roma": "Ralts",
+  "ko": "랄토스",
+  "zh-hant": "拉魯拉絲",
+  "fr": "Tarsal",
+  "de": "Trasla",
+  "es": "Ralts",
+  "it": "Ralts",
+  "en": "Ralts",
+  "ja": "ラルトス",
+  "zh-hans": "拉鲁拉丝",
+  "es-419": "Ralts"
+ },
+ "genus": {
+  "ja-hrkt": "きもちポケモン",
+  "ko": "느낌포켓몬",
+  "zh-hant": "心情寶可夢",
+  "fr": "Pokémon Sentiment",
+  "de": "Gefühls-Pokémon",
+  "es": "Pokémon Sensible",
+  "it": "Pokémon Sensazione",
+  "en": "Feeling Pokémon",
+  "ja": "きもちポケモン",
+  "zh-hans": "心情宝可梦",
+  "es-419": "Pokémon Sensible"
+ },
+ "flavor": {
+  "en": "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research.",
+  "ko": "빨간 뿔로 사람이나 포켓몬의 따뜻한 마음을 캐치하면 전신이 미약하게 뜨거워진다."
+ },
+ "varieties": [
+  {
+   "name": "ralts",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "140"
+}

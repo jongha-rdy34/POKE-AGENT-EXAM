@@ -1,0 +1,41 @@
+{
+ "id": 925,
+ "name": "maushold",
+ "names": {
+  "ja-hrkt": "イッカネズミ",
+  "ja-roma": "Ikkanezumi",
+  "ko": "파밀리쥐",
+  "zh-hant": "一家鼠",
+  "fr": "Famignol",
+  "de": "Famieps",
+  "es": "Maushold",
+  "it": "Maushold",
+  "en": "Maushold",
+  "ja": "イッカネズミ",
+  "zh-hans": "一家鼠",
+  "es-419": "Maushold"
+ },
+ "genus": {
+  "ja-hrkt": "ファミリーポケモン",
+  "ko": "패밀리포켓몬",
+  "zh-hant": "家族寶可夢",
+  "fr": "Famille",
+  "de": "Familie",
+  "en": "Family Pokémon",
+  "zh-hans": "家族宝可梦"
+ },
+ "flavor": {
+  "en": "The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight."
+ },
+ "varieties": [
+  {
+   "name": "maushold-family-of-four",
+   "is_default": true
+  },
+  {
+   "name": "maushold-family-of-three",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "485"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "bounsweet-sweat",
+ "names": {
+  "ja-hrkt": "アマカジのあせ",
+  "ko": "달콤아의땀",
+  "zh-hant": "甜竹竹的汗",
+  "fr": "Sueur de Croquine",
+  "de": "Frubberl-Schweiß",
+  "es": "Sudor de Bounsweet",
+  "it": "Sudore di Bounsweet",
+  "en": "Bounsweet Sweat",
+  "ja": "アマカジのあせ",
+  "zh-hans": "甜竹竹的汗"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

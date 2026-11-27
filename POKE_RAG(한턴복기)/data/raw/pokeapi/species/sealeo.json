@@ -1,0 +1,42 @@
+{
+ "id": 364,
+ "name": "sealeo",
+ "names": {
+  "ja-hrkt": "トドグラー",
+  "ja-roma": "Todoggler",
+  "ko": "씨레오",
+  "zh-hant": "海魔獅",
+  "fr": "Phogleur",
+  "de": "Seejong",
+  "es": "Sealeo",
+  "it": "Sealeo",
+  "en": "Sealeo",
+  "ja": "トドグラー",
+  "zh-hans": "海魔狮",
+  "es-419": "Sealeo"
+ },
+ "genus": {
+  "ja-hrkt": "たままわしポケモン",
+  "ko": "공돌리기포켓몬",
+  "zh-hant": "滾球寶可夢",
+  "fr": "Pokémon Roule Boule",
+  "de": "Spielball-Pokémon",
+  "es": "Pokémon Rodabola",
+  "it": "Pokémon Rotapalla",
+  "en": "Ball Roll Pokémon",
+  "ja": "たままわしポケモン",
+  "zh-hans": "滚球宝可梦",
+  "es-419": "Pokémon Rodabola"
+ },
+ "flavor": {
+  "en": "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy.",
+  "ko": "대굴레오나 몬스터볼 등 둥근 것이라면 뭐든지 코 위에 올려놓고 돌리는 습성이 있다."
+ },
+ "varieties": [
+  {
+   "name": "sealeo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "187"
+}

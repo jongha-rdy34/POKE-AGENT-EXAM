@@ -1,0 +1,42 @@
+{
+ "id": 651,
+ "name": "quilladin",
+ "names": {
+  "ja-hrkt": "ハリボーグ",
+  "ja-roma": "Hariborg",
+  "ko": "도치보구",
+  "zh-hant": "胖胖哈力",
+  "fr": "Boguérisse",
+  "de": "Igastarnish",
+  "es": "Quilladin",
+  "it": "Quilladin",
+  "en": "Quilladin",
+  "ja": "ハリボーグ",
+  "zh-hans": "胖胖哈力",
+  "es-419": "Quilladin"
+ },
+ "genus": {
+  "ja-hrkt": "とげよろいポケモン",
+  "ko": "가시갑옷포켓몬",
+  "zh-hant": "刺鎧寶可夢",
+  "fr": "Pokémon Épinarmure",
+  "de": "Spitzpanzer",
+  "es": "Pokémon Corazaespín",
+  "it": "Pokémon Spincorazza",
+  "en": "Spiny Armor Pokémon",
+  "ja": "とげよろいポケモン",
+  "zh-hans": "刺铠宝可梦",
+  "es-419": "Pokémon Corazaespín"
+ },
+ "flavor": {
+  "ko": "동료끼리 몸을 서로 부딪쳐 하반신을 단련한다. 자신이 먼저 싸움을 걸지 않는 온순한 성격이다.",
+  "en": "They strengthen their lower bodies by running into one another. They are very kind and won’t start fights."
+ },
+ "varieties": [
+  {
+   "name": "quilladin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "337"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "corrosive-gas",
+ "names": {
+  "ja-hrkt": "ふしょくガス",
+  "ko": "부식가스",
+  "zh-hant": "腐蝕氣體",
+  "fr": "Gaz Corrosif",
+  "de": "Korrosionsgas",
+  "es": "Gas Corrosivo",
+  "it": "Gas Corrosivo",
+  "en": "Corrosive Gas",
+  "ja": "ふしょくガス",
+  "zh-hans": "腐蚀气体",
+  "es-419": "Gas Corrosivo"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 40,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Target drops its held item."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "주위에 있는 모든 것을 강력한 산성 가스로 뒤덮어서 지니고 있는 도구를 녹여버린다.",
+  "en": "The user surrounds everything around it with highly acidic gas and melts away items they hold."
+ }
+}

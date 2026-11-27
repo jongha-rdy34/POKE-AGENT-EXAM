@@ -1,0 +1,25 @@
+{
+ "name": "bread",
+ "names": {
+  "ja-hrkt": "しょくパン",
+  "ko": "식빵",
+  "zh-hant": "吐司麵包",
+  "fr": "Pain de Mie",
+  "de": "Toastbrot",
+  "es": "Pan de Molde",
+  "it": "Pan carré",
+  "en": "Bread",
+  "ja": "しょくパン",
+  "zh-hans": "吐司面包",
+  "es-419": "Pan de Molde"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 접시에 남은 카레를 닦아내는 데도 유용하다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. An indispensable tool for mopping up that extra curry left on your plate.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。お皿に 残った カレーを 拭くのにも 重宝する。"
+ }
+}

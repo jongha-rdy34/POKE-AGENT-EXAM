@@ -1,0 +1,46 @@
+{
+ "id": 358,
+ "name": "chimecho",
+ "names": {
+  "ja-hrkt": "チリーン",
+  "ja-roma": "Chirean",
+  "ko": "치렁",
+  "zh-hant": "風鈴鈴",
+  "fr": "Éoko",
+  "de": "Palimpalim",
+  "es": "Chimecho",
+  "it": "Chimecho",
+  "en": "Chimecho",
+  "ja": "チリーン",
+  "zh-hans": "风铃铃",
+  "es-419": "Chimecho"
+ },
+ "genus": {
+  "ja-hrkt": "ふうりんポケモン",
+  "ko": "풍경포켓몬",
+  "zh-hant": "風鈴寶可夢",
+  "fr": "Pokémon Carillon",
+  "de": "Windspiel",
+  "es": "Pokémon Sonido Aire",
+  "it": "Pokémon Vencampana",
+  "en": "Wind Chime Pokémon",
+  "ja": "ふうりんポケモン",
+  "zh-hans": "风铃宝可梦",
+  "es-419": "Pokémon Sonido Aire"
+ },
+ "flavor": {
+  "en": "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body.",
+  "ko": "바람이 강해지면 나뭇가지나 처마 끝에 머리의 흡반으로 매달려 울기 시작한다. 긴 꼬리로 나무열매를 집어서 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "chimecho",
+   "is_default": true
+  },
+  {
+   "name": "chimecho-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "184"
+}

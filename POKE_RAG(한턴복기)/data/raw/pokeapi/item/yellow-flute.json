@@ -1,0 +1,33 @@
+{
+ "name": "yellow-flute",
+ "names": {
+  "ja-hrkt": "きいろビードロ",
+  "ko": "노랑비드로",
+  "zh-hant": "黃色玻璃哨",
+  "fr": "Flûte Jaune",
+  "de": "Gelbe Flöte",
+  "es": "Flauta Amarilla",
+  "it": "Flauto Giallo",
+  "en": "Yellow Flute",
+  "ja": "きいろビードロ",
+  "zh-hans": "黄色玻璃哨",
+  "es-419": "Flauta Amarilla"
+ },
+ "category": "flutes",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne la confusion.",
+  "en": "Cures confusion."
+ },
+ "flavor": {
+  "en": "A flute made from yellow glass. It snaps Pokémon out of confusion.",
+  "ko": "노란 유리로 만들어진 피리. 혼란 상태를 회복한다.",
+  "ja": "黄色のガラスで できた 笛。 混乱状態を 回復する。"
+ }
+}

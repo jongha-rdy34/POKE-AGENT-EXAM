@@ -1,0 +1,31 @@
+{
+ "name": "discharge",
+ "names": {
+  "ja-hrkt": "ほうでん",
+  "ko": "방전",
+  "zh-hant": "放電",
+  "fr": "Coup d’Jus",
+  "de": "Ladungsstoß",
+  "es": "Chispazo",
+  "it": "Scarica",
+  "en": "Discharge",
+  "ja": "ほうでん",
+  "zh-hans": "放电",
+  "es-419": "Chispazo"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis.",
+  "ko": "눈부신 전격으로 자신의 주위에 있는 포켓몬을 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

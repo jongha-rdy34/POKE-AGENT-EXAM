@@ -1,0 +1,31 @@
+{
+ "name": "skill-swap",
+ "names": {
+  "ja-hrkt": "スキルスワップ",
+  "ko": "스킬스왑",
+  "zh-hant": "特性互換",
+  "fr": "Échange",
+  "de": "Fähigkeitstausch",
+  "es": "Intercambio",
+  "it": "Baratto",
+  "en": "Skill Swap",
+  "ja": "スキルスワップ",
+  "zh-hans": "特性互换",
+  "es-419": "Intercambio"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User and target swap abilities."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to exchange Abilities with the target.",
+  "ko": "초능력으로 자신의 특성과 상대의 특성을 바꾼다."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "bulletproof",
+ "names": {
+  "ja-hrkt": "ぼうだん",
+  "ko": "방탄",
+  "zh-hant": "防彈",
+  "fr": "Pare-Balles",
+  "de": "Kugelsicher",
+  "es": "Antibalas",
+  "it": "Antiproiettile",
+  "en": "Bulletproof",
+  "ja": "ぼうだん",
+  "zh-hans": "防弹",
+  "es-419": "Antibalas"
+ },
+ "effect": {
+  "en": "Protects against bullet, ball, and bomb-based moves."
+ },
+ "flavor": {
+  "ko": "상대 구슬이나 폭탄 등 기술을 막을 수 있다.",
+  "en": "Protects the Pokémon from ball and bomb moves."
+ }
+}

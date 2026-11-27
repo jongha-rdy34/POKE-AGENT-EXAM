@@ -1,0 +1,20 @@
+{
+ "name": "ducklett-feather",
+ "names": {
+  "ja-hrkt": "コアルヒーのはね",
+  "ko": "꼬지보리의깃털",
+  "zh-hant": "鴨寶寶的羽毛",
+  "fr": "Plume de Couaneton",
+  "de": "Piccolente-Feder",
+  "es": "Pluma de Ducklett",
+  "it": "Penna di Ducklett",
+  "en": "Ducklett Feather",
+  "ja": "コアルヒーのはね",
+  "zh-hans": "鸭宝宝的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

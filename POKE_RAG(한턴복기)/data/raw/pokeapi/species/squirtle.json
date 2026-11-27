@@ -1,0 +1,42 @@
+{
+ "id": 7,
+ "name": "squirtle",
+ "names": {
+  "ja-hrkt": "ゼニガメ",
+  "ja-roma": "Zenigame",
+  "ko": "꼬부기",
+  "zh-hant": "傑尼龜",
+  "fr": "Carapuce",
+  "de": "Schiggy",
+  "es": "Squirtle",
+  "it": "Squirtle",
+  "en": "Squirtle",
+  "ja": "ゼニガメ",
+  "zh-hans": "杰尼龟",
+  "es-419": "Squirtle"
+ },
+ "genus": {
+  "ja-hrkt": "かめのこポケモン",
+  "ko": "꼬마거북포켓몬",
+  "zh-hant": "小龜寶可夢",
+  "fr": "Pokémon Minitortue",
+  "de": "Minikröten-Pokémon",
+  "es": "Pokémon Tortuguita",
+  "it": "Pokémon Tartaghina",
+  "en": "Tiny Turtle Pokémon",
+  "ja": "かめのこポケモン",
+  "zh-hans": "小龟宝可梦",
+  "es-419": "Pokémon Tortuguita"
+ },
+ "flavor": {
+  "en": "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth.",
+  "ko": "위험해지면 등껍질에 손발을 감추고 몸을 지키면서 입에서 물을 내뿜는다."
+ },
+ "varieties": [
+  {
+   "name": "squirtle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "3"
+}

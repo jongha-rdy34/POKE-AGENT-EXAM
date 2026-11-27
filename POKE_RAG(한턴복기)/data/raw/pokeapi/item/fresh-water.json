@@ -1,0 +1,34 @@
+{
+ "name": "fresh-water",
+ "names": {
+  "ja-hrkt": "おいしいみず",
+  "ko": "맛있는물",
+  "zh-hant": "美味之水",
+  "fr": "Eau Fraîche",
+  "de": "Tafelwasser",
+  "es": "Agua Fresca",
+  "it": "Acqua fresca",
+  "en": "Fresh Water",
+  "ja": "おいしいみず",
+  "zh-hans": "美味之水",
+  "es-419": "Agua Fresca"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 50 PV.",
+  "en": "Restores 50 HP."
+ },
+ "flavor": {
+  "en": "Water with high mineral content. It can be used to restore 30 HP to a single Pokémon.",
+  "ko": "미네랄이 가득한 물. 포켓몬 1마리의 HP를 30만큼 회복한다.",
+  "ja": "ミネラル たっぷりの 水。 ポケモン １匹の ＨＰを ３０だけ 回復する。"
+ }
+}

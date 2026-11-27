@@ -1,0 +1,20 @@
+{
+ "name": "klawf-stick",
+ "names": {
+  "ja-hrkt": "ガケガニスティック",
+  "ko": "절벼게맛살",
+  "zh-hant": "毛崖蟹棒",
+  "fr": "Bâtonnet de Craparoi",
+  "de": "Klibbe-Stick",
+  "es": "Surimi de Klawf",
+  "it": "Surimi di Klawf",
+  "en": "Klawf Stick",
+  "ja": "ガケガニスティック",
+  "zh-hans": "毛崖蟹棒"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

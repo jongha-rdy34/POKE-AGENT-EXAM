@@ -1,0 +1,23 @@
+{
+ "name": "overgrow",
+ "names": {
+  "ja-hrkt": "しんりょく",
+  "ko": "심록",
+  "zh-hant": "茂盛",
+  "fr": "Engrais",
+  "de": "Notdünger",
+  "es": "Espesura",
+  "it": "Erbaiuto",
+  "en": "Overgrow",
+  "ja": "しんりょく",
+  "zh-hans": "茂盛",
+  "es-419": "Espesura"
+ },
+ "effect": {
+  "en": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+ },
+ "flavor": {
+  "en": "Powers up Grass-type moves when the Pokémon's HP is low.",
+  "ko": "HP가 줄었을 때 풀타입 기술의 위력이 올라간다."
+ }
+}

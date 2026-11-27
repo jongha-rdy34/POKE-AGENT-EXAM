@@ -1,0 +1,25 @@
+{
+ "name": "tr53",
+ "names": {
+  "ja-hrkt": "わざレコード５３",
+  "ko": "기술레코드53",
+  "zh-hant": "招式紀錄５３",
+  "fr": "DT53",
+  "de": "TP53",
+  "es": "DT53",
+  "it": "DT53",
+  "en": "TR53",
+  "ja": "わざレコード５３",
+  "zh-hans": "招式记录５３",
+  "es-419": "DT53"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "방어를 포기하고 상대 쪽으로 깊숙이 돌격한다. 자신의 방어와 특수방어가 떨어진다.",
+  "en": "The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.",
+  "ja": "守りを 捨てて 相手の ふところに 突撃する。 自分の 防御と 特防が さがる。"
+ }
+}

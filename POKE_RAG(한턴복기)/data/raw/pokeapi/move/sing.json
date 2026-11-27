@@ -1,0 +1,31 @@
+{
+ "name": "sing",
+ "names": {
+  "ja-hrkt": "うたう",
+  "ko": "노래하기",
+  "zh-hant": "唱歌",
+  "fr": "Berceuse",
+  "de": "Gesang",
+  "es": "Canto",
+  "it": "Canto",
+  "en": "Sing",
+  "ja": "うたう",
+  "zh-hans": "唱歌",
+  "es-419": "Canto"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 55,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Puts the target to sleep."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A soothing lullaby is sung in a beautiful voice that puts the target to sleep.",
+  "ko": "기분 좋은 예쁜 노랫소리를 들려주고 상대를 잠듦 상태로 만든다."
+ }
+}

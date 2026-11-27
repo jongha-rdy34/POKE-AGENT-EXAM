@@ -1,0 +1,25 @@
+{
+ "name": "marble",
+ "names": {
+  "ja-hrkt": "ビーだま",
+  "ko": "유리구슬",
+  "zh-hant": "彈珠",
+  "fr": "Bille",
+  "de": "Glasmurmel",
+  "es": "Canica",
+  "it": "Biglia",
+  "en": "Marble",
+  "ja": "ビーだま",
+  "zh-hans": "弹珠",
+  "es-419": "Canica"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "동글동글한 유리구슬. 투명한 구슬 안에 색유리의 무늬가 비친다.",
+  "en": "A round glass marble. You can see colored glass inside the transparent marble.",
+  "ja": "まんまるの ガラス玉。 透明な 玉の 中に 色ガラスの 模様が 見える。"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "blue-sky-flower-pick",
+ "names": {
+  "ja-hrkt": "あおぞらおはなピック",
+  "ko": "푸른하늘 꽃 픽",
+  "zh-hant": "晴空花三明治籤",
+  "fr": "Pique Fleur d'Azur",
+  "de": "Mittagsblumen-Pikser",
+  "es": "Palillo Flor Azul",
+  "it": "Stecchino fiore blu",
+  "en": "Blue-Sky Flower Pick",
+  "ja": "あおぞらおはなピック",
+  "zh-hans": "晴空花三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

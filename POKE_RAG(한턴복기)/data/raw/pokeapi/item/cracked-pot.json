@@ -1,0 +1,25 @@
+{
+ "name": "cracked-pot",
+ "names": {
+  "ja-hrkt": "われたポット",
+  "ko": "깨진포트",
+  "zh-hant": "破裂的茶壺",
+  "fr": "Théière Fêlée",
+  "de": "Rissige Kanne",
+  "es": "Tetera Agrietada",
+  "it": "Teiera rotta",
+  "en": "Cracked Pot",
+  "ja": "われたポット",
+  "zh-hans": "破裂的茶壶",
+  "es-419": "Tetera Agrietada"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 포트. 깨졌지만 차는 맛있어진다.",
+  "en": "A peculiar teapot that can make a certain species of Pokémon evolve. It may be cracked, but tea poured from it is delicious.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な ポット。 割れているが お茶は おいしくなる。"
+ }
+}

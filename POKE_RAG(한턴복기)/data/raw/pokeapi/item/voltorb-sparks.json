@@ -1,0 +1,20 @@
+{
+ "name": "voltorb-sparks",
+ "names": {
+  "ja-hrkt": "ビリリダマのでんき",
+  "ko": "찌리리공의전기",
+  "zh-hant": "霹靂電球的電力",
+  "fr": "Électricité de Voltorbe",
+  "de": "Voltobal-Strom",
+  "es": "Electricidad de Voltorb",
+  "it": "Elettricità di Voltorb",
+  "en": "Voltorb Sparks",
+  "ja": "ビリリダマのでんき",
+  "zh-hans": "霹雳电球的电力"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

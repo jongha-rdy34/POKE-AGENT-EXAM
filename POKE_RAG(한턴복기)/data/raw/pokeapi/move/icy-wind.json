@@ -1,0 +1,31 @@
+{
+ "name": "icy-wind",
+ "names": {
+  "ja-hrkt": "こごえるかぜ",
+  "ko": "얼어붙은바람",
+  "zh-hant": "冰凍之風",
+  "fr": "Vent Glace",
+  "de": "Eissturm",
+  "es": "Viento Hielo",
+  "it": "Ventogelato",
+  "en": "Icy Wind",
+  "ja": "こごえるかぜ",
+  "zh-hans": "冰冻之风",
+  "es-419": "Viento Helado"
+ },
+ "type": "ice",
+ "category": "special",
+ "power": 55,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Has a chance to lower the target’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats.",
+  "ko": "차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다."
+ }
+}

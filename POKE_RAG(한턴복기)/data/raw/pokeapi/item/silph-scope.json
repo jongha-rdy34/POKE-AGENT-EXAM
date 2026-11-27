@@ -1,0 +1,28 @@
+{
+ "name": "silph-scope",
+ "names": {
+  "ja-hrkt": "シルフスコープ",
+  "ko": "실프스코프",
+  "zh-hant": "西爾佛檢視鏡",
+  "fr": "Scope Sylphe",
+  "de": "Silph Scope",
+  "es": "Visor Silph",
+  "it": "Spettrosonda",
+  "en": "Silph Scope",
+  "ja": "シルフスコープ",
+  "zh-hans": "西尔佛检视镜",
+  "es-419": "Visor Silph"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour identifier les vraies formes des fantômes de la Tour Pokémon.",
+  "en": "Used to identify the true forms of ghosts in Pokémon Tower."
+ },
+ "flavor": {
+  "en": "A scope that lets you see what cannot usually be seen. It is made by Silph Co.",
+  "ko": "사람의 눈에 보이지 않는 것을 볼 수 있게 해 주는 스코프. 실프주식회사 제품.",
+  "ja": "人の 目に 見えない ものを 見ることが できる スコープ。 シルフカンパニー製。"
+ }
+}

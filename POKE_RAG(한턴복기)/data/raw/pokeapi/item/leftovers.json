@@ -1,0 +1,31 @@
+{
+ "name": "leftovers",
+ "names": {
+  "ja-hrkt": "たべのこし",
+  "ko": "먹다남은음식",
+  "zh-hant": "吃剩的東西",
+  "fr": "Restes",
+  "de": "Überreste",
+  "es": "Restos",
+  "it": "Avanzi",
+  "en": "Leftovers",
+  "ja": "たべのこし",
+  "zh-hans": "吃剩的东西",
+  "es-419": "Restos"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Restaure 1/16 (6.25%) des PV max du porteur à la fin de chaque tour.",
+  "en": "Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. The holder’s HP is slowly but steadily restored throughout every battle.",
+  "ko": "지니게 하면 포켓몬의 HP가 배틀을 하는 동안 조금씩 회복된다.",
+  "ja": "持たせると ポケモンの ＨＰが 戦闘の あいだ 少しずつ 回復する。"
+ }
+}

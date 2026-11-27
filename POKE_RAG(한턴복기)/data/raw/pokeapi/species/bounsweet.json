@@ -1,0 +1,42 @@
+{
+ "id": 761,
+ "name": "bounsweet",
+ "names": {
+  "ja-hrkt": "アマカジ",
+  "ja-roma": "Amakaji",
+  "ko": "달콤아",
+  "zh-hant": "甜竹竹",
+  "fr": "Croquine",
+  "de": "Frubberl",
+  "es": "Bounsweet",
+  "it": "Bounsweet",
+  "en": "Bounsweet",
+  "ja": "アマカジ",
+  "zh-hans": "甜竹竹",
+  "es-419": "Bounsweet"
+ },
+ "genus": {
+  "ja-hrkt": "フルーツポケモン",
+  "ko": "후르츠포켓몬",
+  "zh-hant": "水果寶可夢",
+  "fr": "Pokémon Fruit",
+  "de": "Obst-Pokémon",
+  "es": "Pokémon Fruto",
+  "it": "Pokémon Frutto",
+  "en": "Fruit Pokémon",
+  "ja": "フルーツポケモン",
+  "zh-hans": "水果宝可梦",
+  "es-419": "Pokémon Fruto"
+ },
+ "flavor": {
+  "ko": "습격당할 때 흘리는 땀은 달콤하고 맛있다. 그 향기가 적을 더 늘리고 만다.",
+  "en": "When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it."
+ },
+ "varieties": [
+  {
+   "name": "bounsweet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "392"
+}

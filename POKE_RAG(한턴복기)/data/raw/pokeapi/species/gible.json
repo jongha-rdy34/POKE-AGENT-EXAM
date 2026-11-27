@@ -1,0 +1,42 @@
+{
+ "id": 443,
+ "name": "gible",
+ "names": {
+  "ja-hrkt": "フカマル",
+  "ja-roma": "Fukamaru",
+  "ko": "딥상어동",
+  "zh-hant": "圓陸鯊",
+  "fr": "Griknot",
+  "de": "Kaumalat",
+  "es": "Gible",
+  "it": "Gible",
+  "en": "Gible",
+  "ja": "フカマル",
+  "zh-hans": "圆陆鲨",
+  "es-419": "Gible"
+ },
+ "genus": {
+  "ja-hrkt": "りくザメポケモン",
+  "ko": "육지상어포켓몬",
+  "zh-hant": "陸鯊寶可夢",
+  "fr": "Pokémon Terrequin",
+  "de": "Landhai-Pokémon",
+  "es": "Pokémon Terrascualo",
+  "it": "Pokémon Squaloterra",
+  "en": "Land Shark Pokémon",
+  "ja": "りくザメポケモン",
+  "zh-hans": "陆鲨宝可梦",
+  "es-419": "Pokémon Terrascualo"
+ },
+ "flavor": {
+  "en": "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days.",
+  "ko": "움직이는 것은 무조건 공격해서 보금자리 굴로 데려간다. 입은 크지만 위는 작은 편이다."
+ },
+ "varieties": [
+  {
+   "name": "gible",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "230"
+}

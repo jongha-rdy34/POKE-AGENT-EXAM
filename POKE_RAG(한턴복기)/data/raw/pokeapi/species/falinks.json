@@ -1,0 +1,46 @@
+{
+ "id": 870,
+ "name": "falinks",
+ "names": {
+  "ja-hrkt": "タイレーツ",
+  "ja-roma": "Tairetsu",
+  "ko": "대여르",
+  "zh-hant": "列陣兵",
+  "fr": "Hexadron",
+  "de": "Legios",
+  "es": "Falinks",
+  "it": "Falinks",
+  "en": "Falinks",
+  "ja": "タイレーツ",
+  "zh-hans": "列阵兵",
+  "es-419": "Falinks"
+ },
+ "genus": {
+  "ja-hrkt": "じんけいポケモン",
+  "ko": "진형포켓몬",
+  "zh-hant": "陣形寶可夢",
+  "fr": "Pokémon Escadron",
+  "de": "Formations-Pokémon",
+  "es": "Pokémon Formación",
+  "it": "Pokémon Schieramento",
+  "en": "Formation Pokémon",
+  "ja": "じんけいポケモン",
+  "zh-hans": "阵形宝可梦",
+  "es-419": "Pokémon Formación"
+ },
+ "flavor": {
+  "ko": "6마리가 1마리의 포켓몬이다. 대열을 바꿔가며 팀워크로 싸운다.",
+  "en": "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight."
+ },
+ "varieties": [
+  {
+   "name": "falinks",
+   "is_default": true
+  },
+  {
+   "name": "falinks-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "453"
+}

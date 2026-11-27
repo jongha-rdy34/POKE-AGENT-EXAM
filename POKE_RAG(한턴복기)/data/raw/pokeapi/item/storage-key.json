@@ -1,0 +1,28 @@
+{
+ "name": "storage-key",
+ "names": {
+  "ja-hrkt": "そうこのカギ",
+  "ko": "창고열쇠",
+  "zh-hant": "倉庫鑰匙",
+  "fr": "Clé Stockage",
+  "de": "Lagerschlüssel",
+  "es": "Llave Almacén",
+  "it": "Depochiave",
+  "en": "Storage Key",
+  "ja": "そうこのカギ",
+  "zh-hans": "仓库钥匙",
+  "es-419": "Llave Almacén"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder au Hangar Galaxie à Voilaroc.",
+  "en": "Grants access to the Team Galactic warehouse in Veilstone City."
+ },
+ "flavor": {
+  "en": "The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City.",
+  "ko": "장막시티 변두리에 있는 갤럭시단의 수상한 창고에 들어가기 위한 열쇠다.",
+  "ja": "トバリシティの はずれにある ギンガ団の 怪しい 倉庫に はいるための カギ。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "torch-song",
+ "names": {
+  "ja-hrkt": "フレアソング",
+  "ko": "플레어송",
+  "zh-hant": "閃焰高歌",
+  "fr": "Chant Flamboyant",
+  "de": "Loderlied",
+  "es": "Canto Ardiente",
+  "it": "Canzone Ardente",
+  "en": "Torch Song",
+  "ja": "フレアソング",
+  "zh-hans": "闪焰高歌",
+  "es-419": "Canto Ígneo"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat."
+ }
+}

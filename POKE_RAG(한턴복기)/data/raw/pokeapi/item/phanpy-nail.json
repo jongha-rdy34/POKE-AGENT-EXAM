@@ -1,0 +1,20 @@
+{
+ "name": "phanpy-nail",
+ "names": {
+  "ja-hrkt": "ゴマゾウのツメ",
+  "ko": "코코리의발톱",
+  "zh-hant": "小小象的爪子",
+  "fr": "Ongle de Phanpy",
+  "de": "Phanpy-Kralle",
+  "es": "Uña de Phanpy",
+  "it": "Unghia di Phanpy",
+  "en": "Phanpy Nail",
+  "ja": "ゴマゾウのツメ",
+  "zh-hans": "小小象的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

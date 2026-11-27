@@ -1,0 +1,28 @@
+{
+ "name": "resist-wing",
+ "names": {
+  "ja-hrkt": "ていこうのハネ",
+  "ko": "저항력깃털",
+  "zh-hant": "抵抗之羽",
+  "fr": "Plume Armure",
+  "de": "Abwehrfeder",
+  "es": "Pluma Aguante",
+  "it": "Piumtutela",
+  "en": "Resist Feather",
+  "ja": "ていこうのハネ",
+  "zh-hans": "抵抗之羽",
+  "es-419": "Pluma Aguante"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les EV de Défense de 1.",
+  "en": "Increases Defense effort by 1."
+ },
+ "flavor": {
+  "en": "An item for use on a Pokémon. It slightly increases the Defense base points of a single Pokémon.",
+  "ko": "포켓몬에게 사용하는 도구. 포켓몬 1마리의 방어 기초 포인트를 조금 올린다.",
+  "ja": "ポケモンに 使う 道具。 ポケモン １匹の 防御の 基礎ポイントを ちょっと あげる。"
+ }
+}

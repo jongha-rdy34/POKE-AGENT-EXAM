@@ -1,0 +1,23 @@
+{
+ "name": "punk-rock",
+ "names": {
+  "ja-hrkt": "パンクロック",
+  "ko": "펑크록",
+  "zh-hant": "龐克搖滾",
+  "fr": "Punk Rock",
+  "de": "Punk Rock",
+  "es": "Punk Rock",
+  "it": "Punk Rock",
+  "en": "Punk Rock",
+  "ja": "パンクロック",
+  "zh-hans": "庞克摇滚",
+  "es-419": "Punk Rock"
+ },
+ "effect": {
+  "en": "Boosts sound-based moves and halves damage from the same moves."
+ },
+ "flavor": {
+  "ko": "소리 기술의 위력이 올라간다. 상대로부터 받는 소리 기술의 데미지는 절반이 된다.",
+  "en": "Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves."
+ }
+}

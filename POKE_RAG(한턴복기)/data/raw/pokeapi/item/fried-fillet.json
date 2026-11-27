@@ -1,0 +1,20 @@
+{
+ "name": "fried-fillet",
+ "names": {
+  "ja-hrkt": "きりみフライ",
+  "ko": "튀긴토막",
+  "zh-hant": "炸魚片",
+  "fr": "Filet Frit",
+  "de": "Frittierfilet",
+  "es": "Filete Frito",
+  "it": "Filetto impanato",
+  "en": "Fried Fillet",
+  "ja": "きりみフライ",
+  "zh-hans": "炸鱼片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

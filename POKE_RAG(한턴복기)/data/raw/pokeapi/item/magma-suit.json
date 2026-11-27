@@ -1,0 +1,28 @@
+{
+ "name": "magma-suit",
+ "names": {
+  "ja-hrkt": "マグマスーツ",
+  "ko": "마그마슈트",
+  "zh-hant": "熔岩裝",
+  "fr": "Scaph. Magma",
+  "de": "Magma-Anzug",
+  "es": "Traje Magma",
+  "it": "Tuta Magma",
+  "en": "Magma Suit",
+  "ja": "マグマスーツ",
+  "zh-hans": "熔岩装",
+  "es-419": "Traje Magma"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de chevaucher Groudon dans la Grotte Origine.",
+  "en": "Allows the player to ride Groudon in the Cave of Origin."
+ },
+ "flavor": {
+  "ko": "마그마단이 과학기술을 결집하여 만든 슈트다. 어떠한 충격에도 견딜 수 있다.",
+  "en": "A suit made with the collective technological know-how of Team Magma. It can withstand any impact.",
+  "ja": "マグマ団の 科学技術を 結集して つくられた スーツ。 どんな 衝撃にも 耐えられる。"
+ }
+}

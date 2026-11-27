@@ -1,0 +1,22 @@
+{
+ "name": "devon-goods",
+ "names": {
+  "ja-hrkt": "デボンのにもつ",
+  "fr": "Pack Devon",
+  "de": "Devon-Waren",
+  "es": "Piezas Devon",
+  "it": "Merce Devon",
+  "en": "Devon Goods",
+  "es-419": "Piezas Devon"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Contient les pièces mécaniques à livrer au Capitaine Poupe.",
+  "en": "Contains mechanical parts to be delivered to Captain Stern."
+ },
+ "flavor": {
+  "en": "A package that contains mechanical parts of some sort made by the DEVON CORPORATION."
+ }
+}

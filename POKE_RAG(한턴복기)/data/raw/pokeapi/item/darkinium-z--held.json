@@ -1,0 +1,28 @@
+{
+ "name": "darkinium-z--held",
+ "names": {
+  "ja-hrkt": "アクＺ",
+  "ko": "악Z",
+  "zh-hant": "惡Ｚ",
+  "fr": "Ténébrozélite",
+  "de": "Noctium Z",
+  "es": "Nictostal Z",
+  "it": "Obscurium Z",
+  "en": "Darkinium Z",
+  "ja": "アクＺ",
+  "zh-hans": "恶Ｚ",
+  "es-419": "Nictostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Ténèbres.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 악타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Dark-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 あくタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

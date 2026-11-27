@@ -1,0 +1,25 @@
+{
+ "name": "large-leek",
+ "names": {
+  "ja-hrkt": "ふといながねぎ",
+  "ko": "굵은대파",
+  "zh-hant": "粗枝大蔥",
+  "fr": "Gros Poireau",
+  "de": "Dicker Lauch",
+  "es": "Puerro Grueso",
+  "it": "Grosso porro",
+  "en": "Large Leek",
+  "ja": "ふといながねぎ",
+  "zh-hans": "粗枝大葱",
+  "es-419": "Puerro Grueso"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 포켓몬 파오리가 좋아하는 식물의 줄기인지는 불명이다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. Whether this is the kind of vegetable stalk that Farfetch’d like is unknown.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ポケモン カモネギが 好む 植物の クキなのかは 謎。"
+ }
+}

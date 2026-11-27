@@ -1,0 +1,31 @@
+{
+ "id": 10196,
+ "name": "charizard-gmax",
+ "species": "charizard",
+ "is_default": false,
+ "types": [
+  "fire",
+  "flying"
+ ],
+ "stats": {
+  "hp": 78,
+  "attack": 84,
+  "defense": 78,
+  "special-attack": 109,
+  "special-defense": 85,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "blaze",
+   "hidden": false
+  },
+  {
+   "name": "solar-power",
+   "hidden": true
+  }
+ ],
+ "height": 280,
+ "weight": 10000,
+ "champions_moves": []
+}

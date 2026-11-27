@@ -1,0 +1,42 @@
+{
+ "id": 547,
+ "name": "whimsicott",
+ "names": {
+  "ja-hrkt": "エルフーン",
+  "ja-roma": "Elfuun",
+  "ko": "엘풍",
+  "zh-hant": "風妖精",
+  "fr": "Farfaduvet",
+  "de": "Elfun",
+  "es": "Whimsicott",
+  "it": "Whimsicott",
+  "en": "Whimsicott",
+  "ja": "エルフーン",
+  "zh-hans": "风妖精",
+  "es-419": "Whimsicott"
+ },
+ "genus": {
+  "ja-hrkt": "かぜかくれポケモン",
+  "ko": "바람숨기포켓몬",
+  "zh-hant": "風隱寶可夢",
+  "fr": "Pokémon Vole Vent",
+  "de": "Windschatten-Pokémon",
+  "es": "Pokémon Vuelalviento",
+  "it": "Pokémon Spiffero",
+  "en": "Windveiled Pokémon",
+  "ja": "かぜかくれポケモン",
+  "zh-hans": "风隐宝可梦",
+  "es-419": "Pokémon Vuelalviento"
+ },
+ "flavor": {
+  "en": "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it.",
+  "ko": "햇빛을 받을수록 솜이 부풀어 오른다. 너무 부풀면 찢어져 주위로 흩어진다."
+ },
+ "varieties": [
+  {
+   "name": "whimsicott",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "278"
+}

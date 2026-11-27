@@ -1,0 +1,31 @@
+{
+ "name": "horn-drill",
+ "names": {
+  "ja-hrkt": "つのドリル",
+  "ko": "뿔드릴",
+  "zh-hant": "角鑽",
+  "fr": "Empal’Korne",
+  "de": "Hornbohrer",
+  "es": "Perforador",
+  "it": "Perforcorno",
+  "en": "Horn Drill",
+  "ja": "つのドリル",
+  "zh-hans": "角钻",
+  "es-419": "Cuerno Taladro"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": null,
+ "accuracy": 30,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Causes a one-hit KO."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.",
+  "ko": "회전하는 뿔을 상대에게 꿰찔러서 공격한다. 맞으면 일격에 기절한다."
+ }
+}

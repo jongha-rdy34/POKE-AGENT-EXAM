@@ -1,0 +1,20 @@
+{
+ "name": "diamond-bottle",
+ "names": {
+  "ja-hrkt": "ダイヤボトル",
+  "ko": "다이아 보틀",
+  "zh-hant": "菱紋水壺",
+  "fr": "Gourde à Losanges",
+  "de": "Rauten-Flasche",
+  "es": "Termo Rombos",
+  "it": "Borraccia a rombi",
+  "en": "Diamond Bottle",
+  "ja": "ダイヤボトル",
+  "zh-hans": "菱纹水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

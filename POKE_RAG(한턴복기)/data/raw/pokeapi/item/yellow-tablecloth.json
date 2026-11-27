@@ -1,0 +1,20 @@
+{
+ "name": "yellow-tablecloth",
+ "names": {
+  "ja-hrkt": "イエロークロス",
+  "ko": "옐로 테이블보",
+  "zh-hant": "黃色桌巾",
+  "fr": "Nappe Jaune",
+  "de": "Gelbes Tischtuch",
+  "es": "Mantel Amarillo",
+  "it": "Tovaglia gialla",
+  "en": "Yellow Tablecloth",
+  "ja": "イエロークロス",
+  "zh-hans": "黄色桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

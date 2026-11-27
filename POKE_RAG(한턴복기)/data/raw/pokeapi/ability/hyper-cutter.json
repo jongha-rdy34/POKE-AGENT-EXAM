@@ -1,0 +1,23 @@
+{
+ "name": "hyper-cutter",
+ "names": {
+  "ja-hrkt": "かいりきバサミ",
+  "ko": "괴력집게",
+  "zh-hant": "怪力鉗",
+  "fr": "Hyper Cutter",
+  "de": "Scherenmacht",
+  "es": "Corte Fuerte",
+  "it": "Ipertaglio",
+  "en": "Hyper Cutter",
+  "ja": "かいりきバサミ",
+  "zh-hans": "怪力钳",
+  "es-419": "Corte Fuerte"
+ },
+ "effect": {
+  "en": "Prevents Attack from being lowered by other Pokémon."
+ },
+ "flavor": {
+  "en": "The Pokémon's prized, mighty pincers prevent other Pokémon from lowering its Attack stat.",
+  "ko": "힘이 자랑인 집게를 가지고 있어 상대가 공격을 떨어뜨리지 못한다."
+ }
+}

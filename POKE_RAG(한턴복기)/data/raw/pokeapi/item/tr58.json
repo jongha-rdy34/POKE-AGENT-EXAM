@@ -1,0 +1,25 @@
+{
+ "name": "tr58",
+ "names": {
+  "ja-hrkt": "わざレコード５８",
+  "ko": "기술레코드58",
+  "zh-hant": "招式紀錄５８",
+  "fr": "DT58",
+  "de": "TP58",
+  "es": "DT58",
+  "it": "DT58",
+  "en": "TR58",
+  "ja": "わざレコード５８",
+  "zh-hans": "招式记录５８",
+  "es-419": "DT58"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸에서 악의로 가득한 무서운 오라를 발한다. 상대를 풀죽게 만들 때가 있다.",
+  "en": "The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.",
+  "ja": "体から 悪意に みちた 恐ろしい オーラを 発する。 相手を ひるませることが ある。"
+ }
+}

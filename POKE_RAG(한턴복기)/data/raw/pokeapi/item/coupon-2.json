@@ -1,0 +1,28 @@
+{
+ "name": "coupon-2",
+ "names": {
+  "ja-hrkt": "ひきかえけん２",
+  "ko": "교환권2",
+  "zh-hant": "兌換券２",
+  "fr": "Bon 2",
+  "de": "Coupon 2",
+  "es": "Cupón 2",
+  "it": "Coupon 2",
+  "en": "Coupon 2",
+  "ja": "ひきかえけん２",
+  "zh-hans": "兑换券２",
+  "es-419": "Cupón 2"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Le second des trois bons utilisés pour obtenir la Pokémontre.",
+  "en": "The second of three tickets used to obtain a Pokétch."
+ },
+ "flavor": {
+  "en": "A coupon to be exchanged for a Pokémon Watch— Pokétch for short. Three coupons are needed.",
+  "ko": "포켓몬워치, 줄여서 포켓치를 받는 데 필요한 교환권. 3장이 필요하다.",
+  "ja": "ポケモンウォッチ ちぢめて ポケッチを もらうために 必要な ひきかえけん。 ３枚必要。"
+ }
+}

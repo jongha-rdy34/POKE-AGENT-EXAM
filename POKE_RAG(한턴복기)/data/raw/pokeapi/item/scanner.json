@@ -1,0 +1,28 @@
+{
+ "name": "scanner",
+ "names": {
+  "ja-hrkt": "たんちき",
+  "ko": "탐지기",
+  "zh-hant": "探測器",
+  "fr": "Scanner",
+  "de": "Scanner",
+  "es": "Escáner",
+  "it": "Scanner",
+  "en": "Scanner",
+  "ja": "たんちき",
+  "zh-hans": "探测器",
+  "es-419": "Escáner"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger au Capitaine Poupe pour une Dent Océan ou une Écaille Océan. ",
+  "en": "Trade to Captain Stern for a DeepSeaTooth or DeepSeaScale."
+ },
+ "flavor": {
+  "en": "A device found inside Sea Mauville.",
+  "ko": "씨보라 안에서 발견한 도구.",
+  "ja": "シーキンセツの 中で みつけた 道具。"
+ }
+}

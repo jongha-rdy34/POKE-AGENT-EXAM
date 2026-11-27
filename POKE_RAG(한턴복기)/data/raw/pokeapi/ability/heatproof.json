@@ -1,0 +1,23 @@
+{
+ "name": "heatproof",
+ "names": {
+  "ja-hrkt": "たいねつ",
+  "ko": "내열",
+  "zh-hant": "耐熱",
+  "fr": "Ignifugé",
+  "de": "Hitzeschutz",
+  "es": "Ignífugo",
+  "it": "Antifuoco",
+  "en": "Heatproof",
+  "ja": "たいねつ",
+  "zh-hans": "耐热",
+  "es-419": "Ignífugo"
+ },
+ "effect": {
+  "en": "Halves damage from Fire moves and burns."
+ },
+ "flavor": {
+  "en": "The Pokémon's heatproof body halves the damage taken from Fire-type moves.",
+  "ko": "내열인 몸으로 인해 불꽃타입 공격의 데미지를 반감한다."
+ }
+}

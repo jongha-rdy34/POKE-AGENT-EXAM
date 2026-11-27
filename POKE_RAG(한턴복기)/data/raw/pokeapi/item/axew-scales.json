@@ -1,0 +1,20 @@
+{
+ "name": "axew-scales",
+ "names": {
+  "ja-hrkt": "キバゴのウロコ",
+  "ko": "터검니의비늘",
+  "zh-hant": "牙牙的鱗片",
+  "fr": "Écaille de Coupenotte",
+  "de": "Milza-Schuppe",
+  "es": "Escama de Axew",
+  "it": "Squama di Axew",
+  "en": "Axew Scales",
+  "ja": "キバゴのウロコ",
+  "zh-hans": "牙牙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

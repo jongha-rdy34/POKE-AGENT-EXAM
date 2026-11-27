@@ -1,0 +1,20 @@
+{
+ "name": "hoppip-leaf",
+ "names": {
+  "ja-hrkt": "ハネッコのはっぱ",
+  "ko": "통통코의잎",
+  "zh-hant": "毽子草的葉片",
+  "fr": "Feuille de Granivol",
+  "de": "Hoppspross-Blatt",
+  "es": "Hoja de Hoppip",
+  "it": "Foglia di Hoppip",
+  "en": "Hoppip Leaf",
+  "ja": "ハネッコのはっぱ",
+  "zh-hans": "毽子草的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

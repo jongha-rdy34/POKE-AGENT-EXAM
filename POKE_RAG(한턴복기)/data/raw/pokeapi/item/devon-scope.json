@@ -1,0 +1,28 @@
+{
+ "name": "devon-scope",
+ "names": {
+  "ja-hrkt": "デボンスコープ",
+  "ko": "데봉스코프",
+  "zh-hant": "得文偵測鏡",
+  "fr": "Devon Scope",
+  "de": "Devon-Scope",
+  "es": "Detector Devon",
+  "it": "Devonscopio",
+  "en": "Devon Scope",
+  "ja": "デボンスコープ",
+  "zh-hans": "得文侦测镜",
+  "es-419": "Detector Devon"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet de détecter les Kecleon invisibles.",
+  "en": "Allows spotting of invisible Kecleon."
+ },
+ "flavor": {
+  "en": "A special device made by Devon Corporation that signals the presence of any unseen Pokémon.",
+  "ko": "보이지 않는 포켓몬에 반응하여 소리를 내는 데봉의 특제품.",
+  "ja": "見えない ポケモンに 反応して 音をだす デボンの 特製品。"
+ }
+}

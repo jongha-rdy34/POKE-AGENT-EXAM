@@ -1,0 +1,28 @@
+{
+ "name": "dire-claw",
+ "names": {
+  "ja-hrkt": "フェイタルクロー",
+  "ko": "페이탈클로",
+  "zh-hant": "剋命爪",
+  "fr": "Griffes Funestes",
+  "de": "Unheilsklauen",
+  "es": "Garra Nociva",
+  "it": "Artigli Fatali",
+  "en": "Dire Claw",
+  "ja": "フェイタルクロー",
+  "zh-hans": "克命爪",
+  "es-419": "Garra Nociva"
+ },
+ "type": "poison",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lashes out at the target with ruinous claws. This may also leave the target poisoned, paralyzed, or asleep."
+ }
+}

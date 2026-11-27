@@ -1,0 +1,20 @@
+{
+ "name": "grimer-toxin",
+ "names": {
+  "ja-hrkt": "ベトベターのどくそ",
+  "ko": "질퍽이의독소",
+  "zh-hant": "臭泥的毒素",
+  "fr": "Poison de Tadmorv",
+  "de": "Sleima-Toxin",
+  "es": "Toxinas de Grimer",
+  "it": "Tossine di Grimer",
+  "en": "Grimer Toxin",
+  "ja": "ベトベターのどくそ",
+  "zh-hans": "臭泥的毒素"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

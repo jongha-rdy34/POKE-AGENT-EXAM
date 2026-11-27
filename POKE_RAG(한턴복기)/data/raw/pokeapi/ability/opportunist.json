@@ -1,0 +1,22 @@
+{
+ "name": "opportunist",
+ "names": {
+  "ja-hrkt": "びんじょう",
+  "ko": "편승",
+  "zh-hant": "跟風",
+  "fr": "Opportuniste",
+  "de": "Profiteur",
+  "es": "Oportunista",
+  "it": "Scrocco",
+  "en": "Opportunist",
+  "ja": "びんじょう",
+  "zh-hans": "跟风",
+  "es-419": "Oportunista"
+ },
+ "effect": {
+  "en": "Copies stat boosts by the opponent."
+ },
+ "flavor": {
+  "en": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself."
+ }
+}

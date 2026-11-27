@@ -1,0 +1,31 @@
+{
+ "name": "wish",
+ "names": {
+  "ja-hrkt": "ねがいごと",
+  "ko": "희망사항",
+  "zh-hant": "祈願",
+  "fr": "Vœu",
+  "de": "Wunschtraum",
+  "es": "Deseo",
+  "it": "Desiderio",
+  "en": "Wish",
+  "ja": "ねがいごと",
+  "zh-hans": "祈愿",
+  "es-419": "Deseo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User will recover half its max HP at the end of the next turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP.",
+  "ko": "다음 턴에 자신 또는 교체한 포켓몬의 HP를 최대 HP의 절반만큼 회복한다."
+ }
+}

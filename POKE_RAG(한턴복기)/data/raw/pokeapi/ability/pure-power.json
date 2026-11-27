@@ -1,0 +1,23 @@
+{
+ "name": "pure-power",
+ "names": {
+  "ja-hrkt": "ヨガパワー",
+  "ko": "순수한힘",
+  "zh-hant": "瑜伽之力",
+  "fr": "Force Pure",
+  "de": "Mentalkraft",
+  "es": "Energía Pura",
+  "it": "Forzapura",
+  "en": "Pure Power",
+  "ja": "ヨガパワー",
+  "zh-hans": "瑜伽之力",
+  "es-419": "Energía Pura"
+ },
+ "effect": {
+  "en": "Doubles Attack in battle."
+ },
+ "flavor": {
+  "en": "Using its pure power, the Pokémon doubles its Attack stat.",
+  "ko": "요가의 힘으로 물리공격의 위력이 2배가 된다."
+ }
+}

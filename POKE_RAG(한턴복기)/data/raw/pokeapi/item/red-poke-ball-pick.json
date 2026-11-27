@@ -1,0 +1,20 @@
+{
+ "name": "red-poke-ball-pick",
+ "names": {
+  "ja-hrkt": "あかボールピック",
+  "ko": "빨강 볼 픽",
+  "zh-hant": "紅珠珠三明治籤",
+  "fr": "Pique à Ball Rouge",
+  "de": "Rotball-Pikser",
+  "es": "Palillo Ball Roja",
+  "it": "Stecchino Ball rosso",
+  "en": "Red Poké Ball Pick",
+  "ja": "あかボールピック",
+  "zh-hans": "红珠珠三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

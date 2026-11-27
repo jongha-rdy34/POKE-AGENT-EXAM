@@ -1,0 +1,25 @@
+{
+ "name": "tr42",
+ "names": {
+  "ja-hrkt": "わざレコード４２",
+  "ko": "기술레코드42",
+  "zh-hant": "招式紀錄４２",
+  "fr": "DT42",
+  "de": "TP42",
+  "es": "DT42",
+  "it": "DT42",
+  "en": "TR42",
+  "ja": "わざレコード４２",
+  "zh-hans": "招式记录４２",
+  "es-419": "DT42"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "시끄럽게 울리는 큰 진동을 상대에게 전달하여 공격한다.",
+  "en": "The user lets loose a horribly echoing shout with the power to inflict damage.",
+  "ja": "うるさく 響く 大きな 振動を 相手に 与えて 攻撃する。"
+ }
+}

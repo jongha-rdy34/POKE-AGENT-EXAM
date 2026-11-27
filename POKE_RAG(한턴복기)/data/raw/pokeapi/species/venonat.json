@@ -1,0 +1,42 @@
+{
+ "id": 48,
+ "name": "venonat",
+ "names": {
+  "ja-hrkt": "コンパン",
+  "ja-roma": "Kongpang",
+  "ko": "콘팡",
+  "zh-hant": "毛球",
+  "fr": "Mimitoss",
+  "de": "Bluzuk",
+  "es": "Venonat",
+  "it": "Venonat",
+  "en": "Venonat",
+  "ja": "コンパン",
+  "zh-hans": "毛球",
+  "es-419": "Venonat"
+ },
+ "genus": {
+  "ja-hrkt": "こんちゅうポケモン",
+  "ko": "곤충포켓몬",
+  "zh-hant": "昆蟲寶可夢",
+  "fr": "Pokémon Vermine",
+  "de": "Insekt",
+  "es": "Pokémon Insecto",
+  "it": "Pokémon Insetto",
+  "en": "Insect Pokémon",
+  "ja": "こんちゅうポケモン",
+  "zh-hans": "昆虫宝可梦",
+  "es-419": "Pokémon Insecto"
+ },
+ "flavor": {
+  "en": "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",
+  "ko": "레이더 역할을 하는 큰 눈은 밝은 곳에서 보면 작은 눈이 모여서 이루어진 것임을 알 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "venonat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "20"
+}

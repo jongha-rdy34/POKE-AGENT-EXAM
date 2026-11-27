@@ -1,0 +1,23 @@
+{
+ "name": "fluffy",
+ "names": {
+  "ja-hrkt": "もふもふ",
+  "ko": "복슬복슬",
+  "zh-hant": "毛茸茸",
+  "fr": "Boule de Poils",
+  "de": "Flauschigkeit",
+  "es": "Peluche",
+  "it": "Morbidone",
+  "en": "Fluffy",
+  "ja": "もふもふ",
+  "zh-hans": "毛茸茸",
+  "es-419": "Peluche"
+ },
+ "effect": {
+  "en": "Damage from contact moves is halved.  Damage from Fire moves is doubled."
+ },
+ "flavor": {
+  "ko": "상대로부터 받은 접촉하는 기술의 데미지를 반감시키지만 불꽃타입 기술의 데미지는 2배가 된다.",
+  "en": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 468,
+ "name": "togekiss",
+ "names": {
+  "ja-hrkt": "トゲキッス",
+  "ja-roma": "Togekiss",
+  "ko": "토게키스",
+  "zh-hant": "波克基斯",
+  "fr": "Togekiss",
+  "de": "Togekiss",
+  "es": "Togekiss",
+  "it": "Togekiss",
+  "en": "Togekiss",
+  "ja": "トゲキッス",
+  "zh-hans": "波克基斯",
+  "es-419": "Togekiss"
+ },
+ "genus": {
+  "ja-hrkt": "しゅくふくポケモン",
+  "ko": "축복포켓몬",
+  "zh-hant": "祝福寶可夢",
+  "fr": "Pokémon Célébration",
+  "de": "Jubilierer-Pokémon",
+  "es": "Pokémon Festejo",
+  "it": "Pokémon Festa",
+  "en": "Jubilee Pokémon",
+  "ja": "しゅくふくポケモン",
+  "zh-hans": "祝福宝可梦",
+  "es-419": "Pokémon Festejo"
+ },
+ "flavor": {
+  "en": "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land.",
+  "ko": "은총을 베푸는 존재로 전해지고 있으며 먼 옛날부터 길조로 묘사되어 왔다."
+ },
+ "varieties": [
+  {
+   "name": "togekiss",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "87"
+}

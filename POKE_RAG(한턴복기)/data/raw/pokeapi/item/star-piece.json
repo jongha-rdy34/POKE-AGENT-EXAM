@@ -1,0 +1,30 @@
+{
+ "name": "star-piece",
+ "names": {
+  "ja-hrkt": "ほしのかけら",
+  "ko": "별의조각",
+  "zh-hant": "星星碎片",
+  "fr": "Morceau d’Étoile",
+  "de": "Sternenstück",
+  "es": "Trozo Estrella",
+  "it": "Pezzo Stella",
+  "en": "Star Piece",
+  "ja": "ほしのかけら",
+  "zh-hans": "星星碎片",
+  "es-419": "Trozo Estrella"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Platine : Échange un pour un Tesson de chaque couleur. Blanc et Noir : Échange contre des PP Plus. À vendre pour 4900 Pokédollars, ou au collectionneur d'objet pour 9800 Pokédollars.",
+  "en": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars."
+ },
+ "flavor": {
+  "en": "A small shard of a beautiful gem that gives off a distinctly red sparkle. It can be sold at a high price to shops.",
+  "ko": "반짝반짝 빨갛게 빛나는 예쁜 보석 조각. 상점에서 비싸게 팔린다.",
+  "ja": "キラキラと 赤く 光る きれいな 宝石の かけら。 ショップで 高く 売れる。"
+ }
+}

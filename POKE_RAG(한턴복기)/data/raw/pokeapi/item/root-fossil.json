@@ -1,0 +1,30 @@
+{
+ "name": "root-fossil",
+ "names": {
+  "ja-hrkt": "ねっこのカセキ",
+  "ko": "뿌리화석",
+  "zh-hant": "根狀化石",
+  "fr": "Fossile Racine",
+  "de": "Wurzelfossil",
+  "es": "Fósil Raíz",
+  "it": "Radifossile",
+  "en": "Root Fossil",
+  "ja": "ねっこのカセキ",
+  "zh-hans": "根状化石",
+  "es-419": "Fósil Raíz"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Lilia.",
+  "en": "Can be revived into a Lileep."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sea. It looks as if it could be part of a plant’s root.",
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬의 화석. 뿌리의 일부인 듯하다.",
+  "ja": "大昔 海に すんでいた 古代ポケモンの カセキ。 ねっこの 一部らしい。"
+ }
+}

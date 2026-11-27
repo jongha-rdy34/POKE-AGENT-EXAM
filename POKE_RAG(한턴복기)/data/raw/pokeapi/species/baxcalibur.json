@@ -1,0 +1,41 @@
+{
+ "id": 998,
+ "name": "baxcalibur",
+ "names": {
+  "ja-hrkt": "セグレイブ",
+  "ja-roma": "Seglaive",
+  "ko": "드닐레이브",
+  "zh-hant": "戟脊龍",
+  "fr": "Glaivodo",
+  "de": "Espinodon",
+  "es": "Baxcalibur",
+  "it": "Baxcalibur",
+  "en": "Baxcalibur",
+  "ja": "セグレイブ",
+  "zh-hans": "戟脊龙",
+  "es-419": "Baxcalibur"
+ },
+ "genus": {
+  "ja-hrkt": "ひょうりゅうポケモン",
+  "ko": "빙룡포켓몬",
+  "zh-hant": "冰龍寶可夢",
+  "fr": "Dragon Glace",
+  "de": "Eisdrache",
+  "en": "Ice Dragon Pokémon",
+  "zh-hans": "冰龙宝可梦"
+ },
+ "flavor": {
+  "en": "It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade."
+ },
+ "varieties": [
+  {
+   "name": "baxcalibur",
+   "is_default": true
+  },
+  {
+   "name": "baxcalibur-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "527"
+}

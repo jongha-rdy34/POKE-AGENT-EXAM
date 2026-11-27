@@ -1,0 +1,31 @@
+{
+ "name": "role-play",
+ "names": {
+  "ja-hrkt": "なりきり",
+  "ko": "역할",
+  "zh-hant": "扮演",
+  "fr": "Imitation",
+  "de": "Rollenspiel",
+  "es": "Imitación",
+  "it": "Giocodiruolo",
+  "en": "Role Play",
+  "ja": "なりきり",
+  "zh-hans": "扮演",
+  "es-419": "Imitación"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Copies the target’s ability."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user mimics the target completely, copying the target's Ability.",
+  "ko": "상대의 역할을 하여 자신도 상대와 같은 특성으로 변화한다."
+ }
+}

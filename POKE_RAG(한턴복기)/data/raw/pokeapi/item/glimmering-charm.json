@@ -1,0 +1,20 @@
+{
+ "name": "glimmering-charm",
+ "names": {
+  "ja-hrkt": "きらめくおまもり",
+  "ko": "반짝이는부적",
+  "zh-hant": "晶耀護符",
+  "fr": "Charme Éclatant",
+  "de": "Glitzerpin",
+  "es": "Amuleto Cristalino",
+  "it": "Brillamuleto",
+  "en": "Glimmering Charm",
+  "ja": "きらめくおまもり",
+  "zh-hans": "晶耀护符"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

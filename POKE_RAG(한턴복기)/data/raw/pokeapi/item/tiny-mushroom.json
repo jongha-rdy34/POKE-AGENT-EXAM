@@ -1,0 +1,28 @@
+{
+ "name": "tiny-mushroom",
+ "names": {
+  "ja-hrkt": "ちいさなキノコ",
+  "ko": "작은버섯",
+  "zh-hant": "小蘑菇",
+  "fr": "Petit Champi",
+  "de": "Minipilz",
+  "es": "Miniseta",
+  "it": "Minifungo",
+  "en": "Tiny Mushroom",
+  "ja": "ちいさなキノコ",
+  "zh-hans": "小蘑菇",
+  "es-419": "Miniseta"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Rouge Feu et Vert Feuille : Échange deux pour réapprendre des capacités apprises par montée de niveau. À vendre pour 250 Pokédollars, ou à une servante pour 500 Pokédollars",
+  "en": "Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars."
+ },
+ "flavor": {
+  "en": "A very small and rare mushroom. It’s popular with a certain class of collectors.",
+  "ko": "작고 진귀한 버섯. 일부 마니아 사이에서는 매우 인기가 높다.",
+  "ja": "ちいさな 珍しい キノコ。 一部の マニアの あいだでは けっこう 人気が 高い。"
+ }
+}

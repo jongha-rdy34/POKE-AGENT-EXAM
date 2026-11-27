@@ -1,0 +1,46 @@
+{
+ "id": 569,
+ "name": "garbodor",
+ "names": {
+  "ja-hrkt": "ダストダス",
+  "ja-roma": "Dustdas",
+  "ko": "더스트나",
+  "zh-hant": "灰塵山",
+  "fr": "Miasmax",
+  "de": "Deponitox",
+  "es": "Garbodor",
+  "it": "Garbodor",
+  "en": "Garbodor",
+  "ja": "ダストダス",
+  "zh-hans": "灰尘山",
+  "es-419": "Garbodor"
+ },
+ "genus": {
+  "ja-hrkt": "ゴミすてばポケモン",
+  "ko": "쓰레기장포켓몬",
+  "zh-hant": "垃圾場寶可夢",
+  "fr": "Pokémon Dépotoir",
+  "de": "Müllhalden-Pokémon",
+  "es": "Pokémon Vertedero",
+  "it": "Pokémon Discarica",
+  "en": "Trash Heap Pokémon",
+  "ja": "ゴミすてばポケモン",
+  "zh-hans": "垃圾场宝可梦",
+  "es-419": "Pokémon Vertedero"
+ },
+ "flavor": {
+  "en": "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.",
+  "ko": "오른팔에서 내보내는 독액은 약한 생물이 맞으면 즉사할 정도로 위험하다."
+ },
+ "varieties": [
+  {
+   "name": "garbodor",
+   "is_default": true
+  },
+  {
+   "name": "garbodor-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "290"
+}

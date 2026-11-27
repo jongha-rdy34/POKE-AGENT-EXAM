@@ -1,0 +1,30 @@
+{
+ "name": "rare-bone",
+ "names": {
+  "ja-hrkt": "きちょうなホネ",
+  "ko": "귀중한뼈",
+  "zh-hant": "貴重骨頭",
+  "fr": "Os Rare",
+  "de": "Steinknochen",
+  "es": "Hueso Raro",
+  "it": "Osso Raro",
+  "en": "Rare Bone",
+  "ja": "きちょうなホネ",
+  "zh-hans": "贵重骨头",
+  "es-419": "Hueso Raro"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "À vendre pour 5000 Pokédollars, ou à un collectionneur pour 10000 Pokédollars.",
+  "en": "Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A rare bone that is extremely valuable for the study of Pokémon archeology. It can be sold for a high price to shops.",
+  "ko": "포켓몬 고고학에 있어 매우 귀중한 뼈. 상점에서 비싸게 팔린다.",
+  "ja": "ポケモン考古学の うえで とても 貴重な ホネ。 ショップで 高く 売れる。"
+ }
+}

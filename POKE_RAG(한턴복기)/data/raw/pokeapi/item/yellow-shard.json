@@ -1,0 +1,30 @@
+{
+ "name": "yellow-shard",
+ "names": {
+  "ja-hrkt": "きいろいかけら",
+  "ko": "노랑조각",
+  "zh-hant": "黃色碎片",
+  "fr": "Tesson Jaune",
+  "de": "Gelbstück",
+  "es": "Parte Amarilla",
+  "it": "Coccio Giallo",
+  "en": "Yellow Shard",
+  "ja": "きいろいかけら",
+  "zh-hans": "黄色碎片",
+  "es-419": "Parte Amarilla"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Aucun effet. Peut être échangé pour des objets ou capacités.",
+  "en": "No effect. Can be traded for items or moves."
+ },
+ "flavor": {
+  "en": "A small yellow shard. It appears to be a fragment of some sort of implement made long ago.",
+  "ko": "노란 작은 조각. 옛날에 만들어진 어떤 도구의 일부인 듯하다.",
+  "ja": "黄色い 小さな かけら。 昔に つくられた なにかの 道具の 一部らしい。"
+ }
+}

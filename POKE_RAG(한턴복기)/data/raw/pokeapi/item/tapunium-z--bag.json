@@ -1,0 +1,28 @@
+{
+ "name": "tapunium-z--bag",
+ "names": {
+  "ja-hrkt": "カプＺ",
+  "ko": "카푸Z",
+  "zh-hant": "卡璞Ｚ",
+  "fr": "Tokozélite",
+  "de": "Kapium Z",
+  "es": "Tapistal Z",
+  "it": "Tapium Z",
+  "en": "Tapunium Z",
+  "ja": "カプＺ",
+  "zh-hans": "卡璞Ｚ",
+  "es-419": "Tapistal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour tapunium-z--bag",
+  "en": "XXX new effect for tapunium-z--bag"
+ },
+ "flavor": {
+  "ko": "카푸들의 자연의분노를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade the tapu’s Nature’s Madness to an exclusive Z-Move.",
+  "ja": "カプたちの しぜんのいかりを 特別な Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

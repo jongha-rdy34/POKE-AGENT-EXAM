@@ -1,0 +1,42 @@
+{
+ "id": 17,
+ "name": "pidgeotto",
+ "names": {
+  "ja-hrkt": "ピジョン",
+  "ja-roma": "Pigeon",
+  "ko": "피죤",
+  "zh-hant": "比比鳥",
+  "fr": "Roucoups",
+  "de": "Tauboga",
+  "es": "Pidgeotto",
+  "it": "Pidgeotto",
+  "en": "Pidgeotto",
+  "ja": "ピジョン",
+  "zh-hans": "比比鸟",
+  "es-419": "Pidgeotto"
+ },
+ "genus": {
+  "ja-hrkt": "とりポケモン",
+  "ko": "새포켓몬",
+  "zh-hant": "鳥寶可夢",
+  "fr": "Pokémon Oiseau",
+  "de": "Vogel",
+  "es": "Pokémon Pájaro",
+  "it": "Pokémon Uccello",
+  "en": "Bird Pokémon",
+  "ja": "とりポケモン",
+  "zh-hans": "鸟宝可梦",
+  "es-419": "Pokémon Pájaro"
+ },
+ "flavor": {
+  "en": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+  "ko": "어마어마한 체력의 소유자로 넓은 영역을 날아다니며 먼 곳까지 먹이를 찾으러 간다."
+ },
+ "varieties": [
+  {
+   "name": "pidgeotto",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "6"
+}

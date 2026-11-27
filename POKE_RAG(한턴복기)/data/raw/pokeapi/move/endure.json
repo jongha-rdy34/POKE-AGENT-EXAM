@@ -1,0 +1,31 @@
+{
+ "name": "endure",
+ "names": {
+  "ja-hrkt": "こらえる",
+  "ko": "버티기",
+  "zh-hant": "挺住",
+  "fr": "Ténacité",
+  "de": "Ausdauer",
+  "es": "Aguante",
+  "it": "Resistenza",
+  "en": "Endure",
+  "ja": "こらえる",
+  "zh-hans": "挺住",
+  "es-419": "Aguante"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 4,
+ "target": "user",
+ "effect": {
+  "en": "Prevents the user’s HP from lowering below 1 this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession.",
+  "ko": "공격을 받아도 HP를 반드시 1만큼은 남긴다. 연속으로 쓰면 실패하기 쉽다."
+ }
+}

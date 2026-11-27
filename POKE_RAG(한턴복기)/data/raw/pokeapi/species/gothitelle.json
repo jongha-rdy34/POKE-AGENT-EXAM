@@ -1,0 +1,42 @@
+{
+ "id": 576,
+ "name": "gothitelle",
+ "names": {
+  "ja-hrkt": "ゴチルゼル",
+  "ja-roma": "Gothiruselle",
+  "ko": "고디모아젤",
+  "zh-hant": "哥德小姐",
+  "fr": "Sidérella",
+  "de": "Morbitesse",
+  "es": "Gothitelle",
+  "it": "Gothitelle",
+  "en": "Gothitelle",
+  "ja": "ゴチルゼル",
+  "zh-hans": "哥德小姐",
+  "es-419": "Gothitelle"
+ },
+ "genus": {
+  "ja-hrkt": "てんたいポケモン",
+  "ko": "천체포켓몬",
+  "zh-hant": "天體寶可夢",
+  "fr": "Pokémon Cosmique",
+  "de": "Gestirns-Pokémon",
+  "es": "Pokémon Astro",
+  "it": "Pokémon Corpoceleste",
+  "en": "Astral Body Pokémon",
+  "ja": "てんたいポケモン",
+  "zh-hans": "天体宝可梦",
+  "es-419": "Pokémon Astro"
+ },
+ "flavor": {
+  "en": "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again.",
+  "ko": "고디모아젤을 통해 자신의 최후를 보게 된 악인은 그날을 마지막으로 종적을 감추었다."
+ },
+ "varieties": [
+  {
+   "name": "gothitelle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "293"
+}

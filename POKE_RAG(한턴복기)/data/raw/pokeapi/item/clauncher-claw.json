@@ -1,0 +1,20 @@
+{
+ "name": "clauncher-claw",
+ "names": {
+  "ja-hrkt": "ウデッポウのハサミ",
+  "ko": "완철포의집게",
+  "zh-hant": "鐵臂槍蝦的鉗子",
+  "fr": "Pince de Flingouste",
+  "de": "Scampisto-Schere",
+  "es": "Pinza de Clauncher",
+  "it": "Chela di Clauncher",
+  "en": "Clauncher Claw",
+  "ja": "ウデッポウのハサミ",
+  "zh-hans": "铁臂枪虾的钳子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

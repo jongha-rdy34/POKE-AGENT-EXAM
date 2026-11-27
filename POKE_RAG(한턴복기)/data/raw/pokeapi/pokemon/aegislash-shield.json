@@ -1,0 +1,73 @@
+{
+ "id": 681,
+ "name": "aegislash-shield",
+ "species": "aegislash",
+ "is_default": true,
+ "types": [
+  "steel",
+  "ghost"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 50,
+  "defense": 140,
+  "special-attack": 50,
+  "special-defense": 140,
+  "speed": 60
+ },
+ "abilities": [
+  {
+   "name": "stance-change",
+   "hidden": false
+  }
+ ],
+ "height": 17,
+ "weight": 530,
+ "champions_moves": [
+  "aerial-ace",
+  "air-slash",
+  "attract",
+  "block",
+  "brick-break",
+  "brutal-swing",
+  "close-combat",
+  "destiny-bond",
+  "double-hit",
+  "endure",
+  "facade",
+  "flash-cannon",
+  "giga-impact",
+  "gyro-ball",
+  "head-smash",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "kings-shield",
+  "metal-sound",
+  "night-slash",
+  "poltergeist",
+  "power-trick",
+  "protect",
+  "psycho-cut",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "round",
+  "sacred-sword",
+  "screech",
+  "shadow-ball",
+  "shadow-claw",
+  "shadow-sneak",
+  "sleep-talk",
+  "snore",
+  "solar-blade",
+  "steel-beam",
+  "substitute",
+  "sunny-day",
+  "swords-dance",
+  "wide-guard",
+  "zen-headbutt"
+ ]
+}

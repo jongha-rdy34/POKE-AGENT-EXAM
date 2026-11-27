@@ -1,0 +1,28 @@
+{
+ "name": "sablenite",
+ "names": {
+  "ja-hrkt": "ヤミラミナイト",
+  "ko": "깜까미나이트",
+  "zh-hant": "勾魂眼進化石",
+  "fr": "Ténéfixite",
+  "de": "Zobirisnit",
+  "es": "Sableynita",
+  "it": "Sableyite",
+  "en": "Sablenite",
+  "ja": "ヤミラミナイト",
+  "zh-hans": "勾魂眼进化石",
+  "es-419": "Sableynita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Ténéfix de Méga-Évoluer en Méga-Ténéfix.",
+  "en": "Held: Allows Sableye to Mega Evolve into Mega Sableye."
+ },
+ "flavor": {
+  "ko": "깜까미에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Sableye hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ヤミラミに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

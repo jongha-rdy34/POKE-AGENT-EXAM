@@ -1,0 +1,20 @@
+{
+ "name": "tm145",
+ "names": {
+  "ja-hrkt": "わざマシン１４５",
+  "ko": "기술머신145",
+  "zh-hant": "招式學習器１４５",
+  "fr": "CT145",
+  "de": "TM145",
+  "es": "MT145",
+  "it": "MT145",
+  "en": "TM145",
+  "ja": "わざマシン１４５",
+  "zh-hans": "招式学习器１４５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

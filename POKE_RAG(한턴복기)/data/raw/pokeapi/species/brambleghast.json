@@ -1,0 +1,37 @@
+{
+ "id": 947,
+ "name": "brambleghast",
+ "names": {
+  "ja-hrkt": "アノホラグサ",
+  "ja-roma": "Anohoragusa",
+  "ko": "공푸리",
+  "zh-hant": "怖納噬草",
+  "fr": "Virevorreur",
+  "de": "Horrerba",
+  "es": "Brambleghast",
+  "it": "Brambleghast",
+  "en": "Brambleghast",
+  "ja": "アノホラグサ",
+  "zh-hans": "怖纳噬草",
+  "es-419": "Brambleghast"
+ },
+ "genus": {
+  "ja-hrkt": "ころがりぐさポケモン",
+  "ko": "회전초포켓몬",
+  "zh-hant": "滾草寶可夢",
+  "fr": "Virevoltant",
+  "de": "Rollgras",
+  "en": "Tumbleweed Pokémon",
+  "zh-hans": "滚草宝可梦"
+ },
+ "flavor": {
+  "en": "Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town."
+ },
+ "varieties": [
+  {
+   "name": "brambleghast",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "495"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "rock-gem",
+ "names": {
+  "ja-hrkt": "いわのジュエル",
+  "ko": "바위주얼",
+  "zh-hant": "岩石寶石",
+  "fr": "Joyau Roche",
+  "de": "Gesteinsjuwel",
+  "es": "Gema Roca",
+  "it": "Bijouroccia",
+  "en": "Rock Gem",
+  "ja": "いわのジュエル",
+  "zh-hans": "岩石宝石",
+  "es-419": "Gema Roca"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Roche, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Rock-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of rock. When held, it strengthens the power of a Rock-type move one time.",
+  "ko": "바위타입의 주얼. 지니게 하면 한 번만 바위 기술의 위력이 강해진다.",
+  "ja": "いわの タイプの ジュエル。 持たせると １度だけ いわの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "polished-mud-ball",
+ "names": {
+  "ja-hrkt": "ピカピカだんご",
+  "ko": "반짝반짝경단",
+  "zh-hant": "光滑泥球",
+  "fr": "Boulette de Boue",
+  "de": "Glanzkugel",
+  "es": "Bola de Arcilla",
+  "it": "Pallina di fango",
+  "en": "Polished Mud Ball",
+  "ja": "ピカピカだんご",
+  "zh-hans": "光滑泥球",
+  "es-419": "Bola de Arcilla"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "시간을 들여 빚어낸 표면이 반질반질하게 빛나는 진흙으로 만든 경단.",
+  "en": "A ball made of mud. It had been polished for such a long time that the surface is very shiny.",
+  "ja": "時間を かけて 磨きあげた 表面が ツルツルに 光る 泥で できた 団子。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "sableye-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Ténéfix",
+  "de": "Mega-Zobiris",
+  "en": "Mega Sableye"
+ },
+ "form_names": {
+  "ja-hrkt": "メガヤミラミ",
+  "ko": "메가깜까미",
+  "zh-hant": "超級勾魂眼",
+  "fr": "Méga-Ténéfix",
+  "de": "Mega-Form",
+  "es": "Mega-Sableye",
+  "it": "MegaSableye",
+  "en": "Mega Sableye",
+  "ja": "メガヤミラミ",
+  "zh-hans": "超级勾魂眼",
+  "es-419": "Mega-Sableye"
+ },
+ "is_mega": true
+}

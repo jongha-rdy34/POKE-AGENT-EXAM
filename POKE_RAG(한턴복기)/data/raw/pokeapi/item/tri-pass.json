@@ -1,0 +1,22 @@
+{
+ "name": "tri-pass",
+ "names": {
+  "ja-hrkt": "トライパス",
+  "fr": "Tri-Passe",
+  "de": "Tri-Pass",
+  "es": "Tri-Ticket",
+  "it": "Tris Pass",
+  "en": "Tri-Pass",
+  "es-419": "Tri-Ticket"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder aux trois premières Îles Sevii.",
+  "en": "Grants access to the first three Sevii Islands."
+ },
+ "flavor": {
+  "en": "A pass for ferries between ONE, TWO, and THREE ISLAND. It has a drawing of three islands."
+ }
+}

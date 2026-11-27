@@ -1,0 +1,20 @@
+{
+ "name": "rookidee-feather",
+ "names": {
+  "ja-hrkt": "ココガラのはね",
+  "ko": "파라꼬의깃털",
+  "zh-hant": "稚山雀的羽毛",
+  "fr": "Plume de Minisange",
+  "de": "Meikro-Feder",
+  "es": "Pluma de Rookidee",
+  "it": "Penna di Rookidee",
+  "en": "Rookidee Feather",
+  "ja": "ココガラのはね",
+  "zh-hans": "稚山雀的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

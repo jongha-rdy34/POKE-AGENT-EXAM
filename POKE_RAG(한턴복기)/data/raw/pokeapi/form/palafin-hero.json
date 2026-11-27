@@ -1,0 +1,15 @@
+{
+ "name": "palafin-hero",
+ "form_name": "hero",
+ "names": {
+  "fr": "Superdofin Forme Super",
+  "en": "Hero Form Palafin"
+ },
+ "form_names": {
+  "ja-hrkt": "マイティフォルム",
+  "fr": "Forme Super",
+  "en": "Hero Form",
+  "ja": "マイティフォルム"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm204",
+ "names": {
+  "ko": "기술머신204",
+  "zh-hant": "招式學習器２０４",
+  "fr": "CT204",
+  "de": "TM204",
+  "es": "MT204",
+  "it": "MT204",
+  "en": "TM204",
+  "ja": "わざマシン２０４",
+  "zh-hans": "招式学习器２０４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

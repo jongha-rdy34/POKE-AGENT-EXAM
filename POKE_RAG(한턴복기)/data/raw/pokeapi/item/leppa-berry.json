@@ -1,0 +1,30 @@
+{
+ "name": "leppa-berry",
+ "names": {
+  "ja-hrkt": "ヒメリのみ",
+  "ko": "과사열매",
+  "zh-hant": "蘋野果",
+  "fr": "Baie Mepo",
+  "de": "Jonagobeere",
+  "es": "Baya Zanama",
+  "it": "Baccamela",
+  "en": "Leppa Berry",
+  "ja": "ヒメリのみ",
+  "zh-hans": "苹野果",
+  "es-419": "Baya Zanama"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé quand une capacité est à court de PP pour restaurer ses PP de 10.",
+  "en": "Held: Consumed when a move runs out of PP to restore its PP by 10."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore 10 PP to a depleted move during battle.",
+  "ko": "포켓몬에게 지니게 하면 PP를 10만큼 회복한다.",
+  "ja": "ポケモンに 持たせると ＰＰを １０だけ 回復する。"
+ }
+}

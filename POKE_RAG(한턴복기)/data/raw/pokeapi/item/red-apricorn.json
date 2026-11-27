@@ -1,0 +1,28 @@
+{
+ "name": "red-apricorn",
+ "names": {
+  "ja-hrkt": "あかぼんぐり",
+  "ko": "빨간규토리",
+  "zh-hant": "紅球果",
+  "fr": "Noigrume Rouge",
+  "de": "Aprikoko Rot",
+  "es": "Bonguri Rojo",
+  "it": "Ghicocca Rossa",
+  "en": "Red Apricorn",
+  "ja": "あかぼんぐり",
+  "zh-hans": "红球果",
+  "es-419": "Bonguri Rojo"
+ },
+ "category": "apricorn-box",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour fabriquer une Niveau Ball.",
+  "en": "Used to make a Level Ball."
+ },
+ "flavor": {
+  "en": "A red Apricorn. It assails your nostrils.",
+  "ko": "빨간색의 규토리. 코를 톡 쏘는 향기가 난다.",
+  "ja": "あかい ぼんぐり。 つーんと はなにくる においがする。"
+ }
+}

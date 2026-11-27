@@ -1,0 +1,42 @@
+{
+ "id": 684,
+ "name": "swirlix",
+ "names": {
+  "ja-hrkt": "ペロッパフ",
+  "ja-roma": "Peroppafu",
+  "ko": "나룸퍼프",
+  "zh-hant": "綿綿泡芙",
+  "fr": "Sucroquin",
+  "de": "Flauschling",
+  "es": "Swirlix",
+  "it": "Swirlix",
+  "en": "Swirlix",
+  "ja": "ペロッパフ",
+  "zh-hans": "绵绵泡芙",
+  "es-419": "Swirlix"
+ },
+ "genus": {
+  "ja-hrkt": "わたあめポケモン",
+  "ko": "솜사탕포켓몬",
+  "zh-hant": "棉花糖寶可夢",
+  "fr": "Pokémon Confiserie",
+  "de": "Zuckerwatte-Pokémon",
+  "es": "Pokémon Chuchería",
+  "it": "Pokémon Zuccherino",
+  "en": "Cotton Candy Pokémon",
+  "ja": "わたあめポケモン",
+  "zh-hans": "棉花糖宝可梦",
+  "es-419": "Pokémon Chuchería"
+ },
+ "flavor": {
+  "ko": "푹신푹신한 털은 솜사탕처럼 달콤한 냄새가 난다. 끈끈한 실을 내어 상대를 묶어버린다.",
+  "en": "The sweet smell of cotton candy perfumes Swirlix’s fluffy fur. This Pokémon spits out sticky string to tangle up its enemies."
+ },
+ "varieties": [
+  {
+   "name": "swirlix",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "351"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "chipped-pot",
+ "names": {
+  "ja-hrkt": "かけたポット",
+  "ko": "이빠진포트",
+  "zh-hant": "缺損的茶壺",
+  "fr": "Théière Ébréchée",
+  "de": "Löchrige Kanne",
+  "es": "Tetera Rota",
+  "it": "Teiera crepata",
+  "en": "Chipped Pot",
+  "ja": "かけたポット",
+  "zh-hans": "缺损的茶壶",
+  "es-419": "Tetera Rota"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 포트. 이가 빠졌지만 차는 맛있어진다.",
+  "en": "A peculiar teapot that can make a certain species of Pokémon evolve. It may be chipped, but tea poured from it is delicious.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な ポット。 欠けているが お茶は おいしくなる。"
+ }
+}

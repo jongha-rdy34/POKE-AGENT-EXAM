@@ -1,0 +1,20 @@
+{
+ "name": "bug-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースむし",
+  "ko": "테라피스 벌레",
+  "zh-hant": "蟲太晶碎塊",
+  "fr": "Téra-Éclat Insecte",
+  "de": "Tera-Stück (Käfer)",
+  "es": "Teralito Bicho",
+  "it": "Teralite Coleottero",
+  "en": "Bug Tera Shard",
+  "ja": "テラピースむし",
+  "zh-hans": "虫太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

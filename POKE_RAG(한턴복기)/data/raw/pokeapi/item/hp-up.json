@@ -1,0 +1,34 @@
+{
+ "name": "hp-up",
+ "names": {
+  "ja-hrkt": "マックスアップ",
+  "ko": "맥스업",
+  "zh-hant": "ＨＰ增強劑",
+  "fr": "PV Plus",
+  "de": "KP-Plus",
+  "es": "Más PS",
+  "it": "PS-Su",
+  "en": "HP Up",
+  "ja": "マックスアップ",
+  "zh-hans": "ＨＰ增强剂",
+  "es-419": "Más PS"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'effort en PV et le bonheur.",
+  "en": "Raises HP effort and happiness."
+ },
+ "flavor": {
+  "en": "A nutritious drink for Pokémon. When consumed, it raises the HP base points of a single Pokémon.",
+  "ko": "포켓몬의 영양 드링크. 포켓몬 1마리의 HP 기초 포인트를 올린다.",
+  "ja": "ポケモンの 栄養ドリンク。 ポケモン １匹の ＨＰの 基礎ポイントを あげる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 87,
+ "name": "dewgong",
+ "names": {
+  "ja-hrkt": "ジュゴン",
+  "ja-roma": "Jugon",
+  "ko": "쥬레곤",
+  "zh-hant": "白海獅",
+  "fr": "Lamantine",
+  "de": "Jugong",
+  "es": "Dewgong",
+  "it": "Dewgong",
+  "en": "Dewgong",
+  "ja": "ジュゴン",
+  "zh-hans": "白海狮",
+  "es-419": "Dewgong"
+ },
+ "genus": {
+  "ja-hrkt": "あしかポケモン",
+  "ko": "강치포켓몬",
+  "zh-hant": "海獅寶可夢",
+  "fr": "Pokémon Otarie",
+  "de": "Seehund",
+  "es": "Pokémon León Marino",
+  "it": "Pokémon Otaria",
+  "en": "Sea Lion Pokémon",
+  "ja": "あしかポケモン",
+  "zh-hans": "海狮宝可梦",
+  "es-419": "Pokémon León Marino"
+ },
+ "flavor": {
+  "en": "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",
+  "ko": "온몸이 눈처럼 새하얗다. 추위에 강해 얼음이 떠 있는 바다도 기운차게 헤엄쳐 다닌다."
+ },
+ "varieties": [
+  {
+   "name": "dewgong",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "37"
+}

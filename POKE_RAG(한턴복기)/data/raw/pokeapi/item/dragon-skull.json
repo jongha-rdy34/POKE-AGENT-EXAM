@@ -1,0 +1,28 @@
+{
+ "name": "dragon-skull",
+ "names": {
+  "ja-hrkt": "ドラゴンのホネ",
+  "ko": "드래곤의뼈",
+  "zh-hant": "龍之骨",
+  "fr": "Crâne Dragon",
+  "de": "Drakoschädel",
+  "es": "Cráneo Dragón",
+  "it": "Teschio",
+  "en": "Dragon Skull",
+  "ja": "ドラゴンのホネ",
+  "zh-hans": "龙之骨",
+  "es-419": "Cráneo Dragón"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Retourne au musée à Maillard.",
+  "en": "Return to the museum in Nacrene City."
+ },
+ "flavor": {
+  "en": "A skull of a Pokémon that was said to have braved the angry waters to fly around the world.",
+  "ko": "성난 바다 위를 개의치 않고 자유롭게 날아다녔다는 포켓몬의 머리뼈.",
+  "ja": "荒れ狂う 海を ものともせず 自由に とびまわっていたと される ポケモンの 頭の ホネ。"
+ }
+}

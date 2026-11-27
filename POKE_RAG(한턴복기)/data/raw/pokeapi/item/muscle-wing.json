@@ -1,0 +1,28 @@
+{
+ "name": "muscle-wing",
+ "names": {
+  "ja-hrkt": "きんりょくのハネ",
+  "ko": "근력깃털",
+  "zh-hant": "肌力之羽",
+  "fr": "Plume Force",
+  "de": "Kraftfeder",
+  "es": "Pluma Músculo",
+  "it": "Piumpotenza",
+  "en": "Muscle Feather",
+  "ja": "きんりょくのハネ",
+  "zh-hans": "肌力之羽",
+  "es-419": "Pluma Músculo"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les EV d'Attaque de 1.",
+  "en": "Increases Attack effort by 1."
+ },
+ "flavor": {
+  "en": "An item for use on a Pokémon. It slightly increases the Attack base points of a single Pokémon.",
+  "ko": "포켓몬에게 사용하는 도구. 포켓몬 1마리의 공격 기초 포인트를 조금 올린다.",
+  "ja": "ポケモンに 使う 道具。 ポケモン １匹の 攻撃の 基礎ポイントを ちょっと あげる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "steelixite",
+ "names": {
+  "ja-hrkt": "ハガネールナイト",
+  "ko": "강철톤나이트",
+  "zh-hant": "大鋼蛇進化石",
+  "fr": "Steelixite",
+  "de": "Stahlosnit",
+  "es": "Steelixita",
+  "it": "Steelixite",
+  "en": "Steelixite",
+  "ja": "ハガネールナイト",
+  "zh-hans": "大钢蛇进化石",
+  "es-419": "Steelixita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Steelix de Méga-Évoluer en Méga-Steelix.",
+  "en": "Held: Allows Steelix to Mega Evolve into Mega Steelix."
+ },
+ "flavor": {
+  "ko": "강철톤에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Steelix hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ハガネールに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "rage-fist",
+ "names": {
+  "ja-hrkt": "ふんどのこぶし",
+  "ko": "분노의주먹",
+  "zh-hant": "憤怒之拳",
+  "fr": "Poing de Colère",
+  "de": "Zornesfaust",
+  "es": "Puño Furia",
+  "it": "Pugno Furibondo",
+  "en": "Rage Fist",
+  "ja": "ふんどのこぶし",
+  "zh-hans": "愤怒之拳",
+  "es-419": "Puño Furia"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power."
+ }
+}

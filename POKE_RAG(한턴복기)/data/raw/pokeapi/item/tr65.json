@@ -1,0 +1,25 @@
+{
+ "name": "tr65",
+ "names": {
+  "ja-hrkt": "わざレコード６５",
+  "ko": "기술레코드65",
+  "zh-hant": "招式紀錄６５",
+  "fr": "DT65",
+  "de": "TP65",
+  "es": "DT65",
+  "it": "DT65",
+  "en": "TR65",
+  "ja": "わざレコード６５",
+  "zh-hans": "招式记录６５",
+  "es-419": "DT65"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "자연으로부터 모은 생명의 힘을 발사한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def stat.",
+  "ja": "自然から 集めた 命の力を 発射する。 相手の 特防を さげることがある。"
+ }
+}

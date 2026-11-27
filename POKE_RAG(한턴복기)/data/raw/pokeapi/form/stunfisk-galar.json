@@ -1,0 +1,23 @@
+{
+ "name": "stunfisk-galar",
+ "form_name": "galar",
+ "names": {
+  "fr": "Limonde de Galar",
+  "de": "Galar Flunschlik",
+  "en": "Galarian Stunfisk"
+ },
+ "form_names": {
+  "ja-hrkt": "ガラルのすがた",
+  "ko": "가라르의 모습",
+  "zh-hant": "伽勒爾的樣子",
+  "fr": "Forme de Galar",
+  "de": "Galar-Form",
+  "es": "Forma de Galar",
+  "it": "Forma di Galar",
+  "en": "Galarian Form",
+  "ja": "ガラルのすがた",
+  "zh-hans": "伽勒尔的样子",
+  "es-419": "Forma de Galar"
+ },
+ "is_mega": false
+}

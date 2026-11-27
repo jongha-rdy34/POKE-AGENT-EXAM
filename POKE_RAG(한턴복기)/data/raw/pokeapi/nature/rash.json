@@ -1,0 +1,18 @@
+{
+ "name": "rash",
+ "names": {
+  "ja-hrkt": "うっかりや",
+  "ko": "덜렁",
+  "zh-hant": "馬虎",
+  "fr": "Foufou",
+  "de": "Hitzig",
+  "es": "Alocada",
+  "it": "Ardente",
+  "en": "Rash",
+  "ja": "うっかりや",
+  "zh-hans": "马虎",
+  "es-419": "Alocada"
+ },
+ "plus": "special-attack",
+ "minus": "special-defense"
+}

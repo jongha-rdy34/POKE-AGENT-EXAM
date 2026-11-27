@@ -1,0 +1,30 @@
+{
+ "name": "rowap-berry",
+ "names": {
+  "ja-hrkt": "レンブのみ",
+  "ko": "애터열매",
+  "zh-hant": "霧蓮果",
+  "fr": "Baie Pommo",
+  "de": "Roselbeere",
+  "es": "Baya Magua",
+  "it": "Baccaroam",
+  "en": "Rowap Berry",
+  "ja": "レンブのみ",
+  "zh-hans": "雾莲果",
+  "es-419": "Baya Magua"
+ },
+ "category": "other",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé pour infliger 1/8 des PV max à l'adversaire quand le porteur est touché par une capacité spéciale.",
+  "en": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a special attack."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a special attack hits the Pokémon holding it, the attacker will also be hurt.",
+  "ko": "포켓몬에게 지니게 하면 특수 기술을 당했을 때 상대에게도 데미지를 준다.",
+  "ja": "ポケモンに 持たせると 特殊技を 受けたとき 相手にも ダメージを あたえる。"
+ }
+}

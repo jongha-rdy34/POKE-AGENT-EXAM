@@ -1,0 +1,28 @@
+{
+ "name": "data-card-18",
+ "names": {
+  "ja-hrkt": "データカード１８",
+  "ko": "데이터카드18",
+  "zh-hant": "資料卡１８",
+  "fr": "Carte Mémo18",
+  "de": "Datenkarte18",
+  "es": "Tarjeta Datos 18",
+  "it": "Scheda Dati 18",
+  "en": "Data Card 18",
+  "ja": "データカード１８",
+  "zh-hans": "数据卡１８",
+  "es-419": "Tarjeta Datos 18"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Cercle Musical du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Circle Push.",
+  "ko": "포켓슬론의 기록이 들어 있다. 푸시서클 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 プッシュサークル １位 回数が 記録された カード。"
+ }
+}

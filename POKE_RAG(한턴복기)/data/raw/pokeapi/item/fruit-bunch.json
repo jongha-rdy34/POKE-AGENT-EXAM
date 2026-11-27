@@ -1,0 +1,25 @@
+{
+ "name": "fruit-bunch",
+ "names": {
+  "ja-hrkt": "フサパック",
+  "ko": "송이팩",
+  "zh-hant": "袋裝果實",
+  "fr": "Fruits",
+  "de": "Früchte",
+  "es": "Fruta Tropical",
+  "it": "Frutti",
+  "en": "Fruit Bunch",
+  "ja": "フサパック",
+  "zh-hans": "袋装果实",
+  "es-419": "Fruta Tropical"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 걸쭉해진 송이가 열대지방의 기분을 느끼게 해준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The syrupy fruits give off a strong tropical feel.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。トロトロに なった フサが トロピカル気分に させてくれる。"
+ }
+}

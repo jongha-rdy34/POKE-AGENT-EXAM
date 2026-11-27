@@ -1,0 +1,27 @@
+{
+ "id": 10307,
+ "name": "absol-mega-z",
+ "species": "absol",
+ "is_default": false,
+ "types": [
+  "dark",
+  "ghost"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 154,
+  "defense": 60,
+  "special-attack": 75,
+  "special-defense": 60,
+  "speed": 151
+ },
+ "abilities": [
+  {
+   "name": "sharpness",
+   "hidden": false
+  }
+ ],
+ "height": 12,
+ "weight": 490,
+ "champions_moves": []
+}

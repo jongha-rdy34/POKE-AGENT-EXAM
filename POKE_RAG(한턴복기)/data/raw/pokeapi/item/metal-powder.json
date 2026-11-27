@@ -1,0 +1,30 @@
+{
+ "name": "metal-powder",
+ "names": {
+  "ja-hrkt": "メタルパウダー",
+  "ko": "금속파우더",
+  "zh-hant": "金屬粉",
+  "fr": "Poudre Métal",
+  "de": "Metallstaub",
+  "es": "Polvo Metálico",
+  "it": "Metalpolvere",
+  "en": "Metal Powder",
+  "ja": "メタルパウダー",
+  "zh-hans": "金属粉",
+  "es-419": "Polvo Metálico"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente la Défense et la Défense Spéciale de Métamorph de 50%. Le boost est perdu après transformation.",
+  "en": "Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming."
+ },
+ "flavor": {
+  "en": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat.",
+  "ko": "메타몽에게 지니게 하면 방어가 올라가는 이상한 가루. 매우 잘고 단단하다.",
+  "ja": "メタモンに 持たせると 防御が あがる 不思議な粉。 とても こまかくて 硬い。"
+ }
+}

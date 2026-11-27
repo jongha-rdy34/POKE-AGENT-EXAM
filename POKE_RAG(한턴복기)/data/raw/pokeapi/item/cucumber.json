@@ -1,0 +1,20 @@
+{
+ "name": "cucumber",
+ "names": {
+  "ja-hrkt": "キュウリスライス",
+  "ko": "오이슬라이스",
+  "zh-hant": "小黃瓜片",
+  "fr": "Concombre",
+  "de": "Gurke",
+  "es": "Pepino",
+  "it": "Cetriolo",
+  "en": "Cucumber",
+  "ja": "キュウリスライス",
+  "zh-hans": "小黄瓜片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

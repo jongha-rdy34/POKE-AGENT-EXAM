@@ -1,0 +1,25 @@
+{
+ "name": "iceroot-carrot",
+ "names": {
+  "ja-hrkt": "つめたいにんじん",
+  "ko": "차가운당근",
+  "zh-hant": "冰蘿蔔",
+  "fr": "Carotte Gelée",
+  "de": "Polarkarotte",
+  "es": "Zanahoria Nívea",
+  "it": "Carota algida",
+  "en": "Iceroot Carrot",
+  "ja": "つめたいにんじん",
+  "zh-hans": "冰萝卜",
+  "es-419": "Zanahoria Nívea"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풍요의 왕의 애마가 즐겨 먹는 작물. 눈 덮인 밭에서 자랐다.",
+  "en": "Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a field covered in snow.",
+  "ja": "豊穣の王の 愛馬が 好んで 食べる 作物。 雪深い 畑で 育った。"
+ }
+}

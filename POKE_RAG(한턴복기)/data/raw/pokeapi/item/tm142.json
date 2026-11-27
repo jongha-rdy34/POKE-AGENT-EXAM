@@ -1,0 +1,20 @@
+{
+ "name": "tm142",
+ "names": {
+  "ja-hrkt": "わざマシン１４２",
+  "ko": "기술머신142",
+  "zh-hant": "招式學習器１４２",
+  "fr": "CT142",
+  "de": "TM142",
+  "es": "MT142",
+  "it": "MT142",
+  "en": "TM142",
+  "ja": "わざマシン１４２",
+  "zh-hans": "招式学习器１４２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

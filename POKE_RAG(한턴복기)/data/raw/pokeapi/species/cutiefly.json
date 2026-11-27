@@ -1,0 +1,42 @@
+{
+ "id": 742,
+ "name": "cutiefly",
+ "names": {
+  "ja-hrkt": "アブリー",
+  "ja-roma": "Abuly",
+  "ko": "에블리",
+  "zh-hant": "萌虻",
+  "fr": "Bombydou",
+  "de": "Wommel",
+  "es": "Cutiefly",
+  "it": "Cutiefly",
+  "en": "Cutiefly",
+  "ja": "アブリー",
+  "zh-hans": "萌虻",
+  "es-419": "Cutiefly"
+ },
+ "genus": {
+  "ja-hrkt": "ツリアブポケモン",
+  "ko": "재니등에포켓몬",
+  "zh-hant": "蜂虻寶可夢",
+  "fr": "Pokémon Bombyle",
+  "de": "Hummelfliegen-Pokémon",
+  "es": "Pokémon Mosca Abeja",
+  "it": "Pokémon Bombilide",
+  "en": "Bee Fly Pokémon",
+  "ja": "ツリアブポケモン",
+  "zh-hans": "蜂虻宝可梦",
+  "es-419": "Pokémon Mosca Abeja"
+ },
+ "flavor": {
+  "ko": "상대가 내뿜는 오라로 다음 행동을 예측한다. 공격을 가볍게 피하고 반격한다.",
+  "en": "An opponent’s aura can tell Cutiefly what that opponent’s next move will be. Then Cutiefly can glide around the attack and strike back."
+ },
+ "varieties": [
+  {
+   "name": "cutiefly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "382"
+}

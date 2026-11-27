@@ -1,0 +1,20 @@
+{
+ "name": "punching-glove",
+ "names": {
+  "ja-hrkt": "パンチグローブ",
+  "ko": "펀치글러브",
+  "zh-hant": "拳擊手套",
+  "fr": "Gant de Boxe",
+  "de": "Boxhandschuh",
+  "es": "Guante de Boxeo",
+  "it": "Guantone",
+  "en": "Punching Glove",
+  "ja": "パンチグローブ",
+  "zh-hans": "拳击手套"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

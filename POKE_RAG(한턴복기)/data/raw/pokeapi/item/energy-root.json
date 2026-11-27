@@ -1,0 +1,34 @@
+{
+ "name": "energy-root",
+ "names": {
+  "ja-hrkt": "ちからのねっこ",
+  "ko": "힘의뿌리",
+  "zh-hant": "元氣根",
+  "fr": "Racinénergie",
+  "de": "Kraftwurzel",
+  "es": "Raíz Energía",
+  "it": "Radicenergia",
+  "en": "Energy Root",
+  "ja": "ちからのねっこ",
+  "zh-hans": "元气根",
+  "es-419": "Raíz Energía"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 200 PV, mais diminue le bonheur.",
+  "en": "Restores 200 HP, but lowers happiness."
+ },
+ "flavor": {
+  "en": "An extremely bitter medicinal root. It can be used to restore 120 HP to a single Pokémon.",
+  "ko": "매우 쓴 뿌리. 포켓몬 1마리의 HP를 120만큼 회복한다.",
+  "ja": "とても にがい ねっこ。 ポケモン １匹の ＨＰを １２０だけ 回復する。"
+ }
+}

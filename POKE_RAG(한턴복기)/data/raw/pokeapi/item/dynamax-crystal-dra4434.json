@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-dra4434",
+ "names": {
+  "ja-hrkt": "★Dra4434",
+  "ko": "★Dra4434",
+  "zh-hant": "★Dra4434",
+  "fr": "★Dra4434",
+  "de": "★Dra4434",
+  "es": "★Dra4434",
+  "it": "★Dra4434",
+  "en": "★Dra4434",
+  "ja": "★Dra4434",
+  "zh-hans": "★Dra4434",
+  "es-419": "★Dra4434"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

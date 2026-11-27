@@ -1,0 +1,28 @@
+{
+ "name": "mewnium-z--held",
+ "names": {
+  "ja-hrkt": "ミュウＺ",
+  "ko": "뮤Z",
+  "zh-hant": "夢幻Ｚ",
+  "fr": "Mewzélite",
+  "de": "Mewnium Z",
+  "es": "Mewstal Z",
+  "it": "Mewnium Z",
+  "en": "Mewnium Z",
+  "ja": "ミュウＺ",
+  "zh-hans": "梦幻Ｚ",
+  "es-419": "Mewstal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Mew d'améliorer Psyko en Supernova Originelle.",
+  "en": "Held: Allows Mew to upgrade Psychic into Genesis Supernova."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 뮤의 사이코키네시스를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Mew’s Psychic to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ミュウの サイコキネシスを Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "smart-strike",
+ "names": {
+  "ja-hrkt": "スマートホーン",
+  "ko": "스마트혼",
+  "zh-hant": "修長之角",
+  "fr": "Estocorne",
+  "de": "Schmalhorn",
+  "es": "Cuerno Certero",
+  "it": "Sottilcorno",
+  "en": "Smart Strike",
+  "ja": "スマートホーン",
+  "zh-hans": "修长之角",
+  "es-419": "Cuerno Certero"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 70,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Never misses."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "뾰족한 뿔로 상대를 꿰찔러서 공격한다. 공격은 반드시 명중한다.",
+  "en": "The user stabs the target with a sharp horn. This attack never misses."
+ }
+}

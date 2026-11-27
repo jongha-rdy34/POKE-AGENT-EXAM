@@ -1,0 +1,28 @@
+{
+ "name": "eevium-z--held",
+ "names": {
+  "ja-hrkt": "イーブイＺ",
+  "ko": "이브이Z",
+  "zh-hant": "伊布Ｚ",
+  "fr": "Évolizélite",
+  "de": "Evolium Z",
+  "es": "Eeveestal Z",
+  "it": "Eevium Z",
+  "en": "Eevium Z",
+  "ja": "イーブイＺ",
+  "zh-hans": "伊布Ｚ",
+  "es-419": "Eeveestal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Évoli d'améliorer Dernier Recours en Neuf pour Un.",
+  "en": "Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 이브이의 뒀다쓰기를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Eevee’s Last Resort to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 イーブイの とっておきを Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "protector",
+ "names": {
+  "ja-hrkt": "プロテクター",
+  "ko": "프로텍터",
+  "zh-hant": "護具",
+  "fr": "Protecteur",
+  "de": "Schützer",
+  "es": "Protector",
+  "it": "Copertura",
+  "en": "Protector",
+  "ja": "プロテクター",
+  "zh-hans": "护具",
+  "es-419": "Protector"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur un Rhinoféros: Le porteur évolue en Rhinastoc.",
+  "en": "Traded on a Rhydon: Holder evolves into Rhyperior."
+ },
+ "flavor": {
+  "en": "A protective item of some sort. It is extremely stiff and heavy. It’s loved by a certain Pokémon.",
+  "ko": "무언가의 프로텍터. 매우 단단하고 무겁다. 어떤 포켓몬이 좋아하는 물건이다.",
+  "ja": "なにかの プロテクター。 とても 硬くて 重い。 ある ポケモンが 好んでいる。"
+ }
+}

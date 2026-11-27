@@ -1,0 +1,31 @@
+{
+ "id": 10195,
+ "name": "venusaur-gmax",
+ "species": "venusaur",
+ "is_default": false,
+ "types": [
+  "grass",
+  "poison"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 82,
+  "defense": 83,
+  "special-attack": 100,
+  "special-defense": 100,
+  "speed": 80
+ },
+ "abilities": [
+  {
+   "name": "overgrow",
+   "hidden": false
+  },
+  {
+   "name": "chlorophyll",
+   "hidden": true
+  }
+ ],
+ "height": 240,
+ "weight": 10000,
+ "champions_moves": []
+}

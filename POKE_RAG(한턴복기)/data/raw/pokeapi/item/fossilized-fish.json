@@ -1,0 +1,25 @@
+{
+ "name": "fossilized-fish",
+ "names": {
+  "ja-hrkt": "カセキのサカナ",
+  "ko": "화석물고기",
+  "zh-hant": "化石魚",
+  "fr": "Fossile Poisson",
+  "de": "Fischfossil",
+  "es": "Ictiofósil",
+  "it": "Ittiofossile",
+  "en": "Fossilized Fish",
+  "ja": "カセキのサカナ",
+  "zh-hans": "化石鱼",
+  "es-419": "Ictiofósil"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬 화석의 일부. 어떤 모습이었는지는 수수께끼다.",
+  "en": "The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.",
+  "ja": "大昔 海に すんでいた 古代 ポケモンの カセキの一部。 どんな 姿 だったのかは 謎。"
+ }
+}

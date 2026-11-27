@@ -1,0 +1,17 @@
+{
+ "name": "basculegion-female",
+ "form_name": "female",
+ "names": {
+  "fr": "Paragruel Femelle",
+  "de": "Barschuft ♀",
+  "en": "Female Basculegion"
+ },
+ "form_names": {
+  "ja-hrkt": "メスのすがた",
+  "fr": "Femelle",
+  "de": "Weiblich",
+  "en": "Female",
+  "ja": "メスのすがた"
+ },
+ "is_mega": false
+}

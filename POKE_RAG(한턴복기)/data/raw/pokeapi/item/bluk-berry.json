@@ -1,0 +1,28 @@
+{
+ "name": "bluk-berry",
+ "names": {
+  "ja-hrkt": "ブリーのみ",
+  "ko": "블리열매",
+  "zh-hant": "墨莓果",
+  "fr": "Baie Remu",
+  "de": "Morbbeere",
+  "es": "Baya Oram",
+  "it": "Baccamora",
+  "en": "Bluk Berry",
+  "ja": "ブリーのみ",
+  "zh-hans": "墨莓果",
+  "es-419": "Baya Oram"
+ },
+ "category": "baking-only",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour créer des Pokéblocs et Poffins.",
+  "en": "Used for creating PokéBlocks and Poffins."
+ },
+ "flavor": {
+  "en": "Used to make Pokéblocks that will enhance your Beauty. Its blue flesh is dry when eaten.",
+  "ko": "아름다움을 연마하기 위한 포켓몬스넥을 만들 때 사용된다. 파란색 열매는 먹으면 떫다.",
+  "ja": "うつくしさに 磨きを かける ための ポロックを つくるとき 使われる。 青色の実は 食べると 渋い。"
+ }
+}

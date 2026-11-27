@@ -1,0 +1,31 @@
+{
+ "name": "eerie-spell",
+ "names": {
+  "ja-hrkt": "ぶきみなじゅもん",
+  "ko": "섬뜩한주문",
+  "zh-hant": "詭異咒語",
+  "fr": "Sort Sinistre",
+  "de": "Schauderspruch",
+  "es": "Conjuro Funesto",
+  "it": "Inquietantesimo",
+  "en": "Eerie Spell",
+  "ja": "ぶきみなじゅもん",
+  "zh-hans": "诡异咒语",
+  "es-419": "Conjuro Funesto"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "The target loses 3 PP from the last move it used."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "강력한 사이코 파워로 공격한다. 상대가 마지막으로 사용한 기술의 PP를 3만큼 줄인다.",
+  "en": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 705,
+ "name": "sliggoo",
+ "names": {
+  "ja-hrkt": "ヌメイル",
+  "ja-roma": "Numeil",
+  "ko": "미끄네일",
+  "zh-hant": "黏美兒",
+  "fr": "Colimucus",
+  "de": "Viscargot",
+  "es": "Sliggoo",
+  "it": "Sliggoo",
+  "en": "Sliggoo",
+  "ja": "ヌメイル",
+  "zh-hans": "黏美儿",
+  "es-419": "Sliggoo"
+ },
+ "genus": {
+  "ja-hrkt": "なんたいポケモン",
+  "ko": "연체포켓몬",
+  "zh-hant": "軟體生物寶可夢",
+  "fr": "Pokémon Mollusque",
+  "de": "Schneckedei-Pokémon",
+  "es": "Pokémon Molusco",
+  "it": "Pokémon Mollusco",
+  "en": "Soft Tissue Pokémon",
+  "ja": "なんたいポケモン",
+  "zh-hans": "软体生物宝可梦",
+  "es-419": "Pokémon Molusco"
+ },
+ "flavor": {
+  "ko": "등의 돌기 안에 작은 뇌가 있다. 먹이에 대한 생각과 적으로부터 도망치는 생각만 한다.",
+  "en": "A creature given to melancholy. I suspect its metallic shell developed as a result of the mucus on its skin reacting with the iron in Hisui's water."
+ },
+ "varieties": [
+  {
+   "name": "sliggoo",
+   "is_default": true
+  },
+  {
+   "name": "sliggoo-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "362"
+}

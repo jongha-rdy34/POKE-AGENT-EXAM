@@ -1,0 +1,28 @@
+{
+ "name": "pass-orb",
+ "names": {
+  "ja-hrkt": "デルダマ",
+  "ko": "딜구슬",
+  "zh-hant": "釋出之玉",
+  "fr": "Offrisphère",
+  "de": "Transfer-Orb",
+  "es": "Regalosfera",
+  "it": "Passabilia",
+  "en": "Pass Orb",
+  "ja": "デルダマ",
+  "zh-hans": "释出之玉",
+  "es-419": "Regalosfera"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Active les Offri-Auras.",
+  "en": "Activates Pass Powers."
+ },
+ "flavor": {
+  "en": "A mysterious orb containing the power of the Unova region, to be used when generating Pass Power.",
+  "ko": "딜파워를 발생시킬 때 사용하는 하나지방의 파워가 담긴 이상한 구슬.",
+  "ja": "デルパワーを 発生させる ときに使う イッシュの パワーが とじこめられた 不思議な 玉。"
+ }
+}

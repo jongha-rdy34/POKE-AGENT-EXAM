@@ -1,0 +1,31 @@
+{
+ "name": "baton-pass",
+ "names": {
+  "ja-hrkt": "バトンタッチ",
+  "ko": "배턴터치",
+  "zh-hant": "接棒",
+  "fr": "Relais",
+  "de": "Stafette",
+  "es": "Relevo",
+  "it": "Staffetta",
+  "en": "Baton Pass",
+  "ja": "バトンタッチ",
+  "zh-hans": "接棒",
+  "es-419": "Relevo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 40,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Allows the trainer to switch out the user and pass effects along to its replacement."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user switches places with a party Pokémon in waiting and passes along any stat changes.",
+  "ko": "교대 포켓몬과 바뀐다. 능력 변화는 바뀐 포켓몬이 그대로 이어받는다."
+ }
+}

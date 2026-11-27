@@ -1,0 +1,28 @@
+{
+ "name": "hm02",
+ "names": {
+  "ja-hrkt": "ひでんマシン０２",
+  "ko": "비전머신02",
+  "zh-hant": "秘傳學習器０２",
+  "fr": "CS02",
+  "de": "VM02",
+  "es": "MO02",
+  "it": "MN02",
+  "en": "HM02",
+  "ja": "ひでんマシン０２",
+  "zh-hans": "秘传学习器０２",
+  "es-419": "MO02"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Vol à un Pokémon compatible.",
+  "en": "Teaches Fly to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

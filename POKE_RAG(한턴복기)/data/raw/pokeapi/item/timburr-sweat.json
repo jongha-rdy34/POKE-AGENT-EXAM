@@ -1,0 +1,20 @@
+{
+ "name": "timburr-sweat",
+ "names": {
+  "ja-hrkt": "ドッコラーのあせ",
+  "ko": "으랏차의땀",
+  "zh-hant": "搬運小匠的汗",
+  "fr": "Sueur de Charpenti",
+  "de": "Praktibalk-Schweiß",
+  "es": "Sudor de Timburr",
+  "it": "Sudore di Timburr",
+  "en": "Timburr Sweat",
+  "ja": "ドッコラーのあせ",
+  "zh-hans": "搬运小匠的汗"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "simple-beam",
+ "names": {
+  "ja-hrkt": "シンプルビーム",
+  "ko": "심플빔",
+  "zh-hant": "單純光束",
+  "fr": "Rayon Simple",
+  "de": "Wankelstrahl",
+  "es": "Onda Simple",
+  "it": "Ondisinvolta",
+  "en": "Simple Beam",
+  "ja": "シンプルビーム",
+  "zh-hans": "单纯光束",
+  "es-419": "Onda Simple"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Changes the target’s ability to Simple."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user emits a mysterious psychic wave that changes the target's Ability to Simple.",
+  "ko": "수수께끼의 염력파를 상대에게 보낸다. 염력파를 받은 상대는 특성이 단순으로 바뀐다."
+ }
+}

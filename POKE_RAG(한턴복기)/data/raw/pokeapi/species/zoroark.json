@@ -1,0 +1,46 @@
+{
+ "id": 571,
+ "name": "zoroark",
+ "names": {
+  "ja-hrkt": "ゾロアーク",
+  "ja-roma": "Zoroark",
+  "ko": "조로아크",
+  "zh-hant": "索羅亞克",
+  "fr": "Zoroark",
+  "de": "Zoroark",
+  "es": "Zoroark",
+  "it": "Zoroark",
+  "en": "Zoroark",
+  "ja": "ゾロアーク",
+  "zh-hans": "索罗亚克",
+  "es-419": "Zoroark"
+ },
+ "genus": {
+  "ja-hrkt": "ばけぎつねポケモン",
+  "ko": "요괴여우포켓몬",
+  "zh-hant": "妖狐寶可夢",
+  "fr": "Pokémon Polymorfox",
+  "de": "Polymorfuchs-Pokémon",
+  "es": "Pokémon Disfrazorro",
+  "it": "Pokémon Mutevolpe",
+  "en": "Illusion Fox Pokémon",
+  "ja": "ばけぎつねポケモン",
+  "zh-hans": "妖狐宝可梦",
+  "es-419": "Pokémon Disfrazorro"
+ },
+ "flavor": {
+  "en": "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body.",
+  "ko": "고독한 트레이너는 조로아크에게 환상을 보여주도록 명령하여 혼자만의 외로움을 달랜다."
+ },
+ "varieties": [
+  {
+   "name": "zoroark",
+   "is_default": true
+  },
+  {
+   "name": "zoroark-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "291"
+}

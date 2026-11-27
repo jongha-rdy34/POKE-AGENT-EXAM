@@ -1,0 +1,31 @@
+{
+ "name": "hypnosis",
+ "names": {
+  "ja-hrkt": "さいみんじゅつ",
+  "ko": "최면술",
+  "zh-hant": "催眠術",
+  "fr": "Hypnose",
+  "de": "Hypnose",
+  "es": "Hipnosis",
+  "it": "Ipnosi",
+  "en": "Hypnosis",
+  "ja": "さいみんじゅつ",
+  "zh-hans": "催眠术",
+  "es-419": "Hipnosis"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": 60,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Puts the target to sleep."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs hypnotic suggestion to make the target fall asleep.",
+  "ko": "졸음을 유도하는 암시를 걸어서 상대를 잠듦 상태로 만든다."
+ }
+}

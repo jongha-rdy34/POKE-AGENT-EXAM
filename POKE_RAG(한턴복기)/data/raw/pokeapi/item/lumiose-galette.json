@@ -1,0 +1,28 @@
+{
+ "name": "lumiose-galette",
+ "names": {
+  "ja-hrkt": "ミアレガレット",
+  "ko": "미르갈레트",
+  "zh-hant": "密阿雷格雷派餅",
+  "fr": "Galette Illumis",
+  "de": "Illumina-Galette",
+  "es": "Crêpe Luminalia",
+  "it": "Pan di Lumi",
+  "en": "Lumiose Galette",
+  "ja": "ミアレガレット",
+  "zh-hans": "密阿雷格雷派饼",
+  "es-419": "Crêpe Luminalia"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Soigne toutes les altérations majeures de statut et la confusion.",
+  "en": "Cures all major status ailments and confusion."
+ },
+ "flavor": {
+  "ko": "미르시티에서 인기 있는 과자. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "en": "A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.",
+  "ja": "ミアレシティで 人気の お菓子。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 292,
+ "name": "shedinja",
+ "names": {
+  "ja-hrkt": "ヌケニン",
+  "ja-roma": "Nukenin",
+  "ko": "껍질몬",
+  "zh-hant": "脫殼忍者",
+  "fr": "Munja",
+  "de": "Ninjatom",
+  "es": "Shedinja",
+  "it": "Shedinja",
+  "en": "Shedinja",
+  "ja": "ヌケニン",
+  "zh-hans": "脱壳忍者",
+  "es-419": "Shedinja"
+ },
+ "genus": {
+  "ja-hrkt": "ぬけがらポケモン",
+  "ko": "허물포켓몬",
+  "zh-hant": "空殼寶可夢",
+  "fr": "Pokémon Exuvie",
+  "de": "Häutungs-Pokémon",
+  "es": "Pokémon Muda",
+  "it": "Pokémon Cambiapelle",
+  "en": "Shed Pokémon",
+  "ja": "ぬけがらポケモン",
+  "zh-hans": "空壳宝可梦",
+  "es-419": "Pokémon Muda"
+ },
+ "flavor": {
+  "en": "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe.",
+  "ko": "날개를 움직이지 않고 날아다닌다. 몸속이 텅 비어 있고 숨을 쉬지 않는 이상한 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "shedinja",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "144"
+}

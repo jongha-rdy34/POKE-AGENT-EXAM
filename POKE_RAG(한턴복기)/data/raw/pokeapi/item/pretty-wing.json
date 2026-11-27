@@ -1,0 +1,28 @@
+{
+ "name": "pretty-wing",
+ "names": {
+  "ja-hrkt": "きれいなハネ",
+  "ko": "고운깃털",
+  "zh-hant": "美麗之羽",
+  "fr": "Jolie Plume",
+  "de": "Prachtfeder",
+  "es": "Pluma Bella",
+  "it": "Piumabella",
+  "en": "Pretty Feather",
+  "ja": "きれいなハネ",
+  "zh-hans": "美丽之羽",
+  "es-419": "Pluma Bella"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre pour 100 Pokédollars.",
+  "en": "Sell for 100 Pokédollars."
+ },
+ "flavor": {
+  "en": "Though this feather is beautiful, it’s just a regular feather and has no effect.",
+  "ko": "아름답기만 할 뿐 아무 효과도 없는 지극히 평범한 날개.",
+  "ja": "きれいなだけで なんの 効果もない ごくごく 普通の ハネ。"
+ }
+}

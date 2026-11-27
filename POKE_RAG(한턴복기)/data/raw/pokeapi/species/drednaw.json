@@ -1,0 +1,46 @@
+{
+ "id": 834,
+ "name": "drednaw",
+ "names": {
+  "ja-hrkt": "カジリガメ",
+  "ja-roma": "Kajirigame",
+  "ko": "갈가부기",
+  "zh-hant": "暴噬龜",
+  "fr": "Torgamord",
+  "de": "Kamalm",
+  "es": "Drednaw",
+  "it": "Drednaw",
+  "en": "Drednaw",
+  "ja": "カジリガメ",
+  "zh-hans": "暴噬龟",
+  "es-419": "Drednaw"
+ },
+ "genus": {
+  "ja-hrkt": "かみつきポケモン",
+  "ko": "물어뜯기포켓몬",
+  "zh-hant": "緊咬寶可夢",
+  "fr": "Pokémon Morsure",
+  "de": "Biss-Pokémon",
+  "es": "Pokémon Mordisco",
+  "it": "Pokémon Morso",
+  "en": "Bite Pokémon",
+  "ja": "かみつきポケモン",
+  "zh-hans": "紧咬宝可梦",
+  "es-419": "Pokémon Mordisco"
+ },
+ "flavor": {
+  "ko": "목을 자유자재로 늘이고 줄인다. 떨어져 있는 곳에서 목을 단번에 늘여 날카로운 이빨로 적의 숨통을 끊는다.",
+  "en": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down."
+ },
+ "varieties": [
+  {
+   "name": "drednaw",
+   "is_default": true
+  },
+  {
+   "name": "drednaw-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "439"
+}

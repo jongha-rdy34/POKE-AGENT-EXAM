@@ -1,0 +1,42 @@
+{
+ "id": 663,
+ "name": "talonflame",
+ "names": {
+  "ja-hrkt": "ファイアロー",
+  "ja-roma": "Fiarrow",
+  "ko": "파이어로",
+  "zh-hant": "烈箭鷹",
+  "fr": "Flambusard",
+  "de": "Fiaro",
+  "es": "Talonflame",
+  "it": "Talonflame",
+  "en": "Talonflame",
+  "ja": "ファイアロー",
+  "zh-hans": "烈箭鹰",
+  "es-419": "Talonflame"
+ },
+ "genus": {
+  "ja-hrkt": "れっかポケモン",
+  "ko": "열화포켓몬",
+  "zh-hant": "烈火寶可夢",
+  "fr": "Pokémon Fournaise",
+  "de": "Stichflammen-Pokémon",
+  "es": "Pokémon Flamígero",
+  "it": "Pokémon Ardifiamma",
+  "en": "Scorching Pokémon",
+  "ja": "れっかポケモン",
+  "zh-hans": "烈火宝可梦",
+  "es-419": "Pokémon Flamígero"
+ },
+ "flavor": {
+  "ko": "시속 500km로 돌격한다. 먹이가 도망칠 틈을 주지 않고 강렬한 발차기로 꼼짝 못 하게 한다.",
+  "en": "Talonflame dives toward prey at speeds of up to 310 mph and assaults them with powerful kicks, giving the prey no chance to escape."
+ },
+ "varieties": [
+  {
+   "name": "talonflame",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "341"
+}

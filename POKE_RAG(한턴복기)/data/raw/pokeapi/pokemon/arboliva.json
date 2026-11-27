@@ -1,0 +1,31 @@
+{
+ "id": 930,
+ "name": "arboliva",
+ "species": "arboliva",
+ "is_default": true,
+ "types": [
+  "grass",
+  "normal"
+ ],
+ "stats": {
+  "hp": 78,
+  "attack": 69,
+  "defense": 90,
+  "special-attack": 125,
+  "special-defense": 109,
+  "speed": 39
+ },
+ "abilities": [
+  {
+   "name": "seed-sower",
+   "hidden": false
+  },
+  {
+   "name": "harvest",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 482,
+ "champions_moves": []
+}

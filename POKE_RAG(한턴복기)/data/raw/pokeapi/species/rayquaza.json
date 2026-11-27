@@ -1,0 +1,46 @@
+{
+ "id": 384,
+ "name": "rayquaza",
+ "names": {
+  "ja-hrkt": "レックウザ",
+  "ja-roma": "Rayquaza",
+  "ko": "레쿠쟈",
+  "zh-hant": "烈空坐",
+  "fr": "Rayquaza",
+  "de": "Rayquaza",
+  "es": "Rayquaza",
+  "it": "Rayquaza",
+  "en": "Rayquaza",
+  "ja": "レックウザ",
+  "zh-hans": "烈空坐",
+  "es-419": "Rayquaza"
+ },
+ "genus": {
+  "ja-hrkt": "てんくうポケモン",
+  "ko": "천공포켓몬",
+  "zh-hant": "天空寶可夢",
+  "fr": "Pokémon Cieux",
+  "de": "Himmelhoch-Pokémon",
+  "es": "Pokémon Cielo",
+  "it": "Pokémon Stratosfera",
+  "en": "Sky High Pokémon",
+  "ja": "てんくうポケモン",
+  "zh-hans": "天空宝可梦",
+  "es-419": "Pokémon Cielo"
+ },
+ "flavor": {
+  "en": "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
+  "ko": "오존층을 날아다니며 먹이인 운석을 먹는다. 체내에 모인 운석의 에너지로 메가진화한다."
+ },
+ "varieties": [
+  {
+   "name": "rayquaza",
+   "is_default": true
+  },
+  {
+   "name": "rayquaza-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "200"
+}

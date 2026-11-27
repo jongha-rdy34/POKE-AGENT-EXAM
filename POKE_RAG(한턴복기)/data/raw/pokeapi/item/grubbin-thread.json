@@ -1,0 +1,20 @@
+{
+ "name": "grubbin-thread",
+ "names": {
+  "ja-hrkt": "アゴジムシのいと",
+  "ko": "턱지충이의실",
+  "zh-hant": "強顎雞母蟲的絲",
+  "fr": "Fil de Larvibule",
+  "de": "Mabula-Faden",
+  "es": "Hilo de Grubbin",
+  "it": "Filo di Grubbin",
+  "en": "Grubbin Thread",
+  "ja": "アゴジムシのいと",
+  "zh-hans": "强颚鸡母虫的丝"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

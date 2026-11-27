@@ -1,0 +1,30 @@
+{
+ "name": "lum-berry",
+ "names": {
+  "ja-hrkt": "ラムのみ",
+  "ko": "리샘열매",
+  "zh-hant": "木子果",
+  "fr": "Baie Prine",
+  "de": "Prunusbeere",
+  "es": "Baya Ziuela",
+  "it": "Baccaprugna",
+  "en": "Lum Berry",
+  "ja": "ラムのみ",
+  "zh-hans": "木子果",
+  "es-419": "Baya Ziuela"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consomme pour soigner n'importe quelle condition de statut ou la confusion.",
+  "en": "Held: Consumed to cure any status condition or confusion."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from any status condition during battle.",
+  "ko": "포켓몬에게 지니게 하면 모든 상태 이상을 회복한다.",
+  "ja": "ポケモンに 持たせると すべての 状態異常を 回復する。"
+ }
+}

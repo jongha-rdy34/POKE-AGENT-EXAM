@@ -1,0 +1,20 @@
+{
+ "name": "stunky-fur",
+ "names": {
+  "ja-hrkt": "スカンプーのけ",
+  "ko": "스컹뿡의털",
+  "zh-hant": "臭鼬噗的毛",
+  "fr": "Poils de Moufouette",
+  "de": "Skunkapuh-Haar",
+  "es": "Pelo de Stunky",
+  "it": "Pelo di Stunky",
+  "en": "Stunky Fur",
+  "ja": "スカンプーのけ",
+  "zh-hans": "臭鼬噗的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

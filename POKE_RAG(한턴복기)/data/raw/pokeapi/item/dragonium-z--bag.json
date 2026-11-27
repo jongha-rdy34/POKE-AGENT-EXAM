@@ -1,0 +1,28 @@
+{
+ "name": "dragonium-z--bag",
+ "names": {
+  "ja-hrkt": "ドラゴンＺ",
+  "ko": "드래곤Z",
+  "zh-hant": "龍Ｚ",
+  "fr": "Dracozélite",
+  "de": "Dracium Z",
+  "es": "Dracostal Z",
+  "it": "Draconium Z",
+  "en": "Dragonium Z",
+  "ja": "ドラゴンＺ",
+  "zh-hans": "龙Ｚ",
+  "es-419": "Dracostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour dragonium-z--bag",
+  "en": "XXX new effect for dragonium-z--bag"
+ },
+ "flavor": {
+  "ko": "드래곤타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Dragon-type moves to Dragon-type Z-Moves.",
+  "ja": "ドラゴンタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

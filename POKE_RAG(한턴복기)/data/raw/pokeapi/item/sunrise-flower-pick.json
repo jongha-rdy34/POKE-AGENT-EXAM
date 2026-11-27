@@ -1,0 +1,20 @@
+{
+ "name": "sunrise-flower-pick",
+ "names": {
+  "ja-hrkt": "あさやけおはなピック",
+  "ko": "아침노을 꽃 픽",
+  "zh-hant": "朝霞花三明治籤",
+  "fr": "Pique Fleur du Levant",
+  "de": "Morgenblumen-Pikser",
+  "es": "Palillo Flor Rosa",
+  "it": "Stecchino fiore rosso",
+  "en": "Sunrise Flower Pick",
+  "ja": "あさやけおはなピック",
+  "zh-hans": "朝霞花三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

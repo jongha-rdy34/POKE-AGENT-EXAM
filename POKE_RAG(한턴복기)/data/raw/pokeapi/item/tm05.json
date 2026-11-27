@@ -1,0 +1,28 @@
+{
+ "name": "tm05",
+ "names": {
+  "ja-hrkt": "わざマシン０５",
+  "ko": "기술머신05",
+  "zh-hant": "招式學習器０５",
+  "fr": "CT05",
+  "de": "TM05",
+  "es": "MT05",
+  "it": "MT05",
+  "en": "TM05",
+  "ja": "わざマシン０５",
+  "zh-hans": "招式学习器０５",
+  "es-419": "MT05"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Hurlement à un Pokémon compatible. (Gén I: Ultimawashi)",
+  "en": "Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)"
+ },
+ "flavor": {
+  "en": "The target is punched with an electrified fist. This may also leave the target with paralysis.",
+  "ko": "전격을 담은 펀치로 상대를 공격한다. 마비 상태로 만들 때가 있다.",
+  "ja": "電撃を こめた パンチで 相手を 攻撃する。 まひ状態に することが ある。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "hyper-beam",
+ "names": {
+  "ja-hrkt": "はかいこうせん",
+  "ko": "파괴광선",
+  "zh-hant": "破壞光線",
+  "fr": "Ultralaser",
+  "de": "Hyperstrahl",
+  "es": "Hiperrayo",
+  "it": "Iper Raggio",
+  "en": "Hyper Beam",
+  "ja": "はかいこうせん",
+  "zh-hans": "破坏光线",
+  "es-419": "Hiperrayo"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 150,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User foregoes its next turn to recharge."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is attacked with a powerful beam. The user can't move on the next turn.",
+  "ko": "강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다."
+ }
+}

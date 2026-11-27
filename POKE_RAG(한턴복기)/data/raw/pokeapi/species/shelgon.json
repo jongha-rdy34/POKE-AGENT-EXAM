@@ -1,0 +1,42 @@
+{
+ "id": 372,
+ "name": "shelgon",
+ "names": {
+  "ja-hrkt": "コモルー",
+  "ja-roma": "Komoruu",
+  "ko": "쉘곤",
+  "zh-hant": "甲殼龍",
+  "fr": "Drackhaus",
+  "de": "Draschel",
+  "es": "Shelgon",
+  "it": "Shelgon",
+  "en": "Shelgon",
+  "ja": "コモルー",
+  "zh-hans": "甲壳龙",
+  "es-419": "Shelgon"
+ },
+ "genus": {
+  "ja-hrkt": "にんたいポケモン",
+  "ko": "인내포켓몬",
+  "zh-hant": "耐力寶可夢",
+  "fr": "Pokémon Endurant",
+  "de": "Durchsteher-Pokémon",
+  "es": "Pokémon Resistencia",
+  "it": "Pokémon Resistenza",
+  "en": "Endurance Pokémon",
+  "ja": "にんたいポケモン",
+  "zh-hans": "耐力宝可梦",
+  "es-419": "Pokémon Resistencia"
+ },
+ "flavor": {
+  "en": "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.",
+  "ko": "먹이를 먹지 않고 공복으로 버틴다. 모은 에너지를 다 사용하면 진화가 시작되는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "shelgon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "191"
+}

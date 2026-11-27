@@ -1,0 +1,23 @@
+{
+ "name": "liquid-voice",
+ "names": {
+  "ja-hrkt": "うるおいボイス",
+  "ko": "촉촉보이스",
+  "zh-hant": "濕潤之聲",
+  "fr": "Hydrata-Son",
+  "de": "Plätscherstimme",
+  "es": "Voz Fluida",
+  "it": "Idrovoce",
+  "en": "Liquid Voice",
+  "ja": "うるおいボイス",
+  "zh-hans": "湿润之声",
+  "es-419": "Voz Fluida"
+ },
+ "effect": {
+  "en": "Sound-based moves become Water-type."
+ },
+ "flavor": {
+  "ko": "모든 소리 기술이 물타입이 된다.",
+  "en": "Sound-based moves become Water-type moves."
+ }
+}

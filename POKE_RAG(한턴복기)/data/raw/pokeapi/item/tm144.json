@@ -1,0 +1,20 @@
+{
+ "name": "tm144",
+ "names": {
+  "ja-hrkt": "わざマシン１４４",
+  "ko": "기술머신144",
+  "zh-hant": "招式學習器１４４",
+  "fr": "CT144",
+  "de": "TM144",
+  "es": "MT144",
+  "it": "MT144",
+  "en": "TM144",
+  "ja": "わざマシン１４４",
+  "zh-hans": "招式学习器１４４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

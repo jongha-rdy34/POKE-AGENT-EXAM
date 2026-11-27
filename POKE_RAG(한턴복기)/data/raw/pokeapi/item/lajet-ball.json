@@ -1,0 +1,22 @@
+{
+ "name": "lajet-ball",
+ "names": {
+  "ko": "제트볼",
+  "zh-hant": "飛梭球",
+  "fr": "Propulse Ball",
+  "de": "Düsenball",
+  "es": "Aero Ball",
+  "it": "Jet Ball",
+  "en": "Jet Ball",
+  "ja": "ジェットボール",
+  "zh-hans": "飞梭球",
+  "es-419": "Areobola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Can be thrown further than a Wing Ball. Is more effective for catching Pokémon that fly high in the air."
+ }
+}

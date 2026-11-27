@@ -1,0 +1,28 @@
+{
+ "name": "gram-3",
+ "names": {
+  "ja-hrkt": "はいたつぶつ３",
+  "ko": "배달물3",
+  "zh-hant": "配送物品３",
+  "fr": "Courrier 3",
+  "de": "Briefpost 3",
+  "es": "Envío 3",
+  "it": "Missiva 3",
+  "en": "Gram 3",
+  "ja": "はいたつぶつ３",
+  "zh-hans": "配送物品３",
+  "es-419": "Envío 3"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Partie de la quête secondaire pour obtenir CT89.",
+  "en": "Part of a sidequest to obtain TM89."
+ },
+ "flavor": {
+  "en": "An important letter that Wingull delivers.",
+  "ko": "갈모매가 배달하는 소중한 편지.",
+  "ja": "キャモメが 配達している たいせつな 手紙。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "forecast",
+ "names": {
+  "ja-hrkt": "てんきや",
+  "ko": "기분파",
+  "zh-hant": "陰晴不定",
+  "fr": "Météo",
+  "de": "Prognose",
+  "es": "Predicción",
+  "it": "Previsioni",
+  "en": "Forecast",
+  "ja": "てんきや",
+  "zh-hans": "阴晴不定",
+  "es-419": "Predicción"
+ },
+ "effect": {
+  "en": "Changes Castform's type and form to match the weather."
+ },
+ "flavor": {
+  "en": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice.",
+  "ko": "날씨의 영향을 받아 물타입, 불꽃타입, 얼음타입 중 하나로 변화한다."
+ }
+}

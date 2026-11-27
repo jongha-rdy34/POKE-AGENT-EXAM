@@ -1,0 +1,19 @@
+{
+ "name": "tm183",
+ "names": {
+  "ko": "기술머신183",
+  "zh-hant": "招式學習器１８３",
+  "fr": "CT183",
+  "de": "TM183",
+  "es": "MT183",
+  "it": "MT183",
+  "en": "TM183",
+  "ja": "わざマシン１８３",
+  "zh-hans": "招式学习器１８３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "drill-run",
+ "names": {
+  "ja-hrkt": "ドリルライナー",
+  "ko": "드릴라이너",
+  "zh-hant": "直衝鑽",
+  "fr": "Tunnelier",
+  "de": "Schlagbohrer",
+  "es": "Taladradora",
+  "it": "Giravvita",
+  "en": "Drill Run",
+  "ja": "ドリルライナー",
+  "zh-hans": "直冲钻",
+  "es-419": "Taladradora"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 95,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has an increased chance for a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit.",
+  "ko": "드릴처럼 몸을 회전시켜서 상대에게 몸통박치기한다. 급소에 맞기 쉽다."
+ }
+}

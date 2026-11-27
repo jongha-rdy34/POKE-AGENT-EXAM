@@ -1,0 +1,20 @@
+{
+ "name": "fairy-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースフェアリー",
+  "ko": "테라피스 페어리",
+  "zh-hant": "妖精太晶碎塊",
+  "fr": "Téra-Éclat Fée",
+  "de": "Tera-Stück (Fee)",
+  "es": "Teralito Hada",
+  "it": "Teralite Folletto",
+  "en": "Fairy Tera Shard",
+  "ja": "テラピースフェアリー",
+  "zh-hans": "妖精太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

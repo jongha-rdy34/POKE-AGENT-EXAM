@@ -1,0 +1,31 @@
+{
+ "name": "dig",
+ "names": {
+  "ja-hrkt": "あなをほる",
+  "ko": "구멍파기",
+  "zh-hant": "挖洞",
+  "fr": "Tunnel",
+  "de": "Schaufler",
+  "es": "Excavar",
+  "it": "Fossa",
+  "en": "Dig",
+  "ja": "あなをほる",
+  "zh-hans": "挖洞",
+  "es-419": "Excavar"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User digs underground, dodging all attacks, and hits next turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user burrows into the ground on the first turn, then attacks on the next turn.",
+  "ko": "1턴째에 파고들어 2턴째에 상대를 공격한다."
+ }
+}

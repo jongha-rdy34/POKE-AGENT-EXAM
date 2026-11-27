@@ -1,0 +1,23 @@
+{
+ "name": "rotom-frost",
+ "form_name": "frost",
+ "names": {
+  "fr": "Motisma Froid",
+  "de": "Frost-Rotom",
+  "en": "Frost Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "フロストロトム",
+  "ko": "프로스트로토무",
+  "zh-hant": "結冰洛托姆",
+  "fr": "Motisma Froid",
+  "de": "Frost-Rotom",
+  "es": "Rotom Frío",
+  "it": "Rotom Gelo",
+  "en": "Frost Rotom",
+  "ja": "フロストロトム",
+  "zh-hans": "结冰洛托姆",
+  "es-419": "Rotom Frío"
+ },
+ "is_mega": false
+}

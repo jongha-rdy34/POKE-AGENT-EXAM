@@ -1,0 +1,28 @@
+{
+ "name": "poke-flute",
+ "names": {
+  "ja-hrkt": "ポケモンのふえ",
+  "ko": "포켓몬피리",
+  "zh-hant": "寶可夢之笛",
+  "fr": "Poké Flûte",
+  "de": "Pokéflöte",
+  "es": "Poké Flauta",
+  "it": "Poké Flauto",
+  "en": "Poké Flute",
+  "ja": "ポケモンのふえ",
+  "zh-hans": "宝可梦之笛",
+  "es-419": "Poké Flauta"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À utiliser pour réveiller un Pokémon endormi, incluant Ronflex sur les routes.",
+  "en": "Use to awaken sleeping Pokémon, including Snorlax on roads."
+ },
+ "flavor": {
+  "en": "A flute that can play with such a beautiful tone that even sleeping Pokémon find themselves woken up.",
+  "ko": "잠자고 있는 포켓몬도 무심코 잠에서 깨어날 정도로 멋진 음색을 내는 피리.",
+  "ja": "眠っている ポケモンも 思わず めざめるほど すばらしい 音色を 奏でる ふえ。"
+ }
+}

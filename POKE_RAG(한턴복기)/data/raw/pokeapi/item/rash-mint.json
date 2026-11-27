@@ -1,0 +1,25 @@
+{
+ "name": "rash-mint",
+ "names": {
+  "ja-hrkt": "うっかりやミント",
+  "ko": "덜렁민트",
+  "zh-hant": "馬虎薄荷",
+  "fr": "Aromate Foufou",
+  "de": "Hitzig-Minze",
+  "es": "Menta Alocada",
+  "it": "Menta Ardente",
+  "en": "Rash Mint",
+  "ja": "うっかりやミント",
+  "zh-hans": "马虎薄荷",
+  "es-419": "Menta Alocada"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수공격이 오르기 쉬워지지만 특수방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Sp. Def will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特攻が 上がりやすく なるが 特防は 上がりにくくなる ミント。"
+ }
+}

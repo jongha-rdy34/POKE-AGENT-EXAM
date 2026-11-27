@@ -1,0 +1,28 @@
+{
+ "name": "poke-radar",
+ "names": {
+  "ja-hrkt": "ポケトレ",
+  "ko": "포켓트레",
+  "zh-hant": "寶可追蹤",
+  "fr": "Poké Radar",
+  "de": "Pokéradar",
+  "es": "Pokéradar",
+  "it": "Poké Radar",
+  "en": "Poké Radar",
+  "ja": "ポケトレ",
+  "zh-hans": "宝可追踪",
+  "es-419": "Pokéradar"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour localiser un Pokémon rare ou chromatique. 50 pas pour recharger.",
+  "en": "Use to track down rare or shiny Pokémon. 50 steps to recharge."
+ },
+ "flavor": {
+  "en": "A tool that can search out Pokémon that are hiding in the tall grass. Its battery is recharged as you walk.",
+  "ko": "풀밭에 숨어 있는 포켓몬을 찾아내는 도구. 걸으면 전지가 충전된다.",
+  "ja": "くさむらに 隠れている ポケモンを 探しだせる 道具。 歩くと 電池が たまる。"
+ }
+}

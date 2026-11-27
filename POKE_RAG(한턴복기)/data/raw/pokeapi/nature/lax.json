@@ -1,0 +1,18 @@
+{
+ "name": "lax",
+ "names": {
+  "ja-hrkt": "のうてんき",
+  "ko": "촐랑",
+  "zh-hant": "樂天",
+  "fr": "Lâche",
+  "de": "Lasch",
+  "es": "Floja",
+  "it": "Fiacca",
+  "en": "Lax",
+  "ja": "のうてんき",
+  "zh-hans": "乐天",
+  "es-419": "Descuidada"
+ },
+ "plus": "defense",
+ "minus": "special-defense"
+}

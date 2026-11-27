@@ -1,0 +1,19 @@
+{
+ "name": "tm185",
+ "names": {
+  "ko": "기술머신185",
+  "zh-hant": "招式學習器１８５",
+  "fr": "CT185",
+  "de": "TM185",
+  "es": "MT185",
+  "it": "MT185",
+  "en": "TM185",
+  "ja": "わざマシン１８５",
+  "zh-hans": "招式学习器１８５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

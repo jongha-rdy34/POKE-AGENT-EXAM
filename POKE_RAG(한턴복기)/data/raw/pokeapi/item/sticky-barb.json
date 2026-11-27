@@ -1,0 +1,31 @@
+{
+ "name": "sticky-barb",
+ "names": {
+  "ja-hrkt": "くっつきバリ",
+  "ko": "끈적끈적바늘",
+  "zh-hant": "附著針",
+  "fr": "Piquants",
+  "de": "Klettdorn",
+  "es": "Toxiestrella",
+  "it": "Vischiopunta",
+  "en": "Sticky Barb",
+  "ja": "くっつきバリ",
+  "zh-hans": "附着针",
+  "es-419": "Toxiestrella"
+ },
+ "category": "bad-held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur subit 1/8 (12.5%) de ses PV max en dégâts à la fin de chaque tour. Quand le porteur est touché par une capacité à contact, le Pokémon attaquant subit 1/8 de ses PV max en dégâts eet reçoit l'objet s'il n'en tient pas.",
+  "en": "Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It damages the holder every turn and may latch on to Pokémon that touch the holder.",
+  "ko": "지니게 하면 매 턴 데미지를 입는다. 자신에게 접촉해온 상대에게 들러붙기도 한다.",
+  "ja": "持たせると 毎ターン ダメージを 受ける。 自分に ふれてきた 相手に くっつくことも ある。"
+ }
+}

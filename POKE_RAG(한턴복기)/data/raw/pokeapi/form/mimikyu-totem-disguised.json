@@ -1,0 +1,13 @@
+{
+ "name": "mimikyu-totem-disguised",
+ "form_name": "totem-disguised",
+ "names": {
+  "fr": "Mimiqui Dominant",
+  "de": "Totem Mimigma (Getarnt)",
+  "en": "Totem Disguised Mimikyu"
+ },
+ "form_names": {
+  "de": "Totemform"
+ },
+ "is_mega": false
+}

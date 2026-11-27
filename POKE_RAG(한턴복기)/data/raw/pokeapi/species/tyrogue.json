@@ -1,0 +1,42 @@
+{
+ "id": 236,
+ "name": "tyrogue",
+ "names": {
+  "ja-hrkt": "バルキー",
+  "ja-roma": "Balkie",
+  "ko": "배루키",
+  "zh-hant": "無畏小子",
+  "fr": "Debugant",
+  "de": "Rabauz",
+  "es": "Tyrogue",
+  "it": "Tyrogue",
+  "en": "Tyrogue",
+  "ja": "バルキー",
+  "zh-hans": "无畏小子",
+  "es-419": "Tyrogue"
+ },
+ "genus": {
+  "ja-hrkt": "けんかポケモン",
+  "ko": "싸움포켓몬",
+  "zh-hant": "打鬥寶可夢",
+  "fr": "Pokémon Bagarreur",
+  "de": "Racker-Pokémon",
+  "es": "Pokémon Peleón",
+  "it": "Pokémon Baruffa",
+  "en": "Scuffle Pokémon",
+  "ja": "けんかポケモン",
+  "zh-hans": "打斗宝可梦",
+  "es-419": "Pokémon Peleón"
+ },
+ "flavor": {
+  "en": "Even though it is small, it can’t be ignored because it will slug any handy target without warning.",
+  "ko": "만만한 상대를 발견하면 바로 공격해오기 때문에 몸집이 작아도 방심은 할 수 없다."
+ },
+ "varieties": [
+  {
+   "name": "tyrogue",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "47"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 814,
+ "name": "raboot",
+ "names": {
+  "ja-hrkt": "ラビフット",
+  "ja-roma": "Rabbifuto",
+  "ko": "래비풋",
+  "zh-hant": "騰蹴小將",
+  "fr": "Lapyro",
+  "de": "Kickerlo",
+  "es": "Raboot",
+  "it": "Raboot",
+  "en": "Raboot",
+  "ja": "ラビフット",
+  "zh-hans": "腾蹴小将",
+  "es-419": "Raboot"
+ },
+ "genus": {
+  "ja-hrkt": "うさぎポケモン",
+  "ko": "토끼포켓몬",
+  "zh-hant": "兔子寶可夢",
+  "fr": "Pokémon Lapin",
+  "de": "Hasen-Pokémon",
+  "es": "Pokémon Conejo",
+  "it": "Pokémon Coniglio",
+  "en": "Rabbit Pokémon",
+  "ja": "うさぎポケモン",
+  "zh-hans": "兔子宝可梦",
+  "es-419": "Pokémon Conejo"
+ },
+ "flavor": {
+  "ko": "손을 쓰지 않고 나뭇가지에서 나무열매를 따내고 리프팅한다. 발 기술을 연마하는 연습이다.",
+  "en": "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork."
+ },
+ "varieties": [
+  {
+   "name": "raboot",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "431"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm174",
+ "names": {
+  "ko": "기술머신174",
+  "zh-hant": "招式學習器１７４",
+  "fr": "CT174",
+  "de": "TM174",
+  "es": "MT174",
+  "it": "MT174",
+  "en": "TM174",
+  "ja": "わざマシン１７４",
+  "zh-hans": "招式学习器１７４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

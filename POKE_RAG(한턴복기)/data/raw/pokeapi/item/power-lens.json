@@ -1,0 +1,31 @@
+{
+ "name": "power-lens",
+ "names": {
+  "ja-hrkt": "パワーレンズ",
+  "ko": "파워렌즈",
+  "zh-hant": "力量鏡",
+  "fr": "Lentille Pouvoir",
+  "de": "Machtlinse",
+  "es": "Lente Recia",
+  "it": "Vigorlente",
+  "en": "Power Lens",
+  "ja": "パワーレンズ",
+  "zh-hans": "力量镜",
+  "es-419": "Lente Recia"
+ },
+ "category": "effort-training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur gagne 4 EV d'Attaque Spéciale, mais a sa Vitesse divisée par deux en combat.",
+  "en": "Held: Holder gains 4 Special Attack effort values, but has halved Speed in battle."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It reduces Speed but allows the holder’s Sp. Atk stat to grow more after battling.",
+  "ko": "지니게 하면 스피드는 떨어지지만 여느 때보다 포켓몬의 특수공격을 올리면서 키우기가 쉽다.",
+  "ja": "持たせると 素早さが さがるが ふつうよりも ポケモンの 特攻が 高く 育ちやすい。"
+ }
+}

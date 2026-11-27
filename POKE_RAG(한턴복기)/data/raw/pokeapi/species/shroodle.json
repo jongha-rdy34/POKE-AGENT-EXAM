@@ -1,0 +1,37 @@
+{
+ "id": 944,
+ "name": "shroodle",
+ "names": {
+  "ja-hrkt": "シルシュルー",
+  "ja-roma": "Shirushrew",
+  "ko": "땃쭈르",
+  "zh-hant": "滋汁鼴",
+  "fr": "Gribouraigne",
+  "de": "Sproxi",
+  "es": "Shroodle",
+  "it": "Shroodle",
+  "en": "Shroodle",
+  "ja": "シルシュルー",
+  "zh-hans": "滋汁鼹",
+  "es-419": "Shroodle"
+ },
+ "genus": {
+  "ja-hrkt": "どくねずみポケモン",
+  "ko": "독쥐포켓몬",
+  "zh-hant": "毒鼠寶可夢",
+  "fr": "Souris Venin",
+  "de": "Giftmaus",
+  "en": "Toxic Mouse Pokémon",
+  "zh-hans": "毒鼠宝可梦"
+ },
+ "flavor": {
+  "en": "To keep enemies away from its territory, it paints markings around its nest using a poisonous liquid that has an acrid odor."
+ },
+ "varieties": [
+  {
+   "name": "shroodle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "494"
+}

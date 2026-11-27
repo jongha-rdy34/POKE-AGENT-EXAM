@@ -1,0 +1,34 @@
+{
+ "name": "berry-juice",
+ "names": {
+  "ja-hrkt": "きのみジュース",
+  "ko": "나무열매쥬스",
+  "zh-hant": "樹果汁",
+  "fr": "Jus de Baie",
+  "de": "Beerensaft",
+  "es": "Zumo de Baya",
+  "it": "Succodibacca",
+  "en": "Berry Juice",
+  "ja": "きのみジュース",
+  "zh-hans": "树果汁",
+  "es-419": "Zumo de Baya"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 20 PV.",
+  "en": "Restores 20 HP."
+ },
+ "flavor": {
+  "en": "A 100 percent pure juice made of Berries. It can be used to restore 20 HP to a single Pokémon.",
+  "ko": "나무열매 100% 쥬스. 포켓몬 1마리의 HP를 20만큼 회복한다.",
+  "ja": "きのみ １００％の ジュース。 ポケモン １匹の ＨＰを ２０だけ 回復する。"
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm175",
+ "names": {
+  "ko": "기술머신175",
+  "zh-hant": "招式學習器１７５",
+  "fr": "CT175",
+  "de": "TM175",
+  "es": "MT175",
+  "it": "MT175",
+  "en": "TM175",
+  "ja": "わざマシン１７５",
+  "zh-hans": "招式学习器１７５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

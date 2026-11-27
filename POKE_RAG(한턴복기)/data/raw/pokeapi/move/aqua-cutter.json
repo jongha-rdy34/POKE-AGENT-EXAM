@@ -1,0 +1,28 @@
+{
+ "name": "aqua-cutter",
+ "names": {
+  "ja-hrkt": "アクアカッター",
+  "ko": "아쿠아커터",
+  "zh-hant": "水波刀",
+  "fr": "Tranch'Aqua",
+  "de": "Aquaschnitt",
+  "es": "Tajo Acuático",
+  "it": "Idrotaglio",
+  "en": "Aqua Cutter",
+  "ja": "アクアカッター",
+  "zh-hans": "水波刀",
+  "es-419": "Corte Acuático"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
+ }
+}

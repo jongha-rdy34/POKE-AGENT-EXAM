@@ -1,0 +1,15 @@
+{
+ "name": "squawkabilly-blue-plumage",
+ "form_name": "blue-plumage",
+ "names": {
+  "fr": "Tapatoès Plumage Bleu",
+  "en": "Blue Plumage Squawkabilly"
+ },
+ "form_names": {
+  "ja-hrkt": "ブルーフェザー",
+  "fr": "Plumage Bleu",
+  "en": "Blue Plumage",
+  "ja": "ブルーフェザー"
+ },
+ "is_mega": false
+}

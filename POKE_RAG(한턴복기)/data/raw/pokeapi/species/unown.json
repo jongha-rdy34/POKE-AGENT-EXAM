@@ -1,0 +1,42 @@
+{
+ "id": 201,
+ "name": "unown",
+ "names": {
+  "ja-hrkt": "アンノーン",
+  "ja-roma": "Unknown",
+  "ko": "안농",
+  "zh-hant": "未知圖騰",
+  "fr": "Zarbi",
+  "de": "Icognito",
+  "es": "Unown",
+  "it": "Unown",
+  "en": "Unown",
+  "ja": "アンノーン",
+  "zh-hans": "未知图腾",
+  "es-419": "Unown"
+ },
+ "genus": {
+  "ja-hrkt": "シンボルポケモン",
+  "ko": "심볼포켓몬",
+  "zh-hant": "象徵寶可夢",
+  "fr": "Pokémon Symbolique",
+  "de": "Symbol",
+  "es": "Pokémon Símbolo",
+  "it": "Pokémon Simbolo",
+  "en": "Symbol Pokémon",
+  "ja": "シンボルポケモン",
+  "zh-hans": "象征宝可梦",
+  "es-419": "Pokémon Símbolo"
+ },
+ "flavor": {
+  "en": "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously.",
+  "ko": "고대 문자를 닮은 모습의 포켓몬이다. 먼저 생겨난 것은 문자인가 안농인가. 연구 중이지만 아직도 수수께끼다."
+ },
+ "varieties": [
+  {
+   "name": "unown",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "99"
+}

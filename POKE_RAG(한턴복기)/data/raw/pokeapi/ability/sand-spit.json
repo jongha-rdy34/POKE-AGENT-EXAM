@@ -1,0 +1,23 @@
+{
+ "name": "sand-spit",
+ "names": {
+  "ja-hrkt": "すなはき",
+  "ko": "모래뿜기",
+  "zh-hant": "吐沙",
+  "fr": "Expul’Sable",
+  "de": "Sandspeier",
+  "es": "Expulsarena",
+  "it": "Sputasabbia",
+  "en": "Sand Spit",
+  "ja": "すなはき",
+  "zh-hans": "吐沙",
+  "es-419": "Expulsarena"
+ },
+ "effect": {
+  "en": "Creates a sandstorm when hit by an attack."
+ },
+ "flavor": {
+  "ko": "공격을 받으면 모래바람을 일으킨다.",
+  "en": "The Pokémon creates a sandstorm when it's hit by an attack."
+ }
+}

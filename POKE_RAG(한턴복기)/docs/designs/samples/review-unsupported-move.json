@@ -1,0 +1,37 @@
+{
+ "request": {
+  "my_form_key": "garchomp",
+  "opp_form_key": "garchomp",
+  "actor": "opp",
+  "move_key": "body-press",
+  "actual": {
+   "kind": "ko"
+  }
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "이 턴은 계산하지 않는 상황이라 답할 수 없어요.",
+    "summary": "이 턴은 계산하지 않는 상황이라 답할 수 없어요. 확인 불가: 일반 데미지 공식으로 계산하지 않는 기술입니다: 바디프레스",
+    "calc": null,
+    "bases": {},
+    "differs": false,
+    "diff_reason": null,
+    "unsupported": [
+     "확인 불가: 일반 데미지 공식으로 계산하지 않는 기술입니다: 바디프레스"
+    ],
+    "assumptions": [],
+    "reference_only": true,
+    "degraded": false,
+    "review_id": "sample-unsupported-move"
+   }
+  }
+ ]
+}

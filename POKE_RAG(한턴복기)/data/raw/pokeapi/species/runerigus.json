@@ -1,0 +1,42 @@
+{
+ "id": 867,
+ "name": "runerigus",
+ "names": {
+  "ja-hrkt": "デスバーン",
+  "ja-roma": "Deathbarn",
+  "ko": "데스판",
+  "zh-hant": "死神板",
+  "fr": "Tutétékri",
+  "de": "Oghnatoll",
+  "es": "Runerigus",
+  "it": "Runerigus",
+  "en": "Runerigus",
+  "ja": "デスバーン",
+  "zh-hans": "迭失板",
+  "es-419": "Runerigus"
+ },
+ "genus": {
+  "ja-hrkt": "おんねんポケモン",
+  "ko": "원념포켓몬",
+  "zh-hant": "怨念寶可夢",
+  "fr": "Pokémon Rancune",
+  "de": "Gram-Pokémon",
+  "es": "Pokémon Resquemor",
+  "it": "Pokémon Rancore",
+  "en": "Grudge Pokémon",
+  "ja": "おんねんポケモン",
+  "zh-hans": "怨念宝可梦",
+  "es-419": "Pokémon Resquemor"
+ },
+ "flavor": {
+  "ko": "그림자 같은 몸을 만지면 안 된다. 그림에 새겨진 무서운 기억을 보게 되기 때문이다.",
+  "en": "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it."
+ },
+ "varieties": [
+  {
+   "name": "runerigus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "287"
+}

@@ -1,0 +1,35 @@
+{
+ "id": 10186,
+ "name": "indeedee-female",
+ "species": "indeedee",
+ "is_default": false,
+ "types": [
+  "psychic",
+  "normal"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 55,
+  "defense": 65,
+  "special-attack": 95,
+  "special-defense": 105,
+  "speed": 85
+ },
+ "abilities": [
+  {
+   "name": "own-tempo",
+   "hidden": false
+  },
+  {
+   "name": "synchronize",
+   "hidden": false
+  },
+  {
+   "name": "psychic-surge",
+   "hidden": true
+  }
+ ],
+ "height": 9,
+ "weight": 280,
+ "champions_moves": []
+}

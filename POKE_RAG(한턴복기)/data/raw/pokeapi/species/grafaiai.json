@@ -1,0 +1,37 @@
+{
+ "id": 945,
+ "name": "grafaiai",
+ "names": {
+  "ja-hrkt": "タギングル",
+  "ja-roma": "Taggingru",
+  "ko": "태깅구르",
+  "zh-hant": "塗標客",
+  "fr": "Tag-Tag",
+  "de": "Affiti",
+  "es": "Grafaiai",
+  "it": "Grafaiai",
+  "en": "Grafaiai",
+  "ja": "タギングル",
+  "zh-hans": "涂标客",
+  "es-419": "Grafaiai"
+ },
+ "genus": {
+  "ja-hrkt": "どくざるポケモン",
+  "ko": "독원숭이포켓몬",
+  "zh-hant": "毒猴寶可夢",
+  "fr": "Singe Venin",
+  "de": "Giftaffe",
+  "en": "Toxic Monkey Pokémon",
+  "zh-hans": "毒猴宝可梦"
+ },
+ "flavor": {
+  "en": "Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life."
+ },
+ "varieties": [
+  {
+   "name": "grafaiai",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "494"
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ground",
+ "names": {
+  "ja-hrkt": "じめん",
+  "ko": "땅",
+  "zh-hant": "地面",
+  "fr": "Sol",
+  "de": "Boden",
+  "es": "Tierra",
+  "it": "Terra",
+  "en": "Ground",
+  "ja": "じめん",
+  "zh-hans": "地面",
+  "es-419": "Tierra"
+ },
+ "double_to": [
+  "poison",
+  "rock",
+  "steel",
+  "fire",
+  "electric"
+ ],
+ "half_to": [
+  "bug",
+  "grass"
+ ],
+ "zero_to": [
+  "flying"
+ ]
+}

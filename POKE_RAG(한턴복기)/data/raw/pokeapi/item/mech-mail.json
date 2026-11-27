@@ -1,0 +1,22 @@
+{
+ "name": "mech-mail",
+ "names": {
+  "ja-hrkt": "メカニカルメール",
+  "fr": "Lettre Méca",
+  "de": "Eilbrief",
+  "es": "Carta Imán",
+  "it": "Mess. Tecno",
+  "en": "Mech Mail",
+  "es-419": "Carta Imán"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL featuring a cute MAGNEMITE print. It is to be held by a POKéMON."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 268,
+ "name": "cascoon",
+ "names": {
+  "ja-hrkt": "マユルド",
+  "ja-roma": "Mayuld",
+  "ko": "카스쿤",
+  "zh-hant": "盾甲繭",
+  "fr": "Blindalys",
+  "de": "Panekon",
+  "es": "Cascoon",
+  "it": "Cascoon",
+  "en": "Cascoon",
+  "ja": "マユルド",
+  "zh-hans": "盾甲茧",
+  "es-419": "Cascoon"
+ },
+ "genus": {
+  "ja-hrkt": "さなぎポケモン",
+  "ko": "번데기포켓몬",
+  "zh-hant": "蛹寶可夢",
+  "fr": "Pokémon Cocon",
+  "de": "Kokon",
+  "es": "Pokémon Capullo",
+  "it": "Pokémon Bozzolo",
+  "en": "Cocoon Pokémon",
+  "ja": "さなぎポケモン",
+  "zh-hans": "蛹宝可梦",
+  "es-419": "Pokémon Capullo"
+ },
+ "flavor": {
+  "en": "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch.",
+  "ko": "움직이면 튼튼한 몸으로 진화할 수 없어서 아무리 괴롭혀도 가만히 있는다. 그때 느낀 아픔을 계속 잊지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "cascoon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "135"
+}

@@ -1,0 +1,85 @@
+{
+ "id": 925,
+ "name": "maushold-family-of-four",
+ "species": "maushold",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 74,
+  "attack": 75,
+  "defense": 70,
+  "special-attack": 65,
+  "special-defense": 75,
+  "speed": 111
+ },
+ "abilities": [
+  {
+   "name": "friend-guard",
+   "hidden": false
+  },
+  {
+   "name": "cheek-pouch",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": true
+  }
+ ],
+ "height": 3,
+ "weight": 28,
+ "champions_moves": [
+  "aerial-ace",
+  "after-you",
+  "agility",
+  "baby-doll-eyes",
+  "baton-pass",
+  "beat-up",
+  "bite",
+  "bullet-seed",
+  "charm",
+  "chilling-water",
+  "copycat",
+  "crunch",
+  "dig",
+  "double-edge",
+  "double-hit",
+  "encore",
+  "endure",
+  "facade",
+  "fake-tears",
+  "feint",
+  "follow-me",
+  "giga-impact",
+  "grass-knot",
+  "helping-hand",
+  "hyper-beam",
+  "hyper-voice",
+  "low-kick",
+  "low-sweep",
+  "mud-shot",
+  "mud-slap",
+  "play-rough",
+  "population-bomb",
+  "protect",
+  "rain-dance",
+  "rest",
+  "seed-bomb",
+  "shadow-claw",
+  "sleep-talk",
+  "substitute",
+  "sunny-day",
+  "super-fang",
+  "switcheroo",
+  "taunt",
+  "thief",
+  "thunder-wave",
+  "tickle",
+  "tidy-up",
+  "trailblaze",
+  "u-turn",
+  "water-pulse"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr83",
+ "names": {
+  "ja-hrkt": "わざレコード８３",
+  "ko": "기술레코드83",
+  "zh-hant": "招式紀錄８３",
+  "fr": "DT83",
+  "de": "TP83",
+  "es": "DT83",
+  "it": "DT83",
+  "en": "TR83",
+  "ja": "わざレコード８３",
+  "zh-hans": "招式记录８３",
+  "es-419": "DT83"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "이상한 힘으로 순간이동하여 자신과 같은 편의 위치를 바꾼다.",
+  "en": "The user teleports using a strange power and switches places with one of its allies.",
+  "ja": "不思議な 力で テレポートして 自分と 味方の 居場所を 入れ替える。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "flying-press",
+ "names": {
+  "ja-hrkt": "フライングプレス",
+  "ko": "플라잉프레스",
+  "zh-hant": "飛身重壓",
+  "fr": "Flying Press",
+  "de": "Flying Press",
+  "es": "Plancha Voladora",
+  "it": "Schiacciatuffo",
+  "en": "Flying Press",
+  "ja": "フライングプレス",
+  "zh-hans": "飞身重压",
+  "es-419": "Plancha Voladora"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 95,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Deals both Fighting and Flying-type damage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "공중에서 상대에게 다이브한다. 이 기술은 격투타입임과 동시에 비행타입이기도 하다.",
+  "en": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+ }
+}

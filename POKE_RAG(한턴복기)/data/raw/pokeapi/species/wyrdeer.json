@@ -1,0 +1,39 @@
+{
+ "id": 899,
+ "name": "wyrdeer",
+ "names": {
+  "ja-hrkt": "アヤシシ",
+  "ja-roma": "Ayashishi",
+  "ko": "신비록",
+  "zh-hant": "詭角鹿",
+  "fr": "Cerbyllin",
+  "de": "Damythir",
+  "es": "Wyrdeer",
+  "it": "Wyrdeer",
+  "en": "Wyrdeer",
+  "ja": "アヤシシ",
+  "zh-hans": "诡角鹿",
+  "es-419": "Wyrdeer"
+ },
+ "genus": {
+  "ja-hrkt": "おおツノポケモン",
+  "ko": "큰뿔포켓몬",
+  "zh-hant": "大角寶可夢",
+  "fr": "Pokémon Maxi Corne",
+  "de": "Vielender-Pokémon",
+  "it": "Pokémon Grancorno",
+  "en": "Big Horn Pokémon",
+  "ja": "おおツノポケモン",
+  "zh-hans": "大角宝可梦"
+ },
+ "flavor": {
+  "en": "The black orbs shine with an uncanny light when the Pokémon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing."
+ },
+ "varieties": [
+  {
+   "name": "wyrdeer",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "120"
+}

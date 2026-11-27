@@ -1,0 +1,20 @@
+{
+ "name": "arrokuda-scales",
+ "names": {
+  "ja-hrkt": "サシカマスのウロコ",
+  "ko": "찌로꼬치의비늘",
+  "zh-hant": "刺梭魚的鱗片",
+  "fr": "Écaille d'Embrochet",
+  "de": "Pikuda-Schuppe",
+  "es": "Escama de Arrokuda",
+  "it": "Squama di Arrokuda",
+  "en": "Arrokuda Scales",
+  "ja": "サシカマスのウロコ",
+  "zh-hans": "刺梭鱼的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

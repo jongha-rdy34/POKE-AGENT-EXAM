@@ -1,0 +1,42 @@
+{
+ "id": 441,
+ "name": "chatot",
+ "names": {
+  "ja-hrkt": "ペラップ",
+  "ja-roma": "Perap",
+  "ko": "페라페",
+  "zh-hant": "聒噪鳥",
+  "fr": "Pijako",
+  "de": "Plaudagei",
+  "es": "Chatot",
+  "it": "Chatot",
+  "en": "Chatot",
+  "ja": "ペラップ",
+  "zh-hans": "聒噪鸟",
+  "es-419": "Chatot"
+ },
+ "genus": {
+  "ja-hrkt": "おんぷポケモン",
+  "ko": "음표포켓몬",
+  "zh-hant": "音符寶可夢",
+  "fr": "Pokémon Note Musique",
+  "de": "Musiknote",
+  "es": "Pokémon Corchea",
+  "it": "Pokémon Musicale",
+  "en": "Music Note Pokémon",
+  "ja": "おんぷポケモン",
+  "zh-hans": "音符宝可梦",
+  "es-419": "Pokémon Corchea"
+ },
+ "flavor": {
+  "en": "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic.",
+  "ko": "사람의 말을 기억해서 운다. 동료가 한 장소에 모이면 모두 똑같은 말을 기억한다."
+ },
+ "varieties": [
+  {
+   "name": "chatot",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "228"
+}

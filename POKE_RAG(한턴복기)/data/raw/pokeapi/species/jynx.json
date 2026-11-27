@@ -1,0 +1,42 @@
+{
+ "id": 124,
+ "name": "jynx",
+ "names": {
+  "ja-hrkt": "ルージュラ",
+  "ja-roma": "Rougela",
+  "ko": "루주라",
+  "zh-hant": "迷唇姐",
+  "fr": "Lippoutou",
+  "de": "Rossana",
+  "es": "Jynx",
+  "it": "Jynx",
+  "en": "Jynx",
+  "ja": "ルージュラ",
+  "zh-hans": "迷唇姐",
+  "es-419": "Jynx"
+ },
+ "genus": {
+  "ja-hrkt": "ひとがたポケモン",
+  "ko": "인간형태포켓몬",
+  "zh-hant": "人形寶可夢",
+  "fr": "Pokémon Humanoïde",
+  "de": "Humanotyp-Pokémon",
+  "es": "Pokémon Forma Humana",
+  "it": "Pokémon Umanoide",
+  "en": "Human Shape Pokémon",
+  "ja": "ひとがたポケモン",
+  "zh-hans": "人形宝可梦",
+  "es-419": "Pokémon Forma Humana"
+ },
+ "flavor": {
+  "en": "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base.",
+  "ko": "가라르에는 아름답고 섬세한 울음소리를 가진 루주라가 많아서 팬도 있을 정도다."
+ },
+ "varieties": [
+  {
+   "name": "jynx",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "59"
+}

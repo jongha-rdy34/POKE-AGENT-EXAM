@@ -1,0 +1,28 @@
+{
+ "name": "contest-costume--jacket",
+ "names": {
+  "ja-hrkt": "ライブスーツ",
+  "ko": "라이브슈트",
+  "zh-hant": "演出禮服",
+  "fr": "Costume Live",
+  "de": "Live-Anzug",
+  "es": "Traje de Gala",
+  "it": "Costume Live",
+  "en": "Contest Costume",
+  "ja": "ライブスーツ",
+  "zh-hans": "演出礼服",
+  "es-419": "Traje de Gala"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Porté pendant les Concours Pokémon.",
+  "en": "Worn during Pokémon Contests."
+ },
+ "flavor": {
+  "ko": "콘테스트 라이브에서 입는 아주 멋있는 슈트다.",
+  "en": "A very cool suit to be worn during the Contest Spectacular.",
+  "ja": "コンテストライブで 着る とっても 格好良い スーツ。"
+ }
+}

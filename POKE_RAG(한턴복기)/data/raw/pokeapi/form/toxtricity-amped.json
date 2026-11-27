@@ -1,0 +1,23 @@
+{
+ "name": "toxtricity-amped",
+ "form_name": "amped",
+ "names": {
+  "fr": "Salarsen Forme Aigüe",
+  "de": "Riffex (Hochform)",
+  "en": "Amped Toxtricity"
+ },
+ "form_names": {
+  "ja-hrkt": "ハイなすがた",
+  "ko": "하이한 모습",
+  "zh-hant": "高調的樣子",
+  "fr": "Forme Aigüe",
+  "de": "Hoch-Form",
+  "es": "Forma Aguda",
+  "it": "Forma Melodia",
+  "en": "Amped Form",
+  "ja": "ハイなすがた",
+  "zh-hans": "高调的样子",
+  "es-419": "Forma Aguda"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,28 @@
+{
+ "name": "cameruptite",
+ "names": {
+  "ja-hrkt": "バクーダナイト",
+  "ko": "폭타나이트",
+  "zh-hant": "噴火駝進化石",
+  "fr": "Caméruptite",
+  "de": "Cameruptnit",
+  "es": "Cameruptita",
+  "it": "Cameruptite",
+  "en": "Cameruptite",
+  "ja": "バクーダナイト",
+  "zh-hans": "喷火驼进化石",
+  "es-419": "Cameruptita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Camérupt de Méga-Évoluer en Méga-Camérupt.",
+  "en": "Held: Allows Camerupt to Mega Evolve into Mega Camerupt."
+ },
+ "flavor": {
+  "ko": "폭타에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Camerupt hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "バクーダに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "name": "dark",
+ "names": {
+  "ja-hrkt": "あく",
+  "ko": "악",
+  "zh-hant": "惡",
+  "fr": "Ténèbres",
+  "de": "Unlicht",
+  "es": "Siniestro",
+  "it": "Buio",
+  "en": "Dark",
+  "ja": "あく",
+  "zh-hans": "恶",
+  "es-419": "Siniestro"
+ },
+ "double_to": [
+  "ghost",
+  "psychic"
+ ],
+ "half_to": [
+  "fighting",
+  "dark",
+  "fairy"
+ ],
+ "zero_to": []
+}

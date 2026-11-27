@@ -1,0 +1,28 @@
+{
+ "name": "gb-sounds",
+ "names": {
+  "ja-hrkt": "ＧＢプレイヤー",
+  "ko": "GB플레이어",
+  "zh-hant": "ＧＢ播放器",
+  "fr": "Lecteur GB",
+  "de": "GB-Player",
+  "es": "Lector GB",
+  "it": "Lettore GB",
+  "en": "GB Sounds",
+  "ja": "ＧＢプレイヤー",
+  "zh-hans": "ＧＢ播放器",
+  "es-419": "Lector GB"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À utiliser pour écouter les musiques GameBoy.",
+  "en": "Use to listen to GameBoy era audio."
+ },
+ "flavor": {
+  "en": "A music player that allows you to listen to nostalgic songs. It’s operated with the flip of a single switch.",
+  "ko": "그리운 곡을 들을 수 있는 음악 플레이어. 스위치 하나로 전환할 수 있다.",
+  "ja": "なつかしい 曲が きける 音楽プレイヤー。 スイッチ ひとつで きりかえられる。"
+ }
+}

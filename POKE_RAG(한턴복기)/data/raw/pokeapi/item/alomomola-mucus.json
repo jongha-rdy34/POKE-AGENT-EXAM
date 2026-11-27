@@ -1,0 +1,20 @@
+{
+ "name": "alomomola-mucus",
+ "names": {
+  "ja-hrkt": "ママンボウのねんえき",
+  "ko": "맘복치의점액",
+  "zh-hant": "保母曼波的黏液",
+  "fr": "Mucus de Mamanbo",
+  "de": "Mamolida-Schleim",
+  "es": "Secreción de Alomomola",
+  "it": "Muco di Alomomola",
+  "en": "Alomomola Mucus",
+  "ja": "ママンボウのねんえき",
+  "zh-hans": "保姆曼波的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

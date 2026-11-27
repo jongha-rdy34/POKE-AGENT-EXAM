@@ -1,0 +1,42 @@
+{
+ "id": 23,
+ "name": "ekans",
+ "names": {
+  "ja-hrkt": "アーボ",
+  "ja-roma": "Arbo",
+  "ko": "아보",
+  "zh-hant": "阿柏蛇",
+  "fr": "Abo",
+  "de": "Rettan",
+  "es": "Ekans",
+  "it": "Ekans",
+  "en": "Ekans",
+  "ja": "アーボ",
+  "zh-hans": "阿柏蛇",
+  "es-419": "Ekans"
+ },
+ "genus": {
+  "ja-hrkt": "へびポケモン",
+  "ko": "뱀포켓몬",
+  "zh-hant": "蛇寶可夢",
+  "fr": "Pokémon Serpent",
+  "de": "Schlange",
+  "es": "Pokémon Serpiente",
+  "it": "Pokémon Serpente",
+  "en": "Snake Pokémon",
+  "ja": "へびポケモン",
+  "zh-hans": "蛇宝可梦",
+  "es-419": "Pokémon Serpiente"
+ },
+ "flavor": {
+  "en": "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",
+  "ko": "성장할수록 점점 길어진다. 밤에는 나뭇가지에 몸을 돌돌 말고 쉰다."
+ },
+ "varieties": [
+  {
+   "name": "ekans",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "9"
+}

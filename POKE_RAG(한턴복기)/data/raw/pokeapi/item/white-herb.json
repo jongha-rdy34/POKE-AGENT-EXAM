@@ -1,0 +1,31 @@
+{
+ "name": "white-herb",
+ "names": {
+  "ja-hrkt": "しろいハーブ",
+  "ko": "하양허브",
+  "zh-hant": "白色香草",
+  "fr": "Herbe Blanche",
+  "de": "Schlohkraut",
+  "es": "Hierba Blanca",
+  "it": "Erbachiara",
+  "en": "White Herb",
+  "ja": "しろいハーブ",
+  "zh-hans": "白色香草",
+  "es-419": "Hierba Blanca"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Réinitialise toutes les stats diminuées à la normale à la fin du tour. Consommé après utilisation.",
+  "en": "Held: Resets all lowered stats to normal at end of turn. Consumed after use."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It will restore any lowered stat in battle. It can be used only once.",
+  "ko": "지니게 한 포켓몬의 능력이 떨어졌을 때 한 번만 원래 상태로 돌아온다.",
+  "ja": "持たせた ポケモンの 能力が さがったとき １度だけ もとの 状態に 戻す。"
+ }
+}

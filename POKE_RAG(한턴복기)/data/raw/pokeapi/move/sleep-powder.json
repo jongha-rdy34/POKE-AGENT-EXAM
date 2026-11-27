@@ -1,0 +1,31 @@
+{
+ "name": "sleep-powder",
+ "names": {
+  "ja-hrkt": "ねむりごな",
+  "ko": "수면가루",
+  "zh-hant": "催眠粉",
+  "fr": "Poudre Dodo",
+  "de": "Schlafpuder",
+  "es": "Somnífero",
+  "it": "Sonnifero",
+  "en": "Sleep Powder",
+  "ja": "ねむりごな",
+  "zh-hans": "催眠粉",
+  "es-419": "Somnífero"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": 75,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Puts the target to sleep."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user scatters a cloud of soporific dust that puts the target to sleep.",
+  "ko": "잠이 오는 가루를 많이 흩뿌려서 상대를 잠듦 상태로 만든다."
+ }
+}

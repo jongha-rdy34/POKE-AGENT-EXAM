@@ -1,0 +1,20 @@
+{
+ "name": "tm126",
+ "names": {
+  "ja-hrkt": "わざマシン１２６",
+  "ko": "기술머신126",
+  "zh-hant": "招式學習器１２６",
+  "fr": "CT126",
+  "de": "TM126",
+  "es": "MT126",
+  "it": "MT126",
+  "en": "TM126",
+  "ja": "わざマシン１２６",
+  "zh-hans": "招式学习器１２６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

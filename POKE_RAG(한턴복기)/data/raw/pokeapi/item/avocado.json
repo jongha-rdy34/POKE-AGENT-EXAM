@@ -1,0 +1,20 @@
+{
+ "name": "avocado",
+ "names": {
+  "ja-hrkt": "アボカド",
+  "ko": "아보카도",
+  "zh-hant": "酪梨",
+  "fr": "Avocat",
+  "de": "Avocado",
+  "es": "Aguacate",
+  "it": "Avocado",
+  "en": "Avocado",
+  "ja": "アボカド",
+  "zh-hans": "牛油果"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

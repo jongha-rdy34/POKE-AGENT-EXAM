@@ -1,0 +1,37 @@
+{
+ "id": 923,
+ "name": "pawmot",
+ "names": {
+  "ja-hrkt": "パーモット",
+  "ja-roma": "Parmot",
+  "ko": "빠르모트",
+  "zh-hant": "巴布土撥",
+  "fr": "Pohmarmotte",
+  "de": "Pamomamo",
+  "es": "Pawmot",
+  "it": "Pawmot",
+  "en": "Pawmot",
+  "ja": "パーモット",
+  "zh-hans": "巴布土拨",
+  "es-419": "Pawmot"
+ },
+ "genus": {
+  "ja-hrkt": "てあてポケモン",
+  "ko": "손길포켓몬",
+  "zh-hant": "押掌寶可夢",
+  "fr": "Pose Paume",
+  "de": "Behandlung",
+  "en": "Hands-On Pokémon",
+  "zh-hans": "押掌宝可梦"
+ },
+ "flavor": {
+  "en": "Pawmot’s fluffy fur acts as a battery. It can store the same amount of electricity as an electric car."
+ },
+ "varieties": [
+  {
+   "name": "pawmot",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "484"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "fire-lash",
+ "names": {
+  "ja-hrkt": "ほのおのムチ",
+  "ko": "불꽃채찍",
+  "zh-hant": "火焰鞭",
+  "fr": "Fouet de Feu",
+  "de": "Feuerpeitsche",
+  "es": "Látigo Ígneo",
+  "it": "Frusta di Fuoco",
+  "en": "Fire Lash",
+  "ja": "ほのおのムチ",
+  "zh-hans": "火焰鞭",
+  "es-419": "Látigo Ígneo"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Defense by one stage after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "불타는 채찍으로 상대를 친다. 공격을 받은 상대는 방어가 떨어진다.",
+  "en": "The user strikes the target with a burning lash. This also lowers the target's Defense stat."
+ }
+}

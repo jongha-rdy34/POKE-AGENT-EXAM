@@ -1,0 +1,28 @@
+{
+ "name": "clever-wing",
+ "names": {
+  "ja-hrkt": "せいしんのハネ",
+  "ko": "정신력깃털",
+  "zh-hant": "精神之羽",
+  "fr": "Plume Mental",
+  "de": "Espritfeder",
+  "es": "Pluma Mente",
+  "it": "Piumintuito",
+  "en": "Clever Feather",
+  "ja": "せいしんのハネ",
+  "zh-hans": "精神之羽",
+  "es-419": "Pluma Mente"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les EV de Défense Spéciale de 1.",
+  "en": "Increases Special Defense effort by 1."
+ },
+ "flavor": {
+  "en": "An item for use on a Pokémon. It slightly increases the Sp. Def base points of a single Pokémon.",
+  "ko": "포켓몬에게 사용하는 도구. 포켓몬 1마리의 특수방어 기초 포인트를 조금 올린다.",
+  "ja": "ポケモンに 使う 道具。 ポケモン １匹の 特防の 基礎ポイントを ちょっと あげる。"
+ }
+}

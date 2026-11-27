@@ -1,0 +1,31 @@
+{
+ "name": "mean-look",
+ "names": {
+  "ja-hrkt": "くろいまなざし",
+  "ko": "검은눈빛",
+  "zh-hant": "黑色目光",
+  "fr": "Regard Noir",
+  "de": "Horrorblick",
+  "es": "Mal de Ojo",
+  "it": "Malosguardo",
+  "en": "Mean Look",
+  "ja": "くろいまなざし",
+  "zh-hans": "黑色目光",
+  "es-419": "Mal de Ojo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from leaving battle."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user pins the target with a dark, arresting look. The target becomes unable to flee.",
+  "ko": "빨려 들어갈 것 같은 까만 눈빛으로 가만히 응시하여 상대를 배틀에서 도망갈 수 없게 한다."
+ }
+}

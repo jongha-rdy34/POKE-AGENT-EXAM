@@ -1,0 +1,23 @@
+{
+ "name": "aerilate",
+ "names": {
+  "ja-hrkt": "スカイスキン",
+  "ko": "스카이스킨",
+  "zh-hant": "飛行皮膚",
+  "fr": "Peau Céleste",
+  "de": "Zenithaut",
+  "es": "Piel Celeste",
+  "it": "Pellecielo",
+  "en": "Aerilate",
+  "ja": "スカイスキン",
+  "zh-hans": "飞行皮肤",
+  "es-419": "Piel Celeste"
+ },
+ "effect": {
+  "en": "Turns the bearer's Normal moves into Flying moves and strengthens them to 1.3× their power."
+ },
+ "flavor": {
+  "ko": "노말타입의 기술이 비행타입이 된다. 위력이 조금 올라간다.",
+  "en": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little."
+ }
+}

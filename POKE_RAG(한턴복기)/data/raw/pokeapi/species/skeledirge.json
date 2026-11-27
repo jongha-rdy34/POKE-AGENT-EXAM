@@ -1,0 +1,37 @@
+{
+ "id": 911,
+ "name": "skeledirge",
+ "names": {
+  "ja-hrkt": "ラウドボーン",
+  "ja-roma": "Laudbon",
+  "ko": "라우드본",
+  "zh-hant": "骨紋巨聲鱷",
+  "fr": "Flâmigator",
+  "de": "Skelokrok",
+  "es": "Skeledirge",
+  "it": "Skeledirge",
+  "en": "Skeledirge",
+  "ja": "ラウドボーン",
+  "zh-hans": "骨纹巨声鳄",
+  "es-419": "Skeledirge"
+ },
+ "genus": {
+  "ja-hrkt": "シンガーポケモン",
+  "ko": "싱어포켓몬",
+  "zh-hant": "歌手寶可夢",
+  "fr": "Chanteur",
+  "de": "Sänger",
+  "en": "Singer Pokémon",
+  "zh-hans": "歌手宝可梦"
+ },
+ "flavor": {
+  "en": "Skeledirge’s gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit."
+ },
+ "varieties": [
+  {
+   "name": "skeledirge",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "479"
+}

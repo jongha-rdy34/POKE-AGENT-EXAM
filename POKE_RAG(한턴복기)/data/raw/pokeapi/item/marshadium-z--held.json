@@ -1,0 +1,28 @@
+{
+ "name": "marshadium-z--held",
+ "names": {
+  "ja-hrkt": "マーシャドーＺ",
+  "ko": "마샤도Z",
+  "zh-hant": "瑪夏多Ｚ",
+  "fr": "Marshadozélite",
+  "de": "Marshadownium Z",
+  "es": "Marshastal Z",
+  "it": "Marshadium Z",
+  "en": "Marshadium Z",
+  "ja": "マーシャドーＺ",
+  "zh-hans": "玛夏多Ｚ",
+  "es-419": "Marshastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Marshadow d'améliorer Clepto-Mânes en Fauche-Âme des Sept Étoiles.",
+  "en": "Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 마샤도의 섀도스틸을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Marshadow’s Spectral Thief to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 マーシャドーの シャドースチールを Ｚワザに グレードアップする。"
+ }
+}

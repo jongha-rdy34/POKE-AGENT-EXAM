@@ -1,0 +1,42 @@
+{
+ "id": 391,
+ "name": "monferno",
+ "names": {
+  "ja-hrkt": "モウカザル",
+  "ja-roma": "Moukazaru",
+  "ko": "파이숭이",
+  "zh-hant": "猛火猴",
+  "fr": "Chimpenfeu",
+  "de": "Panpyro",
+  "es": "Monferno",
+  "it": "Monferno",
+  "en": "Monferno",
+  "ja": "モウカザル",
+  "zh-hans": "猛火猴",
+  "es-419": "Monferno"
+ },
+ "genus": {
+  "ja-hrkt": "やんちゃポケモン",
+  "ko": "개구쟁이포켓몬",
+  "zh-hant": "頑皮寶可夢",
+  "fr": "Pokémon Garnement",
+  "de": "Verspielt",
+  "es": "Pokémon Juguetón",
+  "it": "Pokémon Briccone",
+  "en": "Playful Pokémon",
+  "ja": "やんちゃポケモン",
+  "zh-hans": "顽皮宝可梦",
+  "es-419": "Pokémon Juguetón"
+ },
+ "flavor": {
+  "en": "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail.",
+  "ko": "천장이나 벽을 이용하여 공중 내리찍기를 날린다. 꼬리의 불꽃도 무기의 하나이다."
+ },
+ "varieties": [
+  {
+   "name": "monferno",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "204"
+}

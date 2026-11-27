@@ -1,0 +1,28 @@
+{
+ "name": "data-card-26",
+ "names": {
+  "ja-hrkt": "データカード２６",
+  "ko": "데이터카드26",
+  "zh-hant": "資料卡２６",
+  "fr": "Carte Mémo26",
+  "de": "Datenkarte26",
+  "es": "Tarjeta Datos 26",
+  "it": "Scheda Dati 26",
+  "en": "Data Card 26",
+  "ja": "データカード２６",
+  "zh-hans": "数据卡２６",
+  "es-419": "Tarjeta Datos 26"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a touché ses Pokémon au Pokéathlon.",
+  "en": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you instructed your Pokémon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬을 터치한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンを タッチした 回数が 記録された カード。"
+ }
+}

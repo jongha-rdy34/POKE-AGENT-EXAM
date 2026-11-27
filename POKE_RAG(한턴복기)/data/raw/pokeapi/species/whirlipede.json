@@ -1,0 +1,42 @@
+{
+ "id": 544,
+ "name": "whirlipede",
+ "names": {
+  "ja-hrkt": "ホイーガ",
+  "ja-roma": "Wheega",
+  "ko": "휠구",
+  "zh-hant": "車輪毬",
+  "fr": "Scobolide",
+  "de": "Rollum",
+  "es": "Whirlipede",
+  "it": "Whirlipede",
+  "en": "Whirlipede",
+  "ja": "ホイーガ",
+  "zh-hans": "车轮球",
+  "es-419": "Whirlipede"
+ },
+ "genus": {
+  "ja-hrkt": "まゆムカデポケモン",
+  "ko": "눈썹지네포켓몬",
+  "zh-hant": "繭蜈蚣寶可夢",
+  "fr": "Pokémon Coconplopode",
+  "de": "Kokonfüßer-Pokémon",
+  "es": "Pokémon Pupaciempiés",
+  "it": "Pokémon Rotopede",
+  "en": "Curlipede Pokémon",
+  "ja": "まゆムカデポケモン",
+  "zh-hans": "茧蜈蚣宝可梦",
+  "es-419": "Pokémon Pupaciempiés"
+ },
+ "flavor": {
+  "en": "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution.",
+  "ko": "단단한 껍질과 독가시로 몸을 보호하면서 진화에 필요한 에너지를 비축하고 있다."
+ },
+ "varieties": [
+  {
+   "name": "whirlipede",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "277"
+}

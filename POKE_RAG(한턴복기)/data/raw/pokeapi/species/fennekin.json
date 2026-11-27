@@ -1,0 +1,42 @@
+{
+ "id": 653,
+ "name": "fennekin",
+ "names": {
+  "ja-hrkt": "フォッコ",
+  "ja-roma": "Fokko",
+  "ko": "푸호꼬",
+  "zh-hant": "火狐狸",
+  "fr": "Feunnec",
+  "de": "Fynx",
+  "es": "Fennekin",
+  "it": "Fennekin",
+  "en": "Fennekin",
+  "ja": "フォッコ",
+  "zh-hans": "火狐狸",
+  "es-419": "Fennekin"
+ },
+ "genus": {
+  "ja-hrkt": "キツネポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "キツネポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "ko": "작은 나뭇가지를 들고 다니며 간식 대신 아작아작 먹는다. 귀에서 열기를 뿜어내어 상대를 위협한다.",
+  "en": "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears."
+ },
+ "varieties": [
+  {
+   "name": "fennekin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "338"
+}

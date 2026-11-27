@@ -1,0 +1,23 @@
+{
+ "name": "glalie-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Oniglali",
+  "de": "Mega-Firnontor",
+  "en": "Mega Glalie"
+ },
+ "form_names": {
+  "ja-hrkt": "メガオニゴーリ",
+  "ko": "메가얼음귀신",
+  "zh-hant": "超級冰鬼護",
+  "fr": "Méga-Oniglali",
+  "de": "Mega-Form",
+  "es": "Mega-Glalie",
+  "it": "MegaGlalie",
+  "en": "Mega Glalie",
+  "ja": "メガオニゴーリ",
+  "zh-hans": "超级冰鬼护",
+  "es-419": "Mega-Glalie"
+ },
+ "is_mega": true
+}

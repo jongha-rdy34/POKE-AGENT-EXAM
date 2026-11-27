@@ -1,0 +1,31 @@
+{
+ "name": "life-dew",
+ "names": {
+  "ja-hrkt": "いのちのしずく",
+  "ko": "생명의물방울",
+  "zh-hant": "生命水滴",
+  "fr": "Fontaine de Vie",
+  "de": "Lebenstropfen",
+  "es": "Gota Vital",
+  "it": "Goccia Vitale",
+  "en": "Life Dew",
+  "ja": "いのちのしずく",
+  "zh-hans": "生命水滴",
+  "es-419": "Gota Vital"
+ },
+ "type": "water",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user-and-allies",
+ "effect": {
+  "en": "Each Pokemon on the user's side restores 1/4 of its maximum HP, rounded half up."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "신비한 물을 흩뿌려서 자신과 배틀에 나와 있는 같은 편의 HP를 회복한다.",
+  "en": "The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle."
+ }
+}

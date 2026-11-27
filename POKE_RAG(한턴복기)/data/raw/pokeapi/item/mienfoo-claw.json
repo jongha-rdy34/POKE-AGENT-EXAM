@@ -1,0 +1,20 @@
+{
+ "name": "mienfoo-claw",
+ "names": {
+  "ja-hrkt": "コジョフーのツメ",
+  "ko": "비조푸의손톱",
+  "zh-hant": "功夫鼬的爪子",
+  "fr": "Griffe de Kungfouine",
+  "de": "Lin-Fu-Kralle",
+  "es": "Garra de Mienfoo",
+  "it": "Artiglio di Mienfoo",
+  "en": "Mienfoo Claw",
+  "ja": "コジョフーのツメ",
+  "zh-hans": "功夫鼬的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

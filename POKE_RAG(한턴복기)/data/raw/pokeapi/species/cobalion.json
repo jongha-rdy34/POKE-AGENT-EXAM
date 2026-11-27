@@ -1,0 +1,42 @@
+{
+ "id": 638,
+ "name": "cobalion",
+ "names": {
+  "ja-hrkt": "コバルオン",
+  "ja-roma": "Cobalon",
+  "ko": "코바르온",
+  "zh-hant": "勾帕路翁",
+  "fr": "Cobaltium",
+  "de": "Kobalium",
+  "es": "Cobalion",
+  "it": "Cobalion",
+  "en": "Cobalion",
+  "ja": "コバルオン",
+  "zh-hans": "勾帕路翁",
+  "es-419": "Cobalion"
+ },
+ "genus": {
+  "ja-hrkt": "てっしんポケモン",
+  "ko": "철심포켓몬",
+  "zh-hant": "鐵心寶可夢",
+  "fr": "Pokémon Cœur de Fer",
+  "de": "Eisenkern-Pokémon",
+  "es": "Pokémon Tesón Acero",
+  "it": "Pokémon Metalcuore",
+  "en": "Iron Will Pokémon",
+  "ja": "てっしんポケモン",
+  "zh-hans": "铁心宝可梦",
+  "es-419": "Pokémon Tesón Acero"
+ },
+ "flavor": {
+  "en": "From the moment it’s born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes.",
+  "ko": "태어나면서부터 리더의 품격을 몸에 지녔다. 흉포한 상대도 코바르온의 앞에서는 온순하다."
+ },
+ "varieties": [
+  {
+   "name": "cobalion",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "325"
+}

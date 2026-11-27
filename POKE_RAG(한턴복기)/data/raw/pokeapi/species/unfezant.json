@@ -1,0 +1,42 @@
+{
+ "id": 521,
+ "name": "unfezant",
+ "names": {
+  "ja-hrkt": "ケンホロウ",
+  "ja-roma": "Kenhallow",
+  "ko": "켄호로우",
+  "zh-hant": "高傲雉雞",
+  "fr": "Déflaisan",
+  "de": "Fasasnob",
+  "es": "Unfezant",
+  "it": "Unfezant",
+  "en": "Unfezant",
+  "ja": "ケンホロウ",
+  "zh-hans": "高傲雉鸡",
+  "es-419": "Unfezant"
+ },
+ "genus": {
+  "ja-hrkt": "プライドポケモン",
+  "ko": "프라이드포켓몬",
+  "zh-hant": "自尊心寶可夢",
+  "fr": "Pokémon Fier",
+  "de": "Stolz-Pokémon",
+  "es": "Pokémon Altanero",
+  "it": "Pokémon Orgoglio",
+  "en": "Proud Pokémon",
+  "ja": "プライドポケモン",
+  "zh-hans": "自尊心宝可梦",
+  "es-419": "Pokémon Altanero"
+ },
+ "flavor": {
+  "en": "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one.",
+  "ko": "영리한 만큼 프라이드도 높다. 켄호로우의 트레이너가 되면 모두에게 실력을 인정받는다."
+ },
+ "varieties": [
+  {
+   "name": "unfezant",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "266"
+}

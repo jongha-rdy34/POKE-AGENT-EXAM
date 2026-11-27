@@ -1,0 +1,42 @@
+{
+ "id": 698,
+ "name": "amaura",
+ "names": {
+  "ja-hrkt": "アマルス",
+  "ja-roma": "Amarus",
+  "ko": "아마루스",
+  "zh-hant": "冰雪龍",
+  "fr": "Amagara",
+  "de": "Amarino",
+  "es": "Amaura",
+  "it": "Amaura",
+  "en": "Amaura",
+  "ja": "アマルス",
+  "zh-hans": "冰雪龙",
+  "es-419": "Amaura"
+ },
+ "genus": {
+  "ja-hrkt": "ツンドラポケモン",
+  "ko": "툰드라포켓몬",
+  "zh-hant": "凍原寶可夢",
+  "fr": "Pokémon Toundra",
+  "de": "Tundra-Pokémon",
+  "es": "Pokémon Tundra",
+  "it": "Pokémon Tundra",
+  "en": "Tundra Pokémon",
+  "ja": "ツンドラポケモン",
+  "zh-hans": "冻原宝可梦",
+  "es-419": "Pokémon Tundra"
+ },
+ "flavor": {
+  "ko": "멸종한 고대의 포켓몬이다. 얼어붙은 상태로 발견되기도 한다.",
+  "en": "Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice."
+ },
+ "varieties": [
+  {
+   "name": "amaura",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "358"
+}

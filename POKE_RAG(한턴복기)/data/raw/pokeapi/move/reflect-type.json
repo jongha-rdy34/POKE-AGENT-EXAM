@@ -1,0 +1,31 @@
+{
+ "name": "reflect-type",
+ "names": {
+  "ja-hrkt": "ミラータイプ",
+  "ko": "미러타입",
+  "zh-hant": "鏡面屬性",
+  "fr": "Copie-Type",
+  "de": "Typenspiegel",
+  "es": "Clonatipo",
+  "it": "Riflettipo",
+  "en": "Reflect Type",
+  "ja": "ミラータイプ",
+  "zh-hans": "镜面属性",
+  "es-419": "Clonatipo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User becomes the target’s type."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user reflects the target's type to become the same type as the target.",
+  "ko": "상대의 타입을 반사해서 자신도 똑같은 타입이 된다."
+ }
+}

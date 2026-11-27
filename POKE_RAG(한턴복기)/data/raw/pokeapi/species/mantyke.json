@@ -1,0 +1,42 @@
+{
+ "id": 458,
+ "name": "mantyke",
+ "names": {
+  "ja-hrkt": "タマンタ",
+  "ja-roma": "Tamanta",
+  "ko": "타만타",
+  "zh-hant": "小球飛魚",
+  "fr": "Babimanta",
+  "de": "Mantirps",
+  "es": "Mantyke",
+  "it": "Mantyke",
+  "en": "Mantyke",
+  "ja": "タマンタ",
+  "zh-hans": "小球飞鱼",
+  "es-419": "Mantyke"
+ },
+ "genus": {
+  "ja-hrkt": "カイトポケモン",
+  "ko": "연포켓몬",
+  "zh-hant": "風箏寶可夢",
+  "fr": "Pokémon Cervolant",
+  "de": "Flugrochen-Pokémon",
+  "es": "Pokémon Milano",
+  "it": "Pokémon Aquilone",
+  "en": "Kite Pokémon",
+  "ja": "カイトポケモン",
+  "zh-hans": "风筝宝可梦",
+  "es-419": "Pokémon Milano"
+ },
+ "flavor": {
+  "en": "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution.",
+  "ko": "총어 무리에 섞여서 헤엄친다. 적에게 습격당하면 무리와 함께 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "mantyke",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "116"
+}

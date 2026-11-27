@@ -1,0 +1,23 @@
+{
+ "name": "charizard-mega-x",
+ "form_name": "mega-x",
+ "names": {
+  "fr": "Méga-Dracaufeu X",
+  "de": "Mega-Glurak X",
+  "en": "Mega Charizard X"
+ },
+ "form_names": {
+  "ja-hrkt": "メガリザードンＸ",
+  "ko": "메가리자몽X",
+  "zh-hant": "超級噴火龍Ｘ",
+  "fr": "Méga-Dracaufeu X",
+  "de": "Mega-Form",
+  "es": "Mega-Charizard X",
+  "it": "MegaCharizard X",
+  "en": "Mega Charizard X",
+  "ja": "メガリザードンＸ",
+  "zh-hans": "超级喷火龙Ｘ",
+  "es-419": "Mega-Charizard X"
+ },
+ "is_mega": true
+}

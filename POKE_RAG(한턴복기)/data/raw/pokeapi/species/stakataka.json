@@ -1,0 +1,42 @@
+{
+ "id": 805,
+ "name": "stakataka",
+ "names": {
+  "ja-hrkt": "ツンデツンデ",
+  "ja-roma": "Tundetunde",
+  "ko": "차곡차곡",
+  "zh-hant": "壘磊石",
+  "fr": "Ama-Ama",
+  "de": "Muramura",
+  "es": "Stakataka",
+  "it": "Stakataka",
+  "en": "Stakataka",
+  "ja": "ツンデツンデ",
+  "zh-hans": "垒磊石",
+  "es-419": "Stakataka"
+ },
+ "genus": {
+  "ja-hrkt": "いしがきポケモン",
+  "ko": "돌담포켓몬",
+  "zh-hant": "石牆寶可夢",
+  "fr": "Pokémon Muraille",
+  "de": "Steinmauer-Pokémon",
+  "es": "Pokémon Muro",
+  "it": "Pokémon Bastione",
+  "en": "Rampart Pokémon",
+  "ja": "いしがきポケモン",
+  "zh-hans": "石墙宝可梦",
+  "es-419": "Pokémon Muro"
+ },
+ "flavor": {
+  "ko": "UB 같은 수수께끼의 생명체. 갑자기 움직이기 시작해서 덮쳐온 돌담의 정체는 이 녀석이다.",
+  "en": "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast."
+ },
+ "varieties": [
+  {
+   "name": "stakataka",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "425"
+}

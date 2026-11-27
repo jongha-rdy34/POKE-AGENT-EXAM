@@ -1,0 +1,28 @@
+{
+ "name": "mimikium-z--held",
+ "names": {
+  "ja-hrkt": "ミミッキュＺ",
+  "ko": "따라큐Z",
+  "zh-hant": "謎擬ＱＺ",
+  "fr": "Mimiquizélite",
+  "de": "Mimigmium Z",
+  "es": "Mimikyustal Z",
+  "it": "Mimikyum Z",
+  "en": "Mimikium Z",
+  "ja": "ミミッキュＺ",
+  "zh-hans": "谜拟ＱＺ",
+  "es-419": "Mimikyustal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour mimikium-z--held",
+  "en": "XXX new effect for mimikium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 따라큐의 치근거리기를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Mimikyu’s Play Rough to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ミミッキュの じゃれつくを Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "name": "roto-stick",
+ "names": {
+  "ja-hrkt": "ロトりぼう",
+  "fr": "Perche à Motismart",
+  "en": "Roto Stick",
+  "ja": "ロトりぼう"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

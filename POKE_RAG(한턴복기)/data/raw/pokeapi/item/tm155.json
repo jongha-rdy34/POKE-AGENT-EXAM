@@ -1,0 +1,20 @@
+{
+ "name": "tm155",
+ "names": {
+  "ja-hrkt": "わざマシン１５５",
+  "ko": "기술머신155",
+  "zh-hant": "招式學習器１５５",
+  "fr": "CT155",
+  "de": "TM155",
+  "es": "MT155",
+  "it": "MT155",
+  "en": "TM155",
+  "ja": "わざマシン１５５",
+  "zh-hans": "招式学习器１５５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

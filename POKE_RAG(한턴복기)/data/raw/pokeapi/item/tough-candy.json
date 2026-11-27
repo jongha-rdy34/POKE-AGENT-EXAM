@@ -1,0 +1,25 @@
+{
+ "name": "tough-candy",
+ "names": {
+  "ja-hrkt": "まもりのアメ",
+  "ko": "수비의사탕",
+  "zh-hant": "守護糖果",
+  "fr": "Bonbon Armure S",
+  "de": "Robustbonbon",
+  "es": "Caramelo Aguante",
+  "it": "Caramella protezione S",
+  "en": "Tough Candy",
+  "ja": "まもりのアメ",
+  "zh-hans": "守护糖果",
+  "es-419": "Caramelo Aguante"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 방어를 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Defense stat.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの ぼうぎょを 上げる。"
+ }
+}

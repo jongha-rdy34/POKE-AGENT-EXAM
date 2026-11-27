@@ -1,0 +1,28 @@
+{
+ "name": "solganium-z--held",
+ "names": {
+  "ja-hrkt": "ソルガレオＺ",
+  "ko": "솔가레오Z",
+  "zh-hant": "索爾迦雷歐Ｚ",
+  "fr": "Solgazélite",
+  "de": "Solgalium Z",
+  "es": "Solgaleostal Z",
+  "it": "Solgaleium Z",
+  "en": "Solganium Z",
+  "ja": "ソルガレオＺ",
+  "zh-hans": "索尔迦雷欧Ｚ",
+  "es-419": "Solgaleostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour solganium-z--held",
+  "en": "XXX new effect for solganium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 솔가레오의 메테오드라이브를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Solgaleo’s Sunsteel Strike to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ソルガレオの メテオドライブを Ｚワザに グレードアップする。"
+ }
+}

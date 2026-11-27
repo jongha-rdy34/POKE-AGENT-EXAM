@@ -1,0 +1,28 @@
+{
+ "name": "roto-boost",
+ "names": {
+  "ja-hrkt": "おうえんポン",
+  "ko": "응원캡슐토이",
+  "zh-hant": "加油碰碰",
+  "fr": "Moti-Soutien",
+  "de": "Statuswertebon",
+  "es": "Cupón Refuerzo",
+  "it": "Stat’n’roll",
+  "en": "Roto Boost",
+  "ja": "おうえんポン",
+  "zh-hans": "加油碰碰",
+  "es-419": "Cupón Refuerzo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-boost",
+  "en": "XXX new effect for roto-boost"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 싸우고 있는 자신의 포켓몬의 능력이 모두 올라간다.",
+  "en": "One of the Rotom Powers. It raises all stats of your battling Pokémon.",
+  "ja": "ロトムパワーの ひとつ。 戦っている 自分の ポケモンの 能力が すべて あがる。"
+ }
+}

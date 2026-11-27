@@ -1,0 +1,15 @@
+{
+ "name": "chandelure-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Lugulabre",
+  "en": "Mega Chandelure"
+ },
+ "form_names": {
+  "ja-hrkt": "メガシャンデラ",
+  "fr": "Méga-Lugulabre",
+  "en": "Mega Chandelure",
+  "ja": "メガシャンデラ"
+ },
+ "is_mega": true
+}

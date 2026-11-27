@@ -1,0 +1,30 @@
+{
+ "name": "payapa-berry",
+ "names": {
+  "ja-hrkt": "ウタンのみ",
+  "ko": "야파열매",
+  "zh-hant": "福祿果",
+  "fr": "Baie Yapap",
+  "de": "Pyapabeere",
+  "es": "Baya Payapa",
+  "it": "Baccapayapa",
+  "en": "Payapa Berry",
+  "ja": "ウタンのみ",
+  "zh-hans": "福禄果",
+  "es-419": "Baya Payapa"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Psy super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Psychic-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 에스퍼 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの エスパー技を 受けたとき 威力が 弱まる。"
+ }
+}

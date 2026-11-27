@@ -1,0 +1,20 @@
+{
+ "name": "blue-flag-pick",
+ "names": {
+  "ja-hrkt": "あおいはたピック",
+  "ko": "파랑 깃발 픽",
+  "zh-hant": "藍旗子三明治籤",
+  "fr": "Pique à Fanion Bleu",
+  "de": "Blaufahnen-Pikser",
+  "es": "Palillo Bandera Azul",
+  "it": "Bandierina blu",
+  "en": "Blue-Flag Pick",
+  "ja": "あおいはたピック",
+  "zh-hans": "蓝旗子三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

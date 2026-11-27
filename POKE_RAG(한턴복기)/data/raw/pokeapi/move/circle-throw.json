@@ -1,0 +1,31 @@
+{
+ "name": "circle-throw",
+ "names": {
+  "ja-hrkt": "ともえなげ",
+  "ko": "배대뒤치기",
+  "zh-hant": "巴投",
+  "fr": "Projection",
+  "de": "Überkopfwurf",
+  "es": "Llave Giro",
+  "it": "Ribaltiro",
+  "en": "Circle Throw",
+  "ja": "ともえなげ",
+  "zh-hans": "巴投",
+  "es-419": "Llave Giro"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": -6,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Ends wild battles.  Forces trainers to switch Pokémon."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+  "ko": "상대를 내던져서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 879,
+ "name": "copperajah",
+ "names": {
+  "ja-hrkt": "ダイオウドウ",
+  "ja-roma": "Daioudou",
+  "ko": "대왕끼리동",
+  "zh-hant": "大王銅象",
+  "fr": "Pachyradjah",
+  "de": "Patinaraja",
+  "es": "Copperajah",
+  "it": "Copperajah",
+  "en": "Copperajah",
+  "ja": "ダイオウドウ",
+  "zh-hans": "大王铜象",
+  "es-419": "Copperajah"
+ },
+ "genus": {
+  "ja-hrkt": "どうぞうポケモン",
+  "ko": "동상포켓몬",
+  "zh-hant": "像銅寶可夢",
+  "fr": "Pokémon Pachycuivre",
+  "de": "Kupferfant-Pokémon",
+  "es": "Pokémon Broncefante",
+  "it": "Pokémon Bronzofante",
+  "en": "Copperderm Pokémon",
+  "ja": "どうぞうポケモン",
+  "zh-hans": "像铜宝可梦",
+  "es-419": "Pokémon Broncefante"
+ },
+ "flavor": {
+  "ko": "무리를 지어 생활한다. 코의 악력은 큰 바위도 산산이 부술 정도로 강하다.",
+  "en": "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder."
+ },
+ "varieties": [
+  {
+   "name": "copperajah",
+   "is_default": true
+  },
+  {
+   "name": "copperajah-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "460"
+}

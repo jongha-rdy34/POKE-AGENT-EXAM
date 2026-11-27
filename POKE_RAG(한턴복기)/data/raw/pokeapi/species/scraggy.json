@@ -1,0 +1,42 @@
+{
+ "id": 559,
+ "name": "scraggy",
+ "names": {
+  "ja-hrkt": "ズルッグ",
+  "ja-roma": "Zuruggu",
+  "ko": "곤율랭",
+  "zh-hant": "滑滑小子",
+  "fr": "Baggiguane",
+  "de": "Zurrokex",
+  "es": "Scraggy",
+  "it": "Scraggy",
+  "en": "Scraggy",
+  "ja": "ズルッグ",
+  "zh-hans": "滑滑小子",
+  "es-419": "Scraggy"
+ },
+ "genus": {
+  "ja-hrkt": "だっぴポケモン",
+  "ko": "탈피포켓몬",
+  "zh-hant": "蛻皮寶可夢",
+  "fr": "Pokémon Mue",
+  "de": "Hautwechsel-Pokémon",
+  "es": "Pokémon Mudapiel",
+  "it": "Pokémon Mutapelle",
+  "en": "Shedding Pokémon",
+  "ja": "だっぴポケモン",
+  "zh-hans": "蜕皮宝可梦",
+  "es-419": "Pokémon Mudapiel"
+ },
+ "flavor": {
+  "en": "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out.",
+  "ko": "튼튼한 가죽으로 몸을 지킨다. 가죽이 다 늘어나면 진화할 때가 되었다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "scraggy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "285"
+}

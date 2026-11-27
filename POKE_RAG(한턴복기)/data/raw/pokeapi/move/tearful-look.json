@@ -1,0 +1,31 @@
+{
+ "name": "tearful-look",
+ "names": {
+  "ja-hrkt": "なみだめ",
+  "ko": "눈물그렁그렁",
+  "zh-hant": "淚眼汪汪",
+  "fr": "Larme à l’Œil",
+  "de": "Tränendrüse",
+  "es": "Ojos Llorosos",
+  "it": "Occhionilucidi",
+  "en": "Tearful Look",
+  "ja": "なみだめ",
+  "zh-hans": "泪眼汪汪",
+  "es-419": "Ojos Llorosos"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack and Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "눈물을 그렁그렁거려 상대의 전의를 상실하게 한다. 상대의 공격과 특수공격이 떨어진다.",
+  "en": "The user gets teary-eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "expanding-force",
+ "names": {
+  "ja-hrkt": "ワイドフォース",
+  "ko": "와이드포스",
+  "zh-hant": "廣域戰力",
+  "fr": "Vaste Pouvoir",
+  "de": "Flächenmacht",
+  "es": "Vasta Fuerza",
+  "it": "Vastenergia",
+  "en": "Expanding Force",
+  "ja": "ワイドフォース",
+  "zh-hans": "广域战力",
+  "es-419": "Vasta Fuerza"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If Psychic Terrain is active and the user is grounded, this move hits all opposing Pokemon and has its power incrased by 50%."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "사이코 파워로 상대를 공격한다. 사이코필드일 때는 위력이 오르며 모든 상대에게 데미지를 준다.",
+  "en": "The user attacks the target with its psychic power. When the ground is Psychic Terrain, this move's power is boosted and it damages all opposing Pokémon."
+ }
+}

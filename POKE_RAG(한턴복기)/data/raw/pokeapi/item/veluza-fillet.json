@@ -1,0 +1,20 @@
+{
+ "name": "veluza-fillet",
+ "names": {
+  "ja-hrkt": "ミガルーサのきりみ",
+  "ko": "가비루사의토막",
+  "zh-hant": "輕身鱈的魚片",
+  "fr": "Chair de Délestin",
+  "de": "Agiluza-Filet",
+  "es": "Carne de Veluza",
+  "it": "Filetto di Veluza",
+  "en": "Veluza Fillet",
+  "ja": "ミガルーサのきりみ",
+  "zh-hans": "轻身鳕的鱼片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,46 @@
+{
+ "id": 890,
+ "name": "eternatus",
+ "names": {
+  "ja-hrkt": "ムゲンダイナ",
+  "ja-roma": "Mugendina",
+  "ko": "무한다이노",
+  "zh-hant": "無極汰那",
+  "fr": "Éthernatos",
+  "de": "Endynalos",
+  "es": "Eternatus",
+  "it": "Eternatus",
+  "en": "Eternatus",
+  "ja": "ムゲンダイナ",
+  "zh-hans": "无极汰那",
+  "es-419": "Eternatus"
+ },
+ "genus": {
+  "ja-hrkt": "キョダイポケモン",
+  "ko": "거대포켓몬",
+  "zh-hant": "超極巨寶可夢",
+  "fr": "Pokémon Giga",
+  "de": "Giganten-Pokémon",
+  "es": "Pokémon Gigantesco",
+  "it": "Pokémon Gigante",
+  "en": "Gigantic Pokémon",
+  "ja": "キョダイポケモン",
+  "zh-hans": "超极巨宝可梦",
+  "es-419": "Pokémon Gigantesco"
+ },
+ "flavor": {
+  "ko": "2만 년 전에 떨어진 운석 안에 있었다. 다이맥스의 수수께끼와 관련이 있는 듯하다.",
+  "en": "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon."
+ },
+ "varieties": [
+  {
+   "name": "eternatus",
+   "is_default": true
+  },
+  {
+   "name": "eternatus-eternamax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "469"
+}

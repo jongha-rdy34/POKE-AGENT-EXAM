@@ -1,0 +1,28 @@
+{
+ "name": "dire-hit-2",
+ "names": {
+  "ja-hrkt": "クリティカット２",
+  "ko": "크리티컬커터2",
+  "zh-hant": "要害攻擊２",
+  "fr": "Muscle 2",
+  "de": "X-Volltreffer 2",
+  "es": "Crítico X 2",
+  "it": "Supercolpo 2",
+  "en": "Dire Hit 2",
+  "ja": "クリティカット２",
+  "zh-hans": "要害攻击２",
+  "es-419": "Crítico X 2"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente le taux de coups critiques de deux niveaux en combat.  Shooter Miracle seulement.",
+  "en": "Raises critical hit rate by two stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn.",
+  "ko": "급소 명중률이 올라간다. 사용할 때마다 효과가 올라간다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "急所率が あがる。 使うたびに 効果が アップする。 ひっこめると 元に 戻る。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "sucker-punch",
+ "names": {
+  "ja-hrkt": "ふいうち",
+  "ko": "기습",
+  "zh-hant": "突襲",
+  "fr": "Coup Bas",
+  "de": "Tiefschlag",
+  "es": "Golpe Bajo",
+  "it": "Sbigoattacco",
+  "en": "Sucker Punch",
+  "ja": "ふいうち",
+  "zh-hans": "突袭",
+  "es-419": "Golpe Bajo"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Only works if the target is about to use a damaging move."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move enables the user to attack first. This move fails if the target is not readying an attack.",
+  "ko": "상대보다 먼저 공격할 수 있다. 상대가 쓴 기술이 공격기술이 아니면 실패한다."
+ }
+}

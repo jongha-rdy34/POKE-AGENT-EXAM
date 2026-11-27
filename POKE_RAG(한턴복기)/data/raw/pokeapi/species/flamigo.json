@@ -1,0 +1,37 @@
+{
+ "id": 973,
+ "name": "flamigo",
+ "names": {
+  "ja-hrkt": "カラミンゴ",
+  "ja-roma": "Karamingo",
+  "ko": "꼬이밍고",
+  "zh-hant": "纏紅鶴",
+  "fr": "Flamenroule",
+  "de": "Flaminkno",
+  "es": "Flamigo",
+  "it": "Flamigo",
+  "en": "Flamigo",
+  "ja": "カラミンゴ",
+  "zh-hans": "纏红鹤",
+  "es-419": "Flamigo"
+ },
+ "genus": {
+  "ja-hrkt": "シンクロポケモン",
+  "ko": "싱크로포켓몬",
+  "zh-hant": "同步寶可夢",
+  "fr": "Synchro",
+  "de": "Synchron",
+  "en": "Synchronize Pokémon",
+  "zh-hans": "同步宝可梦"
+ },
+ "flavor": {
+  "en": "Thanks to a behavior of theirs known as “synchronizing,” an entire flock of these Pokémon can attack simultaneously in perfect harmony."
+ },
+ "varieties": [
+  {
+   "name": "flamigo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "510"
+}

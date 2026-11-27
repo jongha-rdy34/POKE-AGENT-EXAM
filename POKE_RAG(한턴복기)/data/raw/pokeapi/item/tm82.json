@@ -1,0 +1,28 @@
+{
+ "name": "tm82",
+ "names": {
+  "ja-hrkt": "わざマシン８２",
+  "ko": "기술머신82",
+  "zh-hant": "招式學習器８２",
+  "fr": "CT82",
+  "de": "TM82",
+  "es": "MT82",
+  "it": "MT82",
+  "en": "TM82",
+  "ja": "わざマシン８２",
+  "zh-hans": "招式学习器８２",
+  "es-419": "MT82"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Draco-Queue à un Pokémon compatible. (Gén IV: Blabla Dodo)",
+  "en": "Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)"
+ },
+ "flavor": {
+  "en": "The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stats.",
+  "ko": "전기 네트로 상대를 붙잡아서 공격한다. 상대의 스피드를 떨어뜨린다.",
+  "ja": "電気の ネットで 相手を 捕まえて 攻撃する。 相手の 素早さを さげる。"
+ }
+}

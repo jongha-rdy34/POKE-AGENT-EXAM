@@ -1,0 +1,23 @@
+{
+ "name": "illusion",
+ "names": {
+  "ja-hrkt": "イリュージョン",
+  "ko": "일루전",
+  "zh-hant": "幻覺",
+  "fr": "Illusion",
+  "de": "Trugbild",
+  "es": "Ilusión",
+  "it": "Illusione",
+  "en": "Illusion",
+  "ja": "イリュージョン",
+  "zh-hans": "幻觉",
+  "es-419": "Ilusión"
+ },
+ "effect": {
+  "en": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+ },
+ "flavor": {
+  "en": "The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party.",
+  "ko": "지닌 포켓몬 중 제일 뒤에 있는 포켓몬으로 둔갑하여 나와서 상대를 속인다."
+ }
+}

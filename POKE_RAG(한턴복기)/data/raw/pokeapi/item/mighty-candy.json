@@ -1,0 +1,25 @@
+{
+ "name": "mighty-candy",
+ "names": {
+  "ja-hrkt": "ちからのアメ",
+  "ko": "힘의사탕",
+  "zh-hant": "力量糖果",
+  "fr": "Bonbon Force S",
+  "de": "Stärkebonbon",
+  "es": "Caramelo Músculo",
+  "it": "Caramella potenza S",
+  "en": "Mighty Candy",
+  "ja": "ちからのアメ",
+  "zh-hans": "力量糖果",
+  "es-419": "Caramelo Músculo"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 공격을 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Attack stat.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの こうげきを 上げる。"
+ }
+}

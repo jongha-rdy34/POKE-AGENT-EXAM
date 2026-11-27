@@ -1,0 +1,20 @@
+{
+ "name": "bitter-herba-mystica",
+ "names": {
+  "ja-hrkt": "ひでん：にがスパイス",
+  "ko": "비전 쌉쌀스파이스",
+  "zh-hant": "秘傳：苦味料",
+  "fr": "Épice Secrète Amère",
+  "de": "Bitteres Geheimgewürz",
+  "es": "Especia Oculta Amarga",
+  "it": "Spezia nascosta amara",
+  "en": "Bitter Herba Mystica",
+  "ja": "ひでん：にがスパイス",
+  "zh-hans": "秘传：苦味料"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

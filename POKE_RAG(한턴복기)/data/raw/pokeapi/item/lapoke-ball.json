@@ -1,0 +1,20 @@
+{
+ "name": "lapoke-ball",
+ "names": {
+  "ko": "몬스터볼",
+  "zh-hant": "精靈球",
+  "fr": "Poké Ball",
+  "de": "Pokéball",
+  "es": "Poké Ball",
+  "it": "Poké Ball",
+  "en": "Poké Ball",
+  "ja": "モンスターボール",
+  "zh-hans": "精灵球",
+  "es-419": "Pokébola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

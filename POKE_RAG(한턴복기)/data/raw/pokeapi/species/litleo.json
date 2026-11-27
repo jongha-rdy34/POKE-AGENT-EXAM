@@ -1,0 +1,42 @@
+{
+ "id": 667,
+ "name": "litleo",
+ "names": {
+  "ja-hrkt": "シシコ",
+  "ja-roma": "Shishiko",
+  "ko": "레오꼬",
+  "zh-hant": "小獅獅",
+  "fr": "Hélionceau",
+  "de": "Leufeo",
+  "es": "Litleo",
+  "it": "Litleo",
+  "en": "Litleo",
+  "ja": "シシコ",
+  "zh-hans": "小狮狮",
+  "es-419": "Litleo"
+ },
+ "genus": {
+  "ja-hrkt": "わかじしポケモン",
+  "ko": "어린사자포켓몬",
+  "zh-hant": "幼獅寶可夢",
+  "fr": "Pokémon Lionceau",
+  "de": "Junglöwe",
+  "es": "Pokémon Leoncito",
+  "it": "Pokémon Leoncino",
+  "en": "Lion Cub Pokémon",
+  "ja": "わかじしポケモン",
+  "zh-hans": "幼狮宝可梦",
+  "es-419": "Pokémon Leoncito"
+ },
+ "flavor": {
+  "ko": "혈기가 왕성하고 호기심도 왕성하다. 화가 나거나 싸움이 시작되면 짧은 갈기가 뜨거워진다.",
+  "en": "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot."
+ },
+ "varieties": [
+  {
+   "name": "litleo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "343"
+}

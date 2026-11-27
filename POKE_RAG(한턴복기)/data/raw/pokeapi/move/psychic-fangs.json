@@ -1,0 +1,31 @@
+{
+ "name": "psychic-fangs",
+ "names": {
+  "ja-hrkt": "サイコファング",
+  "ko": "사이코팽",
+  "zh-hant": "精神之牙",
+  "fr": "Psycho-Croc",
+  "de": "Psychobeißer",
+  "es": "Psicocolmillo",
+  "it": "Psicozanna",
+  "en": "Psychic Fangs",
+  "ja": "サイコファング",
+  "zh-hans": "精神之牙",
+  "es-419": "Psicocolmillo"
+ },
+ "type": "psychic",
+ "category": "physical",
+ "power": 85,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Destroys Reflect and Light Screen."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "사이코 파워로 물어서 상대를 공격한다. 빛의장막이나 리플렉터도 파괴할 수 있다.",
+  "en": "The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect."
+ }
+}

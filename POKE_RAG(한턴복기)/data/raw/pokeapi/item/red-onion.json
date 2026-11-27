@@ -1,0 +1,20 @@
+{
+ "name": "red-onion",
+ "names": {
+  "ja-hrkt": "アーリーレッド",
+  "ko": "적양파",
+  "zh-hant": "紅洋蔥",
+  "fr": "Oignon Rouge",
+  "de": "Rote Zwiebel",
+  "es": "Cebolla Roja",
+  "it": "Cipolla rossa",
+  "en": "Red Onion",
+  "ja": "アーリーレッド",
+  "zh-hans": "红洋葱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

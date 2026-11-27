@@ -1,0 +1,42 @@
+{
+ "id": 5,
+ "name": "charmeleon",
+ "names": {
+  "ja-hrkt": "リザード",
+  "ja-roma": "Lizardo",
+  "ko": "리자드",
+  "zh-hant": "火恐龍",
+  "fr": "Reptincel",
+  "de": "Glutexo",
+  "es": "Charmeleon",
+  "it": "Charmeleon",
+  "en": "Charmeleon",
+  "ja": "リザード",
+  "zh-hans": "火恐龙",
+  "es-419": "Charmeleon"
+ },
+ "genus": {
+  "ja-hrkt": "かえんポケモン",
+  "ko": "화염포켓몬",
+  "zh-hant": "火焰寶可夢",
+  "fr": "Pokémon Flamme",
+  "de": "Flammen-Pokémon",
+  "es": "Pokémon Llama",
+  "it": "Pokémon Fiamma",
+  "en": "Flame Pokémon",
+  "ja": "かえんポケモン",
+  "zh-hans": "火焰宝可梦",
+  "es-419": "Pokémon Llama"
+ },
+ "flavor": {
+  "en": "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.",
+  "ko": "싸움으로 기분이 고조되면 작열하는 불꽃을 뿜으며 주변을 태워버린다."
+ },
+ "varieties": [
+  {
+   "name": "charmeleon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "2"
+}

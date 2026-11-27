@@ -1,0 +1,25 @@
+{
+ "name": "rotom-bike--water-mode",
+ "names": {
+  "ja-hrkt": "ロトムじてんしゃ",
+  "ko": "로토무자전거",
+  "zh-hant": "洛托姆自行車",
+  "fr": "Moticyclette",
+  "de": "Rotom-Rad",
+  "es": "Bici Rotom",
+  "it": "Bici Rotom",
+  "en": "Rotom Bike",
+  "ja": "ロトムじてんしゃ",
+  "zh-hans": "洛托姆自行车",
+  "es-419": "Bici Rotom"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬 로토무와의 조합으로 터보를 사용할 수 있을 뿐만 아니라 물 위에서도 달릴 수 있는 자전거.",
+  "en": "This bike can be combined with the Pokémon Rotom to not only do a turbo boost but also run on the water.",
+  "ja": "ポケモンの ロトムを 組み合わせ ターボが できるようになった だけでなく 水上も 走れる じてんしゃ。"
+ }
+}

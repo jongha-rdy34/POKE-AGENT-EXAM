@@ -1,0 +1,22 @@
+{
+ "name": "lafeather-ball",
+ "names": {
+  "ko": "페더볼",
+  "zh-hant": "飛羽球",
+  "fr": "Plume Ball",
+  "de": "Federball",
+  "es": "Pluma Ball",
+  "it": "Piuma Ball",
+  "en": "Feather Ball",
+  "ja": "フェザーボール",
+  "zh-hans": "飞羽球",
+  "es-419": "Plumabola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "en": "Can be thrown further than a regular Poké Ball. Is more effective for catching Pokémon that fly high in the air."
+ }
+}

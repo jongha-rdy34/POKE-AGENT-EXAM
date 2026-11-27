@@ -1,0 +1,19 @@
+{
+ "name": "black-augurite",
+ "names": {
+  "ko": "검은휘석",
+  "zh-hant": "黑奇石",
+  "fr": "Obsidienne",
+  "de": "Schwarzaugit",
+  "es": "Mineral Negro",
+  "it": "Augite nera",
+  "en": "Black Augurite",
+  "ja": "くろのきせき",
+  "zh-hans": "黑奇石"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

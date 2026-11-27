@@ -1,0 +1,42 @@
+{
+ "id": 453,
+ "name": "croagunk",
+ "names": {
+  "ja-hrkt": "グレッグル",
+  "ja-roma": "Gureggru",
+  "ko": "삐딱구리",
+  "zh-hant": "不良蛙",
+  "fr": "Cradopaud",
+  "de": "Glibunkel",
+  "es": "Croagunk",
+  "it": "Croagunk",
+  "en": "Croagunk",
+  "ja": "グレッグル",
+  "zh-hans": "不良蛙",
+  "es-419": "Croagunk"
+ },
+ "genus": {
+  "ja-hrkt": "どくづきポケモン",
+  "ko": "독설포켓몬",
+  "zh-hant": "毒擊寶可夢",
+  "fr": "Pokémon Toxique",
+  "de": "Giftmund-Pokémon",
+  "es": "Pokémon Boca Tóxica",
+  "it": "Pokémon Inveieleno",
+  "en": "Toxic Mouth Pokémon",
+  "ja": "どくづきポケモン",
+  "zh-hans": "毒击宝可梦",
+  "es-419": "Pokémon Boca Tóxica"
+ },
+ "flavor": {
+  "en": "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features.",
+  "ko": "독을 희석하면 약이 된다. 제약 회사의 마스코트가 된 후로 인기가 많아졌다."
+ },
+ "varieties": [
+  {
+   "name": "croagunk",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "235"
+}

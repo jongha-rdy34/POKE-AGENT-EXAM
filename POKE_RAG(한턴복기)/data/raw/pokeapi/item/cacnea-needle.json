@@ -1,0 +1,20 @@
+{
+ "name": "cacnea-needle",
+ "names": {
+  "ja-hrkt": "サボネアのトゲ",
+  "ko": "선인왕의가시",
+  "zh-hant": "刺球仙人掌的刺",
+  "fr": "Épine de Cacnea",
+  "de": "Tuska-Stachel",
+  "es": "Espina de Cacnea",
+  "it": "Spina di Cacnea",
+  "en": "Cacnea Needle",
+  "ja": "サボネアのトゲ",
+  "zh-hans": "刺球仙人掌的刺"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

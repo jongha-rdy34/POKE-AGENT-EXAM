@@ -1,0 +1,20 @@
+{
+ "name": "diamond-pattern-cup",
+ "names": {
+  "ja-hrkt": "ダイヤカップ",
+  "ko": "다이아 컵",
+  "zh-hant": "菱紋水杯",
+  "fr": "Tasse à Losanges",
+  "de": "Rauten-Tasse",
+  "es": "Taza Rombos",
+  "it": "Tazza a rombi",
+  "en": "Diamond Pattern Cup",
+  "ja": "ダイヤカップ",
+  "zh-hans": "菱纹水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

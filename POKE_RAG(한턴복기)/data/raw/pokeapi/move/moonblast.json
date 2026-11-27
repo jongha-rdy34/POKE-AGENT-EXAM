@@ -1,0 +1,31 @@
+{
+ "name": "moonblast",
+ "names": {
+  "ja-hrkt": "ムーンフォース",
+  "ko": "문포스",
+  "zh-hant": "月亮之力",
+  "fr": "Pouvoir Lunaire",
+  "de": "Mondgewalt",
+  "es": "Fuerza Lunar",
+  "it": "Forza Lunare",
+  "en": "Moonblast",
+  "ja": "ムーンフォース",
+  "zh-hans": "月亮之力",
+  "es-419": "Fuerza Lunar"
+ },
+ "type": "fairy",
+ "category": "special",
+ "power": 95,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Attack by one stage."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "ko": "달의 파워를 빌려서 상대를 공격한다. 상대의 특수공격을 떨어뜨릴 때가 있다.",
+  "en": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "steel-gem",
+ "names": {
+  "ja-hrkt": "はがねのジュエル",
+  "ko": "강철주얼",
+  "zh-hant": "鋼之寶石",
+  "fr": "Joyau Acier",
+  "de": "Stahljuwel",
+  "es": "Gema Acero",
+  "it": "Bijouacciaio",
+  "en": "Steel Gem",
+  "ja": "はがねのジュエル",
+  "zh-hans": "钢之宝石",
+  "es-419": "Gema Acero"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Acier, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Steel-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of steel. When held, it strengthens the power of a Steel-type move one time.",
+  "ko": "강철타입의 주얼. 지니게 하면 한 번만 강철 기술의 위력이 강해진다.",
+  "ja": "はがねの タイプの ジュエル。 持たせると １度だけ はがねの 技の 威力が 強まる。"
+ }
+}

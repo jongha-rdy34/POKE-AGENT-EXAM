@@ -1,0 +1,20 @@
+{
+ "name": "impidimp-hair",
+ "names": {
+  "ja-hrkt": "ベロバーのけ",
+  "ko": "메롱꿍의털",
+  "zh-hant": "搗蛋小妖的毛",
+  "fr": "Poils de Grimalin",
+  "de": "Bähmon-Haar",
+  "es": "Pelo de Impidimp",
+  "it": "Pelo di Impidimp",
+  "en": "Impidimp Hair",
+  "ja": "ベロバーのけ",
+  "zh-hans": "捣蛋小妖的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

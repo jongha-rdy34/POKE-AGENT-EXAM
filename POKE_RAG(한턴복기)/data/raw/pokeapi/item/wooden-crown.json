@@ -1,0 +1,25 @@
+{
+ "name": "wooden-crown",
+ "names": {
+  "ja-hrkt": "きぼりのかんむり",
+  "ko": "목각왕관",
+  "zh-hant": "木雕王冠",
+  "fr": "Couronne en Bois",
+  "de": "Holzkrone",
+  "es": "Corona Tallada",
+  "it": "Corona di legno",
+  "en": "Wooden Crown",
+  "ja": "きぼりのかんむり",
+  "zh-hans": "木雕王冠",
+  "es-419": "Corona Tallada"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "나무로 만들어진 수수께끼의 덩어리. 뭔가가 빠진 듯한 흔적이 있는 것으로 보아 무엇인가의 일부일지도 모른다.",
+  "en": "A mysterious object made of wood. Part of it seems to be chipped. Maybe it’s meant to be part of something.",
+  "ja": "木で 彫られた 謎の かたまり。 欠けているような 跡が あり なにかの一部 なのかもしれない。"
+ }
+}

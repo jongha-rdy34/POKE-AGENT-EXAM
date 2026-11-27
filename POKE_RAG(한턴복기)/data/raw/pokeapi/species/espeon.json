@@ -1,0 +1,42 @@
+{
+ "id": 196,
+ "name": "espeon",
+ "names": {
+  "ja-hrkt": "エーフィ",
+  "ja-roma": "Eifie",
+  "ko": "에브이",
+  "zh-hant": "太陽伊布",
+  "fr": "Mentali",
+  "de": "Psiana",
+  "es": "Espeon",
+  "it": "Espeon",
+  "en": "Espeon",
+  "ja": "エーフィ",
+  "zh-hans": "太阳伊布",
+  "es-419": "Espeon"
+ },
+ "genus": {
+  "ja-hrkt": "たいようポケモン",
+  "ko": "태양포켓몬",
+  "zh-hant": "太陽寶可夢",
+  "fr": "Pokémon Soleil",
+  "de": "Sonnen-Pokémon",
+  "es": "Pokémon Sol",
+  "it": "Pokémon Sole",
+  "en": "Sun Pokémon",
+  "ja": "たいようポケモン",
+  "zh-hans": "太阳宝可梦",
+  "es-419": "Pokémon Sol"
+ },
+ "flavor": {
+  "en": "Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy.",
+  "ko": "이마의 구슬에서 사이코 파워를 방사해서 싸운다. 파워가 다하면 구슬의 색이 흐려진다."
+ },
+ "varieties": [
+  {
+   "name": "espeon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

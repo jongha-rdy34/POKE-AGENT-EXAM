@@ -1,0 +1,32 @@
+{
+ "name": "hard-stone",
+ "names": {
+  "ja-hrkt": "かたいいし",
+  "ko": "딱딱한돌",
+  "zh-hant": "硬石頭",
+  "fr": "Pierre Dure",
+  "de": "Granitstein",
+  "es": "Piedra Dura",
+  "it": "Pietradura",
+  "en": "Hard Stone",
+  "ja": "かたいいし",
+  "zh-hans": "硬石头",
+  "es-419": "Piedra Dura"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Roche du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Rock-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a durable stone that boosts the power of Rock-type moves.",
+  "ko": "절대 깨지지 않는 돌. 지니게 하면 바위타입 기술의 위력이 올라간다.",
+  "ja": "絶対に 割れない 石。 持たせると いわタイプの 技の 威力が あがる。"
+ }
+}

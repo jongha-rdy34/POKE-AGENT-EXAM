@@ -1,0 +1,42 @@
+{
+ "id": 853,
+ "name": "grapploct",
+ "names": {
+  "ja-hrkt": "オトスパス",
+  "ja-roma": "Otosupus",
+  "ko": "케오퍼스",
+  "zh-hant": "八爪武師",
+  "fr": "Krakos",
+  "de": "Kaocto",
+  "es": "Grapploct",
+  "it": "Grapploct",
+  "en": "Grapploct",
+  "ja": "オトスパス",
+  "zh-hans": "八爪武师",
+  "es-419": "Grapploct"
+ },
+ "genus": {
+  "ja-hrkt": "じゅうじゅつポケモン",
+  "ko": "유술포켓몬",
+  "zh-hant": "柔術寶可夢",
+  "fr": "Pokémon Jujitsu",
+  "de": "Jiu-Jitsu-Pokémon",
+  "es": "Pokémon Jiu-Jitsu",
+  "it": "Pokémon Jujitsu",
+  "en": "Jujitsu Pokémon",
+  "ja": "じゅうじゅつポケモン",
+  "zh-hans": "柔术宝可梦",
+  "es-419": "Pokémon Jiu-Jitsu"
+ },
+ "flavor": {
+  "ko": "자신의 실력을 시험하기 위해 육지로 올라가 대전 상대를 찾는다. 싸움이 끝나면 바다로 돌아간다.",
+  "en": "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea."
+ },
+ "varieties": [
+  {
+   "name": "grapploct",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "448"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "toedscool-flaps",
+ "names": {
+  "ja-hrkt": "ノノクラゲのヒラヒラ",
+  "ko": "들눈해의갓",
+  "zh-hant": "原野水母的薄片",
+  "fr": "Membrane de Tentacool",
+  "de": "Tentagra-Lamelle",
+  "es": "Pliegue de Toedscool",
+  "it": "Pieghe di Toedscool",
+  "en": "Toedscool Flaps",
+  "ja": "ノノクラゲのヒラヒラ",
+  "zh-hans": "原野水母的薄片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

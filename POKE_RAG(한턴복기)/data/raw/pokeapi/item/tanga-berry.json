@@ -1,0 +1,30 @@
+{
+ "name": "tanga-berry",
+ "names": {
+  "ja-hrkt": "タンガのみ",
+  "ko": "리체열매",
+  "zh-hant": "扁櫻果",
+  "fr": "Baie Panga",
+  "de": "Tanigabeere",
+  "es": "Baya Yecana",
+  "it": "Baccaitan",
+  "en": "Tanga Berry",
+  "ja": "タンガのみ",
+  "zh-hans": "扁樱果",
+  "es-419": "Baya Yecana"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Insecte super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Bug-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 벌레 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの むし技を 受けたとき 威力が 弱まる。"
+ }
+}

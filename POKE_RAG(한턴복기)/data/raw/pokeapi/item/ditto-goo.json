@@ -1,0 +1,20 @@
+{
+ "name": "ditto-goo",
+ "names": {
+  "ja-hrkt": "メタモンのべたべた",
+  "ko": "메타몽의끈끈이",
+  "zh-hant": "百變怪的黏糊",
+  "fr": "Substance de Métamorph",
+  "de": "Ditto-Glibber",
+  "es": "Pegote de Ditto",
+  "it": "Appiccicume di Ditto",
+  "en": "Ditto Goo",
+  "ja": "メタモンのべたべた",
+  "zh-hans": "百变怪的黏糊"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

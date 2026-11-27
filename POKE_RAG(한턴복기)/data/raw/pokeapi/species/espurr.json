@@ -1,0 +1,42 @@
+{
+ "id": 677,
+ "name": "espurr",
+ "names": {
+  "ja-hrkt": "ニャスパー",
+  "ja-roma": "Nyasper",
+  "ko": "냐스퍼",
+  "zh-hant": "妙喵",
+  "fr": "Psystigri",
+  "de": "Psiau",
+  "es": "Espurr",
+  "it": "Espurr",
+  "en": "Espurr",
+  "ja": "ニャスパー",
+  "zh-hans": "妙喵",
+  "es-419": "Espurr"
+ },
+ "genus": {
+  "ja-hrkt": "じせいポケモン",
+  "ko": "자제포켓몬",
+  "zh-hant": "自制寶可夢",
+  "fr": "Pokémon Retenue",
+  "de": "Zügelungs-Pokémon",
+  "es": "Pokémon Moderación",
+  "it": "Pokémon Moderazione",
+  "en": "Restraint Pokémon",
+  "ja": "じせいポケモン",
+  "zh-hans": "自制宝可梦",
+  "es-419": "Pokémon Moderación"
+ },
+ "flavor": {
+  "ko": "프로레슬러를 날려 버릴 정도의 사이코 파워를 속에 지니고 있지만 컨트롤이 되지 않아 난처해하고 있다.",
+  "en": "There’s enough psychic power in Espurr to send a wrestler flying, but because this power can’t be controlled, Espurr finds it troublesome."
+ },
+ "varieties": [
+  {
+   "name": "espurr",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "348"
+}

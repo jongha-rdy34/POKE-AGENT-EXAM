@@ -1,0 +1,25 @@
+{
+ "name": "max-honey",
+ "names": {
+  "ja-hrkt": "ダイミツ",
+  "ko": "다이꿀",
+  "zh-hant": "極巨甜蜜",
+  "fr": "Maxi Miel",
+  "de": "Dyna-Honig",
+  "es": "Maxipanal",
+  "it": "Mielemax",
+  "en": "Max Honey",
+  "ja": "ダイミツ",
+  "zh-hans": "极巨甜蜜",
+  "es-419": "Maxipanal"
+ },
+ "category": "revival",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "다이맥스한 비퀸이 만드는 꿀. 다이수프에 넣으면 부드러워진다. 기력의덩어리와 같은 효과도 있다.",
+  "en": "Honey that Dynamax Vespiquen produces. Adding this honey to Max Soup makes the taste very smooth. It also has the same effect as a Max Revive.",
+  "ja": "ダイマックスした ビークインが 作る ミツ。 ダイスープに 入れると まろやかになる。 げんきのかたまりと 同じ 効果も ある。"
+ }
+}

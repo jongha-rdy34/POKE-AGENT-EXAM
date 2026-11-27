@@ -1,0 +1,20 @@
+{
+ "name": "cleffa-fur",
+ "names": {
+  "ja-hrkt": "ピィのけ",
+  "ko": "삐의털",
+  "zh-hant": "皮寶寶的毛",
+  "fr": "Poils de Mélo",
+  "de": "Pii-Haar",
+  "es": "Pelo de Cleffa",
+  "it": "Pelo di Cleffa",
+  "en": "Cleffa Fur",
+  "ja": "ピィのけ",
+  "zh-hans": "皮宝宝的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

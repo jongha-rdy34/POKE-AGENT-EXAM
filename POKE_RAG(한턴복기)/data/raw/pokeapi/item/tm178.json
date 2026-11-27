@@ -1,0 +1,19 @@
+{
+ "name": "tm178",
+ "names": {
+  "ko": "기술머신178",
+  "zh-hant": "招式學習器１７８",
+  "fr": "CT178",
+  "de": "TM178",
+  "es": "MT178",
+  "it": "MT178",
+  "en": "TM178",
+  "ja": "わざマシン１７８",
+  "zh-hans": "招式学习器１７８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 702,
+ "name": "dedenne",
+ "names": {
+  "ja-hrkt": "デデンネ",
+  "ja-roma": "Dedenne",
+  "ko": "데덴네",
+  "zh-hant": "咚咚鼠",
+  "fr": "Dedenne",
+  "de": "Dedenne",
+  "es": "Dedenne",
+  "it": "Dedenne",
+  "en": "Dedenne",
+  "ja": "デデンネ",
+  "zh-hans": "咚咚鼠",
+  "es-419": "Dedenne"
+ },
+ "genus": {
+  "ja-hrkt": "アンテナポケモン",
+  "ko": "안테나포켓몬",
+  "zh-hant": "天線寶可夢",
+  "fr": "Pokémon Antenne",
+  "de": "Antennen-Pokémon",
+  "es": "Pokémon Antenas",
+  "it": "Pokémon Antenna",
+  "en": "Antenna Pokémon",
+  "ja": "アンテナポケモン",
+  "zh-hans": "天线宝可梦",
+  "es-419": "Pokémon Antenas"
+ },
+ "flavor": {
+  "ko": "전기를 만들어내는 힘이 약해서 콘센트나 다른 전류포켓몬에게 훔친다.",
+  "en": "Since Dedenne can’t generate much electricity on its own, it steals electricity from outlets or other electric Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "dedenne",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "360"
+}

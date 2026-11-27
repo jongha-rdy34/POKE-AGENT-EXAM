@@ -1,0 +1,22 @@
+{
+ "name": "orange-mail",
+ "names": {
+  "ja-hrkt": "オレンジメール",
+  "fr": "Lettre Oranj",
+  "de": "Zigzagbrief",
+  "es": "Car. Naranja",
+  "it": "Mess. Agrume",
+  "en": "Orange Mail",
+  "es-419": "Car. Naranja"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL featuring a cute ZIGZAGOON print. It is to be held by a POKéMON."
+ }
+}

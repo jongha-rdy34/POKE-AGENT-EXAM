@@ -1,0 +1,28 @@
+{
+ "name": "tm11",
+ "names": {
+  "ja-hrkt": "わざマシン１１",
+  "ko": "기술머신11",
+  "zh-hant": "招式學習器１１",
+  "fr": "CT11",
+  "de": "TM11",
+  "es": "MT11",
+  "it": "MT11",
+  "en": "TM11",
+  "ja": "わざマシン１１",
+  "zh-hans": "招式学习器１１",
+  "es-419": "MT11"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Zénith à un Pokémon compatible. (Gén I: Bulles d'O)",
+  "en": "Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)"
+ },
+ "flavor": {
+  "en": "In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",
+  "ko": "1턴째에 빛을 가득 모아 2턴째에 빛의 다발을 발사하여 공격한다.",
+  "ja": "１ターン目に 光を いっぱいに 集め ２ターン目に 光の 束を 発射して 攻撃する。"
+ }
+}

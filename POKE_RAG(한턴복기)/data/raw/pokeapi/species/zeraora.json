@@ -1,0 +1,46 @@
+{
+ "id": 807,
+ "name": "zeraora",
+ "names": {
+  "ja-hrkt": "ゼラオラ",
+  "ja-roma": "Zeraora",
+  "ko": "제라오라",
+  "zh-hant": "捷拉奧拉",
+  "fr": "Zeraora",
+  "de": "Zeraora",
+  "es": "Zeraora",
+  "it": "Zeraora",
+  "en": "Zeraora",
+  "ja": "ゼラオラ",
+  "zh-hans": "捷拉奥拉",
+  "es-419": "Zeraora"
+ },
+ "genus": {
+  "ja-hrkt": "じんらいポケモン",
+  "ko": "신뢰포켓몬",
+  "zh-hant": "奔雷寶可夢",
+  "fr": "Pokémon Vif Éclair",
+  "de": "Blitzsturm-Pokémon",
+  "es": "Pokémon Fulgor",
+  "it": "Pokémon Fulmirapido",
+  "en": "Thunderclap Pokémon",
+  "ja": "じんらいポケモン",
+  "zh-hans": "奔雷宝可梦",
+  "es-419": "Pokémon Fulgor"
+ },
+ "flavor": {
+  "ko": "손발의 볼록살에서 전기를 내보낸다. 제라오라가 달려나가면 번개가 치고 우렛소리가 울려 퍼진다.",
+  "en": "Electricity sparks from the pads on its limbs. Wherever Zeraora runs, lightning flashes and thunder echoes."
+ },
+ "varieties": [
+  {
+   "name": "zeraora",
+   "is_default": true
+  },
+  {
+   "name": "zeraora-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "427"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "shadow-ball",
+ "names": {
+  "ja-hrkt": "シャドーボール",
+  "ko": "섀도볼",
+  "zh-hant": "暗影球",
+  "fr": "Ball’Ombre",
+  "de": "Spukball",
+  "es": "Bola Sombra",
+  "it": "Palla Ombra",
+  "en": "Shadow Ball",
+  "ja": "シャドーボール",
+  "zh-hans": "暗影球",
+  "es-419": "Bola Sombra"
+ },
+ "type": "ghost",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Defense by one stage."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user attacks by hurling a shadowy blob at the target. This may also lower the target’s Sp. Def stat.",
+  "ko": "까만 그림자의 덩어리를 내던져서 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다."
+ }
+}

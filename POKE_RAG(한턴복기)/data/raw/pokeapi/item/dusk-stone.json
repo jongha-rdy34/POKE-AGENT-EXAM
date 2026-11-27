@@ -1,0 +1,28 @@
+{
+ "name": "dusk-stone",
+ "names": {
+  "ja-hrkt": "やみのいし",
+  "ko": "어둠의돌",
+  "zh-hant": "暗之石",
+  "fr": "Pierre Nuit",
+  "de": "Finsterstein",
+  "es": "Piedra Noche",
+  "it": "Neropietra",
+  "en": "Dusk Stone",
+  "ja": "やみのいし",
+  "zh-hans": "暗之石",
+  "es-419": "Piedra Noche"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fait évoluer un Mélancolux en Lugulabre, un Feuforêve en Magirêve, ou un Cornèbre en Corboss.",
+  "en": "Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It holds shadows as dark as can be.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 칠흑처럼 어둡다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 やみのように 暗い。"
+ }
+}

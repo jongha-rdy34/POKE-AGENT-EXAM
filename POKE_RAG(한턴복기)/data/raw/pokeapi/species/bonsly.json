@@ -1,0 +1,42 @@
+{
+ "id": 438,
+ "name": "bonsly",
+ "names": {
+  "ja-hrkt": "ウソハチ",
+  "ja-roma": "Usohachi",
+  "ko": "꼬지지",
+  "zh-hant": "盆才怪",
+  "fr": "Manzaï",
+  "de": "Mobai",
+  "es": "Bonsly",
+  "it": "Bonsly",
+  "en": "Bonsly",
+  "ja": "ウソハチ",
+  "zh-hans": "盆才怪",
+  "es-419": "Bonsly"
+ },
+ "genus": {
+  "ja-hrkt": "ぼんさいポケモン",
+  "ko": "분재포켓몬",
+  "zh-hant": "盆栽寶可夢",
+  "fr": "Pokémon Bonsaï",
+  "de": "Bonsai-Pokémon",
+  "es": "Pokémon Bonsái",
+  "it": "Pokémon Bonsai",
+  "en": "Bonsai Pokémon",
+  "ja": "ぼんさいポケモン",
+  "zh-hans": "盆栽宝可梦",
+  "es-419": "Pokémon Bonsái"
+ },
+ "flavor": {
+  "en": "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health.",
+  "ko": "건조한 바위 밭에 산다. 초록색 구슬은 마를수록 반들반들 희미하게 빛난다."
+ },
+ "varieties": [
+  {
+   "name": "bonsly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "91"
+}

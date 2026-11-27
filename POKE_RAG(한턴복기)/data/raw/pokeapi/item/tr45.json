@@ -1,0 +1,25 @@
+{
+ "name": "tr45",
+ "names": {
+  "ja-hrkt": "わざレコード４５",
+  "ko": "기술레코드45",
+  "zh-hant": "招式紀錄４５",
+  "fr": "DT45",
+  "de": "TP45",
+  "es": "DT45",
+  "it": "DT45",
+  "en": "TR45",
+  "ja": "わざレコード４５",
+  "zh-hans": "招式记录４５",
+  "es-419": "DT45"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "탁해진 물을 상대에게 발사하여 공격한다. 명중률을 떨어뜨릴 때가 있다.",
+  "en": "The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.",
+  "ja": "濁った 水を 相手に 発射して 攻撃する。 命中率を さげることが ある。"
+ }
+}

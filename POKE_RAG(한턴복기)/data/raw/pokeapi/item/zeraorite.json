@@ -1,0 +1,20 @@
+{
+ "name": "zeraorite",
+ "names": {
+  "ko": "제라오라나이트",
+  "zh-hant": "捷拉奧拉進化石",
+  "fr": "Zeraorite",
+  "de": "Zeraoranit",
+  "es": "Zeraoranita",
+  "it": "Zeraorite",
+  "en": "Zeraorite",
+  "ja": "ゼラオラナイト",
+  "zh-hans": "捷拉奥拉进化石",
+  "es-419": "Zeraoranita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

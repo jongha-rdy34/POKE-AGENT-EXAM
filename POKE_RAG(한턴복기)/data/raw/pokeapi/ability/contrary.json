@@ -1,0 +1,23 @@
+{
+ "name": "contrary",
+ "names": {
+  "ja-hrkt": "あまのじゃく",
+  "ko": "심술꾸러기",
+  "zh-hant": "唱反調",
+  "fr": "Contestation",
+  "de": "Umkehrung",
+  "es": "Respondón",
+  "it": "Inversione",
+  "en": "Contrary",
+  "ja": "あまのじゃく",
+  "zh-hans": "唱反调",
+  "es-419": "Respondón"
+ },
+ "effect": {
+  "en": "Inverts stat changes."
+ },
+ "flavor": {
+  "en": "Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them—and attempts to lower its stats will boost them.",
+  "ko": "능력의 변화가 역전해서 올라갈 때 떨어지고 떨어질 때 올라간다."
+ }
+}

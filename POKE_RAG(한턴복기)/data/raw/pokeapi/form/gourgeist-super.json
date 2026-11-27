@@ -1,0 +1,23 @@
+{
+ "name": "gourgeist-super",
+ "form_name": "super",
+ "names": {
+  "fr": "Banshitrouye Ultra",
+  "de": "Pumpdjinn (XL)",
+  "en": "Super Gourgeist"
+ },
+ "form_names": {
+  "ja-hrkt": "とくだいサイズ",
+  "ko": "특대 사이즈",
+  "zh-hant": "特大尺寸",
+  "fr": "Taille Ultra",
+  "de": "Größe XL",
+  "es": "Tamaño Extragrande",
+  "it": "Maxi",
+  "en": "Super Size",
+  "ja": "とくだいサイズ",
+  "zh-hans": "特大尺寸",
+  "es-419": "Tamaño Extragrande"
+ },
+ "is_mega": false
+}

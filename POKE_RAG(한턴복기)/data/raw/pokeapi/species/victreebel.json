@@ -1,0 +1,46 @@
+{
+ "id": 71,
+ "name": "victreebel",
+ "names": {
+  "ja-hrkt": "ウツボット",
+  "ja-roma": "Utsubot",
+  "ko": "우츠보트",
+  "zh-hant": "大食花",
+  "fr": "Empiflor",
+  "de": "Sarzenia",
+  "es": "Victreebel",
+  "it": "Victreebel",
+  "en": "Victreebel",
+  "ja": "ウツボット",
+  "zh-hans": "大食花",
+  "es-419": "Victreebel"
+ },
+ "genus": {
+  "ja-hrkt": "ハエとりポケモン",
+  "ko": "파리잡이포켓몬",
+  "zh-hant": "捕蠅寶可夢",
+  "fr": "Pokémon Carnivore",
+  "de": "Fliegentod",
+  "es": "Pokémon Matamoscas",
+  "it": "Pokémon Moschivoro",
+  "en": "Flycatcher Pokémon",
+  "ja": "ハエとりポケモン",
+  "zh-hans": "捕蝇宝可梦",
+  "es-419": "Pokémon Matamoscas"
+ },
+ "flavor": {
+  "en": "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",
+  "ko": "꿀 냄새로 먹이를 끌어들인다. 입안에 넣은 것은 하루 만에 뼈까지 녹여버린다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "victreebel",
+   "is_default": true
+  },
+  {
+   "name": "victreebel-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "29"
+}

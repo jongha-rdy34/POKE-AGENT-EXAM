@@ -1,0 +1,31 @@
+{
+ "name": "bug",
+ "names": {
+  "ja-hrkt": "むし",
+  "ko": "벌레",
+  "zh-hant": "蟲",
+  "fr": "Insecte",
+  "de": "Käfer",
+  "es": "Bicho",
+  "it": "Coleottero",
+  "en": "Bug",
+  "ja": "むし",
+  "zh-hans": "虫",
+  "es-419": "Insecto"
+ },
+ "double_to": [
+  "grass",
+  "psychic",
+  "dark"
+ ],
+ "half_to": [
+  "fighting",
+  "flying",
+  "poison",
+  "ghost",
+  "steel",
+  "fire",
+  "fairy"
+ ],
+ "zero_to": []
+}

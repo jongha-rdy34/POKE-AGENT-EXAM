@@ -1,0 +1,46 @@
+{
+ "id": 545,
+ "name": "scolipede",
+ "names": {
+  "ja-hrkt": "ペンドラー",
+  "ja-roma": "Pendror",
+  "ko": "펜드라",
+  "zh-hant": "蜈蚣王",
+  "fr": "Brutapode",
+  "de": "Cerapendra",
+  "es": "Scolipede",
+  "it": "Scolipede",
+  "en": "Scolipede",
+  "ja": "ペンドラー",
+  "zh-hans": "蜈蚣王",
+  "es-419": "Scolipede"
+ },
+ "genus": {
+  "ja-hrkt": "メガムカデポケモン",
+  "ko": "메가지네포켓몬",
+  "zh-hant": "巨蜈蚣寶可夢",
+  "fr": "Pokémon Mégaplopode",
+  "de": "Riesenfüßer-Pokémon",
+  "es": "Pokémon Megaciempiés",
+  "it": "Pokémon Megapede",
+  "en": "Megapede Pokémon",
+  "ja": "メガムカデポケモン",
+  "zh-hans": "巨蜈蚣宝可梦",
+  "es-419": "Pokémon Megaciempiés"
+ },
+ "flavor": {
+  "en": "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser.",
+  "ko": "영역을 두고 다태우지네와 격렬하게 다툰다. 패배한 쪽이 그대로 먹이가 된다."
+ },
+ "varieties": [
+  {
+   "name": "scolipede",
+   "is_default": true
+  },
+  {
+   "name": "scolipede-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "277"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "stone-axe",
+ "names": {
+  "ja-hrkt": "がんせきアックス",
+  "ko": "암석액스",
+  "zh-hant": "岩斧",
+  "fr": "Hache de Pierre",
+  "de": "Felsaxt",
+  "es": "Hachazo Pétreo",
+  "it": "Rocciascure",
+  "en": "Stone Axe",
+  "ja": "がんせきアックス",
+  "zh-hans": "岩斧",
+  "es-419": "Hachazo Pétreo"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 90,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "soothe-bell",
+ "names": {
+  "ja-hrkt": "やすらぎのすず",
+  "ko": "평온의방울",
+  "zh-hant": "安撫之鈴",
+  "fr": "Grelot Zen",
+  "de": "Sanftglocke",
+  "es": "Cascabel Alivio",
+  "it": "Calmanella",
+  "en": "Soothe Bell",
+  "ja": "やすらぎのすず",
+  "zh-hans": "安抚之铃",
+  "es-419": "Cascabel Alivio"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Double le bonheur gagné par le porteur.",
+  "en": "Held: Doubles the happiness earned by the holder."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. The comforting chime of this bell calms the holder, making it friendly.",
+  "ko": "기분 좋은 소리의 방울. 지니게 한 포켓몬은 마음이 편안해져 친밀해지기 쉬워진다.",
+  "ja": "心地よい 音色の 鈴。 持たせた ポケモンは こころが やすらぎ なかよく なりやすくなる。"
+ }
+}

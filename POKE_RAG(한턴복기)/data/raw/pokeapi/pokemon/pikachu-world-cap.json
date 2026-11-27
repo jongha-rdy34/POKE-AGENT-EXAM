@@ -1,0 +1,30 @@
+{
+ "id": 10160,
+ "name": "pikachu-world-cap",
+ "species": "pikachu",
+ "is_default": false,
+ "types": [
+  "electric"
+ ],
+ "stats": {
+  "hp": 35,
+  "attack": 55,
+  "defense": 40,
+  "special-attack": 50,
+  "special-defense": 50,
+  "speed": 90
+ },
+ "abilities": [
+  {
+   "name": "static",
+   "hidden": false
+  },
+  {
+   "name": "lightning-rod",
+   "hidden": true
+  }
+ ],
+ "height": 4,
+ "weight": 60,
+ "champions_moves": []
+}

@@ -1,0 +1,28 @@
+{
+ "name": "ice-gem",
+ "names": {
+  "ja-hrkt": "こおりのジュエル",
+  "ko": "얼음주얼",
+  "zh-hant": "冰之寶石",
+  "fr": "Joyau Glace",
+  "de": "Eisjuwel",
+  "es": "Gema Hielo",
+  "it": "Bijoughiaccio",
+  "en": "Ice Gem",
+  "ja": "こおりのジュエル",
+  "zh-hans": "冰之宝石",
+  "es-419": "Gema Hielo"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Glace, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Ice-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of ice. When held, it strengthens the power of an Ice-type move one time.",
+  "ko": "얼음타입의 주얼. 지니게 하면 한 번만 얼음 기술의 위력이 강해진다.",
+  "ja": "こおりの タイプの ジュエル。 持たせると １度だけ こおりの 技の 威力が 強まる。"
+ }
+}

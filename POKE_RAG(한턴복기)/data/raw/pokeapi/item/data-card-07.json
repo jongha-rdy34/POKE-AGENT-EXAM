@@ -1,0 +1,28 @@
+{
+ "name": "data-card-07",
+ "names": {
+  "ja-hrkt": "データカード０７",
+  "ko": "데이터카드07",
+  "zh-hant": "資料卡０７",
+  "fr": "Carte Mémo07",
+  "de": "Datenkarte07",
+  "es": "Tarjeta Datos 07",
+  "it": "Scheda Dati 07",
+  "en": "Data Card 07",
+  "ja": "データカード０７",
+  "zh-hans": "数据卡０７",
+  "es-419": "Tarjeta Datos 07"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier de la Capture Drapeau du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Pennant Capture.",
+  "ko": "포켓슬론의 기록이 들어 있다. 스틸플래그 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 スティールフラッグ １位 回数が 記録された カード。"
+ }
+}

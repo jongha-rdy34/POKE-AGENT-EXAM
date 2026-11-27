@@ -1,0 +1,28 @@
+{
+ "name": "data-card-06",
+ "names": {
+  "ja-hrkt": "データカード０６",
+  "ko": "데이터카드06",
+  "zh-hant": "資料卡０６",
+  "fr": "Carte Mémo06",
+  "de": "Datenkarte06",
+  "es": "Tarjeta Datos 06",
+  "it": "Scheda Dati 06",
+  "en": "Data Card 06",
+  "ja": "データカード０６",
+  "zh-hans": "数据卡０６",
+  "es-419": "Tarjeta Datos 06"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier de la Course de Relais du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Relay Run."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Relay Run.",
+  "ko": "포켓슬론의 기록이 들어 있다. 체인지릴레이 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 チェンジリレー １位 回数が 記録された カード。"
+ }
+}

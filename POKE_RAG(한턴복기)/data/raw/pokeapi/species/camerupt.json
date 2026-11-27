@@ -1,0 +1,46 @@
+{
+ "id": 323,
+ "name": "camerupt",
+ "names": {
+  "ja-hrkt": "バクーダ",
+  "ja-roma": "Bakuuda",
+  "ko": "폭타",
+  "zh-hant": "噴火駝",
+  "fr": "Camérupt",
+  "de": "Camerupt",
+  "es": "Camerupt",
+  "it": "Camerupt",
+  "en": "Camerupt",
+  "ja": "バクーダ",
+  "zh-hans": "喷火驼",
+  "es-419": "Camerupt"
+ },
+ "genus": {
+  "ja-hrkt": "ふんかポケモン",
+  "ko": "분화포켓몬",
+  "zh-hant": "噴火寶可夢",
+  "fr": "Pokémon Éruption",
+  "de": "Ausbruch",
+  "es": "Pokémon Erupción",
+  "it": "Pokémon Eruzione",
+  "en": "Eruption Pokémon",
+  "ja": "ふんかポケモン",
+  "zh-hans": "喷火宝可梦",
+  "es-419": "Pokémon Erupción"
+ },
+ "flavor": {
+  "en": "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
+  "ko": "등의 혹은 뼈가 변형된 것이다. 펄펄 끓는 마그마를 가끔 뿜어 올린다. 화났을 때 자주 분화하는 것 같다."
+ },
+ "varieties": [
+  {
+   "name": "camerupt",
+   "is_default": true
+  },
+  {
+   "name": "camerupt-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "162"
+}

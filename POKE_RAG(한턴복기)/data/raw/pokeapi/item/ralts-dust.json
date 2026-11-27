@@ -1,0 +1,20 @@
+{
+ "name": "ralts-dust",
+ "names": {
+  "ja-hrkt": "ラルトスのおとしもの",
+  "ko": "랄토스의유실물",
+  "zh-hant": "拉魯拉絲的掉落物",
+  "fr": "Babiole de Tarsal",
+  "de": "Trasla-Material",
+  "es": "Pertenencia de Ralts",
+  "it": "Oggetto di Ralts",
+  "en": "Ralts Dust",
+  "ja": "ラルトスのおとしもの",
+  "zh-hans": "拉鲁拉丝的掉落物"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

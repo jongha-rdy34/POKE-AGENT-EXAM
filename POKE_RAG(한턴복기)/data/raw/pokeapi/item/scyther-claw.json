@@ -1,0 +1,20 @@
+{
+ "name": "scyther-claw",
+ "names": {
+  "ja-hrkt": "ストライクのツメ",
+  "ko": "스라크의발톱",
+  "zh-hant": "飛天螳螂的爪子",
+  "fr": "Griffe d'Insécateur",
+  "de": "Sichlor-Kralle",
+  "es": "Garra de Scyther",
+  "it": "Artiglio di Scyther",
+  "en": "Scyther Claw",
+  "ja": "ストライクのツメ",
+  "zh-hans": "飞天螳螂的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

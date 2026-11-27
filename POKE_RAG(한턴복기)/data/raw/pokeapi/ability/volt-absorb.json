@@ -1,0 +1,23 @@
+{
+ "name": "volt-absorb",
+ "names": {
+  "ja-hrkt": "ちくでん",
+  "ko": "축전",
+  "zh-hant": "蓄電",
+  "fr": "Absorbe-Volt",
+  "de": "Voltabsorber",
+  "es": "Absorbe Electricidad",
+  "it": "Assorbivolt",
+  "en": "Volt Absorb",
+  "ja": "ちくでん",
+  "zh-hans": "蓄电",
+  "es-419": "Absorbevoltios"
+ },
+ "effect": {
+  "en": "Absorbs Electric moves, healing for 1/4 max HP."
+ },
+ "flavor": {
+  "en": "If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.",
+  "ko": "전기타입의 기술을 받으면 데미지를 받지 않고 회복한다."
+ }
+}

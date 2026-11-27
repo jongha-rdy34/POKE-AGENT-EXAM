@@ -1,0 +1,20 @@
+{
+ "name": "barred-cup",
+ "names": {
+  "ja-hrkt": "よこストライプカップ",
+  "ko": "가로 줄무늬 컵",
+  "zh-hant": "橫條紋水杯",
+  "fr": "Tasse à Rayures Bleues",
+  "de": "Querstreifen-Tasse",
+  "es": "Taza Raya Horizontal",
+  "it": "Tazza a righe orizzontali",
+  "en": "Barred Cup",
+  "ja": "よこストライプカップ",
+  "zh-hans": "横条纹水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "rotom-sparks",
+ "names": {
+  "ja-hrkt": "ロトムのでんき",
+  "ko": "로토무의전기",
+  "zh-hant": "洛托姆的電力",
+  "fr": "Électricité de Motisma",
+  "de": "Rotom-Strom",
+  "es": "Electricidad de Rotom",
+  "it": "Elettricità di Rotom",
+  "en": "Rotom Sparks",
+  "ja": "ロトムのでんき",
+  "zh-hans": "洛托姆的电力"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

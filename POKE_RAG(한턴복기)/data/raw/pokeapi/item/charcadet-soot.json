@@ -1,0 +1,20 @@
+{
+ "name": "charcadet-soot",
+ "names": {
+  "ja-hrkt": "カルボウのすす",
+  "ko": "카르본의검댕",
+  "zh-hant": "炭小侍的煤灰",
+  "fr": "Suie de Charbambin",
+  "de": "Knarbon-Ruß",
+  "es": "Hollín de Charcadet",
+  "it": "Fuliggine di Charcadet",
+  "en": "Charcadet Soot",
+  "ja": "カルボウのすす",
+  "zh-hans": "炭小侍的煤灰"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

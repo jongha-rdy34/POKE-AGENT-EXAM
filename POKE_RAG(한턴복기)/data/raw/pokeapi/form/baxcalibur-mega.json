@@ -1,0 +1,15 @@
+{
+ "name": "baxcalibur-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Glaivodo",
+  "en": "Mega Baxcalibur"
+ },
+ "form_names": {
+  "ja-hrkt": "メガセグレイブ",
+  "fr": "Méga-Glaivodo",
+  "en": "Mega Baxcalibur",
+  "ja": "メガセグレイブ"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,46 @@
+{
+ "id": 130,
+ "name": "gyarados",
+ "names": {
+  "ja-hrkt": "ギャラドス",
+  "ja-roma": "Gyarados",
+  "ko": "갸라도스",
+  "zh-hant": "暴鯉龍",
+  "fr": "Léviator",
+  "de": "Garados",
+  "es": "Gyarados",
+  "it": "Gyarados",
+  "en": "Gyarados",
+  "ja": "ギャラドス",
+  "zh-hans": "暴鲤龙",
+  "es-419": "Gyarados"
+ },
+ "genus": {
+  "ja-hrkt": "きょうあくポケモン",
+  "ko": "흉악포켓몬",
+  "zh-hant": "凶惡寶可夢",
+  "fr": "Pokémon Terrifiant",
+  "de": "Grausam-Pokémon",
+  "es": "Pokémon Atrocidad",
+  "it": "Pokémon Atroce",
+  "en": "Atrocious Pokémon",
+  "ja": "きょうあくポケモン",
+  "zh-hans": "凶恶宝可梦",
+  "es-419": "Pokémon Atrocidad"
+ },
+ "flavor": {
+  "en": "I suspect this Pokémon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw.",
+  "ko": "한번 난동부리기 시작한 갸라도스는 태풍이 사납게 휘몰아쳐도 모든 것을 다 태워버린다."
+ },
+ "varieties": [
+  {
+   "name": "gyarados",
+   "is_default": true
+  },
+  {
+   "name": "gyarados-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "64"
+}

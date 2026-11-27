@@ -1,0 +1,25 @@
+{
+ "name": "sassy-mint",
+ "names": {
+  "ja-hrkt": "なまいきミント",
+  "ko": "건방민트",
+  "zh-hant": "自大薄荷",
+  "fr": "Aromate Malpoli",
+  "de": "Forsch-Minze",
+  "es": "Menta Grosera",
+  "it": "Menta Vivace",
+  "en": "Sassy Mint",
+  "ja": "なまいきミント",
+  "zh-hans": "自大薄荷",
+  "es-419": "Menta Grosera"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수방어가 오르기 쉬워지지만 스피드가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Speed will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特防が 上がりやすく なるが 素早さは 上がりにくくなる ミント。"
+ }
+}

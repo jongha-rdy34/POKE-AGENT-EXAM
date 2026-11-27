@@ -1,0 +1,25 @@
+{
+ "name": "fossilized-bird",
+ "names": {
+  "ja-hrkt": "カセキのトリ",
+  "ko": "화석새",
+  "zh-hant": "化石鳥",
+  "fr": "Fossile Oiseau",
+  "de": "Vogelfossil",
+  "es": "Ornitofósil",
+  "it": "Ornitofossile",
+  "en": "Fossilized Bird",
+  "ja": "カセキのトリ",
+  "zh-hans": "化石鸟",
+  "es-419": "Ornitofósil"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "오랜 옛날 하늘을 날던 고대 포켓몬 화석의 일부. 어떤 모습이었는지는 수수께끼다.",
+  "en": "The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.",
+  "ja": "大昔 空を 飛んでいた 古代 ポケモンの カセキの一部。 どんな 姿 だったのかは 謎。"
+ }
+}

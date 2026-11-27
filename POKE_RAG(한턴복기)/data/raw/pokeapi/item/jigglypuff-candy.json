@@ -1,0 +1,25 @@
+{
+ "name": "jigglypuff-candy",
+ "names": {
+  "ja-hrkt": "プリンのアメ",
+  "ko": "푸린의사탕",
+  "zh-hant": "胖丁的糖果",
+  "fr": "Bonbon Rondoudou",
+  "de": "Pummeluff-Bonbon",
+  "es": "Caramelo Jigglypuff",
+  "it": "Caramella Jigglypuff",
+  "en": "Jigglypuff Candy",
+  "ja": "プリンのアメ",
+  "zh-hans": "胖丁的糖果",
+  "es-419": "Caramelo Jigglypuff"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

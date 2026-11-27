@@ -1,0 +1,31 @@
+{
+ "name": "hex",
+ "names": {
+  "ja-hrkt": "たたりめ",
+  "ko": "병상첨병",
+  "zh-hant": "禍不單行",
+  "fr": "Châtiment",
+  "de": "Bürde",
+  "es": "Infortunio",
+  "it": "Sciagura",
+  "en": "Hex",
+  "ja": "たたりめ",
+  "zh-hans": "祸不单行",
+  "es-419": "Infortunio"
+ },
+ "type": "ghost",
+ "category": "special",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has double power if the target has a major status ailment."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This relentless attack does massive damage to a target affected by status conditions.",
+  "ko": "엎친 데 덮친 격으로 공격한다. 상태 이상인 상대에게 큰 데미지를 준다."
+ }
+}

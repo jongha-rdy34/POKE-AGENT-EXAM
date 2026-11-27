@@ -1,0 +1,87 @@
+{
+ "id": 1018,
+ "name": "archaludon",
+ "species": "archaludon",
+ "is_default": true,
+ "types": [
+  "steel",
+  "dragon"
+ ],
+ "stats": {
+  "hp": 90,
+  "attack": 105,
+  "defense": 130,
+  "special-attack": 125,
+  "special-defense": 65,
+  "speed": 85
+ },
+ "abilities": [
+  {
+   "name": "stamina",
+   "hidden": false
+  },
+  {
+   "name": "sturdy",
+   "hidden": false
+  },
+  {
+   "name": "stalwart",
+   "hidden": true
+  }
+ ],
+ "height": 20,
+ "weight": 600,
+ "champions_moves": [
+  "aura-sphere",
+  "body-slam",
+  "breaking-swipe",
+  "brick-break",
+  "dark-pulse",
+  "double-edge",
+  "draco-meteor",
+  "dragon-cheer",
+  "dragon-claw",
+  "dragon-pulse",
+  "dragon-tail",
+  "earthquake",
+  "electro-shot",
+  "endure",
+  "facade",
+  "flash-cannon",
+  "focus-energy",
+  "foul-play",
+  "giga-impact",
+  "gyro-ball",
+  "hard-press",
+  "heavy-slam",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "light-screen",
+  "metal-burst",
+  "metal-sound",
+  "meteor-beam",
+  "mirror-coat",
+  "night-slash",
+  "outrage",
+  "protect",
+  "reflect",
+  "rest",
+  "roar",
+  "rock-slide",
+  "rock-tomb",
+  "scary-face",
+  "sleep-talk",
+  "smack-down",
+  "snarl",
+  "solar-beam",
+  "stealth-rock",
+  "steel-beam",
+  "stone-edge",
+  "substitute",
+  "swords-dance",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt"
+ ]
+}

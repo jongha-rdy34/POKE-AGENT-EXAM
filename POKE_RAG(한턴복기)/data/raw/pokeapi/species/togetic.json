@@ -1,0 +1,42 @@
+{
+ "id": 176,
+ "name": "togetic",
+ "names": {
+  "ja-hrkt": "トゲチック",
+  "ja-roma": "Togechick",
+  "ko": "토게틱",
+  "zh-hant": "波克基古",
+  "fr": "Togetic",
+  "de": "Togetic",
+  "es": "Togetic",
+  "it": "Togetic",
+  "en": "Togetic",
+  "ja": "トゲチック",
+  "zh-hans": "波克基古",
+  "es-419": "Togetic"
+ },
+ "genus": {
+  "ja-hrkt": "しあわせポケモン",
+  "ko": "행복포켓몬",
+  "zh-hant": "幸福寶可夢",
+  "fr": "Pokémon Bonheur",
+  "de": "Freuden-Pokémon",
+  "es": "Pokémon Felicidad",
+  "it": "Pokémon Felicità",
+  "en": "Happiness Pokémon",
+  "ja": "しあわせポケモン",
+  "zh-hans": "幸福宝可梦",
+  "es-419": "Pokémon Felicidad"
+ },
+ "flavor": {
+  "en": "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy.",
+  "ko": "상냥한 사람 곁에 있지 않으면 기운을 내지 못한다. 날개를 움직이지 않고도 공중에 뜰 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "togetic",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "87"
+}

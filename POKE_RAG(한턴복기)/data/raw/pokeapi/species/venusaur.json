@@ -1,0 +1,50 @@
+{
+ "id": 3,
+ "name": "venusaur",
+ "names": {
+  "ja-hrkt": "フシギバナ",
+  "ja-roma": "Fushigibana",
+  "ko": "이상해꽃",
+  "zh-hant": "妙蛙花",
+  "fr": "Florizarre",
+  "de": "Bisaflor",
+  "es": "Venusaur",
+  "it": "Venusaur",
+  "en": "Venusaur",
+  "ja": "フシギバナ",
+  "zh-hans": "妙蛙花",
+  "es-419": "Venusaur"
+ },
+ "genus": {
+  "ja-hrkt": "たねポケモン",
+  "ko": "씨앗포켓몬",
+  "zh-hant": "種子寶可夢",
+  "fr": "Pokémon Graine",
+  "de": "Samen-Pokémon",
+  "es": "Pokémon Semilla",
+  "it": "Pokémon Seme",
+  "en": "Seed Pokémon",
+  "ja": "たねポケモン",
+  "zh-hans": "种子宝可梦",
+  "es-419": "Pokémon Semilla"
+ },
+ "flavor": {
+  "en": "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle.",
+  "ko": "꽃에서 황홀한 향기가 퍼져 나와 싸우는 자의 기분을 달래준다."
+ },
+ "varieties": [
+  {
+   "name": "venusaur",
+   "is_default": true
+  },
+  {
+   "name": "venusaur-mega",
+   "is_default": false
+  },
+  {
+   "name": "venusaur-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "1"
+}

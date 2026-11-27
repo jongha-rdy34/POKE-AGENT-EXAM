@@ -1,0 +1,28 @@
+{
+ "name": "data-card-23",
+ "names": {
+  "ja-hrkt": "データカード２３",
+  "ko": "데이터카드23",
+  "zh-hant": "資料卡２３",
+  "fr": "Carte Mémo23",
+  "de": "Datenkarte23",
+  "es": "Tarjeta Datos 23",
+  "it": "Scheda Dati 23",
+  "en": "Data Card 23",
+  "ja": "データカード２３",
+  "zh-hans": "数据卡２３",
+  "es-419": "Tarjeta Datos 23"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a changé de Pokémon au Pokéathlon.",
+  "en": "Records the number of times the trainer has switched Pokémon in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you switched Pokémon in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬의 교체 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの 交代 回数が 記録された カード。"
+ }
+}

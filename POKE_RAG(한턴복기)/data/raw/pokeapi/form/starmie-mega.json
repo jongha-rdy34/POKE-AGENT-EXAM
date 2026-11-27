@@ -1,0 +1,15 @@
+{
+ "name": "starmie-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Staross",
+  "en": "Mega Starmie"
+ },
+ "form_names": {
+  "ja-hrkt": "メガスターミー",
+  "fr": "Méga-Staross",
+  "en": "Mega Starmie",
+  "ja": "メガスターミー"
+ },
+ "is_mega": true
+}

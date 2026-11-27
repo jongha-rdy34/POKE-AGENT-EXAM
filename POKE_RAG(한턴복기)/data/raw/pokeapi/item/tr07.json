@@ -1,0 +1,25 @@
+{
+ "name": "tr07",
+ "names": {
+  "ja-hrkt": "わざレコード０７",
+  "ko": "기술레코드07",
+  "zh-hant": "招式紀錄０７",
+  "fr": "DT07",
+  "de": "TP07",
+  "es": "DT07",
+  "it": "DT07",
+  "en": "TR07",
+  "ja": "わざレコード０７",
+  "zh-hans": "招式记录０７",
+  "es-419": "DT07"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "발을 강하게 걸고 상대를 넘어뜨려 공격한다. 상대가 무거울수록 위력이 올라간다.",
+  "en": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.",
+  "ja": "足を 強く けり 相手を 転ばせて 攻撃する。 相手が 重いほど 威力が あがる。"
+ }
+}

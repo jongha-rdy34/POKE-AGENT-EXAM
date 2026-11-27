@@ -1,0 +1,31 @@
+{
+ "name": "self-destruct",
+ "names": {
+  "ja-hrkt": "じばく",
+  "ko": "자폭",
+  "zh-hant": "自爆",
+  "fr": "Destruction",
+  "de": "Finale",
+  "es": "Autodestrucción",
+  "it": "Autodistruzione",
+  "en": "Self-Destruct",
+  "ja": "じばく",
+  "zh-hans": "自爆",
+  "es-419": "Autodestrucción"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 200,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "User faints."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks everything around it by causing an explosion. The user faints upon using this move.",
+  "ko": "폭발을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서 기절하게 된다."
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "name": "hm08",
+ "names": {
+  "ja-hrkt": "ひでんマシン０８",
+  "fr": "CS08",
+  "de": "VM08",
+  "es": "MO08",
+  "it": "MN08",
+  "en": "HM08",
+  "es-419": "MO08"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend une capacité à un Pokémon compatible. (Gén IV: Escalade Gén III: Plongée)",
+  "en": "Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)"
+ },
+ "flavor": {
+  "en": "A charging attack that may also leave the foe confused. It can also be used to scale rocky walls."
+ }
+}

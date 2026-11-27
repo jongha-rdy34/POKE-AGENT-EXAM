@@ -1,0 +1,31 @@
+{
+ "name": "bind",
+ "names": {
+  "ja-hrkt": "しめつける",
+  "ko": "조이기",
+  "zh-hant": "綁緊",
+  "fr": "Étreinte",
+  "de": "Klammergriff",
+  "es": "Atadura",
+  "it": "Legatutto",
+  "en": "Bind",
+  "ja": "しめつける",
+  "zh-hans": "绑紧",
+  "es-419": "Atadura"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 15,
+ "accuracy": 85,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "A long body, tentacles, or the like are used to bind and squeeze the target for four to five turns.",
+  "ko": "긴 몸이나 덩굴 등을 써서 4-5턴 동안 상대를 조여 공격한다."
+ }
+}

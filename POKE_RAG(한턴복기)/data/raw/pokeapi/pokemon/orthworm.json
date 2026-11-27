@@ -1,0 +1,71 @@
+{
+ "id": 968,
+ "name": "orthworm",
+ "species": "orthworm",
+ "is_default": true,
+ "types": [
+  "steel"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 85,
+  "defense": 145,
+  "special-attack": 60,
+  "special-defense": 55,
+  "speed": 65
+ },
+ "abilities": [
+  {
+   "name": "earth-eater",
+   "hidden": false
+  },
+  {
+   "name": "sand-veil",
+   "hidden": true
+  }
+ ],
+ "height": 25,
+ "weight": 3100,
+ "champions_moves": [
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "coil",
+  "curse",
+  "dig",
+  "double-edge",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "facade",
+  "flash-cannon",
+  "giga-impact",
+  "heavy-slam",
+  "helping-hand",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "iron-tail",
+  "metal-burst",
+  "metal-sound",
+  "mud-shot",
+  "mud-slap",
+  "protect",
+  "rest",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "sand-tomb",
+  "sandstorm",
+  "shed-tail",
+  "sleep-talk",
+  "smack-down",
+  "spikes",
+  "stealth-rock",
+  "steel-beam",
+  "stomping-tantrum",
+  "substitute",
+  "wrap"
+ ]
+}

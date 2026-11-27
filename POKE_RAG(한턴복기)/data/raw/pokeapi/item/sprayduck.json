@@ -1,0 +1,28 @@
+{
+ "name": "sprayduck",
+ "names": {
+  "ja-hrkt": "コダックじょうろ",
+  "ko": "고라파덕물뿌리개",
+  "zh-hant": "可達鴨噴壺",
+  "fr": "Kwakarrosoir",
+  "de": "Enton-Kanne",
+  "es": "Psydugadera",
+  "it": "Sprayduck",
+  "en": "Sprayduck",
+  "ja": "コダックじょうろ",
+  "zh-hans": "可达鸭喷壶",
+  "es-419": "Psydugadera"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour arroser les baies.",
+  "en": "Used to water berries."
+ },
+ "flavor": {
+  "en": "A watering can shaped like a Psyduck. It helps promote the healthy growth of any Berries planted in good, soft soil.",
+  "ko": "물을 주는 도구. 푹신푹신한 흙에 심은 나무열매를 쑥쑥 키운다.",
+  "ja": "水を かける 道具。 ふかふかのつちに 埋めた きのみを すくすく 育てる。"
+ }
+}

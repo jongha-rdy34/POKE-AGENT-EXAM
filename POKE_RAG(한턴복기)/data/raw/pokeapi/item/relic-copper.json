@@ -1,0 +1,28 @@
+{
+ "name": "relic-copper",
+ "names": {
+  "ja-hrkt": "こだいのどうか",
+  "ko": "고대의동화",
+  "zh-hant": "古代銅幣",
+  "fr": "Vieux Sou",
+  "de": "Alter Heller",
+  "es": "Real Cobre",
+  "it": "Soldantico",
+  "en": "Relic Copper",
+  "ja": "こだいのどうか",
+  "zh-hans": "古代铜币",
+  "es-419": "Real Cobre"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 1000 Pokédollars.",
+  "en": "Sell to Villa Owner for 1000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A copper coin used by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 사용된 동화.",
+  "ja": "３０００年ほど 昔の 文明で 使われた 銅貨。"
+ }
+}

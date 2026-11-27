@@ -1,0 +1,37 @@
+{
+ "id": 991,
+ "name": "iron-bundle",
+ "names": {
+  "ja-hrkt": "テツノツツミ",
+  "ja-roma": "Tetsunotsutsumi",
+  "ko": "무쇠보따리",
+  "zh-hant": "鐵包袱",
+  "fr": "Hotte-de-Fer",
+  "de": "Eisenbündel",
+  "es": "Ferrosaco",
+  "it": "Saccoferreo",
+  "en": "Iron Bundle",
+  "ja": "テツノツツミ",
+  "zh-hans": "铁包袱",
+  "es-419": "Ferrosaco"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It resembles a mysterious object mentioned in an old book. There are only two reported sightings of this Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "iron-bundle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "522"
+}

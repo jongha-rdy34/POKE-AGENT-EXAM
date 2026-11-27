@@ -1,0 +1,20 @@
+{
+ "name": "dondozo-whisker",
+ "names": {
+  "ja-hrkt": "ヘイラッシャのヒゲ",
+  "ko": "어써러셔의수염",
+  "zh-hant": "吃吼霸的鬍鬚",
+  "fr": "Barbillon d'Oyacata",
+  "de": "Heerashai-Bartel",
+  "es": "Bigote de Dondozo",
+  "it": "Barbiglio di Dondozo",
+  "en": "Dondozo Whisker",
+  "ja": "ヘイラッシャのヒゲ",
+  "zh-hans": "吃吼霸的胡须"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

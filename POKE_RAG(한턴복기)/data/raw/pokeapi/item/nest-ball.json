@@ -1,0 +1,33 @@
+{
+ "name": "nest-ball",
+ "names": {
+  "ja-hrkt": "ネストボール",
+  "ko": "네스트볼",
+  "zh-hant": "巢穴球",
+  "fr": "Faiblo Ball",
+  "de": "Nestball",
+  "es": "Nido Ball",
+  "it": "Minor Ball",
+  "en": "Nest Ball",
+  "ja": "ネストボール",
+  "zh-hans": "巢穴球",
+  "es-419": "Nidobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 3.9× pour un Pokémon niveau 1, et baisse régulièrement jusqu'à 1× au niveau 30.",
+  "en": "Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that becomes more effective the lower the level of the wild Pokémon.",
+  "ko": "잡으려는 야생 포켓몬이 약할수록 잡기 쉬운 조금 특이한 볼.",
+  "ja": "捕まえる 野生の ポケモンが 弱いほど 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 219,
+ "name": "magcargo",
+ "names": {
+  "ja-hrkt": "マグカルゴ",
+  "ja-roma": "Magcargot",
+  "ko": "마그카르고",
+  "zh-hant": "熔岩蝸牛",
+  "fr": "Volcaropod",
+  "de": "Magcargo",
+  "es": "Magcargo",
+  "it": "Magcargo",
+  "en": "Magcargo",
+  "ja": "マグカルゴ",
+  "zh-hans": "熔岩蜗牛",
+  "es-419": "Magcargo"
+ },
+ "genus": {
+  "ja-hrkt": "ようがんポケモン",
+  "ko": "용암포켓몬",
+  "zh-hant": "熔岩寶可夢",
+  "fr": "Pokémon Lave",
+  "de": "Lava",
+  "es": "Pokémon Lava",
+  "it": "Pokémon Lava",
+  "en": "Lava Pokémon",
+  "ja": "ようがんポケモン",
+  "zh-hans": "熔岩宝可梦",
+  "es-419": "Pokémon Lava"
+ },
+ "flavor": {
+  "en": "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
+  "ko": "체온이 약 1만 도나 돼서 빗방울이 몸에 닿으면 수증기가 자욱하게 피어나 주변이 깊은 안개에 둘러싸인다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "magcargo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "111"
+}

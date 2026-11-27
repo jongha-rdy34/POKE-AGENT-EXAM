@@ -1,0 +1,28 @@
+{
+ "name": "flying-gem",
+ "names": {
+  "ja-hrkt": "ひこうのジュエル",
+  "ko": "비행주얼",
+  "zh-hant": "飛行寶石",
+  "fr": "Joyau Vol",
+  "de": "Flugjuwel",
+  "es": "Gema Voladora",
+  "it": "Bijouvolante",
+  "en": "Flying Gem",
+  "ja": "ひこうのジュエル",
+  "zh-hans": "飞行宝石",
+  "es-419": "Gema Voladora"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Vol, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Flying-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of air. When held, it strengthens the power of a Flying-type move one time.",
+  "ko": "비행타입의 주얼. 지니게 하면 한 번만 비행 기술의 위력이 강해진다.",
+  "ja": "ひこうの タイプの ジュエル。 持たせると １度だけ ひこうの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "name": "zoroark-hisui",
+ "form_name": "hisui",
+ "names": {
+  "fr": "Zoroark de Hisui",
+  "de": "Hisui Zoroark",
+  "en": "Hisuian Zoroark"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒスイのすがた",
+  "fr": "Forme de Hisui",
+  "de": "Hisui-Form",
+  "en": "Hisuian Form",
+  "ja": "ヒスイのすがた"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-hoenn-cap",
+ "form_name": "hoenn-cap",
+ "names": {
+  "fr": "Pikachu Casquette de Hoenn",
+  "de": "Pikachu (Hoenn-Kappe)",
+  "en": "Hoenn Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "ホウエンキャップ",
+  "ko": "호연캡",
+  "zh-hant": "豐緣帽子",
+  "fr": "Casquette de Hoenn",
+  "de": "Hoenn-Kappe",
+  "es": "Gorra Hoenn",
+  "it": "Berretto Hoenn",
+  "en": "Hoenn Cap",
+  "ja": "ホウエンキャップ",
+  "zh-hans": "丰缘帽子",
+  "es-419": "Gorra Hoenn"
+ },
+ "is_mega": false
+}

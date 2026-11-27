@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-original-cap",
+ "form_name": "original-cap",
+ "names": {
+  "fr": "Pikachu Casquette Originale",
+  "de": "Pikachu (Original-Kappe)",
+  "en": "Original Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "オリジナルキャップ",
+  "ko": "오리지널캡",
+  "zh-hant": "初始帽子",
+  "fr": "Casquette Originale",
+  "de": "Original-Kappe",
+  "es": "Gorra Original",
+  "it": "Berretto Originale",
+  "en": "Original Cap",
+  "ja": "オリジナルキャップ",
+  "zh-hans": "初始帽子",
+  "es-419": "Gorra Original"
+ },
+ "is_mega": false
+}

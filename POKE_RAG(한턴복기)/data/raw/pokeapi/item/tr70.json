@@ -1,0 +1,25 @@
+{
+ "name": "tr70",
+ "names": {
+  "ja-hrkt": "わざレコード７０",
+  "ko": "기술레코드70",
+  "zh-hant": "招式紀錄７０",
+  "fr": "DT70",
+  "de": "TP70",
+  "es": "DT70",
+  "it": "DT70",
+  "en": "TR70",
+  "ja": "わざレコード７０",
+  "zh-hans": "招式记录７０",
+  "es-419": "DT70"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸의 빛을 한곳에 모아서 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user gathers all its light energy and releases it all at once. This may also lower the target’s Sp. Def stat.",
+  "ja": "体の 光を 一点に 集めて 力を 放つ。 相手の 特防を さげることが ある。"
+ }
+}

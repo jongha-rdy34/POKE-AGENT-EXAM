@@ -1,0 +1,20 @@
+{
+ "name": "tm148",
+ "names": {
+  "ja-hrkt": "わざマシン１４８",
+  "ko": "기술머신148",
+  "zh-hant": "招式學習器１４８",
+  "fr": "CT148",
+  "de": "TM148",
+  "es": "MT148",
+  "it": "MT148",
+  "en": "TM148",
+  "ja": "わざマシン１４８",
+  "zh-hans": "招式学习器１４８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

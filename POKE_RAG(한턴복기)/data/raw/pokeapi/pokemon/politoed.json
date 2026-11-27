@@ -1,0 +1,92 @@
+{
+ "id": 186,
+ "name": "politoed",
+ "species": "politoed",
+ "is_default": true,
+ "types": [
+  "water"
+ ],
+ "stats": {
+  "hp": 90,
+  "attack": 75,
+  "defense": 75,
+  "special-attack": 90,
+  "special-defense": 100,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "water-absorb",
+   "hidden": false
+  },
+  {
+   "name": "damp",
+   "hidden": false
+  },
+  {
+   "name": "drizzle",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 339,
+ "champions_moves": [
+  "amnesia",
+  "attract",
+  "belly-drum",
+  "blizzard",
+  "body-slam",
+  "bounce",
+  "brick-break",
+  "bulldoze",
+  "chilling-water",
+  "dig",
+  "dive",
+  "double-edge",
+  "earth-power",
+  "earthquake",
+  "encore",
+  "endeavor",
+  "endure",
+  "facade",
+  "fling",
+  "focus-blast",
+  "focus-punch",
+  "giga-impact",
+  "haze",
+  "helping-hand",
+  "hydro-pump",
+  "hyper-beam",
+  "hyper-voice",
+  "hypnosis",
+  "ice-beam",
+  "ice-punch",
+  "icy-wind",
+  "liquidation",
+  "low-kick",
+  "low-sweep",
+  "mud-shot",
+  "mud-slap",
+  "muddy-water",
+  "perish-song",
+  "pound",
+  "protect",
+  "psych-up",
+  "psychic",
+  "rain-dance",
+  "rest",
+  "round",
+  "screech",
+  "sleep-talk",
+  "snore",
+  "substitute",
+  "surf",
+  "swagger",
+  "thief",
+  "uproar",
+  "water-pulse",
+  "waterfall",
+  "weather-ball",
+  "whirlpool"
+ ]
+}

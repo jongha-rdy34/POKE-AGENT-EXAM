@@ -1,0 +1,20 @@
+{
+ "name": "tm158",
+ "names": {
+  "ja-hrkt": "わざマシン１５８",
+  "ko": "기술머신158",
+  "zh-hant": "招式學習器１５８",
+  "fr": "CT158",
+  "de": "TM158",
+  "es": "MT158",
+  "it": "MT158",
+  "en": "TM158",
+  "ja": "わざマシン１５８",
+  "zh-hans": "招式学习器１５８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

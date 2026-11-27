@@ -1,0 +1,31 @@
+{
+ "name": "thunder-wave",
+ "names": {
+  "ja-hrkt": "でんじは",
+  "ko": "전기자석파",
+  "zh-hant": "電磁波",
+  "fr": "Cage Éclair",
+  "de": "Donnerwelle",
+  "es": "Onda Trueno",
+  "it": "Tuononda",
+  "en": "Thunder Wave",
+  "ja": "でんじは",
+  "zh-hans": "电磁波",
+  "es-419": "Onda Trueno"
+ },
+ "type": "electric",
+ "category": "status",
+ "power": null,
+ "accuracy": 90,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Paralyzes the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user launches a weak jolt of electricity that paralyzes the target.",
+  "ko": "약한 전격을 날려서 상대를 마비 상태로 만든다."
+ }
+}

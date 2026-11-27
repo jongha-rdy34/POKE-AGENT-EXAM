@@ -1,0 +1,42 @@
+{
+ "id": 425,
+ "name": "drifloon",
+ "names": {
+  "ja-hrkt": "フワンテ",
+  "ja-roma": "Fuwante",
+  "ko": "흔들풍손",
+  "zh-hant": "飄飄球",
+  "fr": "Baudrive",
+  "de": "Driftlon",
+  "es": "Drifloon",
+  "it": "Drifloon",
+  "en": "Drifloon",
+  "ja": "フワンテ",
+  "zh-hans": "飘飘球",
+  "es-419": "Drifloon"
+ },
+ "genus": {
+  "ja-hrkt": "ふうせんポケモン",
+  "ko": "풍선포켓몬",
+  "zh-hant": "氣球寶可夢",
+  "fr": "Pokémon Bouboule",
+  "de": "Ballon-Pokémon",
+  "es": "Pokémon Globo",
+  "it": "Pokémon Pallone",
+  "en": "Balloon Pokémon",
+  "ja": "ふうせんポケモン",
+  "zh-hans": "气球宝可梦",
+  "es-419": "Pokémon Globo"
+ },
+ "flavor": {
+  "en": "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed.",
+  "ko": "영혼들이 모여 탄생했다. 습기가 많은 계절에는 대량으로 나타나기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "drifloon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "219"
+}

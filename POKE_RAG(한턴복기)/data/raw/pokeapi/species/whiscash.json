@@ -1,0 +1,42 @@
+{
+ "id": 340,
+ "name": "whiscash",
+ "names": {
+  "ja-hrkt": "ナマズン",
+  "ja-roma": "Namazun",
+  "ko": "메깅",
+  "zh-hant": "鯰魚王",
+  "fr": "Barbicha",
+  "de": "Welsar",
+  "es": "Whiscash",
+  "it": "Whiscash",
+  "en": "Whiscash",
+  "ja": "ナマズン",
+  "zh-hans": "鲶鱼王",
+  "es-419": "Whiscash"
+ },
+ "genus": {
+  "ja-hrkt": "ひげうおポケモン",
+  "ko": "수염물고기포켓몬",
+  "zh-hant": "鬚魚寶可夢",
+  "fr": "Pokémon Barbillon",
+  "de": "Barthaar-Pokémon",
+  "es": "Pokémon Bigotudo",
+  "it": "Pokémon Baffetti",
+  "en": "Whiskers Pokémon",
+  "ja": "ひげうおポケモン",
+  "zh-hans": "须鱼宝可梦",
+  "es-419": "Pokémon Bigotudo"
+ },
+ "flavor": {
+  "en": "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes.",
+  "ko": "큰 늪을 영역으로 한다. 적이 가까이 오면 크게 난동부려서 큰 지진을 일으킨다."
+ },
+ "varieties": [
+  {
+   "name": "whiscash",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "173"
+}

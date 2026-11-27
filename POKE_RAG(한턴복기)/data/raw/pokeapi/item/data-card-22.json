@@ -1,0 +1,28 @@
+{
+ "name": "data-card-22",
+ "names": {
+  "ja-hrkt": "データカード２２",
+  "ko": "데이터카드22",
+  "zh-hant": "資料卡２２",
+  "fr": "Carte Mémo22",
+  "de": "Datenkarte22",
+  "es": "Tarjeta Datos 22",
+  "it": "Scheda Dati 22",
+  "en": "Data Card 22",
+  "ja": "データカード２２",
+  "zh-hans": "数据卡２２",
+  "es-419": "Tarjeta Datos 22"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé dernier du Pokéathlon toutes épreuves confondues.",
+  "en": "Records the number of times the trainer has come in last across all Pokéathlon events."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you have lost a Pokéathlon event.",
+  "ko": "포켓슬론의 기록이 들어 있다. 경기에서 꼴찌 한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 競技で ビリになった 回数が 記録された カード。"
+ }
+}

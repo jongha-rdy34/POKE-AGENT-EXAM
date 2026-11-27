@@ -1,0 +1,20 @@
+{
+ "name": "crabominite",
+ "names": {
+  "ko": "모단단게나이트",
+  "zh-hant": "好勝毛蟹進化石",
+  "fr": "Crabominablite",
+  "de": "Krawellonit",
+  "es": "Crabominablita",
+  "it": "Crabominablite",
+  "en": "Crabominite",
+  "ja": "ケケンカニナイト",
+  "zh-hans": "好胜毛蟹进化石",
+  "es-419": "Crabominablita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "psycho-cut",
+ "names": {
+  "ja-hrkt": "サイコカッター",
+  "ko": "사이코커터",
+  "zh-hant": "精神利刃",
+  "fr": "Coupe Psycho",
+  "de": "Psychoklinge",
+  "es": "Psicocorte",
+  "it": "Psicotaglio",
+  "en": "Psycho Cut",
+  "ja": "サイコカッター",
+  "zh-hans": "精神利刃",
+  "es-419": "Psicocorte"
+ },
+ "type": "psychic",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has an increased chance for a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit.",
+  "ko": "실체화시킨 마음의 칼날로 상대를 베어 가른다. 급소에 맞기 쉽다."
+ }
+}

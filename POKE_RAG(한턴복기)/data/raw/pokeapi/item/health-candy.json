@@ -1,0 +1,25 @@
+{
+ "name": "health-candy",
+ "names": {
+  "ja-hrkt": "げんきのアメ",
+  "ko": "기력의사탕",
+  "zh-hant": "元氣糖果",
+  "fr": "Bonbon Santé S",
+  "de": "Energiebonbon",
+  "es": "Caramelo Vigor",
+  "it": "Caramella vitalità S",
+  "en": "Health Candy",
+  "ja": "げんきのアメ",
+  "zh-hans": "元气糖果",
+  "es-419": "Caramelo Vigor"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 HP를 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s HP.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの たいりょくを 上げる。"
+ }
+}

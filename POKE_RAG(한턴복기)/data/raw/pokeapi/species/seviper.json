@@ -1,0 +1,42 @@
+{
+ "id": 336,
+ "name": "seviper",
+ "names": {
+  "ja-hrkt": "ハブネーク",
+  "ja-roma": "Habunake",
+  "ko": "세비퍼",
+  "zh-hant": "飯匙蛇",
+  "fr": "Séviper",
+  "de": "Vipitis",
+  "es": "Seviper",
+  "it": "Seviper",
+  "en": "Seviper",
+  "ja": "ハブネーク",
+  "zh-hans": "饭匙蛇",
+  "es-419": "Seviper"
+ },
+ "genus": {
+  "ja-hrkt": "キバへびポケモン",
+  "ko": "송곳뱀포켓몬",
+  "zh-hant": "牙蛇寶可夢",
+  "fr": "Pokémon Serpacroc",
+  "de": "Reißzahn",
+  "es": "Pokémon Colmillos",
+  "it": "Pokémon Zannaserpe",
+  "en": "Fang Snake Pokémon",
+  "ja": "キバへびポケモン",
+  "zh-hans": "牙蛇宝可梦",
+  "es-419": "Pokémon Colmillos"
+ },
+ "flavor": {
+  "en": "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
+  "ko": "칼과 같은 꼬리는 적을 베어 가르는 동시에 스며 나온 맹독을 끼얹는다. 숙적인 쟝고와 계속하여 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "seviper",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "170"
+}

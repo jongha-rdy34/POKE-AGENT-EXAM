@@ -1,0 +1,28 @@
+{
+ "name": "aqua-suit",
+ "names": {
+  "ja-hrkt": "アクアスーツ",
+  "ko": "아쿠아슈트",
+  "zh-hant": "海洋裝",
+  "fr": "Scaphandre Aqua",
+  "de": "Aqua-Anzug",
+  "es": "Traje Aqua",
+  "it": "Tuta Idro",
+  "en": "Aqua Suit",
+  "ja": "アクアスーツ",
+  "zh-hans": "海洋装",
+  "es-419": "Traje Aqua"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de chevaucher Kyogre dans la Grotte Origine.",
+  "en": "Allows the player to ride Kyogre in the Cave of Origin."
+ },
+ "flavor": {
+  "ko": "아쿠아단이 과학기술을 결집하여 만든 슈트다. 어떠한 충격에도 견딜 수 있다.",
+  "en": "A suit made with the collective technological know-how of Team Aqua. It can withstand any impact.",
+  "ja": "アクア団の 科学技術を 結集して つくられた スーツ。 どんな 衝撃にも 耐えられる。"
+ }
+}

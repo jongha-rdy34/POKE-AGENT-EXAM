@@ -1,0 +1,28 @@
+{
+ "name": "tm76",
+ "names": {
+  "ja-hrkt": "わざマシン７６",
+  "ko": "기술머신76",
+  "zh-hant": "招式學習器７６",
+  "fr": "CT76",
+  "de": "TM76",
+  "es": "MT76",
+  "it": "MT76",
+  "en": "TM76",
+  "ja": "わざマシン７６",
+  "zh-hans": "招式学习器７６",
+  "es-419": "MT76"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Survinsecte à un Pokémon compatible. (Gén IV: Piège de Roc)",
+  "en": "Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)"
+ },
+ "flavor": {
+  "en": "The user attacks the target with a song. Others can join in the Round to increase the power of the attack.",
+  "ko": "노래로 상대를 공격한다. 함께 돌림노래를 하면 계속해서 쓸 수 있고 위력도 올라간다.",
+  "ja": "歌で 相手を 攻撃する。 みんなで 輪唱すると 続けて だすことが でき 威力も あがる。"
+ }
+}

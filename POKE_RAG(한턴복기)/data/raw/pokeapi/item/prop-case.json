@@ -1,0 +1,28 @@
+{
+ "name": "prop-case",
+ "names": {
+  "ja-hrkt": "グッズケース",
+  "ko": "굿즈케이스",
+  "zh-hant": "物品箱",
+  "fr": "Boîte Parure",
+  "de": "Deko-Box",
+  "es": "Neceser",
+  "it": "Portagadget",
+  "en": "Prop Case",
+  "ja": "グッズケース",
+  "zh-hans": "物品箱",
+  "es-419": "Neceser"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Range les parures pour le Music-Hall.",
+  "en": "Stores props for the Pokémon Musical."
+ },
+ "flavor": {
+  "en": "A lovely case to store colorful Props for your Pokémon to wear in a musical.",
+  "ko": "뮤지컬에서 포켓몬에게 다는 각양각색의 굿즈를 많이 넣을 수 있는 아름답고 멋진 케이스.",
+  "ja": "ミュージカルで ポケモンに つける いろとりどりの グッズを たくさん 収納する きれいで すてきなケース。"
+ }
+}

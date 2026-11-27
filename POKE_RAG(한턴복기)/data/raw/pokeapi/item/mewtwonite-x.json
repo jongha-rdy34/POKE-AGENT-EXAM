@@ -1,0 +1,28 @@
+{
+ "name": "mewtwonite-x",
+ "names": {
+  "ja-hrkt": "ミュウツナイトＸ",
+  "ko": "뮤츠나이트X",
+  "zh-hant": "超夢進化石Ｘ",
+  "fr": "Mewtwoïte X",
+  "de": "Mewtunit X",
+  "es": "Mewtwoita X",
+  "it": "Mewtwoite X",
+  "en": "Mewtwonite X",
+  "ja": "ミュウツナイトＸ",
+  "zh-hans": "超梦进化石Ｘ",
+  "es-419": "Mewtwoita X"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Mewtwo de Méga-Évoluer en Méga-Mewtwo X.",
+  "en": "Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X."
+ },
+ "flavor": {
+  "ko": "뮤츠에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ミュウツーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

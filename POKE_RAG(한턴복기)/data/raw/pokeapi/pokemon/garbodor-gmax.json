@@ -1,0 +1,34 @@
+{
+ "id": 10207,
+ "name": "garbodor-gmax",
+ "species": "garbodor",
+ "is_default": false,
+ "types": [
+  "poison"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 95,
+  "defense": 82,
+  "special-attack": 60,
+  "special-defense": 82,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "stench",
+   "hidden": false
+  },
+  {
+   "name": "weak-armor",
+   "hidden": false
+  },
+  {
+   "name": "aftermath",
+   "hidden": true
+  }
+ ],
+ "height": 210,
+ "weight": 10000,
+ "champions_moves": []
+}

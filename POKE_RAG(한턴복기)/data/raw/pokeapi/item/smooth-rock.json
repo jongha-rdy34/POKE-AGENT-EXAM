@@ -1,0 +1,32 @@
+{
+ "name": "smooth-rock",
+ "names": {
+  "ja-hrkt": "さらさらいわ",
+  "ko": "보송보송바위",
+  "zh-hant": "沙沙岩石",
+  "fr": "Roche Lisse",
+  "de": "Glattbrocken",
+  "es": "Roca Suave",
+  "it": "Roccialiscia",
+  "en": "Smooth Rock",
+  "ja": "さらさらいわ",
+  "zh-hans": "沙沙岩石",
+  "es-419": "Roca Suave"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: La tempête de sable du porteur dure 8 tours au lieu de 5.",
+  "en": "Held: Sandstorm by the holder lasts 8 rounds instead of 5."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It extends the duration of the move Sandstorm when used by the holder.",
+  "ko": "지니게 한 포켓몬이 모래바람을 쓰면 여느 때보다 모래바람의 시간이 길어진다.",
+  "ja": "持たせた ポケモンが すなあらしを 使うと いつもより すなあらしの 時間が 長くなる。"
+ }
+}

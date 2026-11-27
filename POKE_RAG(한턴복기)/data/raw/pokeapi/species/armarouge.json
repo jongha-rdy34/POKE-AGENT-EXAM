@@ -1,0 +1,37 @@
+{
+ "id": 936,
+ "name": "armarouge",
+ "names": {
+  "ja-hrkt": "グレンアルマ",
+  "ja-roma": "Gurenarma",
+  "ko": "카디나르마",
+  "zh-hant": "紅蓮鎧騎",
+  "fr": "Carmadura",
+  "de": "Crimanzo",
+  "es": "Armarouge",
+  "it": "Armarouge",
+  "en": "Armarouge",
+  "ja": "グレンアルマ",
+  "zh-hans": "红莲铠骑",
+  "es-419": "Armarouge"
+ },
+ "genus": {
+  "ja-hrkt": "ひのせんしポケモン",
+  "ko": "불의전사포켓몬",
+  "zh-hant": "火戰士寶可夢",
+  "fr": "Feu Guerrier",
+  "de": "Feuerrüstung",
+  "en": "Fire Warrior Pokémon",
+  "zh-hans": "火战士宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon clads itself in armor that has been fortified by psychic and fire energy, and it shoots blazing fireballs."
+ },
+ "varieties": [
+  {
+   "name": "armarouge",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "490"
+}

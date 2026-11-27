@@ -1,0 +1,42 @@
+{
+ "id": 695,
+ "name": "heliolisk",
+ "names": {
+  "ja-hrkt": "エレザード",
+  "ja-roma": "Elezard",
+  "ko": "일레도리자드",
+  "zh-hant": "光電傘蜥",
+  "fr": "Iguolta",
+  "de": "Elezard",
+  "es": "Heliolisk",
+  "it": "Heliolisk",
+  "en": "Heliolisk",
+  "ja": "エレザード",
+  "zh-hans": "光电伞蜥",
+  "es-419": "Heliolisk"
+ },
+ "genus": {
+  "ja-hrkt": "はつでんポケモン",
+  "ko": "발전포켓몬",
+  "zh-hant": "發電寶可夢",
+  "fr": "Pokémon Générateur",
+  "de": "Generatoren-Pokémon",
+  "es": "Pokémon Generador",
+  "it": "Pokémon Generatore",
+  "en": "Generator Pokémon",
+  "ja": "はつでんポケモン",
+  "zh-hans": "发电宝可梦",
+  "es-419": "Pokémon Generador"
+ },
+ "flavor": {
+  "ko": "깃을 펼쳐 태양광을 받으면 대도시에서 사용할 수 있는 전기를 혼자서 발전한다.",
+  "en": "One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city."
+ },
+ "varieties": [
+  {
+   "name": "heliolisk",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "356"
+}

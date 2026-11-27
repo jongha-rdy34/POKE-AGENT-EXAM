@@ -1,0 +1,78 @@
+{
+ "id": 587,
+ "name": "emolga",
+ "species": "emolga",
+ "is_default": true,
+ "types": [
+  "electric",
+  "flying"
+ ],
+ "stats": {
+  "hp": 55,
+  "attack": 75,
+  "defense": 60,
+  "special-attack": 75,
+  "special-defense": 60,
+  "speed": 103
+ },
+ "abilities": [
+  {
+   "name": "static",
+   "hidden": false
+  },
+  {
+   "name": "motor-drive",
+   "hidden": true
+  }
+ ],
+ "height": 4,
+ "weight": 50,
+ "champions_moves": [
+  "acrobatics",
+  "agility",
+  "air-slash",
+  "attract",
+  "baton-pass",
+  "charge",
+  "charge-beam",
+  "charm",
+  "covet",
+  "defog",
+  "discharge",
+  "double-team",
+  "dual-wingbeat",
+  "eerie-impulse",
+  "electro-ball",
+  "electroweb",
+  "encore",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fling",
+  "helping-hand",
+  "iron-tail",
+  "light-screen",
+  "nuzzle",
+  "pounce",
+  "protect",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "rising-voltage",
+  "roost",
+  "round",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "speed-swap",
+  "substitute",
+  "taunt",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt",
+  "tickle",
+  "u-turn",
+  "volt-switch",
+  "wild-charge"
+ ]
+}

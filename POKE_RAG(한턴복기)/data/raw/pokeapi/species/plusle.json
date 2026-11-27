@@ -1,0 +1,42 @@
+{
+ "id": 311,
+ "name": "plusle",
+ "names": {
+  "ja-hrkt": "プラスル",
+  "ja-roma": "Prasle",
+  "ko": "플러시",
+  "zh-hant": "正電拍拍",
+  "fr": "Posipi",
+  "de": "Plusle",
+  "es": "Plusle",
+  "it": "Plusle",
+  "en": "Plusle",
+  "ja": "プラスル",
+  "zh-hans": "正电拍拍",
+  "es-419": "Plusle"
+ },
+ "genus": {
+  "ja-hrkt": "おうえんポケモン",
+  "ko": "응원포켓몬",
+  "zh-hant": "加油寶可夢",
+  "fr": "Pokémon Acclameur",
+  "de": "Jubel",
+  "es": "Pokémon Ánimo",
+  "it": "Pokémon Incitamento",
+  "en": "Cheering Pokémon",
+  "ja": "おうえんポケモン",
+  "zh-hans": "加油宝可梦",
+  "es-419": "Pokémon Ánimo"
+ },
+ "flavor": {
+  "en": "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
+  "ko": "동료를 응원할 때는 온몸에서 전기 불꽃을 내 타다닥 빛난다. 동료가 지면 큰 소리로 운다."
+ },
+ "varieties": [
+  {
+   "name": "plusle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "154"
+}

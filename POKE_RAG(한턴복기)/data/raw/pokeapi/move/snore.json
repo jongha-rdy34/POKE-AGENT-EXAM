@@ -1,0 +1,31 @@
+{
+ "name": "snore",
+ "names": {
+  "ja-hrkt": "いびき",
+  "ko": "코골기",
+  "zh-hant": "打鼾",
+  "fr": "Ronflement",
+  "de": "Schnarcher",
+  "es": "Ronquido",
+  "it": "Russare",
+  "en": "Snore",
+  "ja": "いびき",
+  "zh-hans": "打鼾",
+  "es-419": "Ronquido"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch.  Only works if the user is sleeping."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.",
+  "ko": "자신이 잠들어 있을 때 소음을 내어 공격한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

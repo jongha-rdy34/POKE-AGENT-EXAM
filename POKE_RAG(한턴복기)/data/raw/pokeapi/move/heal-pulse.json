@@ -1,0 +1,31 @@
+{
+ "name": "heal-pulse",
+ "names": {
+  "ja-hrkt": "いやしのはどう",
+  "ko": "치유파동",
+  "zh-hant": "治癒波動",
+  "fr": "Vibra Soin",
+  "de": "Heilwoge",
+  "es": "Pulso Cura",
+  "it": "Ondasana",
+  "en": "Heal Pulse",
+  "ja": "いやしのはどう",
+  "zh-hans": "治愈波动",
+  "es-419": "Pulso Sanador"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Heals the target for half its max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user emits a healing pulse that restores the target's HP by up to half its max HP.",
+  "ko": "치유파동을 날려서 최대 HP의 절반만큼 상대의 HP를 회복한다."
+ }
+}

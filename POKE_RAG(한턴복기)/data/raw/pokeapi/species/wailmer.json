@@ -1,0 +1,42 @@
+{
+ "id": 320,
+ "name": "wailmer",
+ "names": {
+  "ja-hrkt": "ホエルコ",
+  "ja-roma": "Hoeruko",
+  "ko": "고래왕자",
+  "zh-hant": "吼吼鯨",
+  "fr": "Wailmer",
+  "de": "Wailmer",
+  "es": "Wailmer",
+  "it": "Wailmer",
+  "en": "Wailmer",
+  "ja": "ホエルコ",
+  "zh-hans": "吼吼鲸",
+  "es-419": "Wailmer"
+ },
+ "genus": {
+  "ja-hrkt": "たまくじらポケモン",
+  "ko": "둥근고래포켓몬",
+  "zh-hant": "球鯨寶可夢",
+  "fr": "Pokémon Baleinboule",
+  "de": "Kugelwal-Pokémon",
+  "es": "Pokémon Ballenabola",
+  "it": "Pokémon Balenottero",
+  "en": "Ball Whale Pokémon",
+  "ja": "たまくじらポケモン",
+  "zh-hans": "球鲸宝可梦",
+  "es-419": "Pokémon Ballenabola"
+ },
+ "flavor": {
+  "en": "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.",
+  "ko": "바닷물을 많이 마시면 몸이 공처럼 튄다. 매일 1톤의 먹이를 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "wailmer",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "161"
+}

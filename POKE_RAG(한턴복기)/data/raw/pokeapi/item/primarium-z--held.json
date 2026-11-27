@@ -1,0 +1,28 @@
+{
+ "name": "primarium-z--held",
+ "names": {
+  "ja-hrkt": "アシレーヌＺ",
+  "ko": "누리레느Z",
+  "zh-hant": "西獅海壬Ｚ",
+  "fr": "Oratozélite",
+  "de": "Primarenium Z",
+  "es": "Primastal Z",
+  "it": "Primarinium Z",
+  "en": "Primarium Z",
+  "ja": "アシレーヌＺ",
+  "zh-hans": "西狮海壬Ｚ",
+  "es-419": "Primastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Oratoria d'améliorer Aria de l'Écume en Symphonie des Ondines.",
+  "en": "Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 누리레느의 물거품아리아를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Primarina’s Sparkling Aria to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 アシレーヌの うたかたのアリアを Ｚワザに グレードアップする。"
+ }
+}

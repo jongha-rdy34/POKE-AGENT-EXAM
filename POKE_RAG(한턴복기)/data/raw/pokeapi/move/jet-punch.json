@@ -1,0 +1,28 @@
+{
+ "name": "jet-punch",
+ "names": {
+  "ja-hrkt": "ジェットパンチ",
+  "ko": "제트펀치",
+  "zh-hant": "噴射拳",
+  "fr": "Poing Sonique",
+  "de": "Düsenhieb",
+  "es": "Puño Jet",
+  "it": "Pugnojet",
+  "en": "Jet Punch",
+  "ja": "ジェットパンチ",
+  "zh-hans": "喷射拳",
+  "es-419": "Puño Jet"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
+ }
+}

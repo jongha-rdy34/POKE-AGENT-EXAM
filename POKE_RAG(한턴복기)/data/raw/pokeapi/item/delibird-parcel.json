@@ -1,0 +1,20 @@
+{
+ "name": "delibird-parcel",
+ "names": {
+  "ja-hrkt": "デリバードのにもつ",
+  "ko": "딜리버드의짐",
+  "zh-hant": "信使鳥的行李",
+  "fr": "Provisions de Cadoizo",
+  "de": "Botogel-Päckchen",
+  "es": "Paquete de Delibird",
+  "it": "Scorte di Delibird",
+  "en": "Delibird Parcel",
+  "ja": "デリバードのにもつ",
+  "zh-hans": "信使鸟的行李"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

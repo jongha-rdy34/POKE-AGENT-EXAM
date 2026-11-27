@@ -1,0 +1,20 @@
+{
+ "name": "academy-ball",
+ "names": {
+  "ja-hrkt": "スクールボール",
+  "ko": "스쿨볼",
+  "zh-hant": "校園球",
+  "fr": "Ballon de l'Académie",
+  "de": "Akademie-Ball",
+  "es": "Pelota Academia",
+  "it": "Palla accademia",
+  "en": "Academy Ball",
+  "ja": "スクールボール",
+  "zh-hans": "校园球"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

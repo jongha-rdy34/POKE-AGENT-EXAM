@@ -1,0 +1,87 @@
+{
+ "id": 505,
+ "name": "watchog",
+ "species": "watchog",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 85,
+  "defense": 69,
+  "special-attack": 60,
+  "special-defense": 69,
+  "speed": 77
+ },
+ "abilities": [
+  {
+   "name": "illuminate",
+   "hidden": false
+  },
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "analytic",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 270,
+ "champions_moves": [
+  "after-you",
+  "assurance",
+  "attract",
+  "baton-pass",
+  "bite",
+  "bullet-seed",
+  "confuse-ray",
+  "crunch",
+  "detect",
+  "dig",
+  "double-edge",
+  "endure",
+  "facade",
+  "fire-punch",
+  "flamethrower",
+  "fling",
+  "focus-blast",
+  "focus-energy",
+  "giga-impact",
+  "grass-knot",
+  "gunk-shot",
+  "helping-hand",
+  "hyper-beam",
+  "hypnosis",
+  "ice-punch",
+  "iron-tail",
+  "light-screen",
+  "low-kick",
+  "mean-look",
+  "mud-shot",
+  "nasty-plot",
+  "protect",
+  "psych-up",
+  "rain-dance",
+  "rest",
+  "round",
+  "screech",
+  "seed-bomb",
+  "shadow-ball",
+  "sleep-talk",
+  "snore",
+  "stomping-tantrum",
+  "substitute",
+  "sunny-day",
+  "super-fang",
+  "swords-dance",
+  "thunder",
+  "thunder-punch",
+  "thunder-wave",
+  "thunderbolt",
+  "trailblaze",
+  "zen-headbutt"
+ ]
+}

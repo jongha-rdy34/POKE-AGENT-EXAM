@@ -1,0 +1,20 @@
+{
+ "name": "cherry-tomatoes",
+ "names": {
+  "ja-hrkt": "カットミニトマト",
+  "ko": "방울토마토슬라이스",
+  "zh-hant": "小番茄塊",
+  "fr": "Tomate Cerise",
+  "de": "Mini-Tomate",
+  "es": "Tomate Cherri",
+  "it": "Pomodorino",
+  "en": "Cherry Tomatoes",
+  "ja": "カットミニトマト",
+  "zh-hans": "小番茄块"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

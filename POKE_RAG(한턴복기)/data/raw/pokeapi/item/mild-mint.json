@@ -1,0 +1,25 @@
+{
+ "name": "mild-mint",
+ "names": {
+  "ja-hrkt": "おっとりミント",
+  "ko": "의젓민트",
+  "zh-hant": "慢吞吞薄荷",
+  "fr": "Aromate Doux",
+  "de": "Mild-Minze",
+  "es": "Menta Afable",
+  "it": "Menta Mite",
+  "en": "Mild Mint",
+  "ja": "おっとりミント",
+  "zh-hans": "慢吞吞薄荷",
+  "es-419": "Menta Afable"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수공격이 오르기 쉬워지지만 방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Atk will grow more easily, but its Defense will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特攻が 上がりやすく なるが 防御は 上がりにくくなる ミント。"
+ }
+}

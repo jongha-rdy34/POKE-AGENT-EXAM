@@ -1,0 +1,54 @@
+{
+ "id": 386,
+ "name": "deoxys",
+ "names": {
+  "ja-hrkt": "デオキシス",
+  "ja-roma": "Deoxys",
+  "ko": "테오키스",
+  "zh-hant": "代歐奇希斯",
+  "fr": "Deoxys",
+  "de": "Deoxys",
+  "es": "Deoxys",
+  "it": "Deoxys",
+  "en": "Deoxys",
+  "ja": "デオキシス",
+  "zh-hans": "代欧奇希斯",
+  "es-419": "Deoxys"
+ },
+ "genus": {
+  "ja-hrkt": "ＤＮＡポケモン",
+  "ko": "DNA포켓몬",
+  "zh-hant": "ＤＮＡ寶可夢",
+  "fr": "Pokémon ADN",
+  "de": "DNS",
+  "es": "Pokémon ADN",
+  "it": "Pokémon DNA",
+  "en": "DNA Pokémon",
+  "ja": "ＤＮＡポケモン",
+  "zh-hans": "ＤＮＡ宝可梦",
+  "es-419": "Pokémon ADN"
+ },
+ "flavor": {
+  "en": "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+  "ko": "우주 바이러스에서 태어난 포켓몬이다. 지능이 높고 초능력을 쓸 수 있다. 가슴의 수정체에서 레이저를 쏜다."
+ },
+ "varieties": [
+  {
+   "name": "deoxys-normal",
+   "is_default": true
+  },
+  {
+   "name": "deoxys-attack",
+   "is_default": false
+  },
+  {
+   "name": "deoxys-defense",
+   "is_default": false
+  },
+  {
+   "name": "deoxys-speed",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "202"
+}

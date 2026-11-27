@@ -1,0 +1,28 @@
+{
+ "name": "tm35",
+ "names": {
+  "ja-hrkt": "わざマシン３５",
+  "ko": "기술머신35",
+  "zh-hant": "招式學習器３５",
+  "fr": "CT35",
+  "de": "TM35",
+  "es": "MT35",
+  "it": "MT35",
+  "en": "TM35",
+  "ja": "わざマシン３５",
+  "zh-hans": "招式学习器３５",
+  "es-419": "MT35"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Lance-Flammes à un Pokémon compatible. (Gén II: Blabla Dodo Gén I: Métronome)",
+  "en": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)"
+ },
+ "flavor": {
+  "en": "The user summons a hailstorm lasting five turns. It damages all Pokémon except Ice types.",
+  "ko": "5턴 동안 싸라기눈을 내리게 해서 얼음타입이 아닌 포켓몬 모두에게 데미지를 준다.",
+  "ja": "５ターンの 間 あられを 降らして こおりタイプで ない ポケモン 全員に ダメージを 与える。"
+ }
+}

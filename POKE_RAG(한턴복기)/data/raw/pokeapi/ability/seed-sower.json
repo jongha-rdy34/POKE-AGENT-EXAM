@@ -1,0 +1,24 @@
+{
+ "name": "seed-sower",
+ "names": {
+  "ja-hrkt": "こぼれダネ",
+  "ko": "넘치는씨",
+  "zh-hant": "掉出種子",
+  "fr": "Semencier",
+  "de": "Streusaat",
+  "es": "Disemillar",
+  "it": "Spargisemi",
+  "en": "Seed Sower",
+  "cs": "Rozsévání",
+  "ja": "こぼれダネ",
+  "zh-hans": "掉出种子",
+  "pt-br": "Semear",
+  "es-419": "Disemillar"
+ },
+ "effect": {
+  "en": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+ },
+ "flavor": {
+  "en": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+ }
+}

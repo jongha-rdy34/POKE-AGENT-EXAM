@@ -1,0 +1,28 @@
+{
+ "name": "tm20",
+ "names": {
+  "ja-hrkt": "わざマシン２０",
+  "ko": "기술머신20",
+  "zh-hant": "招式學習器２０",
+  "fr": "CT20",
+  "de": "TM20",
+  "es": "MT20",
+  "it": "MT20",
+  "en": "TM20",
+  "ja": "わざマシン２０",
+  "zh-hans": "招式学习器２０",
+  "es-419": "MT20"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Rune Protect à un Pokémon compatible. (Gén IV & III & II: Ténacité Gén I: Frénésie)",
+  "en": "Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)"
+ },
+ "flavor": {
+  "en": "The user attacks everything around it by causing an explosion. The user faints upon using this move.",
+  "ko": "폭발을 일으켜서 자신의 주위에 있는 포켓몬을 공격한다. 쓰고 나서 기절하게 된다.",
+  "ja": "爆発を おこして 自分の 周りに いるものを 攻撃する。 使ったあとに ひんしに なる。"
+ }
+}

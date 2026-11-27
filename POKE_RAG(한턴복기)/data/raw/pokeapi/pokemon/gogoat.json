@@ -1,0 +1,30 @@
+{
+ "id": 673,
+ "name": "gogoat",
+ "species": "gogoat",
+ "is_default": true,
+ "types": [
+  "grass"
+ ],
+ "stats": {
+  "hp": 123,
+  "attack": 100,
+  "defense": 62,
+  "special-attack": 97,
+  "special-defense": 81,
+  "speed": 68
+ },
+ "abilities": [
+  {
+   "name": "sap-sipper",
+   "hidden": false
+  },
+  {
+   "name": "grass-pelt",
+   "hidden": true
+  }
+ ],
+ "height": 17,
+ "weight": 910,
+ "champions_moves": []
+}

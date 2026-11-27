@@ -1,0 +1,46 @@
+{
+ "id": 131,
+ "name": "lapras",
+ "names": {
+  "ja-hrkt": "ラプラス",
+  "ja-roma": "Laplace",
+  "ko": "라프라스",
+  "zh-hant": "拉普拉斯",
+  "fr": "Lokhlass",
+  "de": "Lapras",
+  "es": "Lapras",
+  "it": "Lapras",
+  "en": "Lapras",
+  "ja": "ラプラス",
+  "zh-hans": "拉普拉斯",
+  "es-419": "Lapras"
+ },
+ "genus": {
+  "ja-hrkt": "のりものポケモン",
+  "ko": "탈것포켓몬",
+  "zh-hant": "乘載寶可夢",
+  "fr": "Pokémon Transport",
+  "de": "Transport-Pokémon",
+  "es": "Pokémon Transporte",
+  "it": "Pokémon Trasporto",
+  "en": "Transport Pokémon",
+  "ja": "のりものポケモン",
+  "zh-hans": "乘载宝可梦",
+  "es-419": "Pokémon Transporte"
+ },
+ "flavor": {
+  "en": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+  "ko": "추위에 강해서 얼음 바다에서도 끄떡없다. 피부는 매끈매끈하고 조금 차갑다."
+ },
+ "varieties": [
+  {
+   "name": "lapras",
+   "is_default": true
+  },
+  {
+   "name": "lapras-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "65"
+}

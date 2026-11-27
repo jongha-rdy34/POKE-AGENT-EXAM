@@ -1,0 +1,31 @@
+{
+ "name": "baneful-bunker",
+ "names": {
+  "ja-hrkt": "トーチカ",
+  "ko": "토치카",
+  "zh-hant": "碉堡",
+  "fr": "Blockhaus",
+  "de": "Bunker",
+  "es": "Búnker",
+  "it": "Fortino",
+  "en": "Baneful Bunker",
+  "ja": "トーチカ",
+  "zh-hans": "碉堡",
+  "es-419": "Búnker"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 4,
+ "target": "user",
+ "effect": {
+  "en": "Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대의 공격을 막음과 동시에 접촉한 상대에게 독을 퍼뜨린다.",
+  "en": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "crunch",
+ "names": {
+  "ja-hrkt": "かみくだく",
+  "ko": "깨물어부수기",
+  "zh-hant": "咬碎",
+  "fr": "Mâchouille",
+  "de": "Knirscher",
+  "es": "Triturar",
+  "it": "Sgranocchio",
+  "en": "Crunch",
+  "ja": "かみくだく",
+  "zh-hans": "咬碎",
+  "es-419": "Triturar"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Defense by one stage."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user crunches up the target with sharp fangs. This may also lower the target's Defense stat.",
+  "ko": "날카로운 이빨로 상대를 깨물어 부숴서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다."
+ }
+}

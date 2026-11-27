@@ -1,0 +1,42 @@
+{
+ "id": 97,
+ "name": "hypno",
+ "names": {
+  "ja-hrkt": "スリーパー",
+  "ja-roma": "Sleeper",
+  "ko": "슬리퍼",
+  "zh-hant": "引夢貘人",
+  "fr": "Hypnomade",
+  "de": "Hypno",
+  "es": "Hypno",
+  "it": "Hypno",
+  "en": "Hypno",
+  "ja": "スリーパー",
+  "zh-hans": "引梦貘人",
+  "es-419": "Hypno"
+ },
+ "genus": {
+  "ja-hrkt": "さいみんポケモン",
+  "ko": "최면포켓몬",
+  "zh-hant": "催眠寶可夢",
+  "fr": "Pokémon Hypnose",
+  "de": "Hypnose",
+  "es": "Pokémon Hipnosis",
+  "it": "Pokémon Ipnosi",
+  "en": "Hypnosis Pokémon",
+  "ja": "さいみんポケモン",
+  "zh-hans": "催眠宝可梦",
+  "es-419": "Pokémon Hipnosis"
+ },
+ "flavor": {
+  "en": "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.",
+  "ko": "우연히 마주쳤을 때 다른 곳으로 눈을 돌리지 않으면 위험하다. 손에 든 추로 잠재워 버린다."
+ },
+ "varieties": [
+  {
+   "name": "hypno",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "42"
+}

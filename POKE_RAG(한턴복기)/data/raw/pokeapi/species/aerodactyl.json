@@ -1,0 +1,46 @@
+{
+ "id": 142,
+ "name": "aerodactyl",
+ "names": {
+  "ja-hrkt": "プテラ",
+  "ja-roma": "Ptera",
+  "ko": "프테라",
+  "zh-hant": "化石翼龍",
+  "fr": "Ptéra",
+  "de": "Aerodactyl",
+  "es": "Aerodactyl",
+  "it": "Aerodactyl",
+  "en": "Aerodactyl",
+  "ja": "プテラ",
+  "zh-hans": "化石翼龙",
+  "es-419": "Aerodactyl"
+ },
+ "genus": {
+  "ja-hrkt": "かせきポケモン",
+  "ko": "화석포켓몬",
+  "zh-hant": "化石寶可夢",
+  "fr": "Pokémon Fossile",
+  "de": "Fossil-Pokémon",
+  "es": "Pokémon Fósil",
+  "it": "Pokémon Fossile",
+  "en": "Fossil Pokémon",
+  "ja": "かせきポケモン",
+  "zh-hans": "化石宝可梦",
+  "es-419": "Pokémon Fósil"
+ },
+ "flavor": {
+  "en": "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon.",
+  "ko": "톱 같은 이빨은 강철포켓몬의 피부도 갈기갈기 베어 가른다."
+ },
+ "varieties": [
+  {
+   "name": "aerodactyl",
+   "is_default": true
+  },
+  {
+   "name": "aerodactyl-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "71"
+}

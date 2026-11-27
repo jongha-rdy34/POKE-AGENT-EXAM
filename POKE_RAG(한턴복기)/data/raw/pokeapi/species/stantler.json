@@ -1,0 +1,42 @@
+{
+ "id": 234,
+ "name": "stantler",
+ "names": {
+  "ja-hrkt": "オドシシ",
+  "ja-roma": "Odoshishi",
+  "ko": "노라키",
+  "zh-hant": "驚角鹿",
+  "fr": "Cerfrousse",
+  "de": "Damhirplex",
+  "es": "Stantler",
+  "it": "Stantler",
+  "en": "Stantler",
+  "ja": "オドシシ",
+  "zh-hans": "惊角鹿",
+  "es-419": "Stantler"
+ },
+ "genus": {
+  "ja-hrkt": "おおツノポケモン",
+  "ko": "큰뿔포켓몬",
+  "zh-hant": "大角寶可夢",
+  "fr": "Pokémon Maxi Corne",
+  "de": "Vielender",
+  "es": "Pokémon Gran Cuerno",
+  "it": "Pokémon Grancorno",
+  "en": "Big Horn Pokémon",
+  "ja": "おおツノポケモン",
+  "zh-hans": "大角宝可梦",
+  "es-419": "Pokémon Gran Cuerno"
+ },
+ "flavor": {
+  "en": "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia.",
+  "ko": "멋지게 생긴 뿔은 미술품으로 비싸게 팔리기 때문에 멸종 직전까지 남획됐었던 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "stantler",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "120"
+}

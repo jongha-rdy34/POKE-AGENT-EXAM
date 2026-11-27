@@ -1,0 +1,31 @@
+{
+ "name": "poison-powder",
+ "names": {
+  "ja-hrkt": "どくのこな",
+  "ko": "독가루",
+  "zh-hant": "毒粉",
+  "fr": "Poudre Toxik",
+  "de": "Giftpuder",
+  "es": "Polvo Veneno",
+  "it": "Velenpolvere",
+  "en": "Poison Powder",
+  "ja": "どくのこな",
+  "zh-hans": "毒粉",
+  "es-419": "Polvo Venenoso"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": 75,
+ "pp": 35,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Poisons the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user scatters a cloud of poisonous dust that poisons the target.",
+  "ko": "독이 있는 가루를 많이 흩뿌려서 상대를 독 상태로 만든다."
+ }
+}

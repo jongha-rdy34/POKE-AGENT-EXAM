@@ -1,0 +1,42 @@
+{
+ "id": 799,
+ "name": "guzzlord",
+ "names": {
+  "ja-hrkt": "アクジキング",
+  "ja-roma": "Akuziking",
+  "ko": "악식킹",
+  "zh-hant": "惡食大王",
+  "fr": "Engloutyran",
+  "de": "Schlingking",
+  "es": "Guzzlord",
+  "it": "Guzzlord",
+  "en": "Guzzlord",
+  "ja": "アクジキング",
+  "zh-hans": "恶食大王",
+  "es-419": "Guzzlord"
+ },
+ "genus": {
+  "ja-hrkt": "あくじきポケモン",
+  "ko": "악식성포켓몬",
+  "zh-hant": "異食寶可夢",
+  "fr": "Pokémon Bizarrovore",
+  "de": "Gaumenfolter-Pokémon",
+  "es": "Pokémon Tragaldabas",
+  "it": "Pokémon Divoratutto",
+  "en": "Junkivore Pokémon",
+  "ja": "あくじきポケモン",
+  "zh-hans": "异食宝可梦",
+  "es-419": "Pokémon Tragaldabas"
+ },
+ "flavor": {
+  "ko": "UB라고 불리는 미지의 생명체. 늘 배가 고픈 상태인 것인지 계속해서 무언가를 먹고 있다.",
+  "en": "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something."
+ },
+ "varieties": [
+  {
+   "name": "guzzlord",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "420"
+}

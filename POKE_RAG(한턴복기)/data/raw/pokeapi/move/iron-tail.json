@@ -1,0 +1,31 @@
+{
+ "name": "iron-tail",
+ "names": {
+  "ja-hrkt": "アイアンテール",
+  "ko": "아이언테일",
+  "zh-hant": "鐵尾",
+  "fr": "Queue de Fer",
+  "de": "Eisenschweif",
+  "es": "Cola Férrea",
+  "it": "Codacciaio",
+  "en": "Iron Tail",
+  "ja": "アイアンテール",
+  "zh-hans": "铁尾",
+  "es-419": "Cola de Hierro"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 75,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Defense by one stage."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The target is slammed with a steel-hard tail. This may also lower the target's Defense stat.",
+  "ko": "단단한 꼬리로 상대를 힘껏 쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다."
+ }
+}

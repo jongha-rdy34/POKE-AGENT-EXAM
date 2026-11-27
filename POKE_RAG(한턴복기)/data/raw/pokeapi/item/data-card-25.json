@@ -1,0 +1,28 @@
+{
+ "name": "data-card-25",
+ "names": {
+  "ja-hrkt": "データカード２５",
+  "ko": "데이터카드25",
+  "zh-hant": "資料卡２５",
+  "fr": "Carte Mémo25",
+  "de": "Datenkarte25",
+  "es": "Tarjeta Datos 25",
+  "it": "Scheda Dati 25",
+  "en": "Data Card 25",
+  "ja": "データカード２５",
+  "zh-hans": "数据卡２５",
+  "es-419": "Tarjeta Datos 25"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que les Pokémon du dresseur ont reçu des prix au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon received prizes in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon won individual prizes.",
+  "ko": "포켓슬론의 기록이 들어 있다. 개인상 획득 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 個人賞 獲得 回数が 記録された カード。"
+ }
+}

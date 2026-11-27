@@ -1,0 +1,31 @@
+{
+ "name": "aqua-ring",
+ "names": {
+  "ja-hrkt": "アクアリング",
+  "ko": "아쿠아링",
+  "zh-hant": "水流環",
+  "fr": "Anneau Hydro",
+  "de": "Wasserring",
+  "es": "Acua Aro",
+  "it": "Acquanello",
+  "en": "Aqua Ring",
+  "ja": "アクアリング",
+  "zh-hans": "水流环",
+  "es-419": "Acuaanillo"
+ },
+ "type": "water",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Restores 1/16 of the user’s max HP each turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user envelops itself in a veil made of water. It regains some HP every turn.",
+  "ko": "자신의 몸 주변을 물로 만든 베일로 덮는다. 매 턴 HP를 회복한다."
+ }
+}

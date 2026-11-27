@@ -1,0 +1,28 @@
+{
+ "name": "tm53",
+ "names": {
+  "ja-hrkt": "わざマシン５３",
+  "ko": "기술머신53",
+  "zh-hant": "招式學習器５３",
+  "fr": "CT53",
+  "de": "TM53",
+  "es": "MT53",
+  "it": "MT53",
+  "en": "TM53",
+  "ja": "わざマシン５３",
+  "zh-hans": "招式学习器５３",
+  "es-419": "MT53"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Éco-Sphère à un Pokémon compatible.",
+  "en": "Teaches Energy Ball to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.",
+  "ko": "진흙 덩어리를 상대에게 내던져서 공격한다. 동시에 상대의 스피드를 떨어뜨린다.",
+  "ja": "泥の 塊を 相手に 投げつけて 攻撃する。 同時に 相手の 素早さを さげる。"
+ }
+}

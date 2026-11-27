@@ -1,0 +1,31 @@
+{
+ "name": "foul-play",
+ "names": {
+  "ja-hrkt": "イカサマ",
+  "ko": "속임수",
+  "zh-hant": "欺詐",
+  "fr": "Tricherie",
+  "de": "Schmarotzer",
+  "es": "Juego Sucio",
+  "it": "Ripicca",
+  "en": "Foul Play",
+  "ja": "イカサマ",
+  "zh-hans": "欺诈",
+  "es-419": "Juego Sucio"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 95,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Calculates damage with the target’s attacking stat."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts.",
+  "ko": "상대의 힘을 이용한다. 싸우고 있는 상대의 공격이 높을수록 데미지가 올라간다."
+ }
+}

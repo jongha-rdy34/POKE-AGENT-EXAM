@@ -1,0 +1,42 @@
+{
+ "id": 455,
+ "name": "carnivine",
+ "names": {
+  "ja-hrkt": "マスキッパ",
+  "ja-roma": "Muskippa",
+  "ko": "무스틈니",
+  "zh-hant": "尖牙籠",
+  "fr": "Vortente",
+  "de": "Venuflibis",
+  "es": "Carnivine",
+  "it": "Carnivine",
+  "en": "Carnivine",
+  "ja": "マスキッパ",
+  "zh-hans": "尖牙笼",
+  "es-419": "Carnivine"
+ },
+ "genus": {
+  "ja-hrkt": "むしとりポケモン",
+  "ko": "벌레잡이포켓몬",
+  "zh-hant": "捕蟲寶可夢",
+  "fr": "Pokémon Chopinsecte",
+  "de": "Käfertod",
+  "es": "Pokémon Caza Bichos",
+  "it": "Pokémon Insettivoro",
+  "en": "Bug Catcher Pokémon",
+  "ja": "むしとりポケモン",
+  "zh-hans": "捕虫宝可梦",
+  "es-419": "Pokémon Caza Bichos"
+ },
+ "flavor": {
+  "en": "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open.",
+  "ko": "늪지대에서 자라는 나무에 엉겨 붙어 달콤한 냄새의 타액으로 먹이를 끌어들여 한입에 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "carnivine",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "236"
+}

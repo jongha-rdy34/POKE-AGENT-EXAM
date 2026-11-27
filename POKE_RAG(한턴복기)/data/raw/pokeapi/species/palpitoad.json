@@ -1,0 +1,42 @@
+{
+ "id": 536,
+ "name": "palpitoad",
+ "names": {
+  "ja-hrkt": "ガマガル",
+  "ja-roma": "Gamagaru",
+  "ko": "두까비",
+  "zh-hant": "藍蟾蜍",
+  "fr": "Batracné",
+  "de": "Mebrana",
+  "es": "Palpitoad",
+  "it": "Palpitoad",
+  "en": "Palpitoad",
+  "ja": "ガマガル",
+  "zh-hans": "蓝蟾蜍",
+  "es-419": "Palpitoad"
+ },
+ "genus": {
+  "ja-hrkt": "しんどうポケモン",
+  "ko": "진동포켓몬",
+  "zh-hant": "震動寶可夢",
+  "fr": "Pokémon Vibration",
+  "de": "Vibrations-Pokémon",
+  "es": "Pokémon Vibrante",
+  "it": "Pokémon Vibrazione",
+  "en": "Vibration Pokémon",
+  "ja": "しんどうポケモン",
+  "zh-hans": "振动宝可梦",
+  "es-419": "Pokémon Vibrante"
+ },
+ "flavor": {
+  "en": "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds.",
+  "ko": "고운 목소리로 울 때도 있다. 몸의 돌기가 클수록 넓은 음역으로 울 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "palpitoad",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "273"
+}

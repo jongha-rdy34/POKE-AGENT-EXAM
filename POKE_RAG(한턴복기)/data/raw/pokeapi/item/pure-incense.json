@@ -1,0 +1,30 @@
+{
+ "name": "pure-incense",
+ "names": {
+  "ja-hrkt": "きよめのおこう",
+  "ko": "순결의향로",
+  "zh-hant": "潔淨薰香",
+  "fr": "Encens Pur",
+  "de": "Scheuchrauch",
+  "es": "Incienso Puro",
+  "it": "Puroaroma",
+  "en": "Pure Incense",
+  "ja": "きよめのおこう",
+  "zh-hans": "洁净薰香",
+  "es-419": "Incienso Puro"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Empêche les rencontres sauvages de niveau inférieur à celui du Pokémon en tête de votre équipe. Reproduction: Éoko engendre un Œuf de Korillon.",
+  "en": "Prevents wild encounters of level lower than your party’s lead Pokémon. Breeding: Chimecho begets a Chingling Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.",
+  "ko": "맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다.",
+  "ja": "１番 前の ポケモンに 持たせると 野生ポケモンが でて きにくくなる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 393,
+ "name": "piplup",
+ "names": {
+  "ja-hrkt": "ポッチャマ",
+  "ja-roma": "Pochama",
+  "ko": "팽도리",
+  "zh-hant": "波加曼",
+  "fr": "Tiplouf",
+  "de": "Plinfa",
+  "es": "Piplup",
+  "it": "Piplup",
+  "en": "Piplup",
+  "ja": "ポッチャマ",
+  "zh-hans": "波加曼",
+  "es-419": "Piplup"
+ },
+ "genus": {
+  "ja-hrkt": "ペンギンポケモン",
+  "ko": "펭귄포켓몬",
+  "zh-hant": "企鵝寶可夢",
+  "fr": "Pokémon Pingouin",
+  "de": "Pinguin",
+  "es": "Pokémon Pingüino",
+  "it": "Pokémon Pinguino",
+  "en": "Penguin Pokémon",
+  "ja": "ペンギンポケモン",
+  "zh-hans": "企鹅宝可梦",
+  "es-419": "Pokémon Pingüino"
+ },
+ "flavor": {
+  "en": "Prefers cold climes and appears along coasts. It's an adorable little thing—as cute as any child—but it's also prideful, unwilling to accept handouts from people.",
+  "ko": "자존심이 강해서 사람에게 먹이를 얻는 것을 싫어한다. 긴 솜털이 추위를 막는다."
+ },
+ "varieties": [
+  {
+   "name": "piplup",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "205"
+}

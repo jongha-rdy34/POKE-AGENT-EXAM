@@ -1,0 +1,42 @@
+{
+ "id": 578,
+ "name": "duosion",
+ "names": {
+  "ja-hrkt": "ダブラン",
+  "ja-roma": "Doublan",
+  "ko": "듀란",
+  "zh-hant": "雙卵細胞球",
+  "fr": "Méios",
+  "de": "Mitodos",
+  "es": "Duosion",
+  "it": "Duosion",
+  "en": "Duosion",
+  "ja": "ダブラン",
+  "zh-hans": "双卵细胞球",
+  "es-419": "Duosion"
+ },
+ "genus": {
+  "ja-hrkt": "ぶんかつポケモン",
+  "ko": "분할포켓몬",
+  "zh-hant": "分割寶可夢",
+  "fr": "Pokémon Divisé",
+  "de": "Zellteilungs-Pokémon",
+  "es": "Pokémon Mitosis",
+  "it": "Pokémon Scissione",
+  "en": "Mitosis Pokémon",
+  "ja": "ぶんかつポケモン",
+  "zh-hans": "分割宝可梦",
+  "es-419": "Pokémon Mitosis"
+ },
+ "flavor": {
+  "en": "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable.",
+  "ko": "분열한 2개의 뇌는 생각이 거의 일치하지 않아 전혀 행동을 예측할 수 없다."
+ },
+ "varieties": [
+  {
+   "name": "duosion",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "294"
+}

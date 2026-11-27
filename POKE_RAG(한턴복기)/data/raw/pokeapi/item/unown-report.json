@@ -1,0 +1,28 @@
+{
+ "name": "unown-report",
+ "names": {
+  "ja-hrkt": "アンノーンノート",
+  "ko": "안농노트",
+  "zh-hant": "未知圖騰筆記",
+  "fr": "Carnet Zarbi",
+  "de": "Icognitoheft",
+  "es": "Bloc Unown",
+  "it": "UnownBloc",
+  "en": "Unown Report",
+  "ja": "アンノーンノート",
+  "zh-hans": "未知图腾笔记",
+  "es-419": "Bloc Unown"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Garde une trace des types de Zarbi capturés.",
+  "en": "Keeps track of Unown types caught."
+ },
+ "flavor": {
+  "en": "A report of all the discovered kinds of Unown.",
+  "ko": "발견한 안농의 모습이 기록되어 있는 노트.",
+  "ja": "みつけた アンノーンの ようすが 記録されている ノート。"
+ }
+}

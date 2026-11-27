@@ -1,0 +1,53 @@
+{
+ "id": 1007,
+ "name": "koraidon",
+ "names": {
+  "ja-hrkt": "コライドン",
+  "ja-roma": "Koraidon",
+  "ko": "코라이돈",
+  "zh-hant": "故勒頓",
+  "fr": "Koraidon",
+  "de": "Koraidon",
+  "es": "Koraidon",
+  "it": "Koraidon",
+  "en": "Koraidon",
+  "ja": "コライドン",
+  "zh-hans": "故勒顿",
+  "es-419": "Koraidon"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features."
+ },
+ "varieties": [
+  {
+   "name": "koraidon",
+   "is_default": true
+  },
+  {
+   "name": "koraidon-limited-build",
+   "is_default": false
+  },
+  {
+   "name": "koraidon-sprinting-build",
+   "is_default": false
+  },
+  {
+   "name": "koraidon-swimming-build",
+   "is_default": false
+  },
+  {
+   "name": "koraidon-gliding-build",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "535"
+}

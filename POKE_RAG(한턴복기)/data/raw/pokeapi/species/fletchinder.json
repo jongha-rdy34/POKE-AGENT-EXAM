@@ -1,0 +1,42 @@
+{
+ "id": 662,
+ "name": "fletchinder",
+ "names": {
+  "ja-hrkt": "ヒノヤコマ",
+  "ja-roma": "Hinoyakoma",
+  "ko": "불화살빈",
+  "zh-hant": "火箭雀",
+  "fr": "Braisillon",
+  "de": "Dartignis",
+  "es": "Fletchinder",
+  "it": "Fletchinder",
+  "en": "Fletchinder",
+  "ja": "ヒノヤコマ",
+  "zh-hans": "火箭雀",
+  "es-419": "Fletchinder"
+ },
+ "genus": {
+  "ja-hrkt": "ひのこポケモン",
+  "ko": "불티포켓몬",
+  "zh-hant": "火花寶可夢",
+  "fr": "Pokémon Braise",
+  "de": "Funkenregen-Pokémon",
+  "es": "Pokémon Lumbre",
+  "it": "Pokémon Sfavillante",
+  "en": "Ember Pokémon",
+  "ja": "ひのこポケモン",
+  "zh-hans": "火花宝可梦",
+  "es-419": "Pokémon Lumbre"
+ },
+ "flavor": {
+  "ko": "영역에 대한 개념이 매우 강하고 호전적이다. 먹이 먹는 장소를 두고 불화살빈끼리 싸운다.",
+  "en": "Fletchinder are exceedingly territorial and aggressive. These Pokémon fight among themselves over feeding grounds."
+ },
+ "varieties": [
+  {
+   "name": "fletchinder",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "341"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr37",
+ "names": {
+  "ja-hrkt": "わざレコード３７",
+  "ko": "기술레코드37",
+  "zh-hant": "招式紀錄３７",
+  "fr": "DT37",
+  "de": "TP37",
+  "es": "DT37",
+  "it": "DT37",
+  "en": "TR37",
+  "ja": "わざレコード３７",
+  "zh-hans": "招式记录３７",
+  "es-419": "DT37"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대를 화나게 한다. 3턴 동안 상대는 데미지를 주는 기술밖에 쓸 수 없게 된다.",
+  "en": "The target is taunted into a rage that allows it to use only attack moves for three turns.",
+  "ja": "相手を 怒らせる。 ３ターンの 間 相手は ダメージを 与える 技しか だせなくなる。"
+ }
+}

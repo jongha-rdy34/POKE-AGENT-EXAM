@@ -1,0 +1,30 @@
+{
+ "id": 670,
+ "name": "floette",
+ "species": "floette",
+ "is_default": true,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 54,
+  "attack": 45,
+  "defense": 47,
+  "special-attack": 75,
+  "special-defense": 98,
+  "speed": 52
+ },
+ "abilities": [
+  {
+   "name": "flower-veil",
+   "hidden": false
+  },
+  {
+   "name": "symbiosis",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 9,
+ "champions_moves": []
+}

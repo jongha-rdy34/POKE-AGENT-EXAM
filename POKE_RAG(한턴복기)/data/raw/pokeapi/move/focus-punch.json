@@ -1,0 +1,31 @@
+{
+ "name": "focus-punch",
+ "names": {
+  "ja-hrkt": "きあいパンチ",
+  "ko": "힘껏펀치",
+  "zh-hant": "真氣拳",
+  "fr": "Mitra-Poing",
+  "de": "Power-Punch",
+  "es": "Puño Certero",
+  "it": "Centripugno",
+  "en": "Focus Punch",
+  "ja": "きあいパンチ",
+  "zh-hans": "真气拳",
+  "es-419": "Puño Centrado"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 150,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": -3,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If the user takes damage before attacking, the attack is canceled."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before using the move.",
+  "ko": "정신력을 높여 펀치를 날린다. 기술을 쓰기 전에 공격을 받으면 실패한다."
+ }
+}

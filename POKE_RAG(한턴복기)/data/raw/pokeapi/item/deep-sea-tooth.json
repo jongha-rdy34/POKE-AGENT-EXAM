@@ -1,0 +1,30 @@
+{
+ "name": "deep-sea-tooth",
+ "names": {
+  "ja-hrkt": "しんかいのキバ",
+  "ko": "심해의이빨",
+  "zh-hant": "深海之牙",
+  "fr": "Dent Océan",
+  "de": "Abysszahn",
+  "es": "Diente Marino",
+  "it": "Dente Abissi",
+  "en": "Deep Sea Tooth",
+  "ja": "しんかいのキバ",
+  "zh-hans": "深海之牙",
+  "es-419": "Diente Marino"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Double l'Attaque Spéciale de Coquiperl. Échange sur un Coquiperl: Le porteur évolue en Serpang.",
+  "en": "Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail."
+ },
+ "flavor": {
+  "en": "An item to be held by Clamperl. This fang gleams a sharp silver and raises the holder’s Sp. Atk stat.",
+  "ko": "진주몽에게 지니게 하면 특수공격이 올라가는 이빨. 날카로운 은색으로 빛난다.",
+  "ja": "パールルに 持たせると 特攻が あがる キバ。 鋭く 銀色に 光る。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr16",
+ "names": {
+  "ja-hrkt": "わざレコード１６",
+  "ko": "기술레코드16",
+  "zh-hant": "招式紀錄１６",
+  "fr": "DT16",
+  "de": "TP16",
+  "es": "DT16",
+  "it": "DT16",
+  "en": "TR16",
+  "ja": "わざレコード１６",
+  "zh-hans": "招式记录１６",
+  "es-419": "DT16"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "굉장한 기세로 상대에게 돌진한다. 상대를 풀죽게 만들 때가 있다.",
+  "en": "The user charges at the target and may make it flinch.",
+  "ja": "すごい 勢いで 相手に つっこむ。 相手を ひるませることが ある。"
+ }
+}

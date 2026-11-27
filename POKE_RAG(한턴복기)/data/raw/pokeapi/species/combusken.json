@@ -1,0 +1,42 @@
+{
+ "id": 256,
+ "name": "combusken",
+ "names": {
+  "ja-hrkt": "ワカシャモ",
+  "ja-roma": "Wakasyamo",
+  "ko": "영치코",
+  "zh-hant": "力壯雞",
+  "fr": "Galifeu",
+  "de": "Jungglut",
+  "es": "Combusken",
+  "it": "Combusken",
+  "en": "Combusken",
+  "ja": "ワカシャモ",
+  "zh-hans": "力壮鸡",
+  "es-419": "Combusken"
+ },
+ "genus": {
+  "ja-hrkt": "わかどりポケモン",
+  "ko": "꼬마닭포켓몬",
+  "zh-hant": "幼雞寶可夢",
+  "fr": "Pokémon Poulet",
+  "de": "Kleinhahn-Pokémon",
+  "es": "Pokémon Ave Corral",
+  "it": "Pokémon Rampollo",
+  "en": "Young Fowl Pokémon",
+  "ja": "わかどりポケモン",
+  "zh-hans": "幼鸡宝可梦",
+  "es-419": "Pokémon Ave Corral"
+ },
+ "flavor": {
+  "en": "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
+  "ko": "부리에서 토해 내는 작열하는 불꽃과 뛰어난 파괴력의 킥으로 싸운다. 울음소리가 커서 무척 시끄럽다."
+ },
+ "varieties": [
+  {
+   "name": "combusken",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "131"
+}

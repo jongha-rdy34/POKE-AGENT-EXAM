@@ -1,0 +1,42 @@
+{
+ "id": 392,
+ "name": "infernape",
+ "names": {
+  "ja-hrkt": "ゴウカザル",
+  "ja-roma": "Goukazaru",
+  "ko": "초염몽",
+  "zh-hant": "烈焰猴",
+  "fr": "Simiabraz",
+  "de": "Panferno",
+  "es": "Infernape",
+  "it": "Infernape",
+  "en": "Infernape",
+  "ja": "ゴウカザル",
+  "zh-hans": "烈焰猴",
+  "es-419": "Infernape"
+ },
+ "genus": {
+  "ja-hrkt": "かえんポケモン",
+  "ko": "화염포켓몬",
+  "zh-hant": "火焰寶可夢",
+  "fr": "Pokémon Flamme",
+  "de": "Flamme",
+  "es": "Pokémon Llama",
+  "it": "Pokémon Fiamma",
+  "en": "Flame Pokémon",
+  "ja": "かえんポケモン",
+  "zh-hans": "火焰宝可梦",
+  "es-419": "Pokémon Llama"
+ },
+ "flavor": {
+  "en": "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold.",
+  "ko": "스피드로 상대를 농락한다. 양팔 양다리를 활용한 독특한 방식으로 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "infernape",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "204"
+}

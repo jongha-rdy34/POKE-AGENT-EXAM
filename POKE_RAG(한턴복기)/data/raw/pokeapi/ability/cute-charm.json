@@ -1,0 +1,23 @@
+{
+ "name": "cute-charm",
+ "names": {
+  "ja-hrkt": "メロメロボディ",
+  "ko": "헤롱헤롱바디",
+  "zh-hant": "迷人之軀",
+  "fr": "Joli Sourire",
+  "de": "Charmebolzen",
+  "es": "Gran Encanto",
+  "it": "Incantevole",
+  "en": "Cute Charm",
+  "ja": "メロメロボディ",
+  "zh-hans": "迷人之躯",
+  "es-419": "Gran Encanto"
+ },
+ "effect": {
+  "en": "Has a 30% chance of infatuating attacking Pokémon on contact."
+ },
+ "flavor": {
+  "en": "The Pokémon may infatuate attackers that make direct contact with it.",
+  "ko": "자신과 접촉한 상대를 헤롱헤롱 상태로 만들 때가 있다."
+ }
+}

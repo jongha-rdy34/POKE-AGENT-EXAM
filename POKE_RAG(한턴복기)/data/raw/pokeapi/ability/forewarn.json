@@ -1,0 +1,23 @@
+{
+ "name": "forewarn",
+ "names": {
+  "ja-hrkt": "よちむ",
+  "ko": "예지몽",
+  "zh-hant": "預知夢",
+  "fr": "Prédiction",
+  "de": "Vorwarnung",
+  "es": "Alerta",
+  "it": "Premonizione",
+  "en": "Forewarn",
+  "ja": "よちむ",
+  "zh-hans": "预知梦",
+  "es-419": "Alerta"
+ },
+ "effect": {
+  "en": "Reveals the opponents' strongest move upon entering battle."
+ },
+ "flavor": {
+  "en": "When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",
+  "ko": "등장했을 때 상대가 지닌 기술을 하나만 꿰뚫어본다."
+ }
+}

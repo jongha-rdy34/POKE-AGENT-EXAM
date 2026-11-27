@@ -1,0 +1,20 @@
+{
+ "name": "skrelp-kelp",
+ "names": {
+  "ja-hrkt": "クズモーのもくず",
+  "ko": "수레기의해초",
+  "zh-hant": "垃垃藻的碎藻",
+  "fr": "Algue de Venalgue",
+  "de": "Algitt-Alge",
+  "es": "Alga de Skrelp",
+  "it": "Alga di Skrelp",
+  "en": "Skrelp Kelp",
+  "ja": "クズモーのもくず",
+  "zh-hans": "垃垃藻的碎藻"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

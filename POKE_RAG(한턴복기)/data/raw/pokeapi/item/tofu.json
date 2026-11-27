@@ -1,0 +1,20 @@
+{
+ "name": "tofu",
+ "names": {
+  "ja-hrkt": "トーフ",
+  "ko": "두부",
+  "zh-hant": "豆腐",
+  "fr": "Tofu",
+  "de": "Tofu",
+  "es": "Tofu",
+  "it": "Tofu",
+  "en": "Tofu",
+  "ja": "トーフ",
+  "zh-hans": "豆腐"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 116,
+ "name": "horsea",
+ "names": {
+  "ja-hrkt": "タッツー",
+  "ja-roma": "Tattu",
+  "ko": "쏘드라",
+  "zh-hant": "墨海馬",
+  "fr": "Hypotrempe",
+  "de": "Seeper",
+  "es": "Horsea",
+  "it": "Horsea",
+  "en": "Horsea",
+  "ja": "タッツー",
+  "zh-hans": "墨海马",
+  "es-419": "Horsea"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool.",
+  "ko": "물속에서 춤추듯이 헤엄쳐 소용돌이를 만든다. 동료와 소용돌이의 크기를 겨루며 논다."
+ },
+ "varieties": [
+  {
+   "name": "horsea",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "54"
+}

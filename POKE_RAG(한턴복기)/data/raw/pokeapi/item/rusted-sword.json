@@ -1,0 +1,25 @@
+{
+ "name": "rusted-sword",
+ "names": {
+  "ja-hrkt": "くちたけん",
+  "ko": "녹슨검",
+  "zh-hant": "腐朽的劍",
+  "fr": "Épée Rouillée",
+  "de": "Rostiges Schwert",
+  "es": "Espada Oxidada",
+  "it": "Spada rovinata",
+  "en": "Rusted Sword",
+  "ja": "くちたけん",
+  "zh-hans": "腐朽的剑",
+  "es-419": "Espada Oxidada"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "먼 옛날의 영웅이 재앙을 막는 데 사용했다고 전해지는 검이지만 지금은 녹이 슬고 닳아버렸다.",
+  "en": "It is said that a hero used this sword to halt a terrible disaster in ancient times. But it’s grown rusty and worn.",
+  "ja": "大昔の 英雄が 災厄を 討ち払ったと 伝えられる 剣 だが いまは さびて ボロボロに なっている。"
+ }
+}

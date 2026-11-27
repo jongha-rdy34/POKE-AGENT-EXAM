@@ -1,0 +1,18 @@
+{
+ "name": "adamant",
+ "names": {
+  "ja-hrkt": "いじっぱり",
+  "ko": "고집",
+  "zh-hant": "固執",
+  "fr": "Rigide",
+  "de": "Hart",
+  "es": "Firme",
+  "it": "Decisa",
+  "en": "Adamant",
+  "ja": "いじっぱり",
+  "zh-hans": "固执",
+  "es-419": "Firme"
+ },
+ "plus": "attack",
+ "minus": "special-attack"
+}

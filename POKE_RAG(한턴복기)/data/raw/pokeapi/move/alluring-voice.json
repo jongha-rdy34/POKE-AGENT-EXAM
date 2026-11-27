@@ -1,0 +1,28 @@
+{
+ "name": "alluring-voice",
+ "names": {
+  "ja-hrkt": "みわくのボイス",
+  "ko": "매혹의보이스",
+  "zh-hant": "魅誘之聲",
+  "fr": "Voix Envoûtante",
+  "de": "Lockstimme",
+  "es": "Canto Encantador",
+  "it": "Ammaliavoce",
+  "en": "Alluring Voice",
+  "ja": "みわくのボイス",
+  "zh-hans": "魅诱之声",
+  "es-419": "Canto Encantador"
+ },
+ "type": "fairy",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 137,
+ "name": "porygon",
+ "names": {
+  "ja-hrkt": "ポリゴン",
+  "ja-roma": "Porygon",
+  "ko": "폴리곤",
+  "zh-hant": "多邊獸",
+  "fr": "Porygon",
+  "de": "Porygon",
+  "es": "Porygon",
+  "it": "Porygon",
+  "en": "Porygon",
+  "ja": "ポリゴン",
+  "zh-hans": "多边兽",
+  "es-419": "Porygon"
+ },
+ "genus": {
+  "ja-hrkt": "バーチャルポケモン",
+  "ko": "가상포켓몬",
+  "zh-hant": "虛擬寶可夢",
+  "fr": "Pokémon Virtuel",
+  "de": "Virtuell-Pokémon",
+  "es": "Pokémon Virtual",
+  "it": "Pokémon Virtuale",
+  "en": "Virtual Pokémon",
+  "ja": "バーチャルポケモン",
+  "zh-hans": "虚拟宝可梦",
+  "es-419": "Pokémon Virtual"
+ },
+ "flavor": {
+  "en": "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly.",
+  "ko": "근래에는 컴퓨터 공간에서 대활약한다. 수상한 데이터가 없는지 체크하며 돌아다닌다."
+ },
+ "varieties": [
+  {
+   "name": "porygon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "68"
+}

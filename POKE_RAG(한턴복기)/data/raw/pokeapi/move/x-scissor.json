@@ -1,0 +1,31 @@
+{
+ "name": "x-scissor",
+ "names": {
+  "ja-hrkt": "シザークロス",
+  "ko": "시저크로스",
+  "zh-hant": "十字剪",
+  "fr": "Plaie Croix",
+  "de": "Kreuzschere",
+  "es": "Tijera X",
+  "it": "Forbice X",
+  "en": "X-Scissor",
+  "ja": "シザークロス",
+  "zh-hans": "十字剪",
+  "es-419": "Tijera X"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slashes at the target by crossing its scythes, claws, or the like as if they were a pair of scissors.",
+  "ko": "낫이나 발톱을 가위처럼 교차시키면서 상대를 베어 가른다."
+ }
+}

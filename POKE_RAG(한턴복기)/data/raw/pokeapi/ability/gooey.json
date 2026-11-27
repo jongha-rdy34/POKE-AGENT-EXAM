@@ -1,0 +1,23 @@
+{
+ "name": "gooey",
+ "names": {
+  "ja-hrkt": "ぬめぬめ",
+  "ko": "미끈미끈",
+  "zh-hant": "黏滑",
+  "fr": "Poisseux",
+  "de": "Viskosität",
+  "es": "Baba",
+  "it": "Viscosità",
+  "en": "Gooey",
+  "ja": "ぬめぬめ",
+  "zh-hans": "黏滑",
+  "es-419": "Baba"
+ },
+ "effect": {
+  "en": "Lowers attacking Pokémon's Speed by one stage on contact."
+ },
+ "flavor": {
+  "ko": "공격으로 자신과 접촉한 상대의 스피드를 떨어뜨린다.",
+  "en": "Contact with the Pokémon lowers the attacker's Speed stat."
+ }
+}

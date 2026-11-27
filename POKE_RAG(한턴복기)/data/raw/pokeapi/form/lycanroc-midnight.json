@@ -1,0 +1,23 @@
+{
+ "name": "lycanroc-midnight",
+ "form_name": "midnight",
+ "names": {
+  "fr": "Lougaroc Forme Nocturne",
+  "de": "Wolwerock (Nacht)",
+  "en": "Midnight Lycanroc"
+ },
+ "form_names": {
+  "ja-hrkt": "まよなかのすがた",
+  "ko": "한밤중의 모습",
+  "zh-hant": "黑夜的樣子",
+  "fr": "Forme Nocturne",
+  "de": "Nachtform",
+  "es": "Forma Nocturna",
+  "it": "Forma Notte",
+  "en": "Midnight Form",
+  "ja": "まよなかのすがた",
+  "zh-hans": "黑夜的样子",
+  "es-419": "Forma Nocturna"
+ },
+ "is_mega": false
+}

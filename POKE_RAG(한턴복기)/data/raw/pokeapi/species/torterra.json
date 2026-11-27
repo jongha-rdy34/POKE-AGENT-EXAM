@@ -1,0 +1,42 @@
+{
+ "id": 389,
+ "name": "torterra",
+ "names": {
+  "ja-hrkt": "ドダイトス",
+  "ja-roma": "Dodaitose",
+  "ko": "토대부기",
+  "zh-hant": "土台龜",
+  "fr": "Torterra",
+  "de": "Chelterrar",
+  "es": "Torterra",
+  "it": "Torterra",
+  "en": "Torterra",
+  "ja": "ドダイトス",
+  "zh-hans": "土台龟",
+  "es-419": "Torterra"
+ },
+ "genus": {
+  "ja-hrkt": "たいりくポケモン",
+  "ko": "대륙포켓몬",
+  "zh-hant": "大陸寶可夢",
+  "fr": "Pokémon Continent",
+  "de": "Kontinent",
+  "es": "Pokémon Continente",
+  "it": "Pokémon Continente",
+  "en": "Continent Pokémon",
+  "ja": "たいりくポケモン",
+  "zh-hans": "大陆宝可梦",
+  "es-419": "Pokémon Continente"
+ },
+ "flavor": {
+  "en": "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water.",
+  "ko": "작은 포켓몬들이 모여 움직이지 않는 토대부기의 등에서 둥지를 만들려고 하는 경우가 있다."
+ },
+ "varieties": [
+  {
+   "name": "torterra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "203"
+}

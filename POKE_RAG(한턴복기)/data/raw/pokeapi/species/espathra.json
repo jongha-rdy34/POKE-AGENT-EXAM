@@ -1,0 +1,37 @@
+{
+ "id": 956,
+ "name": "espathra",
+ "names": {
+  "ja-hrkt": "クエスパトラ",
+  "ja-roma": "Cuespatra",
+  "ko": "클레스퍼트라",
+  "zh-hant": "超能艷鴕",
+  "fr": "Cléopsytra",
+  "de": "Psiopatra",
+  "es": "Espathra",
+  "it": "Espathra",
+  "en": "Espathra",
+  "ja": "クエスパトラ",
+  "zh-hans": "超能艳鸵",
+  "es-419": "Espathra"
+ },
+ "genus": {
+  "ja-hrkt": "ダチョウポケモン",
+  "ko": "타조포켓몬",
+  "zh-hant": "鴕鳥寶可夢",
+  "fr": "Autruche",
+  "de": "Strauß",
+  "en": "Ostrich Pokémon",
+  "zh-hans": "鸵鸟宝可梦"
+ },
+ "flavor": {
+  "en": "It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph."
+ },
+ "varieties": [
+  {
+   "name": "espathra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "500"
+}

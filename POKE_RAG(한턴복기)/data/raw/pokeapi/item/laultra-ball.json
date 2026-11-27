@@ -1,0 +1,20 @@
+{
+ "name": "laultra-ball",
+ "names": {
+  "ko": "하이퍼볼",
+  "zh-hant": "高級球",
+  "fr": "Hyper Ball",
+  "de": "Hyperball",
+  "es": "Ultra Ball",
+  "it": "Ultra Ball",
+  "en": "Ultra Ball",
+  "ja": "ハイパーボール",
+  "zh-hans": "高级球",
+  "es-419": "Ultrabola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

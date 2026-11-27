@@ -1,0 +1,31 @@
+{
+ "name": "guard-swap",
+ "names": {
+  "ja-hrkt": "ガードスワップ",
+  "ko": "가드스왑",
+  "zh-hant": "防守互換",
+  "fr": "Permugarde",
+  "de": "Schutztausch",
+  "es": "Cambiadefensa",
+  "it": "Barattoscudo",
+  "en": "Guard Swap",
+  "ja": "ガードスワップ",
+  "zh-hans": "防守互换",
+  "es-419": "Cambiadefensa"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User swaps Defense and Special Defense changes with the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.",
+  "ko": "초능력으로 자신과 상대의 방어와 특수방어의 능력 변화를 교체한다."
+ }
+}

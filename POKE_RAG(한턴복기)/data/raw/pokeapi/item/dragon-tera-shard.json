@@ -1,0 +1,20 @@
+{
+ "name": "dragon-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースドラゴン",
+  "ko": "테라피스 드래곤",
+  "zh-hant": "龍太晶碎塊",
+  "fr": "Téra-Éclat Dragon",
+  "de": "Tera-Stück (Drache)",
+  "es": "Teralito Dragón",
+  "it": "Teralite Drago",
+  "en": "Dragon Tera Shard",
+  "ja": "テラピースドラゴン",
+  "zh-hans": "龙太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

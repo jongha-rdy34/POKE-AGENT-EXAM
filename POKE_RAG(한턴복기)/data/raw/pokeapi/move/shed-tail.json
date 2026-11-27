@@ -1,0 +1,28 @@
+{
+ "name": "shed-tail",
+ "names": {
+  "ja-hrkt": "しっぽきり",
+  "ko": "꼬리자르기",
+  "zh-hant": "斷尾",
+  "fr": "Queulonage",
+  "de": "Schwanzabwurf",
+  "es": "Autotomía",
+  "it": "Tagliacoda",
+  "en": "Shed Tail",
+  "ja": "しっぽきり",
+  "zh-hans": "断尾",
+  "es-419": "Autotomía"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting."
+ }
+}

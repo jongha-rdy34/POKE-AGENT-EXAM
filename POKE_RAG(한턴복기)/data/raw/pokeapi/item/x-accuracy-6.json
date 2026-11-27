@@ -1,0 +1,28 @@
+{
+ "name": "x-accuracy-6",
+ "names": {
+  "ja-hrkt": "ヨクアタール６",
+  "ko": "잘-맞히기6",
+  "zh-hant": "命中強化６",
+  "fr": "Précision 6",
+  "de": "X-Genauigkeit 6",
+  "es": "Precisión X 6",
+  "it": "Precisione X-6",
+  "en": "X Accuracy 6",
+  "ja": "ヨクアタール６",
+  "zh-hans": "命中强化６",
+  "es-419": "Precisión X 6"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la précision de six niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises accuracy by six stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 명중률을 엄청나게 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 命中を ものすごく あげる。 ひっこめると 元に 戻る。"
+ }
+}

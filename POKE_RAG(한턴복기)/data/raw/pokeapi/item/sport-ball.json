@@ -1,0 +1,28 @@
+{
+ "name": "sport-ball",
+ "names": {
+  "ja-hrkt": "コンペボール",
+  "ko": "컴퍼티션볼",
+  "zh-hant": "競賽球",
+  "fr": "Compét’Ball",
+  "de": "Turnierball",
+  "es": "Competi Ball",
+  "it": "Gara Ball",
+  "en": "Sport Ball",
+  "ja": "コンペボール",
+  "zh-hans": "竞赛球",
+  "es-419": "Competibola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon du Concours de Capture d'insecte du Parc Naturel. (Gén II: Parc Ball)",
+  "en": "Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)"
+ },
+ "flavor": {
+  "en": "A special Poké Ball that was used during the Bug-Catching Contest in the Johto region.",
+  "ko": "성도지방의 곤충채집 대회에서 사용되었던 특별한 볼.",
+  "ja": "ジョウト地方の 虫捕り大会で 使われていた 特別な ボール。"
+ }
+}

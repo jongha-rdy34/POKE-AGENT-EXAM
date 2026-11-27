@@ -1,0 +1,37 @@
+{
+ "id": 933,
+ "name": "naclstack",
+ "names": {
+  "ja-hrkt": "ジオヅム",
+  "ja-roma": "Jiodumu",
+  "ko": "스태솔트",
+  "zh-hant": "鹽石壘",
+  "fr": "Amassel",
+  "de": "Sedisal",
+  "es": "Naclstack",
+  "it": "Naclstack",
+  "en": "Naclstack",
+  "ja": "ジオヅム",
+  "zh-hans": "盐石垒",
+  "es-419": "Naclstack"
+ },
+ "genus": {
+  "ja-hrkt": "がんえんポケモン",
+  "ko": "암염포켓몬",
+  "zh-hant": "岩鹽寶可夢",
+  "fr": "Halite",
+  "de": "Steinsalz",
+  "en": "Rock Salt Pokémon",
+  "zh-hans": "岩盐宝可梦"
+ },
+ "flavor": {
+  "en": "It compresses rock salt inside its body and shoots out hardened salt pellets with enough force to perforate an iron sheet."
+ },
+ "varieties": [
+  {
+   "name": "naclstack",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "489"
+}

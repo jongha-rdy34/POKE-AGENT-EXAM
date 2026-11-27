@@ -1,0 +1,28 @@
+{
+ "name": "rage-candy-bar",
+ "names": {
+  "ja-hrkt": "いかりまんじゅう",
+  "ko": "분노의호두과자",
+  "zh-hant": "憤怒饅頭",
+  "fr": "Bonbon Rage",
+  "de": "Wutkeks",
+  "es": "Caramelo Furia",
+  "it": "Iramella",
+  "en": "Rage Candy Bar",
+  "ja": "いかりまんじゅう",
+  "zh-hans": "愤怒馒头",
+  "es-419": "Caramelo Furia"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "HS: échangé pour la CT64. Gén II & Gén V: Agit comme une Potion.",
+  "en": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion."
+ },
+ "flavor": {
+  "en": "Mahogany Town’s famous candy. It can be used once to heal all the status conditions of a Pokémon.",
+  "ko": "황토마을의 명물인 호두과자. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "ja": "チョウジタウン名物の まんじゅう。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

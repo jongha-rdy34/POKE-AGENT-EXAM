@@ -1,0 +1,25 @@
+{
+ "name": "fresh-cream",
+ "names": {
+  "ja-hrkt": "しんせんクリーム",
+  "ko": "신선한크림",
+  "zh-hant": "鮮鮮奶油",
+  "fr": "Crème Fraîche",
+  "de": "Frische Sahne",
+  "es": "Nata Fresca",
+  "it": "Panna da cucina",
+  "en": "Fresh Cream",
+  "ja": "しんせんクリーム",
+  "zh-hans": "鲜鲜奶油",
+  "es-419": "Nata Fresca"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 매운 카레에 휘핑크림을 넣으면 달콤해진다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. Add some whipped cream to a spicy curry to give it some sweetness.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。辛い カレーに ホイップを 足すことで 甘くする。"
+ }
+}

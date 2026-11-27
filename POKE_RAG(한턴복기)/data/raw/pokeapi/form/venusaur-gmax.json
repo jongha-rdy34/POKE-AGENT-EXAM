@@ -1,0 +1,17 @@
+{
+ "name": "venusaur-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Florizarre Gigamax",
+  "de": "Gigadynamax-Bisaflor",
+  "en": "Gigantamax Venusaur"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

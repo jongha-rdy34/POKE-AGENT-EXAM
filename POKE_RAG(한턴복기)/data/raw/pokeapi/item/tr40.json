@@ -1,0 +1,25 @@
+{
+ "name": "tr40",
+ "names": {
+  "ja-hrkt": "わざレコード４０",
+  "ko": "기술레코드40",
+  "zh-hant": "招式紀錄４０",
+  "fr": "DT40",
+  "de": "TP40",
+  "es": "DT40",
+  "it": "DT40",
+  "en": "TR40",
+  "ja": "わざレコード４０",
+  "zh-hans": "招式记录４０",
+  "es-419": "DT40"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "초능력으로 자신의 특성과 상대의 특성을 바꾼다.",
+  "en": "The user employs its psychic power to exchange Abilities with the target.",
+  "ja": "超能力で 自分の 特性と 相手の 特性を 入れ替える。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "decorate",
+ "names": {
+  "ja-hrkt": "デコレーション",
+  "ko": "데코레이션",
+  "zh-hant": "裝飾",
+  "fr": "Nappage",
+  "de": "Verzierung",
+  "es": "Decoración",
+  "it": "Decorazione",
+  "en": "Decorate",
+  "ja": "デコレーション",
+  "zh-hans": "装饰",
+  "es-419": "Decoración"
+ },
+ "type": "fairy",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Raise the targets Attack and Special Attack by 2 stages."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "데코레이션을 해서 상대의 공격과 특수공격을 크게 올린다.",
+  "en": "The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target."
+ }
+}

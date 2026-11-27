@@ -1,0 +1,31 @@
+{
+ "name": "teeter-dance",
+ "names": {
+  "ja-hrkt": "フラフラダンス",
+  "ko": "흔들흔들댄스",
+  "zh-hant": "搖晃舞",
+  "fr": "Danse Folle",
+  "de": "Taumeltanz",
+  "es": "Danza Caos",
+  "it": "Strampadanza",
+  "en": "Teeter Dance",
+  "ja": "フラフラダンス",
+  "zh-hans": "摇晃舞",
+  "es-419": "Danza del Caos"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Confuses the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user performs a wobbly dance that confuses every Pokémon around it.",
+  "ko": "흔들흔들 댄스를 춰서 주위에 있는 포켓몬을 혼란 상태로 만든다."
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm201",
+ "names": {
+  "ko": "기술머신201",
+  "zh-hant": "招式學習器２０１",
+  "fr": "CT201",
+  "de": "TM201",
+  "es": "MT201",
+  "it": "MT201",
+  "en": "TM201",
+  "ja": "わざマシン２０１",
+  "zh-hans": "招式学习器２０１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

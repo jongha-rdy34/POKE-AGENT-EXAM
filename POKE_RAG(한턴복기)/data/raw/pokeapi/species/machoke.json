@@ -1,0 +1,42 @@
+{
+ "id": 67,
+ "name": "machoke",
+ "names": {
+  "ja-hrkt": "ゴーリキー",
+  "ja-roma": "Goriky",
+  "ko": "근육몬",
+  "zh-hant": "豪力",
+  "fr": "Machopeur",
+  "de": "Maschock",
+  "es": "Machoke",
+  "it": "Machoke",
+  "en": "Machoke",
+  "ja": "ゴーリキー",
+  "zh-hans": "豪力",
+  "es-419": "Machoke"
+ },
+ "genus": {
+  "ja-hrkt": "かいりきポケモン",
+  "ko": "괴력포켓몬",
+  "zh-hant": "怪力寶可夢",
+  "fr": "Pokémon Colosse",
+  "de": "Kraftprotz-Pokémon",
+  "es": "Pokémon Superpoder",
+  "it": "Pokémon Megaforza",
+  "en": "Superpower Pokémon",
+  "ja": "かいりきポケモン",
+  "zh-hans": "怪力宝可梦",
+  "es-419": "Pokémon Superpoder"
+ },
+ "flavor": {
+  "en": "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land.",
+  "ko": "지치지 않는 강인한 육체를 가졌다. 무거운 물건을 옮기는 등의 일을 돕는다."
+ },
+ "varieties": [
+  {
+   "name": "machoke",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "28"
+}

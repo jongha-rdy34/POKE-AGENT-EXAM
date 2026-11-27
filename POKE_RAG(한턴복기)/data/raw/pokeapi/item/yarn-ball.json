@@ -1,0 +1,20 @@
+{
+ "name": "yarn-ball",
+ "names": {
+  "ja-hrkt": "けいとボール",
+  "ko": "털실볼",
+  "zh-hant": "毛線球",
+  "fr": "Pelote de Laine",
+  "de": "Woll-Ball",
+  "es": "Pelota Ovillo",
+  "it": "Palla gomitolo",
+  "en": "Yarn Ball",
+  "ja": "けいとボール",
+  "zh-hans": "毛线球"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

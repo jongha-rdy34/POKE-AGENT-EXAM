@@ -1,0 +1,46 @@
+{
+ "id": 876,
+ "name": "indeedee",
+ "names": {
+  "ja-hrkt": "イエッサン",
+  "ja-roma": "Yessan",
+  "ko": "에써르",
+  "zh-hant": "愛管侍",
+  "fr": "Wimessir",
+  "de": "Servol",
+  "es": "Indeedee",
+  "it": "Indeedee",
+  "en": "Indeedee",
+  "ja": "イエッサン",
+  "zh-hans": "爱管侍",
+  "es-419": "Indeedee"
+ },
+ "genus": {
+  "ja-hrkt": "かんじょうポケモン",
+  "ko": "감정포켓몬",
+  "zh-hant": "感情寶可夢",
+  "fr": "Pokémon Émotion",
+  "de": "Emotions-Pokémon",
+  "es": "Pokémon Sensorio",
+  "it": "Pokémon Emozione",
+  "en": "Emotion Pokémon",
+  "ja": "かんじょうポケモン",
+  "zh-hans": "感情宝可梦",
+  "es-419": "Pokémon Sensorio"
+ },
+ "flavor": {
+  "ko": "뿔로 가까이 있는 생명체의 기분을 읽는다. 긍정적인 감정이 힘의 원천이다.",
+  "en": "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength."
+ },
+ "varieties": [
+  {
+   "name": "indeedee-male",
+   "is_default": true
+  },
+  {
+   "name": "indeedee-female",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "458"
+}

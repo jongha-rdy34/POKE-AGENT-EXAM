@@ -1,0 +1,46 @@
+{
+ "id": 483,
+ "name": "dialga",
+ "names": {
+  "ja-hrkt": "ディアルガ",
+  "ja-roma": "Dialga",
+  "ko": "디아루가",
+  "zh-hant": "帝牙盧卡",
+  "fr": "Dialga",
+  "de": "Dialga",
+  "es": "Dialga",
+  "it": "Dialga",
+  "en": "Dialga",
+  "ja": "ディアルガ",
+  "zh-hans": "帝牙卢卡",
+  "es-419": "Dialga"
+ },
+ "genus": {
+  "ja-hrkt": "じかんポケモン",
+  "ko": "시간포켓몬",
+  "zh-hant": "時間寶可夢",
+  "fr": "Pokémon Temps",
+  "de": "Zeitweilig-Pokémon",
+  "es": "Pokémon Temporal",
+  "it": "Pokémon Tempo",
+  "en": "Temporal Pokémon",
+  "ja": "じかんポケモン",
+  "zh-hans": "时间宝可梦",
+  "es-419": "Pokémon Temporal"
+ },
+ "flavor": {
+  "en": "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world.",
+  "ko": "시간을 조종하는 힘을 가지고 있다. 신오지방에서는 신이라고 불리며 신화에 등장한다."
+ },
+ "varieties": [
+  {
+   "name": "dialga",
+   "is_default": true
+  },
+  {
+   "name": "dialga-origin",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "244"
+}

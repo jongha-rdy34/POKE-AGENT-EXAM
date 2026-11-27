@@ -1,0 +1,28 @@
+{
+ "name": "meteorite--3",
+ "names": {
+  "ja-hrkt": "いんせき",
+  "ko": "운석",
+  "zh-hant": "隕石",
+  "fr": "Météorite",
+  "de": "Meteorit",
+  "es": "Meteorito",
+  "it": "Meteorite",
+  "en": "Meteorite",
+  "ja": "いんせき",
+  "zh-hans": "陨石",
+  "es-419": "Meteorito"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour meteorite--3",
+  "en": "XXX new effect for meteorite--3"
+ },
+ "flavor": {
+  "ko": "굴뚝산에서 손에 넣은 운석. 은은한 빛을 계속해서 발하고 있다. 만지면 은근히 따뜻하다.",
+  "en": "A Meteorite that you got at Mt. Chimney. It continues to give off a faint glow and is slightly warm to the touch.",
+  "ja": "えんとつ山で 手に入れた いんせき。 ほのかな 光を 放ち続けている。 触れると じんわり 暖かい。"
+ }
+}

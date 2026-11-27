@@ -1,0 +1,28 @@
+{
+ "name": "relic-vase",
+ "names": {
+  "ja-hrkt": "こだいのツボ",
+  "ko": "고대의항아리",
+  "zh-hant": "古代之壺",
+  "fr": "Vieux Vase",
+  "de": "Alte Vase",
+  "es": "Ánfora",
+  "it": "Vasantico",
+  "en": "Relic Vase",
+  "ja": "こだいのツボ",
+  "zh-hans": "古代之壶",
+  "es-419": "Ánfora"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 50000 Pokédollars.",
+  "en": "Sell to Villa Owner 50000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A fragile vase made by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 만들어진 항아리.",
+  "ja": "３０００年ほど 昔の 文明で つくられた ツボ。"
+ }
+}

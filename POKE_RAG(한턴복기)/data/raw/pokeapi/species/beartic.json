@@ -1,0 +1,42 @@
+{
+ "id": 614,
+ "name": "beartic",
+ "names": {
+  "ja-hrkt": "ツンベアー",
+  "ja-roma": "Tunbear",
+  "ko": "툰베어",
+  "zh-hant": "凍原熊",
+  "fr": "Polagriffe",
+  "de": "Siberio",
+  "es": "Beartic",
+  "it": "Beartic",
+  "en": "Beartic",
+  "ja": "ツンベアー",
+  "zh-hans": "冻原熊",
+  "es-419": "Beartic"
+ },
+ "genus": {
+  "ja-hrkt": "とうけつポケモン",
+  "ko": "동결포켓몬",
+  "zh-hant": "凍結寶可夢",
+  "fr": "Pokémon Congelé",
+  "de": "Packeis-Pokémon",
+  "es": "Pokémon Glaciación",
+  "it": "Pokémon Glaciale",
+  "en": "Freezing Pokémon",
+  "ja": "とうけつポケモン",
+  "zh-hans": "冻结宝可梦",
+  "es-419": "Pokémon Glaciación"
+ },
+ "flavor": {
+  "en": "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice.",
+  "ko": "차가운 바다에서 씩씩하게 헤엄친다. 지치면 한숨을 내쉬어 바다를 얼린 뒤 그 위에서 쉰다."
+ },
+ "varieties": [
+  {
+   "name": "beartic",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "310"
+}

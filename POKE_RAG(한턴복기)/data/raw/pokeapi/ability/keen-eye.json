@@ -1,0 +1,23 @@
+{
+ "name": "keen-eye",
+ "names": {
+  "ja-hrkt": "するどいめ",
+  "ko": "날카로운눈",
+  "zh-hant": "銳利目光",
+  "fr": "Regard Vif",
+  "de": "Adlerauge",
+  "es": "Vista Lince",
+  "it": "Sguardofermo",
+  "en": "Keen Eye",
+  "ja": "するどいめ",
+  "zh-hans": "锐利目光",
+  "es-419": "Perspicacia"
+ },
+ "effect": {
+  "en": "Prevents accuracy from being lowered."
+ },
+ "flavor": {
+  "en": "The Pokémon's keen eyes prevent its accuracy from being lowered.",
+  "ko": "날카로운 눈 덕분에 명중률이 떨어지지 않는다."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "maushold-family-of-three",
+ "form_name": "family-of-three",
+ "names": {
+  "fr": "Famignol Famille de Trois",
+  "en": "Maushold (Family of Three)"
+ },
+ "form_names": {
+  "ja-hrkt": "３びきかぞく",
+  "fr": "Famille de Trois",
+  "en": "Family of Three",
+  "ja": "３びきかぞく"
+ },
+ "is_mega": false
+}

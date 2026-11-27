@@ -1,0 +1,42 @@
+{
+ "id": 567,
+ "name": "archeops",
+ "names": {
+  "ja-hrkt": "アーケオス",
+  "ja-roma": "Archeos",
+  "ko": "아케오스",
+  "zh-hant": "始祖大鳥",
+  "fr": "Aéroptéryx",
+  "de": "Aeropteryx",
+  "es": "Archeops",
+  "it": "Archeops",
+  "en": "Archeops",
+  "ja": "アーケオス",
+  "zh-hans": "始祖大鸟",
+  "es-419": "Archeops"
+ },
+ "genus": {
+  "ja-hrkt": "さいこどりポケモン",
+  "ko": "최초새포켓몬",
+  "zh-hant": "遠古鳥寶可夢",
+  "fr": "Pokémon Oisancien",
+  "de": "Urzeitvogel-Pokémon",
+  "es": "Pokémon Protopájaro",
+  "it": "Pokémon Paleouccello",
+  "en": "First Bird Pokémon",
+  "ja": "さいこどりポケモン",
+  "zh-hans": "远古鸟宝可梦",
+  "es-419": "Pokémon Protopájaro"
+ },
+ "flavor": {
+  "en": "Though capable of flight, Archeops was apparently better at hunting on the ground.",
+  "ko": "비행도 가능하지만 지상에서 먹이를 사냥하는 일을 훨씬 더 잘하는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "archeops",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "289"
+}

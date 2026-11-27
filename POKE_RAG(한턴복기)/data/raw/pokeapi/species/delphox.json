@@ -1,0 +1,46 @@
+{
+ "id": 655,
+ "name": "delphox",
+ "names": {
+  "ja-hrkt": "マフォクシー",
+  "ja-roma": "Mahoxy",
+  "ko": "마폭시",
+  "zh-hant": "妖火紅狐",
+  "fr": "Goupelin",
+  "de": "Fennexis",
+  "es": "Delphox",
+  "it": "Delphox",
+  "en": "Delphox",
+  "ja": "マフォクシー",
+  "zh-hans": "妖火红狐",
+  "es-419": "Delphox"
+ },
+ "genus": {
+  "ja-hrkt": "キツネポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "キツネポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "ko": "섭씨 3000도의 불꽃 소용돌이를 초능력으로 조종한다. 적을 소용돌이로 감싸 불태운다.",
+  "en": "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame."
+ },
+ "varieties": [
+  {
+   "name": "delphox",
+   "is_default": true
+  },
+  {
+   "name": "delphox-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "338"
+}

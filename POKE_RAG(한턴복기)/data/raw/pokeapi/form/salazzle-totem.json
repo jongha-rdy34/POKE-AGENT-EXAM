@@ -1,0 +1,13 @@
+{
+ "name": "salazzle-totem",
+ "form_name": "totem",
+ "names": {
+  "fr": "Malamandre Dominant",
+  "de": "Totem Amfira",
+  "en": "Totem Salazzle"
+ },
+ "form_names": {
+  "de": "Totemform"
+ },
+ "is_mega": false
+}

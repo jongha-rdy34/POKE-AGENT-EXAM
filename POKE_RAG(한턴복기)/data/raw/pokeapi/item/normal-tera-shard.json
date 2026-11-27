@@ -1,0 +1,20 @@
+{
+ "name": "normal-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースノーマル",
+  "ko": "테라피스 노말",
+  "zh-hant": "一般太晶碎塊",
+  "fr": "Téra-Éclat Normal",
+  "de": "Tera-Stück (Normal)",
+  "es": "Teralito Normal",
+  "it": "Teralite Normale",
+  "en": "Normal Tera Shard",
+  "ja": "テラピースノーマル",
+  "zh-hans": "一般太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

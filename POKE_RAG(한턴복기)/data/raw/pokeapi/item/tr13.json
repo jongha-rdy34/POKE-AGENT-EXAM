@@ -1,0 +1,25 @@
+{
+ "name": "tr13",
+ "names": {
+  "ja-hrkt": "わざレコード１３",
+  "ko": "기술레코드13",
+  "zh-hant": "招式紀錄１３",
+  "fr": "DT13",
+  "de": "TP13",
+  "es": "DT13",
+  "it": "DT13",
+  "en": "TR13",
+  "ja": "わざレコード１３",
+  "zh-hans": "招式记录１３",
+  "es-419": "DT13"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "깊게 숨을 들이마셔 기합을 넣는다. 자신의 공격이 급소에 맞기 쉬워진다.",
+  "en": "The user takes a deep breath and focuses so that critical hits land more easily.",
+  "ja": "深く 息を 吸い 気合を こめる。 自分の 攻撃が 急所に 当たりやすくなる。"
+ }
+}

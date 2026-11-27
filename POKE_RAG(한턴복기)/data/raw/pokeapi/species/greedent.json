@@ -1,0 +1,42 @@
+{
+ "id": 820,
+ "name": "greedent",
+ "names": {
+  "ja-hrkt": "ヨクバリス",
+  "ja-roma": "Yokubarisu",
+  "ko": "요씽리스",
+  "zh-hant": "藏飽栗鼠",
+  "fr": "Rongrigou",
+  "de": "Schlaraffel",
+  "es": "Greedent",
+  "it": "Greedent",
+  "en": "Greedent",
+  "ja": "ヨクバリス",
+  "zh-hans": "藏饱栗鼠",
+  "es-419": "Greedent"
+ },
+ "genus": {
+  "ja-hrkt": "よくばりポケモン",
+  "ko": "욕심쟁이포켓몬",
+  "zh-hant": "貪慾寶可夢",
+  "fr": "Pokémon Goulu",
+  "de": "Gierschlund-Pokémon",
+  "es": "Pokémon Avaricia",
+  "it": "Pokémon Ingordigia",
+  "en": "Greedy Pokémon",
+  "ja": "よくばりポケモン",
+  "zh-hans": "贪欲宝可梦",
+  "es-419": "Pokémon Avaricia"
+ },
+ "flavor": {
+  "ko": "아무리 단단한 나무열매 껍질도 이빨로 아작아작 갉아 먹는다. 가라르에서 쉽게 볼 수 있는 포켓몬이다.",
+  "en": "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells."
+ },
+ "varieties": [
+  {
+   "name": "greedent",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "433"
+}

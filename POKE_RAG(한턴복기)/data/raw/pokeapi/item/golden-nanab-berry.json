@@ -1,0 +1,25 @@
+{
+ "name": "golden-nanab-berry",
+ "names": {
+  "ja-hrkt": "きんのナナのみ",
+  "ko": "황금 나나열매",
+  "zh-hant": "金色蕉香果",
+  "fr": "Baie Nanab dorée",
+  "de": "Goldene Nanabbeere",
+  "es": "Baya Latano Dorada",
+  "it": "Baccabana dorata",
+  "en": "Golden Nanab Berry",
+  "ja": "きんのナナのみ",
+  "zh-hans": "金色蕉香果",
+  "es-419": "Baya Latano Dorada"
+ },
+ "category": "catching-bonus",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬을 잡을 때 주면 상당히 얌전해지는 나무열매.",
+  "en": "A Berry that calms wild Pokémon you’re trying to catch drastically when given to them.",
+  "ja": "ポケモンを 捕まえる ときに あたえると かなり 落ち着く きのみ。"
+ }
+}

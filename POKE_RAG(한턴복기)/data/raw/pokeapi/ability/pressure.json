@@ -1,0 +1,23 @@
+{
+ "name": "pressure",
+ "names": {
+  "ja-hrkt": "プレッシャー",
+  "ko": "프레셔",
+  "zh-hant": "壓迫感",
+  "fr": "Pression",
+  "de": "Erzwinger",
+  "es": "Presión",
+  "it": "Pressione",
+  "en": "Pressure",
+  "ja": "プレッシャー",
+  "zh-hans": "压迫感",
+  "es-419": "Presión"
+ },
+ "effect": {
+  "en": "Increases the PP cost of moves targetting the Pokémon by one."
+ },
+ "flavor": {
+  "en": "Puts other Pokémon under pressure, causing them to expend more PP to use their moves.",
+  "ko": "프레셔를 줘서 상대가 쓰는 기술의 PP를 많이 줄인다."
+ }
+}

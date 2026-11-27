@@ -1,0 +1,25 @@
+{
+ "name": "endorsement",
+ "names": {
+  "ja-hrkt": "すいせんじょう",
+  "ko": "추천장",
+  "zh-hant": "推薦函",
+  "fr": "Recommandation",
+  "de": "Empfehlungsbrief",
+  "es": "Recomendación",
+  "it": "Referenze",
+  "en": "Endorsement",
+  "ja": "すいせんじょう",
+  "zh-hans": "推荐函",
+  "es-419": "Recomendación"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "체육관 챌린지라는 대회에 참가하는 데에 필요한 추천장.",
+  "en": "A letter of recommendation that you’ll need in order to participate in the Gym Challenge.",
+  "ja": "ジムチャレンジ という 大会に 参加 するための すいせんじょう。"
+ }
+}

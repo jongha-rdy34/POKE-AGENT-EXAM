@@ -1,0 +1,31 @@
+{
+ "name": "zen-headbutt",
+ "names": {
+  "ja-hrkt": "しねんのずつき",
+  "ko": "사념의박치기",
+  "zh-hant": "意念頭錘",
+  "fr": "Psykoud’Boul",
+  "de": "Zen-Kopfstoß",
+  "es": "Cabezazo Zen",
+  "it": "Cozzata Zen",
+  "en": "Zen Headbutt",
+  "ja": "しねんのずつき",
+  "zh-hans": "意念头锤",
+  "es-419": "Cabezazo Zen"
+ },
+ "type": "psychic",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 90,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to make the target flinch."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user focuses its willpower to its head and attacks the target. This may also make the target flinch.",
+  "ko": "사념의 힘을 이마에 모아서 공격한다. 상대를 풀죽게 만들 때가 있다."
+ }
+}

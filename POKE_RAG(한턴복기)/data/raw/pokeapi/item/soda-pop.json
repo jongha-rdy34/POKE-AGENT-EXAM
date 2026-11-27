@@ -1,0 +1,34 @@
+{
+ "name": "soda-pop",
+ "names": {
+  "ja-hrkt": "サイコソーダ",
+  "ko": "미네랄사이다",
+  "zh-hant": "勁爽汽水",
+  "fr": "Soda Cool",
+  "de": "Sprudel",
+  "es": "Refresco",
+  "it": "Gassosa",
+  "en": "Soda Pop",
+  "ja": "サイコソーダ",
+  "zh-hans": "劲爽汽水",
+  "es-419": "Refresco"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 60 PV.",
+  "en": "Restores 60 HP."
+ },
+ "flavor": {
+  "en": "A highly carbonated soda drink. It can be used to restore 50 HP to a single Pokémon.",
+  "ko": "싸하고 톡 쏘는 사이다. 포켓몬 1마리의 HP를 50만큼 회복한다.",
+  "ja": "シュワっと はじける ソーダ。 ポケモン １匹の ＨＰを ５０だけ 回復する。"
+ }
+}

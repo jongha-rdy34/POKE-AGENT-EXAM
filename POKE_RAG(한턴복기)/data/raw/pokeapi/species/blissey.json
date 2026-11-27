@@ -1,0 +1,42 @@
+{
+ "id": 242,
+ "name": "blissey",
+ "names": {
+  "ja-hrkt": "ハピナス",
+  "ja-roma": "Happinas",
+  "ko": "해피너스",
+  "zh-hant": "幸福蛋",
+  "fr": "Leuphorie",
+  "de": "Heiteira",
+  "es": "Blissey",
+  "it": "Blissey",
+  "en": "Blissey",
+  "ja": "ハピナス",
+  "zh-hans": "幸福蛋",
+  "es-419": "Blissey"
+ },
+ "genus": {
+  "ja-hrkt": "しあわせポケモン",
+  "ko": "행복포켓몬",
+  "zh-hant": "幸福寶可夢",
+  "fr": "Pokémon Bonheur",
+  "de": "Freuden-Pokémon",
+  "es": "Pokémon Felicidad",
+  "it": "Pokémon Felicità",
+  "en": "Happiness Pokémon",
+  "ja": "しあわせポケモン",
+  "zh-hans": "幸福宝可梦",
+  "es-419": "Pokémon Felicidad"
+ },
+ "flavor": {
+  "en": "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them.",
+  "ko": "행복이 가득 찬 신비한 알을 낳는다. 먹은 사람은 누구에게나 친절해진다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "blissey",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "51"
+}

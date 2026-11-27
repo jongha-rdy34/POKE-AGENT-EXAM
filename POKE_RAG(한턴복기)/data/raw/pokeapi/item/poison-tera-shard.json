@@ -1,0 +1,20 @@
+{
+ "name": "poison-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースどく",
+  "ko": "테라피스 독",
+  "zh-hant": "毒太晶碎塊",
+  "fr": "Téra-Éclat Poison",
+  "de": "Tera-Stück (Gift)",
+  "es": "Teralito Veneno",
+  "it": "Teralite Veleno",
+  "en": "Poison Tera Shard",
+  "ja": "テラピースどく",
+  "zh-hans": "毒太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

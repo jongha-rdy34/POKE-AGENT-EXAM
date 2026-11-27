@@ -1,0 +1,25 @@
+{
+ "name": "hi-tech-earbuds",
+ "names": {
+  "ja-hrkt": "すごいみみせん",
+  "ko": "대단한귀마개",
+  "zh-hant": "厲害耳塞",
+  "fr": "Bouchons Audio",
+  "de": "Top-Ohrenstöpsel",
+  "es": "Supertapones",
+  "it": "Supertappi",
+  "en": "Hi-tech Earbuds",
+  "ja": "すごいみみせん",
+  "zh-hans": "厉害耳塞",
+  "es-419": "Supertapones"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "다양한 소리의 볼륨을 자유자재로 조절할 수 있는 신기하고 대단한 귀마개.",
+  "en": "Strange earbuds that allow you to freely control the volume of various sounds.",
+  "ja": "さまざまな 音の ボリュームを 自由自在に コントロール できる 不思議で すごいみみせん。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "moxie",
+ "names": {
+  "ja-hrkt": "じしんかじょう",
+  "ko": "자기과신",
+  "zh-hant": "自信過度",
+  "fr": "Impudence",
+  "de": "Hochmut",
+  "es": "Autoestima",
+  "it": "Arroganza",
+  "en": "Moxie",
+  "ja": "じしんかじょう",
+  "zh-hans": "自信过度",
+  "es-419": "Autoestima"
+ },
+ "effect": {
+  "en": "Raises Attack one stage upon KOing a Pokémon."
+ },
+ "flavor": {
+  "en": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat.",
+  "ko": "상대를 쓰러뜨리면 자신감이 붙어서 공격이 올라간다."
+ }
+}

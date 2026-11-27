@@ -1,0 +1,42 @@
+{
+ "id": 375,
+ "name": "metang",
+ "names": {
+  "ja-hrkt": "メタング",
+  "ja-roma": "Metang",
+  "ko": "메탕구",
+  "zh-hant": "金屬怪",
+  "fr": "Métang",
+  "de": "Metang",
+  "es": "Metang",
+  "it": "Metang",
+  "en": "Metang",
+  "ja": "メタング",
+  "zh-hans": "金属怪",
+  "es-419": "Metang"
+ },
+ "genus": {
+  "ja-hrkt": "てつツメポケモン",
+  "ko": "철발톱포켓몬",
+  "zh-hant": "鐵爪寶可夢",
+  "fr": "Pokémon Pincefer",
+  "de": "Eisenklauen-Pokémon",
+  "es": "Pokémon Garra Hierro",
+  "it": "Pokémon Ferrunghia",
+  "en": "Iron Claw Pokémon",
+  "ja": "てつツメポケモン",
+  "zh-hans": "铁爪宝可梦",
+  "es-419": "Pokémon Garra Hierro"
+ },
+ "flavor": {
+  "en": "Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.",
+  "ko": "자력으로 하늘을 난다. 험준한 산들을 누비듯이 고속으로 비행하여 먹이를 쫓는다."
+ },
+ "varieties": [
+  {
+   "name": "metang",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "192"
+}

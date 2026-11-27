@@ -1,0 +1,34 @@
+{
+ "name": "ether",
+ "names": {
+  "ja-hrkt": "ピーピーエイド",
+  "ko": "PP에이드",
+  "zh-hant": "ＰＰ單項小補劑",
+  "fr": "Huile",
+  "de": "Äther",
+  "es": "Éter",
+  "it": "Etere",
+  "en": "Ether",
+  "ja": "ピーピーエイド",
+  "zh-hans": "ＰＰ单项小补剂",
+  "es-419": "Éter"
+ },
+ "category": "pp-recovery",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 10 PP pour une capacité.",
+  "en": "Restores 10 PP for one move."
+ },
+ "flavor": {
+  "en": "This medicine can be used to restore 10 PP to a single selected move that has been learned by a Pokémon.",
+  "ko": "포켓몬이 기억하고 있는 기술 중 1개의 PP를 10만큼 회복한다.",
+  "ja": "ポケモンが 覚えている 技のうち １つの ＰＰを １０だけ 回復する。"
+ }
+}

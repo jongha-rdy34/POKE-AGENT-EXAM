@@ -1,0 +1,31 @@
+{
+ "name": "rising-voltage",
+ "names": {
+  "ja-hrkt": "ライジングボルト",
+  "ko": "라이징볼트",
+  "zh-hant": "電力上升",
+  "fr": "Monte-Tension",
+  "de": "Hochspannung",
+  "es": "Alto Voltaje",
+  "it": "Elettroimpennata",
+  "en": "Rising Voltage",
+  "ja": "ライジングボルト",
+  "zh-hans": "电力上升",
+  "es-419": "Alto Voltaje"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If Electric Terrain is active and the user is grounded, this move has has its power doubled."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "지면에서 올라오는 전격으로 공격한다. 상대가 일렉트릭필드 위에 있을 때 기술의 위력이 2배가 된다.",
+  "en": "The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain."
+ }
+}

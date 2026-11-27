@@ -1,0 +1,28 @@
+{
+ "name": "pixie-plate",
+ "names": {
+  "ja-hrkt": "せいれいプレート",
+  "ko": "정령플레이트",
+  "zh-hant": "妖精石板",
+  "fr": "Plaque Pixie",
+  "de": "Feentafel",
+  "es": "Tabla Duende",
+  "it": "Lastraspiritello",
+  "en": "Pixie Plate",
+  "ja": "せいれいプレート",
+  "zh-hans": "妖精石板",
+  "es-419": "Tabla Duende"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Fée du porteur infligent 20% de dégâts supplémentaires. Change le type d'Arceus et Jugement en Fée.",
+  "en": "Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fairy."
+ },
+ "flavor": {
+  "ko": "페어리타입의 석판. 지니게 하면 페어리타입 기술의 위력이 강해진다.",
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fairy-type moves.",
+  "ja": "フェアリーの タイプの 石盤。 持たせると フェアリータイプの 技の 威力が 強まる。"
+ }
+}

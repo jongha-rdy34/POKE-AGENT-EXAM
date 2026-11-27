@@ -1,0 +1,20 @@
+{
+ "name": "kricketot-shell",
+ "names": {
+  "ja-hrkt": "コロボーシのぬけがら",
+  "ko": "귀뚤뚜기의허물",
+  "zh-hant": "圓法師的蛻殼",
+  "fr": "Mue de Crikzik",
+  "de": "Zirpurze-Häutungsrest",
+  "es": "Muda de Kricketot",
+  "it": "Esuvia di Kricketot",
+  "en": "Kricketot Shell",
+  "ja": "コロボーシのぬけがら",
+  "zh-hans": "圆法师的蜕壳"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,33 @@
+{
+ "name": "x-attack",
+ "names": {
+  "ja-hrkt": "プラスパワー",
+  "ko": "플러스파워",
+  "zh-hant": "力量強化",
+  "fr": "Attaque +",
+  "de": "X-Angriff",
+  "es": "Ataque X",
+  "it": "Attacco X",
+  "en": "X Attack",
+  "ja": "プラスパワー",
+  "zh-hans": "力量强化",
+  "es-419": "Ataque X"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'Attaque d'un niveau en combat. Augmente le bonheur.",
+  "en": "Raises Attack by one stage in battle.  Raises happiness."
+ },
+ "flavor": {
+  "en": "An item that sharply boosts the Attack stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 공격을 크게 올리는 도구. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 攻撃を 大きく あげる 道具。 ひっこめると 元に 戻る。"
+ }
+}

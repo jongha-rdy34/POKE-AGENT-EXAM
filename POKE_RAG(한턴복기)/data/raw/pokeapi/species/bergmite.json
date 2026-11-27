@@ -1,0 +1,42 @@
+{
+ "id": 712,
+ "name": "bergmite",
+ "names": {
+  "ja-hrkt": "カチコール",
+  "ja-roma": "Kachikohru",
+  "ko": "꽁어름",
+  "zh-hant": "冰寶",
+  "fr": "Grelaçon",
+  "de": "Arktip",
+  "es": "Bergmite",
+  "it": "Bergmite",
+  "en": "Bergmite",
+  "ja": "カチコール",
+  "zh-hans": "冰宝",
+  "es-419": "Bergmite"
+ },
+ "genus": {
+  "ja-hrkt": "ひょうかいポケモン",
+  "ko": "얼음덩이포켓몬",
+  "zh-hant": "冰塊寶可夢",
+  "fr": "Pokémon Glaçon",
+  "de": "Eisklumpen-Pokémon",
+  "es": "Pokémon Témpano",
+  "it": "Pokémon Ghiacciolo",
+  "en": "Ice Chunk Pokémon",
+  "ja": "ひょうかいポケモン",
+  "zh-hans": "冰块宝可梦",
+  "es-419": "Pokémon Témpano"
+ },
+ "flavor": {
+  "ko": "혹한의 지역에 서식한다. 크레베이스의 등에 자신의 발을 얼어붙게 해 고정한다.",
+  "en": "Lives on mountains blanketed in perennial snow. It freezes water vapor in the air to make the ice helmet that it dons for defense."
+ },
+ "varieties": [
+  {
+   "name": "bergmite",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "366"
+}

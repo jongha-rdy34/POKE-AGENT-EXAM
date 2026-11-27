@@ -1,0 +1,23 @@
+{
+ "name": "sceptile-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Jungko",
+  "de": "Mega-Gewaldro",
+  "en": "Mega Sceptile"
+ },
+ "form_names": {
+  "ja-hrkt": "メガジュカイン",
+  "ko": "메가나무킹",
+  "zh-hant": "超級蜥蜴王",
+  "fr": "Méga-Jungko",
+  "de": "Mega-Form",
+  "es": "Mega-Sceptile",
+  "it": "MegaSceptile",
+  "en": "Mega Sceptile",
+  "ja": "メガジュカイン",
+  "zh-hans": "超级蜥蜴王",
+  "es-419": "Mega-Sceptile"
+ },
+ "is_mega": true
+}

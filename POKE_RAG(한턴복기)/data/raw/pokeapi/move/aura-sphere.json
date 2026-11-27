@@ -1,0 +1,31 @@
+{
+ "name": "aura-sphere",
+ "names": {
+  "ja-hrkt": "はどうだん",
+  "ko": "파동탄",
+  "zh-hant": "波導彈",
+  "fr": "Aurasphère",
+  "de": "Aurasphäre",
+  "es": "Esfera Aural",
+  "it": "Forzasfera",
+  "en": "Aura Sphere",
+  "ja": "はどうだん",
+  "zh-hans": "波导弹",
+  "es-419": "Aura Esfera"
+ },
+ "type": "fighting",
+ "category": "special",
+ "power": 80,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Never misses."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lets loose a pulse of aura power from deep within its body at the target. This attack never misses.",
+  "ko": "몸속에서 파동의 힘을 끌어내 상대에게 쏜다. 공격은 반드시 명중한다."
+ }
+}

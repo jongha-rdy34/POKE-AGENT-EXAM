@@ -1,0 +1,20 @@
+{
+ "name": "herbed-sausage",
+ "names": {
+  "ja-hrkt": "ハーブソーセージ",
+  "ko": "허브소시지",
+  "zh-hant": "香草香腸",
+  "fr": "Saucisse aux Herbes",
+  "de": "Kräuterwurst",
+  "es": "Butifarra",
+  "it": "Salsiccia alle erbe",
+  "en": "Herbed Sausage",
+  "ja": "ハーブソーセージ",
+  "zh-hans": "香草香肠"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

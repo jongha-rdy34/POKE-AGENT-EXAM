@@ -1,0 +1,28 @@
+{
+ "name": "temper-flare",
+ "names": {
+  "ja-hrkt": "やけっぱち",
+  "ko": "열불내기",
+  "zh-hant": "豁出去",
+  "fr": "Indignition",
+  "de": "Frustflamme",
+  "es": "Cólera Ardiente",
+  "it": "Rabbia Bruciante",
+  "en": "Temper Flare",
+  "ja": "やけっぱち",
+  "zh-hans": "豁出去",
+  "es-419": "Furia Ardiente"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+ }
+}

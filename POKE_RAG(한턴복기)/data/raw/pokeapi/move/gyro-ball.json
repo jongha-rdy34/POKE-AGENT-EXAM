@@ -1,0 +1,31 @@
+{
+ "name": "gyro-ball",
+ "names": {
+  "ja-hrkt": "ジャイロボール",
+  "ko": "자이로볼",
+  "zh-hant": "陀螺球",
+  "fr": "Gyroballe",
+  "de": "Gyroball",
+  "es": "Giro Bola",
+  "it": "Vortexpalla",
+  "en": "Gyro Ball",
+  "ja": "ジャイロボール",
+  "zh-hans": "陀螺球",
+  "es-419": "Giro Bola"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power raises when the user has lower Speed, up to a maximum of 150."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the move's power.",
+  "ko": "몸을 고속으로 회전시켜 몸통박치기한다. 상대보다 스피드가 낮을수록 위력은 올라간다."
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "feraligatr-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Aligatueur",
+  "en": "Mega Feraligatr"
+ },
+ "form_names": {
+  "ja-hrkt": "メガオーダイル",
+  "fr": "Méga-Aligatueur",
+  "en": "Mega Feraligatr",
+  "ja": "メガオーダイル"
+ },
+ "is_mega": true
+}

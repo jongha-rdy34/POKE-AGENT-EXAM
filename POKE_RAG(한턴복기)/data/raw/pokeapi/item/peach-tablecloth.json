@@ -1,0 +1,20 @@
+{
+ "name": "peach-tablecloth",
+ "names": {
+  "ja-hrkt": "ベージュクロス",
+  "ko": "베이지 테이블보",
+  "zh-hant": "米色桌巾",
+  "fr": "Nappe Beige",
+  "de": "Beiges Tischtuch",
+  "es": "Mantel Beis",
+  "it": "Tovaglia pesca",
+  "en": "Peach Tablecloth",
+  "ja": "ベージュクロス",
+  "zh-hans": "米色桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

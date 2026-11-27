@@ -1,0 +1,15 @@
+{
+ "name": "golisopod-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Sarmuraï",
+  "en": "Mega Golisopod"
+ },
+ "form_names": {
+  "ja-hrkt": "メガグソクムシャ",
+  "fr": "Méga-Sarmuraï",
+  "en": "Mega Golisopod",
+  "ja": "メガグソクムシャ"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,25 @@
+{
+ "name": "careful-mint",
+ "names": {
+  "ja-hrkt": "しんちょうミント",
+  "ko": "신중민트",
+  "zh-hant": "慎重薄荷",
+  "fr": "Aromate Prudent",
+  "de": "Sacht-Minze",
+  "es": "Menta Cauta",
+  "it": "Menta Cauta",
+  "en": "Careful Mint",
+  "ja": "しんちょうミント",
+  "zh-hans": "慎重薄荷",
+  "es-419": "Menta Cauta"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수방어가 오르기 쉬워지지만 특수공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Sp. Atk will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特防が 上がりやすく なるが 特攻は 上がりにくくなる ミント。"
+ }
+}

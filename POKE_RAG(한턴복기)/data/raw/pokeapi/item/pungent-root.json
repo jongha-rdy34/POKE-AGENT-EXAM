@@ -1,0 +1,25 @@
+{
+ "name": "pungent-root",
+ "names": {
+  "ja-hrkt": "みずべのハーブ",
+  "ko": "물가허브팩",
+  "zh-hant": "水邊香草",
+  "fr": "Tubercule",
+  "de": "Uferkraut",
+  "es": "Hierba Intensa",
+  "it": "Erbe acquatiche",
+  "en": "Pungent Root",
+  "ja": "みずべのハーブ",
+  "zh-hans": "水边香草",
+  "es-419": "Hierba Intensa"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 알맞게 딴 허브가 향과 색감을 더해준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. Though carelessly picked, these herbs can add a fragrant accent to a dish.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。適当に 摘んだ ハーブが 香り 彩りを 追加する。"
+ }
+}

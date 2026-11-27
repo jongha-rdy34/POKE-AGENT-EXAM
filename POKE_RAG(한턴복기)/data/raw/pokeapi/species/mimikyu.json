@@ -1,0 +1,54 @@
+{
+ "id": 778,
+ "name": "mimikyu",
+ "names": {
+  "ja-hrkt": "ミミッキュ",
+  "ja-roma": "Mimikkyu",
+  "ko": "따라큐",
+  "zh-hant": "謎擬Ｑ",
+  "fr": "Mimiqui",
+  "de": "Mimigma",
+  "es": "Mimikyu",
+  "it": "Mimikyu",
+  "en": "Mimikyu",
+  "ja": "ミミッキュ",
+  "zh-hans": "谜拟丘",
+  "es-419": "Mimikyu"
+ },
+ "genus": {
+  "ja-hrkt": "ばけのかわポケモン",
+  "ko": "탈포켓몬",
+  "zh-hant": "畫皮寶可夢",
+  "fr": "Pokémon Fantômasque",
+  "de": "Kostümspuk-Pokémon",
+  "es": "Pokémon Disfraz",
+  "it": "Pokémon Fantasmanto",
+  "en": "Disguise Pokémon",
+  "ja": "ばけのかわポケモン",
+  "zh-hans": "画皮宝可梦",
+  "es-419": "Pokémon Disfraz"
+ },
+ "flavor": {
+  "ko": "연구를 위해 누더기 속을 들여다본 학자가 알 수 없는 병으로 목숨을 잃었다.",
+  "en": "There was a scientist who peeked under Mimikyu’s old rag in the name of research. The scientist died of a mysterious disease."
+ },
+ "varieties": [
+  {
+   "name": "mimikyu-disguised",
+   "is_default": true
+  },
+  {
+   "name": "mimikyu-busted",
+   "is_default": false
+  },
+  {
+   "name": "mimikyu-totem-disguised",
+   "is_default": false
+  },
+  {
+   "name": "mimikyu-totem-busted",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "404"
+}

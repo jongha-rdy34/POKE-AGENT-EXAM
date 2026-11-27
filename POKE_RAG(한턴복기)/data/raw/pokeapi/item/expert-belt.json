@@ -1,0 +1,31 @@
+{
+ "name": "expert-belt",
+ "names": {
+  "ja-hrkt": "たつじんのおび",
+  "ko": "달인의띠",
+  "zh-hant": "達人帶",
+  "fr": "Ceinture Pro",
+  "de": "Expertengurt",
+  "es": "Cinta Experto",
+  "it": "Abilcintura",
+  "en": "Expert Belt",
+  "ja": "たつじんのおび",
+  "zh-hans": "达人带",
+  "es-419": "Cinta Experto"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités super efficaces du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Holder’s Super Effective moves do 20% extra damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a well-worn belt that slightly boosts the power of supereffective moves.",
+  "ko": "오래 사용한 까만 띠. 지니게 하면 효과가 뛰어날 때 기술의 위력이 조금 올라간다.",
+  "ja": "使いこまれた 黒い 帯。 持たせると 効果バツグンの とき 技の 威力が 少し あがる。"
+ }
+}

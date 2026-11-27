@@ -1,0 +1,42 @@
+{
+ "id": 163,
+ "name": "hoothoot",
+ "names": {
+  "ja-hrkt": "ホーホー",
+  "ja-roma": "Hoho",
+  "ko": "부우부",
+  "zh-hant": "咕咕",
+  "fr": "Hoothoot",
+  "de": "Hoothoot",
+  "es": "Hoothoot",
+  "it": "Hoothoot",
+  "en": "Hoothoot",
+  "ja": "ホーホー",
+  "zh-hans": "咕咕",
+  "es-419": "Hoothoot"
+ },
+ "genus": {
+  "ja-hrkt": "ふくろうポケモン",
+  "ko": "부엉이포켓몬",
+  "zh-hant": "貓頭鷹寶可夢",
+  "fr": "Pokémon Hibou",
+  "de": "Eulen-Pokémon",
+  "es": "Pokémon Búho",
+  "it": "Pokémon Gufo",
+  "en": "Owl Pokémon",
+  "ja": "ふくろうポケモン",
+  "zh-hans": "猫头鹰宝可梦",
+  "es-419": "Pokémon Búho"
+ },
+ "flavor": {
+  "en": "It begins to hoot at the same time every day. Some Trainers use them in place of clocks.",
+  "ko": "언제나 정해진 시간이 되면 울음소리를 내어 시계 대용으로 데리고 다니는 트레이너도 있다."
+ },
+ "varieties": [
+  {
+   "name": "hoothoot",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "83"
+}

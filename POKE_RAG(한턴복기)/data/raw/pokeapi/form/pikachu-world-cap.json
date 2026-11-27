@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-world-cap",
+ "form_name": "world-cap",
+ "names": {
+  "fr": "Pikachu Casquette Monde",
+  "de": "Pikachu (Weltreise-Kappe)",
+  "en": "World Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "ワールドキャップ",
+  "ko": "월드캡",
+  "zh-hant": "世界帽子",
+  "fr": "Casquette Monde",
+  "de": "Weltreise-Kappe",
+  "es": "Gorra Trotamundos",
+  "it": "Berretto Giramondo",
+  "en": "World Cap",
+  "ja": "ワールドキャップ",
+  "zh-hans": "世界帽子",
+  "es-419": "Gorra Trotamundos"
+ },
+ "is_mega": false
+}

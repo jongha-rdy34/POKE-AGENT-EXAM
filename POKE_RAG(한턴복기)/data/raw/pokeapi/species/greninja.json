@@ -1,0 +1,54 @@
+{
+ "id": 658,
+ "name": "greninja",
+ "names": {
+  "ja-hrkt": "ゲッコウガ",
+  "ja-roma": "Gekkouga",
+  "ko": "개굴닌자",
+  "zh-hant": "甲賀忍蛙",
+  "fr": "Amphinobi",
+  "de": "Quajutsu",
+  "es": "Greninja",
+  "it": "Greninja",
+  "en": "Greninja",
+  "ja": "ゲッコウガ",
+  "zh-hans": "甲贺忍蛙",
+  "es-419": "Greninja"
+ },
+ "genus": {
+  "ja-hrkt": "しのびポケモン",
+  "ko": "시노비포켓몬",
+  "zh-hant": "忍者寶可夢",
+  "fr": "Pokémon Ninja",
+  "de": "Ninja",
+  "es": "Pokémon Ninja",
+  "it": "Pokémon Ninja",
+  "en": "Ninja Pokémon",
+  "ja": "しのびポケモン",
+  "zh-hans": "忍者宝可梦",
+  "es-419": "Pokémon Ninja"
+ },
+ "flavor": {
+  "ko": "닌자처럼 신출귀몰하다. 재빠른 움직임으로 상대를 농락하면서 물의 수리검으로 벤다.",
+  "en": "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water."
+ },
+ "varieties": [
+  {
+   "name": "greninja",
+   "is_default": true
+  },
+  {
+   "name": "greninja-battle-bond",
+   "is_default": false
+  },
+  {
+   "name": "greninja-ash",
+   "is_default": false
+  },
+  {
+   "name": "greninja-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "339"
+}

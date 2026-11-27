@@ -1,0 +1,28 @@
+{
+ "name": "altarianite",
+ "names": {
+  "ja-hrkt": "チルタリスナイト",
+  "ko": "파비코리나이트",
+  "zh-hant": "七夕青鳥進化石",
+  "fr": "Altarite",
+  "de": "Altarianit",
+  "es": "Altarianita",
+  "it": "Altarite",
+  "en": "Altarianite",
+  "ja": "チルタリスナイト",
+  "zh-hans": "七夕青鸟进化石",
+  "es-419": "Altarianita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Altaria de Méga-Évoluer en Méga-Altaria.",
+  "en": "Held: Allows Altaria to Mega Evolve into Mega Altaria."
+ },
+ "flavor": {
+  "ko": "파비코리에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Altaria hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "チルタリスに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

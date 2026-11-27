@@ -1,0 +1,23 @@
+{
+ "name": "pinsir-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Scarabrute",
+  "de": "Mega-Pinsir",
+  "en": "Mega Pinsir"
+ },
+ "form_names": {
+  "ja-hrkt": "メガカイロス",
+  "ko": "메가쁘사이저",
+  "zh-hant": "超級凱羅斯",
+  "fr": "Méga-Scarabrute",
+  "de": "Mega-Form",
+  "es": "Mega-Pinsir",
+  "it": "MegaPinsir",
+  "en": "Mega Pinsir",
+  "ja": "メガカイロス",
+  "zh-hans": "超级凯罗斯",
+  "es-419": "Mega-Pinsir"
+ },
+ "is_mega": true
+}

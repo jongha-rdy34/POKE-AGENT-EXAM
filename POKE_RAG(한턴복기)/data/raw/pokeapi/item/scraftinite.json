@@ -1,0 +1,20 @@
+{
+ "name": "scraftinite",
+ "names": {
+  "ko": "곤율거니나이트",
+  "zh-hant": "頭巾混混進化石",
+  "fr": "Baggaïdite",
+  "de": "Irokexonit",
+  "es": "Scraftita",
+  "it": "Scraftite",
+  "en": "Scraftinite",
+  "ja": "ズルズキナイト",
+  "zh-hans": "头巾混混进化石",
+  "es-419": "Scraftita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

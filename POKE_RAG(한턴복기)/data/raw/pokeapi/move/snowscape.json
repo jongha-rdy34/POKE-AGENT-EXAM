@@ -1,0 +1,28 @@
+{
+ "name": "snowscape",
+ "names": {
+  "ja-hrkt": "ゆきげしき",
+  "ko": "설경",
+  "zh-hant": "雪景",
+  "fr": "Chute de Neige",
+  "de": "Schneelandschaft",
+  "es": "Paisaje Nevado",
+  "it": "Vista Innevata",
+  "en": "Snowscape",
+  "ja": "ゆきげしき",
+  "zh-hans": "雪景",
+  "es-419": "Paisaje Nevado"
+ },
+ "type": "ice",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user summons a snowstorm lasting five turns. This boosts the Defense stats of Ice types."
+ }
+}

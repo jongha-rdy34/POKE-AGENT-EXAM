@@ -1,0 +1,20 @@
+{
+ "name": "wooper-slime",
+ "names": {
+  "ja-hrkt": "ウパーのねんえき",
+  "ko": "우파의점액",
+  "zh-hant": "烏波的黏液",
+  "fr": "Mucus d'Axoloto",
+  "de": "Felino-Schleim",
+  "es": "Secreción de Wooper",
+  "it": "Muco di Wooper",
+  "en": "Wooper Slime",
+  "ja": "ウパーのねんえき",
+  "zh-hans": "乌波的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

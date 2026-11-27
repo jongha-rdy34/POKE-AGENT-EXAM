@@ -1,0 +1,42 @@
+{
+ "id": 804,
+ "name": "naganadel",
+ "names": {
+  "ja-hrkt": "アーゴヨン",
+  "ja-roma": "Agoyon",
+  "ko": "아고용",
+  "zh-hant": "四顎針龍",
+  "fr": "Mandrillon",
+  "de": "Agoyon",
+  "es": "Naganadel",
+  "it": "Naganadel",
+  "en": "Naganadel",
+  "ja": "アーゴヨン",
+  "zh-hans": "四颚针龙",
+  "es-419": "Naganadel"
+ },
+ "genus": {
+  "ja-hrkt": "どくばりポケモン",
+  "ko": "독침포켓몬",
+  "zh-hant": "毒針寶可夢",
+  "fr": "Pokémon Vénépic",
+  "de": "Giftdorn-Pokémon",
+  "es": "Pokémon Pin Veneno",
+  "it": "Pokémon Velenago",
+  "en": "Poison Pin Pokémon",
+  "ja": "どくばりポケモン",
+  "zh-hans": "毒针宝可梦",
+  "es-419": "Pokémon Pin Veneno"
+ },
+ "flavor": {
+  "ko": "울트라비스트의 일종. 독침에서 점도가 높고 빛나는 독액을 발사한다.",
+  "en": "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive."
+ },
+ "varieties": [
+  {
+   "name": "naganadel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "424"
+}

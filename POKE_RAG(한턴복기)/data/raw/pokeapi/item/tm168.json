@@ -1,0 +1,20 @@
+{
+ "name": "tm168",
+ "names": {
+  "ja-hrkt": "わざマシン１６８",
+  "ko": "기술머신168",
+  "zh-hant": "招式學習器１６８",
+  "fr": "CT168",
+  "de": "TM168",
+  "es": "MT168",
+  "it": "MT168",
+  "en": "TM168",
+  "ja": "わざマシン１６８",
+  "zh-hans": "招式学习器１６８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

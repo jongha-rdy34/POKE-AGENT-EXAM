@@ -1,0 +1,31 @@
+{
+ "name": "morning-sun",
+ "names": {
+  "ja-hrkt": "あさのひざし",
+  "ko": "아침햇살",
+  "zh-hant": "晨光",
+  "fr": "Aurore",
+  "de": "Morgengrauen",
+  "es": "Sol Matinal",
+  "it": "Mattindoro",
+  "en": "Morning Sun",
+  "ja": "あさのひざし",
+  "zh-hans": "晨光",
+  "es-419": "Sol Matutino"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP.  Affected by weather."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user restores its own HP. The amount of HP regained varies with the weather.",
+  "ko": "자신의 HP를 회복한다. 날씨에 따라 회복량이 변한다."
+ }
+}

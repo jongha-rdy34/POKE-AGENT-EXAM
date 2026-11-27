@@ -1,0 +1,20 @@
+{
+ "name": "tarountula-thread",
+ "names": {
+  "ja-hrkt": "タマンチュラのいと",
+  "ko": "타랜툴라의실",
+  "zh-hant": "團珠蛛的絲",
+  "fr": "Fil de Tissenboule",
+  "de": "Tarundel-Faden",
+  "es": "Hilo de Tarountula",
+  "it": "Filo di Tarountula",
+  "en": "Tarountula Thread",
+  "ja": "タマンチュラのいと",
+  "zh-hans": "团珠蛛的丝"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,30 @@
+{
+ "name": "sun-stone",
+ "names": {
+  "ja-hrkt": "たいようのいし",
+  "ko": "태양의돌",
+  "zh-hant": "日之石",
+  "fr": "Pierre Soleil",
+  "de": "Sonnenstein",
+  "es": "Piedra Solar",
+  "it": "Pietrasolare",
+  "en": "Sun Stone",
+  "ja": "たいようのいし",
+  "zh-hans": "日之石",
+  "es-419": "Piedra Solar"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Doudouvet en Farfaduvet, un Ortide en Joliflor, un Chlorobule en Farfaduvet ou un Tournegrin en Héliatronc.",
+  "en": "Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 태양처럼 빨갛다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 太陽のように 赤い。"
+ }
+}

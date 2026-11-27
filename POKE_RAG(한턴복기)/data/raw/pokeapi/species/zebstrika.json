@@ -1,0 +1,42 @@
+{
+ "id": 523,
+ "name": "zebstrika",
+ "names": {
+  "ja-hrkt": "ゼブライカ",
+  "ja-roma": "Zebraika",
+  "ko": "제브라이카",
+  "zh-hant": "雷電斑馬",
+  "fr": "Zéblitz",
+  "de": "Zebritz",
+  "es": "Zebstrika",
+  "it": "Zebstrika",
+  "en": "Zebstrika",
+  "ja": "ゼブライカ",
+  "zh-hans": "雷电斑马",
+  "es-419": "Zebstrika"
+ },
+ "genus": {
+  "ja-hrkt": "らいでんポケモン",
+  "ko": "뇌전포켓몬",
+  "zh-hant": "雷電寶可夢",
+  "fr": "Pokémon Foudrélec",
+  "de": "Donnerkeil",
+  "es": "Pokémon Rayo",
+  "it": "Pokémon Saetta",
+  "en": "Thunderbolt Pokémon",
+  "ja": "らいでんポケモン",
+  "zh-hans": "雷电宝可梦",
+  "es-419": "Pokémon Rayo"
+ },
+ "flavor": {
+  "en": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+  "ko": "천둥번개 같은 순발력을 가지고 있다. 제브라이카가 전속력으로 달리면 천둥소리가 울려 퍼진다."
+ },
+ "varieties": [
+  {
+   "name": "zebstrika",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "267"
+}

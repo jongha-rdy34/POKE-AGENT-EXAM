@@ -1,0 +1,42 @@
+{
+ "id": 772,
+ "name": "type-null",
+ "names": {
+  "ja-hrkt": "タイプ：ヌル",
+  "ja-roma": "Type:Null",
+  "ko": "타입:널",
+  "zh-hant": "屬性：空",
+  "fr": "Type:0",
+  "de": "Typ:Null",
+  "es": "Código Cero",
+  "it": "Tipo Zero",
+  "en": "Type: Null",
+  "ja": "タイプ：ヌル",
+  "zh-hans": "属性：空",
+  "es-419": "Código Cero"
+ },
+ "genus": {
+  "ja-hrkt": "じんこうポケモン",
+  "ko": "인공포켓몬",
+  "zh-hant": "人工寶可夢",
+  "fr": "Pokémon Multigénome",
+  "de": "Modifikations-Pokémon",
+  "es": "Pokémon Multigénico",
+  "it": "Pokémon Multigene",
+  "en": "Synthetic Pokémon",
+  "ja": "じんこうポケモン",
+  "zh-hans": "人工宝可梦",
+  "es-419": "Pokémon Multigénico"
+ },
+ "flavor": {
+  "ko": "신화 속 포켓몬을 모델로 만들었지만 힘이 폭주하는 것을 억제하는 마스크를 쓰고 있다.",
+  "en": "It was modeled after a mighty Pokémon of myth. The mask placed upon it limits its power in order to keep it under control."
+ },
+ "varieties": [
+  {
+   "name": "type-null",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "399"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "big-mushroom",
+ "names": {
+  "ja-hrkt": "おおきなキノコ",
+  "ko": "큰버섯",
+  "zh-hant": "大蘑菇",
+  "fr": "Gros Champi",
+  "de": "Riesenpilz",
+  "es": "Seta Grande",
+  "it": "Grande Fungo",
+  "en": "Big Mushroom",
+  "ja": "おおきなキノコ",
+  "zh-hans": "大蘑菇",
+  "es-419": "Seta Grande"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Rouge Feu et Vert Feuille : Échange pour réapprendre des capacités apprises par montée de niveau. À vendre pour 2500 Pokédollars, ou à une servante pour 5000 Pokédollars",
+  "en": "Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A very large and rare mushroom. It’s popular with a certain class of collectors.",
+  "ko": "크고 진귀한 버섯. 일부 마니아 사이에서는 매우 인기가 높다.",
+  "ja": "おおきな 珍しい キノコ。 一部の マニアの あいだでは とても 人気が 高い。"
+ }
+}

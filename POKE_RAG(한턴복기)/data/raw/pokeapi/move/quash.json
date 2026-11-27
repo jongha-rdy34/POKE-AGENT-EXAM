@@ -1,0 +1,31 @@
+{
+ "name": "quash",
+ "names": {
+  "ja-hrkt": "さきおくり",
+  "ko": "순서미루기",
+  "zh-hant": "延後",
+  "fr": "À la Queue",
+  "de": "Verzögerung",
+  "es": "Último Lugar",
+  "it": "Spintone",
+  "en": "Quash",
+  "ja": "さきおくり",
+  "zh-hans": "延后",
+  "es-419": "Último Lugar"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Makes the target act last this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user suppresses the target and makes its move go last.",
+  "ko": "상대를 억눌러서 행동의 순서를 마지막으로 만든다."
+ }
+}

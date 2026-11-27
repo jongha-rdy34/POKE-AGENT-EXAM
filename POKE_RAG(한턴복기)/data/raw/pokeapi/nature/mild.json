@@ -1,0 +1,18 @@
+{
+ "name": "mild",
+ "names": {
+  "ja-hrkt": "おっとり",
+  "ko": "의젓",
+  "zh-hant": "慢吞吞",
+  "fr": "Doux",
+  "de": "Mild",
+  "es": "Afable",
+  "it": "Mite",
+  "en": "Mild",
+  "ja": "おっとり",
+  "zh-hans": "慢吞吞",
+  "es-419": "Cordial"
+ },
+ "plus": "special-attack",
+ "minus": "defense"
+}

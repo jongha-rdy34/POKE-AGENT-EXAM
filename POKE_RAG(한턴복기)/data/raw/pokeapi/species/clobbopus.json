@@ -1,0 +1,42 @@
+{
+ "id": 852,
+ "name": "clobbopus",
+ "names": {
+  "ja-hrkt": "タタッコ",
+  "ja-roma": "Tatakko",
+  "ko": "때때무노",
+  "zh-hant": "拳拳蛸",
+  "fr": "Poulpaf",
+  "de": "Klopptopus",
+  "es": "Clobbopus",
+  "it": "Clobbopus",
+  "en": "Clobbopus",
+  "ja": "タタッコ",
+  "zh-hans": "拳拳蛸",
+  "es-419": "Clobbopus"
+ },
+ "genus": {
+  "ja-hrkt": "だだっこポケモン",
+  "ko": "떼쟁이포켓몬",
+  "zh-hant": "纏人寶可夢",
+  "fr": "Pokémon Caprice",
+  "de": "Balg-Pokémon",
+  "es": "Pokémon Malcriado",
+  "it": "Pokémon Bizze",
+  "en": "Tantrum Pokémon",
+  "ja": "だだっこポケモン",
+  "zh-hans": "缠人宝可梦",
+  "es-419": "Pokémon Malcriado"
+ },
+ "flavor": {
+  "ko": "세 살 아이 정도의 지능을 가졌다. 촉수는 잘 끊어지지만 재생되기 때문에 신경 쓰지 않는다.",
+  "en": "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old."
+ },
+ "varieties": [
+  {
+   "name": "clobbopus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "448"
+}

@@ -1,0 +1,27 @@
+{
+ "name": "flying",
+ "names": {
+  "ja-hrkt": "ひこう",
+  "ko": "비행",
+  "zh-hant": "飛行",
+  "fr": "Vol",
+  "de": "Flug",
+  "es": "Volador",
+  "it": "Volante",
+  "en": "Flying",
+  "ja": "ひこう",
+  "zh-hans": "飞行",
+  "es-419": "Volador"
+ },
+ "double_to": [
+  "fighting",
+  "bug",
+  "grass"
+ ],
+ "half_to": [
+  "rock",
+  "steel",
+  "electric"
+ ],
+ "zero_to": []
+}

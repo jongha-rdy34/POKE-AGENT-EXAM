@@ -1,0 +1,35 @@
+{
+ "id": 1019,
+ "name": "hydrapple",
+ "names": {
+  "ja-hrkt": "カミツオロチ",
+  "ja-roma": "Kamitsuorochi",
+  "ko": "과미드라",
+  "zh-hant": "蜜集大蛇",
+  "fr": "Pomdorochi",
+  "de": "Hydrapfel",
+  "es": "Hydrapple",
+  "it": "Hydrapple",
+  "en": "Hydrapple",
+  "ja": "カミツオロチ",
+  "zh-hans": "蜜集大蛇",
+  "es-419": "Hydrapple"
+ },
+ "genus": {
+  "ja-hrkt": "りんごオロチポケモン",
+  "ko": "사과이무기포켓몬",
+  "fr": "Hydre Pomme",
+  "en": "Apple Hydra Pokémon",
+  "ja": "りんごオロチポケモン"
+ },
+ "flavor": {
+  "en": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed."
+ },
+ "varieties": [
+  {
+   "name": "hydrapple",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "442"
+}

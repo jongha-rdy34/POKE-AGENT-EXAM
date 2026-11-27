@@ -1,0 +1,17 @@
+{
+ "name": "pikachu-belle",
+ "form_name": "belle",
+ "names": {
+  "fr": "Pikachu Lady",
+  "de": "Lady Pikachu",
+  "en": "Pikachu Belle"
+ },
+ "form_names": {
+  "ja-hrkt": "マダム・ピカチュウ",
+  "fr": "Pikachu Lady",
+  "de": "Cosplayform",
+  "en": "Pikachu Belle",
+  "ja": "マダム・ピカチュウ"
+ },
+ "is_mega": false
+}

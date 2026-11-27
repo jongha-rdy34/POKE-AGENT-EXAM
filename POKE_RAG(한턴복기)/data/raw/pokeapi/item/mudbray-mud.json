@@ -1,0 +1,20 @@
+{
+ "name": "mudbray-mud",
+ "names": {
+  "ja-hrkt": "ドロバンコのどろ",
+  "ko": "머드나기의진흙",
+  "zh-hant": "泥驢仔的泥巴",
+  "fr": "Boue de Tiboudet",
+  "de": "Pampuli-Schlamm",
+  "es": "Lodo de Mudbray",
+  "it": "Fango di Mudbray",
+  "en": "Mudbray Mud",
+  "ja": "ドロバンコのどろ",
+  "zh-hans": "泥驴仔的泥巴"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

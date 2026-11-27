@@ -1,0 +1,28 @@
+{
+ "name": "lycanium-z--held",
+ "names": {
+  "ja-hrkt": "ルガルガンＺ",
+  "ko": "루가루암Z",
+  "zh-hant": "鬃岩狼人Ｚ",
+  "fr": "Lougarozélite",
+  "de": "Wolwerockium Z",
+  "es": "Lycanrostal Z",
+  "it": "Lycanrochium Z",
+  "en": "Lycanium Z",
+  "ja": "ルガルガンＺ",
+  "zh-hans": "鬃岩狼人Ｚ",
+  "es-419": "Lycanrostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour lycanium-z--held",
+  "en": "XXX new effect for lycanium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 루가루암의 스톤에지를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Lycanroc’s Stone Edge to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ルガルガンの ストーンエッジを Ｚワザに グレードアップする。"
+ }
+}

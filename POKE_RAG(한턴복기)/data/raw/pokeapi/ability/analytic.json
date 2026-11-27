@@ -1,0 +1,23 @@
+{
+ "name": "analytic",
+ "names": {
+  "ja-hrkt": "アナライズ",
+  "ko": "애널라이즈",
+  "zh-hant": "分析",
+  "fr": "Analyste",
+  "de": "Analyse",
+  "es": "Cálculo Final",
+  "it": "Ponderazione",
+  "en": "Analytic",
+  "ja": "アナライズ",
+  "zh-hans": "分析",
+  "es-419": "Cálculo Final"
+ },
+ "effect": {
+  "en": "Strengthens moves to 1.3× their power when moving last."
+ },
+ "flavor": {
+  "en": "Boosts the power of the Pokémon's move if it is the last to act that turn.",
+  "ko": "제일 마지막에 기술을 쓰면 기술의 위력이 올라간다."
+ }
+}

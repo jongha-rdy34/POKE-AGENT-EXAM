@@ -1,0 +1,46 @@
+{
+ "id": 181,
+ "name": "ampharos",
+ "names": {
+  "ja-hrkt": "デンリュウ",
+  "ja-roma": "Denryu",
+  "ko": "전룡",
+  "zh-hant": "電龍",
+  "fr": "Pharamp",
+  "de": "Ampharos",
+  "es": "Ampharos",
+  "it": "Ampharos",
+  "en": "Ampharos",
+  "ja": "デンリュウ",
+  "zh-hans": "电龙",
+  "es-419": "Ampharos"
+ },
+ "genus": {
+  "ja-hrkt": "ライトポケモン",
+  "ko": "라이트포켓몬",
+  "zh-hant": "燈寶可夢",
+  "fr": "Pokémon Lumière",
+  "de": "Leuchte",
+  "es": "Pokémon Luz",
+  "it": "Pokémon Luce",
+  "en": "Light Pokémon",
+  "ja": "ライトポケモン",
+  "zh-hans": "灯宝可梦",
+  "es-419": "Pokémon Luz"
+ },
+ "flavor": {
+  "en": "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
+  "ko": "꼬리는 강하고 밝게 빛난다. 뱃사람들의 길잡이로서 옛날부터 소중히 여겨져 왔다."
+ },
+ "varieties": [
+  {
+   "name": "ampharos",
+   "is_default": true
+  },
+  {
+   "name": "ampharos-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "89"
+}

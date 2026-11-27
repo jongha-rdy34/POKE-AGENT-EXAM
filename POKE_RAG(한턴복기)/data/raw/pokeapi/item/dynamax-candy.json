@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-candy",
+ "names": {
+  "ja-hrkt": "ダイマックスアメ",
+  "ko": "다이맥스사탕",
+  "zh-hant": "極巨糖果",
+  "fr": "Bonbon Dynamax",
+  "de": "Dynamax-Bonbon",
+  "es": "Caramelo Dinamax",
+  "it": "Caram. Dynamax",
+  "en": "Dynamax Candy",
+  "ja": "ダイマックスアメ",
+  "zh-hans": "极巨糖果",
+  "es-419": "Caramelo Dinamax"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 먹이면 다이맥스 레벨이 1 올라간다. 레벨이 높으면 HP가 늘어난다.",
+  "en": "A candy that is packed with energy. When consumed, it will raise the Dynamax Level of a single Pokémon by one. A higher level means higher HP when Dynamaxed.",
+  "ja": "エネルギーが つまった アメ。 与えると ダイマックスレベルが １あがる。レベルが 高いと ダイマックスの ＨＰが 増える。"
+ }
+}

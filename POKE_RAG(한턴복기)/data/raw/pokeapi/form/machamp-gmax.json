@@ -1,0 +1,17 @@
+{
+ "name": "machamp-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Mackogneur Gigamax",
+  "de": "Gigadynamax-Machomei",
+  "en": "Gigantamax Machamp"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

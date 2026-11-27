@@ -1,0 +1,37 @@
+{
+ "id": 988,
+ "name": "slither-wing",
+ "names": {
+  "ja-hrkt": "チヲハウハネ",
+  "ja-roma": "Chiwohauhane",
+  "ko": "땅을기는날개",
+  "zh-hant": "爬地翅",
+  "fr": "Rampe-Ailes",
+  "de": "Kriechflügel",
+  "es": "Reptalada",
+  "it": "Alirasenti",
+  "en": "Slither Wing",
+  "ja": "チヲハウハネ",
+  "zh-hans": "爬地翅",
+  "es-419": "Reptalada"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon somewhat resembles an ancient form of Volcarona that was introduced in a dubious magazine."
+ },
+ "varieties": [
+  {
+   "name": "slither-wing",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "519"
+}

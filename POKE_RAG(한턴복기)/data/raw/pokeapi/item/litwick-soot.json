@@ -1,0 +1,20 @@
+{
+ "name": "litwick-soot",
+ "names": {
+  "ja-hrkt": "ヒトモシのすす",
+  "ko": "불켜미의검댕",
+  "zh-hant": "燭光靈的煤灰",
+  "fr": "Suie de Funécire",
+  "de": "Lichtel-Ruß",
+  "es": "Hollín de Litwick",
+  "it": "Fuliggine di Litwick",
+  "en": "Litwick Soot",
+  "ja": "ヒトモシのすす",
+  "zh-hans": "烛光灵的煤灰"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,30 @@
+{
+ "name": "charti-berry",
+ "names": {
+  "ja-hrkt": "ヨロギのみ",
+  "ko": "루미열매",
+  "zh-hant": "草蠶果",
+  "fr": "Baie Charti",
+  "de": "Chiaribeere",
+  "es": "Baya Alcho",
+  "it": "Baccaciofo",
+  "en": "Charti Berry",
+  "ja": "ヨロギのみ",
+  "zh-hans": "草蚕果",
+  "es-419": "Baya Alcho"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Roche super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Rock-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Rock-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 바위 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの いわ技を 受けたとき 威力が 弱まる。"
+ }
+}

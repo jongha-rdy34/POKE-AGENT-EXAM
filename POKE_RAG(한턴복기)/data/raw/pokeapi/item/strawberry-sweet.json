@@ -1,0 +1,25 @@
+{
+ "name": "strawberry-sweet",
+ "names": {
+  "ja-hrkt": "いちごアメざいく",
+  "ko": "딸기사탕공예",
+  "zh-hant": "草莓糖飾",
+  "fr": "Fraise en Sucre",
+  "de": "Zucker-Erdbeere",
+  "es": "Confite Fresa",
+  "it": "Bonbonfragola",
+  "en": "Strawberry Sweet",
+  "ja": "いちごアメざいく",
+  "zh-hans": "草莓糖饰",
+  "es-419": "Confite Fresa"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "딸기 모양의 사탕공예. 마빌크에게 지니게 하면 빙빙 돌며 기뻐한다.",
+  "en": "A strawberry-shaped sweet. When a Milcery holds this, it will spin around happily.",
+  "ja": "いちごの 形を した アメ細工。 マホミルに 持たせてあげると くるくる 回って 喜ぶ。"
+ }
+}

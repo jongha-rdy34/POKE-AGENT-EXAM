@@ -1,0 +1,31 @@
+{
+ "name": "frenzy-plant",
+ "names": {
+  "ja-hrkt": "ハードプラント",
+  "ko": "하드플랜트",
+  "zh-hant": "瘋狂植物",
+  "fr": "Végé-Attaque",
+  "de": "Flora-Statue",
+  "es": "Planta Feroz",
+  "it": "Radicalbero",
+  "en": "Frenzy Plant",
+  "ja": "ハードプラント",
+  "zh-hans": "疯狂植物",
+  "es-419": "Planta Feroz"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 150,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User foregoes its next turn to recharge."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slams the target with the roots of an enormous tree. The user can't move on the next turn.",
+  "ko": "큰 나무로 상대를 힘껏 쳐서 공격한다. 다음 턴은 움직일 수 없게 된다."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "crown-pass",
+ "names": {
+  "ja-hrkt": "カンムリパス",
+  "ko": "왕관패스",
+  "zh-hant": "王冠車票",
+  "fr": "Pass Couronneige",
+  "de": "Kronenpass",
+  "es": "Pase Corona",
+  "it": "Pass Corona",
+  "en": "Crown Pass",
+  "ja": "カンムリパス",
+  "zh-hans": "王冠车票",
+  "es-419": "Pase Corona"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "왕관설원에 갈 수 있는 패스. 브래시마을역에 있는 역무원에게 보여주자.",
+  "en": "A pass to go to the Crown Tundra. Show it to the rail staff at Wedgehurst Station.",
+  "ja": "カンムリ雪原に 行くための パス。 ブラッシータウンの 駅で 駅員さんに 見せよう。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 437,
+ "name": "bronzong",
+ "names": {
+  "ja-hrkt": "ドータクン",
+  "ja-roma": "Dohtakun",
+  "ko": "동탁군",
+  "zh-hant": "青銅鐘",
+  "fr": "Archéodong",
+  "de": "Bronzong",
+  "es": "Bronzong",
+  "it": "Bronzong",
+  "en": "Bronzong",
+  "ja": "ドータクン",
+  "zh-hans": "青铜钟",
+  "es-419": "Bronzong"
+ },
+ "genus": {
+  "ja-hrkt": "どうたくポケモン",
+  "ko": "동탁포켓몬",
+  "zh-hant": "銅鐘寶可夢",
+  "fr": "Pokémon Clochebronze",
+  "de": "Bronzeglocken-Pokémon",
+  "es": "Pokémon Campana Bronce",
+  "it": "Pokémon Squibronzo",
+  "en": "Bronze Bell Pokémon",
+  "ja": "どうたくポケモン",
+  "zh-hans": "铜钟宝可梦",
+  "es-419": "Pokémon Campana Bronce"
+ },
+ "flavor": {
+  "en": "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times.",
+  "ko": "몸의 무늬 때문에 본래 가라르에는 없던 포켓몬이라고 생각하는 학자도 많다."
+ },
+ "varieties": [
+  {
+   "name": "bronzong",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "224"
+}

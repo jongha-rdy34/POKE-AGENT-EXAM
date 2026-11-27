@@ -1,0 +1,92 @@
+{
+ "id": 59,
+ "name": "arcanine",
+ "species": "arcanine",
+ "is_default": true,
+ "types": [
+  "fire"
+ ],
+ "stats": {
+  "hp": 90,
+  "attack": 110,
+  "defense": 80,
+  "special-attack": 100,
+  "special-defense": 80,
+  "speed": 95
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "flash-fire",
+   "hidden": false
+  },
+  {
+   "name": "justified",
+   "hidden": true
+  }
+ ],
+ "height": 19,
+ "weight": 1550,
+ "champions_moves": [
+  "aerial-ace",
+  "agility",
+  "bite",
+  "body-slam",
+  "bulldoze",
+  "burn-up",
+  "charm",
+  "close-combat",
+  "covet",
+  "crunch",
+  "curse",
+  "dig",
+  "double-edge",
+  "dragon-pulse",
+  "endure",
+  "extreme-speed",
+  "facade",
+  "fire-blast",
+  "fire-fang",
+  "fire-spin",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "giga-impact",
+  "heat-crash",
+  "heat-wave",
+  "helping-hand",
+  "howl",
+  "hyper-beam",
+  "hyper-voice",
+  "iron-head",
+  "iron-tail",
+  "morning-sun",
+  "outrage",
+  "overheat",
+  "play-rough",
+  "protect",
+  "psychic-fangs",
+  "raging-fury",
+  "rest",
+  "reversal",
+  "roar",
+  "round",
+  "scary-face",
+  "scorching-sands",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "solar-beam",
+  "substitute",
+  "sunny-day",
+  "temper-flare",
+  "thief",
+  "thrash",
+  "thunder-fang",
+  "wild-charge",
+  "will-o-wisp"
+ ]
+}

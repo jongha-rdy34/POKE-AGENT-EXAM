@@ -1,0 +1,33 @@
+{
+ "name": "repeat-ball",
+ "names": {
+  "ja-hrkt": "リピートボール",
+  "ko": "리피트볼",
+  "zh-hant": "重複球",
+  "fr": "Bis Ball",
+  "de": "Wiederball",
+  "es": "Acopio Ball",
+  "it": "Bis Ball",
+  "en": "Repeat Ball",
+  "ja": "リピートボール",
+  "zh-hans": "重复球",
+  "es-419": "Acopiobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 3× pour les Pokémon déjà capturés.",
+  "en": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that works especially well on a Pokémon species that has been caught before.",
+  "ko": "잡은 적이 있는 포켓몬을 잡기 쉬운 조금 특이한 볼.",
+  "ja": "捕まえたことの ある ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 806,
+ "name": "blacephalon",
+ "names": {
+  "ja-hrkt": "ズガドーン",
+  "ja-roma": "Zugadoon",
+  "ko": "두파팡",
+  "zh-hant": "砰頭小丑",
+  "fr": "Pierroteknik",
+  "de": "Kopplosio",
+  "es": "Blacephalon",
+  "it": "Blacephalon",
+  "en": "Blacephalon",
+  "ja": "ズガドーン",
+  "zh-hans": "砰头小丑",
+  "es-419": "Blacephalon"
+ },
+ "genus": {
+  "ja-hrkt": "はなびポケモン",
+  "ko": "불꽃놀이포켓몬",
+  "zh-hant": "煙火寶可夢",
+  "fr": "Pokémon Artificier",
+  "de": "Feuerwerks-Pokémon",
+  "es": "Pokémon Pirotecnia",
+  "it": "Pokémon Pirotecnico",
+  "en": "Fireworks Pokémon",
+  "ja": "はなびポケモン",
+  "zh-hans": "烟火宝可梦",
+  "es-419": "Pokémon Pirotecnia"
+ },
+ "flavor": {
+  "ko": "울트라홀에서 나타난 UB. 폭발로 상대를 놀라게 하고 그 틈에 생기를 빼앗는다.",
+  "en": "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality."
+ },
+ "varieties": [
+  {
+   "name": "blacephalon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "426"
+}

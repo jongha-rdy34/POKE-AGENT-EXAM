@@ -1,0 +1,15 @@
+{
+ "name": "maushold-family-of-four",
+ "form_name": "family-of-four",
+ "names": {
+  "fr": "Famignol Famille de Quatre",
+  "en": "Maushold (Family of Four)"
+ },
+ "form_names": {
+  "ja-hrkt": "４ひきかぞく",
+  "fr": "Famille de Quatre",
+  "en": "Family of Four",
+  "ja": "４ひきかぞく"
+ },
+ "is_mega": false
+}

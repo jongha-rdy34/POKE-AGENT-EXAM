@@ -1,0 +1,42 @@
+{
+ "id": 388,
+ "name": "grotle",
+ "names": {
+  "ja-hrkt": "ハヤシガメ",
+  "ja-roma": "Hayashigame",
+  "ko": "수풀부기",
+  "zh-hant": "樹林龜",
+  "fr": "Boskara",
+  "de": "Chelcarain",
+  "es": "Grotle",
+  "it": "Grotle",
+  "en": "Grotle",
+  "ja": "ハヤシガメ",
+  "zh-hans": "树林龟",
+  "es-419": "Grotle"
+ },
+ "genus": {
+  "ja-hrkt": "こだちポケモン",
+  "ko": "나무숲포켓몬",
+  "zh-hant": "樹叢寶可夢",
+  "fr": "Pokémon Bosquet",
+  "de": "Hain",
+  "es": "Pokémon Arboleda",
+  "it": "Pokémon Boschetto",
+  "en": "Grove Pokémon",
+  "ja": "こだちポケモン",
+  "zh-hans": "树丛宝可梦",
+  "es-419": "Pokémon Arboleda"
+ },
+ "flavor": {
+  "en": "Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious.",
+  "ko": "깨끗한 물이 솟아나는 장소를 알고 있어서 동료 포켓몬을 등에 태우고 그곳까지 데려다 준다."
+ },
+ "varieties": [
+  {
+   "name": "grotle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "203"
+}

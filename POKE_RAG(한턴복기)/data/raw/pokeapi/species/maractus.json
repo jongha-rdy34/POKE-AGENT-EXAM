@@ -1,0 +1,42 @@
+{
+ "id": 556,
+ "name": "maractus",
+ "names": {
+  "ja-hrkt": "マラカッチ",
+  "ja-roma": "Maracacchi",
+  "ko": "마라카치",
+  "zh-hant": "沙鈴仙人掌",
+  "fr": "Maracachi",
+  "de": "Maracamba",
+  "es": "Maractus",
+  "it": "Maractus",
+  "en": "Maractus",
+  "ja": "マラカッチ",
+  "zh-hans": "沙铃仙人掌",
+  "es-419": "Maractus"
+ },
+ "genus": {
+  "ja-hrkt": "サボテンポケモン",
+  "ko": "선인장포켓몬",
+  "zh-hant": "仙人掌寶可夢",
+  "fr": "Pokémon Cactus",
+  "de": "Kaktus-Pokémon",
+  "es": "Pokémon Cactus",
+  "it": "Pokémon Cactus",
+  "en": "Cactus Pokémon",
+  "ja": "サボテンポケモン",
+  "zh-hans": "仙人掌宝可梦",
+  "es-419": "Pokémon Cactus"
+ },
+ "flavor": {
+  "en": "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert.",
+  "ko": "일 년에 한 번 씨를 뿌린다. 꽃의 씨는 영양이 매우 풍부해 사막의 귀중한 식량이다."
+ },
+ "varieties": [
+  {
+   "name": "maractus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "283"
+}

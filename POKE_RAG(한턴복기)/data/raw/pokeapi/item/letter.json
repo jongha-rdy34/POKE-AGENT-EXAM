@@ -1,0 +1,28 @@
+{
+ "name": "letter",
+ "names": {
+  "ja-hrkt": "ダイゴへのてがみ",
+  "ko": "성호에게줄편지",
+  "zh-hant": "給大吾的信",
+  "fr": "Lettre à Pierre",
+  "de": "Brief an Troy",
+  "es": "Carta a Máximo",
+  "it": "Lettera",
+  "en": "Letter",
+  "ja": "ダイゴへのてがみ",
+  "zh-hans": "给大吾的信",
+  "es-419": "Carta a Máximo"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Une lettre pour Rochard de la part du président de la Devon SARL.",
+  "en": "A letter to Steven from the Devon Corp president."
+ },
+ "flavor": {
+  "en": "An extremely important letter to Steven from the president of Devon Corporation.",
+  "ko": "데봉사장이 맡긴 편지.",
+  "ja": "デボン社長から あずかった 手紙。"
+ }
+}

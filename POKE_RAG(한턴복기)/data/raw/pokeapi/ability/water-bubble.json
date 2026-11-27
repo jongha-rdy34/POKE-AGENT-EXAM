@@ -1,0 +1,23 @@
+{
+ "name": "water-bubble",
+ "names": {
+  "ja-hrkt": "すいほう",
+  "ko": "수포",
+  "zh-hant": "水泡",
+  "fr": "Aquabulle",
+  "de": "Wasserblase",
+  "es": "Pompa",
+  "it": "Bolladacqua",
+  "en": "Water Bubble",
+  "ja": "すいほう",
+  "zh-hans": "水泡",
+  "es-419": "Acuaburbuja"
+ },
+ "effect": {
+  "en": "Halves damage from Fire moves, doubles damage of Water moves, and prevents burns."
+ },
+ "flavor": {
+  "ko": "자신을 향하는 불꽃타입 기술의 위력을 떨어뜨린다. 화상을 입지 않는다.",
+  "en": "Lowers the power of Fire-type moves that hit the Pokémon and prevents it from being burned."
+ }
+}

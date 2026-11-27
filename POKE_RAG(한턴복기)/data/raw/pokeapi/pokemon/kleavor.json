@@ -1,0 +1,92 @@
+{
+ "id": 900,
+ "name": "kleavor",
+ "species": "kleavor",
+ "is_default": true,
+ "types": [
+  "bug",
+  "rock"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 135,
+  "defense": 95,
+  "special-attack": 45,
+  "special-defense": 70,
+  "speed": 85
+ },
+ "abilities": [
+  {
+   "name": "swarm",
+   "hidden": false
+  },
+  {
+   "name": "sheer-force",
+   "hidden": false
+  },
+  {
+   "name": "sharpness",
+   "hidden": true
+  }
+ ],
+ "height": 18,
+ "weight": 890,
+ "champions_moves": [
+  "acrobatics",
+  "aerial-ace",
+  "agility",
+  "air-cutter",
+  "air-slash",
+  "ancient-power",
+  "baton-pass",
+  "brick-break",
+  "brutal-swing",
+  "bug-bite",
+  "bug-buzz",
+  "close-combat",
+  "counter",
+  "defog",
+  "double-edge",
+  "double-hit",
+  "double-team",
+  "dual-wingbeat",
+  "endure",
+  "facade",
+  "feint",
+  "focus-energy",
+  "giga-impact",
+  "helping-hand",
+  "hyper-beam",
+  "light-screen",
+  "lunge",
+  "night-slash",
+  "pounce",
+  "protect",
+  "quick-attack",
+  "quick-guard",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "sandstorm",
+  "scary-face",
+  "skitter-smack",
+  "sleep-talk",
+  "smack-down",
+  "stealth-rock",
+  "stone-axe",
+  "stone-edge",
+  "struggle-bug",
+  "substitute",
+  "sunny-day",
+  "swords-dance",
+  "tailwind",
+  "thief",
+  "trailblaze",
+  "u-turn",
+  "vacuum-wave",
+  "x-scissor"
+ ]
+}

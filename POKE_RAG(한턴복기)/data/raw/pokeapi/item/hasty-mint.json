@@ -1,0 +1,25 @@
+{
+ "name": "hasty-mint",
+ "names": {
+  "ja-hrkt": "せっかちミント",
+  "ko": "성급민트",
+  "zh-hant": "急躁薄荷",
+  "fr": "Aromate Pressé",
+  "de": "Hastig-Minze",
+  "es": "Menta Activa",
+  "it": "Menta Lesta",
+  "en": "Hasty Mint",
+  "ja": "せっかちミント",
+  "zh-hans": "急躁薄荷",
+  "es-419": "Menta Activa"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 스피드가 오르기 쉬워지지만 방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Speed will grow more easily, but its Defense will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 素早さが 上がりやすく なるが 防御は 上がりにくくなる ミント。"
+ }
+}

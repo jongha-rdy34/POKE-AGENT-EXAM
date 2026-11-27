@@ -1,0 +1,42 @@
+{
+ "id": 224,
+ "name": "octillery",
+ "names": {
+  "ja-hrkt": "オクタン",
+  "ja-roma": "Okutank",
+  "ko": "대포무노",
+  "zh-hant": "章魚桶",
+  "fr": "Octillery",
+  "de": "Octillery",
+  "es": "Octillery",
+  "it": "Octillery",
+  "en": "Octillery",
+  "ja": "オクタン",
+  "zh-hans": "章鱼桶",
+  "es-419": "Octillery"
+ },
+ "genus": {
+  "ja-hrkt": "ふんしゃポケモン",
+  "ko": "분사포켓몬",
+  "zh-hant": "噴射寶可夢",
+  "fr": "Pokémon Jet",
+  "de": "Hochdruck-Pokémon",
+  "es": "Pokémon Reactor",
+  "it": "Pokémon Jet",
+  "en": "Jet Pokémon",
+  "ja": "ふんしゃポケモン",
+  "zh-hans": "喷射宝可梦",
+  "es-419": "Pokémon Reactor"
+ },
+ "flavor": {
+  "en": "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter.",
+  "ko": "머리가 돌처럼 단단하다. 빨판이 붙어 있는 다리를 휘감아 끊임없이 머리로 세게 때린다."
+ },
+ "varieties": [
+  {
+   "name": "octillery",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "114"
+}

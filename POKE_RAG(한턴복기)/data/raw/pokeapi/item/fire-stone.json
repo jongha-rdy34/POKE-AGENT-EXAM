@@ -1,0 +1,30 @@
+{
+ "name": "fire-stone",
+ "names": {
+  "ja-hrkt": "ほのおのいし",
+  "ko": "불꽃의돌",
+  "zh-hant": "火之石",
+  "fr": "Pierre Feu",
+  "de": "Feuerstein",
+  "es": "Piedra Fuego",
+  "it": "Pietrafocaia",
+  "en": "Fire Stone",
+  "ja": "ほのおのいし",
+  "zh-hans": "火之石",
+  "es-419": "Piedra Fuego"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Évoli en Pyroli, un Caninos en Arcanin, un Flamajou en Flamoutan, ou un Goupix en Feunard.",
+  "en": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. The stone has a fiery orange heart.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 주황색을 띠고 있다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 だいだい色を している。"
+ }
+}

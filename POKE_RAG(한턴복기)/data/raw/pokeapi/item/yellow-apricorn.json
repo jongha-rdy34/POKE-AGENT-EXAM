@@ -1,0 +1,28 @@
+{
+ "name": "yellow-apricorn",
+ "names": {
+  "ja-hrkt": "きぼんぐり",
+  "ko": "노랑규토리",
+  "zh-hant": "黃球果",
+  "fr": "Noigrume Jaune",
+  "de": "Aprikoko Gelb",
+  "es": "Bonguri Amarillo",
+  "it": "Ghicocca Gialla",
+  "en": "Yellow Apricorn",
+  "ja": "きぼんぐり",
+  "zh-hans": "黄球果",
+  "es-419": "Bonguri Amarillo"
+ },
+ "category": "apricorn-box",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour fabriquer une Lune Ball.",
+  "en": "Used to make a Moon Ball."
+ },
+ "flavor": {
+  "en": "A yellow Apricorn. It has an invigorating scent.",
+  "ko": "노란색의 규토리. 산뜻한 향기가 난다.",
+  "ja": "きいろの ぼんぐり。 さわやかな かおりが する。"
+ }
+}

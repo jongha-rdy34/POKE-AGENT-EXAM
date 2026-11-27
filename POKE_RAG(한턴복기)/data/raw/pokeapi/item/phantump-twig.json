@@ -1,0 +1,20 @@
+{
+ "name": "phantump-twig",
+ "names": {
+  "ja-hrkt": "ボクレーのえだ",
+  "ko": "나목령의가지",
+  "zh-hant": "小木靈的枝條",
+  "fr": "Branche de Brocélôme",
+  "de": "Paragoni-Zweig",
+  "es": "Rama de Phantump",
+  "it": "Ramo di Phantump",
+  "en": "Phantump Twig",
+  "ja": "ボクレーのえだ",
+  "zh-hans": "小木灵的枝条"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

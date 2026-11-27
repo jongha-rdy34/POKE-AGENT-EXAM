@@ -1,0 +1,28 @@
+{
+ "name": "shock-drive",
+ "names": {
+  "ja-hrkt": "イナズマカセット",
+  "ko": "번개카세트",
+  "zh-hant": "閃電卡帶",
+  "fr": "Module Choc",
+  "de": "Blitzmodul",
+  "es": "FulgoROM",
+  "it": "Voltmodulo",
+  "en": "Shock Drive",
+  "ja": "イナズマカセット",
+  "zh-hans": "闪电卡带",
+  "es-419": "FulgoROM"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Donne à Genesect un Techno-Buster jaune, de type Électrik.",
+  "en": "Grants Genesect a yellow, Electric-type Techno Blast."
+ },
+ "flavor": {
+  "en": "A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Electric type.",
+  "ko": "게노세크트에게 지니게 하면 테크노버스터라는 기술이 전기타입으로 바뀌는 카세트.",
+  "ja": "ゲノセクトに 持たせると テクノバスターという 技が でんきタイプになる カセット。"
+ }
+}

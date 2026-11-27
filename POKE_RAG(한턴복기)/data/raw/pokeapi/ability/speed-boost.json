@@ -1,0 +1,23 @@
+{
+ "name": "speed-boost",
+ "names": {
+  "ja-hrkt": "かそく",
+  "ko": "가속",
+  "zh-hant": "加速",
+  "fr": "Turbo",
+  "de": "Temposchub",
+  "es": "Impulso",
+  "it": "Acceleratore",
+  "en": "Speed Boost",
+  "ja": "かそく",
+  "zh-hans": "加速",
+  "es-419": "Impulso"
+ },
+ "effect": {
+  "en": "Raises Speed one stage after each turn."
+ },
+ "flavor": {
+  "en": "The Pokémon's Speed stat is boosted every turn.",
+  "ko": "매 턴 스피드가 올라간다."
+ }
+}

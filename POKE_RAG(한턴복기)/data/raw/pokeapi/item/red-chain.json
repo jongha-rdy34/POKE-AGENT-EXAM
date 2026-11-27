@@ -1,0 +1,28 @@
+{
+ "name": "red-chain",
+ "names": {
+  "ja-hrkt": "あかいくさり",
+  "ko": "빨강쇠사슬",
+  "zh-hant": "紅色鎖鏈",
+  "fr": "Chaîne Rouge",
+  "de": "Rote Kette",
+  "es": "Cadena Roja",
+  "it": "Rossocatena",
+  "en": "Red Chain",
+  "ja": "あかいくさり",
+  "zh-hans": "红色锁链",
+  "es-419": "Cadena Roja"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour contrôler Palkia et Dialga.",
+  "en": "Used to bind Palkia and Dialga."
+ },
+ "flavor": {
+  "en": "A mythical chain that is said to link the Legendary Pokémon that created the Sinnoh region.",
+  "ko": "신오지방을 만들어 낸 전설의 포켓몬과 이어진다고 전해지는 신화의 도구.",
+  "ja": "シンオウ地方を うみだした 伝説の ポケモンを つなぐと いわれる 神話の 道具。"
+ }
+}

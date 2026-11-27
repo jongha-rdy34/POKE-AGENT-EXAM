@@ -1,0 +1,89 @@
+{
+ "id": 763,
+ "name": "tsareena",
+ "species": "tsareena",
+ "is_default": true,
+ "types": [
+  "grass"
+ ],
+ "stats": {
+  "hp": 72,
+  "attack": 120,
+  "defense": 98,
+  "special-attack": 50,
+  "special-defense": 98,
+  "speed": 72
+ },
+ "abilities": [
+  {
+   "name": "leaf-guard",
+   "hidden": false
+  },
+  {
+   "name": "queenly-majesty",
+   "hidden": false
+  },
+  {
+   "name": "sweet-veil",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 214,
+ "champions_moves": [
+  "acrobatics",
+  "acupressure",
+  "aromatic-mist",
+  "bounce",
+  "bullet-seed",
+  "charm",
+  "dazzling-gleam",
+  "draining-kiss",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "flail",
+  "fling",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "helping-hand",
+  "high-jump-kick",
+  "hyper-beam",
+  "knock-off",
+  "leaf-storm",
+  "light-screen",
+  "low-kick",
+  "low-sweep",
+  "mega-kick",
+  "payback",
+  "petal-blizzard",
+  "play-rough",
+  "power-whip",
+  "protect",
+  "rapid-spin",
+  "reflect",
+  "rest",
+  "round",
+  "seed-bomb",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "solar-blade",
+  "substitute",
+  "sunny-day",
+  "swagger",
+  "sweet-scent",
+  "synthesis",
+  "taunt",
+  "teeter-dance",
+  "trailblaze",
+  "triple-axel",
+  "trop-kick",
+  "u-turn",
+  "zen-headbutt"
+ ]
+}

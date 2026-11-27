@@ -1,0 +1,31 @@
+{
+ "name": "soak",
+ "names": {
+  "ja-hrkt": "みずびたし",
+  "ko": "물붓기",
+  "zh-hant": "浸水",
+  "fr": "Détrempage",
+  "de": "Überflutung",
+  "es": "Empapar",
+  "it": "Inondazione",
+  "en": "Soak",
+  "ja": "みずびたし",
+  "zh-hans": "浸水",
+  "es-419": "Empapar"
+ },
+ "type": "water",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Changes the target’s type to Water."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user shoots a torrent of water that changes the target's type to Water.",
+  "ko": "많은 물을 끼얹어서 상대를 물타입으로 바꾼다."
+ }
+}

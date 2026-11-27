@@ -1,0 +1,42 @@
+{
+ "id": 543,
+ "name": "venipede",
+ "names": {
+  "ja-hrkt": "フシデ",
+  "ja-roma": "Fushide",
+  "ko": "마디네",
+  "zh-hant": "百足蜈蚣",
+  "fr": "Venipatte",
+  "de": "Toxiped",
+  "es": "Venipede",
+  "it": "Venipede",
+  "en": "Venipede",
+  "ja": "フシデ",
+  "zh-hans": "百足蜈蚣",
+  "es-419": "Venipede"
+ },
+ "genus": {
+  "ja-hrkt": "ムカデポケモン",
+  "ko": "지네포켓몬",
+  "zh-hant": "蜈蚣寶可夢",
+  "fr": "Pokémon Chilopode",
+  "de": "Tausendfüßer-Pokémon",
+  "es": "Pokémon Ciempiés",
+  "it": "Pokémon Centipede",
+  "en": "Centipede Pokémon",
+  "ja": "ムカデポケモン",
+  "zh-hans": "蜈蚣宝可梦",
+  "es-419": "Pokémon Ciempiés"
+ },
+ "flavor": {
+  "en": "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out.",
+  "ko": "이빨에 맹독을 지녔다. 먹을 수 있는 먹이를 발견하면 앞뒤를 가리지 않고 덤벼든다."
+ },
+ "varieties": [
+  {
+   "name": "venipede",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "277"
+}

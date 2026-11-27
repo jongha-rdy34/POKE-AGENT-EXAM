@@ -1,0 +1,28 @@
+{
+ "name": "enigma-stone",
+ "names": {
+  "ja-hrkt": "なぞのすいしょう",
+  "ko": "수수께끼의수정",
+  "zh-hant": "謎之水晶",
+  "fr": "Mystécristal",
+  "de": "Mytokristall",
+  "es": "Misticristal",
+  "it": "Misticristal",
+  "en": "Enigma Stone",
+  "ja": "なぞのすいしょう",
+  "zh-hans": "谜之水晶",
+  "es-419": "Misticristal"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "S: Invoque Latias H: Invoque Latios.",
+  "en": "S: Summons Latias H: Summons Latios."
+ },
+ "flavor": {
+  "en": "A crystal ball that was excavated from the ground. It’s a very beautiful stone that is covered with bits of rock and earth.",
+  "ko": "땅에서 파 올린 수정구슬. 바위랑 흙으로 뒤덮여 있지만 매우 아름답다.",
+  "ja": "地面から 掘りだされた すいしょうだま。いわと つちで おおわれているが とても きれい。"
+ }
+}

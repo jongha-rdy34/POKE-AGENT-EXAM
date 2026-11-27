@@ -1,0 +1,215 @@
+{
+ "request": {
+  "my_form_key": "garchomp",
+  "opp_form_key": "dragonite",
+  "actor": "opp",
+  "move_key": "outrage",
+  "actual": {
+   "kind": "ko"
+  }
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "상대가 고집 달인의띠면 16번 중 12번 한 방이에요",
+    "summary": "계산상, 상대가 A32 · 고집 · 달인의띠일 때 16번 중 12번 한 방이에요. 또는 상대가 A32 · 노력 · 달인의띠일 때 16번 중 4번 한 방이에요. 실제 랭크배틀 통계 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 12번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요(가장 그럴듯한 조건에서 16번 중 16번).",
+    "calc": {
+     "rows": [
+      {
+       "label": "A32 · 고집 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "pokedb M-6 이 포켓몬 달인의띠 채용 30%",
+        "Smogon 달인의띠 채용 2%"
+       ],
+       "k": 12,
+       "pct": 75.0,
+       "damage": [
+        94.9,
+        114.0
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 달인의띠",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "pokedb M-6 이 포켓몬 달인의띠 채용 30%",
+        "Smogon 달인의띠 채용 2%"
+       ],
+       "k": 4,
+       "pct": 25.0,
+       "damage": [
+        87.0,
+        103.7
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 생명의구슬 채용 13%"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        102.8,
+        123.3
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 생명의구슬",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 생명의구슬 채용 13%"
+       ],
+       "k": 10,
+       "pct": 62.5,
+       "damage": [
+        94.4,
+        112.6
+       ]
+      },
+      {
+       "label": "A32 · 고집 · 용의이빨",
+       "in_champions": true,
+       "same_items": [
+        "용의플레이트"
+       ],
+       "usage": [
+        "Smogon 용의이빨 채용 5%"
+       ],
+       "k": 13,
+       "pct": 81.3,
+       "damage": [
+        95.8,
+        114.4
+       ]
+      },
+      {
+       "label": "A32 · 노력 · 용의이빨",
+       "in_champions": true,
+       "same_items": [
+        "용의플레이트"
+       ],
+       "usage": [
+        "Smogon 용의이빨 채용 5%"
+       ],
+       "k": 5,
+       "pct": 31.3,
+       "damage": [
+        87.4,
+        104.2
+       ]
+      }
+     ],
+     "more": 3,
+     "near": [],
+     "assumed": "상대 SP A32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "H32 B32 · 장난꾸러기 · 특성 모래숨기 · 구애스카프",
+     "headline_row": 0
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): H32 B32 · 장난꾸러기 · 구애스카프 · 특성 모래숨기"
+      ],
+      "causes": [
+       {
+        "key": "expert-belt",
+        "label": "달인의띠",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 12번",
+        "rolls_k": 12,
+        "conditions": [
+         "고집 · H2 A32 B32 · 특성 정신력",
+         "고집 · H2 A32 B32 · 특성 멀티스케일",
+         "고집 · H2 A32 C32 · 특성 정신력"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): H2 A32 S32 · 명랑 · 구애스카프 · 특성 까칠한피부"
+      ],
+      "causes": [
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 멀티스케일",
+         "고집 · H1 A32 D1 S32 · 특성 멀티스케일",
+         "명랑 · H2 A32 S32 · 특성 멀티스케일"
+        ]
+       },
+       {
+        "key": "life-orb",
+        "label": "생명의구슬",
+        "rank": 2,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 멀티스케일",
+         "고집 · H1 A32 D1 S32 · 특성 멀티스케일",
+         "명랑 · H2 A32 S32 · 특성 멀티스케일"
+        ]
+       },
+       {
+        "key": "silk-scarf",
+        "label": "실크스카프",
+        "rank": 3,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "고집 · H2 A32 S32 · 특성 멀티스케일",
+         "고집 · H1 A32 D1 S32 · 특성 멀티스케일",
+         "명랑 · H2 A32 S32 · 특성 멀티스케일"
+        ]
+       }
+      ]
+     }
+    },
+    "differs": true,
+    "diff_reason": "1순위 원인이 다름: expert-belt / 이 타격에 영향 없는 도구(도구 없음 포함) (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)",
+    "unsupported": [],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "sample-ko"
+   }
+  }
+ ]
+}

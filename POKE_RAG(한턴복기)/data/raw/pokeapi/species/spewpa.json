@@ -1,0 +1,42 @@
+{
+ "id": 665,
+ "name": "spewpa",
+ "names": {
+  "ja-hrkt": "コフーライ",
+  "ja-roma": "Kofuurai",
+  "ko": "분떠도리",
+  "zh-hant": "粉蝶蛹",
+  "fr": "Pérégrain",
+  "de": "Puponcho",
+  "es": "Spewpa",
+  "it": "Spewpa",
+  "en": "Spewpa",
+  "ja": "コフーライ",
+  "zh-hans": "粉蝶蛹",
+  "es-419": "Spewpa"
+ },
+ "genus": {
+  "ja-hrkt": "こなふきポケモン",
+  "ko": "가루뿜기포켓몬",
+  "zh-hant": "噴粉寶可夢",
+  "fr": "Pokémon Exhalécaille",
+  "de": "Puderinsekt",
+  "es": "Pokémon Tiraescamas",
+  "it": "Pokémon Tirascaglie",
+  "en": "Scatterdust Pokémon",
+  "ja": "こなふきポケモン",
+  "zh-hans": "喷粉宝可梦",
+  "es-419": "Pokémon Tiraescamas"
+ },
+ "flavor": {
+  "ko": "단단한 몸은 새포켓몬의 부리로도 상처 하나 입지 않는다. 가루를 뿌려서 방어한다.",
+  "en": "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder."
+ },
+ "varieties": [
+  {
+   "name": "spewpa",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "342"
+}

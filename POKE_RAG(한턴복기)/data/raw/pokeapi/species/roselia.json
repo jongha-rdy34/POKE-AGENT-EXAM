@@ -1,0 +1,42 @@
+{
+ "id": 315,
+ "name": "roselia",
+ "names": {
+  "ja-hrkt": "ロゼリア",
+  "ja-roma": "Roselia",
+  "ko": "로젤리아",
+  "zh-hant": "毒薔薇",
+  "fr": "Rosélia",
+  "de": "Roselia",
+  "es": "Roselia",
+  "it": "Roselia",
+  "en": "Roselia",
+  "ja": "ロゼリア",
+  "zh-hans": "毒蔷薇",
+  "es-419": "Roselia"
+ },
+ "genus": {
+  "ja-hrkt": "いばらポケモン",
+  "ko": "가시포켓몬",
+  "zh-hant": "荊棘寶可夢",
+  "fr": "Pokémon Épine",
+  "de": "Dorn-Pokémon",
+  "es": "Pokémon Espina",
+  "it": "Pokémon Spina",
+  "en": "Thorn Pokémon",
+  "ja": "いばらポケモン",
+  "zh-hans": "荆棘宝可梦",
+  "es-419": "Pokémon Espina"
+ },
+ "flavor": {
+  "en": "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel.",
+  "ko": "오른손과 왼손으로 2종류의 독을 구별하여 공격한다. 향기가 강할수록 기운이 넘친다."
+ },
+ "varieties": [
+  {
+   "name": "roselia",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "158"
+}

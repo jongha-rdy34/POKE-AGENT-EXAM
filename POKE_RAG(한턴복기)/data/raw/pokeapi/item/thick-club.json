@@ -1,0 +1,30 @@
+{
+ "name": "thick-club",
+ "names": {
+  "ja-hrkt": "ふといホネ",
+  "ko": "굵은뼈",
+  "zh-hant": "粗骨頭",
+  "fr": "Masse Os",
+  "de": "Kampfknochen",
+  "es": "Hueso Grueso",
+  "it": "Ossospesso",
+  "en": "Thick Club",
+  "ja": "ふといホネ",
+  "zh-hans": "粗骨头",
+  "es-419": "Hueso Grueso"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Double l'Attaque d'Osselait et Ossatueur.",
+  "en": "Doubles Cubone or Marowak’s Attack."
+ },
+ "flavor": {
+  "en": "An item to be held by Cubone or Marowak. It’s a hard bone of some sort that boosts the Attack stat.",
+  "ko": "무언가의 단단한 뼈. 탕구리 혹은 텅구리에게 지니게 하면 공격이 올라간다.",
+  "ja": "なにかの 硬い ホネ。 カラカラ または ガラガラに 持たせると 攻撃が あがる。"
+ }
+}

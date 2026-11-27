@@ -1,0 +1,28 @@
+{
+ "name": "soot-sack",
+ "names": {
+  "ja-hrkt": "はいぶくろ",
+  "ko": "재주머니",
+  "zh-hant": "集灰袋",
+  "fr": "Sac à Suie",
+  "de": "Aschetasche",
+  "es": "Saco Hollín",
+  "it": "Sacco cenere",
+  "en": "Soot Sack",
+  "ja": "はいぶくろ",
+  "zh-hans": "集灰袋",
+  "es-419": "Saco Hollín"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les cendres volcaniques de la Route 113.",
+  "en": "Stores volcanic ash from Route 113."
+ },
+ "flavor": {
+  "en": "A sack used to gather and hold volcanic ash.",
+  "ko": "쌓인 화산재를 모으기 위한 주머니.",
+  "ja": "つもった かざんばいを 集めるための ふくろ。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "photo-album",
+ "names": {
+  "ja-hrkt": "フォトアルバム",
+  "ko": "포토앨범",
+  "zh-hant": "相簿",
+  "fr": "Album Photo",
+  "de": "Fotoalbum",
+  "es": "Álbum",
+  "it": "Album",
+  "en": "Photo Album",
+  "ja": "フォトアルバム",
+  "zh-hans": "相册",
+  "es-419": "Álbum"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Sauvegarde les photos de votre aventure.",
+  "en": "Stores photos from your adventure."
+ },
+ "flavor": {
+  "en": "A nice photo album for storing all the photos taken along your adventure.",
+  "ko": "모험 중에 촬영한 기념사진을 보관하는 앨범.",
+  "ja": "冒険中に 撮影した 記念写真を 飾る アルバム。"
+ }
+}

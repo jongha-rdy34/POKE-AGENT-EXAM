@@ -1,0 +1,23 @@
+{
+ "name": "reckless",
+ "names": {
+  "ja-hrkt": "すてみ",
+  "ko": "이판사판",
+  "zh-hant": "捨身",
+  "fr": "Téméraire",
+  "de": "Achtlos",
+  "es": "Audaz",
+  "it": "Temerarietà",
+  "en": "Reckless",
+  "ja": "すてみ",
+  "zh-hans": "舍身",
+  "es-419": "Audaz"
+ },
+ "effect": {
+  "en": "Strengthens recoil moves to 1.2× their power."
+ },
+ "flavor": {
+  "en": "Powers up moves that have recoil damage.",
+  "ko": "반동 데미지를 받는 기술의 위력이 올라간다."
+ }
+}

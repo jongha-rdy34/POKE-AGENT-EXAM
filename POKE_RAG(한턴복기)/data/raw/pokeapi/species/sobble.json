@@ -1,0 +1,42 @@
+{
+ "id": 816,
+ "name": "sobble",
+ "names": {
+  "ja-hrkt": "メッソン",
+  "ja-roma": "Messon",
+  "ko": "울머기",
+  "zh-hant": "淚眼蜥",
+  "fr": "Larméléon",
+  "de": "Memmeon",
+  "es": "Sobble",
+  "it": "Sobble",
+  "en": "Sobble",
+  "ja": "メッソン",
+  "zh-hans": "泪眼蜥",
+  "es-419": "Sobble"
+ },
+ "genus": {
+  "ja-hrkt": "みずとかげポケモン",
+  "ko": "물도마뱀포켓몬",
+  "zh-hant": "水蜥寶可夢",
+  "fr": "Pokémon Lézard’Eau",
+  "de": "Wasserechsen-Pokémon",
+  "es": "Pokémon Acuartija",
+  "it": "Pokémon Acquacertola",
+  "en": "Water Lizard Pokémon",
+  "ja": "みずとかげポケモン",
+  "zh-hans": "水蜥宝可梦",
+  "es-419": "Pokémon Acuartija"
+ },
+ "flavor": {
+  "ko": "젖으면 피부색이 변한다. 위장한 것처럼 모습이 보이지 않게 된다.",
+  "en": "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged."
+ },
+ "varieties": [
+  {
+   "name": "sobble",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "432"
+}

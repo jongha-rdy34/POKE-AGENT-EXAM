@@ -1,0 +1,42 @@
+{
+ "id": 284,
+ "name": "masquerain",
+ "names": {
+  "ja-hrkt": "アメモース",
+  "ja-roma": "Amemoth",
+  "ko": "비나방",
+  "zh-hant": "雨翅蛾",
+  "fr": "Maskadra",
+  "de": "Maskeregen",
+  "es": "Masquerain",
+  "it": "Masquerain",
+  "en": "Masquerain",
+  "ja": "アメモース",
+  "zh-hans": "雨翅蛾",
+  "es-419": "Masquerain"
+ },
+ "genus": {
+  "ja-hrkt": "めだまポケモン",
+  "ko": "안구포켓몬",
+  "zh-hant": "眼珠寶可夢",
+  "fr": "Pokémon Boule Œil",
+  "de": "Auge",
+  "es": "Pokémon Globocular",
+  "it": "Pokémon Occhi",
+  "en": "Eyeball Pokémon",
+  "ja": "めだまポケモン",
+  "zh-hans": "眼珠宝可梦",
+  "es-419": "Pokémon Globocular"
+ },
+ "flavor": {
+  "en": "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
+  "ko": "얇은 날개처럼 생긴 더듬이는 습기를 머금기 쉽다. 비가 오는 날은 나무 구멍 등에서 얌전히 지낸다."
+ },
+ "varieties": [
+  {
+   "name": "masquerain",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "141"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm223",
+ "names": {
+  "ko": "기술머신223",
+  "zh-hant": "招式學習器２２３",
+  "fr": "CT223",
+  "de": "TM223",
+  "es": "MT223",
+  "it": "MT223",
+  "en": "TM223",
+  "ja": "わざマシン２２３",
+  "zh-hans": "招式学习器２２３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

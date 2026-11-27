@@ -1,0 +1,42 @@
+{
+ "id": 277,
+ "name": "swellow",
+ "names": {
+  "ja-hrkt": "オオスバメ",
+  "ja-roma": "Ohsubame",
+  "ko": "스왈로",
+  "zh-hant": "大王燕",
+  "fr": "Hélédelle",
+  "de": "Schwalboss",
+  "es": "Swellow",
+  "it": "Swellow",
+  "en": "Swellow",
+  "ja": "オオスバメ",
+  "zh-hans": "大王燕",
+  "es-419": "Swellow"
+ },
+ "genus": {
+  "ja-hrkt": "ツバメポケモン",
+  "ko": "제비포켓몬",
+  "zh-hant": "燕子寶可夢",
+  "fr": "Pokémon Hirondelle",
+  "de": "Schwalbe",
+  "es": "Pokémon Buche",
+  "it": "Pokémon Rondine",
+  "en": "Swallow Pokémon",
+  "ja": "ツバメポケモン",
+  "zh-hans": "燕子宝可梦",
+  "es-419": "Pokémon Buche"
+ },
+ "flavor": {
+  "en": "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
+  "ko": "윤이 나는 깃털의 손질을 게을리하지 않는다. 스왈로 두 마리가 모이면 반드시 서로의 깃털을 깨끗이 손질한다."
+ },
+ "varieties": [
+  {
+   "name": "swellow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "138"
+}

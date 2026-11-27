@@ -1,0 +1,50 @@
+{
+ "id": 845,
+ "name": "cramorant",
+ "names": {
+  "ja-hrkt": "ウッウ",
+  "ja-roma": "Uu",
+  "ko": "윽우지",
+  "zh-hant": "古月鳥",
+  "fr": "Nigosier",
+  "de": "Urgl",
+  "es": "Cramorant",
+  "it": "Cramorant",
+  "en": "Cramorant",
+  "ja": "ウッウ",
+  "zh-hans": "古月鸟",
+  "es-419": "Cramorant"
+ },
+ "genus": {
+  "ja-hrkt": "うのみポケモン",
+  "ko": "그대로삼키기포켓몬",
+  "zh-hant": "一口吞寶可夢",
+  "fr": "Pokémon Avaltouron",
+  "de": "Schling-Pokémon",
+  "es": "Pokémon Tragón",
+  "it": "Pokémon Inghiottone",
+  "en": "Gulp Pokémon",
+  "ja": "うのみポケモン",
+  "zh-hans": "一口吞宝可梦",
+  "es-419": "Pokémon Tragón"
+ },
+ "flavor": {
+  "ko": "먹보이다. 먹이인 찌로꼬치를 통째로 삼키지만 가끔 실수로 다른 포켓몬을 먹어버린다.",
+  "en": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey."
+ },
+ "varieties": [
+  {
+   "name": "cramorant",
+   "is_default": true
+  },
+  {
+   "name": "cramorant-gulping",
+   "is_default": false
+  },
+  {
+   "name": "cramorant-gorging",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "444"
+}

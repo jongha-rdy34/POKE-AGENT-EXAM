@@ -1,0 +1,23 @@
+{
+ "name": "magic-guard",
+ "names": {
+  "ja-hrkt": "マジックガード",
+  "ko": "매직가드",
+  "zh-hant": "魔法防守",
+  "fr": "Garde Magik",
+  "de": "Magieschild",
+  "es": "Muro Mágico",
+  "it": "Magicscudo",
+  "en": "Magic Guard",
+  "ja": "マジックガード",
+  "zh-hans": "魔法防守",
+  "es-419": "Muro Mágico"
+ },
+ "effect": {
+  "en": "Protects against damage not directly caused by a move."
+ },
+ "flavor": {
+  "en": "The Pokémon only takes damage from attacks.",
+  "ko": "공격 이외에는 데미지를 입지 않는다."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "style-card",
+ "names": {
+  "ja-hrkt": "おしゃれカード",
+  "ko": "멋쟁이카드",
+  "zh-hant": "時尚名人卡",
+  "fr": "Carte Élégance",
+  "de": "Style-Karte",
+  "es": "Tarjeta Chic",
+  "it": "Tessera chic",
+  "en": "Style Card",
+  "ja": "おしゃれカード",
+  "zh-hans": "时尚名人卡",
+  "es-419": "Tarjeta Chic"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "지니고 있으면 부티크에서 살 수 있는 품목이 늘어나고, 헤어살롱에서는 고를 수 있는 헤어스타일이 늘어나는 카드.",
+  "en": "A card that increases the selection in boutiques and hair salons.",
+  "ja": "持っていると ブティックで 買える 品物が 増える。 ヘアサロンでは 選べる 髪型が 増える カード。"
+ }
+}

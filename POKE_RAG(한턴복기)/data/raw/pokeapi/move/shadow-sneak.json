@@ -1,0 +1,31 @@
+{
+ "name": "shadow-sneak",
+ "names": {
+  "ja-hrkt": "かげうち",
+  "ko": "야습",
+  "zh-hant": "影子偷襲",
+  "fr": "Ombre Portée",
+  "de": "Schattenstoß",
+  "es": "Sombra Vil",
+  "it": "Furtivombra",
+  "en": "Shadow Sneak",
+  "ja": "かげうち",
+  "zh-hans": "影子偷袭",
+  "es-419": "Sombra Vil"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user extends its shadow and attacks the target from behind. This move always goes first.",
+  "ko": "그림자를 늘려 상대의 배후에서 공격한다. 반드시 선제공격할 수 있다."
+ }
+}

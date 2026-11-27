@@ -1,0 +1,31 @@
+{
+ "name": "wave-incense",
+ "names": {
+  "ja-hrkt": "さざなみのおこう",
+  "ko": "잔물결향로",
+  "zh-hant": "漣漪薰香",
+  "fr": "Encens Vague",
+  "de": "Wellenrauch",
+  "es": "Incienso Acua",
+  "it": "Ondaroma",
+  "en": "Wave Incense",
+  "ja": "さざなみのおこう",
+  "zh-hans": "涟漪薰香",
+  "es-419": "Incienso Acua"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Eau du porteur infligent 20% de dégâts supplémentaires. Reproduction: Démanta engendre un Œuf de Babimanta.",
+  "en": "Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This incense has a curious aroma that boosts the power of Water-type moves.",
+  "ko": "이상한 향기의 향로. 지니게 하면 물타입 기술의 위력이 올라간다.",
+  "ja": "不思議な 香りの 御香。 持たせると みずタイプの 技の 威力が あがる。"
+ }
+}

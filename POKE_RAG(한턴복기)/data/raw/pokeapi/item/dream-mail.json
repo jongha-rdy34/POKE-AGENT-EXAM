@@ -1,0 +1,22 @@
+{
+ "name": "dream-mail",
+ "names": {
+  "ja-hrkt": "ドリームメール",
+  "fr": "Lettre Songe",
+  "de": "Traumbrief",
+  "es": "Carta Sueño",
+  "it": "Mess. Sogno",
+  "en": "Dream Mail",
+  "es-419": "Carta Sueño"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL to be held by a POKéMON. It will bear the print of the POKéMON holding it."
+ }
+}

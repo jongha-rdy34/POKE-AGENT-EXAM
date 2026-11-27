@@ -1,0 +1,28 @@
+{
+ "name": "pair-of-tickets",
+ "names": {
+  "ja-hrkt": "ペアチケット",
+  "ko": "페어티켓",
+  "zh-hant": "雙人票",
+  "fr": "Ticket Duo",
+  "de": "Zweierticket",
+  "es": "Entrada para dos",
+  "it": "Biglietto doppio",
+  "en": "Pair of Tickets",
+  "ja": "ペアチケット",
+  "zh-hans": "双人票",
+  "es-419": "Entrada para dos"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur et à sa mère d'assister au Spectacle d'Astronomie au Centre Spatial d'Algatia.",
+  "en": "Allows the player and their mother to see the star show in the Mossdeep Space Center."
+ },
+ "flavor": {
+  "ko": "이끼 우주센터에서 열리고 있는 천체쇼의 2인용 티켓이다.",
+  "en": "Tickets for two to the astronomical show being held at the Mossdeep Space Center.",
+  "ja": "トクサネ宇宙センターで 開かれている 天体ショーの ２人組チケット。"
+ }
+}

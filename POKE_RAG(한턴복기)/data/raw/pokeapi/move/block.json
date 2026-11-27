@@ -1,0 +1,31 @@
+{
+ "name": "block",
+ "names": {
+  "ja-hrkt": "とおせんぼう",
+  "ko": "블록",
+  "zh-hant": "擋路",
+  "fr": "Barrage",
+  "de": "Rückentzug",
+  "es": "Bloqueo",
+  "it": "Blocco",
+  "en": "Block",
+  "ja": "とおせんぼう",
+  "zh-hans": "挡路",
+  "es-419": "Bloqueo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from leaving battle."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user blocks the target's way with arms spread wide to prevent the target from fleeing.",
+  "ko": "양팔을 벌려 막아서서 상대의 도주로를 가로막아 도망칠 수 없게 한다."
+ }
+}

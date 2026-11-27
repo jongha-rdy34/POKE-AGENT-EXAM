@@ -1,0 +1,31 @@
+{
+ "name": "glare",
+ "names": {
+  "ja-hrkt": "へびにらみ",
+  "ko": "뱀눈초리",
+  "zh-hant": "大蛇瞪眼",
+  "fr": "Regard Médusant",
+  "de": "Schlangenblick",
+  "es": "Deslumbrar",
+  "it": "Sguardo Feroce",
+  "en": "Glare",
+  "ja": "へびにらみ",
+  "zh-hans": "大蛇瞪眼",
+  "es-419": "Fulmirada"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Paralyzes the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user intimidates the target with the pattern on its belly to cause paralysis.",
+  "ko": "배의 무늬로 겁을 주어 상대를 마비 상태로 만든다."
+ }
+}

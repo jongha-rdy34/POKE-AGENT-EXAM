@@ -1,0 +1,20 @@
+{
+ "name": "wiglett-sand",
+ "names": {
+  "ja-hrkt": "ウミディグダのすな",
+  "ko": "바다그다의모래",
+  "zh-hant": "海地鼠的沙",
+  "fr": "Sable de Taupikeau",
+  "de": "Schligda-Sand",
+  "es": "Arena de Wiglett",
+  "it": "Sabbia di Wiglett",
+  "en": "Wiglett Sand",
+  "ja": "ウミディグダのすな",
+  "zh-hans": "海地鼠的沙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

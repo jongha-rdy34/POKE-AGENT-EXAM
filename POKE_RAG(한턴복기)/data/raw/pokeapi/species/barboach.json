@@ -1,0 +1,42 @@
+{
+ "id": 339,
+ "name": "barboach",
+ "names": {
+  "ja-hrkt": "ドジョッチ",
+  "ja-roma": "Dojoach",
+  "ko": "미꾸리",
+  "zh-hant": "泥泥鰍",
+  "fr": "Barloche",
+  "de": "Schmerbe",
+  "es": "Barboach",
+  "it": "Barboach",
+  "en": "Barboach",
+  "ja": "ドジョッチ",
+  "zh-hans": "泥泥鳅",
+  "es-419": "Barboach"
+ },
+ "genus": {
+  "ja-hrkt": "ひげうおポケモン",
+  "ko": "수염물고기포켓몬",
+  "zh-hant": "鬚魚寶可夢",
+  "fr": "Pokémon Barbillon",
+  "de": "Barthaar-Pokémon",
+  "es": "Pokémon Bigotudo",
+  "it": "Pokémon Baffetti",
+  "en": "Whiskers Pokémon",
+  "ja": "ひげうおポケモン",
+  "zh-hans": "须鱼宝可梦",
+  "es-419": "Pokémon Bigotudo"
+ },
+ "flavor": {
+  "en": "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult.",
+  "ko": "2개의 긴 수염으로 탁한 강바닥을 더듬는다. 미끈미끈한 점막으로 몸을 보호한다."
+ },
+ "varieties": [
+  {
+   "name": "barboach",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "173"
+}

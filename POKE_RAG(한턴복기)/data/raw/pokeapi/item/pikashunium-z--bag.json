@@ -1,0 +1,28 @@
+{
+ "name": "pikashunium-z--bag",
+ "names": {
+  "ja-hrkt": "サトピカＺ",
+  "ko": "지우피카Z",
+  "zh-hant": "智皮卡Ｚ",
+  "fr": "Pikachazélite",
+  "de": "Ash-Pikachium Z",
+  "es": "Ash-Pikastal Z",
+  "it": "Ashpikacium Z",
+  "en": "Pikashunium Z",
+  "ja": "サトピカＺ",
+  "zh-hans": "智皮卡Ｚ",
+  "es-419": "Ash-Pikastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour pikashunium-z--bag",
+  "en": "XXX new effect for pikashunium-z--bag"
+ },
+ "flavor": {
+  "ko": "모자를 쓴 피카츄의 10만볼트를 Z기술로 바꾸는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade a Thunderbolt by Pikachu in a cap to an exclusive Z-Move.",
+  "ja": "キャップを かぶった ピカチュウの １０まんボルトを Ｚワザに 変える Ｚパワーの 結晶を 作りだす。"
+ }
+}

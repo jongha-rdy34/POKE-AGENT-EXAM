@@ -1,0 +1,28 @@
+{
+ "name": "oval-charm",
+ "names": {
+  "ja-hrkt": "まるいおまもり",
+  "ko": "둥근부적",
+  "zh-hant": "圓形護符",
+  "fr": "Charme Ovale",
+  "de": "Ovalpin",
+  "es": "Amuleto Oval",
+  "it": "Ovamuleto",
+  "en": "Oval Charm",
+  "ja": "まるいおまもり",
+  "zh-hans": "圆形护符",
+  "es-419": "Amuleto Oval"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Double les chances que deux Pokémon produisent un œuf à la pension tous les 255 pas.",
+  "en": "Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps."
+ },
+ "flavor": {
+  "en": "An oval charm said to increase the chance of Pokémon Eggs being found at the Nursery.",
+  "ko": "지니고 있으면 맡기미집에서 알을 발견하기 쉬워지는 이상하고 매우 둥근 부적.",
+  "ja": "持っていると 預かり屋さんで タマゴが みつかりやすくなる 不思議で とてもまるい おまもり。"
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": 10221,
+ "name": "hatterene-gmax",
+ "species": "hatterene",
+ "is_default": false,
+ "types": [
+  "psychic",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 57,
+  "attack": 90,
+  "defense": 95,
+  "special-attack": 136,
+  "special-defense": 103,
+  "speed": 29
+ },
+ "abilities": [
+  {
+   "name": "healer",
+   "hidden": false
+  },
+  {
+   "name": "anticipation",
+   "hidden": false
+  },
+  {
+   "name": "magic-bounce",
+   "hidden": true
+  }
+ ],
+ "height": 260,
+ "weight": 10000,
+ "champions_moves": []
+}

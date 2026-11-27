@@ -1,0 +1,42 @@
+{
+ "id": 683,
+ "name": "aromatisse",
+ "names": {
+  "ja-hrkt": "フレフワン",
+  "ja-roma": "Frefuwan",
+  "ko": "프레프티르",
+  "zh-hant": "芳香精",
+  "fr": "Cocotine",
+  "de": "Parfinesse",
+  "es": "Aromatisse",
+  "it": "Aromatisse",
+  "en": "Aromatisse",
+  "ja": "フレフワン",
+  "zh-hans": "芳香精",
+  "es-419": "Aromatisse"
+ },
+ "genus": {
+  "ja-hrkt": "ほうこうポケモン",
+  "ko": "방향포켓몬",
+  "zh-hant": "芳香寶可夢",
+  "fr": "Pokémon Parfum",
+  "de": "Duft-Pokémon",
+  "es": "Pokémon Fragancia",
+  "it": "Pokémon Fragranza",
+  "en": "Fragrance Pokémon",
+  "ja": "ほうこうポケモン",
+  "zh-hans": "芳香宝可梦",
+  "es-419": "Pokémon Fragancia"
+ },
+ "flavor": {
+  "ko": "상대의 전의를 상실시키는 악취와 같은 편을 돕는 황홀한 향기를 만들어 낸다.",
+  "en": "The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent’s will to fight."
+ },
+ "varieties": [
+  {
+   "name": "aromatisse",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "350"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "aerodactylite",
+ "names": {
+  "ja-hrkt": "プテラナイト",
+  "ko": "프테라나이트",
+  "zh-hant": "化石翼龍進化石",
+  "fr": "Ptéraïte",
+  "de": "Aerodactylonit",
+  "es": "Aerodactylita",
+  "it": "Aerodactylite",
+  "en": "Aerodactylite",
+  "ja": "プテラナイト",
+  "zh-hans": "化石翼龙进化石",
+  "es-419": "Aerodactylita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Ptéra de Méga-Évoluer en Méga-Ptéra.",
+  "en": "Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl."
+ },
+ "flavor": {
+  "ko": "프테라에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Aerodactyl hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "プテラに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

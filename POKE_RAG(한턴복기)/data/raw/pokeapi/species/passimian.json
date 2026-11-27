@@ -1,0 +1,42 @@
+{
+ "id": 766,
+ "name": "passimian",
+ "names": {
+  "ja-hrkt": "ナゲツケサル",
+  "ja-roma": "Nagetukesaru",
+  "ko": "내던숭이",
+  "zh-hant": "投擲猴",
+  "fr": "Quartermac",
+  "de": "Quartermak",
+  "es": "Passimian",
+  "it": "Passimian",
+  "en": "Passimian",
+  "ja": "ナゲツケサル",
+  "zh-hans": "投掷猴",
+  "es-419": "Passimian"
+ },
+ "genus": {
+  "ja-hrkt": "れんけいポケモン",
+  "ko": "연계포켓몬",
+  "zh-hant": "配合寶可夢",
+  "fr": "Pokémon Coopération",
+  "de": "Teamwork-Pokémon",
+  "es": "Pokémon Cooperación",
+  "it": "Pokémon Giocosquadra",
+  "en": "Teamwork Pokémon",
+  "ja": "れんけいポケモン",
+  "zh-hans": "配合宝可梦",
+  "es-419": "Pokémon Cooperación"
+ },
+ "flavor": {
+  "ko": "20마리 정도가 무리 지어 생활한다. 정해진 역할을 해내면서 혹독한 자연에서 꿋꿋하게 살아남았다.",
+  "en": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives."
+ },
+ "varieties": [
+  {
+   "name": "passimian",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "395"
+}

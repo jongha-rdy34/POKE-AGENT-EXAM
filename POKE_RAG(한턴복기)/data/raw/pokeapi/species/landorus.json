@@ -1,0 +1,46 @@
+{
+ "id": 645,
+ "name": "landorus",
+ "names": {
+  "ja-hrkt": "ランドロス",
+  "ja-roma": "Landlos",
+  "ko": "랜드로스",
+  "zh-hant": "土地雲",
+  "fr": "Démétéros",
+  "de": "Demeteros",
+  "es": "Landorus",
+  "it": "Landorus",
+  "en": "Landorus",
+  "ja": "ランドロス",
+  "zh-hans": "土地云",
+  "es-419": "Landorus"
+ },
+ "genus": {
+  "ja-hrkt": "ほうじょうポケモン",
+  "ko": "풍요포켓몬",
+  "zh-hant": "豐饒寶可夢",
+  "fr": "Pokémon Fertilité",
+  "de": "Reichtums-Pokémon",
+  "es": "Pokémon Fertilidad",
+  "it": "Pokémon Fertilità",
+  "en": "Abundance Pokémon",
+  "ja": "ほうじょうポケモン",
+  "zh-hans": "丰饶宝可梦",
+  "es-419": "Pokémon Fertilidad"
+ },
+ "flavor": {
+  "en": "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests.",
+  "ko": "바람이나 번개를 거둬들여 바꾼 에너지가 흙에 영양을 주어 대지를 풍족하게 한다."
+ },
+ "varieties": [
+  {
+   "name": "landorus-incarnate",
+   "is_default": true
+  },
+  {
+   "name": "landorus-therian",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "332"
+}

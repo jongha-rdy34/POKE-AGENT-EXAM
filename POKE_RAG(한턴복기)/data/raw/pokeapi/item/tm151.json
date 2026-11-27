@@ -1,0 +1,20 @@
+{
+ "name": "tm151",
+ "names": {
+  "ja-hrkt": "わざマシン１５１",
+  "ko": "기술머신151",
+  "zh-hant": "招式學習器１５１",
+  "fr": "CT151",
+  "de": "TM151",
+  "es": "MT151",
+  "it": "MT151",
+  "en": "TM151",
+  "ja": "わざマシン１５１",
+  "zh-hans": "招式学习器１５１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

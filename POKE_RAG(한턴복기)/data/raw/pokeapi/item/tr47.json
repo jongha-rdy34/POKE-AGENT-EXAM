@@ -1,0 +1,25 @@
+{
+ "name": "tr47",
+ "names": {
+  "ja-hrkt": "わざレコード４７",
+  "ko": "기술레코드47",
+  "zh-hant": "招式紀錄４７",
+  "fr": "DT47",
+  "de": "TP47",
+  "es": "DT47",
+  "it": "DT47",
+  "en": "TR47",
+  "ja": "わざレコード４７",
+  "zh-hans": "招式记录４７",
+  "es-419": "DT47"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "날카롭고 뾰족한 거대한 발톱으로 상대를 베어 갈라서 공격한다.",
+  "en": "The user slashes the target with huge sharp claws.",
+  "ja": "鋭く とがった 巨大な ツメで 相手を 切り裂いて 攻撃する。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm68",
+ "names": {
+  "ja-hrkt": "わざマシン６８",
+  "ko": "기술머신68",
+  "zh-hant": "招式學習器６８",
+  "fr": "CT68",
+  "de": "TM68",
+  "es": "MT68",
+  "it": "MT68",
+  "en": "TM68",
+  "ja": "わざマシン６８",
+  "zh-hans": "招式学习器６８",
+  "es-419": "MT68"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Giga Impact à un Pokémon compatible.",
+  "en": "Teaches Giga Impact to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.",
+  "ko": "불꽃을 두른 이빨로 문다. 상대를 풀죽게 하거나 화상 상태로 만들 때가 있다.",
+  "ja": "炎を まとった キバで かみつく。 相手を ひるませたり やけど状態に することが ある。"
+ }
+}

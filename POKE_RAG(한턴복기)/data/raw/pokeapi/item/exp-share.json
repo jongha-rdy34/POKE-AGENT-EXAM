@@ -1,0 +1,31 @@
+{
+ "name": "exp-share",
+ "names": {
+  "ja-hrkt": "がくしゅうそうち",
+  "ko": "학습장치",
+  "zh-hant": "學習裝置",
+  "fr": "Multi Exp",
+  "de": "EP-Teiler",
+  "es": "Repartir Exp",
+  "it": "Condividi esp.",
+  "en": "Exp. Share",
+  "ja": "がくしゅうそうち",
+  "zh-hans": "学习装置",
+  "es-419": "Repartir Exp"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: La moitié de l'expérience gagnée par un combat est attribuée au Pokémon portant cet objet.",
+  "en": "Held: Half the experience from a battle is split between Pokémon holding this item."
+ },
+ "flavor": {
+  "en": "Turning on this special device will allow all the Pokémon on your team to receive Exp. Points from battles.",
+  "ko": "스위치를 켜면 지닌 포켓몬 모두가 경험치를 받을 수 있는 장치.",
+  "ja": "スイッチを いれると 手持ちの ポケモン すべてが 経験値を もらえる 装置。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 601,
+ "name": "klinklang",
+ "names": {
+  "ja-hrkt": "ギギギアル",
+  "ja-roma": "Gigigiaru",
+  "ko": "기기기어르",
+  "zh-hant": "齒輪怪",
+  "fr": "Cliticlic",
+  "de": "Klikdiklak",
+  "es": "Klinklang",
+  "it": "Klinklang",
+  "en": "Klinklang",
+  "ja": "ギギギアル",
+  "zh-hans": "齿轮怪",
+  "es-419": "Klinklang"
+ },
+ "genus": {
+  "ja-hrkt": "はぐるまポケモン",
+  "ko": "톱니바퀴포켓몬",
+  "zh-hant": "齒輪寶可夢",
+  "fr": "Pokémon Engrenage",
+  "de": "Getriebe-Pokémon",
+  "es": "Pokémon Engranaje",
+  "it": "Pokémon Ingranaggio",
+  "en": "Gear Pokémon",
+  "ja": "はぐるまポケモン",
+  "zh-hans": "齿轮宝可梦",
+  "es-419": "Pokémon Engranaje"
+ },
+ "flavor": {
+  "en": "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature.",
+  "ko": "3개의 기어가 고속 회전한다. 가시가 달려 있는 새로 생긴 기어는 생물이 아니다."
+ },
+ "varieties": [
+  {
+   "name": "klinklang",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "305"
+}

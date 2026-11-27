@@ -1,0 +1,28 @@
+{
+ "name": "escape-rope",
+ "names": {
+  "ja-hrkt": "あなぬけのヒモ",
+  "ko": "동굴탈출로프",
+  "zh-hant": "離洞繩",
+  "fr": "Corde Sortie",
+  "de": "Fluchtseil",
+  "es": "Cuerda Huida",
+  "it": "Fune di fuga",
+  "en": "Escape Rope",
+  "ja": "あなぬけのヒモ",
+  "zh-hans": "离洞绳",
+  "es-419": "Cuerda Huida"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Transporte l'utilisateur à l'entrée extérieure d'une grotte.",
+  "en": "Transports user to the outside entrance of a cave."
+ },
+ "flavor": {
+  "en": "A long and durable rope. Use it to escape instantly from locations like caves or dungeons. It can be used any number of times.",
+  "ko": "길고 튼튼한 끈. 동굴이나 던전에서 빠져나올 수 있다. 몇 번이든 쓸 수 있다.",
+  "ja": "長くて 丈夫な ヒモ。洞窟や ダンジョンから 抜け出すことが できる。 何度でも 使える。"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "name": "iron-ball",
+ "names": {
+  "ja-hrkt": "くろいてっきゅう",
+  "ko": "검은철구",
+  "zh-hant": "黑色鐵球",
+  "fr": "Balle Fer",
+  "de": "Eisenkugel",
+  "es": "Bola Férrea",
+  "it": "Ferropalla",
+  "en": "Iron Ball",
+  "ja": "くろいてっきゅう",
+  "zh-hans": "黑色铁球",
+  "es-419": "Bola Férrea"
+ },
+ "category": "bad-held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: La Vitesse du porteur est divisée par deux. Annule toutes les immunités au type Sol, et les capacités Sol infligent des dégâts neutres aux types Vol. Piège Sable, Picots et Pics Toxik affectent le porteur.",
+  "en": "Held: Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It lowers Speed and allows Ground-type moves to hit Flying types and holders that are levitating.",
+  "ko": "지니게 하면 스피드가 떨어진다. 비행타입이나 부유포켓몬은 땅 기술에 맞아 버린다.",
+  "ja": "持たせると 素早さが さがる。 ひこうタイプや ふゆう ポケモンは じめん技が 当たってしまう。"
+ }
+}

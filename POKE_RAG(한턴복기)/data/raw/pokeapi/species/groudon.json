@@ -1,0 +1,46 @@
+{
+ "id": 383,
+ "name": "groudon",
+ "names": {
+  "ja-hrkt": "グラードン",
+  "ja-roma": "Groudon",
+  "ko": "그란돈",
+  "zh-hant": "固拉多",
+  "fr": "Groudon",
+  "de": "Groudon",
+  "es": "Groudon",
+  "it": "Groudon",
+  "en": "Groudon",
+  "ja": "グラードン",
+  "zh-hans": "固拉多",
+  "es-419": "Groudon"
+ },
+ "genus": {
+  "ja-hrkt": "たいりくポケモン",
+  "ko": "대륙포켓몬",
+  "zh-hant": "大陸寶可夢",
+  "fr": "Pokémon Continent",
+  "de": "Kontinent-Pokémon",
+  "es": "Pokémon Continente",
+  "it": "Pokémon Continente",
+  "en": "Continent Pokémon",
+  "ja": "たいりくポケモン",
+  "zh-hans": "大陆宝可梦",
+  "es-419": "Pokémon Continente"
+ },
+ "flavor": {
+  "en": "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+  "ko": "자연의 힘에 의해 원시회귀하여 원래의 모습을 되찾는다. 그 힘은 마그마를 만들어내며 대지를 확장한다."
+ },
+ "varieties": [
+  {
+   "name": "groudon",
+   "is_default": true
+  },
+  {
+   "name": "groudon-primal",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "199"
+}

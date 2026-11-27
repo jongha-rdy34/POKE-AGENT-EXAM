@@ -1,0 +1,42 @@
+{
+ "id": 141,
+ "name": "kabutops",
+ "names": {
+  "ja-hrkt": "カブトプス",
+  "ja-roma": "Kabutops",
+  "ko": "투구푸스",
+  "zh-hant": "鐮刀盔",
+  "fr": "Kabutops",
+  "de": "Kabutops",
+  "es": "Kabutops",
+  "it": "Kabutops",
+  "en": "Kabutops",
+  "ja": "カブトプス",
+  "zh-hans": "镰刀盔",
+  "es-419": "Kabutops"
+ },
+ "genus": {
+  "ja-hrkt": "こうらポケモン",
+  "ko": "껍질포켓몬",
+  "zh-hant": "甲殼寶可夢",
+  "fr": "Pokémon Carapace",
+  "de": "Schaltier-Pokémon",
+  "es": "Pokémon Armazón",
+  "it": "Pokémon Crostaceo",
+  "en": "Shellfish Pokémon",
+  "ja": "こうらポケモン",
+  "zh-hans": "甲壳宝可梦",
+  "es-419": "Pokémon Armazón"
+ },
+ "flavor": {
+  "en": "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas.",
+  "ko": "멸종한 이유는 불명확하다. 따듯한 바다에 살고 있던 난폭한 고대의 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "kabutops",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "70"
+}

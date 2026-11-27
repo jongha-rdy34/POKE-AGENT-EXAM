@@ -1,0 +1,37 @@
+{
+ "id": 1009,
+ "name": "walking-wake",
+ "names": {
+  "ja-hrkt": "ウネルミナモ",
+  "ja-roma": "Uneruminamo",
+  "ko": "굽이치는물결",
+  "zh-hant": "波盪水",
+  "fr": "Serpente-Eau",
+  "de": "Windewoge",
+  "es": "Ondulagua",
+  "it": "Acquecrespe",
+  "en": "Walking Wake",
+  "ja": "ウネルミナモ",
+  "zh-hans": "波荡水",
+  "es-419": "Ondulagua"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient Suicune."
+ },
+ "varieties": [
+  {
+   "name": "walking-wake",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "537"
+}

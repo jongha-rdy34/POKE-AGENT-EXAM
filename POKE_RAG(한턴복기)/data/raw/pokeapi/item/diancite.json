@@ -1,0 +1,28 @@
+{
+ "name": "diancite",
+ "names": {
+  "ja-hrkt": "ディアンシナイト",
+  "ko": "디안시나이트",
+  "zh-hant": "蒂安希進化石",
+  "fr": "Diancite",
+  "de": "Diancienit",
+  "es": "Diancita",
+  "it": "Diancite",
+  "en": "Diancite",
+  "ja": "ディアンシナイト",
+  "zh-hans": "蒂安希进化石",
+  "es-419": "Diancita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Diancie de Méga-Évoluer en Méga-Diancie.",
+  "en": "Held: Allows Diancie to Mega Evolve into Mega Diancie."
+ },
+ "flavor": {
+  "ko": "디안시에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Diancie hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ディアンシーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

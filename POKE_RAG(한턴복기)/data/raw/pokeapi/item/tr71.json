@@ -1,0 +1,25 @@
+{
+ "name": "tr71",
+ "names": {
+  "ja-hrkt": "わざレコード７１",
+  "ko": "기술레코드71",
+  "zh-hant": "招式紀錄７１",
+  "fr": "DT71",
+  "de": "TP71",
+  "es": "DT71",
+  "it": "DT71",
+  "en": "TR71",
+  "ja": "わざレコード７１",
+  "zh-hans": "招式记录７１",
+  "es-419": "DT71"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "뾰족한 잎사귀로 상대에게 돌풍을 일으킨다. 사용하면 반동으로 자신의 특수공격이 크게 떨어진다.",
+  "en": "The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+  "ja": "とがった はっぱで 相手に あらしを おこす。使うと 反動で 自分の 特攻が がくっと さがる。"
+ }
+}

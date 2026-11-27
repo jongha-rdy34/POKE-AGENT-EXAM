@@ -1,0 +1,20 @@
+{
+ "name": "shellos-mucus",
+ "names": {
+  "ja-hrkt": "カラナクシのねんえき",
+  "ko": "깝질무의점액",
+  "zh-hant": "無殼海兔的黏液",
+  "fr": "Mucus de Sancoki",
+  "de": "Schalellos-Schleim",
+  "es": "Secreción de Shellos",
+  "it": "Bava di Shellos",
+  "en": "Shellos Mucus",
+  "ja": "カラナクシのねんえき",
+  "zh-hans": "无壳海兔的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

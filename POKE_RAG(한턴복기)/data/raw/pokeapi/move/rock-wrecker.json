@@ -1,0 +1,31 @@
+{
+ "name": "rock-wrecker",
+ "names": {
+  "ja-hrkt": "がんせきほう",
+  "ko": "암석포",
+  "zh-hant": "岩石炮",
+  "fr": "Roc-Boulet",
+  "de": "Felswerfer",
+  "es": "Romperrocas",
+  "it": "Devastomasso",
+  "en": "Rock Wrecker",
+  "ja": "がんせきほう",
+  "zh-hans": "岩石炮",
+  "es-419": "Romperrocas"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 150,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User foregoes its next turn to recharge."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user launches a huge boulder at the target to attack. The user can't move on the next turn.",
+  "ko": "거대한 바위를 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없게 된다."
+ }
+}

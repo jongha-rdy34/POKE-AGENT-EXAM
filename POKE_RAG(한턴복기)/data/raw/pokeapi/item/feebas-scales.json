@@ -1,0 +1,20 @@
+{
+ "name": "feebas-scales",
+ "names": {
+  "ja-hrkt": "ヒンバスのうろこ",
+  "ko": "빈티나의비늘",
+  "zh-hant": "醜醜魚的鱗片",
+  "fr": "Écaille de Barpau",
+  "de": "Barschwa-Schuppe",
+  "es": "Escama de Feebas",
+  "it": "Squama di Feebas",
+  "en": "Feebas Scales",
+  "ja": "ヒンバスのうろこ",
+  "zh-hans": "丑丑鱼的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

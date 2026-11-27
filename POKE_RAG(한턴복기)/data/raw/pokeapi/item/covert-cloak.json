@@ -1,0 +1,20 @@
+{
+ "name": "covert-cloak",
+ "names": {
+  "ja-hrkt": "おんみつマント",
+  "ko": "은밀망토",
+  "zh-hant": "密探斗篷",
+  "fr": "Cape Obscure",
+  "de": "Tarnumhang",
+  "es": "Capa Furtiva",
+  "it": "Anonimanto",
+  "en": "Covert Cloak",
+  "ja": "おんみつマント",
+  "zh-hans": "密探斗篷"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

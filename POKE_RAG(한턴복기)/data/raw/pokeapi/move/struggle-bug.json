@@ -1,0 +1,31 @@
+{
+ "name": "struggle-bug",
+ "names": {
+  "ja-hrkt": "むしのていこう",
+  "ko": "벌레의저항",
+  "zh-hant": "蟲之抵抗",
+  "fr": "Survinsecte",
+  "de": "Käfertrutz",
+  "es": "Estoicismo",
+  "it": "Entomoblocco",
+  "en": "Struggle Bug",
+  "ja": "むしのていこう",
+  "zh-hans": "虫之抵抗",
+  "es-419": "Lucha Insecto"
+ },
+ "type": "bug",
+ "category": "special",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user attacks by struggling against opposing Pokémon. This also lowers their Sp. Atk stats.",
+  "ko": "저항해서 상대를 공격한다. 상대의 특수공격을 떨어뜨린다."
+ }
+}

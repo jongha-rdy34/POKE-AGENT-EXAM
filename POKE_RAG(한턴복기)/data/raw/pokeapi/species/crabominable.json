@@ -1,0 +1,46 @@
+{
+ "id": 740,
+ "name": "crabominable",
+ "names": {
+  "ja-hrkt": "ケケンカニ",
+  "ja-roma": "Kekenkani",
+  "ko": "모단단게",
+  "zh-hant": "好勝毛蟹",
+  "fr": "Crabominable",
+  "de": "Krawell",
+  "es": "Crabominable",
+  "it": "Crabominable",
+  "en": "Crabominable",
+  "ja": "ケケンカニ",
+  "zh-hans": "好胜毛蟹",
+  "es-419": "Crabominable"
+ },
+ "genus": {
+  "ja-hrkt": "けがにポケモン",
+  "ko": "털게포켓몬",
+  "zh-hant": "毛蟹寶可夢",
+  "fr": "Pokémon Crabe Velu",
+  "de": "Fellkrabbe",
+  "es": "Pokémon Cangrejopelo",
+  "it": "Pokémon Peligranchio",
+  "en": "Woolly Crab Pokémon",
+  "ja": "けがにポケモン",
+  "zh-hans": "毛蟹宝可梦",
+  "es-419": "Pokémon Cangrejopelo"
+ },
+ "flavor": {
+  "ko": "생각하기보다는 일단 때리고 본다. 눈사태를 펀치 러시로 되받아쳤다는 기록도 있다.",
+  "en": "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches."
+ },
+ "varieties": [
+  {
+   "name": "crabominable",
+   "is_default": true
+  },
+  {
+   "name": "crabominable-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "380"
+}

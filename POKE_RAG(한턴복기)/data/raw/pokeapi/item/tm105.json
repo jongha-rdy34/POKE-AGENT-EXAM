@@ -1,0 +1,20 @@
+{
+ "name": "tm105",
+ "names": {
+  "ja-hrkt": "わざマシン１０５",
+  "ko": "기술머신105",
+  "zh-hant": "招式學習器１０５",
+  "fr": "CT105",
+  "de": "TM105",
+  "es": "MT105",
+  "it": "MT105",
+  "en": "TM105",
+  "ja": "わざマシン１０５",
+  "zh-hans": "招式学习器１０５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 43,
+ "name": "oddish",
+ "names": {
+  "ja-hrkt": "ナゾノクサ",
+  "ja-roma": "Nazonokusa",
+  "ko": "뚜벅쵸",
+  "zh-hant": "走路草",
+  "fr": "Mystherbe",
+  "de": "Myrapla",
+  "es": "Oddish",
+  "it": "Oddish",
+  "en": "Oddish",
+  "ja": "ナゾノクサ",
+  "zh-hans": "走路草",
+  "es-419": "Oddish"
+ },
+ "genus": {
+  "ja-hrkt": "ざっそうポケモン",
+  "ko": "잡초포켓몬",
+  "zh-hant": "雜草寶可夢",
+  "fr": "Pokémon Racine",
+  "de": "Unkraut-Pokémon",
+  "es": "Pokémon Hierbajo",
+  "it": "Pokémon Malerba",
+  "en": "Weed Pokémon",
+  "ja": "ざっそうポケモン",
+  "zh-hans": "杂草宝可梦",
+  "es-419": "Pokémon Hierbajo"
+ },
+ "flavor": {
+  "en": "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight.",
+  "ko": "낮에는 태양을 피하기 위해 차가운 땅속에 들어가 있다. 달빛을 쬐어 성장한다."
+ },
+ "varieties": [
+  {
+   "name": "oddish",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "18"
+}

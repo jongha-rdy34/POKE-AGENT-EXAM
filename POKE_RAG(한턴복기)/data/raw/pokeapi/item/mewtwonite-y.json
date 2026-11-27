@@ -1,0 +1,28 @@
+{
+ "name": "mewtwonite-y",
+ "names": {
+  "ja-hrkt": "ミュウツナイトＹ",
+  "ko": "뮤츠나이트Y",
+  "zh-hant": "超夢進化石Ｙ",
+  "fr": "Mewtwoïte Y",
+  "de": "Mewtunit Y",
+  "es": "Mewtwoita Y",
+  "it": "Mewtwoite Y",
+  "en": "Mewtwonite Y",
+  "ja": "ミュウツナイトＹ",
+  "zh-hans": "超梦进化石Ｙ",
+  "es-419": "Mewtwoita Y"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Mewtwo de Méga-Évoluer en Méga-Mewtwo Y.",
+  "en": "Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo Y."
+ },
+ "flavor": {
+  "ko": "뮤츠에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Mewtwo hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ミュウツーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

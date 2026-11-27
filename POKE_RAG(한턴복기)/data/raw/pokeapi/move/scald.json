@@ -1,0 +1,31 @@
+{
+ "name": "scald",
+ "names": {
+  "ja-hrkt": "ねっとう",
+  "ko": "열탕",
+  "zh-hant": "熱水",
+  "fr": "Ébullition",
+  "de": "Siedewasser",
+  "es": "Escaldar",
+  "it": "Idrovampata",
+  "en": "Scald",
+  "ja": "ねっとう",
+  "zh-hans": "热水",
+  "es-419": "Escaldar"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to burn the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user attacks by shooting boiling hot water at the target. This may also leave the target with a burn.",
+  "ko": "뜨겁게 끓어오르는 물을 상대에게 발사해서 공격한다. 화상 상태로 만들 때가 있다."
+ }
+}

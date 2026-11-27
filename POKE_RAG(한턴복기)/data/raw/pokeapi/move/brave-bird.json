@@ -1,0 +1,31 @@
+{
+ "name": "brave-bird",
+ "names": {
+  "ja-hrkt": "ブレイブバード",
+  "ko": "브레이브버드",
+  "zh-hant": "勇鳥猛攻",
+  "fr": "Rapace",
+  "de": "Sturzflug",
+  "es": "Pájaro Osado",
+  "it": "Baldeali",
+  "en": "Brave Bird",
+  "ja": "ブレイブバード",
+  "zh-hans": "勇鸟猛攻",
+  "es-419": "Ave Brava"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User receives 1/3 the damage inflicted in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tucks in its wings and charges at a low altitude. This also damages the user quite a lot.",
+  "ko": "날개를 접어 저공비행으로 돌격한다. 자신도 상당한 데미지를 입는다."
+ }
+}

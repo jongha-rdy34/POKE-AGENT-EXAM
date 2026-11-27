@@ -1,0 +1,25 @@
+{
+ "name": "serious-mint",
+ "names": {
+  "ja-hrkt": "まじめミント",
+  "ko": "성실민트",
+  "zh-hant": "認真薄荷",
+  "fr": "Aromate Sérieux",
+  "de": "Ernst-Minze",
+  "es": "Menta Seria",
+  "it": "Menta Seria",
+  "en": "Serious Mint",
+  "ja": "まじめミント",
+  "zh-hans": "认真薄荷",
+  "es-419": "Menta Seria"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 공격, 방어, 스피드, 특수방어 특수공격이 골고루 오르게 되는 민트.",
+  "en": "When a Pokémon smells this mint, all of its stats will grow at an equal rate.",
+  "ja": "ポケモンに 香りを かがせると 攻撃 防御 素早さ 特防 特攻が 万遍なく 育つ ミント。"
+ }
+}

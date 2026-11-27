@@ -1,0 +1,34 @@
+{
+ "name": "carbos",
+ "names": {
+  "ja-hrkt": "インドメタシン",
+  "ko": "알칼로이드",
+  "zh-hant": "速度增強劑",
+  "fr": "Carbone",
+  "de": "Carbon",
+  "es": "Carburante",
+  "it": "Carburante",
+  "en": "Carbos",
+  "ja": "インドメタシン",
+  "zh-hans": "速度增强剂",
+  "es-419": "Carburante"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'effort en Vitesse et le bonheur.",
+  "en": "Raises Speed effort and happiness."
+ },
+ "flavor": {
+  "en": "A nutritious drink for Pokémon. When consumed, it raises the Speed base points of a single Pokémon.",
+  "ko": "포켓몬의 영양 드링크. 포켓몬 1마리의 스피드 기초 포인트를 올린다.",
+  "ja": "ポケモンの 栄養ドリンク。 ポケモン １匹の 素早さの 基礎ポイントを あげる。"
+ }
+}

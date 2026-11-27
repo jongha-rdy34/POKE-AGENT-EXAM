@@ -1,0 +1,28 @@
+{
+ "name": "orange-petal",
+ "names": {
+  "ja-hrkt": "だいだいはなびら",
+  "ko": "주황꽃잎",
+  "zh-hant": "橙色花瓣",
+  "fr": "Pétale Orange",
+  "de": "Oranges Blatt",
+  "es": "Pétalo Naranja",
+  "it": "Petalo arancione",
+  "en": "Orange Petal",
+  "ja": "だいだいはなびら",
+  "zh-hans": "橙色花瓣",
+  "es-419": "Pétalo Naranja"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour orange-petal",
+  "en": "XXX new effect for orange-petal"
+ },
+ "flavor": {
+  "ko": "말리화의 시련에서 일리마에게 받을 수 있는 꽃잎의 압화. 7종류 모으는 것이 목적.",
+  "en": "A pressed flower petal you receive from Ilima during Mina’s trial. The goal is to collect seven different kinds of petals.",
+  "ja": "マツリカの試練で イリマから もらえる はなびらの 押し花。 ７種類 集めるのが 目的。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "red-petal",
+ "names": {
+  "ja-hrkt": "あかのはなびら",
+  "ko": "빨강꽃잎",
+  "zh-hant": "紅色花瓣",
+  "fr": "Pétale Rouge",
+  "de": "Rotes Blatt",
+  "es": "Pétalo Rojo",
+  "it": "Petalo rosso",
+  "en": "Red Petal",
+  "ja": "あかのはなびら",
+  "zh-hans": "红色花瓣",
+  "es-419": "Pétalo Rojo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour red-petal",
+  "en": "XXX new effect for red-petal"
+ },
+ "flavor": {
+  "ko": "말리화의 시련에서 키아웨에게 받을 수 있는 꽃잎의 압화. 7종류 모으는 것이 목적.",
+  "en": "A pressed flower petal you receive from Kiawe during Mina’s trial. The goal is to collect seven different kinds of petals.",
+  "ja": "マツリカの試練で カキから もらえる はなびらの 押し花。 ７種類 集めるのが 目的。"
+ }
+}

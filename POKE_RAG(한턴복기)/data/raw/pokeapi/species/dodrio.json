@@ -1,0 +1,42 @@
+{
+ "id": 85,
+ "name": "dodrio",
+ "names": {
+  "ja-hrkt": "ドードリオ",
+  "ja-roma": "Dodorio",
+  "ko": "두트리오",
+  "zh-hant": "嘟嘟利",
+  "fr": "Dodrio",
+  "de": "Dodri",
+  "es": "Dodrio",
+  "it": "Dodrio",
+  "en": "Dodrio",
+  "ja": "ドードリオ",
+  "zh-hans": "嘟嘟利",
+  "es-419": "Dodrio"
+ },
+ "genus": {
+  "ja-hrkt": "みつごどりポケモン",
+  "ko": "세쌍둥이새포켓몬",
+  "zh-hant": "三頭鳥寶可夢",
+  "fr": "Pokémon Trioiseau",
+  "de": "Trivogel",
+  "es": "Pokémon Ave Triple",
+  "it": "Pokémon Triuccello",
+  "en": "Triple Bird Pokémon",
+  "ja": "みつごどりポケモン",
+  "zh-hans": "三头鸟宝可梦",
+  "es-419": "Pokémon Ave Triple"
+ },
+ "flavor": {
+  "en": "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.",
+  "ko": "두두의 머리 중 한 쪽이 분열한 변종. 초원을 시속 60km로 달린다."
+ },
+ "varieties": [
+  {
+   "name": "dodrio",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "36"
+}

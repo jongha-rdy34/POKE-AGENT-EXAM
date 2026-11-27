@@ -1,0 +1,22 @@
+{
+ "name": "cud-chew",
+ "names": {
+  "ja-hrkt": "はんすう",
+  "ko": "되새김질",
+  "zh-hant": "反芻",
+  "fr": "Ruminant",
+  "de": "Wiederkäuer",
+  "es": "Rumia",
+  "it": "Ruminante",
+  "en": "Cud Chew",
+  "ja": "はんすう",
+  "zh-hans": "反刍",
+  "es-419": "Rumia"
+ },
+ "effect": {
+  "en": "Causes the Pokémon to reuse an already consumed Berry at the end of the next turn."
+ },
+ "flavor": {
+  "en": "When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time."
+ }
+}

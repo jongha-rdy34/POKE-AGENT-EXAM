@@ -1,0 +1,20 @@
+{
+ "name": "whipped-cream",
+ "names": {
+  "ja-hrkt": "ホイップクリーム",
+  "ko": "휘핑크림",
+  "zh-hant": "鮮奶油",
+  "fr": "Creme Fouettée",
+  "de": "Schlagsahne",
+  "es": "Nata Montada",
+  "it": "Panna montata",
+  "en": "Whipped Cream",
+  "ja": "ホイップクリーム",
+  "zh-hans": "鲜奶油"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

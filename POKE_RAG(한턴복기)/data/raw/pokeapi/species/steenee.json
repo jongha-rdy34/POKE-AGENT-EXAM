@@ -1,0 +1,42 @@
+{
+ "id": 762,
+ "name": "steenee",
+ "names": {
+  "ja-hrkt": "アママイコ",
+  "ja-roma": "Amamaiko",
+  "ko": "달무리나",
+  "zh-hant": "甜舞妮",
+  "fr": "Candine",
+  "de": "Frubaila",
+  "es": "Steenee",
+  "it": "Steenee",
+  "en": "Steenee",
+  "ja": "アママイコ",
+  "zh-hans": "甜舞妮",
+  "es-419": "Steenee"
+ },
+ "genus": {
+  "ja-hrkt": "フルーツポケモン",
+  "ko": "후르츠포켓몬",
+  "zh-hant": "水果寶可夢",
+  "fr": "Pokémon Fruit",
+  "de": "Obst-Pokémon",
+  "es": "Pokémon Fruto",
+  "it": "Pokémon Frutto",
+  "en": "Fruit Pokémon",
+  "ja": "フルーツポケモン",
+  "zh-hans": "水果宝可梦",
+  "es-419": "Pokémon Fruto"
+ },
+ "flavor": {
+  "ko": "쪼아대는 파크로우를 머리의 꼭지로 후려치고 예리한 발차기를 먹인다.",
+  "en": "Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick."
+ },
+ "varieties": [
+  {
+   "name": "steenee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "392"
+}

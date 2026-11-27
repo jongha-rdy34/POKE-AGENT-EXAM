@@ -1,0 +1,28 @@
+{
+ "name": "steelium-z--bag",
+ "names": {
+  "ja-hrkt": "ハガネＺ",
+  "ko": "강철Z",
+  "zh-hant": "鋼Ｚ",
+  "fr": "Métallozélite",
+  "de": "Metallium Z",
+  "es": "Metalostal Z",
+  "it": "Metallium Z",
+  "en": "Steelium Z",
+  "ja": "ハガネＺ",
+  "zh-hans": "钢Ｚ",
+  "es-419": "Metalostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour steelium-z--bag",
+  "en": "XXX new effect for steelium-z--bag"
+ },
+ "flavor": {
+  "ko": "강철타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Steel-type moves to Steel-type Z-Moves.",
+  "ja": "はがねタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 512,
+ "name": "simisage",
+ "names": {
+  "ja-hrkt": "ヤナッキー",
+  "ja-roma": "Yanakkie",
+  "ko": "야나키",
+  "zh-hant": "花椰猿",
+  "fr": "Feuiloutan",
+  "de": "Vegichita",
+  "es": "Simisage",
+  "it": "Simisage",
+  "en": "Simisage",
+  "ja": "ヤナッキー",
+  "zh-hans": "花椰猿",
+  "es-419": "Simisage"
+ },
+ "genus": {
+  "ja-hrkt": "とげざるポケモン",
+  "ko": "가시원숭이포켓몬",
+  "zh-hant": "刺猴寶可夢",
+  "fr": "Pokémon Singépine",
+  "de": "Stachelaffe",
+  "es": "Pokémon Mono Pincho",
+  "it": "Pokémon Spinpanzé",
+  "en": "Thorn Monkey Pokémon",
+  "ja": "とげざるポケモン",
+  "zh-hans": "刺猴宝可梦",
+  "es-419": "Pokémon Mono Pincho"
+ },
+ "flavor": {
+  "en": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+  "ko": "기질이 격하여 가시가 박힌 꼬리를 휘두르며 싸운다. 머리의 잎사귀는 매우 쓰다."
+ },
+ "varieties": [
+  {
+   "name": "simisage",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "262"
+}

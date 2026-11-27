@@ -1,0 +1,42 @@
+{
+ "id": 24,
+ "name": "arbok",
+ "names": {
+  "ja-hrkt": "アーボック",
+  "ja-roma": "Arbok",
+  "ko": "아보크",
+  "zh-hant": "阿柏怪",
+  "fr": "Arbok",
+  "de": "Arbok",
+  "es": "Arbok",
+  "it": "Arbok",
+  "en": "Arbok",
+  "ja": "アーボック",
+  "zh-hans": "阿柏怪",
+  "es-419": "Arbok"
+ },
+ "genus": {
+  "ja-hrkt": "コブラポケモン",
+  "ko": "코브라포켓몬",
+  "zh-hant": "眼鏡蛇寶可夢",
+  "fr": "Pokémon Cobra",
+  "de": "Kobra",
+  "es": "Pokémon Cobra",
+  "it": "Pokémon Cobra",
+  "en": "Cobra Pokémon",
+  "ja": "コブラポケモン",
+  "zh-hans": "眼镜蛇宝可梦",
+  "es-419": "Pokémon Cobra"
+ },
+ "flavor": {
+  "en": "The frightening patterns on its belly have been studied. Six variations have been confirmed.",
+  "ko": "무서워 보이는 배의 무늬는 연구 결과 6종류 정도의 패턴이 확인되었다."
+ },
+ "varieties": [
+  {
+   "name": "arbok",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "9"
+}

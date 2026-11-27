@@ -1,0 +1,23 @@
+{
+ "name": "parental-bond",
+ "names": {
+  "ja-hrkt": "おやこあい",
+  "ko": "부자유친",
+  "zh-hant": "親子愛",
+  "fr": "Amour Filial",
+  "de": "Familienbande",
+  "es": "Amor Filial",
+  "it": "Amorefiliale",
+  "en": "Parental Bond",
+  "ja": "おやこあい",
+  "zh-hans": "亲子爱",
+  "es-419": "Amor Filial"
+ },
+ "effect": {
+  "en": "Lets the bearer hit twice with damaging moves.  The second hit has half power."
+ },
+ "flavor": {
+  "ko": "부모와 자식 2마리로 2번 공격할 수 있다.",
+  "en": "Parent and child each attacks."
+ }
+}

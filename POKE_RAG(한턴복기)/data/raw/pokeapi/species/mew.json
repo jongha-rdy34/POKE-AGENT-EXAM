@@ -1,0 +1,42 @@
+{
+ "id": 151,
+ "name": "mew",
+ "names": {
+  "ja-hrkt": "ミュウ",
+  "ja-roma": "Mew",
+  "ko": "뮤",
+  "zh-hant": "夢幻",
+  "fr": "Mew",
+  "de": "Mew",
+  "es": "Mew",
+  "it": "Mew",
+  "en": "Mew",
+  "ja": "ミュウ",
+  "zh-hans": "梦幻",
+  "es-419": "Mew"
+ },
+ "genus": {
+  "ja-hrkt": "しんしゅポケモン",
+  "ko": "신종포켓몬",
+  "zh-hant": "新種寶可夢",
+  "fr": "Pokémon Nouveau",
+  "de": "Neue Art-Pokémon",
+  "es": "Pokémon Nueva Especie",
+  "it": "Pokémon Novaspecie",
+  "en": "New Species Pokémon",
+  "ja": "しんしゅポケモン",
+  "zh-hans": "新种宝可梦",
+  "es-419": "Pokémon Nueva Especie"
+ },
+ "flavor": {
+  "en": "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",
+  "ko": "현미경으로 관찰하면 매우 짧고 가는 털이 촘촘하게 나 있다."
+ },
+ "varieties": [
+  {
+   "name": "mew",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "78"
+}

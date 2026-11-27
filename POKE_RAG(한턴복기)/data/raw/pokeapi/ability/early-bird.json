@@ -1,0 +1,23 @@
+{
+ "name": "early-bird",
+ "names": {
+  "ja-hrkt": "はやおき",
+  "ko": "일찍기상",
+  "zh-hant": "早起",
+  "fr": "Matinal",
+  "de": "Frühwecker",
+  "es": "Madrugar",
+  "it": "Sveglialampo",
+  "en": "Early Bird",
+  "ja": "はやおき",
+  "zh-hans": "早起",
+  "es-419": "Madrugador"
+ },
+ "effect": {
+  "en": "Makes sleep pass twice as quickly."
+ },
+ "flavor": {
+  "en": "The Pokémon awakens from sleep twice as fast as other Pokémon.",
+  "ko": "잠듦 상태가 되어도 2배 스피드로 깨어날 수 있다."
+ }
+}

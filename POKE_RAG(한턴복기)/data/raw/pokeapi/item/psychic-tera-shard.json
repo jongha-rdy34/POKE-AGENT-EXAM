@@ -1,0 +1,20 @@
+{
+ "name": "psychic-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースエスパー",
+  "ko": "테라피스 에스퍼",
+  "zh-hant": "超能力太晶碎塊",
+  "fr": "Téra-Éclat Psy",
+  "de": "Tera-Stück (Psycho)",
+  "es": "Teralito Psíquico",
+  "it": "Teralite Psico",
+  "en": "Psychic Tera Shard",
+  "ja": "テラピースエスパー",
+  "zh-hans": "超能力太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

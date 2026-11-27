@@ -1,0 +1,28 @@
+{
+ "name": "repel",
+ "names": {
+  "ja-hrkt": "むしよけスプレー",
+  "ko": "벌레회피스프레이",
+  "zh-hant": "除蟲噴霧",
+  "fr": "Repousse",
+  "de": "Schutz",
+  "es": "Repelente",
+  "it": "Repellente",
+  "en": "Repel",
+  "ja": "むしよけスプレー",
+  "zh-hans": "除虫喷雾",
+  "es-419": "Repelente"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Pendant 100 pas, empêche les rencontres sauvages de niveau inférieur au Pokémon en tête de votre équipe.",
+  "en": "For 100 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+ },
+ "flavor": {
+  "en": "An item that prevents any low-level wild Pokémon from jumping out at you for a while.",
+  "ko": "사용하면 잠시 동안 약한 야생 포켓몬이 전혀 나오지 않게 된다.",
+  "ja": "使うと 少しの あいだ 弱い 野生の ポケモンが まったく でて こなくなる。"
+ }
+}

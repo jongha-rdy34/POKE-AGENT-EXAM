@@ -1,0 +1,42 @@
+{
+ "id": 734,
+ "name": "yungoos",
+ "names": {
+  "ja-hrkt": "ヤングース",
+  "ja-roma": "Youngoose",
+  "ko": "영구스",
+  "zh-hant": "貓鼬少",
+  "fr": "Manglouton",
+  "de": "Mangunior",
+  "es": "Yungoos",
+  "it": "Yungoos",
+  "en": "Yungoos",
+  "ja": "ヤングース",
+  "zh-hans": "猫鼬少",
+  "es-419": "Yungoos"
+ },
+ "genus": {
+  "ja-hrkt": "うろつきポケモン",
+  "ko": "순회포켓몬",
+  "zh-hant": "巡迴寶可夢",
+  "fr": "Pokémon Patrouille",
+  "de": "Patrouille",
+  "es": "Pokémon Patrulla",
+  "it": "Pokémon Pattuglia",
+  "en": "Loitering Pokémon",
+  "ja": "うろつきポケモン",
+  "zh-hans": "巡回宝可梦",
+  "es-419": "Pokémon Patrulla"
+ },
+ "flavor": {
+  "ko": "무엇이든 먹지만 신선하고 살아 있는 것을 좋아해서 먹이를 찾아 길을 누비고 다닌다.",
+  "en": "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey."
+ },
+ "varieties": [
+  {
+   "name": "yungoos",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "378"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "small-bouquet",
+ "names": {
+  "ja-hrkt": "ちいさなはなたば",
+  "ko": "작은꽃다발",
+  "zh-hant": "小小花束",
+  "fr": "Petit Bouquet",
+  "de": "Ministrauß",
+  "es": "Ramo Pequeño",
+  "it": "Bouquet",
+  "en": "Small Bouquet",
+  "ja": "ちいさなはなたば",
+  "zh-hans": "小小花束",
+  "es-419": "Ramo Pequeño"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "단 하나뿐인 트레이너를 향한 마음을 담아 정성껏 만든 작은 꽃다발.",
+  "en": "A small bouquet that was made with heart and soul for a single Trainer.",
+  "ja": "ただ ひとりの トレーナーへの 気持ちを こめて 一生懸命 作った ささやかな 花束。"
+ }
+}

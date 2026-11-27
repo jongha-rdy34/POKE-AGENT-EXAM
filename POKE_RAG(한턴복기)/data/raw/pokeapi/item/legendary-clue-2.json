@@ -1,0 +1,25 @@
+{
+ "name": "legendary-clue-2",
+ "names": {
+  "ja-hrkt": "でんせつのメモ２",
+  "ko": "전설의메모2",
+  "zh-hant": "傳說筆記２",
+  "fr": "Note Légende 2",
+  "de": "Legenden-Notiz 2",
+  "es": "Leyenda 2",
+  "it": "Leggenda 2",
+  "en": "Legendary Clue 2",
+  "ja": "でんせつのメモ２",
+  "zh-hans": "传说笔记２",
+  "es-419": "Leyenda 2"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "거인의 전설에 대해 피오니가 정리한 메모. 개성적인 그림이 그려져 있다.",
+  "en": "A clue about the legend of giants. It’s written by Peony and has unique drawings.",
+  "ja": "巨人 伝説について ピオニーが まとめた メモ。 個性的な 絵が 描かれている。"
+ }
+}

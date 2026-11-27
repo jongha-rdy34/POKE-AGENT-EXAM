@@ -1,0 +1,19 @@
+{
+ "name": "tm218",
+ "names": {
+  "ko": "기술머신218",
+  "zh-hant": "招式學習器２１８",
+  "fr": "CT218",
+  "de": "TM218",
+  "es": "MT218",
+  "it": "MT218",
+  "en": "TM218",
+  "ja": "わざマシン２１８",
+  "zh-hans": "招式学习器２１８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

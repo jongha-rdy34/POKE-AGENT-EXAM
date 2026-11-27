@@ -1,0 +1,30 @@
+{
+ "name": "stick",
+ "names": {
+  "ja-hrkt": "ながねぎ",
+  "ko": "대파",
+  "zh-hant": "大蔥",
+  "fr": "Poireau",
+  "de": "Lauchstange",
+  "es": "Puerro",
+  "it": "Gambo",
+  "en": "Leek",
+  "ja": "ながねぎ",
+  "zh-hans": "大葱",
+  "es-419": "Puerro"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente le taux de coups critiques de Canarticho de deux niveaux.",
+  "en": "Raises Farfetch’d’s critical hit ratio by two stages."
+ },
+ "flavor": {
+  "en": "An item to be held by Farfetch’d. This very long and stiff stalk of leek boosts its critical-hit ratio.",
+  "ko": "매우 길고 단단한 줄기. 파오리에게 지니게 하면 기술이 급소에 맞기 쉬워진다.",
+  "ja": "とても 長くて 硬い クキ。 カモネギに 持たせると 技が 急所に 当たりやすくなる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "gold-teeth",
+ "names": {
+  "ja-hrkt": "きんのいれば",
+  "ko": "금틀니",
+  "zh-hant": "金假牙",
+  "fr": "Dentier en Or",
+  "de": "Goldenes Gebiss",
+  "es": "Dentadura de Oro",
+  "it": "Denti d’oro",
+  "en": "Gold Teeth",
+  "ja": "きんのいれば",
+  "zh-hans": "金假牙",
+  "es-419": "Dentadura de Oro"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Le dentier du Gardien du Parc Safari. À échanger contre la CS04 (Force).",
+  "en": "The Safari Zone Warden’s dentures. Trade for HM04 (Strength)."
+ },
+ "flavor": {
+  "en": "A set of golden false teeth lost by the Safari Zone’s warden. They make his smile sparkle.",
+  "ko": "사파리존의 원장이 떨어뜨린 금색 틀니. 웃으면 매우 눈부시다.",
+  "ja": "サファリゾーンの 園長が 落とした 金色の 入れ歯。 笑うと とても まぶしい。"
+ }
+}

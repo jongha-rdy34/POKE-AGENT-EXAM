@@ -1,0 +1,17 @@
+{
+ "name": "toxtricity-low-key-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Salarsen Forme Grave Gigamax",
+  "de": "Gigadynamax-Riffex (Tiefform)",
+  "en": "Gigantamax Low Key Toxtricity"
+ },
+ "form_names": {
+  "ja-hrkt": "ローなすがた・キョダイマックスのすがた",
+  "fr": "Gigantamax Form",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "ローなすがた・キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,42 @@
+{
+ "id": 675,
+ "name": "pangoro",
+ "names": {
+  "ja-hrkt": "ゴロンダ",
+  "ja-roma": "Goronda",
+  "ko": "부란다",
+  "zh-hant": "流氓熊貓",
+  "fr": "Pandarbare",
+  "de": "Pandagro",
+  "es": "Pangoro",
+  "it": "Pangoro",
+  "en": "Pangoro",
+  "ja": "ゴロンダ",
+  "zh-hans": "霸道熊猫",
+  "es-419": "Pangoro"
+ },
+ "genus": {
+  "ja-hrkt": "こわもてポケモン",
+  "ko": "무서운얼굴포켓몬",
+  "zh-hant": "惡顏寶可夢",
+  "fr": "Pokémon Patibulaire",
+  "de": "Gaunerblick-Pokémon",
+  "es": "Pokémon Rostro Fiero",
+  "it": "Pokémon Occhiotruce",
+  "en": "Daunting Pokémon",
+  "ja": "こわもてポケモン",
+  "zh-hans": "恶颜宝可梦",
+  "es-419": "Pokémon Rostro Fiero"
+ },
+ "flavor": {
+  "ko": "잎사귀로 상대의 움직임을 읽는다. 대형 덤프트럭을 일격에 고철로 만들어버리는 펀치를 가졌다.",
+  "en": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit."
+ },
+ "varieties": [
+  {
+   "name": "pangoro",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "346"
+}

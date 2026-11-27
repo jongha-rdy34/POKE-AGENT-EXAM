@@ -1,0 +1,23 @@
+{
+ "name": "white-smoke",
+ "names": {
+  "ja-hrkt": "しろいけむり",
+  "ko": "하얀연기",
+  "zh-hant": "白色煙霧",
+  "fr": "Écran Fumée",
+  "de": "Pulverrauch",
+  "es": "Humo Blanco",
+  "it": "Fumochiaro",
+  "en": "White Smoke",
+  "ja": "しろいけむり",
+  "zh-hans": "白色烟雾",
+  "es-419": "Humo Blanco"
+ },
+ "effect": {
+  "en": "Prevents stats from being lowered by other Pokémon."
+ },
+ "flavor": {
+  "en": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",
+  "ko": "하얀 연기의 보호를 받아 상대가 능력을 떨어뜨릴 수 없다."
+ }
+}

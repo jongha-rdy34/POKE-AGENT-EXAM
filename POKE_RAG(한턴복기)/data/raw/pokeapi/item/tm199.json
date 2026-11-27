@@ -1,0 +1,19 @@
+{
+ "name": "tm199",
+ "names": {
+  "ko": "기술머신199",
+  "zh-hant": "招式學習器１９９",
+  "fr": "CT199",
+  "de": "TM199",
+  "es": "MT199",
+  "it": "MT199",
+  "en": "TM199",
+  "ja": "わざマシン１９９",
+  "zh-hans": "招式学习器１９９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

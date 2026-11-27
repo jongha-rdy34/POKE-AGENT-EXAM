@@ -1,0 +1,37 @@
+{
+ "id": 955,
+ "name": "flittle",
+ "names": {
+  "ja-hrkt": "ヒラヒナ",
+  "ja-roma": "Hirahina",
+  "ko": "하느라기",
+  "zh-hant": "飄飄雛",
+  "fr": "Flotillon",
+  "de": "Flattutu",
+  "es": "Flittle",
+  "it": "Flittle",
+  "en": "Flittle",
+  "ja": "ヒラヒナ",
+  "zh-hans": "飘飘雏",
+  "es-419": "Flittle"
+ },
+ "genus": {
+  "ja-hrkt": "フリルポケモン",
+  "ko": "프릴포켓몬",
+  "zh-hant": "褶邊寶可夢",
+  "fr": "Froufrou",
+  "de": "Rüschen",
+  "en": "Frill Pokémon",
+  "zh-hans": "褶边宝可梦"
+ },
+ "flavor": {
+  "en": "It spends its time running around wastelands. If anyone steals its beloved berries, it will chase them down and exact its revenge."
+ },
+ "varieties": [
+  {
+   "name": "flittle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "500"
+}

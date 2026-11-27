@@ -1,0 +1,23 @@
+{
+ "name": "mawile-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Mysdibule",
+  "de": "Mega-Flunkifer",
+  "en": "Mega Mawile"
+ },
+ "form_names": {
+  "ja-hrkt": "メガクチート",
+  "ko": "메가입치트",
+  "zh-hant": "超級大嘴娃",
+  "fr": "Méga-Mysdibule",
+  "de": "Mega-Form",
+  "es": "Mega-Mawile",
+  "it": "MegaMawile",
+  "en": "Mega Mawile",
+  "ja": "メガクチート",
+  "zh-hans": "超级大嘴娃",
+  "es-419": "Mega-Mawile"
+ },
+ "is_mega": true
+}

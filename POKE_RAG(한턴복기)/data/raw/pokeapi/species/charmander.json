@@ -1,0 +1,42 @@
+{
+ "id": 4,
+ "name": "charmander",
+ "names": {
+  "ja-hrkt": "ヒトカゲ",
+  "ja-roma": "Hitokage",
+  "ko": "파이리",
+  "zh-hant": "小火龍",
+  "fr": "Salamèche",
+  "de": "Glumanda",
+  "es": "Charmander",
+  "it": "Charmander",
+  "en": "Charmander",
+  "ja": "ヒトカゲ",
+  "zh-hans": "小火龙",
+  "es-419": "Charmander"
+ },
+ "genus": {
+  "ja-hrkt": "とかげポケモン",
+  "ko": "도롱뇽포켓몬",
+  "zh-hant": "蜥蜴寶可夢",
+  "fr": "Pokémon Lézard",
+  "de": "Echsen-Pokémon",
+  "es": "Pokémon Lagartija",
+  "it": "Pokémon Lucertola",
+  "en": "Lizard Pokémon",
+  "ja": "とかげポケモン",
+  "zh-hans": "蜥蜴宝可梦",
+  "es-419": "Pokémon Lagartija"
+ },
+ "flavor": {
+  "en": "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out.",
+  "ko": "태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다."
+ },
+ "varieties": [
+  {
+   "name": "charmander",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "2"
+}

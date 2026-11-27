@@ -1,0 +1,42 @@
+{
+ "id": 607,
+ "name": "litwick",
+ "names": {
+  "ja-hrkt": "ヒトモシ",
+  "ja-roma": "Hitomoshi",
+  "ko": "불켜미",
+  "zh-hant": "燭光靈",
+  "fr": "Funécire",
+  "de": "Lichtel",
+  "es": "Litwick",
+  "it": "Litwick",
+  "en": "Litwick",
+  "ja": "ヒトモシ",
+  "zh-hans": "烛光灵",
+  "es-419": "Litwick"
+ },
+ "genus": {
+  "ja-hrkt": "ろうそくポケモン",
+  "ko": "양초포켓몬",
+  "zh-hant": "蠟燭寶可夢",
+  "fr": "Pokémon Chandelle",
+  "de": "Kerzen-Pokémon",
+  "es": "Pokémon Vela",
+  "it": "Pokémon Candela",
+  "en": "Candle Pokémon",
+  "ja": "ろうそくポケモン",
+  "zh-hans": "蜡烛宝可梦",
+  "es-419": "Pokémon Vela"
+ },
+ "flavor": {
+  "en": "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.",
+  "ko": "흡수하는 생명이 젊으면 젊을수록 머리의 불꽃은 크고 괴이하게 타오른다."
+ },
+ "varieties": [
+  {
+   "name": "litwick",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "308"
+}

@@ -1,0 +1,30 @@
+{
+ "name": "thunder-stone",
+ "names": {
+  "ja-hrkt": "かみなりのいし",
+  "ko": "천둥의돌",
+  "zh-hant": "雷之石",
+  "fr": "Pierre Foudre",
+  "de": "Donnerstein",
+  "es": "Piedra Trueno",
+  "it": "Pietratuono",
+  "en": "Thunder Stone",
+  "ja": "かみなりのいし",
+  "zh-hans": "雷之石",
+  "es-419": "Piedra Trueno"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Lampéroie en Ohmassacre, un Évoli en Voltali, ou un Pikachu en Raichu.",
+  "en": "Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 천둥번개 무늬가 있다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 稲妻の 模様が ある。"
+ }
+}

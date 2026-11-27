@@ -1,0 +1,42 @@
+{
+ "id": 138,
+ "name": "omanyte",
+ "names": {
+  "ja-hrkt": "オムナイト",
+  "ja-roma": "Omnite",
+  "ko": "암나이트",
+  "zh-hant": "菊石獸",
+  "fr": "Amonita",
+  "de": "Amonitas",
+  "es": "Omanyte",
+  "it": "Omanyte",
+  "en": "Omanyte",
+  "ja": "オムナイト",
+  "zh-hans": "菊石兽",
+  "es-419": "Omanyte"
+ },
+ "genus": {
+  "ja-hrkt": "うずまきポケモン",
+  "ko": "소용돌이포켓몬",
+  "zh-hant": "漩渦寶可夢",
+  "fr": "Pokémon Spirale",
+  "de": "Spiralen-Pokémon",
+  "es": "Pokémon Espiral",
+  "it": "Pokémon Spirale",
+  "en": "Spiral Pokémon",
+  "ja": "うずまきポケモン",
+  "zh-hans": "漩涡宝可梦",
+  "es-419": "Pokémon Espiral"
+ },
+ "flavor": {
+  "en": "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along.",
+  "ko": "멸종한 고대의 포켓몬이다. 10개의 다리로 물을 가르며 떠다니듯 헤엄친다."
+ },
+ "varieties": [
+  {
+   "name": "omanyte",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "69"
+}

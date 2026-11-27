@@ -1,0 +1,20 @@
+{
+ "name": "wasabi",
+ "names": {
+  "ja-hrkt": "ワサビソース",
+  "ko": "와사비소스",
+  "zh-hant": "芥末醬",
+  "fr": "Sauce au Wasabi",
+  "de": "Wasabi",
+  "es": "Wasabi",
+  "it": "Wasabi",
+  "en": "Wasabi",
+  "ja": "ワサビソース",
+  "zh-hans": "芥末酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

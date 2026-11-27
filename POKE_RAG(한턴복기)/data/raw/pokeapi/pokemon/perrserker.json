@@ -1,0 +1,34 @@
+{
+ "id": 863,
+ "name": "perrserker",
+ "species": "perrserker",
+ "is_default": true,
+ "types": [
+  "steel"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 110,
+  "defense": 100,
+  "special-attack": 50,
+  "special-defense": 60,
+  "speed": 50
+ },
+ "abilities": [
+  {
+   "name": "battle-armor",
+   "hidden": false
+  },
+  {
+   "name": "tough-claws",
+   "hidden": false
+  },
+  {
+   "name": "steely-spirit",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 280,
+ "champions_moves": []
+}

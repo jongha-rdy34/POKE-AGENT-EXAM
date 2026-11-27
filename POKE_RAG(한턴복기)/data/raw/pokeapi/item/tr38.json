@@ -1,0 +1,25 @@
+{
+ "name": "tr38",
+ "names": {
+  "ja-hrkt": "わざレコード３８",
+  "ko": "기술레코드38",
+  "zh-hant": "招式紀錄３８",
+  "fr": "DT38",
+  "de": "TP38",
+  "es": "DT38",
+  "it": "DT38",
+  "en": "TR38",
+  "ja": "わざレコード３８",
+  "zh-hans": "招式记录３８",
+  "es-419": "DT38"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대의 빈틈을 노려 자신과 상대가 지닌 물건을 바꿔치기한다.",
+  "en": "The user catches the target off guard and swaps its held item with its own.",
+  "ja": "相手の すきを ついて 自分と 相手の 持ち物を 交換する。"
+ }
+}

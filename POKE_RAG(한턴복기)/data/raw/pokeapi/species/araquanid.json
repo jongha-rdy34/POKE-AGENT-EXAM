@@ -1,0 +1,46 @@
+{
+ "id": 752,
+ "name": "araquanid",
+ "names": {
+  "ja-hrkt": "オニシズクモ",
+  "ja-roma": "Onishizukumo",
+  "ko": "깨비물거미",
+  "zh-hant": "滴蛛霸",
+  "fr": "Tarenbulle",
+  "de": "Aranestro",
+  "es": "Araquanid",
+  "it": "Araquanid",
+  "en": "Araquanid",
+  "ja": "オニシズクモ",
+  "zh-hans": "滴蛛霸",
+  "es-419": "Araquanid"
+ },
+ "genus": {
+  "ja-hrkt": "すいほうポケモン",
+  "ko": "수포포켓몬",
+  "zh-hant": "水泡寶可夢",
+  "fr": "Pokémon Aquabulle",
+  "de": "Wasserblasen-Pokémon",
+  "es": "Pokémon Pompa",
+  "it": "Pokémon Bolladacqua",
+  "en": "Water Bubble Pokémon",
+  "ja": "すいほうポケモン",
+  "zh-hans": "水泡宝可梦",
+  "es-419": "Pokémon Pompa"
+ },
+ "flavor": {
+  "ko": "머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐준다.",
+  "en": "It acts as a caretaker for Dewpider, putting them inside its bubble and letting them eat any leftover food."
+ },
+ "varieties": [
+  {
+   "name": "araquanid",
+   "is_default": true
+  },
+  {
+   "name": "araquanid-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "387"
+}

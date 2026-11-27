@@ -1,0 +1,19 @@
+{
+ "name": "tm224",
+ "names": {
+  "ko": "기술머신224",
+  "zh-hant": "招式學習器２２４",
+  "fr": "CT224",
+  "de": "TM224",
+  "es": "MT224",
+  "it": "MT224",
+  "en": "TM224",
+  "ja": "わざマシン２２４",
+  "zh-hans": "招式学习器２２４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

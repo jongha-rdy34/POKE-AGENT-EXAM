@@ -1,0 +1,28 @@
+{
+ "name": "tm65",
+ "names": {
+  "ja-hrkt": "わざマシン６５",
+  "ko": "기술머신65",
+  "zh-hant": "招式學習器６５",
+  "fr": "CT65",
+  "de": "TM65",
+  "es": "MT65",
+  "it": "MT65",
+  "en": "TM65",
+  "ja": "わざマシン６５",
+  "zh-hans": "招式学习器６５",
+  "es-419": "MT65"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Griffe Ombre à un Pokémon compatible.",
+  "en": "Teaches Shadow Claw to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user slashes with a sharp claw made from shadows. Critical hits land more easily.",
+  "ko": "그림자로 만든 날카로운 발톱으로 상대를 베어 가른다. 급소에 맞기 쉽다.",
+  "ja": "影から つくった 鋭い ツメで 相手を 切り裂く。 急所に 当たりやすい。"
+ }
+}

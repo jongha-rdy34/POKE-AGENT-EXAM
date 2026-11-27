@@ -1,0 +1,25 @@
+{
+ "name": "pasta",
+ "names": {
+  "ja-hrkt": "パスタ",
+  "ko": "파스타",
+  "zh-hant": "通心麵",
+  "fr": "Pâtes",
+  "de": "Spaghetti",
+  "es": "Pasta",
+  "it": "Pasta",
+  "en": "Pasta",
+  "ja": "パスタ",
+  "zh-hans": "通心粉",
+  "es-419": "Pasta"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 밀가루를 반죽해서 만든 면이다. 의외로 카레와 잘 어울린다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. These flour noodles make for a surprisingly good match with curry.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。小麦粉を こねて 作った 麺。意外と カレーに合う。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm27",
+ "names": {
+  "ja-hrkt": "わざマシン２７",
+  "ko": "기술머신27",
+  "zh-hant": "招式學習器２７",
+  "fr": "CT27",
+  "de": "TM27",
+  "es": "MT27",
+  "it": "MT27",
+  "en": "TM27",
+  "ja": "わざマシン２７",
+  "zh-hans": "招式学习器２７",
+  "es-419": "MT27"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Retour à un Pokémon compatible. (Gén I: Abîme)",
+  "en": "Teaches Return to a compatible Pokémon. (Gen I: Fissure)"
+ },
+ "flavor": {
+  "en": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon’s Speed stats.",
+  "ko": "차가운 냉기를 상대에게 내뿜어 공격한다. 상대의 스피드를 떨어뜨린다.",
+  "ja": "凍てつく 冷気を 相手に 吹きつけて 攻撃する。 相手の 素早さを さげる。"
+ }
+}

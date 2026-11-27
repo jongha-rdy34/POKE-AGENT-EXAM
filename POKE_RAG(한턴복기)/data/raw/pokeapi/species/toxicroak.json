@@ -1,0 +1,42 @@
+{
+ "id": 454,
+ "name": "toxicroak",
+ "names": {
+  "ja-hrkt": "ドクロッグ",
+  "ja-roma": "Dokurog",
+  "ko": "독개굴",
+  "zh-hant": "毒骷蛙",
+  "fr": "Coatox",
+  "de": "Toxiquak",
+  "es": "Toxicroak",
+  "it": "Toxicroak",
+  "en": "Toxicroak",
+  "ja": "ドクロッグ",
+  "zh-hans": "毒骷蛙",
+  "es-419": "Toxicroak"
+ },
+ "genus": {
+  "ja-hrkt": "どくづきポケモン",
+  "ko": "독설포켓몬",
+  "zh-hant": "毒擊寶可夢",
+  "fr": "Pokémon Toxique",
+  "de": "Giftmund-Pokémon",
+  "es": "Pokémon Boca Tóxica",
+  "it": "Pokémon Inveieleno",
+  "en": "Toxic Mouth Pokémon",
+  "ja": "どくづきポケモン",
+  "zh-hans": "毒击宝可梦",
+  "es-419": "Pokémon Boca Tóxica"
+ },
+ "flavor": {
+  "en": "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days.",
+  "ko": "사냥감을 처리하면 개굴개굴하며 승리를 자축하는 소리를 높인다. 두빅굴과 가까운 종이다."
+ },
+ "varieties": [
+  {
+   "name": "toxicroak",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "235"
+}

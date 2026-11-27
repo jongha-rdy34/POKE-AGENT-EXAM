@@ -1,0 +1,34 @@
+{
+ "id": 828,
+ "name": "thievul",
+ "species": "thievul",
+ "is_default": true,
+ "types": [
+  "dark"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 58,
+  "defense": 58,
+  "special-attack": 87,
+  "special-defense": 92,
+  "speed": 90
+ },
+ "abilities": [
+  {
+   "name": "run-away",
+   "hidden": false
+  },
+  {
+   "name": "unburden",
+   "hidden": false
+  },
+  {
+   "name": "stakeout",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 199,
+ "champions_moves": []
+}

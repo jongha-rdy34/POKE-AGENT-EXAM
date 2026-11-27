@@ -1,0 +1,20 @@
+{
+ "name": "potato-salad",
+ "names": {
+  "ja-hrkt": "ポテトサラダ",
+  "ko": "감자샐러드",
+  "zh-hant": "馬鈴薯沙拉",
+  "fr": "Salade de Patates",
+  "de": "Kartoffelsalat",
+  "es": "Ensaladilla",
+  "it": "Insalata di patate",
+  "en": "Potato Salad",
+  "ja": "ポテトサラダ",
+  "zh-hans": "土豆沙拉"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

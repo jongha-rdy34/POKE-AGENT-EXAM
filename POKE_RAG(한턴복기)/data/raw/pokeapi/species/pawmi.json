@@ -1,0 +1,37 @@
+{
+ "id": 921,
+ "name": "pawmi",
+ "names": {
+  "ja-hrkt": "パモ",
+  "ja-roma": "Pamo",
+  "ko": "빠모",
+  "zh-hant": "布撥",
+  "fr": "Pohm",
+  "de": "Pamo",
+  "es": "Pawmi",
+  "it": "Pawmi",
+  "en": "Pawmi",
+  "ja": "パモ",
+  "zh-hans": "布拨",
+  "es-419": "Pawmi"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Souris",
+  "de": "Maus",
+  "en": "Mouse Pokémon",
+  "zh-hans": "鼠宝可梦"
+ },
+ "flavor": {
+  "en": "The pads of its paws are electricity-discharging organs. Pawmi fires electricity from its forepaws while standing unsteadily on its hind legs."
+ },
+ "varieties": [
+  {
+   "name": "pawmi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "484"
+}

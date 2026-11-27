@@ -1,0 +1,23 @@
+{
+ "name": "tyranitar-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Tyranocif",
+  "de": "Mega-Despotar",
+  "en": "Mega Tyranitar"
+ },
+ "form_names": {
+  "ja-hrkt": "メガバンギラス",
+  "ko": "메가마기라스",
+  "zh-hant": "超級班基拉斯",
+  "fr": "Méga-Tyranocif",
+  "de": "Mega-Form",
+  "es": "Mega-Tyranitar",
+  "it": "MegaTyranitar",
+  "en": "Mega Tyranitar",
+  "ja": "メガバンギラス",
+  "zh-hans": "超级班基拉斯",
+  "es-419": "Mega-Tyranitar"
+ },
+ "is_mega": true
+}

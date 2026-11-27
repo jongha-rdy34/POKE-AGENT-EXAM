@@ -1,0 +1,31 @@
+{
+ "name": "fire-blast",
+ "names": {
+  "ja-hrkt": "だいもんじ",
+  "ko": "불대문자",
+  "zh-hant": "大字爆炎",
+  "fr": "Déflagration",
+  "de": "Feuersturm",
+  "es": "Llamarada",
+  "it": "Fuocobomba",
+  "en": "Fire Blast",
+  "ja": "だいもんじ",
+  "zh-hans": "大字爆炎",
+  "es-419": "Llamarada"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 110,
+ "accuracy": 85,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to burn the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.",
+  "ko": "큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다."
+ }
+}

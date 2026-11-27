@@ -1,0 +1,20 @@
+{
+ "name": "koffing-gas",
+ "names": {
+  "ja-hrkt": "ドガースのガス",
+  "ko": "또가스의가스",
+  "zh-hant": "瓦斯彈的氣體",
+  "fr": "Gaz de Smogo",
+  "de": "Smogon-Gas",
+  "es": "Gas de Koffing",
+  "it": "Gas di Koffing",
+  "en": "Koffing Gas",
+  "ja": "ドガースのガス",
+  "zh-hans": "瓦斯弹的气体"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

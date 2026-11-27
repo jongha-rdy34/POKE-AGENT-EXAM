@@ -1,0 +1,42 @@
+{
+ "id": 692,
+ "name": "clauncher",
+ "names": {
+  "ja-hrkt": "ウデッポウ",
+  "ja-roma": "Udeppou",
+  "ko": "완철포",
+  "zh-hant": "鐵臂槍蝦",
+  "fr": "Flingouste",
+  "de": "Scampisto",
+  "es": "Clauncher",
+  "it": "Clauncher",
+  "en": "Clauncher",
+  "ja": "ウデッポウ",
+  "zh-hans": "铁臂枪虾",
+  "es-419": "Clauncher"
+ },
+ "genus": {
+  "ja-hrkt": "みずでっぽうポケモン",
+  "ko": "물대포포켓몬",
+  "zh-hant": "水槍寶可夢",
+  "fr": "Pokémon Lance à Eau",
+  "de": "Aquapistolen-Pokémon",
+  "es": "Pokémon Proyectagua",
+  "it": "Pokémon Zampillo",
+  "en": "Water Gun Pokémon",
+  "ja": "みずでっぽうポケモン",
+  "zh-hans": "水枪宝可梦",
+  "es-419": "Pokémon Proyectagua"
+ },
+ "flavor": {
+  "ko": "오른팔의 집게 안에 담긴 가스를 폭발시켜 탄환처럼 물을 발사해서 상대를 쓰러뜨린다.",
+  "en": "By detonating gas that accumulates in its right claw, this Pokémon launches water like a bullet. This is how Clauncher defeats its enemies."
+ },
+ "varieties": [
+  {
+   "name": "clauncher",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "355"
+}

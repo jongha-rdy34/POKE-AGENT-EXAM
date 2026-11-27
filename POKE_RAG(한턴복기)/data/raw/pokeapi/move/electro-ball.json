@@ -1,0 +1,31 @@
+{
+ "name": "electro-ball",
+ "names": {
+  "ja-hrkt": "エレキボール",
+  "ko": "일렉트릭볼",
+  "zh-hant": "電球",
+  "fr": "Boule Élek",
+  "de": "Elektroball",
+  "es": "Bola Voltio",
+  "it": "Energisfera",
+  "en": "Electro Ball",
+  "ja": "エレキボール",
+  "zh-hans": "电球",
+  "es-419": "Electrobola"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is higher when the user has greater Speed than the target, up to a maximum of 150."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.",
+  "ko": "전기 덩어리를 상대에게 부딪쳐서 공격한다. 상대보다 스피드가 빠를수록 위력이 올라간다."
+ }
+}

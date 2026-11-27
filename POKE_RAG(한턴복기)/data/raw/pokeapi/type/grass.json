@@ -1,0 +1,31 @@
+{
+ "name": "grass",
+ "names": {
+  "ja-hrkt": "くさ",
+  "ko": "풀",
+  "zh-hant": "草",
+  "fr": "Plante",
+  "de": "Pflanze",
+  "es": "Planta",
+  "it": "Erba",
+  "en": "Grass",
+  "ja": "くさ",
+  "zh-hans": "草",
+  "es-419": "Planta"
+ },
+ "double_to": [
+  "ground",
+  "rock",
+  "water"
+ ],
+ "half_to": [
+  "flying",
+  "poison",
+  "bug",
+  "steel",
+  "fire",
+  "grass",
+  "dragon"
+ ],
+ "zero_to": []
+}

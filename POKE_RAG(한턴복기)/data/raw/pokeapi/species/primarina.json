@@ -1,0 +1,42 @@
+{
+ "id": 730,
+ "name": "primarina",
+ "names": {
+  "ja-hrkt": "アシレーヌ",
+  "ja-roma": "Ashirene",
+  "ko": "누리레느",
+  "zh-hant": "西獅海壬",
+  "fr": "Oratoria",
+  "de": "Primarene",
+  "es": "Primarina",
+  "it": "Primarina",
+  "en": "Primarina",
+  "ja": "アシレーヌ",
+  "zh-hans": "西狮海壬",
+  "es-419": "Primarina"
+ },
+ "genus": {
+  "ja-hrkt": "ソリストポケモン",
+  "ko": "솔리스트포켓몬",
+  "zh-hant": "獨唱者寶可夢",
+  "fr": "Pokémon Soliste",
+  "de": "Solisten-Pokémon",
+  "es": "Pokémon Solista",
+  "it": "Pokémon Solista",
+  "en": "Soloist Pokémon",
+  "ja": "ソリストポケモン",
+  "zh-hans": "独唱者宝可梦",
+  "es-419": "Pokémon Solista"
+ },
+ "flavor": {
+  "ko": "싸움은 누리레느의 스테이지다. 노래와 벌룬이 흩날리는 모습은 보는 이들을 매료시킨다.",
+  "en": "For Primarina, every battle’s a stage. Its singing and the dancing of its balloons will mesmerize the audience."
+ },
+ "varieties": [
+  {
+   "name": "primarina",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "376"
+}

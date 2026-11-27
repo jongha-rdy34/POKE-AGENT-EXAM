@@ -1,0 +1,19 @@
+{
+ "name": "tm177",
+ "names": {
+  "ko": "기술머신177",
+  "zh-hant": "招式學習器１７７",
+  "fr": "CT177",
+  "de": "TM177",
+  "es": "MT177",
+  "it": "MT177",
+  "en": "TM177",
+  "ja": "わざマシン１７７",
+  "zh-hans": "招式学习器１７７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

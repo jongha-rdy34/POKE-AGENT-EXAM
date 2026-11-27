@@ -1,0 +1,31 @@
+{
+ "name": "draining-kiss",
+ "names": {
+  "ja-hrkt": "ドレインキッス",
+  "ko": "드레인키스",
+  "zh-hant": "吸取之吻",
+  "fr": "Vampibaiser",
+  "de": "Diebeskuss",
+  "es": "Beso Drenaje",
+  "it": "Assorbibacio",
+  "en": "Draining Kiss",
+  "ja": "ドレインキッス",
+  "zh-hans": "吸取之吻",
+  "es-419": "Beso Drenador"
+ },
+ "type": "fairy",
+ "category": "special",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Drains 75% of the damage inflicted to heal the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "키스로 상대의 HP를 흡수한다. 준 데미지의 반 이상 HP를 회복한다.",
+  "en": "The user steals the target's HP with a kiss. The user's HP is restored by over half the damage taken by the target."
+ }
+}

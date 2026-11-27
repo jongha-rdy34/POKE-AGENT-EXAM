@@ -1,0 +1,31 @@
+{
+ "name": "acid-armor",
+ "names": {
+  "ja-hrkt": "とける",
+  "ko": "녹기",
+  "zh-hant": "溶化",
+  "fr": "Acidarmure",
+  "de": "Säurepanzer",
+  "es": "Armadura Ácida",
+  "it": "Scudo Acido",
+  "en": "Acid Armor",
+  "ja": "とける",
+  "zh-hans": "溶化",
+  "es-419": "Armadura Ácida"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Defense by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat.",
+  "ko": "세포의 변화로 액체가 되어 자신의 방어를 크게 올린다."
+ }
+}

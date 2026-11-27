@@ -1,0 +1,31 @@
+{
+ "name": "earthquake",
+ "names": {
+  "ja-hrkt": "じしん",
+  "ko": "지진",
+  "zh-hant": "地震",
+  "fr": "Séisme",
+  "de": "Erdbeben",
+  "es": "Terremoto",
+  "it": "Terremoto",
+  "en": "Earthquake",
+  "ja": "じしん",
+  "zh-hans": "地震",
+  "es-419": "Terremoto"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage and can hit Dig users."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user sets off an earthquake that strikes every Pokémon around it.",
+  "ko": "지진의 충격으로 자신의 주위에 있는 포켓몬을 공격한다."
+ }
+}

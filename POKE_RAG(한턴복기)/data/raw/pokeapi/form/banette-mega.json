@@ -1,0 +1,23 @@
+{
+ "name": "banette-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Branette",
+  "de": "Mega-Banette",
+  "en": "Mega Banette"
+ },
+ "form_names": {
+  "ja-hrkt": "メガジュペッタ",
+  "ko": "메가다크펫",
+  "zh-hant": "超級詛咒娃娃",
+  "fr": "Méga-Branette",
+  "de": "Mega-Form",
+  "es": "Mega-Banette",
+  "it": "MegaBanette",
+  "en": "Mega Banette",
+  "ja": "メガジュペッタ",
+  "zh-hans": "超级诅咒娃娃",
+  "es-419": "Mega-Banette"
+ },
+ "is_mega": true
+}

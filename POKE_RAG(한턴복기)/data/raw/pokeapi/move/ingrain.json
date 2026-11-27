@@ -1,0 +1,31 @@
+{
+ "name": "ingrain",
+ "names": {
+  "ja-hrkt": "ねをはる",
+  "ko": "뿌리박기",
+  "zh-hant": "扎根",
+  "fr": "Racines",
+  "de": "Verwurzler",
+  "es": "Arraigo",
+  "it": "Radicamento",
+  "en": "Ingrain",
+  "ja": "ねをはる",
+  "zh-hans": "扎根",
+  "es-419": "Arraigo"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out.",
+  "ko": "대지에 뿌리를 박아 매 턴마다 자신의 HP를 회복한다. 뿌리 박고 있으므로 교체할 수 없다."
+ }
+}

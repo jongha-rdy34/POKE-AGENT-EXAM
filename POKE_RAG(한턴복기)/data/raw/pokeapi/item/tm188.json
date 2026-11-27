@@ -1,0 +1,19 @@
+{
+ "name": "tm188",
+ "names": {
+  "ko": "기술머신188",
+  "zh-hant": "招式學習器１８８",
+  "fr": "CT188",
+  "de": "TM188",
+  "es": "MT188",
+  "it": "MT188",
+  "en": "TM188",
+  "ja": "わざマシン１８８",
+  "zh-hans": "招式学习器１８８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,27 @@
+{
+ "name": "linking-cord",
+ "names": {
+  "ko": "연결의끈",
+  "zh-hant": "聯繫繩",
+  "fr": "Fil de Liaison",
+  "de": "Verbindungsschnur",
+  "es": "Cordón Unión",
+  "it": "Filo dell’unione",
+  "en": "Linking Cord",
+  "ja": " つながりのヒモ",
+  "zh-hans": "联系绳"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Permet à un Pokémon dont l'évolution est normalement déclenchée par échange d'évoluer.",
+  "en": "Allows a Pokemon whose evolution is usually triggered by trading to evolve"
+ },
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-sinnoh-cap",
+ "form_name": "sinnoh-cap",
+ "names": {
+  "fr": "Pikachu Casquette de Sinnoh",
+  "de": "Pikachu (Sinnoh-Kappe)",
+  "en": "Sinnoh Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "シンオウキャップ",
+  "ko": "신오캡",
+  "zh-hant": "神奧帽子",
+  "fr": "Casquette de Sinnoh",
+  "de": "Sinnoh-Kappe",
+  "es": "Gorra Sinnoh",
+  "it": "Berretto Sinnoh",
+  "en": "Sinnoh Cap",
+  "ja": "シンオウキャップ",
+  "zh-hans": "神奥帽子",
+  "es-419": "Gorra Sinnoh"
+ },
+ "is_mega": false
+}

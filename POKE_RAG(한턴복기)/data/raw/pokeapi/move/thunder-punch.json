@@ -1,0 +1,31 @@
+{
+ "name": "thunder-punch",
+ "names": {
+  "ja-hrkt": "かみなりパンチ",
+  "ko": "번개펀치",
+  "zh-hant": "雷電拳",
+  "fr": "Poing Éclair",
+  "de": "Donnerschlag",
+  "es": "Puño Trueno",
+  "it": "Tuonopugno",
+  "en": "Thunder Punch",
+  "ja": "かみなりパンチ",
+  "zh-hans": "雷电拳",
+  "es-419": "Puño Trueno"
+ },
+ "type": "electric",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The target is attacked with an electrified punch. This may also leave the target with paralysis.",
+  "ko": "전격을 담은 펀치로 상대를 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

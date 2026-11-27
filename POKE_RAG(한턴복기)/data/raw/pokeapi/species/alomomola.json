@@ -1,0 +1,42 @@
+{
+ "id": 594,
+ "name": "alomomola",
+ "names": {
+  "ja-hrkt": "ママンボウ",
+  "ja-roma": "Mamanbou",
+  "ko": "맘복치",
+  "zh-hant": "保母曼波",
+  "fr": "Mamanbo",
+  "de": "Mamolida",
+  "es": "Alomomola",
+  "it": "Alomomola",
+  "en": "Alomomola",
+  "ja": "ママンボウ",
+  "zh-hans": "保姆曼波",
+  "es-419": "Alomomola"
+ },
+ "genus": {
+  "ja-hrkt": "かいほうポケモン",
+  "ko": "돌보기포켓몬",
+  "zh-hant": "看護寶可夢",
+  "fr": "Pokémon Soigneur",
+  "de": "Fürsorge",
+  "es": "Pokémon Socorrista",
+  "it": "Pokémon Assistenza",
+  "en": "Caring Pokémon",
+  "ja": "かいほうポケモン",
+  "zh-hans": "看护宝可梦",
+  "es-419": "Pokémon Socorrista"
+ },
+ "flavor": {
+  "en": "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
+  "ko": "약해진 포켓몬을 도와주는 것은 이를 노리고 오는 포켓몬에게 자신도 공격받기 때문이라고 한다."
+ },
+ "varieties": [
+  {
+   "name": "alomomola",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "302"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "banettite",
+ "names": {
+  "ja-hrkt": "ジュペッタナイト",
+  "ko": "다크펫나이트",
+  "zh-hant": "詛咒娃娃進化石",
+  "fr": "Branettite",
+  "de": "Banetteonit",
+  "es": "Banettita",
+  "it": "Banettite",
+  "en": "Banettite",
+  "ja": "ジュペッタナイト",
+  "zh-hans": "诅咒娃娃进化石",
+  "es-419": "Banettita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Branette de Méga-Évoluer en Méga-Branette.",
+  "en": "Held: Allows Banette to Mega Evolve into Mega Banette."
+ },
+ "flavor": {
+  "ko": "다크펫에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Banette hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ジュペッタに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

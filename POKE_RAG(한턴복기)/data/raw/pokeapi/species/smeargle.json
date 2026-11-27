@@ -1,0 +1,42 @@
+{
+ "id": 235,
+ "name": "smeargle",
+ "names": {
+  "ja-hrkt": "ドーブル",
+  "ja-roma": "Doble",
+  "ko": "루브도",
+  "zh-hant": "圖圖犬",
+  "fr": "Queulorior",
+  "de": "Farbeagle",
+  "es": "Smeargle",
+  "it": "Smeargle",
+  "en": "Smeargle",
+  "ja": "ドーブル",
+  "zh-hans": "图图犬",
+  "es-419": "Smeargle"
+ },
+ "genus": {
+  "ja-hrkt": "えかきポケモン",
+  "ko": "그림장이포켓몬",
+  "zh-hant": "畫畫寶可夢",
+  "fr": "Pokémon Peintre",
+  "de": "Maler",
+  "es": "Pokémon Pintor",
+  "it": "Pokémon Pittore",
+  "en": "Painter Pokémon",
+  "ja": "えかきポケモン",
+  "zh-hans": "画画宝可梦",
+  "es-419": "Pokémon Pintor"
+ },
+ "flavor": {
+  "en": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+  "ko": "꼬리 끝에서 나오는 체액으로 마크를 그린다. 마크에 따라서는 마니아에게 비싼 값에 거래된다."
+ },
+ "varieties": [
+  {
+   "name": "smeargle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "121"
+}

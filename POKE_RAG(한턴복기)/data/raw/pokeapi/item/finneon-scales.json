@@ -1,0 +1,20 @@
+{
+ "name": "finneon-scales",
+ "names": {
+  "ja-hrkt": "ケイコウオのウロコ",
+  "ko": "형광어의비늘",
+  "zh-hant": "螢光魚的鱗片",
+  "fr": "Écaille d’Écayon",
+  "de": "Finneon-Schuppe",
+  "es": "Escama de Finneon",
+  "it": "Squama di Finneon",
+  "en": "Finneon Scales",
+  "ja": "ケイコウオのウロコ",
+  "zh-hans": "荧光鱼的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

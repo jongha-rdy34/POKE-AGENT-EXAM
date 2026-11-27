@@ -1,0 +1,28 @@
+{
+ "name": "tm89",
+ "names": {
+  "ja-hrkt": "わざマシン８９",
+  "ko": "기술머신89",
+  "zh-hant": "招式學習器８９",
+  "fr": "CT89",
+  "de": "TM89",
+  "es": "MT89",
+  "it": "MT89",
+  "en": "TM89",
+  "ja": "わざマシン８９",
+  "zh-hans": "招式学习器８９",
+  "es-419": "MT89"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Demi-Tour à un Pokémon compatible.",
+  "en": "Teaches U-turn to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.",
+  "ko": "5턴 동안 땅에 있으면 상태 이상이 되지 않고 드래곤타입 기술의 데미지도 절반이 된다.",
+  "ja": "５ターンの 間 地面にいると 状態異常に ならず ドラゴン技の ダメージも 半分になる。"
+ }
+}

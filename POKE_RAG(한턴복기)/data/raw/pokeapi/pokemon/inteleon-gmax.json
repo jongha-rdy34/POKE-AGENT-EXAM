@@ -1,0 +1,30 @@
+{
+ "id": 10211,
+ "name": "inteleon-gmax",
+ "species": "inteleon",
+ "is_default": false,
+ "types": [
+  "water"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "special-attack": 125,
+  "special-defense": 65,
+  "speed": 120
+ },
+ "abilities": [
+  {
+   "name": "torrent",
+   "hidden": false
+  },
+  {
+   "name": "sniper",
+   "hidden": true
+  }
+ ],
+ "height": 400,
+ "weight": 10000,
+ "champions_moves": []
+}

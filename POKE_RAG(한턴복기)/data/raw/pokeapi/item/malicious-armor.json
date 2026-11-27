@@ -1,0 +1,20 @@
+{
+ "name": "malicious-armor",
+ "names": {
+  "ja-hrkt": "ノロイノヨロイ",
+  "ko": "저주받은갑옷",
+  "zh-hant": "詛咒之鎧",
+  "fr": "Armure de la Rancune",
+  "de": "Fluchrüstung",
+  "es": "Armadura Maldita",
+  "it": "Armatura infausta",
+  "en": "Malicious Armor",
+  "ja": "ノロイノヨロイ",
+  "zh-hans": "咒术之铠"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,27 @@
+{
+ "id": 10116,
+ "name": "greninja-battle-bond",
+ "species": "greninja",
+ "is_default": false,
+ "types": [
+  "water",
+  "dark"
+ ],
+ "stats": {
+  "hp": 72,
+  "attack": 95,
+  "defense": 67,
+  "special-attack": 103,
+  "special-defense": 71,
+  "speed": 122
+ },
+ "abilities": [
+  {
+   "name": "battle-bond",
+   "hidden": false
+  }
+ ],
+ "height": 15,
+ "weight": 400,
+ "champions_moves": []
+}

@@ -1,0 +1,28 @@
+{
+ "name": "abomasite",
+ "names": {
+  "ja-hrkt": "ユキノオナイト",
+  "ko": "눈설왕나이트",
+  "zh-hant": "暴雪王進化石",
+  "fr": "Blizzarite",
+  "de": "Rexblisarnit",
+  "es": "Abomasnowita",
+  "it": "Abomasnowite",
+  "en": "Abomasite",
+  "ja": "ユキノオナイト",
+  "zh-hans": "暴雪王进化石",
+  "es-419": "Abomasnowita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Blizzaroi de Méga-Évoluer en Méga-Blizzaroi.",
+  "en": "Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow."
+ },
+ "flavor": {
+  "ko": "눈설왕에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Abomasnow hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ユキノオーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

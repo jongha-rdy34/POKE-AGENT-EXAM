@@ -1,0 +1,25 @@
+{
+ "name": "fried-food",
+ "names": {
+  "ja-hrkt": "フライもりあわせ",
+  "ko": "모둠튀김",
+  "zh-hant": "炸物拼盤",
+  "fr": "Fritures",
+  "de": "Frittiertes",
+  "es": "Frituras",
+  "it": "Fritto misto",
+  "en": "Fried Food",
+  "ja": "フライもりあわせ",
+  "zh-hans": "炸物拼盘",
+  "es-419": "Frituras"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 튀기고 시간이 좀 지나서 살짝 느끼하다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. It’s been a while since it was fried, so it’s gotten greasy.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。揚げてから 時間がたつので 少し 油っこい。"
+ }
+}

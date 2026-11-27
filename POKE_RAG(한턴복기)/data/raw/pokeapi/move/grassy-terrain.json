@@ -1,0 +1,31 @@
+{
+ "name": "grassy-terrain",
+ "names": {
+  "ja-hrkt": "グラスフィールド",
+  "ko": "그래스필드",
+  "zh-hant": "青草場地",
+  "fr": "Champ Herbu",
+  "de": "Grasfeld",
+  "es": "Campo de Hierba",
+  "it": "Campo Erboso",
+  "en": "Grassy Terrain",
+  "ja": "グラスフィールド",
+  "zh-hans": "青草场地",
+  "es-419": "Campo de Césped"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their Grass moves to 1.5× their power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "5턴 동안 그래스필드로 만든다. 땅에 있으면 매 턴 회복한다. 풀타입의 위력이 올라간다.",
+  "en": "The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "ribbon-sweet",
+ "names": {
+  "ja-hrkt": "リボンアメざいく",
+  "ko": "리본사탕공예",
+  "zh-hant": "蝴蝶結糖飾",
+  "fr": "Ruban en Sucre",
+  "de": "Zucker-Schleife",
+  "es": "Confite Lazo",
+  "it": "Bonbonfiocco",
+  "en": "Ribbon Sweet",
+  "ja": "リボンアメざいく",
+  "zh-hans": "蝴蝶结糖饰",
+  "es-419": "Confite Lazo"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "리본 모양의 사탕공예. 마빌크에게 지니게 하면 빙빙 돌며 기뻐한다.",
+  "en": "A ribbon-shaped sweet. When a Milcery holds this, it spins around happily.",
+  "ja": "リボンの 形を した アメ細工。 マホミルに 持たせてあげると くるくる 回って 喜ぶ。"
+ }
+}

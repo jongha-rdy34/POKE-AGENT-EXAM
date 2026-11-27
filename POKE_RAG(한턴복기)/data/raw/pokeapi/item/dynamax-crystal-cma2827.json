@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-cma2827",
+ "names": {
+  "ja-hrkt": "★CMa2827",
+  "ko": "★CMa2827",
+  "zh-hant": "★CMa2827",
+  "fr": "★CMa2827",
+  "de": "★CMa2827",
+  "es": "★CMa2827",
+  "it": "★CMa2827",
+  "en": "★CMa2827",
+  "ja": "★CMa2827",
+  "zh-hans": "★CMa2827",
+  "es-419": "★CMa2827"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

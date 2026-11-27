@@ -1,0 +1,31 @@
+{
+ "name": "spirit-break",
+ "names": {
+  "ja-hrkt": "ソウルクラッシュ",
+  "ko": "소울크래시",
+  "zh-hant": "靈魂衝擊",
+  "fr": "Choc Émotionnel",
+  "de": "Seelenbruch",
+  "es": "Choque Anímico",
+  "it": "Frantumanima",
+  "en": "Spirit Break",
+  "ja": "ソウルクラッシュ",
+  "zh-hans": "灵魂冲击",
+  "es-419": "Choque Anímico"
+ },
+ "type": "fairy",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "맞으면 기가 꺾여버릴 것 같은 기세로 공격한다. 상대의 특수공격을 떨어뜨린다.",
+  "en": "The user attacks the target with so much force that it could break the target's spirit. This also lowers the target's Sp. Atk stat."
+ }
+}

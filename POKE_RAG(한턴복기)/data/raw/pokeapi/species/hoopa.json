@@ -1,0 +1,46 @@
+{
+ "id": 720,
+ "name": "hoopa",
+ "names": {
+  "ja-hrkt": "フーパ",
+  "ja-roma": "Hoopa",
+  "ko": "후파",
+  "zh-hant": "胡帕",
+  "fr": "Hoopa",
+  "de": "Hoopa",
+  "es": "Hoopa",
+  "it": "Hoopa",
+  "en": "Hoopa",
+  "ja": "フーパ",
+  "zh-hans": "胡帕",
+  "es-419": "Hoopa"
+ },
+ "genus": {
+  "ja-hrkt": "いたずらポケモン",
+  "ko": "장난포켓몬",
+  "zh-hant": "頑童寶可夢",
+  "fr": "Pokémon Chenapan",
+  "de": "Schabernack",
+  "es": "Pokémon Travesura",
+  "it": "Pokémon Birba",
+  "en": "Mischief Pokémon",
+  "ja": "いたずらポケモン",
+  "zh-hans": "顽童宝可梦",
+  "es-419": "Pokémon Travesura"
+ },
+ "flavor": {
+  "ko": "6개의 링과 6개의 거대한 팔로 수많은 것들을 빼앗는다고 전해진다. 힘이 봉인되어 작은 모습으로 변했다.",
+  "en": "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form."
+ },
+ "varieties": [
+  {
+   "name": "hoopa",
+   "is_default": true
+  },
+  {
+   "name": "hoopa-unbound",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "372"
+}

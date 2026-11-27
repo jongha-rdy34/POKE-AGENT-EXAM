@@ -1,0 +1,37 @@
+{
+ "id": 932,
+ "name": "nacli",
+ "names": {
+  "ja-hrkt": "コジオ",
+  "ja-roma": "Kojio",
+  "ko": "베베솔트",
+  "zh-hant": "鹽石寶",
+  "fr": "Selutin",
+  "de": "Geosali",
+  "es": "Nacli",
+  "it": "Nacli",
+  "en": "Nacli",
+  "ja": "コジオ",
+  "zh-hans": "盐石宝",
+  "es-419": "Nacli"
+ },
+ "genus": {
+  "ja-hrkt": "がんえんポケモン",
+  "ko": "암염포켓몬",
+  "zh-hant": "岩鹽寶可夢",
+  "fr": "Halite",
+  "de": "Steinsalz",
+  "en": "Rock Salt Pokémon",
+  "zh-hans": "岩盐宝可梦"
+ },
+ "flavor": {
+  "en": "The ground scrapes its body as it travels, causing it to leave salt behind. Salt is constantly being created and replenished inside Nacli’s body."
+ },
+ "varieties": [
+  {
+   "name": "nacli",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "489"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "illuminate",
+ "names": {
+  "ja-hrkt": "はっこう",
+  "ko": "발광",
+  "zh-hant": "發光",
+  "fr": "Lumiattirance",
+  "de": "Erleuchtung",
+  "es": "Iluminación",
+  "it": "Risplendi",
+  "en": "Illuminate",
+  "ja": "はっこう",
+  "zh-hans": "发光",
+  "es-419": "Iluminación"
+ },
+ "effect": {
+  "en": "Doubles the wild encounter rate."
+ },
+ "flavor": {
+  "en": "By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.",
+  "ko": "주변을 밝게 하는 것으로 야생 포켓몬과 만나기 쉬워진다."
+ }
+}

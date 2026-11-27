@@ -1,0 +1,31 @@
+{
+ "name": "storm-throw",
+ "names": {
+  "ja-hrkt": "やまあらし",
+  "ko": "업어후리기",
+  "zh-hant": "山嵐摔",
+  "fr": "Yama Arashi",
+  "de": "Bergsturm",
+  "es": "Llave Corsé",
+  "it": "Tempestretta",
+  "en": "Storm Throw",
+  "ja": "やまあらし",
+  "zh-hans": "山岚摔",
+  "es-419": "Llave Tempestad"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Always scores a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user strikes the target with a fierce blow. This attack always results in a critical hit.",
+  "ko": "강렬한 일격을 상대에게 날린다. 공격은 반드시 급소에 맞는다."
+ }
+}

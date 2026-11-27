@@ -1,0 +1,1960 @@
+If you were looking for the Pokémon information screen formerly known as "stats", see Summary.
+
+A stat (Japanese: 能力(のうりょく) ability) refers to any of several parameters pertaining to Pokémon that can affect turn order, move success, and damage output during a battle. With exception to the HP stat, a Pokémon's stat can also be temporarily raised or lowered in stages during battle through various effects. In a large subset of these parameters, stats also refer to their measured values attributed to individual Pokémon, and they are generally raised by increasing their level or by evolving. While each species of Pokémon share the same set of base stats that determine the actual stats of a Pokémon at a given level, other properties add to the variation of stats within the species, most notably being individual values, effort values, and Nature.
+
+The name is short for statistic or status; in some cases, it has also been named ability, rating, effect, or parameter.
+
+## Contents
+
+ Collapse all
+ Hide
+
+ Close table of contents
+
+ (Return to top)
+
+ Terminology
+
+ Stat
+
+ Rating
+
+ Effect
+
+ Ability
+
+ Parameter
+
+ List of stats
+
+ Permanent stats
+
+ HP
+
+ Attack
+
+ Defense
+
+ Special
+
+ Special Attack
+
+ Special Defense
+
+ Speed
+
+ In-battle stats
+
+ Evasion
+
+ Accuracy
+
+ Movement speed
+
+ Determination of stats
+
+ Base stat values
+
+ Level
+
+ Nature
+
+ Individual values
+
+ Effort values
+
+ Go Power
+
+ Formula
+
+ Generations I and II
+
+ Example
+
+ Generation III onward
+
+ Example
+
+ Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+
+ Pokémon Legends: Arceus
+
+ Pokémon Champions
+
+ In battle
+
+ Accuracy and evasion
+
+ Generations I and II
+
+ Generations III onward
+
+ Combat Power
+
+ Stat modifiers
+
+ Icons
+
+ In other games
+
+ Mystery Dungeon series
+
+ Pokémon Conquest
+
+ Pokémon GO
+
+ Pokémon: Magikarp Jump
+
+ Jump Power
+
+ In animation
+
+ Pokémon the Series
+
+ Pokémon the Series: The Beginning
+
+ Pokémon the Series: Gold and Silver
+
+ Pokémon the Series: Ruby and Sapphire
+
+ Pokémon the Series: Diamond and Pearl
+
+ Pokémon the Series: Black & White
+
+ Pokémon the Series: XY
+
+ Pokémon the Series: Sun & Moon
+
+ Pokémon Journeys: The Series
+
+ Pokémon Horizons: The Series
+
+ Gallery
+
+ In other languages
+
+ References
+
+ Related articles
+
+## Terminology
+
+### Stat
+
+The word "stat" (or "stats") is not used in Generation I with this meaning. The word "statistic" (or "statistics") is not used in any core series game with this meaning.
+
+The word "stat" is used in several places from Generation II onwards. Some examples:
+
+The move descriptions of Haze, Psych Up, and Mist use "stat" or "stats" from Generation II onwards, except in some Generation III games.
+
+In the text displayed when Haze is used in Generation II: "All stat changes were eliminated!"
+
+In the text displayed when Psych Up is used in Generation II: "<user> copied the stat changes of <target>!"
+
+The Trainer Tips from Route 36 in Generation II: "Pokémon stats vary--even within the same species. Their stats may be similar at first. However, differences will become pronounced as the Pokémon grow."
+
+According to Pryce in Generation II, the Glacier Badge raises the "Special stats of Pokémon".
+
+Some dialogue in Pokémon FireRed and LeafGreen uses "stat", replacing "ability" from the Generation I dialogue. For instance, an NPC in Lavender Town's Poké Mart and two NPCs at the fifth floor of the Celadon Department Store talk about items that raise the Pokémon's stats (as opposed to "abilities" in Generation I).
+
+The word "status" is used on the Trainer Tips signboard explaining Guard Spec. in Celadon City in Pokémon FireRed, LeafGreen, HeartGold, and SoulSilver, in the description of Snatch in Pokémon FireRed and LeafGreen and Generation IV, and in the description of Clear Smog in Generation V.
+
+### Rating
+
+In Generation II, sometimes the word "rating" is used.
+
+In Growth's description from Pokémon Gold, Silver, and Crystal.
+
+In Psychic's description from Pokémon Stadium and Stadium 2.
+
+### Effect
+
+In Pokémon Ruby, Sapphire, and Emerald, as well as Pokémon Colosseum and XD, the move Psych Up simply copies the target's stat changes. However, the move description states that it copies the foe's "effect(s)".
+
+### Ability
+
+From Generations I to III, sometimes the word "ability" is used.
+
+In the Generation I games:
+Mr. Psychic says when delivering TM29 (Psychic): "It may lower the target's Special abilities."
+
+An NPC in Lavender Town's Poké Mart mentions "items that raise the abilities of Pokémon during a battle", referring to items such as X Attack and X Defense.
+
+Two NPCs at the fifth floor of the Celadon Department Store mention "Pokémon ability enhancers", referring to items such as Carbos and Calcium.
+
+Blaine, as well as the man who explains badges in Cerulean City, mention that the Volcano Badge increases a Pokémon's "Special abilities".
+
+In the Pokémon Stadium manual, it is said "Compare the Abilities of Captured Pokémon!", referring to their stats.
+
+In Generation II, the string for multiple stats being at +6 already uses the word Ability.
+
+The Generation III descriptions of Clear Body, White Smoke, Mist, and Memento mention "ability" or "abilities", referring to stats.
+
+In Pokémon Emerald, this term is used by the Pokémon Breeder at the Battle Frontier. For instance: "If you ever become as seasoned as me, you'll see the abilities of Pokémon at a glance."
+
+### Parameter
+
+The list of stats is named "Parameters" (Japanese: パラメータ) at the Pokémon's summary in Pokémon Gold and Silver Spaceworld '97 demo.
+
+## List of stats
+
+### Permanent stats
+
+#### HP
+
+Main article: HP
+The HP stat (Japanese: HP, symbol H), short for Hit Points (Japanese: ヒットポイント Hit Point), determines how much damage a Pokémon can receive before fainting. In Pokémon GO, it is also called Stamina.
+
+#### Attack
+
+The Attack stat (Japanese: 攻撃能力(こうげきのうりょく) attack ability, symbol A), or informally Physical Attack, partly determines how much damage a Pokémon deals when using a physical move. For more information on how Attack affects damage, see Damage → Damage calculation.
+
+#### Defense
+
+The Defense stat (Japanese: 防御能力(ぼうぎょのうりょく) defense ability, symbol B), or informally Physical Defense, partly determines how much damage a Pokémon receives when it is hit with a physical move. For more information on how Defense affects damage, see Damage → Damage calculation.
+
+#### Special
+
+The Special stat (Japanese: とくしゅのうりょく special ability) is a stat that exists only in Generation I.
+
+The Special stat accounted for what is currently known as Special Attack and Special Defense, determining how much damage a Pokémon both receives and deals when special moves are used. As a result, a Pokémon could not be both strong with and weak against a Special attack, or vice versa, in the same way a Pokémon might have high Attack but low Defense. With Generation II, the Special stat was split into Special Attack and Special Defense, meaning Pokémon could have different base stat values for both, and those stats were both displayed on a Pokémon's stat screen; however, individual values and effort values remained unsplit, so that there was only a Special individual value and Special effort values, which affected both the Special Attack and Special Defense stats. Furthermore, Calcium increased both stats. In Generation III, IVs and EVs were finally given both Special Attack and Special Defense values as well, and the Calcium now worked on only Special Attack while the Zinc was introduced for the Special Defense.
+
+##### Special Attack
+
+The Special Attack stat (Japanese: 特攻能力(とくこうのうりょく) special attack ability, symbol C), or Sp. Atk and Spcl. AtkGSCStad2 for short, partly determines how much damage a Pokémon deals when using a special move. For more information on how Special Attack affects damage, see Damage → Damage calculation.
+
+##### Special Defense
+
+The Special Defense stat (Japanese: 特防能力(とくぼうのうりょく) special defense ability, symbol D), or Sp. Def and Spcl. DefGSCStad2 for short, partly determines how much damage a Pokémon receives when it is hit with a special move. For more information on how Special Defense affects damage, see Damage → Damage calculation.
+
+#### Speed
+
+The Speed stat (Japanese: 素早(すばや)さ能力(のうりょく) agility, symbol S) determines the order of Pokémon that can act in battle. If Pokémon are moving with the same priority, Pokémon with higher Speed at the start of any turn will generally make a move before ones with lower Speed; in the case that two Pokémon have the same Speed, one of them will randomly go first. Prior to Generation VIII, in-battle changes to a Pokémon's Speed stat did not start affecting turn order until the following turn; however, in Generation VII, if Mega Evolution or Ultra Burst caused changes to the base Speed stat or to an Ability that affected Speed or priority, those changes took effect immediately for the upcoming turn. In Generation VIII, all speed changes take effect immediately; after every individual move, the next Pokémon to move is the fastest Pokémon that hasn't yet made its move that turn.
+
+In Pokémon Legends: Z-A, where real-time combat is utilized, a higher Speed stat shortens the cooldown of moves, to a minimum of 3 seconds.
+
+### In-battle stats
+
+#### Evasion
+
+The evasiveness (Japanese: 回避率(かいひりつ) evasion rate), or evasion, of a Pokémon determines its probability of avoiding other Pokémon's moves. The initial value at the start of any battle is 100%. If a Pokémon's evasiveness is reduced below 100% with a move such as Sweet Scent or Defog, other Pokémon will have a better chance of their moves hitting. If evasiveness is increased above 100% with a move such as Double Team, other Pokémon will have a harder time connecting their moves.
+
+#### Accuracy
+
+The accuracy (Japanese: 命中率(めいちゅうりつ) accuracy rate) of a Pokémon determines its probability of hitting another Pokémon. The initial value at the start of any battle is 100%. Along with accuracy-raising moves and items, in Pokémon XD, the player can also raise a Pokémon's accuracy by one stage by using the call action, as long as the Pokémon is not asleep or in Reverse Mode (in which case removing the condition takes precedence over raising accuracy).
+
+#### Movement speed
+
+Movement speed, introduced in and exclusive to Pokémon Legends: Z-A, determines how fast a Pokémon can travel on the map. Moves that modify Speed in other games, along with paralysis, would instead modify movement speed in Legends: Z-A. Counterintuitively, movement speed does not interact with the Speed stat at all, which is only used to reduce cooldown time. A Pokémon's base movement speed is solely determined by its species, unaffected by level, EVs, and other such values.
+
+## Determination of stats
+
+### Base stat values
+
+A Pokémon's base stat values will most often have the greatest influence over their specific stats at any level. Disregarding individual values, effort values, and Nature, a level 100 Pokémon's stats in Attack, Defense, Speed, Special Attack, and Special Defense will be exactly 5 more than double its base stat values in each, while the HP stat will be 110 plus double the base stat value (except in the case of Shedinja, whose HP is always 1).
+
+For a list of Pokémon by their base stat values, see the list of Pokémon by base stats.
+
+### Level
+
+Main article: Level
+When a Pokémon grows a level, its stats will increase. For each level gained (ignoring Nature), stats will increase by 1/50 the base stat value, and 1/100 the combined individual value and effort value. This means that it is impossible, through leveling up, for a Pokémon to ever lose points in a stat unless it evolves into a Pokémon with a lower base stat value for that specific stat or an EV-reducing Berry is used. It is also impossible for any Pokémon other than Shedinja not to gain HP upon leveling up without using a Pomeg Berry (Pokémon Emerald onward) as no evolutionary line has members with a lower base HP than the pre-evolved forms.
+
+### Nature
+
+Main article: Nature
+Most Natures enhance the growth of one stat, while hindering the growth of another. After all other calculations are finished, the stat that the Nature enhances will be 110% of what it would be without the Nature, and the stat hindered will be 90% of its normal value. The Nature boost or reduction is internally calculated by multiplying the stat after 5 is added to it by 110 if the Nature boosts the stat, 100 if the Nature doesn't affect the stat, or 90 if the Nature lowers the stat, then dividing the result by 100 and truncating the decimal.
+
+### Individual values
+
+Main article: Individual values
+Individual values cause two Pokémon of the same species to have different stats. Between generations there are different manners of determining them.
+
+### Effort values
+
+Main article: Effort values
+Effort values are what cause a trained Pokémon to have higher stats than an untrained counterpart of the same level. For every 4 EVs gained, a level 100 Pokémon will have 1 extra point in its stats. Variance of stats caused by EVs reaches a maximum of 63 points at level 100, as a Pokémon can gain a maximum of 252 EVs in a single stat.
+
+### Go Power
+
+Main article: Go Power
+Go Power are a mechanic introduced in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, replacing EVs as the means of further raising a Pokémon's stats. A Pokémon's stat will have 1 extra point for every value of Go Power gained regardless of level, and each stat is capped at 200 values of Go Power.
+
+### Formula
+
+See also: Damage → Damage calculation
+
+#### Generations I and II
+
+HP=⌊((Base+DV)×2+⌊⌈STATEXP⌉4⌋)×Level100⌋+Level+10
+
+OtherStat=⌊((Base+DV)×2+⌊⌈STATEXP⌉4⌋)×Level100⌋+5
+
+##### Example
+
+Consider a Level 81 Pikachu with the following IVs and EVs:
+
+HP
+
+Attack
+
+Defense
+
+Sp.Atk
+
+Sp.Def
+
+Speed
+
+Total
+
+Base stat
+
+35
+
+55
+
+30
+
+50
+
+40[1]
+
+90
+
+300
+
+IV
+
+7[2]
+
+8
+
+13
+
+9[3]
+
+5
+
+42
+
+EV
+
+22850
+
+23140
+
+17280
+
+19625
+
+24795
+
+107690
+
+↑ In Generation I, this stat did not exist. The Pikachu's Special stat would simply be 50.
+
+↑ This is calculated as shown in the IV article.
+
+↑ In the first two generations, the Special IV was unified.
+
+Its HP can be calculated as follows:
+
+HP=⌊((35+7)×2+⌊⌈22850⌉4⌋)×81100⌋+81+10=⌊(42×2+38)×81100⌋+91=⌊122×81100⌋+91=⌊98.82⌋+91=98+91=189
+
+Its Special Attack and Special Defense stats simply rely on the Special EV and IV.
+
+SpAtk=⌊((50+9)×2+⌊⌈19625⌉4⌋)×81100⌋+5=⌊(59×2+35)×81100⌋+5=⌊153×81100⌋+5=⌊123.93⌋+5=123+5=128
+
+SpDef=⌊((40+9)×2+⌊⌈19625⌉4⌋)×81100⌋+5=⌊(49×2+35)×81100⌋+5=⌊133×81100⌋+5=⌊107.73⌋+5=107+5=112
+
+Its Speed can be calculated as follows:
+
+Speed=⌊((90+5)×2+⌊⌈24795⌉4⌋)×81100⌋+5=⌊(95×2+39)×81100⌋+5=⌊229×81100⌋+5=⌊185.49⌋+5=185+5=190
+
+In the end, this Pikachu's stats are:
+
+HP
+
+Attack
+
+Defense
+
+Sp.Atk
+
+Sp.Def
+
+Speed
+
+Base stat
+
+35
+
+55
+
+30
+
+50
+
+40
+
+90
+
+IV
+
+7
+
+8
+
+13
+
+9
+
+5
+
+EV
+
+22850
+
+23140
+
+17280
+
+19625
+
+24795
+
+Total
+
+189
+
+137
+
+101
+
+128
+
+112
+
+190
+
+#### Generation III onward
+
+HP=⌊(2×Base+IV+⌊EV4⌋)×Level100⌋+Level+10
+
+OtherStat=⌊(⌊(2×Base+IV+⌊EV4⌋)×Level100⌋+5)×Nature⌋
+
+These formulas mean that, aside from Shedinja's HP (which is always 1), the lowest a stat can ever possibly be is 4 (or, for the HP stat, 11).
+
+##### Example
+
+Consider a Level 78 Garchomp with the following IVs and EVs and an Adamant nature:
+
+HP
+
+Attack
+
+Defense
+
+Sp.Atk
+
+Sp.Def
+
+Speed
+
+Total
+
+Base stat
+
+108
+
+130
+
+95
+
+80
+
+85
+
+102
+
+600
+
+IV
+
+24
+
+12
+
+30
+
+16
+
+23
+
+5
+
+110
+
+EV
+
+74
+
+190
+
+91
+
+48
+
+84
+
+23
+
+510
+
+Its HP can be calculated as follows:
+
+HP=⌊(2×108+24+⌊744⌋)×78100⌋+78+10=⌊(216+24+18)×78100⌋+88=⌊258×78100⌋+88=⌊201.24⌋+88=201+88=289
+
+The Adamant nature raises Attack and lowers Special Attack. This means that when calculating the Attack stat, Nature = 1.1, and when calculating the Special Attack stat, Nature = 0.9. So this Garchomp's Attack stat will be:
+Attack=⌊(⌊(2×130+12+⌊1904⌋)×78100⌋+5)×1.1⌋=⌊(⌊(260+12+47)×78100⌋+5)×1.1⌋=⌊(⌊319×78100⌋+5)×1.1⌋=⌊(248+5)×1.1⌋⌊319×78100⌋=248=⌊278.3⌋(248+5)×1.1=278.3=278
+
+And its Special Attack stat will be:
+
+SpAtk=⌊(⌊(2×80+16+⌊484⌋)×78100⌋+5)×0.9⌋=⌊(⌊(160+16+12)×78100⌋+5)×0.9⌋=⌊(⌊188×78100⌋+5)×0.9⌋=⌊(146+5)×0.9⌋⌊188×78100⌋=146=⌊135.9⌋(146+5)×0.9=135.9=135
+
+Its Speed stat, on the other hand, has no Nature multiplier, so it is calculated as:
+
+Speed=⌊(⌊(2×102+5+⌊234⌋)×78100⌋+5)×1⌋=⌊(204+5+5)×78100⌋+5=⌊214×78100⌋+5=⌊166.92⌋+5=166+5=171
+
+In the end, this Garchomp's stats are as follows:
+
+HP
+
+Attack
+
+Defense
+
+Sp.Atk
+
+Sp.Def
+
+Speed
+
+Base stat
+
+108
+
+130
+
+95
+
+80
+
+85
+
+102
+
+IV
+
+24
+
+12
+
+30
+
+16
+
+23
+
+5
+
+EV
+
+74
+
+190
+
+91
+
+48
+
+84
+
+23
+
+Total
+
+289
+
+278
+
+193
+
+135
+
+171
+
+171
+
+#### Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!
+
+In Let's Go, Pikachu! and Let's Go, Eevee!, effort values have been replaced with Go Power, which are flat stat boosts added to the total after all other calculations have been made. Additionally, all non-HP stats can receive a slight boost that scales with friendship. Stats are now updated simultaneously with any changes to the variables, rather than after a Pokémon has leveled up. 
+
+The Go Power bonus can range anywhere between 0 and 200 for all stats, and a Pokémon can have all six stats maxed out to 200 values of Go Power each. The friendship multiplier can range between 1 and 1.1, scaling directly with the Pokémon's level of friendship (1+⌊10×friendship255⌋100).
+
+HP=⌊(2×Base+IV)×Level100⌋+Level+10+AVOtherStat=⌊((2×Base+IV)×Level100+5)×Nature×Friendship⌋+AV
+
+#### Pokémon Legends: Arceus
+
+In Pokémon Legends: Arceus, a Pokémon's stats are calculated using effort levels, replacing the mechanics around EVs and IVs. IVs are still present, but that is only used to determine a Pokémon's starting effort level in each stat, up to three effort levels; beyond this, IVs have no effect on stats. 
+
+HP=⌊(Level100+1)×Base+Level⌋+ELBOtherStat=⌊⌊(Level50+1)×Base1.5⌋×Nature⌋+ELBELB=round⁡(Base×Multiplier+Level2.5)
+
+where:
+
+Base is the Pokémon species' base value for that stat
+
+Level is the Pokémon's level
+
+Nature is 0.9 if the Pokémon has a hindering Nature, 1.1 if it has a helpful Nature, and 1 otherwise.
+
+ELB is the effort level bonus, directly added to the Pokémon's stat. The result is rounded to the nearest integer.
+Multiplier is the effort level multiplier, which is determined from the effort level as follows:
+
+Effort Level
+
+Multiplier
+
+0
+0
+
+1
+2
+
+2
+3
+
+3
+4
+
+4
+7
+
+5
+8
+
+6
+9
+
+7
+14
+
+8
+15
+
+9
+16
+
+10
+
+25
+
+#### Pokémon Champions
+
+HP=Base+StatPoints+75
+
+OtherStat=⌊(Base+StatPoints+20)×Alignment⌋
+
+where:
+
+Base is the Pokémon species' base value for that stat.
+
+Alignment is 0.9 if the Pokémon's stat alignment lowers that stat, 1.1 if it raises that stat, and 1 otherwise.
+
+StatPoints is the amount of stat points the Pokémon has in the respective stat.
+
+### In battle
+
+In battle, additional modifiers can further alter the effective value of a stat. This is not reflected in visible stats, but instead is only accounted for when damage is done.
+
+#### Accuracy and evasion
+
+Accuracy and evasion are not visible anywhere as explicit stats, but they influence the probability of a move hitting. The nuances of this calculation differ between games. Some moves ignore accuracy checks.
+
+##### Generations I and II
+
+Whether a move hits depends on the formula:
+
+T=Accuracymove×Accuracyuser×Evasiontarget−BrightPowder, where:
+
+T is the computed threshold value that will determine whether the move will hit, always at least 1 and at most 255,
+
+Accuracymove is the move's accuracy, a value from 0 to 255,
+
+Accuracyuser is the accuracy stage multiplier of the user,
+
+Evasiontarget is the evasion stage multiplier of the target, and
+
+BrightPowder is 20 if the user is holding BrightPowder (in Generation II) or 0 otherwise.
+
+The game then selects a random number r from 0 to 255 and compares it to T to determine whether the move hits.
+
+In Generation I, if r is less than T, the move hits. This results in a bug where no move can be guaranteed to hit (excluding Bide and Swift) since even if T is 255, if r is also 255, the move will miss.
+
+In Generation II, if T is 255 or if r is less than T, the move hits. This eliminates the bug from Generation I.
+
+##### Generations III onward
+
+Whether a move hits depends on the formula:
+
+T=Accuracymove×StageMultiplier×Other, where:
+
+T is the computed threshold value that will determine whether the move will hit,
+
+Accuracymove is the move's accuracy, a value from 1 to 100,
+
+StageMultiplier is the equivalent accuracy stage multiplier of the user after the target's evasion stage is subtracted from the user's accuracy stage, both possibly modified by Ability or move effects such as Simple or Foresight (to no less than -6 and no more than 6 after the subtraction), and
+
+Other encompasses all multipliers from other accuracy or evasion modifiers from Ability effects, fog, move effects, and item effects (as can be seen in this table), serially applied.
+
+The game then selects a random number r from 1 to 100 and compares it to T to determine whether the move hits. If r is less than or equal to T, the move hits.
+
+### Combat Power
+
+Combat Power (Japanese: コンバットパワー Combat Power, formerly 総合的(そうごうてき)な強(つよ)さ Total Power[1]), or CP (Japanese: CP), is a value first introduced in Pokémon GO and carried over to Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!, used to roughly summarize a Pokémon's overall potential in battle. In Let's Go, Pikachu! and Let's Go, Eevee!, it's based on the total of all a Pokémon's stats and AVs. Note that CP is not an actual statistic but rather a visual indicator of a Pokémon's overall strength, so it does not have any direct effect in battles.
+
+CP=min⁡(⌊(∑Stats−∑GoPower) ×Level×6100+∑GoPower×(Level×4100+2)⌋,10000)
+
+The CP of any Pokémon in Let's Go, Pikachu! and Let's Go, Eevee! is always capped at 10,000; even if a Pokémon's stat continues to grow after that, the CP will still show as 10,000.
+
+The lowest possible CP is 2. This is possible if a level 1 Caterpie transferred from Pokémon GO has minimum friendship, 0 IVs and 0 values of Go Power in every stat.
+
+## Stat modifiers
+
+Main article: Stat modifier
+When a stat is used in a calculation in battle, a number of modifiers may be applied during the calculation. During a battle, a Pokémon's effective stats may be raised or lowered by certain moves, Abilities, and held items. Some attacks may only have a chance of raising or lowering stats, while certain Abilities and held items may require a triggering event to activate any stat modifications.
+
+## Icons
+
+The following icons are used in Pokémon HOME. 
+
+HP
+
+Attack
+
+Defense
+
+Speed
+
+Special Attack
+
+Special Defense
+
+## In other games
+
+### Mystery Dungeon series
+
+Main article: Stat (Mystery Dungeon)
+In the Pokémon Mystery Dungeon series, Pokémon have HP, Attack, Defense, Special Attack, Special Defense, and SpeedSMDRTDX stats, just like in the core games. However, these games also have a few stats not seen in the core games.
+
+### Pokémon Conquest
+
+Main article: Stat (Conquest)
+In Pokémon Conquest, Pokémon have HP, Range, Attack, Defense, and Speed stats, as well as a non-numeric Energy stat, and a derived stat called Strength.
+
+### Pokémon GO
+
+Main article: Stat (GO) 
+Pokémon in Pokémon GO have HP, Attack, and Defense stats, as well as a derived stat, CP. Pokémon GO makes no distinction between physical or special damage like the core games do; instead, all attacks simply use Attack and Defense to calculate damage. Of the four stats in Pokémon GO, however, only HP and CP are directly visible.
+
+### Pokémon: Magikarp Jump
+
+#### Jump Power
+
+This section is incomplete.
+Please feel free to edit this section to add missing information and complete it. 
+Reason: JP required per level
+
+This section is missing one or more images.
+Please feel free to add any missing images to this section. Needed images can be uploaded to the Bulbagarden Archives.
+
+Jump Power (Japanese: はねる力(ちから) Jump Power), or JP (Japanese: CP), is a stat that indicates a Magikarp's ability to jump in Pokémon: Magikarp Jump. Jump Power is also used in place of experience to determine when a Magikarp levels up. JP can still be earned even after reaching the maximum level of 100, with the absolute maximum JP capped at 12,900,605,640,709[2] (shortened to 12.9T).
+
+As the Jump Power becomes larger and larger, it will be measured with the help of SI prefixes.
+
+prefix
+
+JP represented
+
+T (tera)
+1,000,000,000,000
+
+G (giga)
+1,000,000,000
+
+M (mega)
+1,000,000
+
+k (kilo)
+1,000
+
+## In animation
+
+### Pokémon the Series
+
+Ash's Dragonite raising its attack power and speed with Dragon Dance in Pokémon Journeys: The Series
+Stats in Pokémon the Series appear to leave out the Special and Physical concept. It is more dependent on attack power and the amount of damage inflicted instead of Attack and Special Attack, and endurance rather than Special Defense and Defense. 
+
+#### Pokémon the Series: The Beginning
+
+In the dub of Fire and Ice, Misty mentioned that Pete Pebbleman's Cloyster is losing HP as Ash's Kingler kept hitting it with Crabhammer. In the original Japanese version, Misty talked about Cloyster taking damage instead.
+
+#### Pokémon the Series: Gold and Silver
+
+In Wired For Battle!, HP was shown on Shingo's laptop where Blade's Quick Attack lowered Heracross's HP by half.
+
+#### Pokémon the Series: Ruby and Sapphire
+
+In Eight Ain't Enough, Juan's Whiscash used Tickle on Ash's Swellow, which lowered Swellow's defensive strength.
+
+In Shocks and Bonds, Johnny's Aggron used Harden, a Defense-boosting move, which defended itself against Tyson's Sceptile's Solar Beam, a special move.
+
+#### Pokémon the Series: Diamond and Pearl
+
+In Pedal to the Mettle!, Paul's Weavile used Swords Dance, an Attack-boosting move, which boosted Blizzard, a special move, as well as Ice Shard and Metal Claw.
+
+In Working on a Right Move!, Conway's Shuckle used Withdraw several times to maximize its Defense, before using Power Trick to swap its increased Defense with its Attack power.
+
+#### Pokémon the Series: Black & White
+
+In Battling For The Love of Bug-Types!, Burgh's Whirlipede used Iron Defense to defend itself against Ash's Sewaddle's Bug Bite.
+
+In Mission: Defeat Your Rival!, Bianca's Escavalier used Iron Defense several times to maximize its Defense.
+
+In Rocking the Virbank Gym! Part 1, Ash's Leavanny's Energy Ball lowered Roxie's Koffing's Special Defense. This marks the only instance that Special Defense is referred to by its proper name in Pokémon the Series.
+
+#### Pokémon the Series: XY
+
+Pokémon will occasionally glow red after their attack strength has changed, as exhibited by Korrina's Lucario in Mega Revelations!, or blue after their defensive strength has been changed, as shown by Alain's Mega Charizard X in Mega Evolution Special II, Ramos's Jumpluff in The Green, Green Grass Types of Home!, and Ash's Pikachu in A Riveting Rivalry!.
+
+#### Pokémon the Series: Sun & Moon
+
+This series generally retains the added visual aids from Pokémon the Series: XY, as seen as when Kiawe's Turtonator used Shell Smash in A Crowning Moment of Truth! and when Gladion's Lycanroc used Swords Dance in Showdown on Poni Island!. However, in That's Some Spicy Island Research!, Hapu's Mudsdale glowed red while increasing its defense with Stamina.
+
+#### Pokémon Journeys: The Series
+
+In Flash of the Titans!, Lance's Gyarados used Dragon Dance to boost its attack power and speed.
+
+Ash's Dragonite boosted its attack power and speed with Dragon Dance several times during Pokémon Journeys: The Series, first doing so in A Festival Reunion! during Ash's World Coronation Series battle against Korrina.
+
+In Beyond Chivalry… Aiming to be a Leek Master!, Rinto's Gallade activated Justified, boosting his Attack.
+
+In Curtain Up! Fight the Fights!, Leon's Rillaboom had its Speed boosted by its use of Max Airstream.
+
+In Whittle While You Work!, Cynthia's Togekiss also boosted its Speed via Max Airstream.
+
+In Paring Pokémon While Parrying!, Leon's Rillaboom lowered the Speed of Ash's Dragonite by using Drum Beating.
+
+### Pokémon Horizons: The Series
+
+Drayton's Archaludon raising its Defense with Stamina in Pokémon Horizons: The Series
+In Charge! Galar Mine!, Amethio's Ceruledge activated its Hidden Ability, Weak Armor, increasing its speed.
+
+In Encounters at the Crystal Pool, Perrin's Leafeon used Swords Dance to increase its attack power.
+
+In The Three Explorers, Diana's Arcanine activated its Hidden Ability, Justified, increasing its attack power.
+
+In Over the Top!, Geeta's two Glimmora used Rock Polish to boost their speed. In the same episode, they used Memento to harshly lower the attack power of Roy's Crocalor and Dot's Quaxwell, forcing Liko, Roy, and Dot to shift their battle strategy in their Triple Battle to rely on Liko's Floragato.
+
+In Don't Give Up, Crocalor!, Drayton's Archaludon boosted its Defense with Stamina.
+
+In Operation Infiltration!, Rubina and Indi's two Salamence boosted their attack power and speed with Dragon Dance. This boost was later undone by Liko's Armarouge's Clear Smog.
+
+## Gallery
+
+This gallery is missing one or more images.
+Please feel free to add any missing images to this gallery. Needed images can be uploaded to the Bulbagarden Archives. 
+Reason: Missing Bank and spin-offs
+
+Generation I
+
+Stadium
+
+Generation II (Japanese)
+
+Generation II (Korean)
+
+Generation II (International)
+
+Stadium 2
+
+RS
+
+Colo
+
+FRLG
+
+XD
+
+E
+
+DPPt
+
+HGSS
+
+BW
+
+B2
+
+W2
+
+XY
+
+ORAS
+
+SM
+
+USUM
+
+LGPE
+
+SwSh
+
+BDSP
+
+LA
+
+S
+
+V
+
+TM
+
+ID
+
+Z-A
+
+Champions
+
+Box RS
+
+HOME (Switch)
+
+HOME (Mobile)
+
+## In other languages
+
+Stat
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+能力 Nàhnglihk
+
+Mandarin
+
+能力 Nénglì
+
+Dutch
+
+Statistiek
+
+French
+
+Stat
+
+German
+
+Statuswert
+
+Indonesian
+
+Statistik
+
+Italian
+
+Statistica
+
+Korean
+
+능력 Neungnyeok
+
+Malay
+
+Stat
+Keupayaan
+
+Portuguese
+
+Brazil
+
+Atributo
+Status*
+Condição*
+
+Portugal
+
+Estatística
+
+Spanish
+
+Característica
+
+Thai
+
+ค่าพลัง Khaplang
+
+Vietnamese
+
+Khả năng
+
+Hit Points
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+HP *
+體力 Táilihk *
+
+Mandarin
+
+HP *
+體力 / 体力 Tǐlì *
+
+Czech
+
+HP
+
+Danish
+
+(HP)
+Livspoint*
+
+Dutch
+
+Hit Points (HP)
+Energiepunten*
+IP*
+
+Finnish
+
+Kestopisteet (KP)
+
+French
+
+Canada
+
+HP*
+
+Europe
+
+Points de Vie (PV)
+
+German
+
+Kraftpunkte (KP)
+
+Hindi
+
+हिट पॉइंट Hit Point (HP)
+
+Hungarian
+
+Életerejének mértéke
+Életerő
+
+Indonesian
+
+Hit Point (HP)
+
+Italian
+
+Punti Salute (PS)
+
+Korean
+
+히트포인트 Hit Points (HP)
+
+Malay
+
+(HP)
+
+Norwegian
+
+(LP)
+
+Polish
+
+(HP)
+
+Portuguese
+
+Brazil
+
+Pontos de Saúde (PS)*
+Hit Points (HP)*
+
+Portugal
+
+Hit Points (HP)
+Pontos de Saúde*
+
+Russian
+
+Очки жизни Ochki zhizni (ОЖ) (OZH)*
+Очки Здоровья Ochki Zdorov'ya (ОЗ) (OZ)
+
+Spanish
+
+Puntos de Salud (PS)
+
+Swedish
+
+(HP)
+Träffpoäng*
+
+Thai
+
+พลังชีวิต Phalang Chiwit (HP)
+
+Turkish
+
+Sağlık Puanları (SP)
+
+Vietnamese
+
+(HP)
+Sinh lực
+
+Attack
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+攻擊 Gūnggīk *
+攻擊力 Gūnggīklihk
+
+Mandarin
+
+攻擊 / 攻击 Gōngjí / Gōngjī *
+攻擊力 / 攻击力 Gōngjílì / Gōngjīlì
+
+Czech
+
+Útok
+
+Danish
+
+Angreb
+
+Dutch
+
+Aanval
+
+Finnish
+
+Hyökkäys
+
+French
+
+Attaque
+
+German
+
+Angriff
+
+Hindi
+
+अटैक Attack
+
+Hungarian
+
+Támadás
+
+Indonesian
+
+Serangan
+
+Italian
+
+Attacco
+
+Korean
+
+공격 Gonggyeok
+
+Malay
+
+Serangan
+
+Norwegian
+
+Angrep
+
+Polish
+
+Atak
+
+Portuguese
+
+Ataque
+
+Russian
+
+Атака Ataka
+
+Spanish
+
+Ataque
+
+Swedish
+
+Anfall*
+Attack*
+
+Thai
+
+โจมตี Chomti
+
+Turkish
+
+Saldırı
+
+Vietnamese
+
+Sức tấn công
+
+Defense
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+防禦 Fòhngyuh
+防禦力 Fòhngyuhlihk
+
+Mandarin
+
+防禦 / 防御 Fángyù
+防禦力 / 防御力 Fángyùlì
+
+Czech
+
+Obrana
+
+Danish
+
+Defense
+
+Dutch
+
+Verdediging
+
+Finnish
+
+Puolustus
+
+French
+
+Défense
+
+German
+
+Verteidigung
+
+Hindi
+
+डिफ़ेंस Defense
+
+Hungarian
+
+Védelem
+Védekezés
+
+Indonesian
+
+Pertahanan
+
+Italian
+
+Difesa
+
+Korean
+
+방어 Bang-eo
+
+Malay
+
+Pertahanan
+
+Norwegian
+
+Forsvar
+
+Polish
+
+Obrona
+
+Portuguese
+
+Defesa
+
+Russian
+
+Защита Zashchita
+
+Spanish
+
+Defensa
+
+Swedish
+
+Försvar
+
+Thai
+
+ป้องกัน Pongkan
+
+Turkish
+
+Savunma
+
+Vietnamese
+
+Sức phòng bị
+Sức phòng thủ
+
+Special Attack
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+特攻 Dahkgūng
+
+Mandarin
+
+特攻 Tègōng
+
+Czech
+
+Speciální útok
+
+Danish
+
+Specialangreb
+
+Dutch
+
+Speciale aanval
+
+Finnish
+
+Erikoishyökkäys
+
+French
+
+Attaque Spéciale
+
+German
+
+Spezial-Angriff
+
+Hungarian
+
+Speciális támadás
+
+Indonesian
+
+Serangan Khusus
+
+Italian
+
+Attacco Speciale
+
+Korean
+
+특수공격 Teuksu Gonggyeok
+
+Malay
+
+Serangan Istimewa
+
+Norwegian
+
+Spesial-angrep
+
+Polish
+
+Specjalny Atak
+
+Portuguese
+
+Ataque Especial
+
+Russian
+
+Особая Атака Osobaya Ataka
+
+Spanish
+
+Ataque Especial
+
+Swedish
+
+Special-anfall
+
+Thai
+
+โจมตีพิเศษ Chomti Phiset
+
+Vietnamese
+
+Tấn công
+Tấn công Đặc biệt
+
+Special Defense
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+特防 Dahkfòhng
+
+Mandarin
+
+特防 Tèfáng
+
+Czech
+
+Speciální obrana
+
+Danish
+
+Special Defense
+
+Dutch
+
+Speciale verdediging
+
+Finnish
+
+Erikoispuolustus
+
+French
+
+Défense Spéciale
+
+German
+
+Spezial-Verteidigung
+
+Hungarian
+
+Speciális védekezés
+
+Indonesian
+
+Pertahanan Khusus
+
+Italian
+
+Difesa Speciale
+
+Korean
+
+특수방어 Teuksu Bang-eo
+
+Malay
+
+Pertahanan Istimewa
+
+Norwegian
+
+Spesial-forsvar
+
+Polish
+
+Specjalna Obrona
+
+Portuguese
+
+Defesa Especial
+
+Russian
+
+Особая Защита Osobaya Zashchita
+
+Spanish
+
+Defensa Especial
+
+Swedish
+
+Special-försvar
+
+Thai
+
+ป้องกันพิเศษ Pongkan Phiset
+
+Vietnamese
+
+Phòng thủ
+Phòng thủ Đặc biệt
+
+Speed
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+速度 Chūkdouh
+敏捷度 Máhnjihtdouh *
+
+Mandarin
+
+速度 Sùdù
+敏捷度 Mǐnjiédù *
+
+Czech
+
+Rychlost
+
+Danish
+
+Fart*
+Hastighed*
+
+Dutch
+
+Snelheid
+
+Finnish
+
+Nopeus
+
+French
+
+Vitesse
+
+German
+
+Initiative
+
+Greek
+
+Ταχύτητα
+
+Hungarian
+
+Gyorsaság
+Sebesség
+
+Indonesian
+
+Kecepatan
+
+Italian
+
+Velocità
+
+Korean
+
+스피드 Speed
+
+Malay
+
+Kelajuan
+
+Norwegian
+
+Fart*
+Hastighet*
+
+Polish
+
+Szybkość
+
+Portuguese
+
+Brazil
+
+Velocidade*
+Agilidade*
+
+Portugal
+
+Velocidade
+
+Russian
+
+Скорость Skorost'
+
+Spanish
+
+Velocidad
+
+Swedish
+
+Snabbhet*
+Hastighet*
+
+Thai
+
+ความเร็ว Khwamreo
+
+Vietnamese
+
+Sự nhanh nhẹn
+Tốc độ
+
+Special
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+特殊 Dahksyùh
+
+Mandarin
+
+特殊 Tèshū
+
+French
+
+Spécial
+
+German
+
+Spezial
+
+Italian
+
+Speciale
+
+Portuguese
+
+Especial
+
+Spanish
+
+Especial
+
+Vietnamese
+
+Khả năng đặc biệt
+
+Accuracy
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+命中 Mihngjung
+
+Mandarin
+
+命中 Mìngzhòng
+
+French
+
+Précision
+
+German
+
+Genauigkeit
+
+Indonesian
+
+Akurasi
+
+Italian
+
+Precisione
+
+Korean
+
+명중률 Myeongjungnyul
+
+Malay
+
+Kadar ketepatan
+
+Portuguese
+
+Precisão
+
+Spanish
+
+Precisión
+
+Thai
+
+อัตราความแม่น Atrakwammaen
+
+Vietnamese
+
+Chính xác
+
+Evasiveness
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+閃避 Símbeih
+
+Mandarin
+
+閃避 / 闪避 Shǎnbì
+
+French
+
+Esquive
+
+German
+
+Fluchtwert*
+Ausweichwert*
+
+Indonesian
+
+Menghindar
+
+Italian
+
+Elusione
+
+Korean
+
+회피율 Hoepiyul
+
+Malay
+
+Pengelakan
+
+Portuguese
+
+Evasão
+
+Spanish
+
+Evasión
+
+Thai
+
+อัตราหลบหลีก Atraloplik
+
+Vietnamese
+
+Tránh né
+
+Combat Power
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+攻擊力 Gūnggīklihk (CP)
+戰鬥能力 Jindau Nàhnglihk (CP)PE
+
+Mandarin
+
+攻擊力 Gōngjílì (CP)
+戰鬥能力 / 战斗能力 Zhàndòu Nénglì (CP) *PE
+战斗能力 Zhàndòu Nénglì (战力 Zhànlì) *PE
+
+Dutch
+
+Combat Power (CP)
+
+French
+
+Points de combat (PC)
+
+German
+
+Wettkampfpunkte (WP)
+
+Hindi
+
+कॉम्बैट पावर Combat Power (CP)
+
+Indonesian
+
+Kekuatan Tempur (CP)
+
+Italian
+
+Punti lotta (PL)
+
+Korean
+
+전투력 Jeonturyeok (CP)
+컴뱃 파워 Combat Power (CP)PE
+강함을 나타내는 수치 Gangham-eul Natanaeneun Suchi (CP)[3]
+
+Portuguese
+
+Brazil
+
+Poder de Combate (PC)
+
+Portugal
+
+Combat Power (CP)
+
+Russian
+
+Боевые Очки Boyevyye Ochki (CP)
+
+Spanish
+
+Puntos de Combate (PC)
+
+Thai
+
+พลังการต่อสู้ Phalang Kantosu (CP)
+
+Turkish
+
+Dövüş Gücü (DG)
+
+Jump Power
+
+Language
+
+Title
+
+Chinese
+
+Cantonese
+
+跳躍力 Tiuyeuhk Lihk (CP)
+
+Mandarin
+
+跳躍力 Tiàoyuè Lì (CP) *
+跳跃力 Tiàoyuè Lì (鲤鱼力 Lǐyú Lì) *
+
+French
+
+Puissance (PS)
+
+German
+
+Sprungkraft (KP)
+
+Italian
+
+Potenza di salto (PM)
+
+Korean
+
+튀는 힘 Twineun Him (CP)
+
+Spanish
+
+Impulso (PS)
+
+## References
+
+↑ 「ポケモンのCPのバランスを調整しました」 – Pokémon GO
+
+↑ Pokémon: Magikarp Jump player reaches maximum Jump Power at 12,900,605,640,709 - Automaton Media
+
+↑ CP와 HP는 무엇입니까? – Pokémon GO
+
+## Related articles
+
+Base stats
+
+List of Pokémon by base stats in Generation I
+
+List of Pokémon by base stats in Generations II-V
+
+List of Pokémon by base stats in Generation VI
+
+List of Pokémon by base stats in Generation VII
+
+List of Pokémon by base stats in Generation VIII
+
+List of Pokémon by base stats in Generation IX
+
+List of fully evolved Pokémon by base stats
+
+List of Pokémon with unique base stat totals
+
+Pokémon individuality
+
+Level (Experience) • Stats • Shininess • Gender • Nature • Characteristic
+Ability (Hidden Ability) • Effort values • Individual values • Go Power • Effort level • Stat points
+Size • Sheen • Condition • Performance • Friendship • Affection • Memory
+Dynamax Level • Gigantamax Factor • Tera Type
+
+This game mechanic article is part of Project Games, a Bulbapedia project that aims to write comprehensive articles on the Pokémon games.
+
+Retrieved from "https://bulbapedia.bulbagarden.net/w/index.php?title=Stat&oldid=4649474"
+
+ CategoriesArticles needing more information
+Articles needing images
+Game mechanics
+
+ This page was last edited on 16 October 2026, at 20:20.
+
+ Content is available under Attribution-NonCommercial-ShareAlike 2.5. (see Copyrights for details)
+
+Privacy policy
+
+About Bulbapedia
+
+Disclaimers
+

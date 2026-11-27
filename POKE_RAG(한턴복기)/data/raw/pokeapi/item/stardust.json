@@ -1,0 +1,28 @@
+{
+ "name": "stardust",
+ "names": {
+  "ja-hrkt": "ほしのすな",
+  "ko": "별의모래",
+  "zh-hant": "星星沙子",
+  "fr": "Poussière Étoile",
+  "de": "Sternenstaub",
+  "es": "Polvo Estelar",
+  "it": "Polvostella",
+  "en": "Stardust",
+  "ja": "ほしのすな",
+  "zh-hans": "星星沙子",
+  "es-419": "Polvo Estelar"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre pour 1000 Pokédollars, ou au collectionneur d'objets pour 2000 Pokédollars.",
+  "en": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars."
+ },
+ "flavor": {
+  "en": "Lovely red sand that flows between the fingers with a loose, silky feel. It can be sold at a low price to shops.",
+  "ko": "감촉이 보슬보슬한 빨갛고 예쁜 모래. 상점에서 싸게 팔린다.",
+  "ja": "てざわりが サラサラの 赤くて きれいな 砂。 ショップで 安く 売れる。"
+ }
+}

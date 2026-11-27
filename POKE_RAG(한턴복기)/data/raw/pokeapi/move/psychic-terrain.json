@@ -1,0 +1,31 @@
+{
+ "name": "psychic-terrain",
+ "names": {
+  "ja-hrkt": "サイコフィールド",
+  "ko": "사이코필드",
+  "zh-hant": "精神場地",
+  "fr": "Champ Psychique",
+  "de": "Psychofeld",
+  "es": "Campo Psíquico",
+  "it": "Campo Psichico",
+  "en": "Psychic Terrain",
+  "ja": "サイコフィールド",
+  "zh-hans": "精神场地",
+  "es-419": "Campo Psíquico"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "5턴 동안 땅에 있으면 선제공격을 받지 않는다. 에스퍼타입의 위력이 올라간다.",
+  "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns."
+ }
+}

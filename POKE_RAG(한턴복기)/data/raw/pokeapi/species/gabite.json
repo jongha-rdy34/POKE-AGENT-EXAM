@@ -1,0 +1,42 @@
+{
+ "id": 444,
+ "name": "gabite",
+ "names": {
+  "ja-hrkt": "ガバイト",
+  "ja-roma": "Gabite",
+  "ko": "한바이트",
+  "zh-hant": "尖牙陸鯊",
+  "fr": "Carmache",
+  "de": "Knarksel",
+  "es": "Gabite",
+  "it": "Gabite",
+  "en": "Gabite",
+  "ja": "ガバイト",
+  "zh-hans": "尖牙陆鲨",
+  "es-419": "Gabite"
+ },
+ "genus": {
+  "ja-hrkt": "ほらあなポケモン",
+  "ko": "동굴포켓몬",
+  "zh-hant": "洞穴寶可夢",
+  "fr": "Pokémon Caverne",
+  "de": "Höhlen-Pokémon",
+  "es": "Pokémon Cueva",
+  "it": "Pokémon Grotta",
+  "en": "Cave Pokémon",
+  "ja": "ほらあなポケモン",
+  "zh-hans": "洞穴宝可梦",
+  "es-419": "Pokémon Cueva"
+ },
+ "flavor": {
+  "en": "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile.",
+  "ko": "거처인 동굴에 보석을 매장하는데 그곳에 침입자가 들어가면 즉시 발톱과 이빨로 갈기갈기 찢어버린다."
+ },
+ "varieties": [
+  {
+   "name": "gabite",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "230"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "stench",
+ "names": {
+  "ja-hrkt": "あくしゅう",
+  "ko": "악취",
+  "zh-hant": "惡臭",
+  "fr": "Puanteur",
+  "de": "Duftnote",
+  "es": "Hedor",
+  "it": "Tanfo",
+  "en": "Stench",
+  "ja": "あくしゅう",
+  "zh-hans": "恶臭",
+  "es-419": "Hedor"
+ },
+ "effect": {
+  "en": "Has a 10% chance of making target Pokémon flinch with each hit."
+ },
+ "flavor": {
+  "en": "By releasing a stench when attacking, the Pokémon may cause the target to flinch.",
+  "ko": "악취를 풍겨서 공격했을 때 상대가 풀죽을 때가 있다."
+ }
+}

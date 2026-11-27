@@ -1,0 +1,42 @@
+{
+ "id": 636,
+ "name": "larvesta",
+ "names": {
+  "ja-hrkt": "メラルバ",
+  "ja-roma": "Merlarva",
+  "ko": "활화르바",
+  "zh-hant": "燃燒蟲",
+  "fr": "Pyronille",
+  "de": "Ignivor",
+  "es": "Larvesta",
+  "it": "Larvesta",
+  "en": "Larvesta",
+  "ja": "メラルバ",
+  "zh-hans": "燃烧虫",
+  "es-419": "Larvesta"
+ },
+ "genus": {
+  "ja-hrkt": "たいまつポケモン",
+  "ko": "횃불포켓몬",
+  "zh-hant": "火炬寶可夢",
+  "fr": "Pokémon Torche",
+  "de": "Fackel-Pokémon",
+  "es": "Pokémon Antorcha",
+  "it": "Pokémon Torcia",
+  "en": "Torch Pokémon",
+  "ja": "たいまつポケモン",
+  "zh-hans": "火炬宝可梦",
+  "es-419": "Pokémon Antorcha"
+ },
+ "flavor": {
+  "en": "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey.",
+  "ko": "전신이 제법 따뜻하다. 뿔 끝에서 불꽃을 뿜어 천적이나 먹이를 위협한다."
+ },
+ "varieties": [
+  {
+   "name": "larvesta",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "324"
+}

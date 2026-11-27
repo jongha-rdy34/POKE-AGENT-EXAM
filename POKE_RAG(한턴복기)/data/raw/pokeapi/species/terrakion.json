@@ -1,0 +1,42 @@
+{
+ "id": 639,
+ "name": "terrakion",
+ "names": {
+  "ja-hrkt": "テラキオン",
+  "ja-roma": "Terrakion",
+  "ko": "테라키온",
+  "zh-hant": "代拉基翁",
+  "fr": "Terrakium",
+  "de": "Terrakium",
+  "es": "Terrakion",
+  "it": "Terrakion",
+  "en": "Terrakion",
+  "ja": "テラキオン",
+  "zh-hans": "代拉基翁",
+  "es-419": "Terrakion"
+ },
+ "genus": {
+  "ja-hrkt": "がんくつポケモン",
+  "ko": "암굴포켓몬",
+  "zh-hant": "岩窟寶可夢",
+  "fr": "Pokémon Grotte",
+  "de": "Felsenhöhlen-Pokémon",
+  "es": "Pokémon Gruta",
+  "it": "Pokémon Caverna",
+  "en": "Cavern Pokémon",
+  "ja": "がんくつポケモン",
+  "zh-hans": "岩窟宝可梦",
+  "es-419": "Pokémon Gruta"
+ },
+ "flavor": {
+  "en": "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon.",
+  "ko": "포켓몬을 지키기 위해 사람에게 승부를 걸었다는 전설이 하나지방에 남아 있다."
+ },
+ "varieties": [
+  {
+   "name": "terrakion",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "326"
+}

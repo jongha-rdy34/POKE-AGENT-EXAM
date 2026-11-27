@@ -1,0 +1,37 @@
+{
+ "id": 975,
+ "name": "cetitan",
+ "names": {
+  "ja-hrkt": "ハルクジラ",
+  "ja-roma": "Hulkujira",
+  "ko": "우락고래",
+  "zh-hant": "浩大鯨",
+  "fr": "Balbalèze",
+  "de": "Kolowal",
+  "es": "Cetitan",
+  "it": "Cetitan",
+  "en": "Cetitan",
+  "ja": "ハルクジラ",
+  "zh-hans": "浩大鲸",
+  "es-419": "Cetitan"
+ },
+ "genus": {
+  "ja-hrkt": "りくくじらポケモン",
+  "ko": "육지고래포켓몬",
+  "zh-hant": "陸鯨寶可夢",
+  "fr": "Baleinapied",
+  "de": "Landwal",
+  "en": "Terra Whale Pokémon",
+  "zh-hans": "陆鲸宝可梦"
+ },
+ "flavor": {
+  "en": "Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings."
+ },
+ "varieties": [
+  {
+   "name": "cetitan",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "511"
+}

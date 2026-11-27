@@ -1,0 +1,20 @@
+{
+ "name": "tm123",
+ "names": {
+  "ja-hrkt": "わざマシン１２３",
+  "ko": "기술머신123",
+  "zh-hant": "招式學習器１２３",
+  "fr": "CT123",
+  "de": "TM123",
+  "es": "MT123",
+  "it": "MT123",
+  "en": "TM123",
+  "ja": "わざマシン１２３",
+  "zh-hans": "招式学习器１２３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,37 @@
+{
+ "id": 1002,
+ "name": "chien-pao",
+ "names": {
+  "ja-hrkt": "パオジアン",
+  "ja-roma": "Paojian",
+  "ko": "파오젠",
+  "zh-hant": "古劍豹",
+  "fr": "Baojian",
+  "de": "Baojian",
+  "es": "Chien-Pao",
+  "it": "Chien-Pao",
+  "en": "Chien-Pao",
+  "ja": "パオジアン",
+  "zh-hans": "古剑豹",
+  "es-419": "Chien-Pao"
+ },
+ "genus": {
+  "ja-hrkt": "さいやくポケモン",
+  "ko": "재액포켓몬",
+  "zh-hant": "災厄寶可夢",
+  "fr": "Fléau",
+  "de": "Unheil",
+  "en": "Ruinous Pokémon",
+  "zh-hans": "灾厄宝可梦"
+ },
+ "flavor": {
+  "en": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "chien-pao",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "530"
+}

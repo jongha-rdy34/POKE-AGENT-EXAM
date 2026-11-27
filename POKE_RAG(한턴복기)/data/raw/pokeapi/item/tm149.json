@@ -1,0 +1,20 @@
+{
+ "name": "tm149",
+ "names": {
+  "ja-hrkt": "わざマシン１４９",
+  "ko": "기술머신149",
+  "zh-hant": "招式學習器１４９",
+  "fr": "CT149",
+  "de": "TM149",
+  "es": "MT149",
+  "it": "MT149",
+  "en": "TM149",
+  "ja": "わざマシン１４９",
+  "zh-hans": "招式学习器１４９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

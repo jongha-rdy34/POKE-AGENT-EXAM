@@ -1,0 +1,28 @@
+{
+ "name": "big-malasada",
+ "names": {
+  "ja-hrkt": "おおきいマラサダ",
+  "ko": "큰 말라사다",
+  "zh-hant": "大馬拉薩達",
+  "fr": "Malasada Maxi",
+  "de": "Maxi-Malasada",
+  "es": "Malasada Maxi",
+  "it": "Malasada maxi",
+  "en": "Big Malasada",
+  "ja": "おおきいマラサダ",
+  "zh-hans": "大马拉萨达",
+  "es-419": "Malasada Maxi"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Soigne les altérations majeures de statut et la confusion.",
+  "en": "Cures major status ailments and confusion."
+ },
+ "flavor": {
+  "ko": "알로라의 명물인 튀긴 빵. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "en": "The Alola region’s local specialty—fried bread. It can be used once to heal all the status conditions of a Pokémon.",
+  "ja": "アローラ名物の あげパン。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

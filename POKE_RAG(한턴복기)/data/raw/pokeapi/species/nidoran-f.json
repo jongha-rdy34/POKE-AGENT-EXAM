@@ -1,0 +1,42 @@
+{
+ "id": 29,
+ "name": "nidoran-f",
+ "names": {
+  "ja-hrkt": "ニドラン♀",
+  "ja-roma": "Nidoran♀",
+  "ko": "니드런♀",
+  "zh-hant": "尼多蘭",
+  "fr": "Nidoran♀",
+  "de": "Nidoran♀",
+  "es": "Nidoran♀",
+  "it": "Nidoran♀",
+  "en": "Nidoran♀",
+  "ja": "ニドラン♀",
+  "zh-hans": "尼多兰",
+  "es-419": "Nidoran♀"
+ },
+ "genus": {
+  "ja-hrkt": "どくばりポケモン",
+  "ko": "독침포켓몬",
+  "zh-hant": "毒針寶可夢",
+  "fr": "Pokémon Vénépic",
+  "de": "Giftdorn-Pokémon",
+  "es": "Pokémon Pin Veneno",
+  "it": "Pokémon Velenago",
+  "en": "Poison Pin Pokémon",
+  "ja": "どくばりポケモン",
+  "zh-hans": "毒针宝可梦",
+  "es-419": "Pokémon Pin Veneno"
+ },
+ "flavor": {
+  "en": "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn.",
+  "ko": "단단한 앞니로 나무열매를 깨물어 먹는다. 뿔의 끝은 수컷보다 조금 둥그스름하다."
+ },
+ "varieties": [
+  {
+   "name": "nidoran-f",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "12"
+}

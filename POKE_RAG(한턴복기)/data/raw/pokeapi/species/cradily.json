@@ -1,0 +1,42 @@
+{
+ "id": 346,
+ "name": "cradily",
+ "names": {
+  "ja-hrkt": "ユレイドル",
+  "ja-roma": "Yuradle",
+  "ko": "릴리요",
+  "zh-hant": "搖籃百合",
+  "fr": "Vacilys",
+  "de": "Wielie",
+  "es": "Cradily",
+  "it": "Cradily",
+  "en": "Cradily",
+  "ja": "ユレイドル",
+  "zh-hans": "摇篮百合",
+  "es-419": "Cradily"
+ },
+ "genus": {
+  "ja-hrkt": "いわつぼポケモン",
+  "ko": "바위단지포켓몬",
+  "zh-hant": "藤壺寶可夢",
+  "fr": "Pokémon Bernacle",
+  "de": "Rankfüßer-Pokémon",
+  "es": "Pokémon Percebe",
+  "it": "Pokémon Lepade",
+  "en": "Barnacle Pokémon",
+  "ja": "いわつぼポケモン",
+  "zh-hans": "藤壶宝可梦",
+  "es-419": "Pokémon Percebe"
+ },
+ "flavor": {
+  "en": "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients.",
+  "ko": "촉수로 먹이를 잡은 후 그대로 소화액으로 녹여 영양분을 흡수한다."
+ },
+ "varieties": [
+  {
+   "name": "cradily",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "176"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm16",
+ "names": {
+  "ja-hrkt": "わざマシン１６",
+  "ko": "기술머신16",
+  "zh-hant": "招式學習器１６",
+  "fr": "CT16",
+  "de": "TM16",
+  "es": "MT16",
+  "it": "MT16",
+  "en": "TM16",
+  "ja": "わざマシン１６",
+  "zh-hans": "招式学习器１６",
+  "es-419": "MT16"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Mur Lumière à un Pokémon compatible. (Gén II: Vent Glace Gén I: Jackpot)",
+  "en": "Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)"
+ },
+ "flavor": {
+  "en": "An earsplitting screech harshly lowers the target’s Defense stat.",
+  "ko": "그만 귀를 막아버리고 싶은 싫은 소리를 내어 상대의 방어를 크게 떨어뜨린다.",
+  "ja": "おもわず 耳を ふさぎたくなる いやなおとを だして 相手の 防御を がくっと さげる。"
+ }
+}

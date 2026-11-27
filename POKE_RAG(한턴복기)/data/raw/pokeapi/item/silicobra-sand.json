@@ -1,0 +1,20 @@
+{
+ "name": "silicobra-sand",
+ "names": {
+  "ja-hrkt": "スナヘビのすな",
+  "ko": "모래뱀의모래",
+  "zh-hant": "沙包蛇的沙",
+  "fr": "Sable de Dunaja",
+  "de": "Salanga-Sand",
+  "es": "Arena de Silicobra",
+  "it": "Sabbia di Silicobra",
+  "en": "Silicobra Sand",
+  "ja": "スナヘビのすな",
+  "zh-hans": "沙包蛇的沙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

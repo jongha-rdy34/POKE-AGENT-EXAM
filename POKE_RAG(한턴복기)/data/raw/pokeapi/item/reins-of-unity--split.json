@@ -1,0 +1,25 @@
+{
+ "name": "reins-of-unity--split",
+ "names": {
+  "ja-hrkt": "キズナのタヅナ",
+  "ko": "유대의고삐",
+  "zh-hant": "牽絆韁繩",
+  "fr": "Rênes de l’Unité",
+  "de": "Zügel des Bundes",
+  "es": "Riendas Unión",
+  "it": "Briglie legame",
+  "en": "Reins of Unity",
+  "ja": "キズナのタヅナ",
+  "zh-hans": "牵绊缰绳",
+  "es-419": "Riendas Unión"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "인간들이 왕에게 바친 고삐. 연결된 이들은 의사소통할 수 있게 된다. 버드렉스와 애마를 분리시킨다.",
+  "en": "Reins that people presented to the king. They enable those who are connected to communicate with each other. The reins separate Calyrex and its beloved steed.",
+  "ja": "人が 王に 献上していた タヅナ。 繋がった者 同士 意思疎通が できる。 バドレックスと 愛馬を 分離させる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 174,
+ "name": "igglybuff",
+ "names": {
+  "ja-hrkt": "ププリン",
+  "ja-roma": "Pupurin",
+  "ko": "푸푸린",
+  "zh-hant": "寶寶丁",
+  "fr": "Toudoudou",
+  "de": "Fluffeluff",
+  "es": "Igglybuff",
+  "it": "Igglybuff",
+  "en": "Igglybuff",
+  "ja": "ププリン",
+  "zh-hans": "宝宝丁",
+  "es-419": "Igglybuff"
+ },
+ "genus": {
+  "ja-hrkt": "ふうせんポケモン",
+  "ko": "풍선포켓몬",
+  "zh-hant": "氣球寶可夢",
+  "fr": "Pokémon Bouboule",
+  "de": "Ballon-Pokémon",
+  "es": "Pokémon Globo",
+  "it": "Pokémon Pallone",
+  "en": "Balloon Pokémon",
+  "ja": "ふうせんポケモン",
+  "zh-hans": "气球宝可梦",
+  "es-419": "Pokémon Globo"
+ },
+ "flavor": {
+  "en": "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises.",
+  "ko": "부드러운 몸으로 통통 튀며 움직인다. 체온이 오르면 몸은 짙은 핑크색이 된다."
+ },
+ "varieties": [
+  {
+   "name": "igglybuff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "16"
+}

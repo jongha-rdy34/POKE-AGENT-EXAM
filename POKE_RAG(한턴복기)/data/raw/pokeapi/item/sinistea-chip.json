@@ -1,0 +1,20 @@
+{
+ "name": "sinistea-chip",
+ "names": {
+  "ja-hrkt": "ヤバチャのかけら",
+  "ko": "데인차의조각",
+  "zh-hant": "來悲茶的碎片",
+  "fr": "Fragment de Théffroi",
+  "de": "Fatalitee-Splitter",
+  "es": "Fragmento de Sinistea",
+  "it": "Coccio di Sinistea",
+  "en": "Sinistea Chip",
+  "ja": "ヤバチャのかけら",
+  "zh-hans": "来悲茶的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

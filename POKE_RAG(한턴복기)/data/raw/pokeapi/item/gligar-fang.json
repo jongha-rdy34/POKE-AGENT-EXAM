@@ -1,0 +1,20 @@
+{
+ "name": "gligar-fang",
+ "names": {
+  "ja-hrkt": "グライガーのキバ",
+  "ko": "글라이거의이빨",
+  "zh-hant": "天蠍的牙",
+  "fr": "Croc de Scorplane",
+  "de": "Skorgla-Zahn",
+  "es": "Colmillo de Gligar",
+  "it": "Zanna di Gligar",
+  "en": "Gligar Fang",
+  "ja": "グライガーのキバ",
+  "zh-hans": "天蝎的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

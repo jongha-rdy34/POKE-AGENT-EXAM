@@ -1,0 +1,28 @@
+{
+ "name": "tm62",
+ "names": {
+  "ja-hrkt": "わざマシン６２",
+  "ko": "기술머신62",
+  "zh-hant": "招式學習器６２",
+  "fr": "CT62",
+  "de": "TM62",
+  "es": "MT62",
+  "it": "MT62",
+  "en": "TM62",
+  "ja": "わざマシン６２",
+  "zh-hans": "招式学习器６２",
+  "es-419": "MT62"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Acrobatie à un Pokémon compatible. (Gén IV: Vent Argenté)",
+  "en": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)"
+ },
+ "flavor": {
+  "en": "The user exchanges Speed stats with the target.",
+  "ko": "상대의 스피드와 자신의 스피드를 교체한다.",
+  "ja": "相手の 素早さと 自分の 素早さを 入れ替えてしまう。"
+ }
+}

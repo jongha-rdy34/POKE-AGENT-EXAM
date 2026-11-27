@@ -1,0 +1,37 @@
+{
+ "id": 908,
+ "name": "meowscarada",
+ "names": {
+  "ja-hrkt": "マスカーニャ",
+  "ja-roma": "Masquernya",
+  "ko": "마스카나",
+  "zh-hant": "魔幻假面喵",
+  "fr": "Miascarade",
+  "de": "Maskagato",
+  "es": "Meowscarada",
+  "it": "Meowscarada",
+  "en": "Meowscarada",
+  "ja": "マスカーニャ",
+  "zh-hans": "魔幻假面喵",
+  "es-419": "Meowscarada"
+ },
+ "genus": {
+  "ja-hrkt": "マジシャンポケモン",
+  "ko": "매지션포켓몬",
+  "zh-hant": "魔術師寶可夢",
+  "fr": "Magicien",
+  "de": "Magier",
+  "en": "Magician Pokémon",
+  "zh-hans": "魔术师宝可梦"
+ },
+ "flavor": {
+  "en": "With skillful misdirection, it rigs foes with pollen-packed flower bombs. Meowscarada sets off the bombs before its foes realize what’s going on."
+ },
+ "varieties": [
+  {
+   "name": "meowscarada",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "478"
+}

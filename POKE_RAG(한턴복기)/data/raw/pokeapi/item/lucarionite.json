@@ -1,0 +1,28 @@
+{
+ "name": "lucarionite",
+ "names": {
+  "ja-hrkt": "ルカリオナイト",
+  "ko": "루카리오나이트",
+  "zh-hant": "路卡利歐進化石",
+  "fr": "Lucarite",
+  "de": "Lucarionit",
+  "es": "Lucarita",
+  "it": "Lucarite",
+  "en": "Lucarionite",
+  "ja": "ルカリオナイト",
+  "zh-hans": "路卡利欧进化石",
+  "es-419": "Lucarita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Lucario de Méga-Évoluer en Méga-Lucario.",
+  "en": "Held: Allows Lucario to Mega Evolve into Mega Lucario."
+ },
+ "flavor": {
+  "ko": "루카리오에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Lucario hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ルカリオに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

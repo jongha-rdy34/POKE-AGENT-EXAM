@@ -1,0 +1,42 @@
+{
+ "id": 285,
+ "name": "shroomish",
+ "names": {
+  "ja-hrkt": "キノココ",
+  "ja-roma": "Kinococo",
+  "ko": "버섯꼬",
+  "zh-hant": "蘑蘑菇",
+  "fr": "Balignon",
+  "de": "Knilz",
+  "es": "Shroomish",
+  "it": "Shroomish",
+  "en": "Shroomish",
+  "ja": "キノココ",
+  "zh-hans": "蘑蘑菇",
+  "es-419": "Shroomish"
+ },
+ "genus": {
+  "ja-hrkt": "きのこポケモン",
+  "ko": "버섯포켓몬",
+  "zh-hant": "蘑菇寶可夢",
+  "fr": "Pokémon Champignon",
+  "de": "Pilz",
+  "es": "Pokémon Hongo",
+  "it": "Pokémon Fungo",
+  "en": "Mushroom Pokémon",
+  "ja": "きのこポケモン",
+  "zh-hans": "蘑菇宝可梦",
+  "es-419": "Pokémon Hongo"
+ },
+ "flavor": {
+  "en": "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
+  "ko": "위험을 느끼면 몸을 흔들어 머리의 정수리에서 포자를 뿌린다. 풀과 나무가 시들 정도의 맹독이다."
+ },
+ "varieties": [
+  {
+   "name": "shroomish",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "142"
+}

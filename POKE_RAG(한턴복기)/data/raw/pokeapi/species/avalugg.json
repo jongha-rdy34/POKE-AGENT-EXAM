@@ -1,0 +1,46 @@
+{
+ "id": 713,
+ "name": "avalugg",
+ "names": {
+  "ja-hrkt": "クレベース",
+  "ja-roma": "Crebase",
+  "ko": "크레베이스",
+  "zh-hant": "冰岩怪",
+  "fr": "Séracrawl",
+  "de": "Arktilas",
+  "es": "Avalugg",
+  "it": "Avalugg",
+  "en": "Avalugg",
+  "ja": "クレベース",
+  "zh-hans": "冰岩怪",
+  "es-419": "Avalugg"
+ },
+ "genus": {
+  "ja-hrkt": "ひょうざんポケモン",
+  "ko": "빙산포켓몬",
+  "zh-hant": "冰山寶可夢",
+  "fr": "Pokémon Iceberg",
+  "de": "Eisberg-Pokémon",
+  "es": "Pokémon Iceberg",
+  "it": "Pokémon Iceberg",
+  "en": "Iceberg Pokémon",
+  "ja": "ひょうざんポケモン",
+  "zh-hans": "冰山宝可梦",
+  "es-419": "Pokémon Iceberg"
+ },
+ "flavor": {
+  "ko": "낮 동안의 활동으로 몸의 균열이 깊어지지만 하룻밤 사이에 균열이 없는 몸으로 돌아간다.",
+  "en": "The armor of ice covering its lower jaw puts steel to shame and can shatter rocks with ease. This Pokémon barrels along steep mountain paths, cleaving through the deep snow."
+ },
+ "varieties": [
+  {
+   "name": "avalugg",
+   "is_default": true
+  },
+  {
+   "name": "avalugg-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "366"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "stall",
+ "names": {
+  "ja-hrkt": "あとだし",
+  "ko": "시간벌기",
+  "zh-hant": "慢出",
+  "fr": "Frein",
+  "de": "Zeitspiel",
+  "es": "Rezagado",
+  "it": "Rallentatore",
+  "en": "Stall",
+  "ja": "あとだし",
+  "zh-hans": "慢出",
+  "es-419": "Rezagado"
+ },
+ "effect": {
+  "en": "Makes the Pokémon move last within its move's priority bracket."
+ },
+ "flavor": {
+  "en": "The Pokémon is always the last to use its moves.",
+  "ko": "기술을 사용하는 순서가 반드시 마지막이 된다."
+ }
+}

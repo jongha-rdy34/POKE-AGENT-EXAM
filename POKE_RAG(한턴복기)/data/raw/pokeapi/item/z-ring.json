@@ -1,0 +1,28 @@
+{
+ "name": "z-ring",
+ "names": {
+  "ja-hrkt": "Ｚリング",
+  "ko": "Z링",
+  "zh-hant": "Ｚ手環",
+  "fr": "Bracelet Z",
+  "de": "Z-Ring",
+  "es": "Pulsera Z",
+  "it": "Cerchio Z",
+  "en": "Z-Ring",
+  "ja": "Ｚリング",
+  "zh-hans": "Ｚ手环",
+  "es-419": "Pulsera Z"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur d'utiliser les Capacités Z.",
+  "en": "Allows the player’s Pokémon to use Z-moves."
+ },
+ "flavor": {
+  "ko": "트레이너의 기력과 체력을 사용해서 포켓몬이 Z파워를 발산할 수 있게 하는 신비한 팔찌.",
+  "en": "A mysterious ring that enables Pokémon to use Z-Power. It requires both the willpower and the physical power of the Trainer wearing it.",
+  "ja": "トレーナーの 気力 体力を 使って ポケモンが Ｚパワーを 放てるようにする 不思議な腕輪。"
+ }
+}

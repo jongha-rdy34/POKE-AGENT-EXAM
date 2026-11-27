@@ -1,0 +1,28 @@
+{
+ "name": "fighting-gem",
+ "names": {
+  "ja-hrkt": "かくとうジュエル",
+  "ko": "격투주얼",
+  "zh-hant": "格鬥寶石",
+  "fr": "Joyau Combat",
+  "de": "Kampfjuwel",
+  "es": "Gema Lucha",
+  "it": "Bijoulotta",
+  "en": "Fighting Gem",
+  "ja": "かくとうジュエル",
+  "zh-hans": "格斗宝石",
+  "es-419": "Gema Lucha"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Combat, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Fighting-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move one time.",
+  "ko": "격투타입의 주얼. 지니게 하면 한 번만 격투 기술의 위력이 강해진다.",
+  "ja": "かくとうの タイプの ジュエル。 持たせると １度だけ かくとうの 技の 威力が 強まる。"
+ }
+}

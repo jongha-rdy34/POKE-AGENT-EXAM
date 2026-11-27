@@ -1,0 +1,30 @@
+{
+ "id": 815,
+ "name": "cinderace",
+ "species": "cinderace",
+ "is_default": true,
+ "types": [
+  "fire"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 116,
+  "defense": 75,
+  "special-attack": 65,
+  "special-defense": 75,
+  "speed": 119
+ },
+ "abilities": [
+  {
+   "name": "blaze",
+   "hidden": false
+  },
+  {
+   "name": "libero",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 330,
+ "champions_moves": []
+}

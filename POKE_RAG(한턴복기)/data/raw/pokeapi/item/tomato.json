@@ -1,0 +1,20 @@
+{
+ "name": "tomato",
+ "names": {
+  "ja-hrkt": "トマトスライス",
+  "ko": "토마토슬라이스",
+  "zh-hant": "番茄片",
+  "fr": "Tomate",
+  "de": "Tomate",
+  "es": "Tomate",
+  "it": "Pomodoro",
+  "en": "Tomato",
+  "ja": "トマトスライス",
+  "zh-hans": "番茄片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

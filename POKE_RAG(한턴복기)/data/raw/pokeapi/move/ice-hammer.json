@@ -1,0 +1,31 @@
+{
+ "name": "ice-hammer",
+ "names": {
+  "ja-hrkt": "アイスハンマー",
+  "ko": "아이스해머",
+  "zh-hant": "冰錘",
+  "fr": "Marteau de Glace",
+  "de": "Eishammer",
+  "es": "Martillo Hielo",
+  "it": "Martelgelo",
+  "en": "Ice Hammer",
+  "ja": "アイスハンマー",
+  "zh-hans": "冰锤",
+  "es-419": "Martillo Hielo"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers user’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "강하고 무거운 주먹을 휘둘러 데미지를 준다. 자신의 스피드가 떨어진다.",
+  "en": "The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat."
+ }
+}

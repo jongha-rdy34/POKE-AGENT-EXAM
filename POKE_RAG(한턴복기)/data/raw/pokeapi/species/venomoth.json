@@ -1,0 +1,42 @@
+{
+ "id": 49,
+ "name": "venomoth",
+ "names": {
+  "ja-hrkt": "モルフォン",
+  "ja-roma": "Morphon",
+  "ko": "도나리",
+  "zh-hant": "摩魯蛾",
+  "fr": "Aéromite",
+  "de": "Omot",
+  "es": "Venomoth",
+  "it": "Venomoth",
+  "en": "Venomoth",
+  "ja": "モルフォン",
+  "zh-hans": "摩鲁蛾",
+  "es-419": "Venomoth"
+ },
+ "genus": {
+  "ja-hrkt": "どくがポケモン",
+  "ko": "독나방포켓몬",
+  "zh-hant": "毒蛾寶可夢",
+  "fr": "Pokémon Papipoison",
+  "de": "Giftmotte",
+  "es": "Pokémon Polilla Ven.",
+  "it": "Pokémon Velentarma",
+  "en": "Poison Moth Pokémon",
+  "ja": "どくがポケモン",
+  "zh-hans": "毒蛾宝可梦",
+  "es-419": "Pokémon Polilla Ven."
+ },
+ "flavor": {
+  "en": "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.",
+  "ko": "날개의 인분은 몸에 묻으면 좀처럼 떨어지지 않는다. 게다가 거기에서 독성분이 스며든다."
+ },
+ "varieties": [
+  {
+   "name": "venomoth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "20"
+}

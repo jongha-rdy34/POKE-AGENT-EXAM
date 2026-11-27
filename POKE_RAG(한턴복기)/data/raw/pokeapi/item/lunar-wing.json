@@ -1,0 +1,28 @@
+{
+ "name": "lunar-wing",
+ "names": {
+  "ja-hrkt": "みかづきのはね",
+  "ko": "초승달깃털",
+  "zh-hant": "新月之羽",
+  "fr": "Lun’Aile",
+  "de": "Lunarfeder",
+  "es": "Pluma Lunar",
+  "it": "Alalunare",
+  "en": "Lunar Wing",
+  "ja": "みかづきのはね",
+  "zh-hans": "新月之羽",
+  "es-419": "Pluma Lunar"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Soigne les cauchemars du fils du marin à Joliberges.",
+  "en": "Cures sailor’s son of nightmares in Canalave City."
+ },
+ "flavor": {
+  "en": "A feather that glows like the moon. It’s said to possess the power to dispel nightmares.",
+  "ko": "달처럼 반짝임을 발산하는 날개. 악몽을 뿌리치는 힘을 간직하고 있다고 전해진다.",
+  "ja": "つきのような 輝きを はなつ はね。 悪夢を ふりはらう 力を 秘めていると 伝えられている。"
+ }
+}

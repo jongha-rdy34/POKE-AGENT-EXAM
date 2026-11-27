@@ -1,0 +1,42 @@
+{
+ "id": 881,
+ "name": "arctozolt",
+ "names": {
+  "ja-hrkt": "パッチルドン",
+  "ja-roma": "Patchilldon",
+  "ko": "파치르돈",
+  "zh-hant": "雷鳥海獸",
+  "fr": "Galvagla",
+  "de": "Lecryodon",
+  "es": "Arctozolt",
+  "it": "Arctozolt",
+  "en": "Arctozolt",
+  "ja": "パッチルドン",
+  "zh-hans": "雷鸟海兽",
+  "es-419": "Arctozolt"
+ },
+ "genus": {
+  "ja-hrkt": "かせきポケモン",
+  "ko": "화석포켓몬",
+  "zh-hant": "化石寶可夢",
+  "fr": "Pokémon Fossile",
+  "de": "Fossil-Pokémon",
+  "es": "Pokémon Fósil",
+  "it": "Pokémon Fossile",
+  "en": "Fossil Pokémon",
+  "ja": "かせきポケモン",
+  "zh-hans": "化石宝可梦",
+  "es-419": "Pokémon Fósil"
+ },
+ "flavor": {
+  "ko": "고대의 해변에 살며 먹이를 몸의 얼음으로 보존시켰지만 움직임이 둔해 멸종하였다.",
+  "en": "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly."
+ },
+ "varieties": [
+  {
+   "name": "arctozolt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "462"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "bridge-mail-m",
+ "names": {
+  "ja-hrkt": "ブリッジメールＷ",
+  "ko": "브리지메일W",
+  "zh-hant": "橋梁郵件Ｗ",
+  "fr": "Lettre Pont I",
+  "de": "Brückbrief W",
+  "es": "Carta Puente P",
+  "it": "Mess. Merav.",
+  "en": "Bridge Mail M",
+  "ja": "ブリッジメールＷ",
+  "zh-hans": "桥梁邮件Ｗ",
+  "es-419": "Carta Puente P"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring an illustration of a majestically arched bridge. Have a Pokémon hold it for delivery.",
+  "ko": "아치가 그려진 다리의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다.",
+  "ja": "アーチを 描いた 橋の 絵柄が プリントされた レターペーパー。 ポケモンに 持たせて 使う。"
+ }
+}

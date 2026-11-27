@@ -1,0 +1,35 @@
+{
+ "id": 83,
+ "name": "farfetchd",
+ "species": "farfetchd",
+ "is_default": true,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 52,
+  "attack": 90,
+  "defense": 55,
+  "special-attack": 58,
+  "special-defense": 62,
+  "speed": 60
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "inner-focus",
+   "hidden": false
+  },
+  {
+   "name": "defiant",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 150,
+ "champions_moves": []
+}

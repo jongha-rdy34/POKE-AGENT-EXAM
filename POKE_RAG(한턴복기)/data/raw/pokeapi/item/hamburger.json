@@ -1,0 +1,20 @@
+{
+ "name": "hamburger",
+ "names": {
+  "ja-hrkt": "ハンバーグ",
+  "ko": "햄버그",
+  "zh-hant": "漢堡排",
+  "fr": "Steak Haché",
+  "de": "Frikadelle",
+  "es": "Hamburguesa",
+  "it": "Hamburger grigliato",
+  "en": "Hamburger",
+  "ja": "ハンバーグ",
+  "zh-hans": "汉堡排"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

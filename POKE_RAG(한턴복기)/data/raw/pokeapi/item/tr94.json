@@ -1,0 +1,25 @@
+{
+ "name": "tr94",
+ "names": {
+  "ja-hrkt": "わざレコード９４",
+  "ko": "기술레코드94",
+  "zh-hant": "招式紀錄９４",
+  "fr": "DT94",
+  "de": "TP94",
+  "es": "DT94",
+  "it": "DT94",
+  "en": "TR94",
+  "ja": "わざレコード９４",
+  "zh-hans": "招式记录９４",
+  "es-419": "DT94"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "온몸을 써서 상대에게 맹렬히 어택한다.",
+  "en": "The user fiercely attacks the target using its entire body.",
+  "ja": "全身を 使って 相手に 猛アタックする。"
+ }
+}

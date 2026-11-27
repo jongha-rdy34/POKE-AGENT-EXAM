@@ -1,0 +1,20 @@
+{
+ "name": "salt",
+ "names": {
+  "ja-hrkt": "ソルト",
+  "ko": "소금",
+  "zh-hant": "鹽",
+  "fr": "Sel",
+  "de": "Salz",
+  "es": "Sal",
+  "it": "Sale",
+  "en": "Salt",
+  "ja": "ソルト",
+  "zh-hans": "盐"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

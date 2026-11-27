@@ -1,0 +1,20 @@
+{
+ "name": "yungoos-fur",
+ "names": {
+  "ja-hrkt": "ヤングースのけ",
+  "ko": "영구스의털",
+  "zh-hant": "貓鼬少的毛",
+  "fr": "Poils de Manglouton",
+  "de": "Mangunior-Haar",
+  "es": "Pelo de Yungoos",
+  "it": "Pelo di Yungoos",
+  "en": "Yungoos Fur",
+  "ja": "ヤングースのけ",
+  "zh-hans": "猫鼬少的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

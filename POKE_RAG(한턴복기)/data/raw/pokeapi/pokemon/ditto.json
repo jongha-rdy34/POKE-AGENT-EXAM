@@ -1,0 +1,32 @@
+{
+ "id": 132,
+ "name": "ditto",
+ "species": "ditto",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 48,
+  "attack": 48,
+  "defense": 48,
+  "special-attack": 48,
+  "special-defense": 48,
+  "speed": 48
+ },
+ "abilities": [
+  {
+   "name": "limber",
+   "hidden": false
+  },
+  {
+   "name": "imposter",
+   "hidden": true
+  }
+ ],
+ "height": 3,
+ "weight": 40,
+ "champions_moves": [
+  "transform"
+ ]
+}

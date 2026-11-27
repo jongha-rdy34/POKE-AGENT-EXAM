@@ -1,0 +1,42 @@
+{
+ "id": 331,
+ "name": "cacnea",
+ "names": {
+  "ja-hrkt": "サボネア",
+  "ja-roma": "Sabonea",
+  "ko": "선인왕",
+  "zh-hant": "刺球仙人掌",
+  "fr": "Cacnea",
+  "de": "Tuska",
+  "es": "Cacnea",
+  "it": "Cacnea",
+  "en": "Cacnea",
+  "ja": "サボネア",
+  "zh-hans": "刺球仙人掌",
+  "es-419": "Cacnea"
+ },
+ "genus": {
+  "ja-hrkt": "サボテンポケモン",
+  "ko": "선인장포켓몬",
+  "zh-hant": "仙人掌寶可夢",
+  "fr": "Pokémon Cactus",
+  "de": "Kaktus",
+  "es": "Pokémon Cactus",
+  "it": "Pokémon Cactus",
+  "en": "Cactus Pokémon",
+  "ja": "サボテンポケモン",
+  "zh-hans": "仙人掌宝可梦",
+  "es-419": "Pokémon Cactus"
+ },
+ "flavor": {
+  "en": "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
+  "ko": "비가 적은 척박한 환경일수록 아름답고 향기가 강한 꽃을 피운다. 가시가 달린 팔을 휘두르며 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "cacnea",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "167"
+}

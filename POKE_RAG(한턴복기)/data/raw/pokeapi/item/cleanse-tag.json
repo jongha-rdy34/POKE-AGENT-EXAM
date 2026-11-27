@@ -1,0 +1,30 @@
+{
+ "name": "cleanse-tag",
+ "names": {
+  "ja-hrkt": "きよめのおふだ",
+  "ko": "순결의부적",
+  "zh-hant": "潔淨之符",
+  "fr": "Rune Purifiante",
+  "de": "Schutzsticker",
+  "es": "Amuleto",
+  "it": "Velopuro",
+  "en": "Cleanse Tag",
+  "ja": "きよめのおふだ",
+  "zh-hans": "洁净之符",
+  "es-419": "Amuleto"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Empêche les rencontres sauvages de niveau inférieur à celui du premier Pokémon de votre équipe.",
+  "en": "Prevents wild encounters of level lower than your party’s lead Pokémon."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the head of the party.",
+  "ko": "맨 앞의 포켓몬에게 지니게 하면 야생 포켓몬이 나타날 확률이 낮아진다.",
+  "ja": "１番 前の ポケモンに 持たせると 野生ポケモンが でて きにくくなる。"
+ }
+}

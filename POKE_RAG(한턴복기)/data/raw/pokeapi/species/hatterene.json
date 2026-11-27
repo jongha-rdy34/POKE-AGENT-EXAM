@@ -1,0 +1,46 @@
+{
+ "id": 858,
+ "name": "hatterene",
+ "names": {
+  "ja-hrkt": "ブリムオン",
+  "ja-roma": "Brimuon",
+  "ko": "브리무음",
+  "zh-hant": "布莉姆溫",
+  "fr": "Sorcilence",
+  "de": "Silembrim",
+  "es": "Hatterene",
+  "it": "Hatterene",
+  "en": "Hatterene",
+  "ja": "ブリムオン",
+  "zh-hans": "布莉姆温",
+  "es-419": "Hatterene"
+ },
+ "genus": {
+  "ja-hrkt": "せいじゃくポケモン",
+  "ko": "정적포켓몬",
+  "zh-hant": "寂靜寶可夢",
+  "fr": "Pokémon Silencieux",
+  "de": "Stille-Pokémon",
+  "es": "Pokémon Silencio",
+  "it": "Pokémon Silenzio",
+  "en": "Silent Pokémon",
+  "ja": "せいじゃくポケモン",
+  "zh-hans": "寂静宝可梦",
+  "es-419": "Pokémon Silencio"
+ },
+ "flavor": {
+  "ko": "숲의 마녀라는 별명을 가졌다. 소란을 피우면 촉수의 손톱에 찢겨질지도 모른다.",
+  "en": "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch."
+ },
+ "varieties": [
+  {
+   "name": "hatterene",
+   "is_default": true
+  },
+  {
+   "name": "hatterene-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "450"
+}

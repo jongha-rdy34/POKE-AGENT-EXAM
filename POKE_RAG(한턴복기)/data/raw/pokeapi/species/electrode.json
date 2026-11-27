@@ -1,0 +1,46 @@
+{
+ "id": 101,
+ "name": "electrode",
+ "names": {
+  "ja-hrkt": "マルマイン",
+  "ja-roma": "Marumine",
+  "ko": "붐볼",
+  "zh-hant": "頑皮雷彈",
+  "fr": "Électrode",
+  "de": "Lektrobal",
+  "es": "Electrode",
+  "it": "Electrode",
+  "en": "Electrode",
+  "ja": "マルマイン",
+  "zh-hans": "顽皮雷弹",
+  "es-419": "Electrode"
+ },
+ "genus": {
+  "ja-hrkt": "ボールポケモン",
+  "ko": "볼포켓몬",
+  "zh-hant": "球寶可夢",
+  "fr": "Pokémon Balle",
+  "de": "Ball",
+  "es": "Pokémon Bola",
+  "it": "Pokémon Ball",
+  "en": "Ball Pokémon",
+  "ja": "ボールポケモン",
+  "zh-hans": "球宝可梦",
+  "es-419": "Pokémon Bola"
+ },
+ "flavor": {
+  "en": "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.",
+  "ko": "조금이라도 충격을 주면 체내에 있는 전기 에너지가 넘쳐서 폭발해버린다."
+ },
+ "varieties": [
+  {
+   "name": "electrode",
+   "is_default": true
+  },
+  {
+   "name": "electrode-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "44"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "snover-berries",
+ "names": {
+  "ja-hrkt": "ユキカブリのみ",
+  "ko": "눈쓰개의열매",
+  "zh-hant": "雪笠怪的果實",
+  "fr": "Baie de Blizzi",
+  "de": "Shnebedeck-Beere",
+  "es": "Baya de Snover",
+  "it": "Bacca di Snover",
+  "en": "Snover Berries",
+  "ja": "ユキカブリのみ",
+  "zh-hans": "雪笠怪的果实"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

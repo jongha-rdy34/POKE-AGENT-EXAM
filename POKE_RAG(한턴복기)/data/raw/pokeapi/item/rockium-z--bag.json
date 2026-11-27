@@ -1,0 +1,28 @@
+{
+ "name": "rockium-z--bag",
+ "names": {
+  "ja-hrkt": "イワＺ",
+  "ko": "바위Z",
+  "zh-hant": "岩石Ｚ",
+  "fr": "Rocazélite",
+  "de": "Petrium Z",
+  "es": "Litostal Z",
+  "it": "Petrium Z",
+  "en": "Rockium Z",
+  "ja": "イワＺ",
+  "zh-hans": "岩石Ｚ",
+  "es-419": "Litostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour rockium-z--bag",
+  "en": "XXX new effect for rockium-z--bag"
+ },
+ "flavor": {
+  "ko": "바위타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Rock-type moves to Rock-type Z-Moves.",
+  "ja": "いわタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

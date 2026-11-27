@@ -1,0 +1,28 @@
+{
+ "name": "mortal-spin",
+ "names": {
+  "ja-hrkt": "キラースピン",
+  "ko": "킬러스핀",
+  "zh-hant": "晶光轉轉",
+  "fr": "Toupie Éclat",
+  "de": "Letalwirbler",
+  "es": "Giro Mortífero",
+  "it": "Glitturbine",
+  "en": "Mortal Spin",
+  "ja": "キラースピン",
+  "zh-hans": "晶光转转",
+  "es-419": "Giro Mortífero"
+ },
+ "type": "poison",
+ "category": "physical",
+ "power": 30,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also poisons opposing Pokémon."
+ }
+}

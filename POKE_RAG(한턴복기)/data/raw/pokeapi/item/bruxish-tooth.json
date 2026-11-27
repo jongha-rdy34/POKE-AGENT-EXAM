@@ -1,0 +1,20 @@
+{
+ "name": "bruxish-tooth",
+ "names": {
+  "ja-hrkt": "ハギギシリのは",
+  "ko": "치갈기의이빨",
+  "zh-hant": "磨牙彩皮魚的牙齒",
+  "fr": "Dent de Denticrisse",
+  "de": "Knirfish-Zahn",
+  "es": "Diente de Bruxish",
+  "it": "Dente di Bruxish",
+  "en": "Bruxish Tooth",
+  "ja": "ハギギシリのは",
+  "zh-hans": "磨牙彩皮鱼的牙齿"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

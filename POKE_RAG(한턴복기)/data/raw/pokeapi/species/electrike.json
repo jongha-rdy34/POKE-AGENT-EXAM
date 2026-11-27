@@ -1,0 +1,42 @@
+{
+ "id": 309,
+ "name": "electrike",
+ "names": {
+  "ja-hrkt": "ラクライ",
+  "ja-roma": "Rakurai",
+  "ko": "썬더라이",
+  "zh-hant": "落雷獸",
+  "fr": "Dynavolt",
+  "de": "Frizelbliz",
+  "es": "Electrike",
+  "it": "Electrike",
+  "en": "Electrike",
+  "ja": "ラクライ",
+  "zh-hans": "落雷兽",
+  "es-419": "Electrike"
+ },
+ "genus": {
+  "ja-hrkt": "いなずまポケモン",
+  "ko": "천둥번개포켓몬",
+  "zh-hant": "閃電寶可夢",
+  "fr": "Pokémon Orage",
+  "de": "Gewitter-Pokémon",
+  "es": "Pokémon Calambre",
+  "it": "Pokémon Lampo",
+  "en": "Lightning Pokémon",
+  "ja": "いなずまポケモン",
+  "zh-hans": "闪电宝可梦",
+  "es-419": "Pokémon Calambre"
+ },
+ "flavor": {
+  "en": "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.",
+  "ko": "정전기를 털에 모은다. 공기가 건조한 계절에는 전신에서 스파크를 뿌린다."
+ },
+ "varieties": [
+  {
+   "name": "electrike",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "153"
+}

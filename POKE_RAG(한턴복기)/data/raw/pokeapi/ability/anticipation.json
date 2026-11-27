@@ -1,0 +1,23 @@
+{
+ "name": "anticipation",
+ "names": {
+  "ja-hrkt": "きけんよち",
+  "ko": "위험예지",
+  "zh-hant": "危險預知",
+  "fr": "Anticipation",
+  "de": "Vorahnung",
+  "es": "Anticipación",
+  "it": "Presagio",
+  "en": "Anticipation",
+  "ja": "きけんよち",
+  "zh-hans": "危险预知",
+  "es-419": "Anticipación"
+ },
+ "effect": {
+  "en": "Notifies all trainers upon entering battle if an opponent has a super-effective move, Self-Destruct, Explosion, or a one-hit KO move."
+ },
+ "flavor": {
+  "en": "The Pokémon can sense an opposing Pokémon's dangerous moves.",
+  "ko": "상대가 지닌 위험한 기술을 감지할 수 있다."
+ }
+}

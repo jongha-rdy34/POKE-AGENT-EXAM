@@ -1,0 +1,41 @@
+{
+ "id": 982,
+ "name": "dudunsparce",
+ "names": {
+  "ja-hrkt": "ノココッチ",
+  "ja-roma": "Nokokocchi",
+  "ko": "노고고치",
+  "zh-hant": "土龍節節",
+  "fr": "Deusolourdo",
+  "de": "Dummimisel",
+  "es": "Dudunsparce",
+  "it": "Dudunsparce",
+  "en": "Dudunsparce",
+  "ja": "ノココッチ",
+  "zh-hans": "土龙节节",
+  "es-419": "Dudunsparce"
+ },
+ "genus": {
+  "ja-hrkt": "つちへびポケモン",
+  "ko": "땅뱀포켓몬",
+  "zh-hant": "地蛇寶可夢",
+  "fr": "Serpent",
+  "de": "Erdschlange",
+  "en": "Land Snake Pokémon",
+  "zh-hans": "地蛇宝可梦"
+ },
+ "flavor": {
+  "en": "It drives enemies out of its nest by sucking in enough air to fill its long, narrow lungs, then releasing the air in an intense blast."
+ },
+ "varieties": [
+  {
+   "name": "dudunsparce-two-segment",
+   "is_default": true
+  },
+  {
+   "name": "dudunsparce-three-segment",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "103"
+}

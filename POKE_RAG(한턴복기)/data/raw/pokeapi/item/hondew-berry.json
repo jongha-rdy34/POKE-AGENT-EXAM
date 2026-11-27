@@ -1,0 +1,28 @@
+{
+ "name": "hondew-berry",
+ "names": {
+  "ja-hrkt": "ロメのみ",
+  "ko": "로매열매",
+  "zh-hant": "哈密果",
+  "fr": "Baie Lonme",
+  "de": "Honmelbeere",
+  "es": "Baya Meluce",
+  "it": "Baccamelon",
+  "en": "Hondew Berry",
+  "ja": "ロメのみ",
+  "zh-hans": "哈密果",
+  "es-419": "Baya Meluce"
+ },
+ "category": "effort-drop",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Diminue les EV d'Attaque Spéciale de 10 et augmente le bonheur.",
+  "en": "Drops Special Attack Effort Values by 10 and raises happiness."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its Sp. Atk base points.",
+  "ko": "포켓몬에게 주면 매우 친밀해지기 쉬워지지만 특수공격의 기초 포인트가 떨어진다.",
+  "ja": "ポケモンに あげると とても なかよく なりやすくなるが 特攻の 基礎ポイントは さがる。"
+ }
+}

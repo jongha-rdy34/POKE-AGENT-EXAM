@@ -1,0 +1,32 @@
+{
+ "name": "fist-plate",
+ "names": {
+  "ja-hrkt": "こぶしのプレート",
+  "ko": "주먹플레이트",
+  "zh-hant": "拳頭石板",
+  "fr": "Plaque Poing",
+  "de": "Fausttafel",
+  "es": "Tabla Fuerte",
+  "it": "Lastrapugno",
+  "en": "Fist Plate",
+  "ja": "こぶしのプレート",
+  "zh-hans": "拳头石板",
+  "es-419": "Tabla Fuerte"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Combat du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Combat.",
+  "en": "Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Fighting-type moves.",
+  "ko": "격투타입의 석판. 지니게 하면 격투타입 기술의 위력이 강해진다.",
+  "ja": "かくとうの タイプの 石盤。 持たせると かくとうタイプの 技の 威力が 強まる。"
+ }
+}

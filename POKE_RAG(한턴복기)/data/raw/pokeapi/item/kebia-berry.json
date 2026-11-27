@@ -1,0 +1,30 @@
+{
+ "name": "kebia-berry",
+ "names": {
+  "ja-hrkt": "ビアーのみ",
+  "ko": "으름열매",
+  "zh-hant": "通通果",
+  "fr": "Baie Kébia",
+  "de": "Grarzbeere",
+  "es": "Baya Kebia",
+  "it": "Baccakebia",
+  "en": "Kebia Berry",
+  "ja": "ビアーのみ",
+  "zh-hans": "通通果",
+  "es-419": "Baya Kebia"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Poison super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Poison-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 독 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの どく技を 受けたとき 威力が 弱まる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "infestation",
+ "names": {
+  "ja-hrkt": "まとわりつく",
+  "ko": "엉겨붙기",
+  "zh-hant": "死纏爛打",
+  "fr": "Harcèlement",
+  "de": "Plage",
+  "es": "Acoso",
+  "it": "Assillo",
+  "en": "Infestation",
+  "ja": "まとわりつく",
+  "zh-hans": "死缠烂打",
+  "es-419": "Infestación"
+ },
+ "type": "bug",
+ "category": "special",
+ "power": 20,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "4-5턴 동안 상대에게 엉겨 붙어서 공격한다. 그동안 상대는 도망갈 수 없다.",
+  "en": "The target is infested and attacked for four to five turns. The target can't flee during this time."
+ }
+}

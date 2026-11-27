@@ -1,0 +1,20 @@
+{
+ "name": "tm171",
+ "names": {
+  "ja-hrkt": "わざマシン１７１",
+  "ko": "기술머신171",
+  "zh-hant": "招式學習器１７１",
+  "fr": "CT171",
+  "de": "TM171",
+  "es": "MT171",
+  "it": "MT171",
+  "en": "TM171",
+  "ja": "わざマシン１７１",
+  "zh-hans": "招式学习器１７１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 669,
+ "name": "flabebe",
+ "names": {
+  "ja-hrkt": "フラベベ",
+  "ja-roma": "Flabebe",
+  "ko": "플라베베",
+  "zh-hant": "花蓓蓓",
+  "fr": "Flabébé",
+  "de": "Flabébé",
+  "es": "Flabébé",
+  "it": "Flabébé",
+  "en": "Flabébé",
+  "ja": "フラベベ",
+  "zh-hans": "花蓓蓓",
+  "es-419": "Flabébé"
+ },
+ "genus": {
+  "ja-hrkt": "いちりんポケモン",
+  "ko": "한송이포켓몬",
+  "zh-hant": "單朵寶可夢",
+  "fr": "Pokémon Uniflore",
+  "de": "Einblütler",
+  "es": "Pokémon Monoflor",
+  "it": "Pokémon Monofiore",
+  "en": "Single Bloom Pokémon",
+  "ja": "いちりんポケモン",
+  "zh-hans": "单朵宝可梦",
+  "es-419": "Pokémon Monoflor"
+ },
+ "flavor": {
+  "ko": "머리의 관은 꽃가루를 모아서 만든 것이다. 치유의 효과가 숨겨져 있다.",
+  "en": "Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties."
+ },
+ "varieties": [
+  {
+   "name": "flabebe",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "344"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "swift-wing",
+ "names": {
+  "ja-hrkt": "しゅんぱつのハネ",
+  "ko": "순발력깃털",
+  "zh-hant": "瞬發之羽",
+  "fr": "Plume Sprint",
+  "de": "Flinkfeder",
+  "es": "Pluma Ímpetu",
+  "it": "Piumreazione",
+  "en": "Swift Feather",
+  "ja": "しゅんぱつのハネ",
+  "zh-hans": "瞬发之羽",
+  "es-419": "Pluma Ímpetu"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente les EV de Vitesse de 1.",
+  "en": "Increases Speed effort by 1."
+ },
+ "flavor": {
+  "en": "An item for use on a Pokémon. It slightly increases the Speed base points of a single Pokémon.",
+  "ko": "포켓몬에게 사용하는 도구. 포켓몬 1마리의 스피드 기초 포인트를 조금 올린다.",
+  "ja": "ポケモンに 使う 道具。 ポケモン １匹の 素早さの 基礎ポイントを ちょっと あげる。"
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "name": "modest",
+ "names": {
+  "ja-hrkt": "ひかえめ",
+  "ko": "조심",
+  "zh-hant": "內斂",
+  "fr": "Modeste",
+  "de": "Mäßig",
+  "es": "Modesta",
+  "it": "Modesta",
+  "en": "Modest",
+  "ja": "ひかえめ",
+  "zh-hans": "内敛",
+  "es-419": "Modesta"
+ },
+ "plus": "special-attack",
+ "minus": "attack"
+}

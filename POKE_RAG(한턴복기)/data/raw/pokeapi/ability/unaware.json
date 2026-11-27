@@ -1,0 +1,23 @@
+{
+ "name": "unaware",
+ "names": {
+  "ja-hrkt": "てんねん",
+  "ko": "천진",
+  "zh-hant": "純樸",
+  "fr": "Inconscient",
+  "de": "Unkenntnis",
+  "es": "Ignorante",
+  "it": "Imprudenza",
+  "en": "Unaware",
+  "ja": "てんねん",
+  "zh-hans": "纯朴",
+  "es-419": "Ignorancia"
+ },
+ "effect": {
+  "en": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+ },
+ "flavor": {
+  "en": "When attacking, the Pokémon ignores the target's stat changes.",
+  "ko": "상대의 능력 변화를 무시하고 공격할 수 있다."
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "id": 150,
+ "name": "mewtwo",
+ "names": {
+  "ja-hrkt": "ミュウツー",
+  "ja-roma": "Mewtwo",
+  "ko": "뮤츠",
+  "zh-hant": "超夢",
+  "fr": "Mewtwo",
+  "de": "Mewtu",
+  "es": "Mewtwo",
+  "it": "Mewtwo",
+  "en": "Mewtwo",
+  "ja": "ミュウツー",
+  "zh-hans": "超梦",
+  "es-419": "Mewtwo"
+ },
+ "genus": {
+  "ja-hrkt": "いでんしポケモン",
+  "ko": "유전포켓몬",
+  "zh-hant": "基因寶可夢",
+  "fr": "Pokémon Génétique",
+  "de": "Genmutanten-Pokémon",
+  "es": "Pokémon Genético",
+  "it": "Pokémon Genetico",
+  "en": "Genetic Pokémon",
+  "ja": "いでんしポケモン",
+  "zh-hans": "基因宝可梦",
+  "es-419": "Pokémon Genético"
+ },
+ "flavor": {
+  "en": "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",
+  "ko": "뮤의 유전자와 거의 같다. 하지만 크기도 성격도 무서울 정도로 다르다."
+ },
+ "varieties": [
+  {
+   "name": "mewtwo",
+   "is_default": true
+  },
+  {
+   "name": "mewtwo-mega-x",
+   "is_default": false
+  },
+  {
+   "name": "mewtwo-mega-y",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "77"
+}

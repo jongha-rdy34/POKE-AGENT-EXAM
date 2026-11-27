@@ -1,0 +1,20 @@
+{
+ "name": "finizen-mucus",
+ "names": {
+  "ja-hrkt": "ナミイルカのねんえき",
+  "ko": "맨돌핀의점액",
+  "zh-hant": "波普海豚的黏液",
+  "fr": "Mucus de Dofin",
+  "de": "Normifin-Schleim",
+  "es": "Secreción de Finizen",
+  "it": "Muco di Finizen",
+  "en": "Finizen Mucus",
+  "ja": "ナミイルカのねんえき",
+  "zh-hans": "波普海豚的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

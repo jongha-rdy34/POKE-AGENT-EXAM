@@ -1,0 +1,46 @@
+{
+ "id": 248,
+ "name": "tyranitar",
+ "names": {
+  "ja-hrkt": "バンギラス",
+  "ja-roma": "Bangiras",
+  "ko": "마기라스",
+  "zh-hant": "班基拉斯",
+  "fr": "Tyranocif",
+  "de": "Despotar",
+  "es": "Tyranitar",
+  "it": "Tyranitar",
+  "en": "Tyranitar",
+  "ja": "バンギラス",
+  "zh-hans": "班基拉斯",
+  "es-419": "Tyranitar"
+ },
+ "genus": {
+  "ja-hrkt": "よろいポケモン",
+  "ko": "갑옷포켓몬",
+  "zh-hant": "鎧甲寶可夢",
+  "fr": "Pokémon Armure",
+  "de": "Panzer-Pokémon",
+  "es": "Pokémon Coraza",
+  "it": "Pokémon Armatura",
+  "en": "Armor Pokémon",
+  "ja": "よろいポケモン",
+  "zh-hans": "铠甲宝可梦",
+  "es-419": "Pokémon Coraza"
+ },
+ "flavor": {
+  "en": "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.",
+  "ko": "지축을 울리면서 걸으면 큰 산조차 무너지며 주변의 지형은 변해버린다."
+ },
+ "varieties": [
+  {
+   "name": "tyranitar",
+   "is_default": true
+  },
+  {
+   "name": "tyranitar-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "126"
+}

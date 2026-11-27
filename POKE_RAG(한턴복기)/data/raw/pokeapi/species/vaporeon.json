@@ -1,0 +1,42 @@
+{
+ "id": 134,
+ "name": "vaporeon",
+ "names": {
+  "ja-hrkt": "シャワーズ",
+  "ja-roma": "Showers",
+  "ko": "샤미드",
+  "zh-hant": "水伊布",
+  "fr": "Aquali",
+  "de": "Aquana",
+  "es": "Vaporeon",
+  "it": "Vaporeon",
+  "en": "Vaporeon",
+  "ja": "シャワーズ",
+  "zh-hans": "水伊布",
+  "es-419": "Vaporeon"
+ },
+ "genus": {
+  "ja-hrkt": "あわはきポケモン",
+  "ko": "거품뿜기포켓몬",
+  "zh-hant": "吐泡寶可夢",
+  "fr": "Pokémon Bulleur",
+  "de": "Blubbblasen-Pokémon",
+  "es": "Pokémon Burbuja",
+  "it": "Pokémon Bollajet",
+  "en": "Bubble Jet Pokémon",
+  "ja": "あわはきポケモン",
+  "zh-hans": "吐泡宝可梦",
+  "es-419": "Pokémon Burbuja"
+ },
+ "flavor": {
+  "en": "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon.",
+  "ko": "몸의 세포 구조가 물 분자와 닮았다. 물에 녹으면 보이지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "vaporeon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

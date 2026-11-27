@@ -1,0 +1,17 @@
+{
+ "name": "toxtricity-amped-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Salarsen Forme Aigüe Gigamax",
+  "de": "Gigadynamax-Riffex (Hochform)",
+  "en": "Gigantamax Amped Toxtricity"
+ },
+ "form_names": {
+  "ja-hrkt": "ハイなすがた・キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "ハイなすがた・キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

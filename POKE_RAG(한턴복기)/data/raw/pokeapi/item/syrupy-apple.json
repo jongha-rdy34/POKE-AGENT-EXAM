@@ -1,0 +1,20 @@
+{
+ "name": "syrupy-apple",
+ "names": {
+  "ja-hrkt": "みついりりんご",
+  "ko": "꿀맛사과",
+  "zh-hant": "蜜汁蘋果",
+  "fr": "Pomme Nectar",
+  "de": "Saftiger Apfel",
+  "es": "Manzana Melosa",
+  "it": "Sciroppomo",
+  "en": "Syrupy Apple",
+  "ja": "みついりりんご",
+  "zh-hans": "蜜汁苹果"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

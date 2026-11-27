@@ -1,0 +1,20 @@
+{
+ "name": "kiwi",
+ "names": {
+  "ja-hrkt": "わぎりキウイ",
+  "ko": "키위슬라이스",
+  "zh-hant": "奇異果片",
+  "fr": "Kiwi",
+  "de": "Kiwi",
+  "es": "Kiwi",
+  "it": "Kiwi",
+  "en": "Kiwi",
+  "ja": "わぎりキウイ",
+  "zh-hans": "奇异果片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

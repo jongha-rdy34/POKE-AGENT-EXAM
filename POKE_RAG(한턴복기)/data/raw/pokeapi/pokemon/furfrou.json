@@ -1,0 +1,67 @@
+{
+ "id": 676,
+ "name": "furfrou",
+ "species": "furfrou",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 80,
+  "defense": 60,
+  "special-attack": 65,
+  "special-defense": 90,
+  "speed": 102
+ },
+ "abilities": [
+  {
+   "name": "fur-coat",
+   "hidden": false
+  }
+ ],
+ "height": 12,
+ "weight": 280,
+ "champions_moves": [
+  "attract",
+  "baby-doll-eyes",
+  "bite",
+  "charm",
+  "cotton-guard",
+  "crunch",
+  "dark-pulse",
+  "dig",
+  "double-edge",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-fang",
+  "giga-impact",
+  "grass-knot",
+  "helping-hand",
+  "hyper-voice",
+  "ice-fang",
+  "iron-tail",
+  "last-resort",
+  "protect",
+  "psychic-fangs",
+  "rain-dance",
+  "rest",
+  "roar",
+  "round",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "substitute",
+  "sucker-punch",
+  "sunny-day",
+  "surf",
+  "thunder-fang",
+  "thunder-wave",
+  "trailblaze",
+  "u-turn",
+  "uproar",
+  "wild-charge",
+  "zen-headbutt"
+ ]
+}

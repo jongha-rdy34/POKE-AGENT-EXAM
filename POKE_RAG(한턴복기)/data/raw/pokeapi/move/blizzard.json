@@ -1,0 +1,31 @@
+{
+ "name": "blizzard",
+ "names": {
+  "ja-hrkt": "ふぶき",
+  "ko": "눈보라",
+  "zh-hant": "暴風雪",
+  "fr": "Blizzard",
+  "de": "Blizzard",
+  "es": "Ventisca",
+  "it": "Bora",
+  "en": "Blizzard",
+  "ja": "ふぶき",
+  "zh-hans": "暴风雪",
+  "es-419": "Ventisca"
+ },
+ "type": "ice",
+ "category": "special",
+ "power": 110,
+ "accuracy": 70,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Has a chance to freeze the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.",
+  "ko": "세찬 눈보라를 상대에게 내뿜어 공격한다. 얼음 상태로 만들 때가 있다."
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": 968,
+ "name": "orthworm",
+ "names": {
+  "ja-hrkt": "ミミズズ",
+  "ja-roma": "Mimizuzu",
+  "ko": "꿈트렁",
+  "zh-hant": "拖拖蚓",
+  "fr": "Ferdeter",
+  "de": "Schlurm",
+  "es": "Orthworm",
+  "it": "Orthworm",
+  "en": "Orthworm",
+  "ja": "ミミズズ",
+  "zh-hans": "拖拖蚓",
+  "es-419": "Orthworm"
+ },
+ "genus": {
+  "ja-hrkt": "ミミズポケモン",
+  "ko": "지렁이포켓몬",
+  "zh-hant": "蚯蚓寶可夢",
+  "fr": "Ver de Terre",
+  "de": "Regenwurm",
+  "en": "Earthworm Pokémon",
+  "zh-hans": "蚯蚓宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil."
+ },
+ "varieties": [
+  {
+   "name": "orthworm",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "507"
+}

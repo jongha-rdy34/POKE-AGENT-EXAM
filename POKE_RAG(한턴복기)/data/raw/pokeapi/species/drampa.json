@@ -1,0 +1,46 @@
+{
+ "id": 780,
+ "name": "drampa",
+ "names": {
+  "ja-hrkt": "ジジーロン",
+  "ja-roma": "Jijilong",
+  "ko": "할비롱",
+  "zh-hant": "老翁龍",
+  "fr": "Draïeul",
+  "de": "Sen-Long",
+  "es": "Drampa",
+  "it": "Drampa",
+  "en": "Drampa",
+  "ja": "ジジーロン",
+  "zh-hans": "老翁龙",
+  "es-419": "Drampa"
+ },
+ "genus": {
+  "ja-hrkt": "ゆうゆうポケモン",
+  "ko": "느긋누긋포켓몬",
+  "zh-hant": "悠遊寶可夢",
+  "fr": "Pokémon Nonchalant",
+  "de": "Gelassenheits-Pokémon",
+  "es": "Pokémon Sosiego",
+  "it": "Pokémon Tuttacalma",
+  "en": "Placid Pokémon",
+  "ja": "ゆうゆうポケモン",
+  "zh-hans": "悠游宝可梦",
+  "es-419": "Pokémon Sosiego"
+ },
+ "flavor": {
+  "ko": "사람을 잘 따르고 마음이 착하지만 한번 화가 나면 강풍을 일으켜 모든 것을 쓰러뜨려 버린다.",
+  "en": "Drampa is a kind and friendly Pokémon—up until it’s angered. When that happens, it stirs up a gale and flattens everything around."
+ },
+ "varieties": [
+  {
+   "name": "drampa",
+   "is_default": true
+  },
+  {
+   "name": "drampa-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "406"
+}

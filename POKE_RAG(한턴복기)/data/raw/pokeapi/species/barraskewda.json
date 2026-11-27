@@ -1,0 +1,42 @@
+{
+ "id": 847,
+ "name": "barraskewda",
+ "names": {
+  "ja-hrkt": "カマスジョー",
+  "ja-roma": "Kamasujaw",
+  "ko": "꼬치조",
+  "zh-hant": "戽斗尖梭",
+  "fr": "Hastacuda",
+  "de": "Barrakiefa",
+  "es": "Barraskewda",
+  "it": "Barraskewda",
+  "en": "Barraskewda",
+  "ja": "カマスジョー",
+  "zh-hans": "戽斗尖梭",
+  "es-419": "Barraskewda"
+ },
+ "genus": {
+  "ja-hrkt": "くしざしポケモン",
+  "ko": "꼬치포켓몬",
+  "zh-hant": "穿刺寶可夢",
+  "fr": "Pokémon Transperceur",
+  "de": "Spieß-Pokémon",
+  "es": "Pokémon Ensarta",
+  "it": "Pokémon Spiedo",
+  "en": "Skewer Pokémon",
+  "ja": "くしざしポケモン",
+  "zh-hans": "穿刺宝可梦",
+  "es-419": "Pokémon Ensarta"
+ },
+ "flavor": {
+  "ko": "꼬리지느러미를 회전시켜 단번에 돌격한다. 100노트를 넘는 속도로 먹이를 관통한다.",
+  "en": "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them."
+ },
+ "varieties": [
+  {
+   "name": "barraskewda",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "445"
+}

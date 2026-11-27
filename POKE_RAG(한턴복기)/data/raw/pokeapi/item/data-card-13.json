@@ -1,0 +1,28 @@
+{
+ "name": "data-card-13",
+ "names": {
+  "ja-hrkt": "データカード１３",
+  "ko": "데이터카드13",
+  "zh-hant": "資料卡１３",
+  "fr": "Carte Mémo13",
+  "de": "Datenkarte13",
+  "es": "Tarjeta Datos 13",
+  "it": "Scheda Dati 13",
+  "en": "Data Card 13",
+  "ja": "データカード１３",
+  "zh-hans": "数据卡１３",
+  "es-419": "Tarjeta Datos 13"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que les Pokémon du dresseur se sont vaincus tout seuls au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have defeated themselves in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon impeded themselves.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬이 자멸한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの 自滅した 回数が 記録された カード。"
+ }
+}

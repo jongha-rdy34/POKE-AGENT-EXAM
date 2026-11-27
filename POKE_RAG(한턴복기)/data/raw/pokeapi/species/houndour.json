@@ -1,0 +1,42 @@
+{
+ "id": 228,
+ "name": "houndour",
+ "names": {
+  "ja-hrkt": "デルビル",
+  "ja-roma": "Delvil",
+  "ko": "델빌",
+  "zh-hant": "戴魯比",
+  "fr": "Malosse",
+  "de": "Hunduster",
+  "es": "Houndour",
+  "it": "Houndour",
+  "en": "Houndour",
+  "ja": "デルビル",
+  "zh-hans": "戴鲁比",
+  "es-419": "Houndour"
+ },
+ "genus": {
+  "ja-hrkt": "ダークポケモン",
+  "ko": "다크포켓몬",
+  "zh-hant": "陰暗寶可夢",
+  "fr": "Pokémon Sombre",
+  "de": "Hades",
+  "es": "Pokémon Siniestro",
+  "it": "Pokémon Buio",
+  "en": "Dark Pokémon",
+  "ja": "ダークポケモン",
+  "zh-hans": "阴暗宝可梦",
+  "es-419": "Pokémon Siniestro"
+ },
+ "flavor": {
+  "en": "They make repeated eerie howls before dawn to call attention to their pack.",
+  "ko": "동이 트기 전에 기분 나쁜 울음을 반복하여 자신들 무리의 존재를 어필한다."
+ },
+ "varieties": [
+  {
+   "name": "houndour",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "118"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "axe-kick",
+ "names": {
+  "ja-hrkt": "かかとおとし",
+  "ko": "발꿈치찍기",
+  "zh-hant": "下壓踢",
+  "fr": "Talon-Marteau",
+  "de": "Fersenkick",
+  "es": "Patada Hacha",
+  "it": "Calcio ad Ascia",
+  "en": "Axe Kick",
+  "ja": "かかとおとし",
+  "zh-hans": "下压踢",
+  "es-419": "Patada Hacha"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead."
+ }
+}

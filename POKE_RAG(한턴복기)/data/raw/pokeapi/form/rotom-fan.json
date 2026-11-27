@@ -1,0 +1,23 @@
+{
+ "name": "rotom-fan",
+ "form_name": "fan",
+ "names": {
+  "fr": "Motisma Hélice",
+  "de": "Wirbel-Rotom",
+  "en": "Fan Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "スピンロトム",
+  "ko": "스핀로토무",
+  "zh-hant": "旋轉洛托姆",
+  "fr": "Motisma Hélice",
+  "de": "Wirbel-Rotom",
+  "es": "Rotom Ventilador",
+  "it": "Rotom Vortice",
+  "en": "Fan Rotom",
+  "ja": "スピンロトム",
+  "zh-hans": "旋转洛托姆",
+  "es-419": "Rotom Ventilador"
+ },
+ "is_mega": false
+}

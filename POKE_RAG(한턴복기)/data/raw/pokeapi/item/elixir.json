@@ -1,0 +1,34 @@
+{
+ "name": "elixir",
+ "names": {
+  "ja-hrkt": "ピーピーエイダー",
+  "ko": "PP에이더",
+  "zh-hant": "ＰＰ多項小補劑",
+  "fr": "Élixir",
+  "de": "Elixier",
+  "es": "Elixir",
+  "it": "Elisir",
+  "en": "Elixir",
+  "ja": "ピーピーエイダー",
+  "zh-hans": "ＰＰ多项小补剂",
+  "es-419": "Elixir"
+ },
+ "category": "pp-recovery",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 10 PP pour toutes les capacités.",
+  "en": "Restores 10 PP for each move."
+ },
+ "flavor": {
+  "en": "This medicine can be used to restore 10 PP to each of the moves that have been learned by a Pokémon.",
+  "ko": "포켓몬이 기억하고 있는 4개 기술의 PP를 10씩 회복한다.",
+  "ja": "ポケモンが 覚えている ４つの 技の ＰＰを １０ずつ 回復する。"
+ }
+}

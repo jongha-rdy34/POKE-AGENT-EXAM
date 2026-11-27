@@ -1,0 +1,84 @@
+{
+ "id": 952,
+ "name": "scovillain",
+ "species": "scovillain",
+ "is_default": true,
+ "types": [
+  "grass",
+  "fire"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 108,
+  "defense": 65,
+  "special-attack": 108,
+  "special-defense": 65,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "chlorophyll",
+   "hidden": false
+  },
+  {
+   "name": "insomnia",
+   "hidden": false
+  },
+  {
+   "name": "moody",
+   "hidden": true
+  }
+ ],
+ "height": 9,
+ "weight": 150,
+ "champions_moves": [
+  "bite",
+  "bullet-seed",
+  "burning-jealousy",
+  "crunch",
+  "double-hit",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fire-blast",
+  "fire-fang",
+  "fire-spin",
+  "flamethrower",
+  "flare-blitz",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "growth",
+  "helping-hand",
+  "hyper-beam",
+  "ingrain",
+  "lash-out",
+  "leaf-storm",
+  "leech-seed",
+  "overheat",
+  "protect",
+  "rage-powder",
+  "rest",
+  "sandstorm",
+  "scary-face",
+  "seed-bomb",
+  "sleep-talk",
+  "solar-beam",
+  "spicy-extract",
+  "stomping-tantrum",
+  "substitute",
+  "sunny-day",
+  "super-fang",
+  "swagger",
+  "temper-flare",
+  "thief",
+  "thunder-fang",
+  "trailblaze",
+  "will-o-wisp",
+  "worry-seed",
+  "zen-headbutt"
+ ]
+}

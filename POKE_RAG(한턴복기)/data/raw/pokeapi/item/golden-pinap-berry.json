@@ -1,0 +1,25 @@
+{
+ "name": "golden-pinap-berry",
+ "names": {
+  "ja-hrkt": "きんのパイルのみ",
+  "ko": "황금 파인열매",
+  "zh-hant": "金色凰梨果",
+  "fr": "Baie Nanana dorée",
+  "de": "Goldene Sananabeere",
+  "es": "Baya Pinia Dorada",
+  "it": "Baccananas dorata",
+  "en": "Golden Pinap Berry",
+  "ja": "きんのパイルのみ",
+  "zh-hans": "金色凰梨果",
+  "es-419": "Baya Pinia Dorada"
+ },
+ "category": "catching-bonus",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 주면 잡았을 때 도구를 손에 넣기 상당히 쉬워지는 나무열매.",
+  "en": "A Berry that makes you drastically more likely to get an item when given to Pokémon you’re trying to catch.",
+  "ja": "ポケモンに あたえると 捕まえた ときに 道具が かなり 手にはいり やすくなる きのみ。"
+ }
+}

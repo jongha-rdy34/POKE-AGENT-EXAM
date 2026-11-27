@@ -1,0 +1,28 @@
+{
+ "name": "red-nectar",
+ "names": {
+  "ja-hrkt": "くれないのミツ",
+  "ko": "다홍꿀",
+  "zh-hant": "朱紅色花蜜",
+  "fr": "Nectar Rouge",
+  "de": "Roter Nektar",
+  "es": "Néctar Rojo",
+  "it": "Nettare rosso",
+  "en": "Red Nectar",
+  "ja": "くれないのミツ",
+  "zh-hans": "朱红色花蜜",
+  "es-419": "Néctar Rojo"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Change Plumeline en Style Flamenco.",
+  "en": "Changes Oricorio to Baile Style."
+ },
+ "flavor": {
+  "ko": "울라울라 화원에서 손에 넣은 꽃의 꿀. 특정 포켓몬의 모습을 바꾼다.",
+  "en": "A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.",
+  "ja": "ウラウラの花園で 手に入れた 花のミツ。 特定の ポケモンの 姿を 変える。"
+ }
+}

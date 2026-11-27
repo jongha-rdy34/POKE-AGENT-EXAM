@@ -1,0 +1,42 @@
+{
+ "id": 44,
+ "name": "gloom",
+ "names": {
+  "ja-hrkt": "クサイハナ",
+  "ja-roma": "Kusaihana",
+  "ko": "냄새꼬",
+  "zh-hant": "臭臭花",
+  "fr": "Ortide",
+  "de": "Duflor",
+  "es": "Gloom",
+  "it": "Gloom",
+  "en": "Gloom",
+  "ja": "クサイハナ",
+  "zh-hans": "臭臭花",
+  "es-419": "Gloom"
+ },
+ "genus": {
+  "ja-hrkt": "ざっそうポケモン",
+  "ko": "잡초포켓몬",
+  "zh-hant": "雜草寶可夢",
+  "fr": "Pokémon Racine",
+  "de": "Unkraut-Pokémon",
+  "es": "Pokémon Hierbajo",
+  "it": "Pokémon Malerba",
+  "en": "Weed Pokémon",
+  "ja": "ざっそうポケモン",
+  "zh-hans": "杂草宝可梦",
+  "es-419": "Pokémon Hierbajo"
+ },
+ "flavor": {
+  "en": "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched.",
+  "ko": "침처럼 보이는 달콤한 꿀은 매우 끈적거려서 묻으면 좀처럼 떨어지지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "gloom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "18"
+}

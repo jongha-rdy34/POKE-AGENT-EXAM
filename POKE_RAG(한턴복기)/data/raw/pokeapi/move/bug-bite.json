@@ -1,0 +1,31 @@
+{
+ "name": "bug-bite",
+ "names": {
+  "ja-hrkt": "むしくい",
+  "ko": "벌레먹기",
+  "zh-hant": "蟲咬",
+  "fr": "Piqûre",
+  "de": "Käferbiss",
+  "es": "Picadura",
+  "it": "Coleomorso",
+  "en": "Bug Bite",
+  "ja": "むしくい",
+  "zh-hans": "虫咬",
+  "es-419": "Picadura"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If target has a berry, inflicts double damage and uses the berry."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by biting the target. If the target is holding a Berry, the user eats it and gains its effect.",
+  "ko": "물어서 공격한다. 상대가 나무열매를 지니고 있을 때 먹어서 나무열매의 효과를 받을 수 있다."
+ }
+}

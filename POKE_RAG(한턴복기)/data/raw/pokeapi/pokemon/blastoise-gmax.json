@@ -1,0 +1,30 @@
+{
+ "id": 10197,
+ "name": "blastoise-gmax",
+ "species": "blastoise",
+ "is_default": false,
+ "types": [
+  "water"
+ ],
+ "stats": {
+  "hp": 79,
+  "attack": 83,
+  "defense": 100,
+  "special-attack": 85,
+  "special-defense": 105,
+  "speed": 78
+ },
+ "abilities": [
+  {
+   "name": "torrent",
+   "hidden": false
+  },
+  {
+   "name": "rain-dish",
+   "hidden": true
+  }
+ ],
+ "height": 250,
+ "weight": 10000,
+ "champions_moves": []
+}

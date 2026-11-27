@@ -1,0 +1,28 @@
+{
+ "name": "shelter",
+ "names": {
+  "ja-hrkt": "たてこもる",
+  "ko": "농성",
+  "zh-hant": "閉關",
+  "fr": "Mur Fumigène",
+  "de": "Refugium",
+  "es": "Retracción",
+  "it": "Barricata",
+  "en": "Shelter",
+  "ja": "たてこもる",
+  "zh-hans": "闭关",
+  "es-419": "Retracción"
+ },
+ "type": "steel",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "card-key--letsgo",
+ "names": {
+  "ja-hrkt": "カードキー",
+  "ko": "카드키",
+  "zh-hant": "鑰匙卡",
+  "fr": "Carte Magnétique",
+  "de": "Schlüsselkarte",
+  "es": "Llave Magnética",
+  "it": "Apriporta",
+  "en": "Card Key",
+  "ja": "カードキー",
+  "zh-hans": "钥匙卡",
+  "es-419": "Llave Magnética"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "노랑시티의 실프주식회사 본사 빌딩의 도어록을 해제하는 카드 타입의 열쇠.",
+  "en": "A card key that unlocks doors in Silph Co.’s head office in Saffron City.",
+  "ja": "ヤマブキの シルフカンパニー 本社 ビルの ドアロックを はずす カードタイプの カギ。"
+ }
+}

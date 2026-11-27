@@ -1,0 +1,15 @@
+{
+ "name": "dragalge-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Kravarech",
+  "en": "Mega Dragalge"
+ },
+ "form_names": {
+  "ja-hrkt": "メガドラミドロ",
+  "fr": "Méga-Kravarech",
+  "en": "Mega Dragalge",
+  "ja": "メガドラミドロ"
+ },
+ "is_mega": true
+}

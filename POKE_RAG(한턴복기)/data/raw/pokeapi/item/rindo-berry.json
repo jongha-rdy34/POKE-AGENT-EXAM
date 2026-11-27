@@ -1,0 +1,30 @@
+{
+ "name": "rindo-berry",
+ "names": {
+  "ja-hrkt": "リンドのみ",
+  "ko": "린드열매",
+  "zh-hant": "羅子果",
+  "fr": "Baie Ratam",
+  "de": "Grindobeere",
+  "es": "Baya Tamar",
+  "it": "Baccarindo",
+  "en": "Rindo Berry",
+  "ja": "リンドのみ",
+  "zh-hans": "罗子果",
+  "es-419": "Baya Tamar"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu:  Consommé quand touché par une attaque Plante super efficace pour diviser par deux les dégâts subis.",
+  "en": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage."
+ },
+ "flavor": {
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Grass-type attack.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 풀 기술을 당했을 때 위력이 약해진다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの くさ技を 受けたとき 威力が 弱まる。"
+ }
+}

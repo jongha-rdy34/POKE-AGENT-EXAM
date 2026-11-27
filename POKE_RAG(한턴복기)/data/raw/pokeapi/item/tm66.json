@@ -1,0 +1,28 @@
+{
+ "name": "tm66",
+ "names": {
+  "ja-hrkt": "わざマシン６６",
+  "ko": "기술머신66",
+  "zh-hant": "招式學習器６６",
+  "fr": "CT66",
+  "de": "TM66",
+  "es": "MT66",
+  "it": "MT66",
+  "en": "TM66",
+  "ja": "わざマシン６６",
+  "zh-hans": "招式学习器６６",
+  "es-419": "MT66"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Représailles à un Pokémon compatible.",
+  "en": "Teaches Payback to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.",
+  "ko": "전기를 모은 이빨로 문다. 상대를 풀죽게 하거나 마비 상태로 만들 때가 있다.",
+  "ja": "電気を ためた キバで かみつく。 相手を ひるませたり まひ状態に することが ある。"
+ }
+}

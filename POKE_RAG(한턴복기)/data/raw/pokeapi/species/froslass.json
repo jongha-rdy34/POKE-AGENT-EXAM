@@ -1,0 +1,46 @@
+{
+ "id": 478,
+ "name": "froslass",
+ "names": {
+  "ja-hrkt": "ユキメノコ",
+  "ja-roma": "Yukimenoko",
+  "ko": "눈여아",
+  "zh-hant": "雪妖女",
+  "fr": "Momartik",
+  "de": "Frosdedje",
+  "es": "Froslass",
+  "it": "Froslass",
+  "en": "Froslass",
+  "ja": "ユキメノコ",
+  "zh-hans": "雪妖女",
+  "es-419": "Froslass"
+ },
+ "genus": {
+  "ja-hrkt": "ゆきぐにポケモン",
+  "ko": "설국포켓몬",
+  "zh-hant": "雪國寶可夢",
+  "fr": "Pokémon Enneigement",
+  "de": "Schneegebiets-Pokémon",
+  "es": "Pokémon Tierra Fría",
+  "it": "Pokémon Suolnevoso",
+  "en": "Snow Land Pokémon",
+  "ja": "ゆきぐにポケモン",
+  "zh-hans": "雪国宝可梦",
+  "es-419": "Pokémon Tierra Fría"
+ },
+ "flavor": {
+  "en": "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine.",
+  "ko": "마이너스 50도의 냉기를 뿜어 먹이를 얼린 뒤 거처로 가져가서 가지런히 나열한다."
+ },
+ "varieties": [
+  {
+   "name": "froslass",
+   "is_default": true
+  },
+  {
+   "name": "froslass-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "186"
+}

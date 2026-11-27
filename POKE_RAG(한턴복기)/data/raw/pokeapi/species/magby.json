@@ -1,0 +1,42 @@
+{
+ "id": 240,
+ "name": "magby",
+ "names": {
+  "ja-hrkt": "ブビィ",
+  "ja-roma": "Buby",
+  "ko": "마그비",
+  "zh-hant": "鴨嘴寶寶",
+  "fr": "Magby",
+  "de": "Magby",
+  "es": "Magby",
+  "it": "Magby",
+  "en": "Magby",
+  "ja": "ブビィ",
+  "zh-hans": "鸭嘴宝宝",
+  "es-419": "Magby"
+ },
+ "genus": {
+  "ja-hrkt": "ひだねポケモン",
+  "ko": "불씨포켓몬",
+  "zh-hant": "火種寶可夢",
+  "fr": "Pokémon Charbon",
+  "de": "Glutherd-Pokémon",
+  "es": "Pokémon Ascuas",
+  "it": "Pokémon Carbonvivo",
+  "en": "Live Coal Pokémon",
+  "ja": "ひだねポケモン",
+  "zh-hans": "火种宝可梦",
+  "es-419": "Pokémon Ascuas"
+ },
+ "flavor": {
+  "en": "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint.",
+  "ko": "화산 주위에 살고 있다. 하루를 마칠 때에는 마그마에 잠겨 피로를 푼다."
+ },
+ "varieties": [
+  {
+   "name": "magby",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "61"
+}

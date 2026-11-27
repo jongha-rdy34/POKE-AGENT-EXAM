@@ -1,0 +1,42 @@
+{
+ "id": 216,
+ "name": "teddiursa",
+ "names": {
+  "ja-hrkt": "ヒメグマ",
+  "ja-roma": "Himeguma",
+  "ko": "깜지곰",
+  "zh-hant": "熊寶寶",
+  "fr": "Teddiursa",
+  "de": "Teddiursa",
+  "es": "Teddiursa",
+  "it": "Teddiursa",
+  "en": "Teddiursa",
+  "ja": "ヒメグマ",
+  "zh-hans": "熊宝宝",
+  "es-419": "Teddiursa"
+ },
+ "genus": {
+  "ja-hrkt": "こぐまポケモン",
+  "ko": "아기곰포켓몬",
+  "zh-hant": "小熊寶可夢",
+  "fr": "Pokémon Mini Ours",
+  "de": "Kleinbär",
+  "es": "Pokémon Osito",
+  "it": "Pokémon Orsetto",
+  "en": "Little Bear Pokémon",
+  "ja": "こぐまポケモン",
+  "zh-hans": "小熊宝可梦",
+  "es-419": "Pokémon Osito"
+ },
+ "flavor": {
+  "en": "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed.",
+  "ko": "꿀이 밴 손바닥을 핥고 있다. 깜지곰의 꿀은 과일과 독침붕이 모은 꽃가루가 혼합되어 만들어진다."
+ },
+ "varieties": [
+  {
+   "name": "teddiursa",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "110"
+}

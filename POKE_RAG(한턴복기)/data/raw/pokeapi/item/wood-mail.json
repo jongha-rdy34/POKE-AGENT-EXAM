@@ -1,0 +1,22 @@
+{
+ "name": "wood-mail",
+ "names": {
+  "ja-hrkt": "ウッディメール",
+  "fr": "Lettre Bois",
+  "de": "Waldbrief",
+  "es": "Carta Madera",
+  "it": "Mess. Bosco",
+  "en": "Wood Mail",
+  "es-419": "Carta Madera"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "A piece of MAIL featuring a cute SLAKOTH print. It is to be held by a POKéMON."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "mold-breaker",
+ "names": {
+  "ja-hrkt": "かたやぶり",
+  "ko": "틀깨기",
+  "zh-hant": "破格",
+  "fr": "Brise Moule",
+  "de": "Überbrückung",
+  "es": "Rompemoldes",
+  "it": "Rompiforma",
+  "en": "Mold Breaker",
+  "ja": "かたやぶり",
+  "zh-hans": "破格",
+  "es-419": "Rompemoldes"
+ },
+ "effect": {
+  "en": "Bypasses targets' abilities if they could hinder or prevent a move."
+ },
+ "flavor": {
+  "en": "The Pokémon's moves are unimpeded by the Ability of the target.",
+  "ko": "상대 특성에 방해받지 않고 상대에게 기술을 쓸 수 있다."
+ }
+}

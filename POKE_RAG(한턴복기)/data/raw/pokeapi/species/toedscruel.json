@@ -1,0 +1,37 @@
+{
+ "id": 949,
+ "name": "toedscruel",
+ "names": {
+  "ja-hrkt": "リククラゲ",
+  "ja-roma": "Rikukurage",
+  "ko": "육파리",
+  "zh-hant": "陸地水母",
+  "fr": "Terracruel",
+  "de": "Tenterra",
+  "es": "Toedscruel",
+  "it": "Toedscruel",
+  "en": "Toedscruel",
+  "ja": "リククラゲ",
+  "zh-hans": "陆地水母",
+  "es-419": "Toedscruel"
+ },
+ "genus": {
+  "ja-hrkt": "きくらげポケモン",
+  "ko": "목이버섯포켓몬",
+  "zh-hant": "木耳寶可夢",
+  "fr": "Champiméduse",
+  "de": "Quallenpilz",
+  "en": "Woodear Pokémon",
+  "zh-hans": "木耳宝可梦"
+ },
+ "flavor": {
+  "en": "It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy."
+ },
+ "varieties": [
+  {
+   "name": "toedscruel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "496"
+}

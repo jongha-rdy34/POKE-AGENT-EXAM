@@ -1,0 +1,31 @@
+{
+ "name": "spirit-shackle",
+ "names": {
+  "ja-hrkt": "かげぬい",
+  "ko": "그림자꿰매기",
+  "zh-hant": "縫影",
+  "fr": "Tisse Ombre",
+  "de": "Schattenfessel",
+  "es": "Puntada Sombría",
+  "it": "Cucitura d’Ombra",
+  "en": "Spirit Shackle",
+  "ja": "かげぬい",
+  "zh-hans": "缝影",
+  "es-419": "Puntada Sombría"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Traps the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "공격과 동시에 상대의 그림자를 꿰매 도망칠 수 없게 한다.",
+  "en": "The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing."
+ }
+}

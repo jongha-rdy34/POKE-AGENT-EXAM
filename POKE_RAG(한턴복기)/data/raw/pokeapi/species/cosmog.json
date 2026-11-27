@@ -1,0 +1,42 @@
+{
+ "id": 789,
+ "name": "cosmog",
+ "names": {
+  "ja-hrkt": "コスモッグ",
+  "ja-roma": "Cosmog",
+  "ko": "코스모그",
+  "zh-hant": "科斯莫古",
+  "fr": "Cosmog",
+  "de": "Cosmog",
+  "es": "Cosmog",
+  "it": "Cosmog",
+  "en": "Cosmog",
+  "ja": "コスモッグ",
+  "zh-hans": "科斯莫古",
+  "es-419": "Cosmog"
+ },
+ "genus": {
+  "ja-hrkt": "せいうんポケモン",
+  "ko": "성운포켓몬",
+  "zh-hant": "星雲寶可夢",
+  "fr": "Pokémon Nébuleuse",
+  "de": "Nebula-Pokémon",
+  "es": "Pokémon Nebulosa",
+  "it": "Pokémon Nebulosa",
+  "en": "Nebula Pokémon",
+  "ja": "せいうんポケモン",
+  "zh-hans": "星云宝可梦",
+  "es-419": "Pokémon Nebulosa"
+ },
+ "flavor": {
+  "ko": "경계심이 없고 호기심이 왕성해 위험한 상황에 맞닥뜨리는 경우가 많다. 위기에 처하면 워프해서 도망친다.",
+  "en": "Cosmog is very curious but not very cautious, often placing itself in danger. If things start to look dicey, it teleports away."
+ },
+ "varieties": [
+  {
+   "name": "cosmog",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "413"
+}

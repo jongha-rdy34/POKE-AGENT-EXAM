@@ -1,0 +1,31 @@
+{
+ "name": "sand-tomb",
+ "names": {
+  "ja-hrkt": "すなじごく",
+  "ko": "모래지옥",
+  "zh-hant": "流沙地獄",
+  "fr": "Tourbi-Sable",
+  "de": "Sandgrab",
+  "es": "Bucle Arena",
+  "it": "Sabbiotomba",
+  "en": "Sand Tomb",
+  "ja": "すなじごく",
+  "zh-hans": "流沙地狱",
+  "es-419": "Tumba de Arena"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 35,
+ "accuracy": 85,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user traps the target inside a harshly raging sandstorm that inflicts damage for four to five turns.",
+  "ko": "세차게 불어대는 모래바람 속에 4-5턴 동안 상대를 가두어 공격한다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "choice-scarf",
+ "names": {
+  "ja-hrkt": "こだわりスカーフ",
+  "ko": "구애스카프",
+  "zh-hant": "講究圍巾",
+  "fr": "Mouchoir Choix",
+  "de": "Wahlschal",
+  "es": "Pañuelo Elección",
+  "it": "Stolascelta",
+  "en": "Choice Scarf",
+  "ja": "こだわりスカーフ",
+  "zh-hans": "讲究围巾",
+  "es-419": "Pañuelo Elección"
+ },
+ "category": "choice",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente la Vitesse de 50%, mais restreint le porteur à une seule capacité.",
+  "en": "Held: Increases Speed by 50%, but restricts the holder to only one move."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This curious scarf boosts Speed but only allows the use of one move.",
+  "ko": "기술을 구애받는 스카프. 지니게 하면 스피드는 올라가지만 같은 기술밖에 쓸 수 없다.",
+  "ja": "ちょっと こだわった スカーフ。 持たせると 素早さは あがるが 同じ 技しか だせなくなる。"
+ }
+}

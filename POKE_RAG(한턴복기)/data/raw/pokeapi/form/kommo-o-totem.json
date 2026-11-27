@@ -1,0 +1,13 @@
+{
+ "name": "kommo-o-totem",
+ "form_name": "totem",
+ "names": {
+  "fr": "Ékaïser Dominant",
+  "de": "Totem Grandiras",
+  "en": "Totem Kommo-o"
+ },
+ "form_names": {
+  "de": "Totemform"
+ },
+ "is_mega": false
+}

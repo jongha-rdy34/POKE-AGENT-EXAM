@@ -1,0 +1,42 @@
+{
+ "id": 748,
+ "name": "toxapex",
+ "names": {
+  "ja-hrkt": "ドヒドイデ",
+  "ja-roma": "Dohidoide",
+  "ko": "더시마사리",
+  "zh-hant": "超壞星",
+  "fr": "Prédastérie",
+  "de": "Aggrostella",
+  "es": "Toxapex",
+  "it": "Toxapex",
+  "en": "Toxapex",
+  "ja": "ドヒドイデ",
+  "zh-hans": "超坏星",
+  "es-419": "Toxapex"
+ },
+ "genus": {
+  "ja-hrkt": "ヒトデナシポケモン",
+  "ko": "깨비사리포켓몬",
+  "zh-hant": "非星寶可夢",
+  "fr": "Pokémon Cruel",
+  "de": "Quäl-Stern-Pokémon",
+  "es": "Pokémon Estrellatroz",
+  "it": "Pokémon Stellatroce",
+  "en": "Brutal Star Pokémon",
+  "ja": "ヒトデナシポケモン",
+  "zh-hans": "非星宝可梦",
+  "es-419": "Pokémon Estrellatroz"
+ },
+ "flavor": {
+  "ko": "고래왕도 사흘 밤낮 괴로워할 정도의 맹독을 체내 독주머니에 듬뿍 비축하고 있다.",
+  "en": "Within the poison sac in its body is a poison so toxic that Pokémon as large as Wailord will still be suffering three days after it first takes effect."
+ },
+ "varieties": [
+  {
+   "name": "toxapex",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "385"
+}

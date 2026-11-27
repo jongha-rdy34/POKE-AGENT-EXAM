@@ -1,0 +1,22 @@
+{
+ "name": "rm-1-key",
+ "names": {
+  "ja-hrkt": "１ごうしつのカギ",
+  "fr": "Clé Salle 1",
+  "de": "K1-Schlüssel",
+  "es": "Ll. Cabina 1",
+  "it": "Chiave Cab.1",
+  "en": "Rm. 1 Key",
+  "es-419": "Ll. Cabina 1"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Dévérouille la salle 1 du Lavandia Sea.",
+  "en": "Unlocks room 1 on the Abandoned Ship."
+ },
+ "flavor": {
+  "en": "A key that opens the door to Room 1 inside the ABANDONED SHIP. It is old and looks easily broken."
+ }
+}

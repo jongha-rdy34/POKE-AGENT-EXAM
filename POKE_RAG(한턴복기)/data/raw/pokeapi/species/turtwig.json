@@ -1,0 +1,42 @@
+{
+ "id": 387,
+ "name": "turtwig",
+ "names": {
+  "ja-hrkt": "ナエトル",
+  "ja-roma": "Naetle",
+  "ko": "모부기",
+  "zh-hant": "草苗龜",
+  "fr": "Tortipouss",
+  "de": "Chelast",
+  "es": "Turtwig",
+  "it": "Turtwig",
+  "en": "Turtwig",
+  "ja": "ナエトル",
+  "zh-hans": "草苗龟",
+  "es-419": "Turtwig"
+ },
+ "genus": {
+  "ja-hrkt": "わかばポケモン",
+  "ko": "어린잎포켓몬",
+  "zh-hant": "嫩葉寶可夢",
+  "fr": "Pokémon Minifeuille",
+  "de": "Winziglaub",
+  "es": "Pokémon Hojita",
+  "it": "Pokémon Fogliolina",
+  "en": "Tiny Leaf Pokémon",
+  "ja": "わかばポケモン",
+  "zh-hans": "嫩叶宝可梦",
+  "es-419": "Pokémon Hojita"
+ },
+ "flavor": {
+  "en": "This Pokémon becomes more energetic the more sunlight there is. The part resembling a shell is similar to silt and is slightly damp and warm to the touch.",
+  "ko": "전신으로 광합성을 하여 산소를 만든다. 목이 마르면 머리의 잎사귀가 시들어 버린다."
+ },
+ "varieties": [
+  {
+   "name": "turtwig",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "203"
+}

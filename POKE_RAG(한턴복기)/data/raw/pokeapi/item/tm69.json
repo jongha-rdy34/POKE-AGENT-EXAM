@@ -1,0 +1,28 @@
+{
+ "name": "tm69",
+ "names": {
+  "ja-hrkt": "わざマシン６９",
+  "ko": "기술머신69",
+  "zh-hant": "招式學習器６９",
+  "fr": "CT69",
+  "de": "TM69",
+  "es": "MT69",
+  "it": "MT69",
+  "en": "TM69",
+  "ja": "わざマシン６９",
+  "zh-hans": "招式学习器６９",
+  "es-419": "MT69"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Poliroche à un Pokémon compatible.",
+  "en": "Teaches Rock Polish to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user tears at the target with blades formed by psychic power. Critical hits land more easily.",
+  "ko": "실체화시킨 마음의 칼날로 상대를 베어 가른다. 급소에 맞기 쉽다.",
+  "ja": "実体化させた 心の 刃で 相手を 切り裂く。 急所に 当たりやすい。"
+ }
+}

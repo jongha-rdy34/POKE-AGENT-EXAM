@@ -1,0 +1,20 @@
+{
+ "name": "tm169",
+ "names": {
+  "ja-hrkt": "わざマシン１６９",
+  "ko": "기술머신169",
+  "zh-hant": "招式學習器１６９",
+  "fr": "CT169",
+  "de": "TM169",
+  "es": "MT169",
+  "it": "MT169",
+  "en": "TM169",
+  "ja": "わざマシン１６９",
+  "zh-hans": "招式学习器１６９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

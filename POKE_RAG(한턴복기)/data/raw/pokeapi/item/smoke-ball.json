@@ -1,0 +1,31 @@
+{
+ "name": "smoke-ball",
+ "names": {
+  "ja-hrkt": "けむりだま",
+  "ko": "연막탄",
+  "zh-hant": "煙霧球",
+  "fr": "Boule Fumée",
+  "de": "Rauchball",
+  "es": "Bola de Humo",
+  "it": "Palla Fumo",
+  "en": "Smoke Ball",
+  "ja": "けむりだま",
+  "zh-hans": "烟雾球",
+  "es-419": "Bola de Humo"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Permet au Porteur de fuir de n'importe quel combat sauvage.",
+  "en": "Held: Allows the Holder to escape from any wild battle."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon encounter without fail.",
+  "ko": "지니게 한 포켓몬은 야생 포켓몬과의 배틀에서 반드시 도망칠 수 있다.",
+  "ja": "持たせた ポケモンは 野生の ポケモンとの 戦闘から 絶対に 逃げられる。"
+ }
+}

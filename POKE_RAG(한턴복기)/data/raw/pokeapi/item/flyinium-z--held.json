@@ -1,0 +1,28 @@
+{
+ "name": "flyinium-z--held",
+ "names": {
+  "ja-hrkt": "ヒコウＺ",
+  "ko": "비행Z",
+  "zh-hant": "飛行Ｚ",
+  "fr": "Aérozélite",
+  "de": "Aerium Z",
+  "es": "Aerostal Z",
+  "it": "Volantium Z",
+  "en": "Flyinium Z",
+  "ja": "ヒコウＺ",
+  "zh-hans": "飞行Ｚ",
+  "es-419": "Aerostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Vol.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 비행타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Flying-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 ひこうタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

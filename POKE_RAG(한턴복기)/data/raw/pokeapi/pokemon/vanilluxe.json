@@ -1,0 +1,76 @@
+{
+ "id": 584,
+ "name": "vanilluxe",
+ "species": "vanilluxe",
+ "is_default": true,
+ "types": [
+  "ice"
+ ],
+ "stats": {
+  "hp": 71,
+  "attack": 95,
+  "defense": 85,
+  "special-attack": 110,
+  "special-defense": 95,
+  "speed": 79
+ },
+ "abilities": [
+  {
+   "name": "ice-body",
+   "hidden": false
+  },
+  {
+   "name": "snow-warning",
+   "hidden": false
+  },
+  {
+   "name": "weak-armor",
+   "hidden": true
+  }
+ ],
+ "height": 13,
+ "weight": 575,
+ "champions_moves": [
+  "acid-armor",
+  "ally-switch",
+  "attract",
+  "aurora-veil",
+  "avalanche",
+  "beat-up",
+  "blizzard",
+  "chilling-water",
+  "endure",
+  "explosion",
+  "facade",
+  "flash-cannon",
+  "freeze-dry",
+  "frost-breath",
+  "giga-impact",
+  "hyper-beam",
+  "hyper-voice",
+  "ice-beam",
+  "ice-shard",
+  "ice-spinner",
+  "icicle-crash",
+  "icicle-spear",
+  "icy-wind",
+  "imprison",
+  "iron-defense",
+  "light-screen",
+  "magnet-rise",
+  "mirror-coat",
+  "protect",
+  "rain-dance",
+  "rest",
+  "round",
+  "self-destruct",
+  "sheer-cold",
+  "sleep-talk",
+  "snore",
+  "snowscape",
+  "substitute",
+  "taunt",
+  "uproar",
+  "weather-ball"
+ ]
+}

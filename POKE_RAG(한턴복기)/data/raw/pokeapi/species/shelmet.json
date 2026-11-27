@@ -1,0 +1,42 @@
+{
+ "id": 616,
+ "name": "shelmet",
+ "names": {
+  "ja-hrkt": "チョボマキ",
+  "ja-roma": "Chobomaki",
+  "ko": "쪼마리",
+  "zh-hant": "小嘴蝸",
+  "fr": "Escargaume",
+  "de": "Schnuthelm",
+  "es": "Shelmet",
+  "it": "Shelmet",
+  "en": "Shelmet",
+  "ja": "チョボマキ",
+  "zh-hans": "小嘴蜗",
+  "es-419": "Shelmet"
+ },
+ "genus": {
+  "ja-hrkt": "マイマイポケモン",
+  "ko": "달팽이포켓몬",
+  "zh-hant": "蝸牛寶可夢",
+  "fr": "Pokémon Escargot",
+  "de": "Schnecken-Pokémon",
+  "es": "Pokémon Caracol",
+  "it": "Pokémon Lumachina",
+  "en": "Snail Pokémon",
+  "ja": "マイマイポケモン",
+  "zh-hans": "蜗牛宝可梦",
+  "es-419": "Pokémon Caracol"
+ },
+ "flavor": {
+  "en": "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason.",
+  "ko": "전기 에너지에 반응하는 신비한 체질을 지녔다. 딱정곤과 함께 있으면 무슨 이유인지 진화한다."
+ },
+ "varieties": [
+  {
+   "name": "shelmet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "312"
+}

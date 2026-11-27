@@ -1,0 +1,20 @@
+{
+ "name": "orthworm-tarnish",
+ "names": {
+  "ja-hrkt": "ミミズズのさび",
+  "ko": "꿈트렁의녹",
+  "zh-hant": "拖拖蚓的鏽",
+  "fr": "Rouille de Ferdeter",
+  "de": "Schlurm-Patina",
+  "es": "Óxido de Orthworm",
+  "it": "Ruggine di Orthworm",
+  "en": "Orthworm Tarnish",
+  "ja": "ミミズズのさび",
+  "zh-hans": "拖拖蚓的锈"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

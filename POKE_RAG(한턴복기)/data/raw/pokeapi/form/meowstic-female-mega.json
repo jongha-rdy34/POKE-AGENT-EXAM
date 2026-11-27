@@ -1,0 +1,15 @@
+{
+ "name": "meowstic-female-mega",
+ "form_name": "mega-female",
+ "names": {
+  "fr": "Méga-Mistigrix",
+  "en": "Mega Meowstic"
+ },
+ "form_names": {
+  "ja-hrkt": "メガニャオニクス",
+  "fr": "Méga-Mistigrix",
+  "en": "Mega Meowstic",
+  "ja": "メガニャオニクス"
+ },
+ "is_mega": true
+}

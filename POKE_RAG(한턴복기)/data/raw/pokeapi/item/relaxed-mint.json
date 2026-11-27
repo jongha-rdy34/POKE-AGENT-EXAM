@@ -1,0 +1,25 @@
+{
+ "name": "relaxed-mint",
+ "names": {
+  "ja-hrkt": "のんきミント",
+  "ko": "무사태평민트",
+  "zh-hant": "悠閒薄荷",
+  "fr": "Aromate Relax",
+  "de": "Locker-Minze",
+  "es": "Menta Plácida",
+  "it": "Menta Placida",
+  "en": "Relaxed Mint",
+  "ja": "のんきミント",
+  "zh-hans": "悠闲薄荷",
+  "es-419": "Menta Plácida"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 방어가 오르기 쉬워지지만 스피드가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Defense will grow more easily, but its Speed will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 防御が 上がりやすく なるが 素早さは 上がりにくくなる ミント。"
+ }
+}

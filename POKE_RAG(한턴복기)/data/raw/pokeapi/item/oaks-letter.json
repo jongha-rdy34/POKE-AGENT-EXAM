@@ -1,0 +1,28 @@
+{
+ "name": "oaks-letter",
+ "names": {
+  "ja-hrkt": "オーキドのてがみ",
+  "ko": "오박사의편지",
+  "zh-hant": "大木的信",
+  "fr": "Lettre Chen",
+  "de": "Eichs Brief",
+  "es": "Carta Prof. Oak",
+  "it": "Lettera Oak",
+  "en": "Oak’s Letter",
+  "ja": "オーキドのてがみ",
+  "zh-hans": "大木的信",
+  "es-419": "Carta Prof. Oak"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder au Passage Marin, Paradis Fleuri, et Shaymin.",
+  "en": "Allows access to Seabreak path, Flower Paradise, and Shaymin."
+ },
+ "flavor": {
+  "en": "A letter from Professor Oak. Written in it is a request for you to go to Route 224.",
+  "ko": "오박사의 편지다. 안에는 224번도로로 와달라고 적혀 있다.",
+  "ja": "オーキド博士からの 手紙。 中には ２２４番道路に 来てほしいと 書かれている。"
+ }
+}

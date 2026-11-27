@@ -1,0 +1,25 @@
+{
+ "name": "moomoo-cheese",
+ "names": {
+  "ja-hrkt": "モーモーチーズ",
+  "ko": "튼튼치즈",
+  "zh-hant": "哞哞乳酪",
+  "fr": "Fromage Meumeu",
+  "de": "Kuhmuh-Käse",
+  "es": "Queso Mu-mu",
+  "it": "Formaggio Mumu",
+  "en": "Moomoo Cheese",
+  "ja": "モーモーチーズ",
+  "zh-hans": "哞哞乳酪",
+  "es-419": "Queso Mu-mu"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 녹아내린 치즈가 카레의 감칠맛을 더해준다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. Melted cheese can really give a curry some richness.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。溶けた チーズが カレーに コクを 与えてくれる。"
+ }
+}

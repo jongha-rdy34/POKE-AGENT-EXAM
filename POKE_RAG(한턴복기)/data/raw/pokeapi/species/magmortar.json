@@ -1,0 +1,42 @@
+{
+ "id": 467,
+ "name": "magmortar",
+ "names": {
+  "ja-hrkt": "ブーバーン",
+  "ja-roma": "Booburn",
+  "ko": "마그마번",
+  "zh-hant": "鴨嘴炎獸",
+  "fr": "Maganon",
+  "de": "Magbrant",
+  "es": "Magmortar",
+  "it": "Magmortar",
+  "en": "Magmortar",
+  "ja": "ブーバーン",
+  "zh-hans": "鸭嘴炎兽",
+  "es-419": "Magmortar"
+ },
+ "genus": {
+  "ja-hrkt": "ばくえんポケモン",
+  "ko": "폭염포켓몬",
+  "zh-hant": "爆炎寶可夢",
+  "fr": "Pokémon Explosion",
+  "de": "Detonations-Pokémon",
+  "es": "Pokémon Explosión",
+  "it": "Pokémon Esplosivo",
+  "en": "Blast Pokémon",
+  "ja": "ばくえんポケモン",
+  "zh-hans": "爆炎宝可梦",
+  "es-419": "Pokémon Explosión"
+ },
+ "flavor": {
+  "en": "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant.",
+  "ko": "화산의 화구에서 사는 동안 마그마 덩어리 모양의 기관을 가진 화산 같은 몸이 되었다."
+ },
+ "varieties": [
+  {
+   "name": "magmortar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "61"
+}

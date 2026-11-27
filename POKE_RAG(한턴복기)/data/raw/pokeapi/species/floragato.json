@@ -1,0 +1,36 @@
+{
+ "id": 907,
+ "name": "floragato",
+ "names": {
+  "ja-hrkt": "ニャローテ",
+  "ja-roma": "Nyarote",
+  "ko": "나로테",
+  "zh-hant": "蒂蕾喵",
+  "fr": "Matourgeon",
+  "de": "Feliospa",
+  "es": "Floragato",
+  "it": "Floragato",
+  "en": "Floragato",
+  "ja": "ニャローテ",
+  "zh-hans": "蒂蕾喵",
+  "es-419": "Floragato"
+ },
+ "genus": {
+  "ja-hrkt": "くさねこポケモン",
+  "ko": "풀고양이포켓몬",
+  "zh-hant": "草貓寶可夢",
+  "fr": "Chat Plante",
+  "en": "Grass Cat Pokémon",
+  "zh-hans": "草猫宝可梦"
+ },
+ "flavor": {
+  "en": "The hardness of Floragato’s fur depends on the Pokémon’s mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp."
+ },
+ "varieties": [
+  {
+   "name": "floragato",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "478"
+}

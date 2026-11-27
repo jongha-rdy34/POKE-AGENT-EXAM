@@ -1,0 +1,31 @@
+{
+ "name": "disable",
+ "names": {
+  "ja-hrkt": "かなしばり",
+  "ko": "사슬묶기",
+  "zh-hant": "定身法",
+  "fr": "Entrave",
+  "de": "Aussetzer",
+  "es": "Anulación",
+  "it": "Inibitore",
+  "en": "Disable",
+  "ja": "かなしばり",
+  "zh-hans": "定身法",
+  "es-419": "Anulación"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Disables the target’s last used move for 1-8 turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "For four turns, the target will be unable to use whichever move it last used.",
+  "ko": "상대의 움직임을 막아 바로 전에 쓴 기술을 4턴 동안 사용할 수 없게 만든다."
+ }
+}

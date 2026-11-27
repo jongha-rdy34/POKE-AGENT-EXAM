@@ -1,0 +1,28 @@
+{
+ "name": "relic-silver",
+ "names": {
+  "ja-hrkt": "こだいのぎんか",
+  "ko": "고대의은화",
+  "zh-hant": "古代銀幣",
+  "fr": "Vieil Écu",
+  "de": "Alter Taler",
+  "es": "Real Plata",
+  "it": "Ducatantico",
+  "en": "Relic Silver",
+  "ja": "こだいのぎんか",
+  "zh-hans": "古代银币",
+  "es-419": "Real Plata"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 5000 Pokédollars.",
+  "en": "Sell to Villa Owner 5000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A silver coin used by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 사용된 은화.",
+  "ja": "３０００年ほど 昔の 文明で 使われた 銀貨。"
+ }
+}

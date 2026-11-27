@@ -1,0 +1,20 @@
+{
+ "name": "ice-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースこおり",
+  "ko": "테라피스 얼음",
+  "zh-hant": "冰太晶碎塊",
+  "fr": "Téra-Éclat Glace",
+  "de": "Tera-Stück (Eis)",
+  "es": "Teralito Hielo",
+  "it": "Teralite Ghiaccio",
+  "en": "Ice Tera Shard",
+  "ja": "テラピースこおり",
+  "zh-hans": "冰太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

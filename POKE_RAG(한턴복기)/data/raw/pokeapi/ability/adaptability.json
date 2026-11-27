@@ -1,0 +1,23 @@
+{
+ "name": "adaptability",
+ "names": {
+  "ja-hrkt": "てきおうりょく",
+  "ko": "적응력",
+  "zh-hant": "適應力",
+  "fr": "Adaptabilité",
+  "de": "Anpassung",
+  "es": "Adaptable",
+  "it": "Adattabilità",
+  "en": "Adaptability",
+  "ja": "てきおうりょく",
+  "zh-hans": "适应力",
+  "es-419": "Adaptable"
+ },
+ "effect": {
+  "en": "Increases the same-type attack bonus from 1.5× to 2×."
+ },
+ "flavor": {
+  "en": "Powers up moves of the same type as the Pokémon.",
+  "ko": "자신과 같은 타입의 기술 위력이 올라간다."
+ }
+}

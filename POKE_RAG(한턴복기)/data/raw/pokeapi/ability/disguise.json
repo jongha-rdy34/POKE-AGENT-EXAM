@@ -1,0 +1,23 @@
+{
+ "name": "disguise",
+ "names": {
+  "ja-hrkt": "ばけのかわ",
+  "ko": "탈",
+  "zh-hant": "畫皮",
+  "fr": "Fantômasque",
+  "de": "Kostümspuk",
+  "es": "Disfraz",
+  "it": "Fantasmanto",
+  "en": "Disguise",
+  "ja": "ばけのかわ",
+  "zh-hans": "画皮",
+  "es-419": "Disfraz"
+ },
+ "effect": {
+  "en": "Prevents the first instance of battle damage."
+ },
+ "flavor": {
+  "ko": "몸을 덮는 탈로 1번 공격을 막을 수 있다.",
+  "en": "Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+ }
+}

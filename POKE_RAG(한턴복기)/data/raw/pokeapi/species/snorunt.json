@@ -1,0 +1,42 @@
+{
+ "id": 361,
+ "name": "snorunt",
+ "names": {
+  "ja-hrkt": "ユキワラシ",
+  "ja-roma": "Yukiwarashi",
+  "ko": "눈꼬마",
+  "zh-hant": "雪童子",
+  "fr": "Stalgamin",
+  "de": "Schneppke",
+  "es": "Snorunt",
+  "it": "Snorunt",
+  "en": "Snorunt",
+  "ja": "ユキワラシ",
+  "zh-hans": "雪童子",
+  "es-419": "Snorunt"
+ },
+ "genus": {
+  "ja-hrkt": "ゆきかさポケモン",
+  "ko": "눈우산포켓몬",
+  "zh-hant": "雪笠寶可夢",
+  "fr": "Pokémon Capuche",
+  "de": "Schneehut-Pokémon",
+  "es": "Pokémon Gorro Nieve",
+  "it": "Pokémon Cappelneve",
+  "en": "Snow Hat Pokémon",
+  "ja": "ゆきかさポケモン",
+  "zh-hans": "雪笠宝可梦",
+  "es-419": "Pokémon Gorro Nieve"
+ },
+ "flavor": {
+  "en": "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door.",
+  "ko": "추운 땅에서만 살 수 있다. 영하 100도의 환경에서도 건강하게 뛰어다닌다."
+ },
+ "varieties": [
+  {
+   "name": "snorunt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "186"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 582,
+ "name": "vanillite",
+ "names": {
+  "ja-hrkt": "バニプッチ",
+  "ja-roma": "Vanipeti",
+  "ko": "바닐프티",
+  "zh-hant": "迷你冰",
+  "fr": "Sorbébé",
+  "de": "Gelatini",
+  "es": "Vanillite",
+  "it": "Vanillite",
+  "en": "Vanillite",
+  "ja": "バニプッチ",
+  "zh-hans": "迷你冰",
+  "es-419": "Vanillite"
+ },
+ "genus": {
+  "ja-hrkt": "しんせつポケモン",
+  "ko": "신설포켓몬",
+  "zh-hant": "新雪寶可夢",
+  "fr": "Pokémon Poudreuse",
+  "de": "Neuschnee-Pokémon",
+  "es": "Pokémon Nieve Fresca",
+  "it": "Pokémon Nevefresca",
+  "en": "Fresh Snow Pokémon",
+  "ja": "しんせつポケモン",
+  "zh-hans": "新雪宝可梦",
+  "es-419": "Pokémon Nieve Fresca"
+ },
+ "flavor": {
+  "en": "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable.",
+  "ko": "고드름에서 태어났다고 전해진다. 마이너스 50도의 냉기를 뿜어 주변을 얼려 살기 좋게 만든다."
+ },
+ "varieties": [
+  {
+   "name": "vanillite",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "296"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "hm07",
+ "names": {
+  "ja-hrkt": "ひでんマシン０７",
+  "ko": "비전머신07",
+  "zh-hant": "秘傳學習器０７",
+  "fr": "CS07",
+  "de": "VM07",
+  "es": "MO07",
+  "it": "MN07",
+  "en": "HM07",
+  "ja": "ひでんマシン０７",
+  "zh-hans": "秘传学习器０７",
+  "es-419": "MO07"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend une capacité à un Pokémon compatible. (Gén IV & III & II: Cascade)",
+  "en": "Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall)"
+ },
+ "flavor": {
+  "en": "Diving on the first turn, the user floats up and attacks on the next turn.",
+  "ko": "1턴째에 잠수했다가 2턴째에 떠올라 공격한다.",
+  "ja": "１ターン目で 潜り ２ターン目に 浮きあがって 攻撃する。"
+ }
+}

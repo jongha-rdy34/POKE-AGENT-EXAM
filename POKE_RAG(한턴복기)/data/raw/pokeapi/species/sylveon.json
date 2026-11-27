@@ -1,0 +1,42 @@
+{
+ "id": 700,
+ "name": "sylveon",
+ "names": {
+  "ja-hrkt": "ニンフィア",
+  "ja-roma": "Nymphia",
+  "ko": "님피아",
+  "zh-hant": "仙子伊布",
+  "fr": "Nymphali",
+  "de": "Feelinara",
+  "es": "Sylveon",
+  "it": "Sylveon",
+  "en": "Sylveon",
+  "ja": "ニンフィア",
+  "zh-hans": "仙子伊布",
+  "es-419": "Sylveon"
+ },
+ "genus": {
+  "ja-hrkt": "むすびつきポケモン",
+  "ko": "연결포켓몬",
+  "zh-hant": "連結寶可夢",
+  "fr": "Pokémon Attachant",
+  "de": "Bindungs-Pokémon",
+  "es": "Pokémon Vínculo",
+  "it": "Pokémon Legame",
+  "en": "Intertwining Pokémon",
+  "ja": "むすびつきポケモン",
+  "zh-hans": "连结宝可梦",
+  "es-419": "Pokémon Vínculo"
+ },
+ "flavor": {
+  "ko": "무서운 드래곤포켓몬을 아름다운 님피아가 퇴치하는 동화가 가라르지방에 남아 있다.",
+  "en": "It emits a soothing aura from its ribbon-shaped organs. It wraps these appendages around quarrelers to instantly restore calm to the situation."
+ },
+ "varieties": [
+  {
+   "name": "sylveon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "ekans-fang",
+ "names": {
+  "ja-hrkt": "アーボのきば",
+  "ko": "아보의이빨",
+  "zh-hant": "阿柏蛇的牙",
+  "fr": "Croc d'Abo",
+  "de": "Rettan-Zahn",
+  "es": "Colmillo de Ekans",
+  "it": "Zanna di Ekans",
+  "en": "Ekans Fang",
+  "ja": "アーボのきば",
+  "zh-hans": "阿柏蛇的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

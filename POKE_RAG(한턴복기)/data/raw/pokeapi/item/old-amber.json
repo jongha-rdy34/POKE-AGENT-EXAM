@@ -1,0 +1,30 @@
+{
+ "name": "old-amber",
+ "names": {
+  "ja-hrkt": "ひみつのコハク",
+  "ko": "비밀의호박",
+  "zh-hant": "秘密琥珀",
+  "fr": "Vieil Ambre",
+  "de": "Altbernstein",
+  "es": "Ámbar Viejo",
+  "it": "Ambra antica",
+  "en": "Old Amber",
+  "ja": "ひみつのコハク",
+  "zh-hans": "秘密琥珀",
+  "es-419": "Ámbar Viejo"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Ptéra.",
+  "en": "Can be revived into an Aerodactyl."
+ },
+ "flavor": {
+  "en": "A piece of amber that still contains the genetic material of an ancient Pokémon. It’s clear with a tawny, reddish tint.",
+  "ko": "고대 포켓몬의 유전자가 갇혀 있는 호박. 붉은 기가 돌면서 약간 투명하다.",
+  "ja": "古代ポケモンの 遺伝子が 閉じこめられている コハク。 赤みを 帯びて 透けている。"
+ }
+}

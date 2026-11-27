@@ -1,0 +1,42 @@
+{
+ "id": 132,
+ "name": "ditto",
+ "names": {
+  "ja-hrkt": "メタモン",
+  "ja-roma": "Metamon",
+  "ko": "메타몽",
+  "zh-hant": "百變怪",
+  "fr": "Métamorph",
+  "de": "Ditto",
+  "es": "Ditto",
+  "it": "Ditto",
+  "en": "Ditto",
+  "ja": "メタモン",
+  "zh-hans": "百变怪",
+  "es-419": "Ditto"
+ },
+ "genus": {
+  "ja-hrkt": "へんしんポケモン",
+  "ko": "변신포켓몬",
+  "zh-hant": "變身寶可夢",
+  "fr": "Pokémon Morphing",
+  "de": "Transform-Pokémon",
+  "es": "Pokémon Transformación",
+  "it": "Pokémon Mutante",
+  "en": "Transform Pokémon",
+  "ja": "へんしんポケモン",
+  "zh-hans": "变身宝可梦",
+  "es-419": "Pokémon Transformación"
+ },
+ "flavor": {
+  "en": "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly.",
+  "ko": "메타몽끼리 만나게 되면 상대와 똑같은 모습이 되기 위해 평소보다 격렬하게 움직인다."
+ },
+ "varieties": [
+  {
+   "name": "ditto",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "66"
+}

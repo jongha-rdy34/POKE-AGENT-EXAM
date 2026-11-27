@@ -1,0 +1,28 @@
+{
+ "name": "tm100",
+ "names": {
+  "ja-hrkt": "わざマシン１００",
+  "ko": "기술머신100",
+  "zh-hant": "招式學習器１００",
+  "fr": "CT100",
+  "de": "TM100",
+  "es": "MT100",
+  "it": "MT100",
+  "en": "TM100",
+  "ja": "わざマシン１００",
+  "zh-hans": "招式学习器１００",
+  "es-419": "MT100"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend la CT100 à un Pokémon.",
+  "en": "Teaches a Pokémon TM100."
+ },
+ "flavor": {
+  "ko": "비밀 이야기를 해서 상대의 집중력을 잃게 하여 특수공격을 떨어뜨린다.",
+  "en": "The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",
+  "ja": "ないしょばなしを することで 相手の 集中力を 失わせ 相手の 特攻を さげる。"
+ }
+}

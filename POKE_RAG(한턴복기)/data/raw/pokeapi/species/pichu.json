@@ -1,0 +1,42 @@
+{
+ "id": 172,
+ "name": "pichu",
+ "names": {
+  "ja-hrkt": "ピチュー",
+  "ja-roma": "Pichu",
+  "ko": "피츄",
+  "zh-hant": "皮丘",
+  "fr": "Pichu",
+  "de": "Pichu",
+  "es": "Pichu",
+  "it": "Pichu",
+  "en": "Pichu",
+  "ja": "ピチュー",
+  "zh-hans": "皮丘",
+  "es-419": "Pichu"
+ },
+ "genus": {
+  "ja-hrkt": "こねずみポケモン",
+  "ko": "아기쥐포켓몬",
+  "zh-hant": "小鼠寶可夢",
+  "fr": "Pokémon Minisouris",
+  "de": "Babymaus-Pokémon",
+  "es": "Pokémon Ratoncito",
+  "it": "Pokémon Topino",
+  "en": "Tiny Mouse Pokémon",
+  "ja": "こねずみポケモン",
+  "zh-hans": "小鼠宝可梦",
+  "es-419": "Pokémon Ratoncito"
+ },
+ "flavor": {
+  "en": "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept.",
+  "ko": "볼의 전기 주머니가 작아서 조금이라도 전기가 넘치게 되면 자기 자신이 감전되어 버린다."
+ },
+ "varieties": [
+  {
+   "name": "pichu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "10"
+}

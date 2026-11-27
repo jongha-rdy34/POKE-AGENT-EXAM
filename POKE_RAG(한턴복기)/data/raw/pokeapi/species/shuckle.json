@@ -1,0 +1,42 @@
+{
+ "id": 213,
+ "name": "shuckle",
+ "names": {
+  "ja-hrkt": "ツボツボ",
+  "ja-roma": "Tsubotsubo",
+  "ko": "단단지",
+  "zh-hant": "壺壺",
+  "fr": "Caratroc",
+  "de": "Pottrott",
+  "es": "Shuckle",
+  "it": "Shuckle",
+  "en": "Shuckle",
+  "ja": "ツボツボ",
+  "zh-hans": "壶壶",
+  "es-419": "Shuckle"
+ },
+ "genus": {
+  "ja-hrkt": "はっこうポケモン",
+  "ko": "발효포켓몬",
+  "zh-hant": "發酵寶可夢",
+  "fr": "Pokémon Pourri",
+  "de": "Schimmel-Pokémon",
+  "es": "Pokémon Moho",
+  "it": "Pokémon Muffa",
+  "en": "Mold Pokémon",
+  "ja": "はっこうポケモン",
+  "zh-hans": "发酵宝可梦",
+  "es-419": "Pokémon Moho"
+ },
+ "flavor": {
+  "en": "The berries stored in its vaselike shell eventually become a thick, pulpy juice.",
+  "ko": "항아리 같은 등껍질 속에 모은 나무열매는 어느샌가 걸쭉한 주스로 변한다."
+ },
+ "varieties": [
+  {
+   "name": "shuckle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "107"
+}

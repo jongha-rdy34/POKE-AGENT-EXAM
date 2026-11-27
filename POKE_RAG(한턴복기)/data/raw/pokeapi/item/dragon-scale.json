@@ -1,0 +1,28 @@
+{
+ "name": "dragon-scale",
+ "names": {
+  "ja-hrkt": "りゅうのウロコ",
+  "ko": "용의비늘",
+  "zh-hant": "龍之鱗片",
+  "fr": "Écaille Draco",
+  "de": "Drachenschuppe",
+  "es": "Escama Dragón",
+  "it": "Squama Drago",
+  "en": "Dragon Scale",
+  "ja": "りゅうのウロコ",
+  "zh-hans": "龙之鳞片",
+  "es-419": "Escama Dragón"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur Hypocéan: Le porteur évolue en Hyporoi.",
+  "en": "Traded on a Seadra: Holder evolves into Kingdra."
+ },
+ "flavor": {
+  "en": "A very tough and inflexible scale. Dragon-type Pokémon may be holding this item when caught.",
+  "ko": "단단하고 튼튼한 비늘. 드래곤타입의 포켓몬이 지니고 있는 경우가 있다.",
+  "ja": "硬くて 丈夫な ウロコ。 ドラゴンタイプの ポケモンが 持っていることが ある。"
+ }
+}

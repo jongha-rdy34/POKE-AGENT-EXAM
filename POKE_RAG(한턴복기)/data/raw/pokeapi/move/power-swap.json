@@ -1,0 +1,31 @@
+{
+ "name": "power-swap",
+ "names": {
+  "ja-hrkt": "パワースワップ",
+  "ko": "파워스왑",
+  "zh-hant": "力量互換",
+  "fr": "Permuforce",
+  "de": "Krafttausch",
+  "es": "Cambiafuerza",
+  "it": "Barattoforza",
+  "en": "Power Swap",
+  "ja": "パワースワップ",
+  "zh-hans": "力量互换",
+  "es-419": "Cambiafuerza"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User swaps Attack and Special Attack changes with the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.",
+  "ko": "초능력으로 자신과 상대의 공격과 특수공격의 능력 변화를 교체한다."
+ }
+}

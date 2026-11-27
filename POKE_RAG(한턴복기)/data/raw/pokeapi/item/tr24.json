@@ -1,0 +1,25 @@
+{
+ "name": "tr24",
+ "names": {
+  "ja-hrkt": "わざレコード２４",
+  "ko": "기술레코드24",
+  "zh-hant": "招式紀錄２４",
+  "fr": "DT24",
+  "de": "TP24",
+  "es": "DT24",
+  "it": "DT24",
+  "en": "TR24",
+  "ja": "わざレコード２４",
+  "zh-hans": "招式记录２４",
+  "es-419": "DT24"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "2-3턴 동안 마구 난동 부려서 공격한다. 난동 부린 뒤에는 혼란에 빠진다.",
+  "en": "The user rampages and attacks for two to three turns. The user then becomes confused.",
+  "ja": "２ー３ターンの 間 暴れまくって 攻撃する。 暴れたあとは 混乱する。"
+ }
+}

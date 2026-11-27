@@ -1,0 +1,31 @@
+{
+ "name": "trick-room",
+ "names": {
+  "ja-hrkt": "トリックルーム",
+  "ko": "트릭룸",
+  "zh-hant": "戲法空間",
+  "fr": "Distorsion",
+  "de": "Bizarroraum",
+  "es": "Espacio Raro",
+  "it": "Distortozona",
+  "en": "Trick Room",
+  "ja": "トリックルーム",
+  "zh-hans": "戏法空间",
+  "es-419": "Espacio Raro"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": -7,
+ "target": "entire-field",
+ "effect": {
+  "en": "For five turns, slower Pokémon will act before faster Pokémon."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
+  "ko": "이상한 공간을 만든다. 5턴 동안 느린 포켓몬부터 행동할 수 있다."
+ }
+}

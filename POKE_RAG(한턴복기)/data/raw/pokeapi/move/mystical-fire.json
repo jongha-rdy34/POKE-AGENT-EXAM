@@ -1,0 +1,31 @@
+{
+ "name": "mystical-fire",
+ "names": {
+  "ja-hrkt": "マジカルフレイム",
+  "ko": "매지컬플레임",
+  "zh-hant": "魔法火焰",
+  "fr": "Feu Ensorcelé",
+  "de": "Magieflamme",
+  "es": "Llama Embrujada",
+  "it": "Magifiamma",
+  "en": "Mystical Fire",
+  "ja": "マジカルフレイム",
+  "zh-hans": "魔法火焰",
+  "es-419": "Fuego Místico"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "입에서 내뱉는 아주 뜨거운 불꽃으로 공격한다. 상대의 특수공격을 떨어뜨린다.",
+  "en": "The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "zangoose-claw",
+ "names": {
+  "ja-hrkt": "ザングースのツメ",
+  "ko": "쟝고의발톱",
+  "zh-hant": "貓鼬斬的爪子",
+  "fr": "Griffe de Mangriff",
+  "de": "Sengo-Kralle",
+  "es": "Garra de Zangoose",
+  "it": "Artiglio di Zangoose",
+  "en": "Zangoose Claw",
+  "ja": "ザングースのツメ",
+  "zh-hans": "猫鼬斩的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

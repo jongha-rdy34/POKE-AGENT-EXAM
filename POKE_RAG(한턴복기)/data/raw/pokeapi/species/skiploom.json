@@ -1,0 +1,42 @@
+{
+ "id": 188,
+ "name": "skiploom",
+ "names": {
+  "ja-hrkt": "ポポッコ",
+  "ja-roma": "Popocco",
+  "ko": "두코",
+  "zh-hant": "毽子花",
+  "fr": "Floravol",
+  "de": "Hubelupf",
+  "es": "Skiploom",
+  "it": "Skiploom",
+  "en": "Skiploom",
+  "ja": "ポポッコ",
+  "zh-hans": "毽子花",
+  "es-419": "Skiploom"
+ },
+ "genus": {
+  "ja-hrkt": "わたくさポケモン",
+  "ko": "솜풀포켓몬",
+  "zh-hant": "棉草寶可夢",
+  "fr": "Pokémon Pissenlit",
+  "de": "Löwenzahn",
+  "es": "Pokémon Algadón",
+  "it": "Pokémon Gramigna",
+  "en": "Cottonweed Pokémon",
+  "ja": "わたくさポケモン",
+  "zh-hans": "棉草宝可梦",
+  "es-419": "Pokémon Algadón"
+ },
+ "flavor": {
+  "en": "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
+  "ko": "기온이 18도를 넘으면 꽃이 핀다. 온도에 따라 꽃이 피는 모습이 바뀌어서 온도계 대신 쓰기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "skiploom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "92"
+}

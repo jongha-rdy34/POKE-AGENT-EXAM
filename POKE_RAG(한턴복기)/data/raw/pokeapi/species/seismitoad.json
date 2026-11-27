@@ -1,0 +1,42 @@
+{
+ "id": 537,
+ "name": "seismitoad",
+ "names": {
+  "ja-hrkt": "ガマゲロゲ",
+  "ja-roma": "Gamageroge",
+  "ko": "두빅굴",
+  "zh-hant": "蟾蜍王",
+  "fr": "Crapustule",
+  "de": "Branawarz",
+  "es": "Seismitoad",
+  "it": "Seismitoad",
+  "en": "Seismitoad",
+  "ja": "ガマゲロゲ",
+  "zh-hans": "蟾蜍王",
+  "es-419": "Seismitoad"
+ },
+ "genus": {
+  "ja-hrkt": "しんどうポケモン",
+  "ko": "진동포켓몬",
+  "zh-hant": "震動寶可夢",
+  "fr": "Pokémon Vibration",
+  "de": "Vibrations-Pokémon",
+  "es": "Pokémon Vibrante",
+  "it": "Pokémon Vibrazione",
+  "en": "Vibration Pokémon",
+  "ja": "しんどうポケモン",
+  "zh-hans": "振动宝可梦",
+  "es-419": "Pokémon Vibrante"
+ },
+ "flavor": {
+  "en": "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.",
+  "ko": "혹이 일으키는 바이브레이션이 마사지에 좋다고 노인에게 인기가 높은 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "seismitoad",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "273"
+}

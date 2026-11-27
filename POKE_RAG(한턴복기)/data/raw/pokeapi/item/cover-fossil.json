@@ -1,0 +1,28 @@
+{
+ "name": "cover-fossil",
+ "names": {
+  "ja-hrkt": "ふたのカセキ",
+  "ko": "덮개화석",
+  "zh-hant": "背蓋化石",
+  "fr": "Fossile Plaque",
+  "de": "Schildfossil",
+  "es": "Fósil Tapa",
+  "it": "Fossiltappo",
+  "en": "Cover Fossil",
+  "ja": "ふたのカセキ",
+  "zh-hans": "背盖化石",
+  "es-419": "Fósil Tapa"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut être ressuscité en un Carapagos.",
+  "en": "Can be revived into a Tirtouga."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived in the sea. It appears as though it could be part of its back.",
+  "ko": "오랜 옛날 바다에 살았던 고대 포켓몬의 화석. 등의 일부인 듯하다.",
+  "ja": "大昔 海に すんでいた 古代ポケモンの カセキ。 せなかの 一部らしい。"
+ }
+}

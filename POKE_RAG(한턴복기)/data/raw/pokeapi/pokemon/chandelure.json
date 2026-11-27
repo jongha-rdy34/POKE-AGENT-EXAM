@@ -1,0 +1,90 @@
+{
+ "id": 609,
+ "name": "chandelure",
+ "species": "chandelure",
+ "is_default": true,
+ "types": [
+  "ghost",
+  "fire"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 55,
+  "defense": 90,
+  "special-attack": 145,
+  "special-defense": 90,
+  "speed": 80
+ },
+ "abilities": [
+  {
+   "name": "flash-fire",
+   "hidden": false
+  },
+  {
+   "name": "flame-body",
+   "hidden": false
+  },
+  {
+   "name": "infiltrator",
+   "hidden": true
+  }
+ ],
+ "height": 10,
+ "weight": 343,
+ "champions_moves": [
+  "acid-armor",
+  "burning-jealousy",
+  "calm-mind",
+  "clear-smog",
+  "confuse-ray",
+  "curse",
+  "dark-pulse",
+  "double-team",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fire-blast",
+  "fire-spin",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "giga-impact",
+  "haze",
+  "heat-wave",
+  "hex",
+  "hyper-beam",
+  "imprison",
+  "inferno",
+  "lash-out",
+  "memento",
+  "minimize",
+  "mystical-fire",
+  "night-shade",
+  "overheat",
+  "pain-split",
+  "payback",
+  "poltergeist",
+  "power-split",
+  "protect",
+  "psych-up",
+  "psychic",
+  "rest",
+  "round",
+  "safeguard",
+  "shadow-ball",
+  "skitter-smack",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "spite",
+  "substitute",
+  "sunny-day",
+  "taunt",
+  "temper-flare",
+  "thief",
+  "trailblaze",
+  "trick",
+  "trick-room",
+  "will-o-wisp"
+ ]
+}

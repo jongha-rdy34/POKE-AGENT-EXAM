@@ -1,0 +1,35 @@
+{
+ "id": 10217,
+ "name": "appletun-gmax",
+ "species": "appletun",
+ "is_default": false,
+ "types": [
+  "grass",
+  "dragon"
+ ],
+ "stats": {
+  "hp": 110,
+  "attack": 85,
+  "defense": 80,
+  "special-attack": 100,
+  "special-defense": 80,
+  "speed": 30
+ },
+ "abilities": [
+  {
+   "name": "ripen",
+   "hidden": false
+  },
+  {
+   "name": "gluttony",
+   "hidden": false
+  },
+  {
+   "name": "thick-fat",
+   "hidden": true
+  }
+ ],
+ "height": 240,
+ "weight": 10000,
+ "champions_moves": []
+}

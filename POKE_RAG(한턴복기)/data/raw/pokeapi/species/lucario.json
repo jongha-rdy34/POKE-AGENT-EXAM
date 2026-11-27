@@ -1,0 +1,50 @@
+{
+ "id": 448,
+ "name": "lucario",
+ "names": {
+  "ja-hrkt": "ルカリオ",
+  "ja-roma": "Lucario",
+  "ko": "루카리오",
+  "zh-hant": "路卡利歐",
+  "fr": "Lucario",
+  "de": "Lucario",
+  "es": "Lucario",
+  "it": "Lucario",
+  "en": "Lucario",
+  "ja": "ルカリオ",
+  "zh-hans": "路卡利欧",
+  "es-419": "Lucario"
+ },
+ "genus": {
+  "ja-hrkt": "はどうポケモン",
+  "ko": "파동포켓몬",
+  "zh-hant": "波導寶可夢",
+  "fr": "Pokémon Aura",
+  "de": "Aura-Pokémon",
+  "es": "Pokémon Aura",
+  "it": "Pokémon Aura",
+  "en": "Aura Pokémon",
+  "ja": "はどうポケモン",
+  "zh-hans": "波导宝可梦",
+  "es-419": "Pokémon Aura"
+ },
+ "flavor": {
+  "en": "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power.",
+  "ko": "사람이 생각하는 것도 알 수 있기 때문에 정직한 마음을 가진 트레이너만 따른다."
+ },
+ "varieties": [
+  {
+   "name": "lucario",
+   "is_default": true
+  },
+  {
+   "name": "lucario-mega",
+   "is_default": false
+  },
+  {
+   "name": "lucario-mega-z",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "232"
+}

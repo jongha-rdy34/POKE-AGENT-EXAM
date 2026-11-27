@@ -1,0 +1,28 @@
+{
+ "name": "tm13",
+ "names": {
+  "ja-hrkt": "わざマシン１３",
+  "ko": "기술머신13",
+  "zh-hant": "招式學習器１３",
+  "fr": "CT13",
+  "de": "TM13",
+  "es": "MT13",
+  "it": "MT13",
+  "en": "TM13",
+  "ja": "わざマシン１３",
+  "zh-hans": "招式学习器１３",
+  "es-419": "MT13"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Laser Glace à un Pokémon compatible. (Gén II: Ronflement)",
+  "en": "Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)"
+ },
+ "flavor": {
+  "en": "The target becomes trapped within a fierce vortex of fire that rages for four to five turns.",
+  "ko": "세차게 소용돌이치는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다.",
+  "ja": "激しく 渦をまく 炎の中に ４ー５ターンの 間 相手を 閉じこめて 攻撃する。"
+ }
+}

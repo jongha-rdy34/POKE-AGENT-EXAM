@@ -1,0 +1,42 @@
+{
+ "id": 821,
+ "name": "rookidee",
+ "names": {
+  "ja-hrkt": "ココガラ",
+  "ja-roma": "Kokogara",
+  "ko": "파라꼬",
+  "zh-hant": "稚山雀",
+  "fr": "Minisange",
+  "de": "Meikro",
+  "es": "Rookidee",
+  "it": "Rookidee",
+  "en": "Rookidee",
+  "ja": "ココガラ",
+  "zh-hans": "稚山雀",
+  "es-419": "Rookidee"
+ },
+ "genus": {
+  "ja-hrkt": "ことりポケモン",
+  "ko": "아기새포켓몬",
+  "zh-hant": "小鳥寶可夢",
+  "fr": "Pokémon Minoiseau",
+  "de": "Kleinvogel-Pokémon",
+  "es": "Pokémon Pajarito",
+  "it": "Pokémon Uccellino",
+  "en": "Tiny Bird Pokémon",
+  "ja": "ことりポケモン",
+  "zh-hans": "小鸟宝可梦",
+  "es-419": "Pokémon Pajarito"
+ },
+ "flavor": {
+  "ko": "작은 몸을 기민하게 날려 틈을 노리는 전법으로 몸집이 큰 상대를 농락한다.",
+  "en": "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents."
+ },
+ "varieties": [
+  {
+   "name": "rookidee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "434"
+}

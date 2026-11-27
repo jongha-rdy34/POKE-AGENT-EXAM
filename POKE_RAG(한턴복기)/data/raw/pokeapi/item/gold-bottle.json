@@ -1,0 +1,20 @@
+{
+ "name": "gold-bottle",
+ "names": {
+  "ja-hrkt": "ゴールドチタンボトル",
+  "ko": "골드 티탄 보틀",
+  "zh-hant": "金鈦水壺",
+  "fr": "Gourde Titane (Or)",
+  "de": "Gold-Titanflasche",
+  "es": "Termo Dorado",
+  "it": "Borraccia oro",
+  "en": "Gold Bottle",
+  "ja": "ゴールドチタンボトル",
+  "zh-hans": "金钛水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

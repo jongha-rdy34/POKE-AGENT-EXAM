@@ -1,0 +1,15 @@
+{
+ "name": "tauros-paldea-combat-breed",
+ "form_name": "paldea-combat-breed",
+ "names": {
+  "fr": "Tauros de Paldéa Race Combative",
+  "en": "Paldean Tauros (Combat Breed)"
+ },
+ "form_names": {
+  "ja-hrkt": "パルデアのすがた",
+  "fr": "Forme de Paldéa",
+  "en": "Paldean Form (Combat Breed)",
+  "ja": "パルデアのすがた"
+ },
+ "is_mega": false
+}

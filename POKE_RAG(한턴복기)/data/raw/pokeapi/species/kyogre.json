@@ -1,0 +1,46 @@
+{
+ "id": 382,
+ "name": "kyogre",
+ "names": {
+  "ja-hrkt": "カイオーガ",
+  "ja-roma": "Kyogre",
+  "ko": "가이오가",
+  "zh-hant": "蓋歐卡",
+  "fr": "Kyogre",
+  "de": "Kyogre",
+  "es": "Kyogre",
+  "it": "Kyogre",
+  "en": "Kyogre",
+  "ja": "カイオーガ",
+  "zh-hans": "盖欧卡",
+  "es-419": "Kyogre"
+ },
+ "genus": {
+  "ja-hrkt": "かいていポケモン",
+  "ko": "해저포켓몬",
+  "zh-hant": "海底寶可夢",
+  "fr": "Pokémon Bassinmarin",
+  "de": "Seegründler-Pokémon",
+  "es": "Pokémon Cuenca Mar",
+  "it": "Pokémon Oceano",
+  "en": "Sea Basin Pokémon",
+  "ja": "かいていポケモン",
+  "zh-hans": "海底宝可梦",
+  "es-419": "Pokémon Cuenca Mar"
+ },
+ "flavor": {
+  "en": "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
+  "ko": "바다의 화신이라 전해지는 포켓몬. 자연의 힘을 갈구하여 그란돈과 사투를 반복한다는 전설이 있다."
+ },
+ "varieties": [
+  {
+   "name": "kyogre",
+   "is_default": true
+  },
+  {
+   "name": "kyogre-primal",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "198"
+}

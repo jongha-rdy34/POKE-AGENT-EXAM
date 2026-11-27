@@ -1,0 +1,23 @@
+{
+ "name": "poison-heal",
+ "names": {
+  "ja-hrkt": "ポイズンヒール",
+  "ko": "포이즌힐",
+  "zh-hant": "毒療",
+  "fr": "Soin Poison",
+  "de": "Aufheber",
+  "es": "Antídoto",
+  "it": "Velencura",
+  "en": "Poison Heal",
+  "ja": "ポイズンヒール",
+  "zh-hans": "毒疗",
+  "es-419": "Antídoto"
+ },
+ "effect": {
+  "en": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+ },
+ "flavor": {
+  "en": "If poisoned, the Pokémon has its HP restored instead of taking damage.",
+  "ko": "독 상태가 되면 HP가 줄지 않고 증가한다."
+ }
+}

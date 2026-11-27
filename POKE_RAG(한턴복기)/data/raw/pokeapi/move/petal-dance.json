@@ -1,0 +1,31 @@
+{
+ "name": "petal-dance",
+ "names": {
+  "ja-hrkt": "はなびらのまい",
+  "ko": "꽃잎댄스",
+  "zh-hant": "花瓣舞",
+  "fr": "Danse Fleurs",
+  "de": "Blättertanz",
+  "es": "Danza Pétalo",
+  "it": "Petalodanza",
+  "en": "Petal Dance",
+  "ja": "はなびらのまい",
+  "zh-hans": "花瓣舞",
+  "es-419": "Danza de Pétalos"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "random-opponent",
+ "effect": {
+  "en": "Hits every turn for 2-3 turns, then confuses the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target by scattering petals for two to three turns. The user then becomes confused.",
+  "ko": "2-3턴 동안 꽃을 흩뿌려서 상대를 공격한다. 흩뿌린 뒤에는 혼란에 빠진다."
+ }
+}

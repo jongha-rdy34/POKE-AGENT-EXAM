@@ -1,0 +1,67 @@
+{
+ "id": 1013,
+ "name": "sinistcha",
+ "species": "sinistcha",
+ "is_default": true,
+ "types": [
+  "grass",
+  "ghost"
+ ],
+ "stats": {
+  "hp": 71,
+  "attack": 60,
+  "defense": 106,
+  "special-attack": 121,
+  "special-defense": 80,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "hospitality",
+   "hidden": false
+  },
+  {
+   "name": "heatproof",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 22,
+ "champions_moves": [
+  "calm-mind",
+  "curse",
+  "endure",
+  "energy-ball",
+  "foul-play",
+  "giga-drain",
+  "grassy-terrain",
+  "hex",
+  "hyper-beam",
+  "imprison",
+  "iron-defense",
+  "leaf-storm",
+  "life-dew",
+  "matcha-gotcha",
+  "memento",
+  "nasty-plot",
+  "night-shade",
+  "pain-split",
+  "phantom-force",
+  "poltergeist",
+  "protect",
+  "psych-up",
+  "rage-powder",
+  "reflect",
+  "rest",
+  "scald",
+  "shadow-ball",
+  "sleep-talk",
+  "solar-beam",
+  "spite",
+  "strength-sap",
+  "stun-spore",
+  "substitute",
+  "trick-room",
+  "uproar"
+ ]
+}

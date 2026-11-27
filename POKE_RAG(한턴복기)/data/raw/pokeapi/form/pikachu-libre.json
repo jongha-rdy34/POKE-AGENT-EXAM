@@ -1,0 +1,17 @@
+{
+ "name": "pikachu-libre",
+ "form_name": "libre",
+ "names": {
+  "fr": "Pikachu Catcheur",
+  "de": "Wrestling Pikachu",
+  "en": "Pikachu Libre"
+ },
+ "form_names": {
+  "ja-hrkt": "マスクド・ピカチュウ",
+  "fr": "Pikachu Catcheur",
+  "de": "Cosplayform",
+  "en": "Pikachu Libre",
+  "ja": "マスクド・ピカチュウ"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,30 @@
+{
+ "name": "liechi-berry",
+ "names": {
+  "ja-hrkt": "チイラのみ",
+  "ko": "치리열매",
+  "zh-hant": "枝荔果",
+  "fr": "Baie Lichii",
+  "de": "Lydzibeere",
+  "es": "Baya Lichi",
+  "it": "Baccalici",
+  "en": "Liechi Berry",
+  "ja": "チイラのみ",
+  "zh-hans": "枝荔果",
+  "es-419": "Baya Lichi"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster l'Attaque.",
+  "en": "Held: Consumed at 1/4 max HP to boost Attack."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its Attack stat will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 자신의 공격이 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 自分の 攻撃が あがる。"
+ }
+}

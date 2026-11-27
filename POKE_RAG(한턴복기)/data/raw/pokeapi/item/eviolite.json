@@ -1,0 +1,28 @@
+{
+ "name": "eviolite",
+ "names": {
+  "ja-hrkt": "しんかのきせき",
+  "ko": "진화의휘석",
+  "zh-hant": "進化奇石",
+  "fr": "Évoluroc",
+  "de": "Evolith",
+  "es": "Mineral Evol",
+  "it": "Evolcondensa",
+  "en": "Eviolite",
+  "ja": "しんかのきせき",
+  "zh-hans": "进化奇石",
+  "es-419": "Mineral Evol"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: La Défense et Défense Spéciale du porteur augmentent de 50%, tant qu'il n'est pas complètement évolué.",
+  "en": "Held: Holder has 1.5× Defense and Special Defense, as long as it’s not fully evolved."
+ },
+ "flavor": {
+  "en": "A mysterious evolutionary lump. When held by a Pokémon that can still evolve, it raises both Defense and Sp. Def.",
+  "ko": "진화의 이상한 덩어리. 지니게 하면 진화 전 포켓몬의 방어와 특수방어가 올라간다.",
+  "ja": "進化の 不思議な かたまり。 持たせると 進化前 ポケモンの 防御と 特防が あがる。"
+ }
+}

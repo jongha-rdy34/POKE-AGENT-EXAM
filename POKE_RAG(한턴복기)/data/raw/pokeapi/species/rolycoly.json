@@ -1,0 +1,42 @@
+{
+ "id": 837,
+ "name": "rolycoly",
+ "names": {
+  "ja-hrkt": "タンドン",
+  "ja-roma": "Tandon",
+  "ko": "탄동",
+  "zh-hant": "小炭仔",
+  "fr": "Charbi",
+  "de": "Klonkett",
+  "es": "Rolycoly",
+  "it": "Rolycoly",
+  "en": "Rolycoly",
+  "ja": "タンドン",
+  "zh-hans": "小炭仔",
+  "es-419": "Rolycoly"
+ },
+ "genus": {
+  "ja-hrkt": "せきたんポケモン",
+  "ko": "석탄포켓몬",
+  "zh-hant": "煤炭寶可夢",
+  "fr": "Pokémon Charbon",
+  "de": "Kohle-Pokémon",
+  "es": "Pokémon Carbón",
+  "it": "Pokémon Carbone",
+  "en": "Coal Pokémon",
+  "ja": "せきたんポケモン",
+  "zh-hans": "煤炭宝可梦",
+  "es-419": "Pokémon Carbón"
+ },
+ "flavor": {
+  "ko": "바위투성이의 거친 길을 아무렇지도 않게 일륜차처럼 달린다. 석탄을 태워서 살고 있다.",
+  "en": "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it."
+ },
+ "varieties": [
+  {
+   "name": "rolycoly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "441"
+}

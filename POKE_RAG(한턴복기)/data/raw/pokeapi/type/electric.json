@@ -1,0 +1,28 @@
+{
+ "name": "electric",
+ "names": {
+  "ja-hrkt": "でんき",
+  "ko": "전기",
+  "zh-hant": "電",
+  "fr": "Électrik",
+  "de": "Elektro",
+  "es": "Eléctrico",
+  "it": "Elettro",
+  "en": "Electric",
+  "ja": "でんき",
+  "zh-hans": "电",
+  "es-419": "Eléctrico"
+ },
+ "double_to": [
+  "flying",
+  "water"
+ ],
+ "half_to": [
+  "grass",
+  "electric",
+  "dragon"
+ ],
+ "zero_to": [
+  "ground"
+ ]
+}

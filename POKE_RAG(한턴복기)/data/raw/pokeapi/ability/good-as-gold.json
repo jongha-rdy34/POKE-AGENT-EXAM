@@ -1,0 +1,22 @@
+{
+ "name": "good-as-gold",
+ "names": {
+  "ja-hrkt": "おうごんのからだ",
+  "ko": "황금몸",
+  "zh-hant": "黃金之軀",
+  "fr": "Corps en Or",
+  "de": "Goldkörper",
+  "es": "Cuerpo Áureo",
+  "it": "Corpo Aureo",
+  "en": "Good as Gold",
+  "ja": "おうごんのからだ",
+  "zh-hans": "黄金之躯",
+  "es-419": "Cuerpo Áureo"
+ },
+ "effect": {
+  "en": "Gives immunity to status moves."
+ },
+ "flavor": {
+  "en": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves."
+ }
+}

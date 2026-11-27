@@ -1,0 +1,31 @@
+{
+ "name": "energy-ball",
+ "names": {
+  "ja-hrkt": "エナジーボール",
+  "ko": "에너지볼",
+  "zh-hant": "能量球",
+  "fr": "Éco-Sphère",
+  "de": "Energieball",
+  "es": "Energibola",
+  "it": "Energipalla",
+  "en": "Energy Ball",
+  "ja": "エナジーボール",
+  "zh-hans": "能量球",
+  "es-419": "Bola de Energía"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Special Defense by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat.",
+  "ko": "자연으로부터 모은 생명의 힘을 발사한다. 상대의 특수방어를 떨어뜨릴 때가 있다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "lunalium-z--held",
+ "names": {
+  "ja-hrkt": "ルナアーラＺ",
+  "ko": "루나아라Z",
+  "zh-hant": "露奈雅拉Ｚ",
+  "fr": "Lunazélite",
+  "de": "Lunalium Z",
+  "es": "Lunalastal Z",
+  "it": "Lunalium Z",
+  "en": "Lunalium Z",
+  "ja": "ルナアーラＺ",
+  "zh-hans": "露奈雅拉Ｚ",
+  "es-419": "Lunalastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour lunalium-z--held",
+  "en": "XXX new effect for lunalium-z--held"
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 루나아라의 섀도레이를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Lunala’s Moongeist Beam to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ルナアーラの シャドーレイを Ｚワザに グレードアップする。"
+ }
+}

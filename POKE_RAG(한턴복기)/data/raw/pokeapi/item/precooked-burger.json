@@ -1,0 +1,25 @@
+{
+ "name": "precooked-burger",
+ "names": {
+  "ja-hrkt": "レトルトバーグ",
+  "ko": "레토르트햄버그",
+  "zh-hant": "即食肉排",
+  "fr": "Steak Haché",
+  "de": "Frikadellen",
+  "es": "Hamburguesas",
+  "it": "Hamburger",
+  "en": "Precooked Burger",
+  "ja": "レトルトバーグ",
+  "zh-hans": "即食肉排",
+  "es-419": "Hamburguesas"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 고민될 때 햄버그를 넣으면 실패할 일은 없다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. If you’re unsure about what to cook, you can’t go wrong with some burger.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。迷った ときは ハンバーグを 入れておけば 間違いない。"
+ }
+}

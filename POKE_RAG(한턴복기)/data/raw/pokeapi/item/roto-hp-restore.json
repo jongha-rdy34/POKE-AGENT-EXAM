@@ -1,0 +1,28 @@
+{
+ "name": "roto-hp-restore",
+ "names": {
+  "ja-hrkt": "ＨＰかいふくポン",
+  "ko": "HP회복캡슐토이",
+  "zh-hant": "ＨＰ回復碰碰",
+  "fr": "Moti-Récup’ PV",
+  "de": "KP-Bon",
+  "es": "Cupón PS",
+  "it": "PS’n’roll",
+  "en": "Roto HP Restore",
+  "ja": "ＨＰかいふくポン",
+  "zh-hans": "ＨＰ回复碰碰",
+  "es-419": "Cupón PS"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-hp-restore",
+  "en": "XXX new effect for roto-hp-restore"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 싸우고 있는 자신의 포켓몬의 HP가 모두 회복한다.",
+  "en": "One of the Rotom Powers. It fully restores the HP of your battling Pokémon.",
+  "ja": "ロトムパワーの ひとつ。 戦っている 自分の ポケモンの ＨＰが すべて 回復する。"
+ }
+}

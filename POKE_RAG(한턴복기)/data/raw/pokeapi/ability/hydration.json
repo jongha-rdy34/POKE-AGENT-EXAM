@@ -1,0 +1,23 @@
+{
+ "name": "hydration",
+ "names": {
+  "ja-hrkt": "うるおいボディ",
+  "ko": "촉촉바디",
+  "zh-hant": "濕潤之軀",
+  "fr": "Hydratation",
+  "de": "Hydration",
+  "es": "Hidratación",
+  "it": "Idratazione",
+  "en": "Hydration",
+  "ja": "うるおいボディ",
+  "zh-hans": "湿润之躯",
+  "es-419": "Hidratación"
+ },
+ "effect": {
+  "en": "Cures any major status ailment after each turn during rain."
+ },
+ "flavor": {
+  "en": "Cures the Pokémon's status conditions in rain.",
+  "ko": "비가 오는 날씨일 때 상태 이상이 회복된다."
+ }
+}

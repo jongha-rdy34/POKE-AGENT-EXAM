@@ -1,0 +1,23 @@
+{
+ "name": "aftermath",
+ "names": {
+  "ja-hrkt": "ゆうばく",
+  "ko": "유폭",
+  "zh-hant": "引爆",
+  "fr": "Boom Final",
+  "de": "Finalschlag",
+  "es": "Detonación",
+  "it": "Scoppio",
+  "en": "Aftermath",
+  "ja": "ゆうばく",
+  "zh-hans": "引爆",
+  "es-419": "Secuela"
+ },
+ "effect": {
+  "en": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+ },
+ "flavor": {
+  "en": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.",
+  "ko": "기절했을 때 접촉한 상대에게 데미지를 준다."
+ }
+}

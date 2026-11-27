@@ -1,0 +1,22 @@
+{
+ "name": "earth-eater",
+ "names": {
+  "ja-hrkt": "どしょく",
+  "ko": "흙먹기",
+  "zh-hant": "食土",
+  "fr": "Absorbe-Terre",
+  "de": "Bodenschmaus",
+  "es": "Geofagia",
+  "it": "Mangiaterra",
+  "en": "Earth Eater",
+  "ja": "どしょく",
+  "zh-hans": "食土",
+  "es-419": "Geofagia"
+ },
+ "effect": {
+  "en": "Restores HP when hit by a Ground-type move."
+ },
+ "flavor": {
+  "en": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage."
+ }
+}

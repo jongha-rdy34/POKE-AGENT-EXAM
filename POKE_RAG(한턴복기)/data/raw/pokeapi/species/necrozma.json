@@ -1,0 +1,54 @@
+{
+ "id": 800,
+ "name": "necrozma",
+ "names": {
+  "ja-hrkt": "ネクロズマ",
+  "ja-roma": "Necrozma",
+  "ko": "네크로즈마",
+  "zh-hant": "奈克洛茲瑪",
+  "fr": "Necrozma",
+  "de": "Necrozma",
+  "es": "Necrozma",
+  "it": "Necrozma",
+  "en": "Necrozma",
+  "ja": "ネクロズマ",
+  "zh-hans": "奈克洛兹玛",
+  "es-419": "Necrozma"
+ },
+ "genus": {
+  "ja-hrkt": "プリズムポケモン",
+  "ko": "프리즘포켓몬",
+  "zh-hant": "稜鏡寶可夢",
+  "fr": "Pokémon Prisme",
+  "de": "Prisma-Pokémon",
+  "es": "Pokémon Prisma",
+  "it": "Pokémon Prisma",
+  "en": "Prism Pokémon",
+  "ja": "プリズムポケモン",
+  "zh-hans": "棱镜宝可梦",
+  "es-419": "Pokémon Prisma"
+ },
+ "flavor": {
+  "ko": "살기 위해 빛을 찾아 날뛰며 돌아다닌다. 레이저 광선을 쏘아 온갖 것을 산산조각 낸다.",
+  "en": "It needs light to survive, and it goes on a rampage seeking it out. Its laser beams will cut anything to pieces."
+ },
+ "varieties": [
+  {
+   "name": "necrozma",
+   "is_default": true
+  },
+  {
+   "name": "necrozma-dusk",
+   "is_default": false
+  },
+  {
+   "name": "necrozma-dawn",
+   "is_default": false
+  },
+  {
+   "name": "necrozma-ultra",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "421"
+}

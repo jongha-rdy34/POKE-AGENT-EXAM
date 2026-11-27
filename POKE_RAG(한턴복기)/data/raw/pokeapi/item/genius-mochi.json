@@ -1,0 +1,20 @@
+{
+ "name": "genius-mochi",
+ "names": {
+  "ja-hrkt": "ちりょくのもち",
+  "ko": "지력떡",
+  "zh-hant": "智力糬",
+  "fr": "Mochi Esprit",
+  "de": "Genie-Mochi",
+  "es": "Mochi Intelecto",
+  "it": "Mochi dell’ingegno",
+  "en": "Genius Mochi",
+  "ja": "ちりょくのもち",
+  "zh-hans": "智力粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

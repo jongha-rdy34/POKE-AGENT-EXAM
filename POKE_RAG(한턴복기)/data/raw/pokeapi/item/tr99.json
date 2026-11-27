@@ -1,0 +1,25 @@
+{
+ "name": "tr99",
+ "names": {
+  "ja-hrkt": "わざレコード９９",
+  "ko": "기술레코드99",
+  "zh-hant": "招式紀錄９９",
+  "fr": "DT99",
+  "de": "TP99",
+  "es": "DT99",
+  "it": "DT99",
+  "en": "TR99",
+  "ja": "わざレコード９９",
+  "zh-hans": "招式记录９９",
+  "es-419": "DT99"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "몸을 부딪쳐서 공격한다. 방어가 높을수록 주는 데미지가 올라간다.",
+  "en": "The user attacks by slamming its body into the target. The higher the user’s Defense, the more damage it can inflict on the target.",
+  "ja": "体を ぶつけて 攻撃。 防御が 高いほど 与える ダメージが 増える。"
+ }
+}

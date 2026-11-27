@@ -1,0 +1,25 @@
+{
+ "name": "tr73",
+ "names": {
+  "ja-hrkt": "わざレコード７３",
+  "ko": "기술레코드73",
+  "zh-hant": "招式紀錄７３",
+  "fr": "DT73",
+  "de": "TP73",
+  "es": "DT73",
+  "it": "DT73",
+  "en": "TR73",
+  "ja": "わざレコード７３",
+  "zh-hans": "招式记录７３",
+  "es-419": "DT73"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "더러운 쓰레기를 상대에게 부딪쳐서 공격한다. 독 상태로 만들 때가 있다.",
+  "en": "The user shoots filthy garbage at the target to attack. This may also poison the target.",
+  "ja": "汚い ゴミを 相手に ぶつけて 攻撃する。 毒状態に することが ある。"
+ }
+}

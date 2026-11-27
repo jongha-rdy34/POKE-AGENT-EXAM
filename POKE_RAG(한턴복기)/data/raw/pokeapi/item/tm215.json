@@ -1,0 +1,19 @@
+{
+ "name": "tm215",
+ "names": {
+  "ko": "기술머신215",
+  "zh-hant": "招式學習器２１５",
+  "fr": "CT215",
+  "de": "TM215",
+  "es": "MT215",
+  "it": "MT215",
+  "en": "TM215",
+  "ja": "わざマシン２１５",
+  "zh-hans": "招式学习器２１５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

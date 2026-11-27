@@ -1,0 +1,23 @@
+{
+ "name": "huge-power",
+ "names": {
+  "ja-hrkt": "ちからもち",
+  "ko": "천하장사",
+  "zh-hant": "大力士",
+  "fr": "Coloforce",
+  "de": "Kraftkoloss",
+  "es": "Potencia",
+  "it": "Macroforza",
+  "en": "Huge Power",
+  "ja": "ちからもち",
+  "zh-hans": "大力士",
+  "es-419": "Potencia"
+ },
+ "effect": {
+  "en": "Doubles Attack in battle."
+ },
+ "flavor": {
+  "en": "Doubles the Pokémon's Attack stat.",
+  "ko": "물리공격의 위력이 2배가 된다."
+ }
+}

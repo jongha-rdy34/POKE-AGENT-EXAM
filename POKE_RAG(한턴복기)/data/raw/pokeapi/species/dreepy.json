@@ -1,0 +1,42 @@
+{
+ "id": 885,
+ "name": "dreepy",
+ "names": {
+  "ja-hrkt": "ドラメシヤ",
+  "ja-roma": "Dorameshiya",
+  "ko": "드라꼰",
+  "zh-hant": "多龍梅西亞",
+  "fr": "Fantyrm",
+  "de": "Grolldra",
+  "es": "Dreepy",
+  "it": "Dreepy",
+  "en": "Dreepy",
+  "ja": "ドラメシヤ",
+  "zh-hans": "多龙梅西亚",
+  "es-419": "Dreepy"
+ },
+ "genus": {
+  "ja-hrkt": "うらめしポケモン",
+  "ko": "원망포켓몬",
+  "zh-hant": "哀怨寶可夢",
+  "fr": "Pokémon Âme Errante",
+  "de": "Missgunst-Pokémon",
+  "es": "Pokémon Resentido",
+  "it": "Pokémon Risentimento",
+  "en": "Lingering Pokémon",
+  "ja": "うらめしポケモン",
+  "zh-hans": "哀怨宝可梦",
+  "es-419": "Pokémon Resentido"
+ },
+ "flavor": {
+  "ko": "1마리로는 아이에게도 질 정도로 힘이 약하지만 동료의 협력으로 단련하고 진화하면 강해진다.",
+  "en": "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger."
+ },
+ "varieties": [
+  {
+   "name": "dreepy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "466"
+}

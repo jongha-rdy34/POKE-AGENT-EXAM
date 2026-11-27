@@ -1,0 +1,31 @@
+{
+ "name": "dragon-tail",
+ "names": {
+  "ja-hrkt": "ドラゴンテール",
+  "ko": "드래곤테일",
+  "zh-hant": "龍尾",
+  "fr": "Draco-Queue",
+  "de": "Drachenrute",
+  "es": "Cola Dragón",
+  "it": "Codadrago",
+  "en": "Dragon Tail",
+  "ja": "ドラゴンテール",
+  "zh-hans": "龙尾",
+  "es-419": "Cola de Dragón"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": -6,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Ends wild battles.  Forces trainers to switch Pokémon."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",
+  "ko": "상대를 튕겨내서 교대할 포켓몬을 끌어낸다. 야생의 경우에는 배틀이 끝난다."
+ }
+}

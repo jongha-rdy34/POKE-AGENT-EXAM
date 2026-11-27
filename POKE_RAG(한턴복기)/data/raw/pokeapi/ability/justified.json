@@ -1,0 +1,23 @@
+{
+ "name": "justified",
+ "names": {
+  "ja-hrkt": "せいぎのこころ",
+  "ko": "정의의마음",
+  "zh-hant": "正義之心",
+  "fr": "Cœur Noble",
+  "de": "Redlichkeit",
+  "es": "Justiciero",
+  "it": "Giustizia",
+  "en": "Justified",
+  "ja": "せいぎのこころ",
+  "zh-hans": "正义之心",
+  "es-419": "Justiciero"
+ },
+ "effect": {
+  "en": "Raises Attack one stage upon taking damage from a Dark move."
+ },
+ "flavor": {
+  "en": "When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice.",
+  "ko": "악타입 공격을 받으면 정의감으로 공격이 올라간다."
+ }
+}

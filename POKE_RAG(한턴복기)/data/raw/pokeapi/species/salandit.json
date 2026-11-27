@@ -1,0 +1,42 @@
+{
+ "id": 757,
+ "name": "salandit",
+ "names": {
+  "ja-hrkt": "ヤトウモリ",
+  "ja-roma": "Yatoumori",
+  "ko": "야도뇽",
+  "zh-hant": "夜盜火蜥",
+  "fr": "Tritox",
+  "de": "Molunk",
+  "es": "Salandit",
+  "it": "Salandit",
+  "en": "Salandit",
+  "ja": "ヤトウモリ",
+  "zh-hans": "夜盗火蜥",
+  "es-419": "Salandit"
+ },
+ "genus": {
+  "ja-hrkt": "どくトカゲポケモン",
+  "ko": "독도마뱀포켓몬",
+  "zh-hant": "毒蜥寶可夢",
+  "fr": "Pokémon Toxilézard",
+  "de": "Giftechsen-Pokémon",
+  "es": "Pokémon Lagartoxina",
+  "it": "Pokémon Lucertossina",
+  "en": "Toxic Lizard Pokémon",
+  "ja": "どくトカゲポケモン",
+  "zh-hans": "毒蜥宝可梦",
+  "es-419": "Pokémon Lagartoxina"
+ },
+ "flavor": {
+  "ko": "먹이의 뒤로 숨어들어서 눈치채기 전에 독가스를 퍼부어 움직이지 못하게 한다.",
+  "en": "This sneaky Pokémon will slink behind its prey and immobilize it with poisonous gas before the prey even realizes Salandit is there."
+ },
+ "varieties": [
+  {
+   "name": "salandit",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "390"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm191",
+ "names": {
+  "ko": "기술머신191",
+  "zh-hant": "招式學習器１９１",
+  "fr": "CT191",
+  "de": "TM191",
+  "es": "MT191",
+  "it": "MT191",
+  "en": "TM191",
+  "ja": "わざマシン１９１",
+  "zh-hans": "招式学习器１９１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

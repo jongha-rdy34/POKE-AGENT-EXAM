@@ -1,0 +1,25 @@
+{
+ "name": "tr11",
+ "names": {
+  "ja-hrkt": "わざレコード１１",
+  "ko": "기술레코드11",
+  "zh-hant": "招式紀錄１１",
+  "fr": "DT11",
+  "de": "TP11",
+  "es": "DT11",
+  "it": "DT11",
+  "en": "TR11",
+  "ja": "わざレコード１１",
+  "zh-hans": "招式记录１１",
+  "es-419": "DT11"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강한 염동력을 상대에게 보내어 공격한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.",
+  "ja": "強い 念力を 相手に 送って 攻撃する。 相手の 特防を さげることが ある。"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "floette-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Floette",
+  "en": "Mega Floette"
+ },
+ "form_names": {
+  "ja-hrkt": "メガフラエッテ",
+  "fr": "Méga-Floette",
+  "en": "Mega Floette",
+  "ja": "メガフラエッテ"
+ },
+ "is_mega": true
+}

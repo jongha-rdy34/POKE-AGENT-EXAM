@@ -1,0 +1,42 @@
+{
+ "id": 333,
+ "name": "swablu",
+ "names": {
+  "ja-hrkt": "チルット",
+  "ja-roma": "Tyltto",
+  "ko": "파비코",
+  "zh-hant": "青綿鳥",
+  "fr": "Tylton",
+  "de": "Wablu",
+  "es": "Swablu",
+  "it": "Swablu",
+  "en": "Swablu",
+  "ja": "チルット",
+  "zh-hans": "青绵鸟",
+  "es-419": "Swablu"
+ },
+ "genus": {
+  "ja-hrkt": "わたどりポケモン",
+  "ko": "솜새포켓몬",
+  "zh-hant": "綿鳥寶可夢",
+  "fr": "Pokémon Oiseaucoton",
+  "de": "Wollvogel-Pokémon",
+  "es": "Pokémon Ave Algodón",
+  "it": "Pokémon Alidicotone",
+  "en": "Cotton Bird Pokémon",
+  "ja": "わたどりポケモン",
+  "zh-hans": "绵鸟宝可梦",
+  "es-419": "Pokémon Ave Algodón"
+ },
+ "flavor": {
+  "en": "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations.",
+  "ko": "솜구름처럼 보이기 때문에 적의 눈에 잘 띄지 않는다. 세대를 거치면서 날개가 하얗게 되었다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "swablu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "168"
+}

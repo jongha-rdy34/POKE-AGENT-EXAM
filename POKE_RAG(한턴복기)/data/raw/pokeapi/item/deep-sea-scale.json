@@ -1,0 +1,30 @@
+{
+ "name": "deep-sea-scale",
+ "names": {
+  "ja-hrkt": "しんかいのウロコ",
+  "ko": "심해의비늘",
+  "zh-hant": "深海鱗片",
+  "fr": "Écaille Océan",
+  "de": "Abyssschuppe",
+  "es": "Escama Marina",
+  "it": "Squamabissi",
+  "en": "Deep Sea Scale",
+  "ja": "しんかいのウロコ",
+  "zh-hans": "深海鳞片",
+  "es-419": "Escama Marina"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Double la Défense Spéciale de Coquiperl. Échange sur un Coquiperl: Le porteur évolue en Rosabyss.",
+  "en": "Doubles Clamperl’s Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss."
+ },
+ "flavor": {
+  "en": "An item to be held by Clamperl. This scale shines with a faint pink and raises the holder’s Sp. Def stat.",
+  "ko": "진주몽에게 지니게 하면 특수방어가 올라가는 비늘. 연한 분홍색으로 빛난다.",
+  "ja": "パールルに 持たせると 特防が あがる ウロコ。 うすい ピンク色に 光る。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 746,
+ "name": "wishiwashi",
+ "names": {
+  "ja-hrkt": "ヨワシ",
+  "ja-roma": "Yowashi",
+  "ko": "약어리",
+  "zh-hant": "弱丁魚",
+  "fr": "Froussardine",
+  "de": "Lusardin",
+  "es": "Wishiwashi",
+  "it": "Wishiwashi",
+  "en": "Wishiwashi",
+  "ja": "ヨワシ",
+  "zh-hans": "弱丁鱼",
+  "es-419": "Wishiwashi"
+ },
+ "genus": {
+  "ja-hrkt": "こざかなポケモン",
+  "ko": "잔물고기포켓몬",
+  "zh-hant": "小魚寶可夢",
+  "fr": "Pokémon Minipoisson",
+  "de": "Kleinfisch-Pokémon",
+  "es": "Pokémon Pececillo",
+  "it": "Pokémon Pesciolino",
+  "en": "Small Fry Pokémon",
+  "ja": "こざかなポケモン",
+  "zh-hans": "小鱼宝可梦",
+  "es-419": "Pokémon Pececillo"
+ },
+ "flavor": {
+  "ko": "위험을 느끼면 눈물을 글썽인다. 눈물의 빛은 그들만의 신호로 신호를 받고 많은 동료가 모인다.",
+  "en": "When it senses danger, its eyes tear up. The sparkle of its tears signals other Wishiwashi to gather."
+ },
+ "varieties": [
+  {
+   "name": "wishiwashi-solo",
+   "is_default": true
+  },
+  {
+   "name": "wishiwashi-school",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "384"
+}

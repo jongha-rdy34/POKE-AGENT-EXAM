@@ -1,0 +1,19 @@
+{
+ "name": "tm190",
+ "names": {
+  "ko": "기술머신190",
+  "zh-hant": "招式學習器１９０",
+  "fr": "CT190",
+  "de": "TM190",
+  "es": "MT190",
+  "it": "MT190",
+  "en": "TM190",
+  "ja": "わざマシン１９０",
+  "zh-hans": "招式学习器１９０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

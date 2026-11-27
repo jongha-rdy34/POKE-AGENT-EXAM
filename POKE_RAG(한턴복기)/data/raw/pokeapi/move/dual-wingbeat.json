@@ -1,0 +1,31 @@
+{
+ "name": "dual-wingbeat",
+ "names": {
+  "ja-hrkt": "ダブルウイング",
+  "ko": "더블윙",
+  "zh-hant": "雙翼",
+  "fr": "Double Volée",
+  "de": "Doppelflügel",
+  "es": "Ala Bis",
+  "it": "Doppia Ala",
+  "en": "Dual Wingbeat",
+  "ja": "ダブルウイング",
+  "zh-hans": "双翼",
+  "es-419": "Aletazo Doble"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits twice in one turn."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "날개를 상대에게 부딪쳐서 공격한다. 2회 연속으로 데미지를 준다.",
+  "en": "The user slams the target with its wings to inflict damage. The target is hit twice in a row."
+ }
+}

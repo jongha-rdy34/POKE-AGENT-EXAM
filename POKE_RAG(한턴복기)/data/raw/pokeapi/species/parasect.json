@@ -1,0 +1,42 @@
+{
+ "id": 47,
+ "name": "parasect",
+ "names": {
+  "ja-hrkt": "パラセクト",
+  "ja-roma": "Parasect",
+  "ko": "파라섹트",
+  "zh-hant": "派拉斯特",
+  "fr": "Parasect",
+  "de": "Parasek",
+  "es": "Parasect",
+  "it": "Parasect",
+  "en": "Parasect",
+  "ja": "パラセクト",
+  "zh-hans": "派拉斯特",
+  "es-419": "Parasect"
+ },
+ "genus": {
+  "ja-hrkt": "きのこポケモン",
+  "ko": "버섯포켓몬",
+  "zh-hant": "蘑菇寶可夢",
+  "fr": "Pokémon Champignon",
+  "de": "Pilz",
+  "es": "Pokémon Hongo",
+  "it": "Pokémon Fungo",
+  "en": "Mushroom Pokémon",
+  "ja": "きのこポケモン",
+  "zh-hans": "蘑菇宝可梦",
+  "es-419": "Pokémon Hongo"
+ },
+ "flavor": {
+  "en": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
+  "ko": "계속 진액을 빨아 먹혀서 이제는 벌레가 아니라 등에 있는 버섯이 생각하고 있는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "parasect",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "19"
+}

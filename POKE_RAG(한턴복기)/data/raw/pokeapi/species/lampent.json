@@ -1,0 +1,42 @@
+{
+ "id": 608,
+ "name": "lampent",
+ "names": {
+  "ja-hrkt": "ランプラー",
+  "ja-roma": "Lampler",
+  "ko": "램프라",
+  "zh-hant": "燈火幽靈",
+  "fr": "Mélancolux",
+  "de": "Laternecto",
+  "es": "Lampent",
+  "it": "Lampent",
+  "en": "Lampent",
+  "ja": "ランプラー",
+  "zh-hans": "灯火幽灵",
+  "es-419": "Lampent"
+ },
+ "genus": {
+  "ja-hrkt": "ランプポケモン",
+  "ko": "램프포켓몬",
+  "zh-hant": "油燈寶可夢",
+  "fr": "Pokémon Lampe",
+  "de": "Lampen-Pokémon",
+  "es": "Pokémon Farolillo",
+  "it": "Pokémon Lanterna",
+  "en": "Lamp Pokémon",
+  "ja": "ランプポケモン",
+  "zh-hans": "油灯宝可梦",
+  "es-419": "Pokémon Farolillo"
+ },
+ "flavor": {
+  "en": "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.",
+  "ko": "램프인 척 마을 안으로 숨어든다. 죽음이 다가온 사람을 발견하면 조용히 뒤를 쫓는다."
+ },
+ "varieties": [
+  {
+   "name": "lampent",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "308"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "left-poke-ball",
+ "names": {
+  "ja-hrkt": "のこされたボール",
+  "ko": "남겨진 볼",
+  "zh-hant": "留下的精靈球",
+  "fr": "Poké Ball donnée",
+  "de": "Nachlassball",
+  "es": "Poké Ball Ajena",
+  "it": "Poké Ball altrui",
+  "en": "Left Poké Ball",
+  "ja": "のこされたボール",
+  "zh-hans": "留下的精灵球",
+  "es-419": "Poké Ball Ajena"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour left-poke-ball",
+  "en": "XXX new effect for left-poke-ball"
+ },
+ "flavor": {
+  "ko": "트레이너를 잃은 포켓몬이 들어 있는 볼. 트레이너는 울라울라섬 출신인 듯하다.",
+  "en": "A Poké Ball with a Pokémon that lost its Trainer inside. It seems to be from Ula’ula Island.",
+  "ja": "トレーナーを 失った ポケモンが 入っている ボール。 トレーナーは ウラウラ島 出身 らしい。"
+ }
+}

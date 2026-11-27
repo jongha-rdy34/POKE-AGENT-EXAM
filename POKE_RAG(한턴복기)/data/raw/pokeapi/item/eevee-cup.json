@@ -1,0 +1,20 @@
+{
+ "name": "eevee-cup",
+ "names": {
+  "ja-hrkt": "イーブイカップ",
+  "ko": "이브이 컵",
+  "zh-hant": "伊布水杯",
+  "fr": "Tasse Évoli",
+  "de": "Evoli-Tasse",
+  "es": "Taza Eevee",
+  "it": "Tazza Eevee",
+  "en": "Eevee Cup",
+  "ja": "イーブイカップ",
+  "zh-hans": "伊布水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

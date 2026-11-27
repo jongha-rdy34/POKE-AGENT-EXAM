@@ -1,0 +1,30 @@
+{
+ "name": "sitrus-berry",
+ "names": {
+  "ja-hrkt": "オボンのみ",
+  "ko": "자뭉열매",
+  "zh-hant": "文柚果",
+  "fr": "Baie Sitrus",
+  "de": "Tsitrubeere",
+  "es": "Baya Zidra",
+  "it": "Baccacedro",
+  "en": "Sitrus Berry",
+  "ja": "オボンのみ",
+  "zh-hans": "文柚果",
+  "es-419": "Baya Citrón"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/2 des PV max pour regagner 1/4 des PV max.",
+  "en": "Held: Consumed at 1/2 max HP to recover 1/4 max HP."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by a small amount during battle.",
+  "ko": "포켓몬에게 지니게 하면 HP를 조금 회복한다.",
+  "ja": "ポケモンに 持たせると ＨＰを 少しだけ 回復する。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "battle-bond",
+ "names": {
+  "ja-hrkt": "きずなへんげ",
+  "ko": "유대변화",
+  "zh-hant": "牽絆變身",
+  "fr": "Synergie",
+  "de": "Freundschaftsakt",
+  "es": "Fuerte Afecto",
+  "it": "Morfosintonia",
+  "en": "Battle Bond",
+  "ja": "きずなへんげ",
+  "zh-hans": "牵绊变身",
+  "es-419": "Fuerte Afecto"
+ },
+ "effect": {
+  "en": "Transforms this Pokémon into Ash-Greninja after fainting an opponent.  Water Shuriken's power is 20 and always hits three times."
+ },
+ "flavor": {
+  "ko": "상대를 쓰러뜨리면 트레이너와의 유대감이 깊어져서 지우개굴닌자로 변한다. 물수리검이 강해진다.",
+  "en": "When the Pokémon knocks out a target, its bond with its Trainer is strengthened, and its Attack, Sp. Atk, and Speed stats are boosted."
+ }
+}

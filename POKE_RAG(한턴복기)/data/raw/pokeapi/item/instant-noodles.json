@@ -1,0 +1,25 @@
+{
+ "name": "instant-noodles",
+ "names": {
+  "ja-hrkt": "レトルトめん",
+  "ko": "레토르트면",
+  "zh-hant": "即食麵",
+  "fr": "Nouilles",
+  "de": "Fertignudeln",
+  "es": "Fideos de Bote",
+  "it": "Noodle precotti",
+  "en": "Instant Noodles",
+  "ja": "レトルトめん",
+  "zh-hans": "即食面",
+  "es-419": "Fideos de Bote"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 인스턴트 음식의 맛이 의외로 잘 어울린다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. It has a junk-food sort of taste, but it goes well with curry.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ジャンクフードの テイストが 意外と マッチする。"
+ }
+}

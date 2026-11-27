@@ -1,0 +1,42 @@
+{
+ "id": 313,
+ "name": "volbeat",
+ "names": {
+  "ja-hrkt": "バルビート",
+  "ja-roma": "Barubeat",
+  "ko": "볼비트",
+  "zh-hant": "電螢蟲",
+  "fr": "Muciole",
+  "de": "Volbeat",
+  "es": "Volbeat",
+  "it": "Volbeat",
+  "en": "Volbeat",
+  "ja": "バルビート",
+  "zh-hans": "电萤虫",
+  "es-419": "Volbeat"
+ },
+ "genus": {
+  "ja-hrkt": "ほたるポケモン",
+  "ko": "반딧불포켓몬",
+  "zh-hant": "螢火蟲寶可夢",
+  "fr": "Pokémon Luciole",
+  "de": "Glühwürmchen",
+  "es": "Pokémon Luciérnaga",
+  "it": "Pokémon Lucciola",
+  "en": "Firefly Pokémon",
+  "ja": "ほたるポケモン",
+  "zh-hans": "萤火虫宝可梦",
+  "es-419": "Pokémon Luciérnaga"
+ },
+ "flavor": {
+  "en": "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+  "ko": "꼬리의 불빛을 사용하여 단체로 밤하늘에 기하학적인 도형을 그린다. 네오비트가 내는 달콤한 향기를 매우 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "volbeat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "156"
+}

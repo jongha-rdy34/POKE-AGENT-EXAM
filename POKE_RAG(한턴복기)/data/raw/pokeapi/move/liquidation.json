@@ -1,0 +1,31 @@
+{
+ "name": "liquidation",
+ "names": {
+  "ja-hrkt": "アクアブレイク",
+  "ko": "아쿠아브레이크",
+  "zh-hant": "水流裂破",
+  "fr": "Aqua-Brèche",
+  "de": "Aquadurchstoß",
+  "es": "Hidroariete",
+  "it": "Idrobreccia",
+  "en": "Liquidation",
+  "ja": "アクアブレイク",
+  "zh-hans": "水流裂破",
+  "es-419": "Hidroariete"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 85,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Defense by one stage."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "ko": "물의 힘으로 상대에게 부딪쳐서 공격한다. 상대의 방어를 떨어뜨릴 때가 있다.",
+  "en": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat."
+ }
+}

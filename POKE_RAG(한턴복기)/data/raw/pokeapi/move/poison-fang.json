@@ -1,0 +1,31 @@
+{
+ "name": "poison-fang",
+ "names": {
+  "ja-hrkt": "どくどくのキバ",
+  "ko": "맹독엄니",
+  "zh-hant": "劇毒牙",
+  "fr": "Crochet Venin",
+  "de": "Giftzahn",
+  "es": "Colmillo Veneno",
+  "it": "Velenodenti",
+  "en": "Poison Fang",
+  "ja": "どくどくのキバ",
+  "zh-hans": "剧毒牙",
+  "es-419": "Colmillo Veneno"
+ },
+ "type": "poison",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to badly poison the target."
+ },
+ "effect_chance": 50,
+ "flavor": {
+  "en": "The user bites the target with toxic fangs. This may also leave the target badly poisoned.",
+  "ko": "독이 있는 이빨로 상대를 물어서 공격한다. 맹독을 주입할 때가 있다."
+ }
+}

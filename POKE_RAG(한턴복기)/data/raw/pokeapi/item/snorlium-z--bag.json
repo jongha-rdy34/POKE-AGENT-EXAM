@@ -1,0 +1,28 @@
+{
+ "name": "snorlium-z--bag",
+ "names": {
+  "ja-hrkt": "カビゴンＺ",
+  "ko": "잠만보Z",
+  "zh-hant": "卡比獸Ｚ",
+  "fr": "Ronflézélite",
+  "de": "Relaxonium Z",
+  "es": "Snorlastal Z",
+  "it": "Snorlactium Z",
+  "en": "Snorlium Z",
+  "ja": "カビゴンＺ",
+  "zh-hans": "卡比兽Ｚ",
+  "es-419": "Snorlastal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour snorlium-z--bag",
+  "en": "XXX new effect for snorlium-z--bag"
+ },
+ "flavor": {
+  "ko": "잠만보의 기가임팩트를 특별한 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Snorlax’s Giga Impact to an exclusive Z-Move.",
+  "ja": "カビゴンの ギガインパクトを 特別な Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

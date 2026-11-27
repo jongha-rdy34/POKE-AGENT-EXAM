@@ -1,0 +1,42 @@
+{
+ "id": 679,
+ "name": "honedge",
+ "names": {
+  "ja-hrkt": "ヒトツキ",
+  "ja-roma": "Hitotsuki",
+  "ko": "단칼빙",
+  "zh-hant": "獨劍鞘",
+  "fr": "Monorpale",
+  "de": "Gramokles",
+  "es": "Honedge",
+  "it": "Honedge",
+  "en": "Honedge",
+  "ja": "ヒトツキ",
+  "zh-hans": "独剑鞘",
+  "es-419": "Honedge"
+ },
+ "genus": {
+  "ja-hrkt": "とうけんポケモン",
+  "ko": "도검포켓몬",
+  "zh-hant": "刀劍寶可夢",
+  "fr": "Pokémon Glaive",
+  "de": "Klingenkraft-Pokémon",
+  "es": "Pokémon Tizona",
+  "it": "Pokémon Armabianca",
+  "en": "Sword Pokémon",
+  "ja": "とうけんポケモン",
+  "zh-hans": "刀剑宝可梦",
+  "es-419": "Pokémon Tizona"
+ },
+ "flavor": {
+  "ko": "검의 가드 부분에 있는 푸른 눈동자가 단칼빙의 본체다. 낡은 천으로 사람의 생기를 빨아들인다.",
+  "en": "The blue eye on the sword’s handguard is the true body of Honedge. With its old cloth, it drains people’s lives away."
+ },
+ "varieties": [
+  {
+   "name": "honedge",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "349"
+}

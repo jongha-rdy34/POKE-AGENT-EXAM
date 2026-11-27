@@ -1,0 +1,42 @@
+{
+ "id": 836,
+ "name": "boltund",
+ "names": {
+  "ja-hrkt": "パルスワン",
+  "ja-roma": "Pulsewan",
+  "ko": "펄스멍",
+  "zh-hant": "逐電犬",
+  "fr": "Fulgudog",
+  "de": "Bellektro",
+  "es": "Boltund",
+  "it": "Boltund",
+  "en": "Boltund",
+  "ja": "パルスワン",
+  "zh-hans": "逐电犬",
+  "es-419": "Boltund"
+ },
+ "genus": {
+  "ja-hrkt": "いぬポケモン",
+  "ko": "개포켓몬",
+  "zh-hant": "狗寶可夢",
+  "fr": "Pokémon Chien",
+  "de": "Hunde-Pokémon",
+  "es": "Pokémon Perro",
+  "it": "Pokémon Cane",
+  "en": "Dog Pokémon",
+  "ja": "いぬポケモン",
+  "zh-hans": "狗宝可梦",
+  "es-419": "Pokémon Perro"
+ },
+ "flavor": {
+  "ko": "전기의 힘으로 다릿심을 강하게 키운다. 최고 속도는 시속 90km를 가볍게 넘긴다.",
+  "en": "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph."
+ },
+ "varieties": [
+  {
+   "name": "boltund",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "440"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "damp",
+ "names": {
+  "ja-hrkt": "しめりけ",
+  "ko": "습기",
+  "zh-hant": "濕氣",
+  "fr": "Moiteur",
+  "de": "Feuchtigkeit",
+  "es": "Humedad",
+  "it": "Umidità",
+  "en": "Damp",
+  "ja": "しめりけ",
+  "zh-hans": "湿气",
+  "es-419": "Humedad"
+ },
+ "effect": {
+  "en": "Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle."
+ },
+ "flavor": {
+  "en": "The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct.",
+  "ko": "주변을 습하게 함으로써 자폭 등 폭발하는 기술을 아무도 못 쓰게 한다."
+ }
+}

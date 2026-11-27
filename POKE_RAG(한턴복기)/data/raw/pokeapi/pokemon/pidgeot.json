@@ -1,0 +1,67 @@
+{
+ "id": 18,
+ "name": "pidgeot",
+ "species": "pidgeot",
+ "is_default": true,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 83,
+  "attack": 80,
+  "defense": 75,
+  "special-attack": 70,
+  "special-defense": 70,
+  "speed": 101
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "tangled-feet",
+   "hidden": false
+  },
+  {
+   "name": "big-pecks",
+   "hidden": true
+  }
+ ],
+ "height": 15,
+ "weight": 395,
+ "champions_moves": [
+  "aerial-ace",
+  "agility",
+  "air-slash",
+  "attract",
+  "brave-bird",
+  "dual-wingbeat",
+  "endure",
+  "facade",
+  "feather-dance",
+  "fly",
+  "giga-impact",
+  "heat-wave",
+  "hurricane",
+  "hyper-beam",
+  "protect",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "roost",
+  "round",
+  "sky-attack",
+  "sleep-talk",
+  "snore",
+  "steel-wing",
+  "substitute",
+  "sunny-day",
+  "tailwind",
+  "thief",
+  "u-turn",
+  "uproar",
+  "whirlwind"
+ ]
+}

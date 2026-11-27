@@ -1,0 +1,23 @@
+{
+ "name": "gourgeist-small",
+ "form_name": "small",
+ "names": {
+  "fr": "Banshitrouye Mini",
+  "de": "Pumpdjinn (S)",
+  "en": "Small Gourgeist"
+ },
+ "form_names": {
+  "ja-hrkt": "ちいさいサイズ",
+  "ko": "작은 사이즈",
+  "zh-hant": "小尺寸",
+  "fr": "Taille Mini",
+  "de": "Größe S",
+  "es": "Tamaño Pequeño",
+  "it": "Mini",
+  "en": "Small Size",
+  "ja": "ちいさいサイズ",
+  "zh-hans": "小尺寸",
+  "es-419": "Tamaño Pequeño"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,20 @@
+{
+ "name": "meganiumite",
+ "names": {
+  "ko": "메가니움나이트",
+  "zh-hant": "大竺葵進化石",
+  "fr": "Méganiumite",
+  "de": "Meganienit",
+  "es": "Meganiumita",
+  "it": "Meganiumite",
+  "en": "Meganiumite",
+  "ja": "メガニウムナイト",
+  "zh-hans": "大竺葵进化石",
+  "es-419": "Meganiumita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

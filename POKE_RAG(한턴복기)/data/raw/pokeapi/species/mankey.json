@@ -1,0 +1,42 @@
+{
+ "id": 56,
+ "name": "mankey",
+ "names": {
+  "ja-hrkt": "マンキー",
+  "ja-roma": "Mankey",
+  "ko": "망키",
+  "zh-hant": "猴怪",
+  "fr": "Férosinge",
+  "de": "Menki",
+  "es": "Mankey",
+  "it": "Mankey",
+  "en": "Mankey",
+  "ja": "マンキー",
+  "zh-hans": "猴怪",
+  "es-419": "Mankey"
+ },
+ "genus": {
+  "ja-hrkt": "ぶたざるポケモン",
+  "ko": "돈숭이포켓몬",
+  "zh-hant": "豬猴寶可夢",
+  "fr": "Pokémon Porsinge",
+  "de": "Schwein/Affe",
+  "es": "Pokémon Mono Cerdo",
+  "it": "Pokémon Suinpanzé",
+  "en": "Pig Monkey Pokémon",
+  "ja": "ぶたざるポケモン",
+  "zh-hans": "猪猴宝可梦",
+  "es-419": "Pokémon Mono Cerdo"
+ },
+ "flavor": {
+  "en": "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.",
+  "ko": "몸이 가벼워 나무 위에서 생활한다. 사소한 일로 기분이 나빠져 주변에 있는 것에 덤벼든다."
+ },
+ "varieties": [
+  {
+   "name": "mankey",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "24"
+}

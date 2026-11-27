@@ -1,0 +1,20 @@
+{
+ "name": "tm146",
+ "names": {
+  "ja-hrkt": "わざマシン１４６",
+  "ko": "기술머신146",
+  "zh-hant": "招式學習器１４６",
+  "fr": "CT146",
+  "de": "TM146",
+  "es": "MT146",
+  "it": "MT146",
+  "en": "TM146",
+  "ja": "わざマシン１４６",
+  "zh-hans": "招式学习器１４６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

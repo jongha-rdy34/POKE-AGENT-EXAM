@@ -1,0 +1,20 @@
+{
+ "name": "red-flag-pick",
+ "names": {
+  "ja-hrkt": "あかいはたピック",
+  "ko": "빨강 깃발 픽",
+  "zh-hant": "紅旗子三明治籤",
+  "fr": "Pique à Fanion Rouge",
+  "de": "Rotfahnen-Pikser",
+  "es": "Palillo Bandera Roja",
+  "it": "Bandierina rossa",
+  "en": "Red-Flag Pick",
+  "ja": "あかいはたピック",
+  "zh-hans": "红旗子三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

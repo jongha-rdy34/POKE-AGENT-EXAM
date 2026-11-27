@@ -1,0 +1,25 @@
+{
+ "name": "meltan-candy",
+ "names": {
+  "ja-hrkt": "メルタンのアメ",
+  "ko": "멜탄의사탕",
+  "zh-hant": "美錄坦的糖果",
+  "fr": "Bonbon Meltan",
+  "de": "Meltan-Bonbon",
+  "es": "Caramelo Meltan",
+  "it": "Caramella Meltan",
+  "en": "Meltan Candy",
+  "ja": "メルタンのアメ",
+  "zh-hans": "美录坦的糖果",
+  "es-419": "Caramelo Meltan"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

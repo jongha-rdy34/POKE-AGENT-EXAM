@@ -1,0 +1,28 @@
+{
+ "name": "incinium-z--held",
+ "names": {
+  "ja-hrkt": "ガオガエンＺ",
+  "ko": "어흥염Z",
+  "zh-hant": "熾焰咆哮虎Ｚ",
+  "fr": "Félinozélite",
+  "de": "Fuegronium Z",
+  "es": "Incinostal Z",
+  "it": "Incineronium Z",
+  "en": "Incinium Z",
+  "ja": "ガオガエンＺ",
+  "zh-hans": "炽焰咆哮虎Ｚ",
+  "es-419": "Incinostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Félinferno d'améliorer Dark Lariat en Dark Body Press.",
+  "en": "Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 어흥염의 DD래리어트를 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Incineroar’s Darkest Lariat to a Z-Move.",
+  "ja": "Ｚパワーの 結晶。 ガオガエンの ＤＤラリアットを Ｚワザに グレードアップする。"
+ }
+}

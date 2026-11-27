@@ -1,0 +1,46 @@
+{
+ "id": 869,
+ "name": "alcremie",
+ "names": {
+  "ja-hrkt": "マホイップ",
+  "ja-roma": "Mawhip",
+  "ko": "마휘핑",
+  "zh-hant": "霜奶仙",
+  "fr": "Charmilly",
+  "de": "Pokusan",
+  "es": "Alcremie",
+  "it": "Alcremie",
+  "en": "Alcremie",
+  "ja": "マホイップ",
+  "zh-hans": "霜奶仙",
+  "es-419": "Alcremie"
+ },
+ "genus": {
+  "ja-hrkt": "クリームポケモン",
+  "ko": "크림포켓몬",
+  "zh-hant": "鮮奶油寶可夢",
+  "fr": "Pokémon Crème",
+  "de": "Sahne-Pokémon",
+  "es": "Pokémon Nata",
+  "it": "Pokémon Pannafresca",
+  "en": "Cream Pokémon",
+  "ja": "クリームポケモン",
+  "zh-hans": "鲜奶油宝可梦",
+  "es-419": "Pokémon Nata"
+ },
+ "flavor": {
+  "ko": "손에서 나오는 크림은 마휘핑이 행복할 때 단맛과 감칠맛이 깊어진다.",
+  "en": "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer."
+ },
+ "varieties": [
+  {
+   "name": "alcremie",
+   "is_default": true
+  },
+  {
+   "name": "alcremie-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "452"
+}

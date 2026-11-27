@@ -1,0 +1,31 @@
+{
+ "name": "substitute",
+ "names": {
+  "ja-hrkt": "みがわり",
+  "ko": "대타출동",
+  "zh-hant": "替身",
+  "fr": "Clonage",
+  "de": "Delegator",
+  "es": "Sustituto",
+  "it": "Sostituto",
+  "en": "Substitute",
+  "ja": "みがわり",
+  "zh-hans": "替身",
+  "es-419": "Sustituto"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Transfers 1/4 of the user’s max HP into a doll, protecting the user from further damage or status changes until it breaks."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy.",
+  "ko": "자신의 HP를 조금 깎아서 분신을 만든다. 분신은 자신의 대타가 된다."
+ }
+}

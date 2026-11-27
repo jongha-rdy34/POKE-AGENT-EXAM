@@ -1,0 +1,28 @@
+{
+ "name": "roto-catch",
+ "names": {
+  "ja-hrkt": "つかまえポン",
+  "ko": "잡기캡슐토이",
+  "zh-hant": "捕捉碰碰",
+  "fr": "Moti-Capture",
+  "de": "Fangbon",
+  "es": "Cupón Captura",
+  "it": "Acchiappa’n’roll",
+  "en": "Roto Catch",
+  "ja": "つかまえポン",
+  "zh-hans": "捕捉碰碰",
+  "es-419": "Cupón Captura"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-catch",
+  "en": "XXX new effect for roto-catch"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 사용하면 눈앞에 있는 야생 포켓몬을 매우 잡기 쉬워진다.",
+  "en": "One of the Rotom Powers. It increases the chance to catch Pokémon a lot.",
+  "ja": "ロトムパワーの ひとつ。 使うと 目の前にいる 野生ポケモンが とても 捕まえやすくなる。"
+ }
+}

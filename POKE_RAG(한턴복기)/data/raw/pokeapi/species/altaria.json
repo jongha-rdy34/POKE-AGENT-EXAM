@@ -1,0 +1,46 @@
+{
+ "id": 334,
+ "name": "altaria",
+ "names": {
+  "ja-hrkt": "チルタリス",
+  "ja-roma": "Tyltalis",
+  "ko": "파비코리",
+  "zh-hant": "七夕青鳥",
+  "fr": "Altaria",
+  "de": "Altaria",
+  "es": "Altaria",
+  "it": "Altaria",
+  "en": "Altaria",
+  "ja": "チルタリス",
+  "zh-hans": "七夕青鸟",
+  "es-419": "Altaria"
+ },
+ "genus": {
+  "ja-hrkt": "ハミングポケモン",
+  "ko": "허밍포켓몬",
+  "zh-hant": "哼唱寶可夢",
+  "fr": "Pokémon Virevolteur",
+  "de": "Summsel-Pokémon",
+  "es": "Pokémon Cantor",
+  "it": "Pokémon Canterino",
+  "en": "Humming Pokémon",
+  "ja": "ハミングポケモン",
+  "zh-hans": "哼唱宝可梦",
+  "es-419": "Pokémon Cantor"
+ },
+ "flavor": {
+  "en": "This Pokémon has a kind disposition, but if it’s provoked, it will threaten opponents with shrill cries before attacking them without mercy.",
+  "ko": "온순한 성질이지만 화나게 하면 날카로운 울음소리로 위협하며 가차 없이 공격한다."
+ },
+ "varieties": [
+  {
+   "name": "altaria",
+   "is_default": true
+  },
+  {
+   "name": "altaria-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "168"
+}

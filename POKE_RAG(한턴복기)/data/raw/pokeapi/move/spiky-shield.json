@@ -1,0 +1,31 @@
+{
+ "name": "spiky-shield",
+ "names": {
+  "ja-hrkt": "ニードルガード",
+  "ko": "니들가드",
+  "zh-hant": "尖刺防守",
+  "fr": "Pico-Défense",
+  "de": "Schutzstacheln",
+  "es": "Barrera Espinosa",
+  "it": "Agodifesa",
+  "en": "Spiky Shield",
+  "ja": "ニードルガード",
+  "zh-hans": "尖刺防守",
+  "es-419": "Barrera Espinosa"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 4,
+ "target": "user",
+ "effect": {
+  "en": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대의 공격을 막음과 동시에 접촉한 상대의 체력을 떨어뜨린다.",
+  "en": "In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact."
+ }
+}

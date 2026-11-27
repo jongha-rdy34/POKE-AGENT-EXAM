@@ -1,0 +1,26 @@
+{
+ "id": 10309,
+ "name": "garchomp-mega-z",
+ "species": "garchomp",
+ "is_default": false,
+ "types": [
+  "dragon"
+ ],
+ "stats": {
+  "hp": 108,
+  "attack": 130,
+  "defense": 85,
+  "special-attack": 141,
+  "special-defense": 85,
+  "speed": 151
+ },
+ "abilities": [
+  {
+   "name": "levitate",
+   "hidden": false
+  }
+ ],
+ "height": 19,
+ "weight": 990,
+ "champions_moves": []
+}

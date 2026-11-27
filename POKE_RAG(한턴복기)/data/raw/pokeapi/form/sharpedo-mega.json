@@ -1,0 +1,23 @@
+{
+ "name": "sharpedo-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Sharpedo",
+  "de": "Mega-Tohaido",
+  "en": "Mega Sharpedo"
+ },
+ "form_names": {
+  "ja-hrkt": "メガサメハダー",
+  "ko": "메가샤크니아",
+  "zh-hant": "超級巨牙鯊",
+  "fr": "Méga-Sharpedo",
+  "de": "Mega-Form",
+  "es": "Mega-Sharpedo",
+  "it": "MegaSharpedo",
+  "en": "Mega Sharpedo",
+  "ja": "メガサメハダー",
+  "zh-hans": "超级巨牙鲨",
+  "es-419": "Mega-Sharpedo"
+ },
+ "is_mega": true
+}

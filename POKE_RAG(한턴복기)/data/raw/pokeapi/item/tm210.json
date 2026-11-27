@@ -1,0 +1,19 @@
+{
+ "name": "tm210",
+ "names": {
+  "ko": "기술머신210",
+  "zh-hant": "招式學習器２１０",
+  "fr": "CT210",
+  "de": "TM210",
+  "es": "MT210",
+  "it": "MT210",
+  "en": "TM210",
+  "ja": "わざマシン２１０",
+  "zh-hans": "招式学习器２１０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

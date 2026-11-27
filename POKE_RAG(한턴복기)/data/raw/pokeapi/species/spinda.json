@@ -1,0 +1,42 @@
+{
+ "id": 327,
+ "name": "spinda",
+ "names": {
+  "ja-hrkt": "パッチール",
+  "ja-roma": "Patcheel",
+  "ko": "얼루기",
+  "zh-hant": "晃晃斑",
+  "fr": "Spinda",
+  "de": "Pandir",
+  "es": "Spinda",
+  "it": "Spinda",
+  "en": "Spinda",
+  "ja": "パッチール",
+  "zh-hans": "晃晃斑",
+  "es-419": "Spinda"
+ },
+ "genus": {
+  "ja-hrkt": "ぶちパンダポケモン",
+  "ko": "얼룩팬더포켓몬",
+  "zh-hant": "斑點熊貓寶可夢",
+  "fr": "Pokémon Panda Tache",
+  "de": "Punkt-Panda",
+  "es": "Pokémon Panda Topos",
+  "it": "Pokémon Macchipanda",
+  "en": "Spot Panda Pokémon",
+  "ja": "ぶちパンダポケモン",
+  "zh-hans": "斑点熊猫宝可梦",
+  "es-419": "Pokémon Panda Topos"
+ },
+ "flavor": {
+  "en": "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
+  "ko": "개체마다 얼룩무늬가 다르다. 비틀거리는 움직임으로 상대의 공격을 절묘하게 피한다."
+ },
+ "varieties": [
+  {
+   "name": "spinda",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "165"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "lotad-leaf",
+ "names": {
+  "ja-hrkt": "ハスボーのはっぱ",
+  "ko": "연꽃몬의잎",
+  "zh-hant": "蓮葉童子的葉片",
+  "fr": "Feuille de Nénupiot",
+  "de": "Loturzel-Blatt",
+  "es": "Hoja de Lotad",
+  "it": "Foglia di Lotad",
+  "en": "Lotad Leaf",
+  "ja": "ハスボーのはっぱ",
+  "zh-hans": "莲叶童子的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

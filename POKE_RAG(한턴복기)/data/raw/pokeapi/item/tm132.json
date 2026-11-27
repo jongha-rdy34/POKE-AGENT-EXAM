@@ -1,0 +1,20 @@
+{
+ "name": "tm132",
+ "names": {
+  "ja-hrkt": "わざマシン１３２",
+  "ko": "기술머신132",
+  "zh-hant": "招式學習器１３２",
+  "fr": "CT132",
+  "de": "TM132",
+  "es": "MT132",
+  "it": "MT132",
+  "en": "TM132",
+  "ja": "わざマシン１３２",
+  "zh-hans": "招式学习器１３２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

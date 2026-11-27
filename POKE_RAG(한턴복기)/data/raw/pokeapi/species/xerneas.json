@@ -1,0 +1,42 @@
+{
+ "id": 716,
+ "name": "xerneas",
+ "names": {
+  "ja-hrkt": "ゼルネアス",
+  "ja-roma": "Xerneas",
+  "ko": "제르네아스",
+  "zh-hant": "哲爾尼亞斯",
+  "fr": "Xerneas",
+  "de": "Xerneas",
+  "es": "Xerneas",
+  "it": "Xerneas",
+  "en": "Xerneas",
+  "ja": "ゼルネアス",
+  "zh-hans": "哲尔尼亚斯",
+  "es-419": "Xerneas"
+ },
+ "genus": {
+  "ja-hrkt": "せいめいポケモン",
+  "ko": "생명포켓몬",
+  "zh-hant": "生命寶可夢",
+  "fr": "Pokémon Existence",
+  "de": "Lebens-Pokémon",
+  "es": "Pokémon Creación",
+  "it": "Pokémon Creazione",
+  "en": "Life Pokémon",
+  "ja": "せいめいポケモン",
+  "zh-hans": "生命宝可梦",
+  "es-419": "Pokémon Creación"
+ },
+ "flavor": {
+  "ko": "머리의 뿔이 일곱 빛깔로 빛날 때 영원한 생명을 나눠준다고 전해진다.",
+  "en": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life."
+ },
+ "varieties": [
+  {
+   "name": "xerneas",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "368"
+}

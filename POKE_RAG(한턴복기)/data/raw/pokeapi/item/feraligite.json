@@ -1,0 +1,20 @@
+{
+ "name": "feraligite",
+ "names": {
+  "ko": "장크로다일나이트",
+  "zh-hant": "大力鱷進化石",
+  "fr": "Aligatueurite",
+  "de": "Impergatornit",
+  "es": "Feraligatrita",
+  "it": "Feraligatrite",
+  "en": "Feraligite",
+  "ja": "オーダイルナイト",
+  "zh-hans": "大力鳄进化石",
+  "es-419": "Feraligatrita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

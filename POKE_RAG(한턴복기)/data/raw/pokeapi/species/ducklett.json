@@ -1,0 +1,42 @@
+{
+ "id": 580,
+ "name": "ducklett",
+ "names": {
+  "ja-hrkt": "コアルヒー",
+  "ja-roma": "Koaruhie",
+  "ko": "꼬지보리",
+  "zh-hant": "鴨寶寶",
+  "fr": "Couaneton",
+  "de": "Piccolente",
+  "es": "Ducklett",
+  "it": "Ducklett",
+  "en": "Ducklett",
+  "ja": "コアルヒー",
+  "zh-hans": "鸭宝宝",
+  "es-419": "Ducklett"
+ },
+ "genus": {
+  "ja-hrkt": "みずどりポケモン",
+  "ko": "물새포켓몬",
+  "zh-hant": "水鳥寶可夢",
+  "fr": "Pokémon Oiseaudo",
+  "de": "Wasservogel",
+  "es": "Pokémon Ave Agua",
+  "it": "Pokémon Alacquatico",
+  "en": "Water Bird Pokémon",
+  "ja": "みずどりポケモン",
+  "zh-hans": "水鸟宝可梦",
+  "es-419": "Pokémon Ave Agua"
+ },
+ "flavor": {
+  "en": "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
+  "ko": "나는 것보다 헤엄치는 것이 특기로 수중에 잠수해서는 제일 좋아하는 물이끼를 기쁘게 먹는다."
+ },
+ "varieties": [
+  {
+   "name": "ducklett",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "295"
+}

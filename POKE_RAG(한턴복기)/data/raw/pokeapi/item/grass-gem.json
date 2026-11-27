@@ -1,0 +1,28 @@
+{
+ "name": "grass-gem",
+ "names": {
+  "ja-hrkt": "くさのジュエル",
+  "ko": "풀주얼",
+  "zh-hant": "草之寶石",
+  "fr": "Joyau Plante",
+  "de": "Pflanzenjuwel",
+  "es": "Gema Planta",
+  "it": "Bijouerba",
+  "en": "Grass Gem",
+  "ja": "くさのジュエル",
+  "zh-hans": "草之宝石",
+  "es-419": "Gema Planta"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Plante, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Grass-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of nature. When held, it strengthens the power of a Grass-type move one time.",
+  "ko": "풀타입의 주얼. 지니게 하면 한 번만 풀 기술의 위력이 강해진다.",
+  "ja": "くさの タイプの ジュエル。 持たせると １度だけ くさの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "buginium-z--bag",
+ "names": {
+  "ja-hrkt": "ムシＺ",
+  "ko": "벌레Z",
+  "zh-hant": "蟲Ｚ",
+  "fr": "Insectozélite",
+  "de": "Insectium Z",
+  "es": "Insectostal Z",
+  "it": "Insectium Z",
+  "en": "Buginium Z",
+  "ja": "ムシＺ",
+  "zh-hans": "虫Ｚ",
+  "es-419": "Insectostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour buginium-z--bag",
+  "en": "XXX new effect for buginium-z--bag"
+ },
+ "flavor": {
+  "ko": "벌레타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Bug-type moves to Bug-type Z-Moves.",
+  "ja": "むしタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

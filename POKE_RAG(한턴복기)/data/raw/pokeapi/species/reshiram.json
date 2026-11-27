@@ -1,0 +1,42 @@
+{
+ "id": 643,
+ "name": "reshiram",
+ "names": {
+  "ja-hrkt": "レシラム",
+  "ja-roma": "Reshiram",
+  "ko": "레시라무",
+  "zh-hant": "萊希拉姆",
+  "fr": "Reshiram",
+  "de": "Reshiram",
+  "es": "Reshiram",
+  "it": "Reshiram",
+  "en": "Reshiram",
+  "ja": "レシラム",
+  "zh-hans": "莱希拉姆",
+  "es-419": "Reshiram"
+ },
+ "genus": {
+  "ja-hrkt": "はくようポケモン",
+  "ko": "백양포켓몬",
+  "zh-hant": "白陽寶可夢",
+  "fr": "Pokémon Blanc Réel",
+  "de": "Wahres Weiß-Pokémon",
+  "es": "Pokémon Blanco Veraz",
+  "it": "Pokémon Bianco Verità",
+  "en": "Vast White Pokémon",
+  "ja": "はくようポケモン",
+  "zh-hans": "白阳宝可梦",
+  "es-419": "Pokémon Blanco Veraz"
+ },
+ "flavor": {
+  "en": "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down.",
+  "ko": "사람이 진실을 모른 체하고 욕심으로 가득 차면 불꽃으로 나라를 태워버린다는 신화가 있다."
+ },
+ "varieties": [
+  {
+   "name": "reshiram",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "330"
+}

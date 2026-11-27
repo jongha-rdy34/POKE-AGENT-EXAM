@@ -1,0 +1,25 @@
+{
+ "name": "lure",
+ "names": {
+  "ja-hrkt": "むしよせコロン",
+  "ko": "벌레유인코롱",
+  "zh-hant": "引蟲香水",
+  "fr": "Parfum",
+  "de": "Lockparfüm",
+  "es": "Colonia",
+  "it": "Profumo invito",
+  "en": "Lure",
+  "ja": "むしよせコロン",
+  "zh-hans": "引虫香水",
+  "es-419": "Colonia"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용하면 잠시 동안 희귀한 포켓몬이 나오기 쉬워지는 향수.",
+  "en": "A glass bottle of perfume that makes rare Pokémon more likely to appear.",
+  "ja": "使うと 少しの あいだ 珍しい ポケモンが 出て きやすく なる 香水。"
+ }
+}

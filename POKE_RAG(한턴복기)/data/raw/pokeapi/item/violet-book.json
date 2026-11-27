@@ -1,0 +1,20 @@
+{
+ "name": "violet-book",
+ "names": {
+  "ja-hrkt": "バイオレットブック",
+  "ko": "바이올렛북",
+  "zh-hant": "紫之書",
+  "fr": "Livre Violet",
+  "de": "Purpurbuch",
+  "es": "Libro Púrpura",
+  "it": "Libro violetto",
+  "en": "Violet Book",
+  "ja": "バイオレットブック",
+  "zh-hans": "紫之书"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

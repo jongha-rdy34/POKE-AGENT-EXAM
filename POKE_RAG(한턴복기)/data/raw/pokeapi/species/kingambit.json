@@ -1,0 +1,37 @@
+{
+ "id": 983,
+ "name": "kingambit",
+ "names": {
+  "ja-hrkt": "ドドゲザン",
+  "ja-roma": "Dodogezan",
+  "ko": "대도각참",
+  "zh-hant": "仆刀將軍",
+  "fr": "Scalpereur",
+  "de": "Gladimperio",
+  "es": "Kingambit",
+  "it": "Kingambit",
+  "en": "Kingambit",
+  "ja": "ドドゲザン",
+  "zh-hans": "仆刀将军",
+  "es-419": "Kingambit"
+ },
+ "genus": {
+  "ja-hrkt": "だいとうポケモン",
+  "ko": "대도포켓몬",
+  "zh-hant": "大刀寶可夢",
+  "fr": "Pourfendant",
+  "de": "Langschwert",
+  "en": "Big Blade Pokémon",
+  "zh-hans": "大刀宝可梦"
+ },
+ "flavor": {
+  "en": "Though it commands a massive army in battle, it’s not skilled at devising complex strategies. It just uses brute strength to keep pushing."
+ },
+ "varieties": [
+  {
+   "name": "kingambit",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "317"
+}

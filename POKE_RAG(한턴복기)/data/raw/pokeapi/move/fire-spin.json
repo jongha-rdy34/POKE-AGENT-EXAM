@@ -1,0 +1,31 @@
+{
+ "name": "fire-spin",
+ "names": {
+  "ja-hrkt": "ほのおのうず",
+  "ko": "회오리불꽃",
+  "zh-hant": "火焰旋渦",
+  "fr": "Danse Flammes",
+  "de": "Feuerwirbel",
+  "es": "Giro Fuego",
+  "it": "Turbofuoco",
+  "en": "Fire Spin",
+  "ja": "ほのおのうず",
+  "zh-hans": "火焰旋涡",
+  "es-419": "Giro Fuego"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 35,
+ "accuracy": 85,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from fleeing and inflicts damage for 2-5 turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user traps the target inside a fierce vortex of fire that inflicts damage for four to five turns.",
+  "ko": "세차게 소용돌이치는 불꽃 속에 4-5턴 동안 상대를 가두어 공격한다."
+ }
+}

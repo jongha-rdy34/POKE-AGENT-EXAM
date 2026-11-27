@@ -1,0 +1,34 @@
+{
+ "name": "max-elixir",
+ "names": {
+  "ja-hrkt": "ピーピーマックス",
+  "ko": "PP맥스",
+  "zh-hant": "ＰＰ多項全補劑",
+  "fr": "Élixir Max",
+  "de": "Top-Elixier",
+  "es": "Elixir Máximo",
+  "it": "Elisir Max",
+  "en": "Max Elixir",
+  "ja": "ピーピーマックス",
+  "zh-hans": "ＰＰ多项全补剂",
+  "es-419": "Elixir Máximo"
+ },
+ "category": "pp-recovery",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure tous les PP de toutes les capacités.",
+  "en": "Restores PP to full for each move."
+ },
+ "flavor": {
+  "en": "This medicine can be used to fully restore the PP of all of the moves that have been learned by a Pokémon.",
+  "ko": "포켓몬이 기억하고 있는 4개 기술의 PP를 모두 회복한다.",
+  "ja": "ポケモンが 覚えている ４つの 技の ＰＰを すべて 回復する。"
+ }
+}

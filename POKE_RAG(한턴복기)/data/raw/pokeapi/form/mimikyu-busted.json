@@ -1,0 +1,23 @@
+{
+ "name": "mimikyu-busted",
+ "form_name": "busted",
+ "names": {
+  "fr": "Mimiqui Forme Démasquée",
+  "de": "Mimigma (Entlarvt)",
+  "en": "Busted Mimikyu"
+ },
+ "form_names": {
+  "ja-hrkt": "ばれたすがた",
+  "ko": "들킨 모습",
+  "zh-hant": "現形的樣子",
+  "fr": "Forme Démasquée",
+  "de": "Entlarvte Form",
+  "es": "Forma Descubierta",
+  "it": "Forma Smascherata",
+  "en": "Busted Form",
+  "ja": "ばれたすがた",
+  "zh-hans": "现形的样子",
+  "es-419": "Forma Descubierta"
+ },
+ "is_mega": false
+}

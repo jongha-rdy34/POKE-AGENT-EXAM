@@ -1,0 +1,20 @@
+{
+ "name": "sableye-gem",
+ "names": {
+  "ja-hrkt": "ヤミラミのほうせき",
+  "ko": "깜까미의보석",
+  "zh-hant": "勾魂眼的寶石",
+  "fr": "Joyau de Ténéfix",
+  "de": "Zobiris-Edelstein",
+  "es": "Gema de Sableye",
+  "it": "Gemma di Sableye",
+  "en": "Sableye Gem",
+  "ja": "ヤミラミのほうせき",
+  "zh-hans": "勾魂眼的宝石"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

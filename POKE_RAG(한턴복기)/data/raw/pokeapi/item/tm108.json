@@ -1,0 +1,20 @@
+{
+ "name": "tm108",
+ "names": {
+  "ja-hrkt": "わざマシン１０８",
+  "ko": "기술머신108",
+  "zh-hant": "招式學習器１０８",
+  "fr": "CT108",
+  "de": "TM108",
+  "es": "MT108",
+  "it": "MT108",
+  "en": "TM108",
+  "ja": "わざマシン１０８",
+  "zh-hans": "招式学习器１０８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

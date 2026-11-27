@@ -1,0 +1,42 @@
+{
+ "id": 592,
+ "name": "frillish",
+ "names": {
+  "ja-hrkt": "プルリル",
+  "ja-roma": "Pururill",
+  "ko": "탱그릴",
+  "zh-hant": "輕飄飄",
+  "fr": "Viskuse",
+  "de": "Quabbel",
+  "es": "Frillish",
+  "it": "Frillish",
+  "en": "Frillish",
+  "ja": "プルリル",
+  "zh-hans": "轻飘飘",
+  "es-419": "Frillish"
+ },
+ "genus": {
+  "ja-hrkt": "ふゆうポケモン",
+  "ko": "부유포켓몬",
+  "zh-hant": "漂浮寶可夢",
+  "fr": "Pokémon Flottaison",
+  "de": "Gleit-Pokémon",
+  "es": "Pokémon Ingrávido",
+  "it": "Pokémon Fluttuante",
+  "en": "Floating Pokémon",
+  "ja": "ふゆうポケモン",
+  "zh-hans": "漂浮宝可梦",
+  "es-419": "Pokémon Ingrávido"
+ },
+ "flavor": {
+  "en": "Legend has it that the residents of a sunken ancient city changed into these Pokémon.",
+  "ko": "해저에 가라앉은 고대 도시의 주민이 포켓몬이 되었다는 전설이 남아 있다."
+ },
+ "varieties": [
+  {
+   "name": "frillish-male",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "301"
+}

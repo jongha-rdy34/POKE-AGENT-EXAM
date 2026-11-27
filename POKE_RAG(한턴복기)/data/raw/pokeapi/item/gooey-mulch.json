@@ -1,0 +1,28 @@
+{
+ "name": "gooey-mulch",
+ "names": {
+  "ja-hrkt": "ねばねばこやし",
+  "ko": "끈적끈적비료",
+  "zh-hant": "黏黏肥",
+  "fr": "Fertiglu",
+  "de": "Neumulch",
+  "es": "Abono Brote",
+  "it": "Fertilcolla",
+  "en": "Gooey Mulch",
+  "ja": "ねばねばこやし",
+  "zh-hans": "粘粘肥",
+  "es-419": "Abono Brote"
+ },
+ "category": "mulch",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Les baies repoussent à partir de plantes mortes un plus grand nombre de fois.",
+  "en": "Berries regrow from dead plants an increased number of times."
+ },
+ "flavor": {
+  "en": "A fertilizer for growing Berries. However, it appears to be unsuitable for the soil in the Hoenn region and has no effect.",
+  "ko": "나무열매를 키울 때 사용하는 비료. 그러나 호연지방의 흙에는 전혀 맞지 않기에 효과가 없다.",
+  "ja": "きのみを 育てるときの 肥料。 しかし ホウエン地方の 土には まるで なじまないので 効果が ない。"
+ }
+}

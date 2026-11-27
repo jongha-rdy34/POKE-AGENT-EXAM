@@ -1,0 +1,28 @@
+{
+ "name": "light-stone",
+ "names": {
+  "ja-hrkt": "ライトストーン",
+  "ko": "라이트스톤",
+  "zh-hant": "光明石",
+  "fr": "Galet Blanc",
+  "de": "Lichtstein",
+  "es": "Orbe Claro",
+  "it": "Chiarolite",
+  "en": "Light Stone",
+  "ja": "ライトストーン",
+  "zh-hans": "光明石",
+  "es-419": "Orbe Claro"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Reshiram pour le combat final contre N.",
+  "en": "Summons Reshiram for the final battle against N."
+ },
+ "flavor": {
+  "en": "Reshiram’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero.",
+  "ko": "레시라무의 육체가 허물어져 변화한 모습. 영웅의 등장을 기다린다고 여겨진다.",
+  "ja": "レシラムの 肉体が 滅び 変化した 姿。 英雄の 登場を 待っていると される。"
+ }
+}

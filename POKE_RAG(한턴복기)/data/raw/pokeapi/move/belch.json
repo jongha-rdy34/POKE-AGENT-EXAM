@@ -1,0 +1,31 @@
+{
+ "name": "belch",
+ "names": {
+  "ja-hrkt": "ゲップ",
+  "ko": "트림",
+  "zh-hant": "打嗝",
+  "fr": "Éructation",
+  "de": "Rülpser",
+  "es": "Eructo",
+  "it": "Rutto",
+  "en": "Belch",
+  "ja": "ゲップ",
+  "zh-hans": "打嗝",
+  "es-419": "Eructo"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 120,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Can only be used after the user has eaten a berry."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대를 향해 트림을 하여 데미지를 준다. 나무열매를 먹지 않으면 쓸 수 없다.",
+  "en": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "zygardite",
+ "names": {
+  "ko": "지가르데나이트",
+  "zh-hant": "基格爾德進化石",
+  "fr": "Zygardite",
+  "de": "Zygardenit",
+  "es": "Zygardita",
+  "it": "Zygardite",
+  "en": "Zygardite",
+  "ja": "ジガルデナイト",
+  "zh-hans": "基格尔德进化石",
+  "es-419": "Zygardita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 344,
+ "name": "claydol",
+ "names": {
+  "ja-hrkt": "ネンドール",
+  "ja-roma": "Nendoll",
+  "ko": "점토도리",
+  "zh-hant": "念力土偶",
+  "fr": "Kaorine",
+  "de": "Lepumentas",
+  "es": "Claydol",
+  "it": "Claydol",
+  "en": "Claydol",
+  "ja": "ネンドール",
+  "zh-hans": "念力土偶",
+  "es-419": "Claydol"
+ },
+ "genus": {
+  "ja-hrkt": "どぐうポケモン",
+  "ko": "토우포켓몬",
+  "zh-hant": "泥偶寶可夢",
+  "fr": "Pokémon Poupargile",
+  "de": "Lehmpuppen-Pokémon",
+  "es": "Pokémon Muñeca Barro",
+  "it": "Pokémon Argilla",
+  "en": "Clay Doll Pokémon",
+  "ja": "どぐうポケモン",
+  "zh-hans": "泥偶宝可梦",
+  "es-419": "Pokémon Muñeca Barro"
+ },
+ "flavor": {
+  "en": "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move.",
+  "ko": "고대인의 진흙인형에서 태어난 것 같다. 염력을 사용해 공중을 떠다닌다."
+ },
+ "varieties": [
+  {
+   "name": "claydol",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "175"
+}

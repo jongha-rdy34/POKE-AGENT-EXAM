@@ -1,0 +1,34 @@
+{
+ "id": 317,
+ "name": "swalot",
+ "species": "swalot",
+ "is_default": true,
+ "types": [
+  "poison"
+ ],
+ "stats": {
+  "hp": 100,
+  "attack": 73,
+  "defense": 83,
+  "special-attack": 73,
+  "special-defense": 83,
+  "speed": 55
+ },
+ "abilities": [
+  {
+   "name": "liquid-ooze",
+   "hidden": false
+  },
+  {
+   "name": "sticky-hold",
+   "hidden": false
+  },
+  {
+   "name": "gluttony",
+   "hidden": true
+  }
+ ],
+ "height": 17,
+ "weight": 800,
+ "champions_moves": []
+}

@@ -1,0 +1,23 @@
+{
+ "name": "run-away",
+ "names": {
+  "ja-hrkt": "にげあし",
+  "ko": "도주",
+  "zh-hant": "逃跑",
+  "fr": "Fuite",
+  "de": "Angsthase",
+  "es": "Fuga",
+  "it": "Fugafacile",
+  "en": "Run Away",
+  "ja": "にげあし",
+  "zh-hans": "逃跑",
+  "es-419": "Fuga"
+ },
+ "effect": {
+  "en": "Ensures success fleeing from wild battles."
+ },
+ "flavor": {
+  "en": "Enables a sure getaway from wild Pokémon.",
+  "ko": "야생 포켓몬으로부터 반드시 도망칠 수 있다."
+ }
+}

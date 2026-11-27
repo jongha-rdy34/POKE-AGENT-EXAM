@@ -1,0 +1,20 @@
+{
+ "name": "indeedee-fur",
+ "names": {
+  "ja-hrkt": "イエッサンのけ",
+  "ko": "에써르의털",
+  "zh-hant": "愛管侍的毛",
+  "fr": "Poils de Wimessir",
+  "de": "Servol-Haar",
+  "es": "Pelo de Indeedee",
+  "it": "Pelo di Indeedee",
+  "en": "Indeedee Fur",
+  "ja": "イエッサンのけ",
+  "zh-hans": "爱管侍的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

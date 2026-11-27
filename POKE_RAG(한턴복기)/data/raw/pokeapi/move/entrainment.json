@@ -1,0 +1,31 @@
+{
+ "name": "entrainment",
+ "names": {
+  "ja-hrkt": "なかまづくり",
+  "ko": "동료만들기",
+  "zh-hant": "找夥伴",
+  "fr": "Ten-Danse",
+  "de": "Zwango",
+  "es": "Danza Amiga",
+  "it": "Saltamicizia",
+  "en": "Entrainment",
+  "ja": "なかまづくり",
+  "zh-hans": "找伙伴",
+  "es-419": "Danza Amiga"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Copies the user’s ability onto the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's.",
+  "ko": "이상한 리듬으로 춤춘다. 움직임을 흉내 내게 해서 자신과 상대의 특성을 똑같게 만든다."
+ }
+}

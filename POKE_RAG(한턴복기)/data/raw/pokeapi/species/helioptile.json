@@ -1,0 +1,42 @@
+{
+ "id": 694,
+ "name": "helioptile",
+ "names": {
+  "ja-hrkt": "エリキテル",
+  "ja-roma": "Erikiteru",
+  "ko": "목도리키텔",
+  "zh-hant": "傘電蜥",
+  "fr": "Galvaran",
+  "de": "Eguana",
+  "es": "Helioptile",
+  "it": "Helioptile",
+  "en": "Helioptile",
+  "ja": "エリキテル",
+  "zh-hans": "伞电蜥",
+  "es-419": "Helioptile"
+ },
+ "genus": {
+  "ja-hrkt": "はつでんポケモン",
+  "ko": "발전포켓몬",
+  "zh-hant": "發電寶可夢",
+  "fr": "Pokémon Générateur",
+  "de": "Generatoren-Pokémon",
+  "es": "Pokémon Generador",
+  "it": "Pokémon Generatore",
+  "en": "Generator Pokémon",
+  "ja": "はつでんポケモン",
+  "zh-hans": "发电宝可梦",
+  "es-419": "Pokémon Generador"
+ },
+ "flavor": {
+  "ko": "태양광 발전 구조를 가졌다. 발전을 방해하면 스트레스를 받아서 약해진다.",
+  "en": "The sun powers this Pokémon’s electricity generation. Interruption of that process stresses Helioptile to the point of weakness."
+ },
+ "varieties": [
+  {
+   "name": "helioptile",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "356"
+}

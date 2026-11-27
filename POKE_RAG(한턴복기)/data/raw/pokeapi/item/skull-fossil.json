@@ -1,0 +1,30 @@
+{
+ "name": "skull-fossil",
+ "names": {
+  "ja-hrkt": "ずがいのカセキ",
+  "ko": "두개의화석",
+  "zh-hant": "頭蓋化石",
+  "fr": "Fossile Crâne",
+  "de": "Kopffossil",
+  "es": "Fósil Cráneo",
+  "it": "Fossilcranio",
+  "en": "Skull Fossil",
+  "ja": "ずがいのカセキ",
+  "zh-hans": "头盖化石",
+  "es-419": "Fósil Cráneo"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Peut être ressuscité en Kranidos.",
+  "en": "Can be revived into a Cranidos."
+ },
+ "flavor": {
+  "en": "A fossil from a prehistoric Pokémon that once lived on the land. It appears as though it’s part of a head.",
+  "ko": "오랜 옛날 지상에서 살았던 고대 포켓몬의 화석. 머리의 일부인 듯하다.",
+  "ja": "大昔 地上で 暮らした 古代ポケモンの カセキ。 頭の 一部らしい。"
+ }
+}

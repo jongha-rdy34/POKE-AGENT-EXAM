@@ -1,0 +1,28 @@
+{
+ "name": "tm90",
+ "names": {
+  "ja-hrkt": "わざマシン９０",
+  "ko": "기술머신90",
+  "zh-hant": "招式學習器９０",
+  "fr": "CT90",
+  "de": "TM90",
+  "es": "MT90",
+  "it": "MT90",
+  "en": "TM90",
+  "ja": "わざマシン９０",
+  "zh-hans": "招式学习器９０",
+  "es-419": "MT90"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Clonage à un Pokémon compatible.",
+  "en": "Teaches Substitute to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",
+  "ko": "5턴 동안 일렉트릭필드로 만든다. 땅에 있는 포켓몬은 잠들지 않는다. 전기타입의 위력이 올라간다.",
+  "ja": "５ターンの 間 エレキフィールドにする。 地面にいる ポケモンは 眠らない。 でんきタイプの 威力が あがる。"
+ }
+}

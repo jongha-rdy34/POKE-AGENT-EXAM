@@ -1,0 +1,25 @@
+{
+ "name": "ability-patch",
+ "names": {
+  "ja-hrkt": "とくせいパッチ",
+  "ko": "특성패치",
+  "zh-hant": "特性膏藥",
+  "fr": "Patch Talent",
+  "de": "Fähigkeiten-Pflaster",
+  "es": "Parche Habilidad",
+  "it": "Cerotto abilità",
+  "en": "Ability Patch",
+  "ja": "とくせいパッチ",
+  "zh-hans": "特性膏药",
+  "es-419": "Parche Habilidad"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "일반적인 특성을 가진 포켓몬에게 사용하면 희귀한 특성으로 바꿀 수 있는 패치.",
+  "en": "A patch that allows a Pokémon with a regular Ability to have a rare Ability.",
+  "ja": "通常の 特性を 持つ ポケモンに 使うと 珍しい 特性に 変えられる パッチ。"
+ }
+}

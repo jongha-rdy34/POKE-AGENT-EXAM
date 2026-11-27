@@ -1,0 +1,31 @@
+{
+ "name": "night-slash",
+ "names": {
+  "ja-hrkt": "つじぎり",
+  "ko": "깜짝베기",
+  "zh-hant": "暗襲要害",
+  "fr": "Tranche-Nuit",
+  "de": "Nachthieb",
+  "es": "Tajo Umbrío",
+  "it": "Nottesferza",
+  "en": "Night Slash",
+  "ja": "つじぎり",
+  "zh-hans": "暗袭要害",
+  "es-419": "Corte Umbrío"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has an increased chance for a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slashes the target the instant an opportunity arises. This move has a heightened chance of landing a critical hit.",
+  "ko": "순간적으로 틈을 노려 상대를 베어 버린다. 급소에 맞기 쉽다."
+ }
+}

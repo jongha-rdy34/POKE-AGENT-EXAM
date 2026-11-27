@@ -1,0 +1,25 @@
+{
+ "name": "blunder-policy",
+ "names": {
+  "ja-hrkt": "からぶりほけん",
+  "ko": "허탕보험",
+  "zh-hant": "打空保險",
+  "fr": "Assurance Échec",
+  "de": "Fehlschlagschutz",
+  "es": "Seguro Fallo",
+  "it": "Fiascopolizza",
+  "en": "Blunder Policy",
+  "ja": "からぶりほけん",
+  "zh-hans": "打空保险",
+  "es-419": "Seguro Fallo"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "명중률에 의해 기술이 빗나갔을 때 스피드가 크게 올라간다.",
+  "en": "Raises Speed sharply when a Pokémon misses with a move because of accuracy.",
+  "ja": "命中率に よって 技が はずれたとき 素早さが ぐーんと 上がる。"
+ }
+}

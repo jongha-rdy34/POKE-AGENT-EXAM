@@ -1,0 +1,33 @@
+{
+ "name": "luxury-ball",
+ "names": {
+  "ja-hrkt": "ゴージャスボール",
+  "ko": "럭셔리볼",
+  "zh-hant": "豪華球",
+  "fr": "Luxe Ball",
+  "de": "Luxusball",
+  "es": "Lujo Ball",
+  "it": "Chic Ball",
+  "en": "Luxury Ball",
+  "ja": "ゴージャスボール",
+  "zh-hans": "豪华球",
+  "es-419": "Lujobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le Pokémon capturé commence avec un bonheur de 200.",
+  "en": "Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness."
+ },
+ "flavor": {
+  "en": "A particularly comfortable Poké Ball that makes a wild Pokémon quickly grow friendlier after being caught.",
+  "ko": "잡은 야생 포켓몬이 매우 친밀해지기 쉬운 편안한 볼.",
+  "ja": "捕まえた 野生ポケモンが とても なかよく なりやすくなる いごこちの いい ボール。"
+ }
+}

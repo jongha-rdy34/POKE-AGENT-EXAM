@@ -1,0 +1,27 @@
+{
+ "id": 10310,
+ "name": "lucario-mega-z",
+ "species": "lucario",
+ "is_default": false,
+ "types": [
+  "fighting",
+  "steel"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 100,
+  "defense": 70,
+  "special-attack": 164,
+  "special-defense": 70,
+  "speed": 151
+ },
+ "abilities": [
+  {
+   "name": "aura-guard",
+   "hidden": false
+  }
+ ],
+ "height": 13,
+ "weight": 494,
+ "champions_moves": []
+}

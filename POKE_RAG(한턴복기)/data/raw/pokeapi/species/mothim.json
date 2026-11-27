@@ -1,0 +1,42 @@
+{
+ "id": 414,
+ "name": "mothim",
+ "names": {
+  "ja-hrkt": "ガーメイル",
+  "ja-roma": "Gamale",
+  "ko": "나메일",
+  "zh-hant": "紳士蛾",
+  "fr": "Papilord",
+  "de": "Moterpel",
+  "es": "Mothim",
+  "it": "Mothim",
+  "en": "Mothim",
+  "ja": "ガーメイル",
+  "zh-hans": "绅士蛾",
+  "es-419": "Mothim"
+ },
+ "genus": {
+  "ja-hrkt": "ミノガポケモン",
+  "ko": "나방포켓몬",
+  "zh-hant": "蓑衣蛾寶可夢",
+  "fr": "Pokémon Phalène",
+  "de": "Motte",
+  "es": "Pokémon Polilla",
+  "it": "Pokémon Falena",
+  "en": "Moth Pokémon",
+  "ja": "ミノガポケモン",
+  "zh-hans": "蓑衣蛾宝可梦",
+  "es-419": "Pokémon Polilla"
+ },
+ "flavor": {
+  "en": "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens.",
+  "ko": "한밤중에 활발하게 날아다니며 잠든 세꿀버리의 둥지에서 꿀을 훔쳐 달아난다."
+ },
+ "varieties": [
+  {
+   "name": "mothim",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "213"
+}

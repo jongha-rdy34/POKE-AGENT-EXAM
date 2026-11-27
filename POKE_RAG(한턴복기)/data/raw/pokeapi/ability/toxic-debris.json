@@ -1,0 +1,23 @@
+{
+ "name": "toxic-debris",
+ "names": {
+  "ja-hrkt": "どくげしょう",
+  "ko": "독치장",
+  "zh-hant": "毒滿地",
+  "fr": "Dépôt Toxique",
+  "de": "Giftbelag",
+  "es": "Capa Tóxica",
+  "it": "Mantossina",
+  "en": "Toxic Debris",
+  "ja": "どくげしょう",
+  "zh-hans": "毒满地",
+  "pt-br": "Detritos Tóxicos",
+  "es-419": "Capa Tóxica"
+ },
+ "effect": {
+  "en": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+ },
+ "flavor": {
+  "en": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+ }
+}

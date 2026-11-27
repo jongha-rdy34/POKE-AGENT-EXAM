@@ -1,0 +1,89 @@
+{
+ "id": 934,
+ "name": "garganacl",
+ "species": "garganacl",
+ "is_default": true,
+ "types": [
+  "rock"
+ ],
+ "stats": {
+  "hp": 100,
+  "attack": 100,
+  "defense": 130,
+  "special-attack": 45,
+  "special-defense": 90,
+  "speed": 35
+ },
+ "abilities": [
+  {
+   "name": "purifying-salt",
+   "hidden": false
+  },
+  {
+   "name": "sturdy",
+   "hidden": false
+  },
+  {
+   "name": "clear-body",
+   "hidden": true
+  }
+ ],
+ "height": 23,
+ "weight": 2400,
+ "champions_moves": [
+  "ancient-power",
+  "avalanche",
+  "block",
+  "body-press",
+  "body-slam",
+  "brick-break",
+  "bulldoze",
+  "curse",
+  "dig",
+  "double-edge",
+  "dynamic-punch",
+  "earth-power",
+  "earthquake",
+  "endure",
+  "explosion",
+  "facade",
+  "fire-punch",
+  "fissure",
+  "flash-cannon",
+  "fling",
+  "focus-punch",
+  "giga-impact",
+  "gravity",
+  "hammer-arm",
+  "hard-press",
+  "heavy-slam",
+  "helping-hand",
+  "hyper-beam",
+  "ice-punch",
+  "iron-defense",
+  "iron-head",
+  "meteor-beam",
+  "mud-shot",
+  "power-gem",
+  "protect",
+  "rain-dance",
+  "recover",
+  "rest",
+  "rock-blast",
+  "rock-polish",
+  "rock-slide",
+  "rock-tomb",
+  "salt-cure",
+  "sandstorm",
+  "sleep-talk",
+  "smack-down",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "thunder-punch",
+  "wide-guard",
+  "zen-headbutt"
+ ]
+}

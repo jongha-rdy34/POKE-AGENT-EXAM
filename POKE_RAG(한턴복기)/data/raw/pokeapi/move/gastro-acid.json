@@ -1,0 +1,31 @@
+{
+ "name": "gastro-acid",
+ "names": {
+  "ja-hrkt": "いえき",
+  "ko": "위액",
+  "zh-hant": "胃液",
+  "fr": "Suc Digestif",
+  "de": "Magensäfte",
+  "es": "Bilis",
+  "it": "Gastroacido",
+  "en": "Gastro Acid",
+  "ja": "いえき",
+  "zh-hans": "胃液",
+  "es-419": "Ácido Gástrico"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Nullifies target’s ability until it leaves battle."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability.",
+  "ko": "상대의 몸에 위액을 내뱉는다. 달라붙은 위액은 상대의 특성 효과를 지운다."
+ }
+}

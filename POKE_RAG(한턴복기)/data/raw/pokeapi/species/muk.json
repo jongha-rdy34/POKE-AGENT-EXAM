@@ -1,0 +1,46 @@
+{
+ "id": 89,
+ "name": "muk",
+ "names": {
+  "ja-hrkt": "ベトベトン",
+  "ja-roma": "Betbeton",
+  "ko": "질뻐기",
+  "zh-hant": "臭臭泥",
+  "fr": "Grotadmorv",
+  "de": "Sleimok",
+  "es": "Muk",
+  "it": "Muk",
+  "en": "Muk",
+  "ja": "ベトベトン",
+  "zh-hans": "臭臭泥",
+  "es-419": "Muk"
+ },
+ "genus": {
+  "ja-hrkt": "ヘドロポケモン",
+  "ko": "진흙포켓몬",
+  "zh-hant": "污泥寶可夢",
+  "fr": "Pokémon Dégueu",
+  "de": "Schlamm",
+  "es": "Pokémon Lodo",
+  "it": "Pokémon Melma",
+  "en": "Sludge Pokémon",
+  "ja": "ヘドロポケモン",
+  "zh-hans": "污泥宝可梦",
+  "es-419": "Pokémon Lodo"
+ },
+ "flavor": {
+  "en": "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",
+  "ko": "악취가 심하다! 기절할 정도로 강렬하지만 질뻐기는 코가 퇴화해서 냄새를 맡지 못한다."
+ },
+ "varieties": [
+  {
+   "name": "muk",
+   "is_default": true
+  },
+  {
+   "name": "muk-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "38"
+}

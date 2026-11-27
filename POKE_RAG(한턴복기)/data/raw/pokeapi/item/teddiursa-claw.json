@@ -1,0 +1,20 @@
+{
+ "name": "teddiursa-claw",
+ "names": {
+  "ja-hrkt": "ヒメグマのツメ",
+  "ko": "깜지곰의손톱",
+  "zh-hant": "熊寶寶的爪子",
+  "fr": "Griffe de Teddiursa",
+  "de": "Teddiursa-Kralle",
+  "es": "Garra de Teddiursa",
+  "it": "Artiglio di Teddiursa",
+  "en": "Teddiursa Claw",
+  "ja": "ヒメグマのツメ",
+  "zh-hans": "熊宝宝的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 93,
+ "name": "haunter",
+ "names": {
+  "ja-hrkt": "ゴースト",
+  "ja-roma": "Ghost",
+  "ko": "고우스트",
+  "zh-hant": "鬼斯通",
+  "fr": "Spectrum",
+  "de": "Alpollo",
+  "es": "Haunter",
+  "it": "Haunter",
+  "en": "Haunter",
+  "ja": "ゴースト",
+  "zh-hans": "鬼斯通",
+  "es-419": "Haunter"
+ },
+ "genus": {
+  "ja-hrkt": "ガスじょうポケモン",
+  "ko": "가스포켓몬",
+  "zh-hant": "氣體狀寶可夢",
+  "fr": "Pokémon Gaz",
+  "de": "Gas-Pokémon",
+  "es": "Pokémon Gas",
+  "it": "Pokémon Gas",
+  "en": "Gas Pokémon",
+  "ja": "ガスじょうポケモン",
+  "zh-hans": "气体状宝可梦",
+  "es-419": "Pokémon Gas"
+ },
+ "flavor": {
+  "en": "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day.",
+  "ko": "어둠 속에서 아무도 없는데도 누군가가 보고 있다는 느낌이 들면 그곳에 고우스트가 있는 것이다."
+ },
+ "varieties": [
+  {
+   "name": "haunter",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "40"
+}

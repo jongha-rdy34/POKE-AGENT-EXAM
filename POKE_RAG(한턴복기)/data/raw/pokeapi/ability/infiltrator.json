@@ -1,0 +1,23 @@
+{
+ "name": "infiltrator",
+ "names": {
+  "ja-hrkt": "すりぬけ",
+  "ko": "틈새포착",
+  "zh-hant": "穿透",
+  "fr": "Infiltration",
+  "de": "Schwebedurch",
+  "es": "Allanamiento",
+  "it": "Intrapasso",
+  "en": "Infiltrator",
+  "ja": "すりぬけ",
+  "zh-hans": "穿透",
+  "es-419": "Allanamiento"
+ },
+ "effect": {
+  "en": "Bypasses Light Screen, Reflect, and Safeguard."
+ },
+ "flavor": {
+  "en": "The Pokémon's moves are unaffected by the target's barriers, substitutes, and the like.",
+  "ko": "상대의 벽이나 대타출동을 뚫고 공격할 수 있다."
+ }
+}

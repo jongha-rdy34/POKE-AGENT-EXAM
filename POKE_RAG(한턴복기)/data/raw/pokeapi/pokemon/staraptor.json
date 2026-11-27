@@ -1,0 +1,75 @@
+{
+ "id": 398,
+ "name": "staraptor",
+ "species": "staraptor",
+ "is_default": true,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 85,
+  "attack": 120,
+  "defense": 70,
+  "special-attack": 50,
+  "special-defense": 60,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "reckless",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 249,
+ "champions_moves": [
+  "acrobatics",
+  "aerial-ace",
+  "agility",
+  "air-cutter",
+  "air-slash",
+  "blaze-kick",
+  "brave-bird",
+  "brick-break",
+  "bulk-up",
+  "close-combat",
+  "double-edge",
+  "double-team",
+  "dual-wingbeat",
+  "endeavor",
+  "endure",
+  "facade",
+  "feather-dance",
+  "final-gambit",
+  "fly",
+  "focus-blast",
+  "giga-impact",
+  "heat-wave",
+  "helping-hand",
+  "hurricane",
+  "hyper-beam",
+  "protect",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "roost",
+  "round",
+  "sky-attack",
+  "sleep-talk",
+  "snore",
+  "steel-wing",
+  "substitute",
+  "sunny-day",
+  "swagger",
+  "tailwind",
+  "thief",
+  "u-turn",
+  "uproar",
+  "whirlwind"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "name": "x-sp-atk-3",
+ "names": {
+  "ja-hrkt": "ＳＰアップ３",
+  "ko": "스페셜업3",
+  "zh-hant": "特攻強化３",
+  "fr": "Atq. Spé. 3",
+  "de": "X-Sp.-Ang. 3",
+  "es": "At. Esp. X 3",
+  "it": "Att. Sp. X-3",
+  "en": "X Sp. Atk 3",
+  "ja": "ＳＰアップ３",
+  "zh-hans": "特攻强化３",
+  "es-419": "At. Esp. X 3"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente l'Attaque Spéciale de trois niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Special Attack by three stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 특수공격을 상당히 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 特攻を かなり あげる。 ひっこめると 元に 戻る。"
+ }
+}

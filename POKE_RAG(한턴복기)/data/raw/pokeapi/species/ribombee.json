@@ -1,0 +1,46 @@
+{
+ "id": 743,
+ "name": "ribombee",
+ "names": {
+  "ja-hrkt": "アブリボン",
+  "ja-roma": "Aburibbon",
+  "ko": "에리본",
+  "zh-hant": "蝶結萌虻",
+  "fr": "Rubombelle",
+  "de": "Bandelby",
+  "es": "Ribombee",
+  "it": "Ribombee",
+  "en": "Ribombee",
+  "ja": "アブリボン",
+  "zh-hans": "蝶结萌虻",
+  "es-419": "Ribombee"
+ },
+ "genus": {
+  "ja-hrkt": "ツリアブポケモン",
+  "ko": "재니등에포켓몬",
+  "zh-hant": "蜂虻寶可夢",
+  "fr": "Pokémon Bombyle",
+  "de": "Hummelfliegen-Pokémon",
+  "es": "Pokémon Mosca Abeja",
+  "it": "Pokémon Bombilide",
+  "en": "Bee Fly Pokémon",
+  "ja": "ツリアブポケモン",
+  "zh-hans": "蜂虻宝可梦",
+  "es-419": "Pokémon Mosca Abeja"
+ },
+ "flavor": {
+  "ko": "비에 젖는 것을 매우 싫어한다. 흐린 날이 많은 가라르지방에서는 모습을 좀처럼 보기 힘들다.",
+  "en": "Ribombee absolutely hate getting wet or rained on. In the cloudy Galar region, they are very seldom seen."
+ },
+ "varieties": [
+  {
+   "name": "ribombee",
+   "is_default": true
+  },
+  {
+   "name": "ribombee-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "382"
+}

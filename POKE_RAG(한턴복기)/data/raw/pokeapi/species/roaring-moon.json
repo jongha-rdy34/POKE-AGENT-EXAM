@@ -1,0 +1,37 @@
+{
+ "id": 1005,
+ "name": "roaring-moon",
+ "names": {
+  "ja-hrkt": "トドロクツキ",
+  "ja-roma": "Todorokutsuki",
+  "ko": "고동치는달",
+  "zh-hant": "轟鳴月",
+  "fr": "Rugit-Lune",
+  "de": "Donnersichel",
+  "es": "Bramaluna",
+  "it": "Lunaruggente",
+  "en": "Roaring Moon",
+  "ja": "トドロクツキ",
+  "zh-hans": "轰鸣月",
+  "es-419": "Bramaluna"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region."
+ },
+ "varieties": [
+  {
+   "name": "roaring-moon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "533"
+}

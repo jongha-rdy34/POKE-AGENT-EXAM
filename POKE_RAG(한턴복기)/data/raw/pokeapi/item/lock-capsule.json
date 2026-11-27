@@ -1,0 +1,28 @@
+{
+ "name": "lock-capsule",
+ "names": {
+  "ja-hrkt": "ロックカプセル",
+  "ko": "록캡슐",
+  "zh-hant": "上鎖的容器",
+  "fr": "Poké Écrin",
+  "de": "Tresorkapsel",
+  "es": "Cápsula Candado",
+  "it": "Capsula Scrigno",
+  "en": "Lock Capsule",
+  "ja": "ロックカプセル",
+  "zh-hans": "上锁的容器",
+  "es-419": "Cápsula Candado"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Contient la CT95 (Aboiement).",
+  "en": "Contains TM95 (Snarl)."
+ },
+ "flavor": {
+  "en": "A sturdy Capsule that can only be opened with a special key.",
+  "ko": "특수한 열쇠로 열 수 있는 튼튼한 캡슐.",
+  "ja": "特殊な カギで あけられる 頑丈な カプセル。"
+ }
+}

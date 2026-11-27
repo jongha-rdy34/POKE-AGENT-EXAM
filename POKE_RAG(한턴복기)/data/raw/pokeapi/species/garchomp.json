@@ -1,0 +1,50 @@
+{
+ "id": 445,
+ "name": "garchomp",
+ "names": {
+  "ja-hrkt": "ガブリアス",
+  "ja-roma": "Gaburias",
+  "ko": "한카리아스",
+  "zh-hant": "烈咬陸鯊",
+  "fr": "Carchacrok",
+  "de": "Knakrack",
+  "es": "Garchomp",
+  "it": "Garchomp",
+  "en": "Garchomp",
+  "ja": "ガブリアス",
+  "zh-hans": "烈咬陆鲨",
+  "es-419": "Garchomp"
+ },
+ "genus": {
+  "ja-hrkt": "マッハポケモン",
+  "ko": "마하포켓몬",
+  "zh-hant": "音速寶可夢",
+  "fr": "Pokémon Supersonic",
+  "de": "Rasanz-Pokémon",
+  "es": "Pokémon Mach",
+  "it": "Pokémon Mach",
+  "en": "Mach Pokémon",
+  "ja": "マッハポケモン",
+  "zh-hans": "音速宝可梦",
+  "es-419": "Pokémon Mach"
+ },
+ "flavor": {
+  "en": "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds.",
+  "ko": "지상에서도 움직임이 빠르다. 설산에서는 체온이 떨어지기 전에 먹이를 잡아 거처로 돌아간다."
+ },
+ "varieties": [
+  {
+   "name": "garchomp",
+   "is_default": true
+  },
+  {
+   "name": "garchomp-mega",
+   "is_default": false
+  },
+  {
+   "name": "garchomp-mega-z",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "230"
+}

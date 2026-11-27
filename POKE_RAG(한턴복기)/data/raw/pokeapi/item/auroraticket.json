@@ -1,0 +1,22 @@
+{
+ "name": "auroraticket",
+ "names": {
+  "ja-hrkt": "オーロラチケット",
+  "fr": "Ticketaurora",
+  "de": "Auroraticket",
+  "es": "Ori-Ticket",
+  "it": "Bigl. Aurora",
+  "en": "AuroraTicket",
+  "es-419": "Ori-Ticket"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à l'Île Aurore et Deoxys.",
+  "en": "Allows access to Birth Island and Deoxys."
+ },
+ "flavor": {
+  "en": "A ticket required to board the ship to BIRTH ISLAND. It glows beautifully."
+ }
+}

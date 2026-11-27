@@ -1,0 +1,23 @@
+{
+ "name": "stalwart",
+ "names": {
+  "ja-hrkt": "すじがねいり",
+  "ko": "굳건한신념",
+  "zh-hant": "堅毅",
+  "fr": "Nerfs d’Acier",
+  "de": "Stahlrückgrat",
+  "es": "Acérrimo",
+  "it": "Volontà di Ferro",
+  "en": "Stalwart",
+  "ja": "すじがねいり",
+  "zh-hans": "坚毅",
+  "es-419": "Acérrimo"
+ },
+ "effect": {
+  "en": "Ignores moves and abilities that draw in moves."
+ },
+ "flavor": {
+  "ko": "상대의 기술을 끌어모으는 특성이나 기술의 영향을 받지 않는다.",
+  "en": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves."
+ }
+}

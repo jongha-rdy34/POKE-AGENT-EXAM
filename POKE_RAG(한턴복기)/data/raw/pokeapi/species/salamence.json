@@ -1,0 +1,46 @@
+{
+ "id": 373,
+ "name": "salamence",
+ "names": {
+  "ja-hrkt": "ボーマンダ",
+  "ja-roma": "Bohmander",
+  "ko": "보만다",
+  "zh-hant": "暴飛龍",
+  "fr": "Drattak",
+  "de": "Brutalanda",
+  "es": "Salamence",
+  "it": "Salamence",
+  "en": "Salamence",
+  "ja": "ボーマンダ",
+  "zh-hans": "暴飞龙",
+  "es-419": "Salamence"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.",
+  "ko": "넓은 하늘을 나는 기쁨에 크게 들떠 있지만 화나게 하면 손 쓸 수 없을 정도로 난폭하다."
+ },
+ "varieties": [
+  {
+   "name": "salamence",
+   "is_default": true
+  },
+  {
+   "name": "salamence-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "191"
+}

@@ -1,0 +1,34 @@
+{
+ "name": "energy-powder",
+ "names": {
+  "ja-hrkt": "ちからのこな",
+  "ko": "힘의가루",
+  "zh-hant": "元氣粉",
+  "fr": "Poudrénergie",
+  "de": "Energiestaub",
+  "es": "Polvo Energía",
+  "it": "Polvenergia",
+  "en": "Energy Powder",
+  "ja": "ちからのこな",
+  "zh-hans": "元气粉",
+  "es-419": "Polvo Energía"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 50 PV, mais diminue le bonheur.",
+  "en": "Restores 50 HP, but lowers happiness."
+ },
+ "flavor": {
+  "en": "A very bitter medicinal powder. It can be used to restore 60 HP to a single Pokémon.",
+  "ko": "매우 쓴 가루약. 포켓몬 1마리의 HP를 60만큼 회복한다.",
+  "ja": "とても にがい 粉薬。 ポケモン １匹の ＨＰを ６０だけ 回復する。"
+ }
+}

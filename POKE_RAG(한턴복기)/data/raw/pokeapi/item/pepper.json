@@ -1,0 +1,20 @@
+{
+ "name": "pepper",
+ "names": {
+  "ja-hrkt": "ペッパー",
+  "ko": "후추",
+  "zh-hant": "胡椒",
+  "fr": "Poivre",
+  "de": "Pfeffer",
+  "es": "Pimienta",
+  "it": "Pepe",
+  "en": "Pepper",
+  "ja": "ペッパー",
+  "zh-hans": "胡椒"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

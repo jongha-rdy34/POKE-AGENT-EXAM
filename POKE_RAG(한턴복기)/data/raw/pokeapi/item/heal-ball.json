@@ -1,0 +1,33 @@
+{
+ "name": "heal-ball",
+ "names": {
+  "ja-hrkt": "ヒールボール",
+  "ko": "힐볼",
+  "zh-hant": "治癒球",
+  "fr": "Soin Ball",
+  "de": "Heilball",
+  "es": "Sana Ball",
+  "it": "Cura Ball",
+  "en": "Heal Ball",
+  "ja": "ヒールボール",
+  "zh-hans": "治愈球",
+  "es-419": "Sanabola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le Pokémon capturé est immédiatement soigné.",
+  "en": "Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed."
+ },
+ "flavor": {
+  "en": "A remedial Poké Ball that restores the HP of a Pokémon caught with it and eliminates any status conditions.",
+  "ko": "잡은 포켓몬의 HP와 상태 이상을 회복시키는 조금 다정한 볼.",
+  "ja": "捕まえた ポケモンの ＨＰと 状態異常を 回復する ちょっと やさしい ボール。"
+ }
+}

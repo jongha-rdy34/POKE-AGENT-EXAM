@@ -1,0 +1,23 @@
+{
+ "name": "hustle",
+ "names": {
+  "ja-hrkt": "はりきり",
+  "ko": "의욕",
+  "zh-hant": "活力",
+  "fr": "Agitation",
+  "de": "Übereifer",
+  "es": "Entusiasmo",
+  "it": "Tuttafretta",
+  "en": "Hustle",
+  "ja": "はりきり",
+  "zh-hans": "活力",
+  "es-419": "Entusiasmo"
+ },
+ "effect": {
+  "en": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's Attack stat but lowers its accuracy.",
+  "ko": "자신의 공격이 높아지지만 명중률이 떨어진다."
+ }
+}

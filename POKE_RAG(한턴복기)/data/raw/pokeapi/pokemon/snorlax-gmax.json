@@ -1,0 +1,34 @@
+{
+ "id": 10206,
+ "name": "snorlax-gmax",
+ "species": "snorlax",
+ "is_default": false,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 160,
+  "attack": 110,
+  "defense": 65,
+  "special-attack": 65,
+  "special-defense": 110,
+  "speed": 30
+ },
+ "abilities": [
+  {
+   "name": "immunity",
+   "hidden": false
+  },
+  {
+   "name": "thick-fat",
+   "hidden": false
+  },
+  {
+   "name": "gluttony",
+   "hidden": true
+  }
+ ],
+ "height": 350,
+ "weight": 10000,
+ "champions_moves": []
+}

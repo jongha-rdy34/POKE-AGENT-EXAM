@@ -1,0 +1,23 @@
+{
+ "name": "telepathy",
+ "names": {
+  "ja-hrkt": "テレパシー",
+  "ko": "텔레파시",
+  "zh-hant": "心靈感應",
+  "fr": "Télépathe",
+  "de": "Telepathie",
+  "es": "Telepatía",
+  "it": "Telepatia",
+  "en": "Telepathy",
+  "ja": "テレパシー",
+  "zh-hans": "心灵感应",
+  "es-419": "Telepatía"
+ },
+ "effect": {
+  "en": "Protects against friendly Pokémon's damaging moves."
+ },
+ "flavor": {
+  "en": "The Pokémon anticipates and dodges the attacks of its allies.",
+  "ko": "같은 편의 공격의 낌새를 읽고 기술을 회피한다."
+ }
+}

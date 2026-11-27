@@ -1,0 +1,31 @@
+{
+ "name": "fire-fang",
+ "names": {
+  "ja-hrkt": "ほのおのキバ",
+  "ko": "불꽃엄니",
+  "zh-hant": "火焰牙",
+  "fr": "Crocs Feu",
+  "de": "Feuerzahn",
+  "es": "Colmillo Ígneo",
+  "it": "Rogodenti",
+  "en": "Fire Fang",
+  "ja": "ほのおのキバ",
+  "zh-hans": "火焰牙",
+  "es-419": "Colmillo Fuego"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to burn the target and a chance to make the target flinch."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.",
+  "ko": "불꽃을 두른 이빨로 문다. 상대를 풀죽게 하거나 화상 상태로 만들 때가 있다."
+ }
+}

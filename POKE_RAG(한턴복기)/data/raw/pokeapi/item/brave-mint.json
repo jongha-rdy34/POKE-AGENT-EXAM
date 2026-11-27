@@ -1,0 +1,25 @@
+{
+ "name": "brave-mint",
+ "names": {
+  "ja-hrkt": "ゆうかんミント",
+  "ko": "용감민트",
+  "zh-hant": "勇敢薄荷",
+  "fr": "Aromate Brave",
+  "de": "Mutig-Minze",
+  "es": "Menta Audaz",
+  "it": "Menta Audace",
+  "en": "Brave Mint",
+  "ja": "ゆうかんミント",
+  "zh-hans": "勇敢薄荷",
+  "es-419": "Menta Audaz"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 공격이 오르기 쉬워지지만 스피드가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Attack will grow more easily, but its Speed will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 攻撃が 上がりやすく なるが 素早さは 上がりにくくなる ミント。"
+ }
+}

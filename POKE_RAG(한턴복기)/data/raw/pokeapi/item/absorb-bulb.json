@@ -1,0 +1,28 @@
+{
+ "name": "absorb-bulb",
+ "names": {
+  "ja-hrkt": "きゅうこん",
+  "ko": "구근",
+  "zh-hant": "球根",
+  "fr": "Bulbe",
+  "de": "Knolle",
+  "es": "Tubérculo",
+  "it": "Bulbo",
+  "en": "Absorb Bulb",
+  "ja": "きゅうこん",
+  "zh-hans": "球根",
+  "es-419": "Tubérculo"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Augmente l'Attaque Spéciale du porteur d'un niveau lorsqu'il subit des dégâts d'une capacité de type Eau.",
+  "en": "Held: Raises the holder’s Special Attack by one stage when it takes Water-type damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It boosts Sp. Atk if the holder is hit with a Water-type attack. It can only be used once.",
+  "ko": "단 한 번 쓰면 없어지는 구근. 지니게 하고 물 기술을 받으면 특수공격이 올라간다.",
+  "ja": "使い捨ての きゅうこん。 持たせて みずの 技を 受けると 特攻が あがる。"
+ }
+}

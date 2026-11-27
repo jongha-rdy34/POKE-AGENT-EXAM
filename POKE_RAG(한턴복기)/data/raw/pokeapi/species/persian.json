@@ -1,0 +1,46 @@
+{
+ "id": 53,
+ "name": "persian",
+ "names": {
+  "ja-hrkt": "ペルシアン",
+  "ja-roma": "Persian",
+  "ko": "페르시온",
+  "zh-hant": "貓老大",
+  "fr": "Persian",
+  "de": "Snobilikat",
+  "es": "Persian",
+  "it": "Persian",
+  "en": "Persian",
+  "ja": "ペルシアン",
+  "zh-hans": "猫老大",
+  "es-419": "Persian"
+ },
+ "genus": {
+  "ja-hrkt": "シャムネコポケモン",
+  "ko": "샴고양이포켓몬",
+  "zh-hant": "暹羅貓寶可夢",
+  "fr": "Pokémon Chadeville",
+  "de": "Rassekatzen-Pokémon",
+  "es": "Pokémon Gato Fino",
+  "it": "Pokémon Nobilgatto",
+  "en": "Classy Cat Pokémon",
+  "ja": "シャムネコポケモン",
+  "zh-hans": "暹罗猫宝可梦",
+  "es-419": "Pokémon Gato Fino"
+ },
+ "flavor": {
+  "en": "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain.",
+  "ko": "움직임은 우아하고 품위 있다. 야만스러운 나이킹과는 잘 맞지 않아 서로를 멸시한다."
+ },
+ "varieties": [
+  {
+   "name": "persian",
+   "is_default": true
+  },
+  {
+   "name": "persian-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "22"
+}

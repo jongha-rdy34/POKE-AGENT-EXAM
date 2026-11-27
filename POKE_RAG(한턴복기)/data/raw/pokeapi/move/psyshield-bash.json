@@ -1,0 +1,28 @@
+{
+ "name": "psyshield-bash",
+ "names": {
+  "ja-hrkt": "バリアーラッシュ",
+  "ko": "배리어러시",
+  "zh-hant": "屏障猛攻",
+  "fr": "Sprint Bouclier",
+  "de": "Barrierenstoß",
+  "es": "Asalto Barrera",
+  "it": "Barrierassalto",
+  "en": "Psyshield Bash",
+  "ja": "バリアーラッシュ",
+  "zh-hans": "屏障猛攻",
+  "es-419": "Asalto Barrera"
+ },
+ "type": "psychic",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "Cloaking itself in psychic energy, the user slams into the target. This also boosts the user’s Defense stat."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "pollen-puff",
+ "names": {
+  "ja-hrkt": "かふんだんご",
+  "ko": "꽃가루경단",
+  "zh-hant": "花粉團",
+  "fr": "Boule Pollen",
+  "de": "Pollenknödel",
+  "es": "Bola de Polen",
+  "it": "Sferapolline",
+  "en": "Pollen Puff",
+  "ja": "かふんだんご",
+  "zh-hans": "花粉团",
+  "es-419": "Bola de Polen"
+ },
+ "type": "bug",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Damages opponents, but heals allies for 50% of their max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대에게는 폭발하는 경단을 사용하여 공격한다. 같은 편에게는 회복하는 경단을 준다.",
+  "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead."
+ }
+}

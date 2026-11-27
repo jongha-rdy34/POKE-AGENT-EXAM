@@ -1,0 +1,42 @@
+{
+ "id": 40,
+ "name": "wigglytuff",
+ "names": {
+  "ja-hrkt": "プクリン",
+  "ja-roma": "Pukurin",
+  "ko": "푸크린",
+  "zh-hant": "胖可丁",
+  "fr": "Grodoudou",
+  "de": "Knuddeluff",
+  "es": "Wigglytuff",
+  "it": "Wigglytuff",
+  "en": "Wigglytuff",
+  "ja": "プクリン",
+  "zh-hans": "胖可丁",
+  "es-419": "Wigglytuff"
+ },
+ "genus": {
+  "ja-hrkt": "ふうせんポケモン",
+  "ko": "풍선포켓몬",
+  "zh-hant": "氣球寶可夢",
+  "fr": "Pokémon Bouboule",
+  "de": "Ballon-Pokémon",
+  "es": "Pokémon Globo",
+  "it": "Pokémon Pallone",
+  "en": "Balloon Pokémon",
+  "ja": "ふうせんポケモン",
+  "zh-hans": "气球宝可梦",
+  "es-419": "Pokémon Globo"
+ },
+ "flavor": {
+  "en": "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly.",
+  "ko": "얇고 고운 털을 가졌다. 특히 이마에 동그랗게 말린 털은 하늘을 날 듯한 최고의 감촉을 지녔다."
+ },
+ "varieties": [
+  {
+   "name": "wigglytuff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "16"
+}

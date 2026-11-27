@@ -1,0 +1,25 @@
+{
+ "name": "rotom-bike",
+ "names": {
+  "ja-hrkt": "ロトムじてんしゃ",
+  "ko": "로토무자전거",
+  "zh-hant": "洛托姆自行車",
+  "fr": "Moticyclette",
+  "de": "Rotom-Rad",
+  "es": "Bici Rotom",
+  "it": "Bici Rotom",
+  "en": "Rotom Bike",
+  "ja": "ロトムじてんしゃ",
+  "zh-hans": "洛托姆自行车",
+  "es-419": "Bici Rotom"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬 로토무가 모터에 들어가서 터보를 사용할 수 있게 된 자전거.",
+  "en": "This bike can be combined with the Pokémon Rotom to use a turbo boost.",
+  "ja": "ポケモンの ロトムが モーターに 入ったことで ターボが できるようになった じてんしゃ。"
+ }
+}

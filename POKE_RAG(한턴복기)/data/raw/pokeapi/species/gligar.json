@@ -1,0 +1,42 @@
+{
+ "id": 207,
+ "name": "gligar",
+ "names": {
+  "ja-hrkt": "グライガー",
+  "ja-roma": "Gliger",
+  "ko": "글라이거",
+  "zh-hant": "天蠍",
+  "fr": "Scorplane",
+  "de": "Skorgla",
+  "es": "Gligar",
+  "it": "Gligar",
+  "en": "Gligar",
+  "ja": "グライガー",
+  "zh-hans": "天蝎",
+  "es-419": "Gligar"
+ },
+ "genus": {
+  "ja-hrkt": "とびさそりポケモン",
+  "ko": "날전갈포켓몬",
+  "zh-hant": "飛蠍寶可夢",
+  "fr": "Pokémon Scorpivol",
+  "de": "Flugskorpi",
+  "es": "Pokémon Escorpiala",
+  "it": "Pokémon Aliscorpio",
+  "en": "Fly Scorpion Pokémon",
+  "ja": "とびさそりポケモン",
+  "zh-hans": "飞蝎宝可梦",
+  "es-419": "Pokémon Escorpiala"
+ },
+ "flavor": {
+  "en": "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom.",
+  "ko": "소리 내지 않고 미끄러지듯 활공한다. 양손의 커다란 손톱과 발의 발톱으로 먹이의 얼굴에 달라붙어 독침을 찌른다."
+ },
+ "varieties": [
+  {
+   "name": "gligar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "104"
+}

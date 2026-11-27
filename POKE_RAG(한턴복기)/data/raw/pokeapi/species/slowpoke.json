@@ -1,0 +1,46 @@
+{
+ "id": 79,
+ "name": "slowpoke",
+ "names": {
+  "ja-hrkt": "ヤドン",
+  "ja-roma": "Yadon",
+  "ko": "야돈",
+  "zh-hant": "呆呆獸",
+  "fr": "Ramoloss",
+  "de": "Flegmon",
+  "es": "Slowpoke",
+  "it": "Slowpoke",
+  "en": "Slowpoke",
+  "ja": "ヤドン",
+  "zh-hans": "呆呆兽",
+  "es-419": "Slowpoke"
+ },
+ "genus": {
+  "ja-hrkt": "まぬけポケモン",
+  "ko": "얼간이포켓몬",
+  "zh-hant": "憨憨寶可夢",
+  "fr": "Pokémon Crétin",
+  "de": "Schnarcher-Pokémon",
+  "es": "Pokémon Atontado",
+  "it": "Pokémon Ronfone",
+  "en": "Dopey Pokémon",
+  "ja": "まぬけポケモン",
+  "zh-hans": "憨憨宝可梦",
+  "es-419": "Pokémon Atontado"
+ },
+ "flavor": {
+  "en": "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon.",
+  "ko": "꼬리를 물에 담가두면 단맛이 배어 나오기 때문에 이를 미끼로 포켓몬을 유인해서 낚는다."
+ },
+ "varieties": [
+  {
+   "name": "slowpoke",
+   "is_default": true
+  },
+  {
+   "name": "slowpoke-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "33"
+}

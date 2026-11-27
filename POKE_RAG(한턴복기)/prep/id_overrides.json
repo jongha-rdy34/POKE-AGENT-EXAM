@@ -1,0 +1,13 @@
+{
+  "form_key": {
+    "0670-05": "floette-eternal",
+    "0666-18": "vivillon",
+    "0925-01": "maushold-family-of-four"
+  },
+  "form_ok": {
+    "0711-01": "こだましゅ=ちいさいサイズ(small). varieties 순서·크기명이 일치하며 일본어 표기만 다름",
+    "0711-02": "おおだましゅ=おおきいサイズ(large). 위와 같음",
+    "0666-18": "ビビヨン 무늬는 별도 pokemon이 아니라 pokemon-form이므로 기본 vivillon에 연결(종족값 동일)",
+    "0925-01": "pokedb ４ひきかぞく = PokeAPI 기본 maushold-family-of-four. 인덱스 1은 3마리 폼이라 보정"
+  }
+}

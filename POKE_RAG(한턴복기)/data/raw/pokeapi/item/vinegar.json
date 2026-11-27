@@ -1,0 +1,20 @@
+{
+ "name": "vinegar",
+ "names": {
+  "ja-hrkt": "ビネガー",
+  "ko": "비니거",
+  "zh-hant": "醋",
+  "fr": "Vinaigre",
+  "de": "Essig",
+  "es": "Vinagre",
+  "it": "Aceto",
+  "en": "Vinegar",
+  "ja": "ビネガー",
+  "zh-hans": "醋"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

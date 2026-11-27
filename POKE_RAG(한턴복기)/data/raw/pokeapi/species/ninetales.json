@@ -1,0 +1,46 @@
+{
+ "id": 38,
+ "name": "ninetales",
+ "names": {
+  "ja-hrkt": "キュウコン",
+  "ja-roma": "Kyukon",
+  "ko": "나인테일",
+  "zh-hant": "九尾",
+  "fr": "Feunard",
+  "de": "Vulnona",
+  "es": "Ninetales",
+  "it": "Ninetales",
+  "en": "Ninetales",
+  "ja": "キュウコン",
+  "zh-hans": "九尾",
+  "es-419": "Ninetales"
+ },
+ "genus": {
+  "ja-hrkt": "きつねポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs-Pokémon",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "きつねポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "en": "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium.",
+  "ko": "머리가 좋고 집념이 강하다. 장난으로 꼬리를 잡으면 1000년 동안 화를 입는다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "ninetales",
+   "is_default": true
+  },
+  {
+   "name": "ninetales-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "15"
+}

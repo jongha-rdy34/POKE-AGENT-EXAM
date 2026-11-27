@@ -1,0 +1,42 @@
+{
+ "id": 22,
+ "name": "fearow",
+ "names": {
+  "ja-hrkt": "オニドリル",
+  "ja-roma": "Onidrill",
+  "ko": "깨비드릴조",
+  "zh-hant": "大嘴雀",
+  "fr": "Rapasdepic",
+  "de": "Ibitak",
+  "es": "Fearow",
+  "it": "Fearow",
+  "en": "Fearow",
+  "ja": "オニドリル",
+  "zh-hans": "大嘴雀",
+  "es-419": "Fearow"
+ },
+ "genus": {
+  "ja-hrkt": "くちばしポケモン",
+  "ko": "부리포켓몬",
+  "zh-hant": "鳥嘴寶可夢",
+  "fr": "Pokémon Bec-Oiseau",
+  "de": "Pickvogel",
+  "es": "Pokémon Pico",
+  "it": "Pokémon Becco",
+  "en": "Beak Pokémon",
+  "ja": "くちばしポケモン",
+  "zh-hans": "鸟嘴宝可梦",
+  "es-419": "Pokémon Pico"
+ },
+ "flavor": {
+  "en": "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",
+  "ko": "옛날부터 살고 있는 포켓몬. 조금이라도 위험을 감지하면 하늘 높이 날아가 버린다."
+ },
+ "varieties": [
+  {
+   "name": "fearow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "8"
+}

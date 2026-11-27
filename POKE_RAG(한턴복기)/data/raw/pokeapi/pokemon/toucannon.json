@@ -1,0 +1,89 @@
+{
+ "id": 733,
+ "name": "toucannon",
+ "species": "toucannon",
+ "is_default": true,
+ "types": [
+  "normal",
+  "flying"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 120,
+  "defense": 75,
+  "special-attack": 75,
+  "special-defense": 75,
+  "speed": 60
+ },
+ "abilities": [
+  {
+   "name": "keen-eye",
+   "hidden": false
+  },
+  {
+   "name": "skill-link",
+   "hidden": false
+  },
+  {
+   "name": "sheer-force",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 260,
+ "champions_moves": [
+  "acrobatics",
+  "aerial-ace",
+  "air-cutter",
+  "air-slash",
+  "attract",
+  "beak-blast",
+  "boomburst",
+  "brave-bird",
+  "brick-break",
+  "bullet-seed",
+  "drill-peck",
+  "dual-wingbeat",
+  "encore",
+  "endeavor",
+  "endure",
+  "facade",
+  "feather-dance",
+  "flame-charge",
+  "flash-cannon",
+  "fly",
+  "giga-impact",
+  "gunk-shot",
+  "heat-wave",
+  "helping-hand",
+  "hurricane",
+  "hyper-beam",
+  "hyper-voice",
+  "knock-off",
+  "overheat",
+  "pluck",
+  "protect",
+  "psych-up",
+  "rest",
+  "rock-blast",
+  "roost",
+  "round",
+  "scary-face",
+  "screech",
+  "seed-bomb",
+  "sky-attack",
+  "sleep-talk",
+  "smack-down",
+  "snore",
+  "steel-wing",
+  "substitute",
+  "sunny-day",
+  "swords-dance",
+  "tailwind",
+  "temper-flare",
+  "thief",
+  "throat-chop",
+  "u-turn",
+  "uproar"
+ ]
+}

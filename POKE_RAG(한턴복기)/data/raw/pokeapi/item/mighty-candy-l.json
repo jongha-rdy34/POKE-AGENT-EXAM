@@ -1,0 +1,25 @@
+{
+ "name": "mighty-candy-l",
+ "names": {
+  "ja-hrkt": "ちからのアメＬ",
+  "ko": "힘의사탕L",
+  "zh-hant": "力量糖果Ｌ",
+  "fr": "Bonbon Force M",
+  "de": "Stärkebonbon+",
+  "es": "Caramelo Músculo +",
+  "it": "Caramella potenza M",
+  "en": "Mighty Candy L",
+  "ja": "ちからのアメＬ",
+  "zh-hans": "力量糖果Ｌ",
+  "es-419": "Caramelo Músculo +"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 큰 사탕. 레벨 30 이상인 포켓몬의 공격을 올린다.",
+  "en": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Attack stat.",
+  "ja": "エネルギーの つまった 大きい アメ。 レベル３０ 以上の ポケモンの こうげきを 上げる。"
+ }
+}

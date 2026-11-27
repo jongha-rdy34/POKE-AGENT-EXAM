@@ -1,0 +1,28 @@
+{
+ "name": "festival-ticket",
+ "names": {
+  "ja-hrkt": "フェスチケット",
+  "ko": "페스티켓",
+  "zh-hant": "圓慶票",
+  "fr": "Festicket",
+  "de": "Festival-Ticket",
+  "es": "Festicupón",
+  "it": "Festicket",
+  "en": "Festival Ticket",
+  "ja": "フェスチケット",
+  "zh-hans": "圆庆票",
+  "es-419": "Festicupón"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Héberge une mission à la Place Festival.",
+  "en": "Hosts a mission in Festival Plaza."
+ },
+ "flavor": {
+  "ko": "페스서클에서 어트랙션을 개최할 수 있다.",
+  "en": "A ticket that allows you to host a mission in Festival Plaza.",
+  "ja": "フェスサークルで アトラクションを 開くことが できる。"
+ }
+}

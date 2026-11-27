@@ -1,0 +1,28 @@
+{
+ "name": "tm08",
+ "names": {
+  "ja-hrkt": "わざマシン０８",
+  "ko": "기술머신08",
+  "zh-hant": "招式學習器０８",
+  "fr": "CT08",
+  "de": "TM08",
+  "es": "MT08",
+  "it": "MT08",
+  "en": "TM08",
+  "ja": "わざマシン０８",
+  "zh-hans": "招式学习器０８",
+  "es-419": "MT08"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Gonflette à un Pokémon compatible. (Gén II:  Éclate-Roc Gén I: Plaquage)",
+  "en": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)"
+ },
+ "flavor": {
+  "en": "The target is attacked with a powerful beam. The user can’t move on the next turn.",
+  "ko": "강한 광선을 상대에게 발사하여 공격한다. 다음 턴은 움직일 수 없다.",
+  "ja": "強い 光線を 相手に 発射して 攻撃する。 次の ターンは 動けなくなる。"
+ }
+}

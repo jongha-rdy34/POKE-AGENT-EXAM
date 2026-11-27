@@ -1,0 +1,30 @@
+{
+ "name": "ganlon-berry",
+ "names": {
+  "ja-hrkt": "リュガのみ",
+  "ko": "용아열매",
+  "zh-hant": "龍睛果",
+  "fr": "Baie Lingan",
+  "de": "Linganbeere",
+  "es": "Baya Gonlan",
+  "it": "Baccalongan",
+  "en": "Ganlon Berry",
+  "ja": "リュガのみ",
+  "zh-hans": "龙睛果",
+  "es-419": "Baya Gonlan"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster la Défense.",
+  "en": "Held: Consumed at 1/4 max HP to boost Defense."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its Defense stat will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 자신의 방어가 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 自分の 防御が あがる。"
+ }
+}

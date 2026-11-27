@@ -1,0 +1,31 @@
+{
+ "name": "stomping-tantrum",
+ "names": {
+  "ja-hrkt": "じだんだ",
+  "ko": "분함의발구르기",
+  "zh-hant": "跺腳",
+  "fr": "Trépignement",
+  "de": "Fruststampfer",
+  "es": "Pataleta",
+  "it": "Battipiedi",
+  "en": "Stomping Tantrum",
+  "ja": "じだんだ",
+  "zh-hans": "跺脚",
+  "es-419": "Pataleta"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has double power if the user’s last move failed."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "분함을 발판 삼아 공격한다. 앞 턴에서 기술이 빗나갔다면 위력이 배가 된다.",
+  "en": "Driven by frustration, the user attacks the target. This move's power is doubled if the user's previous move failed."
+ }
+}

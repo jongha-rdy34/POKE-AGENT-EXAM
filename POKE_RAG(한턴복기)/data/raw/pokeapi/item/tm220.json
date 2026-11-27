@@ -1,0 +1,19 @@
+{
+ "name": "tm220",
+ "names": {
+  "ko": "기술머신220",
+  "zh-hant": "招式學習器２２０",
+  "fr": "CT220",
+  "de": "TM220",
+  "es": "MT220",
+  "it": "MT220",
+  "en": "TM220",
+  "ja": "わざマシン２２０",
+  "zh-hans": "招式学习器２２０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

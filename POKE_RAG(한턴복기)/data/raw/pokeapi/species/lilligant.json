@@ -1,0 +1,46 @@
+{
+ "id": 549,
+ "name": "lilligant",
+ "names": {
+  "ja-hrkt": "ドレディア",
+  "ja-roma": "Dredear",
+  "ko": "드레디어",
+  "zh-hant": "裙兒小姐",
+  "fr": "Fragilady",
+  "de": "Dressella",
+  "es": "Lilligant",
+  "it": "Lilligant",
+  "en": "Lilligant",
+  "ja": "ドレディア",
+  "zh-hans": "裙儿小姐",
+  "es-419": "Lilligant"
+ },
+ "genus": {
+  "ja-hrkt": "はなかざりポケモン",
+  "ko": "꽃장식포켓몬",
+  "zh-hant": "花飾寶可夢",
+  "fr": "Pokémon Chef-Fleur",
+  "de": "Blumenzier-Pokémon",
+  "es": "Pokémon Adornofloral",
+  "it": "Pokémon Fiorfronzolo",
+  "en": "Flowering Pokémon",
+  "ja": "はなかざりポケモン",
+  "zh-hans": "花饰宝可梦",
+  "es-419": "Pokémon Adornofloral"
+ },
+ "flavor": {
+  "en": "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity.",
+  "ko": "꽃으로 만든 정유는 최고의 향을 내지만 눈이 튀어나올 정도로 비싸다."
+ },
+ "varieties": [
+  {
+   "name": "lilligant",
+   "is_default": true
+  },
+  {
+   "name": "lilligant-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "279"
+}

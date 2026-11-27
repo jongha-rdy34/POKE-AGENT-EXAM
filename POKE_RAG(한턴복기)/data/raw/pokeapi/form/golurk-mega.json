@@ -1,0 +1,15 @@
+{
+ "name": "golurk-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Golemastoc",
+  "en": "Mega Golurk"
+ },
+ "form_names": {
+  "ja-hrkt": "メガゴルーグ",
+  "fr": "Méga-Golemastoc",
+  "en": "Mega Golurk",
+  "ja": "メガゴルーグ"
+ },
+ "is_mega": true
+}

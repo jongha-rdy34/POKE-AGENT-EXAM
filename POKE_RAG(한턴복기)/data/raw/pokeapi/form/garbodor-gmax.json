@@ -1,0 +1,17 @@
+{
+ "name": "garbodor-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Miasmax Gigamax",
+  "de": "Gigadynamax-Deponitox",
+  "en": "Gigantamax Garbodor"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

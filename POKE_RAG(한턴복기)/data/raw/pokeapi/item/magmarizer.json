@@ -1,0 +1,28 @@
+{
+ "name": "magmarizer",
+ "names": {
+  "ja-hrkt": "マグマブースター",
+  "ko": "마그마부스터",
+  "zh-hant": "熔岩增幅器",
+  "fr": "Magmariseur",
+  "de": "Magmaisierer",
+  "es": "Magmatizador",
+  "it": "Magmatore",
+  "en": "Magmarizer",
+  "ja": "マグマブースター",
+  "zh-hans": "熔岩增幅器",
+  "es-419": "Magmatizador"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur un Magmar: Le porteur évolue en Maganon.",
+  "en": "Traded on a Magmar: Holder evolves into Magmortar."
+ },
+ "flavor": {
+  "en": "A box packed with a tremendous amount of magma energy. It’s loved by a certain Pokémon.",
+  "ko": "엄청난 마그마의 에너지가 비축되어 있는 상자. 어떤 포켓몬이 좋아하는 물건이다.",
+  "ja": "とてつもない マグマの エネルギーが 蓄えられている 箱。 ある ポケモンが 好んでいる。"
+ }
+}

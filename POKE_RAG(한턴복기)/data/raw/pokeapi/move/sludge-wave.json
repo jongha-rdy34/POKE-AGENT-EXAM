@@ -1,0 +1,31 @@
+{
+ "name": "sludge-wave",
+ "names": {
+  "ja-hrkt": "ヘドロウェーブ",
+  "ko": "오물웨이브",
+  "zh-hant": "污泥波",
+  "fr": "Cradovague",
+  "de": "Schlammwoge",
+  "es": "Onda Tóxica",
+  "it": "Fangonda",
+  "en": "Sludge Wave",
+  "ja": "ヘドロウェーブ",
+  "zh-hans": "污泥波",
+  "es-419": "Ola de Lodo"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 95,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Has a chance to poison the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits.",
+  "ko": "오물 파도로 자신의 주위에 있는 포켓몬을 공격한다. 독 상태로 만들 때가 있다."
+ }
+}

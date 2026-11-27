@@ -1,0 +1,25 @@
+{
+ "name": "max-lure",
+ "names": {
+  "ja-hrkt": "ゴールドコロン",
+  "ko": "골드코롱",
+  "zh-hant": "黃金香水",
+  "fr": "Parfum Max",
+  "de": "Top-Lockparfüm",
+  "es": "Colonia Máxima",
+  "it": "Profumo Max",
+  "en": "Max Lure",
+  "ja": "ゴールドコロン",
+  "zh-hans": "黄金香水",
+  "es-419": "Colonia Máxima"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용하면 희귀한 포켓몬이 나오기 쉬워지는 향수. 실버코롱보다 효과가 오래간다.",
+  "en": "A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Super Lure.",
+  "ja": "使うと 珍しい ポケモンが 出て きやすく なる 香水。 シルバーコロンより 長く もつ。"
+ }
+}

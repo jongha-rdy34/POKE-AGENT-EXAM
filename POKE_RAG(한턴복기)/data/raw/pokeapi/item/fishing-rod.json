@@ -1,0 +1,28 @@
+{
+ "name": "fishing-rod",
+ "names": {
+  "ja-hrkt": "つりざお",
+  "ko": "낚싯대",
+  "zh-hant": "釣竿",
+  "fr": "Canne à Pêche",
+  "de": "Angel",
+  "es": "Caña",
+  "it": "Amo",
+  "en": "Fishing Rod",
+  "ja": "つりざお",
+  "zh-hans": "钓竿",
+  "es-419": "Caña"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de pêcher des Pokémon.",
+  "en": "Allows the player to fish for Pokémon."
+ },
+ "flavor": {
+  "ko": "캡틴 수련이 만든 낚싯대. 바위그늘을 향해서 사용하면 포켓몬을 낚을 수 있다.",
+  "en": "A fishing rod made by Captain Lana. Cast a line over piles of underwater rocks to fish for wild aquatic Pokémon.",
+  "ja": "キャプテン スイレンが 作った つりざお。 岩陰に 向かって 使うと ポケモンが つれる。"
+ }
+}

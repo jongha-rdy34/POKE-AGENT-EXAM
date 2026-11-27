@@ -1,0 +1,25 @@
+{
+ "name": "tr41",
+ "names": {
+  "ja-hrkt": "わざレコード４１",
+  "ko": "기술레코드41",
+  "zh-hant": "招式紀錄４１",
+  "fr": "DT41",
+  "de": "TP41",
+  "es": "DT41",
+  "it": "DT41",
+  "en": "TR41",
+  "ja": "わざレコード４１",
+  "zh-hans": "招式记录４１",
+  "es-419": "DT41"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "공격한 상대를 화상 상태로 만들 때가 있다. 급소에도 맞기 쉽다.",
+  "en": "The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.",
+  "ja": "攻撃した 相手を やけど状態に することが ある。 急所にも 当たりやすい。"
+ }
+}

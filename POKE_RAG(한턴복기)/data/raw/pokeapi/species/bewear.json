@@ -1,0 +1,42 @@
+{
+ "id": 760,
+ "name": "bewear",
+ "names": {
+  "ja-hrkt": "キテルグマ",
+  "ja-roma": "Kiteruguma",
+  "ko": "이븐곰",
+  "zh-hant": "穿著熊",
+  "fr": "Chelours",
+  "de": "Kosturso",
+  "es": "Bewear",
+  "it": "Bewear",
+  "en": "Bewear",
+  "ja": "キテルグマ",
+  "zh-hans": "穿着熊",
+  "es-419": "Bewear"
+ },
+ "genus": {
+  "ja-hrkt": "ごうわんポケモン",
+  "ko": "강한완력포켓몬",
+  "zh-hant": "強臂寶可夢",
+  "fr": "Pokémon Biscoteaux",
+  "de": "Kraftarme-Pokémon",
+  "es": "Pokémon Brazo Fuerte",
+  "it": "Pokémon Fortebraccio",
+  "en": "Strong Arm Pokémon",
+  "ja": "ごうわんポケモン",
+  "zh-hans": "强臂宝可梦",
+  "es-419": "Pokémon Brazo Fuerte"
+ },
+ "flavor": {
+  "ko": "격투가가 무색할 정도의 기술로 먹이를 잡아 양쪽 겨드랑이에 끼우고 거처로 갖고 간다.",
+  "en": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest."
+ },
+ "varieties": [
+  {
+   "name": "bewear",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "391"
+}

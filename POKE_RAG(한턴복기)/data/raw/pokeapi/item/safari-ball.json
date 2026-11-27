@@ -1,0 +1,33 @@
+{
+ "name": "safari-ball",
+ "names": {
+  "ja-hrkt": "サファリボール",
+  "ko": "사파리볼",
+  "zh-hant": "狩獵球",
+  "fr": "Safari Ball",
+  "de": "Safariball",
+  "es": "Safari Ball",
+  "it": "Safari Ball",
+  "en": "Safari Ball",
+  "ja": "サファリボール",
+  "zh-hans": "狩猎球",
+  "es-419": "Safaribola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage dans le Grand Marais ou le Parc Safari. Le taux de succès est 1.5x.",
+  "en": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×."
+ },
+ "flavor": {
+  "en": "A special Poké Ball that was used in the Safari Zone in the Kanto region and in the Great Marsh in the Sinnoh region.",
+  "ko": "관동지방의 사파리존과 신오지방의 대습초원에서 사용되었던 특별한 볼.",
+  "ja": "カントー地方の サファリゾーンや シンオウ地方の 大湿原で 使われていた 特別な ボール。"
+ }
+}

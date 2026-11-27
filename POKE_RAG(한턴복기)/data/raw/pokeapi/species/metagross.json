@@ -1,0 +1,46 @@
+{
+ "id": 376,
+ "name": "metagross",
+ "names": {
+  "ja-hrkt": "メタグロス",
+  "ja-roma": "Metagross",
+  "ko": "메타그로스",
+  "zh-hant": "巨金怪",
+  "fr": "Métalosse",
+  "de": "Metagross",
+  "es": "Metagross",
+  "it": "Metagross",
+  "en": "Metagross",
+  "ja": "メタグロス",
+  "zh-hans": "巨金怪",
+  "es-419": "Metagross"
+ },
+ "genus": {
+  "ja-hrkt": "てつあしポケモン",
+  "ko": "무쇠다리포켓몬",
+  "zh-hant": "鐵足寶可夢",
+  "fr": "Pokémon Pattefer",
+  "de": "Eisenfuß-Pokémon",
+  "es": "Pokémon Pata Hierro",
+  "it": "Pokémon Ferrarto",
+  "en": "Iron Leg Pokémon",
+  "ja": "てつあしポケモン",
+  "zh-hans": "铁足宝可梦",
+  "es-419": "Pokémon Pata Hierro"
+ },
+ "flavor": {
+  "en": "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain.",
+  "ko": "2마리의 메탕구가 합체한 모습이다. 슈퍼컴퓨터 수준의 두뇌를 사용해 적을 쓰러뜨린다."
+ },
+ "varieties": [
+  {
+   "name": "metagross",
+   "is_default": true
+  },
+  {
+   "name": "metagross-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "192"
+}

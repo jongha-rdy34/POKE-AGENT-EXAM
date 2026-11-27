@@ -1,0 +1,19 @@
+{
+ "name": "tm202",
+ "names": {
+  "ko": "기술머신202",
+  "zh-hant": "招式學習器２０２",
+  "fr": "CT202",
+  "de": "TM202",
+  "es": "MT202",
+  "it": "MT202",
+  "en": "TM202",
+  "ja": "わざマシン２０２",
+  "zh-hans": "招式学习器２０２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

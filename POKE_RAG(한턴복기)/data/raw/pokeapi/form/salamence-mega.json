@@ -1,0 +1,23 @@
+{
+ "name": "salamence-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Drattak",
+  "de": "Mega-Brutalanda",
+  "en": "Mega Salamence"
+ },
+ "form_names": {
+  "ja-hrkt": "メガボーマンダ",
+  "ko": "메가보만다",
+  "zh-hant": "超級暴飛龍",
+  "fr": "Méga-Drattak",
+  "de": "Mega-Form",
+  "es": "Mega-Salamence",
+  "it": "MegaSalamence",
+  "en": "Mega Salamence",
+  "ja": "メガボーマンダ",
+  "zh-hans": "超级暴飞龙",
+  "es-419": "Mega-Salamence"
+ },
+ "is_mega": true
+}

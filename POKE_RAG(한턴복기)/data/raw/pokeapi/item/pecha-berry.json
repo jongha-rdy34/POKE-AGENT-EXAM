@@ -1,0 +1,30 @@
+{
+ "name": "pecha-berry",
+ "names": {
+  "ja-hrkt": "モモンのみ",
+  "ko": "복슝열매",
+  "zh-hant": "桃桃果",
+  "fr": "Baie Pêcha",
+  "de": "Pirsifbeere",
+  "es": "Baya Meloc",
+  "it": "Baccapesca",
+  "en": "Pecha Berry",
+  "ja": "モモンのみ",
+  "zh-hans": "桃桃果",
+  "es-419": "Baya Duraz"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé quand empoisonné pour soigner le poison.",
+  "en": "Held: Consumed when poisoned to cure poison."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can recover from poisoning on its own in battle.",
+  "ko": "포켓몬에게 지니게 하면 독을 회복한다.",
+  "ja": "ポケモンに 持たせると 毒を 回復する。"
+ }
+}

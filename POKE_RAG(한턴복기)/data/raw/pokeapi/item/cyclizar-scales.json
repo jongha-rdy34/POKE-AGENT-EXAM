@@ -1,0 +1,20 @@
+{
+ "name": "cyclizar-scales",
+ "names": {
+  "ja-hrkt": "モトトカゲのウロコ",
+  "ko": "모토마의비늘",
+  "zh-hant": "摩托蜥的鱗片",
+  "fr": "Écaille de Motorizard",
+  "de": "Mopex-Schuppe",
+  "es": "Escama de Cyclizar",
+  "it": "Squama di Cyclizar",
+  "en": "Cyclizar Scales",
+  "ja": "モトトカゲのウロコ",
+  "zh-hans": "摩托蜥的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

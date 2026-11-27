@@ -1,0 +1,42 @@
+{
+ "id": 548,
+ "name": "petilil",
+ "names": {
+  "ja-hrkt": "チュリネ",
+  "ja-roma": "Churine",
+  "ko": "치릴리",
+  "zh-hant": "百合根娃娃",
+  "fr": "Chlorobule",
+  "de": "Lilminip",
+  "es": "Petilil",
+  "it": "Petilil",
+  "en": "Petilil",
+  "ja": "チュリネ",
+  "zh-hans": "百合根娃娃",
+  "es-419": "Petilil"
+ },
+ "genus": {
+  "ja-hrkt": "ねっこポケモン",
+  "ko": "뿌리포켓몬",
+  "zh-hant": "根莖寶可夢",
+  "fr": "Pokémon Racine",
+  "de": "Wurzel-Pokémon",
+  "es": "Pokémon Bulbo",
+  "it": "Pokémon Radice",
+  "en": "Bulb Pokémon",
+  "ja": "ねっこポケモン",
+  "zh-hans": "根茎宝可梦",
+  "es-419": "Pokémon Bulbo"
+ },
+ "flavor": {
+  "en": "The leaves on its head are highly valued for medicinal purposes. Dry the leaves in the sun, boil them, and then drink the bitter decoction for remarkably effective relief from fatigue.",
+  "ko": "잎사귀의 색이 짙을수록 건강하다. 잘 정돈된 밭이나 화단에 자리잡고 살기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "petilil",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "279"
+}

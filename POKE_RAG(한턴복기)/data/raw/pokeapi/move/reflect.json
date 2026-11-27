@@ -1,0 +1,31 @@
+{
+ "name": "reflect",
+ "names": {
+  "ja-hrkt": "リフレクター",
+  "ko": "리플렉터",
+  "zh-hant": "反射壁",
+  "fr": "Protection",
+  "de": "Reflektor",
+  "es": "Reflejo",
+  "it": "Riflesso",
+  "en": "Reflect",
+  "ja": "リフレクター",
+  "zh-hans": "反射壁",
+  "es-419": "Reflejo"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "users-field",
+ "effect": {
+  "en": "Reduces damage from physical attacks by half."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A wondrous wall of light is put up to reduce damage from physical moves for five turns.",
+  "ko": "5턴 동안 이상한 장막을 쳐서 상대로부터 받는 물리공격의 데미지를 약하게 한다."
+ }
+}

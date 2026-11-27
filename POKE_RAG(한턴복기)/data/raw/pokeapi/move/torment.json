@@ -1,0 +1,31 @@
+{
+ "name": "torment",
+ "names": {
+  "ja-hrkt": "いちゃもん",
+  "ko": "트집",
+  "zh-hant": "無理取鬧",
+  "fr": "Tourmente",
+  "de": "Folterknecht",
+  "es": "Tormento",
+  "it": "Attaccalite",
+  "en": "Torment",
+  "ja": "いちゃもん",
+  "zh-hans": "无理取闹",
+  "es-419": "Tormento"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from using the same move twice in a row."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user torments and enrages the target, making it incapable of using the same move twice in a row.",
+  "ko": "상대에게 트집을 잡아서 똑같은 기술을 2회 연속으로 쓸 수 없게 한다."
+ }
+}

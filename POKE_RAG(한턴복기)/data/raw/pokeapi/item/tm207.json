@@ -1,0 +1,19 @@
+{
+ "name": "tm207",
+ "names": {
+  "ko": "기술머신207",
+  "zh-hant": "招式學習器２０７",
+  "fr": "CT207",
+  "de": "TM207",
+  "es": "MT207",
+  "it": "MT207",
+  "en": "TM207",
+  "ja": "わざマシン２０７",
+  "zh-hans": "招式学习器２０７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

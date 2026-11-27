@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-gem2484",
+ "names": {
+  "ja-hrkt": "★Gem2484",
+  "ko": "★Gem2484",
+  "zh-hant": "★Gem2484",
+  "fr": "★Gem2484",
+  "de": "★Gem2484",
+  "es": "★Gem2484",
+  "it": "★Gem2484",
+  "en": "★Gem2484",
+  "ja": "★Gem2484",
+  "zh-hans": "★Gem2484",
+  "es-419": "★Gem2484"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

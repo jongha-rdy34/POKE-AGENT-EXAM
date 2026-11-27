@@ -1,0 +1,20 @@
+{
+ "name": "tm150",
+ "names": {
+  "ja-hrkt": "わざマシン１５０",
+  "ko": "기술머신150",
+  "zh-hant": "招式學習器１５０",
+  "fr": "CT150",
+  "de": "TM150",
+  "es": "MT150",
+  "it": "MT150",
+  "en": "TM150",
+  "ja": "わざマシン１５０",
+  "zh-hans": "招式学习器１５０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

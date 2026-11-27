@@ -1,0 +1,39 @@
+{
+ "id": 900,
+ "name": "kleavor",
+ "names": {
+  "ja-hrkt": "バサギリ",
+  "ja-roma": "Basagiri",
+  "ko": "사마자르",
+  "zh-hant": "劈斧螳螂",
+  "fr": "Hachécateur",
+  "de": "Axantor",
+  "es": "Kleavor",
+  "it": "Kleavor",
+  "en": "Kleavor",
+  "ja": "バサギリ",
+  "zh-hans": "劈斧螳螂",
+  "es-419": "Kleavor"
+ },
+ "genus": {
+  "ja-hrkt": "まさかりポケモン",
+  "ko": "큰도끼포켓몬",
+  "zh-hant": "斧鉞寶可夢",
+  "fr": "Pokémon Hache",
+  "de": "Axt-Pokémon",
+  "it": "Pokémon Scure",
+  "en": "Axe Pokémon",
+  "ja": "まさかりポケモン",
+  "zh-hans": "斧钺宝可梦"
+ },
+ "flavor": {
+  "en": "A violent creature that fells towering trees with its crude axes and shields itself with hard stone. If one should chance upon this Pokémon in the wilds, one's only recourse is to flee."
+ },
+ "varieties": [
+  {
+   "name": "kleavor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "58"
+}

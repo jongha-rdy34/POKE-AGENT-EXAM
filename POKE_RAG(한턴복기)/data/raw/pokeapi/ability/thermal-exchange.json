@@ -1,0 +1,24 @@
+{
+ "name": "thermal-exchange",
+ "names": {
+  "ja-hrkt": "ねつこうかん",
+  "ko": "열교환",
+  "zh-hant": "熱交換",
+  "fr": "Thermodynamique",
+  "de": "Thermowandel",
+  "es": "Termoconversión",
+  "it": "Termoscambio",
+  "en": "Thermal Exchange",
+  "cs": "Tepelná výměna",
+  "ja": "ねつこうかん",
+  "zh-hans": "热交换",
+  "pt-br": "Termoconversão",
+  "es-419": "Termoscambio"
+ },
+ "effect": {
+  "en": "Raises Attack when hit by a Fire-type move. Cannot be burned."
+ },
+ "flavor": {
+  "en": "Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "impish-mint",
+ "names": {
+  "ja-hrkt": "わんぱくミント",
+  "ko": "장난꾸러기민트",
+  "zh-hant": "淘氣薄荷",
+  "fr": "Aromate Malin",
+  "de": "Pfiffig-Minze",
+  "es": "Menta Agitada",
+  "it": "Menta Scaltra",
+  "en": "Impish Mint",
+  "ja": "わんぱくミント",
+  "zh-hans": "淘气薄荷",
+  "es-419": "Menta Agitada"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 방어가 오르기 쉬워지지만 특수공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Defense will grow more easily, but its Sp. Atk will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 防御が 上がりやすく なるが 特攻は 上がりにくくなる ミント。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "charizardite-y",
+ "names": {
+  "ja-hrkt": "リザードナイトＹ",
+  "ko": "리자몽나이트Y",
+  "zh-hant": "噴火龍進化石Ｙ",
+  "fr": "Dracaufite Y",
+  "de": "Gluraknit Y",
+  "es": "Charizardita Y",
+  "it": "Charizardite Y",
+  "en": "Charizardite Y",
+  "ja": "リザードナイトＹ",
+  "zh-hans": "喷火龙进化石Ｙ",
+  "es-419": "Charizardita Y"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Dracaufeu de Méga-Évoluer en Méga-Dracaufeu Y.",
+  "en": "Held: Allows Charizard to Mega Evolve into Mega Charizard Y."
+ },
+ "flavor": {
+  "ko": "리자몽에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Charizard hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "リザードンに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

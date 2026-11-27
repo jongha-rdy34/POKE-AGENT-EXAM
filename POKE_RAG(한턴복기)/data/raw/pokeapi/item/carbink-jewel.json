@@ -1,0 +1,20 @@
+{
+ "name": "carbink-jewel",
+ "names": {
+  "ja-hrkt": "メレシーのほうせき",
+  "ko": "멜리시의보석",
+  "zh-hant": "小碎鑽的寶石",
+  "fr": "Joyau de Strassie",
+  "de": "Rocara-Edelstein",
+  "es": "Gema de Carbink",
+  "it": "Gemma di Carbink",
+  "en": "Carbink Jewel",
+  "ja": "メレシーのほうせき",
+  "zh-hans": "小碎钻的宝石"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

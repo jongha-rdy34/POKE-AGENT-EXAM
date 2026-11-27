@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-kalos-cap",
+ "form_name": "kalos-cap",
+ "names": {
+  "fr": "Pikachu Casquette de Kalos",
+  "de": "Pikachu (Kalos-Kappe)",
+  "en": "Kalos Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "カロスキャップ",
+  "ko": "칼로스캡",
+  "zh-hant": "卡洛斯帽子",
+  "fr": "Casquette de Kalos",
+  "de": "Kalos-Kappe",
+  "es": "Gorra Kalos",
+  "it": "Berretto Kalos",
+  "en": "Kalos Cap",
+  "ja": "カロスキャップ",
+  "zh-hans": "卡洛斯帽子",
+  "es-419": "Gorra Kalos"
+ },
+ "is_mega": false
+}

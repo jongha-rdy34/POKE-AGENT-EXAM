@@ -1,0 +1,19 @@
+{
+ "name": "tm219",
+ "names": {
+  "ko": "기술머신219",
+  "zh-hant": "招式學習器２１９",
+  "fr": "CT219",
+  "de": "TM219",
+  "es": "MT219",
+  "it": "MT219",
+  "en": "TM219",
+  "ja": "わざマシン２１９",
+  "zh-hans": "招式学习器２１９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

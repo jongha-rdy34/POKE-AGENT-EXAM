@@ -1,0 +1,28 @@
+{
+ "name": "tm26",
+ "names": {
+  "ja-hrkt": "わざマシン２６",
+  "ko": "기술머신26",
+  "zh-hant": "招式學習器２６",
+  "fr": "CT26",
+  "de": "TM26",
+  "es": "MT26",
+  "it": "MT26",
+  "en": "TM26",
+  "ja": "わざマシン２６",
+  "zh-hans": "招式学习器２６",
+  "es-419": "MT26"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Séisme à un Pokémon compatible.",
+  "en": "Teaches Earthquake to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user frightens the target with a scary face to harshly lower its Speed stat.",
+  "ko": "무서운 얼굴로 노려보고 겁주어 상대의 스피드를 크게 떨어뜨린다.",
+  "ja": "恐ろしい 顔で にらみ おびえさせて 相手の 素早さを がくっと さげる。"
+ }
+}

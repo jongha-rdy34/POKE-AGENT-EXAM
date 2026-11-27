@@ -1,0 +1,46 @@
+{
+ "id": 75,
+ "name": "graveler",
+ "names": {
+  "ja-hrkt": "ゴローン",
+  "ja-roma": "Golone",
+  "ko": "데구리",
+  "zh-hant": "隆隆石",
+  "fr": "Gravalanch",
+  "de": "Georok",
+  "es": "Graveler",
+  "it": "Graveler",
+  "en": "Graveler",
+  "ja": "ゴローン",
+  "zh-hans": "隆隆石",
+  "es-419": "Graveler"
+ },
+ "genus": {
+  "ja-hrkt": "がんせきポケモン",
+  "ko": "암석포켓몬",
+  "zh-hant": "岩石寶可夢",
+  "fr": "Pokémon Roche",
+  "de": "Gestein",
+  "es": "Pokémon Roca",
+  "it": "Pokémon Roccia",
+  "en": "Rock Pokémon",
+  "ja": "がんせきポケモン",
+  "zh-hans": "岩石宝可梦",
+  "es-419": "Pokémon Roca"
+ },
+ "flavor": {
+  "en": "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads.",
+  "ko": "산길에서 자주 굴러다닌다. 가는 길에 무엇이 있든 전혀 신경 쓰지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "graveler",
+   "is_default": true
+  },
+  {
+   "name": "graveler-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "31"
+}

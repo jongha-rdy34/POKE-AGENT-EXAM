@@ -1,0 +1,28 @@
+{
+ "name": "moon-ball",
+ "names": {
+  "ja-hrkt": "ムーンボール",
+  "ko": "문볼",
+  "zh-hant": "月亮球",
+  "fr": "Lune Ball",
+  "de": "Mondball",
+  "es": "Luna Ball",
+  "it": "Luna Ball",
+  "en": "Moon Ball",
+  "ja": "ムーンボール",
+  "zh-hans": "月亮球",
+  "es-419": "Lunabola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "4× plus efficace sur les familles de Pokémon qui contiennent une évolution avec une Pierre Lune. Fait à partir de Noigrume Jne.",
+  "en": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that will make it easier to catch Pokémon that can evolve using a Moon Stone.",
+  "ko": "달의돌로 진화하는 포켓몬이 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "つきのいしで 進化する ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

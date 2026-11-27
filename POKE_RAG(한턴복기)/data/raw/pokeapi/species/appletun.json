@@ -1,0 +1,46 @@
+{
+ "id": 842,
+ "name": "appletun",
+ "names": {
+  "ja-hrkt": "タルップル",
+  "ja-roma": "Tarupple",
+  "ko": "단지래플",
+  "zh-hant": "豐蜜龍",
+  "fr": "Dratatin",
+  "de": "Schlapfel",
+  "es": "Appletun",
+  "it": "Appletun",
+  "en": "Appletun",
+  "ja": "タルップル",
+  "zh-hans": "丰蜜龙",
+  "es-419": "Appletun"
+ },
+ "genus": {
+  "ja-hrkt": "りんごじるポケモン",
+  "ko": "사과즙포켓몬",
+  "zh-hant": "蘋果汁寶可夢",
+  "fr": "Pokémon Jus Pomme",
+  "de": "Apfelnektar-Pokémon",
+  "es": "Pokémon Manzanéctar",
+  "it": "Pokémon Pomisucco",
+  "en": "Apple Nectar Pokémon",
+  "ja": "りんごじるポケモン",
+  "zh-hans": "苹果汁宝可梦",
+  "es-419": "Pokémon Manzanéctar"
+ },
+ "flavor": {
+  "ko": "달콤한 꿀로 몸이 둘러싸여 있다. 등의 껍질은 특히 더 달콤해서 옛날에는 어린이 간식이었다.",
+  "en": "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack."
+ },
+ "varieties": [
+  {
+   "name": "appletun",
+   "is_default": true
+  },
+  {
+   "name": "appletun-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "442"
+}

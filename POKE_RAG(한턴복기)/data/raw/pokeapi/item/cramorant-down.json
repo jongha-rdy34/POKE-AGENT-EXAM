@@ -1,0 +1,20 @@
+{
+ "name": "cramorant-down",
+ "names": {
+  "ja-hrkt": "ウッウのうもう",
+  "ko": "윽우지의솜털",
+  "zh-hant": "古月鳥的羽絨",
+  "fr": "Duvet de Nigosier",
+  "de": "Urgl-Daune",
+  "es": "Plumón de Cramorant",
+  "it": "Piuma di Cramorant",
+  "en": "Cramorant Down",
+  "ja": "ウッウのうもう",
+  "zh-hans": "古月鸟的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

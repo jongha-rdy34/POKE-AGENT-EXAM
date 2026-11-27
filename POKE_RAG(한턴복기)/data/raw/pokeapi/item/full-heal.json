@@ -1,0 +1,34 @@
+{
+ "name": "full-heal",
+ "names": {
+  "ja-hrkt": "なんでもなおし",
+  "ko": "만병통치제",
+  "zh-hant": "萬靈藥",
+  "fr": "Total Soin",
+  "de": "Hyperheiler",
+  "es": "Cura Total",
+  "it": "Cura totale",
+  "en": "Full Heal",
+  "ja": "なんでもなおし",
+  "zh-hans": "万灵药",
+  "es-419": "Cura Total"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne toutes les altérations de statut et la confusion.",
+  "en": "Cures any status ailment and confusion."
+ },
+ "flavor": {
+  "en": "A spray-type medicine that is broadly effective. It can be used to heal all the status conditions of a single Pokémon.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 상태 이상을 모두 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の 状態の 異常を すべて 回復する。"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": 992,
+ "name": "iron-hands",
+ "names": {
+  "ja-hrkt": "テツノカイナ",
+  "ja-roma": "Tetsunokaina",
+  "ko": "무쇠손",
+  "zh-hant": "鐵臂膀",
+  "fr": "Paume-de-Fer",
+  "de": "Eisenhand",
+  "es": "Ferropalmas",
+  "it": "Manoferrea",
+  "en": "Iron Hands",
+  "ja": "テツノカイナ",
+  "zh-hans": "铁臂膀",
+  "es-419": "Ferropalmas"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon shares many similarities with Iron Hands, an object mentioned in a certain expedition journal."
+ },
+ "varieties": [
+  {
+   "name": "iron-hands",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "523"
+}

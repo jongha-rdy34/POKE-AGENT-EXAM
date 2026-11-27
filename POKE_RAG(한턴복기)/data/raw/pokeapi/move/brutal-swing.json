@@ -1,0 +1,31 @@
+{
+ "name": "brutal-swing",
+ "names": {
+  "ja-hrkt": "ぶんまわす",
+  "ko": "세차게휘두르기",
+  "zh-hant": "狂舞揮打",
+  "fr": "Centrifugifle",
+  "de": "Wirbler",
+  "es": "Giro Vil",
+  "it": "Vorticolpo",
+  "en": "Brutal Swing",
+  "ja": "ぶんまわす",
+  "zh-hans": "狂舞挥打",
+  "es-419": "Giro Vil"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "자신의 몸을 세차게 휘둘러서 상대에게 데미지를 준다.",
+  "en": "The user swings its body around violently to inflict damage on everything in its vicinity."
+ }
+}

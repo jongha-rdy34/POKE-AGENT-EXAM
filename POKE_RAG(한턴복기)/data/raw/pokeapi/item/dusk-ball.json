@@ -1,0 +1,33 @@
+{
+ "name": "dusk-ball",
+ "names": {
+  "ja-hrkt": "ダークボール",
+  "ko": "다크볼",
+  "zh-hant": "黑暗球",
+  "fr": "Sombre Ball",
+  "de": "Finsterball",
+  "es": "Ocaso Ball",
+  "it": "Scuro Ball",
+  "en": "Dusk Ball",
+  "ja": "ダークボール",
+  "zh-hans": "黑暗球",
+  "es-419": "Ocasobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 3.5× la nuit et dans les grottes.",
+  "en": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places such as caves.",
+  "ko": "밤이나 동굴 등 어두운 곳에서 포켓몬을 잡기 쉬운 조금 특이한 볼.",
+  "ja": "夜や どうくつなど 暗いところで ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

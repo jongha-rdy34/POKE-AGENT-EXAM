@@ -1,0 +1,28 @@
+{
+ "name": "dragon-gem",
+ "names": {
+  "ja-hrkt": "ドラゴンジュエル",
+  "ko": "드래곤주얼",
+  "zh-hant": "龍之寶石",
+  "fr": "Joyau Dragon",
+  "de": "Drakojuwel",
+  "es": "Gema Dragón",
+  "it": "Bijoudrago",
+  "en": "Dragon Gem",
+  "ja": "ドラゴンジュエル",
+  "zh-hans": "龙之宝石",
+  "es-419": "Gema Dragón"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Quand le porteur utilise une capacité offensive de type Dragon, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Dragon-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move one time.",
+  "ko": "드래곤타입의 주얼. 지니게 하면 한 번만 드래곤 기술의 위력이 강해진다.",
+  "ja": "ドラゴンの タイプの ジュエル。 持たせると １度だけ ドラゴンの 技の 威力が 強まる。"
+ }
+}

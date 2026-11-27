@@ -1,0 +1,28 @@
+{
+ "name": "basement-key--goldenrod",
+ "names": {
+  "ja-hrkt": "ちかのかぎ",
+  "ko": "지하의열쇠",
+  "zh-hant": "地下鑰匙",
+  "fr": "Clé Sous-Sol",
+  "de": "Kelleröffner",
+  "es": "Llave Sótano",
+  "it": "Chiave sotterr.",
+  "en": "Basement Key",
+  "ja": "ちかのかぎ",
+  "zh-hans": "地下钥匙",
+  "es-419": "Llave Sótano"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour basement-key--goldenrod",
+  "en": "XXX new effect for basement-key--goldenrod"
+ },
+ "flavor": {
+  "ko": "금빛지하도에 있는 문을 여는 열쇠.",
+  "en": "A key that opens a door in the Goldenrod Tunnel.",
+  "ja": "コガネ地下道に ある 扉を 空ける カギ。"
+ }
+}

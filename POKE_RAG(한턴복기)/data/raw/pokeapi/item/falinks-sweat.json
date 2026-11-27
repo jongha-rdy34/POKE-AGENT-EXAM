@@ -1,0 +1,20 @@
+{
+ "name": "falinks-sweat",
+ "names": {
+  "ja-hrkt": "タイレーツのあせ",
+  "ko": "대여르의땀",
+  "zh-hant": "列陣兵的汗",
+  "fr": "Sueur d'Hexadron",
+  "de": "Legios-Schweiß",
+  "es": "Sudor de Falinks",
+  "it": "Sudore di Falinks",
+  "en": "Falinks Sweat",
+  "ja": "タイレーツのあせ",
+  "zh-hans": "列阵兵的汗"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

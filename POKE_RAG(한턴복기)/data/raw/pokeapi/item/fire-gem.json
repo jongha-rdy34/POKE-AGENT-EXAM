@@ -1,0 +1,28 @@
+{
+ "name": "fire-gem",
+ "names": {
+  "ja-hrkt": "ほのおのジュエル",
+  "ko": "불꽃주얼",
+  "zh-hant": "火之寶石",
+  "fr": "Joyau Feu",
+  "de": "Feuerjuwel",
+  "es": "Gema Fuego",
+  "it": "Bijoufuoco",
+  "en": "Fire Gem",
+  "ja": "ほのおのジュエル",
+  "zh-hans": "火之宝石",
+  "es-419": "Gema Fuego"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Feu, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Fire-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of fire. When held, it strengthens the power of a Fire-type move one time.",
+  "ko": "불꽃타입의 주얼. 지니게 하면 한 번만 불꽃 기술의 위력이 강해진다.",
+  "ja": "ほのおの タイプの ジュエル。 持たせると １度だけ ほのおの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "shadow-claw",
+ "names": {
+  "ja-hrkt": "シャドークロー",
+  "ko": "섀도클로",
+  "zh-hant": "暗影爪",
+  "fr": "Griffe Ombre",
+  "de": "Dunkelklaue",
+  "es": "Garra Umbría",
+  "it": "Ombrartigli",
+  "en": "Shadow Claw",
+  "ja": "シャドークロー",
+  "zh-hans": "暗影爪",
+  "es-419": "Garra de Sombra"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has an increased chance for a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit.",
+  "ko": "그림자로 만든 날카로운 발톱으로 상대를 베어 가른다. 급소에 맞기 쉽다."
+ }
+}

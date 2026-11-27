@@ -1,0 +1,28 @@
+{
+ "name": "tm85",
+ "names": {
+  "ja-hrkt": "わざマシン８５",
+  "ko": "기술머신85",
+  "zh-hant": "招式學習器８５",
+  "fr": "CT85",
+  "de": "TM85",
+  "es": "MT85",
+  "it": "MT85",
+  "en": "TM85",
+  "ja": "わざマシン８５",
+  "zh-hans": "招式学习器８５",
+  "es-419": "MT85"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Dévorêve à un Pokémon compatible.",
+  "en": "Teaches Dream Eater to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user yells as if it’s ranting about something, which lowers the Sp. Atk stats of opposing Pokémon.",
+  "ko": "호되게 호통을 쳐서 상대의 특수공격을 떨어뜨린다.",
+  "ja": "まくしたてる ように 怒鳴りつけて 相手の 特攻を さげる。"
+ }
+}

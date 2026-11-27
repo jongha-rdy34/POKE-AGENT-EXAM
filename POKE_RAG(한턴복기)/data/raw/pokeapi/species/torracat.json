@@ -1,0 +1,42 @@
+{
+ "id": 726,
+ "name": "torracat",
+ "names": {
+  "ja-hrkt": "ニャヒート",
+  "ja-roma": "Nyaheat",
+  "ko": "냐오히트",
+  "zh-hant": "炎熱喵",
+  "fr": "Matoufeu",
+  "de": "Miezunder",
+  "es": "Torracat",
+  "it": "Torracat",
+  "en": "Torracat",
+  "ja": "ニャヒート",
+  "zh-hans": "炎热喵",
+  "es-419": "Torracat"
+ },
+ "genus": {
+  "ja-hrkt": "ひねこポケモン",
+  "ko": "불고양이포켓몬",
+  "zh-hant": "火貓寶可夢",
+  "fr": "Pokémon Chat Feu",
+  "de": "Feuerkatzen-Pokémon",
+  "es": "Pokémon Gato Fuego",
+  "it": "Pokémon Pirofelino",
+  "en": "Fire Cat Pokémon",
+  "ja": "ひねこポケモン",
+  "zh-hans": "火猫宝可梦",
+  "es-419": "Pokémon Gato Fuego"
+ },
+ "flavor": {
+  "ko": "강적을 상대하게 되면 전투 의욕이 높아지고 동시에 불꽃 방울의 화력도 올라간다.",
+  "en": "When facing a powerful enemy, Torracat’s fighting spirit gets pumped up, and its fire bell blazes hotter."
+ },
+ "varieties": [
+  {
+   "name": "torracat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "375"
+}

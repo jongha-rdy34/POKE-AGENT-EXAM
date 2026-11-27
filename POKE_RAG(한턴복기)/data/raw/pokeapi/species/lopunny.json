@@ -1,0 +1,46 @@
+{
+ "id": 428,
+ "name": "lopunny",
+ "names": {
+  "ja-hrkt": "ミミロップ",
+  "ja-roma": "Mimilop",
+  "ko": "이어롭",
+  "zh-hant": "長耳兔",
+  "fr": "Lockpin",
+  "de": "Schlapor",
+  "es": "Lopunny",
+  "it": "Lopunny",
+  "en": "Lopunny",
+  "ja": "ミミロップ",
+  "zh-hans": "长耳兔",
+  "es-419": "Lopunny"
+ },
+ "genus": {
+  "ja-hrkt": "うさぎポケモン",
+  "ko": "토끼포켓몬",
+  "zh-hant": "兔子寶可夢",
+  "fr": "Pokémon Lapin",
+  "de": "Hasen-Pokémon",
+  "es": "Pokémon Conejo",
+  "it": "Pokémon Coniglio",
+  "en": "Rabbit Pokémon",
+  "ja": "うさぎポケモン",
+  "zh-hans": "兔子宝可梦",
+  "es-419": "Pokémon Conejo"
+ },
+ "flavor": {
+  "en": "Its fur is warm and yet remarkably light. This Pokémon kicks as though it were a master of karate, driving back its opponents with ease.",
+  "ko": "더운 계절이 끝나면 공기를 많이 머금은 털로 털갈이를 하여 추위에 대비한다."
+ },
+ "varieties": [
+  {
+   "name": "lopunny",
+   "is_default": true
+  },
+  {
+   "name": "lopunny-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "220"
+}

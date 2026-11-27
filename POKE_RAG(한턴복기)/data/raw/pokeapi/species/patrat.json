@@ -1,0 +1,42 @@
+{
+ "id": 504,
+ "name": "patrat",
+ "names": {
+  "ja-hrkt": "ミネズミ",
+  "ja-roma": "Minezumi",
+  "ko": "보르쥐",
+  "zh-hant": "探探鼠",
+  "fr": "Ratentif",
+  "de": "Nagelotz",
+  "es": "Patrat",
+  "it": "Patrat",
+  "en": "Patrat",
+  "ja": "ミネズミ",
+  "zh-hans": "探探鼠",
+  "es-419": "Patrat"
+ },
+ "genus": {
+  "ja-hrkt": "みはりポケモン",
+  "ko": "망보기포켓몬",
+  "zh-hant": "放哨寶可夢",
+  "fr": "Pokémon Espion",
+  "de": "Späher",
+  "es": "Pokémon Explorador",
+  "it": "Pokémon Esplorante",
+  "en": "Scout Pokémon",
+  "ja": "みはりポケモン",
+  "zh-hans": "放哨宝可梦",
+  "es-419": "Pokémon Explorador"
+ },
+ "flavor": {
+  "en": "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind.",
+  "ko": "경계심이 강해서 반드시 한 마리는 망을 보고 있으나 뒤에서 오는 상대는 알아차리지 못한다."
+ },
+ "varieties": [
+  {
+   "name": "patrat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "259"
+}

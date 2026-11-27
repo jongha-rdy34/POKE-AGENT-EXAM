@@ -1,0 +1,37 @@
+{
+ "id": 987,
+ "name": "flutter-mane",
+ "names": {
+  "ja-hrkt": "ハバタクカミ",
+  "ja-roma": "Habatakukami",
+  "ko": "날개치는머리",
+  "zh-hant": "振翼髮",
+  "fr": "Flotte-Mèche",
+  "de": "Flatterhaar",
+  "es": "Melenaleteo",
+  "it": "Crinealato",
+  "en": "Flutter Mane",
+  "ja": "ハバタクカミ",
+  "zh-hans": "振翼发",
+  "es-419": "Melenaleteo"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It has similar features to a ghostly pterosaur that was covered in a paranormal magazine, but the two have little else in common."
+ },
+ "varieties": [
+  {
+   "name": "flutter-mane",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "518"
+}

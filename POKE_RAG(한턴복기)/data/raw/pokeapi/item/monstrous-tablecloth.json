@@ -1,0 +1,20 @@
+{
+ "name": "monstrous-tablecloth",
+ "names": {
+  "ja-hrkt": "かいじゅうクロス",
+  "ko": "괴수 테이블보",
+  "zh-hant": "怪獸桌巾",
+  "fr": "Nappe Kaiju",
+  "de": "Ungeheuer-Tischtuch",
+  "es": "Mantel Monstruoso",
+  "it": "Tovaglia mostruosa",
+  "en": "Monstrous Tablecloth",
+  "ja": "かいじゅうクロス",
+  "zh-hans": "怪兽桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

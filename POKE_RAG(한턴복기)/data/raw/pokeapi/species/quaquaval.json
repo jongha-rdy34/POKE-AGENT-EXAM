@@ -1,0 +1,37 @@
+{
+ "id": 914,
+ "name": "quaquaval",
+ "names": {
+  "ja-hrkt": "ウェーニバル",
+  "ja-roma": "Wanival",
+  "ko": "웨이니발",
+  "zh-hant": "狂歡浪舞鴨",
+  "fr": "Palmaval",
+  "de": "Bailonda",
+  "es": "Quaquaval",
+  "it": "Quaquaval",
+  "en": "Quaquaval",
+  "ja": "ウェーニバル",
+  "zh-hans": "狂欢浪舞鸭",
+  "es-419": "Quaquaval"
+ },
+ "genus": {
+  "ja-hrkt": "ダンサーポケモン",
+  "ko": "댄서포켓몬",
+  "zh-hant": "舞者寶可夢",
+  "fr": "Danseur",
+  "de": "Tänzer",
+  "en": "Dancer Pokémon",
+  "zh-hans": "舞者宝可梦"
+ },
+ "flavor": {
+  "en": "Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes."
+ },
+ "varieties": [
+  {
+   "name": "quaquaval",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "480"
+}

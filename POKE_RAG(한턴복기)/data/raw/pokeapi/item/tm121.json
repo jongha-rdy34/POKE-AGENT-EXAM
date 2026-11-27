@@ -1,0 +1,20 @@
+{
+ "name": "tm121",
+ "names": {
+  "ja-hrkt": "わざマシン１２１",
+  "ko": "기술머신121",
+  "zh-hant": "招式學習器１２１",
+  "fr": "CT121",
+  "de": "TM121",
+  "es": "MT121",
+  "it": "MT121",
+  "en": "TM121",
+  "ja": "わざマシン１２１",
+  "zh-hans": "招式学习器１２１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

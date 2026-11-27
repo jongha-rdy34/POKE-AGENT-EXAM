@@ -1,0 +1,28 @@
+{
+ "name": "fast-ball",
+ "names": {
+  "ja-hrkt": "スピードボール",
+  "ko": "스피드볼",
+  "zh-hant": "速度球",
+  "fr": "Speed Ball",
+  "de": "Turboball",
+  "es": "Rapid Ball",
+  "it": "Rapid Ball",
+  "en": "Fast Ball",
+  "ja": "スピードボール",
+  "zh-hans": "速度球",
+  "es-419": "Rapibola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "4× plus efficace sur un Pokémon avec une vitesse de base de 100 ou plus. (Gén II: Pokémon Errant ou Fuyard). Fait à partir de Noigrume Blc.",
+  "en": "4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that makes it easier to catch Pokémon that are usually very quick to run away.",
+  "ko": "도주가 빠른 포켓몬이 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "にげあしの はやい ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

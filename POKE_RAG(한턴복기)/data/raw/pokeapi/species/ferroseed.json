@@ -1,0 +1,42 @@
+{
+ "id": 597,
+ "name": "ferroseed",
+ "names": {
+  "ja-hrkt": "テッシード",
+  "ja-roma": "Tesseed",
+  "ko": "철시드",
+  "zh-hant": "種子鐵球",
+  "fr": "Grindur",
+  "de": "Kastadur",
+  "es": "Ferroseed",
+  "it": "Ferroseed",
+  "en": "Ferroseed",
+  "ja": "テッシード",
+  "zh-hans": "种子铁球",
+  "es-419": "Ferroseed"
+ },
+ "genus": {
+  "ja-hrkt": "とげのみポケモン",
+  "ko": "가시열매포켓몬",
+  "zh-hant": "刺果寶可夢",
+  "fr": "Pokémon Graine Épine",
+  "de": "Dornfrucht-Pokémon",
+  "es": "Pokémon Fruto Espina",
+  "it": "Pokémon Spinaseme",
+  "en": "Thorn Seed Pokémon",
+  "ja": "とげのみポケモン",
+  "zh-hans": "刺果宝可梦",
+  "es-419": "Pokémon Fruto Espina"
+ },
+ "flavor": {
+  "en": "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong.",
+  "ko": "이끼 낀 동굴을 좋아한다. 이끼에 함유된 효소가 가시를 크고 튼튼하게 만들어준다."
+ },
+ "varieties": [
+  {
+   "name": "ferroseed",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "304"
+}

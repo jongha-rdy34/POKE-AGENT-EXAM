@@ -1,0 +1,20 @@
+{
+ "name": "numel-lava",
+ "names": {
+  "ja-hrkt": "ドンメルのようがん",
+  "ko": "둔타의용암",
+  "zh-hant": "呆火駝的熔岩",
+  "fr": "Lave de Chamallot",
+  "de": "Camaub-Lava",
+  "es": "Lava de Numel",
+  "it": "Lava di Numel",
+  "en": "Numel Lava",
+  "ja": "ドンメルのようがん",
+  "zh-hans": "呆火驼的熔岩"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 321,
+ "name": "wailord",
+ "names": {
+  "ja-hrkt": "ホエルオー",
+  "ja-roma": "Whaloh",
+  "ko": "고래왕",
+  "zh-hant": "吼鯨王",
+  "fr": "Wailord",
+  "de": "Wailord",
+  "es": "Wailord",
+  "it": "Wailord",
+  "en": "Wailord",
+  "ja": "ホエルオー",
+  "zh-hans": "吼鲸王",
+  "es-419": "Wailord"
+ },
+ "genus": {
+  "ja-hrkt": "うきくじらポケモン",
+  "ko": "뜸고래포켓몬",
+  "zh-hant": "浮鯨寶可夢",
+  "fr": "Pokémon Cachabouée",
+  "de": "Flutwal-Pokémon",
+  "es": "Pokémon Ballenaflot",
+  "it": "Pokémon Megabalena",
+  "en": "Float Whale Pokémon",
+  "ja": "うきくじらポケモン",
+  "zh-hans": "浮鲸宝可梦",
+  "es-419": "Pokémon Ballenaflot"
+ },
+ "flavor": {
+  "en": "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world.",
+  "ko": "엄청나게 거대해서 인기가 있다. 고래왕 워칭은 각지에서 인기 있는 관광 코스다."
+ },
+ "varieties": [
+  {
+   "name": "wailord",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "161"
+}

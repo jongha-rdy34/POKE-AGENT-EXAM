@@ -1,0 +1,42 @@
+{
+ "id": 399,
+ "name": "bidoof",
+ "names": {
+  "ja-hrkt": "ビッパ",
+  "ja-roma": "Bippa",
+  "ko": "비버니",
+  "zh-hant": "大牙狸",
+  "fr": "Keunotor",
+  "de": "Bidiza",
+  "es": "Bidoof",
+  "it": "Bidoof",
+  "en": "Bidoof",
+  "ja": "ビッパ",
+  "zh-hans": "大牙狸",
+  "es-419": "Bidoof"
+ },
+ "genus": {
+  "ja-hrkt": "まるねずみポケモン",
+  "ko": "둥글쥐포켓몬",
+  "zh-hant": "圓鼠寶可夢",
+  "fr": "Pokémon Souridodue",
+  "de": "Dickmaus",
+  "es": "Pokémon Gran Ratón",
+  "it": "Pokémon Topaffuto",
+  "en": "Plump Mouse Pokémon",
+  "ja": "まるねずみポケモン",
+  "zh-hans": "圆鼠宝可梦",
+  "es-419": "Pokémon Gran Ratón"
+ },
+ "flavor": {
+  "en": "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care.",
+  "ko": "항상 큰 나무나 돌을 갉아서 튼튼한 앞니를 갈아내고 있다. 물가에 둥지를 만들어 산다."
+ },
+ "varieties": [
+  {
+   "name": "bidoof",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "207"
+}

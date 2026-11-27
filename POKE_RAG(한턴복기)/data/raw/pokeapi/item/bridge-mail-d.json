@@ -1,0 +1,28 @@
+{
+ "name": "bridge-mail-d",
+ "names": {
+  "ja-hrkt": "ブリッジメールＨ",
+  "ko": "브리지메일M",
+  "zh-hant": "橋梁郵件Ｈ",
+  "fr": "Lettre Pont Y",
+  "de": "Brückbrief M",
+  "es": "Carta Puente F",
+  "it": "Mess. Libec.",
+  "en": "Bridge Mail D",
+  "ja": "ブリッジメールＨ",
+  "zh-hans": "桥梁邮件Ｈ",
+  "es-419": "Carta Puente F"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring an illustration of a bright-red drawbridge. Have a Pokémon hold it for delivery.",
+  "ko": "새빨간 도개교의 무늬가 프린트된 편지지. 포켓몬에게 지니게 해서 쓴다.",
+  "ja": "真っ赤な 跳ね橋の 絵柄が プリントされた レターペーパー。 ポケモンに 持たせて 使う。"
+ }
+}

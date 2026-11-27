@@ -1,0 +1,42 @@
+{
+ "id": 595,
+ "name": "joltik",
+ "names": {
+  "ja-hrkt": "バチュル",
+  "ja-roma": "Bachuru",
+  "ko": "파쪼옥",
+  "zh-hant": "電電蟲",
+  "fr": "Statitik",
+  "de": "Wattzapf",
+  "es": "Joltik",
+  "it": "Joltik",
+  "en": "Joltik",
+  "ja": "バチュル",
+  "zh-hans": "电电虫",
+  "es-419": "Joltik"
+ },
+ "genus": {
+  "ja-hrkt": "くっつきポケモン",
+  "ko": "들러붙기포켓몬",
+  "zh-hant": "吸附寶可夢",
+  "fr": "Pokémon Crampon",
+  "de": "Kleben-Pokémon",
+  "es": "Pokémon Lapa",
+  "it": "Pokémon Appiccicante",
+  "en": "Attaching Pokémon",
+  "ja": "くっつきポケモン",
+  "zh-hans": "吸附宝可梦",
+  "es-419": "Pokémon Lapa"
+ },
+ "flavor": {
+  "en": "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters.",
+  "ko": "다른 포켓몬에게 달라붙어 정전기를 빨아들인다. 멍파치의 엉덩이에 자주 달라붙어 있다."
+ },
+ "varieties": [
+  {
+   "name": "joltik",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "303"
+}

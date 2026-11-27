@@ -1,0 +1,25 @@
+{
+ "name": "legendary-clue-3",
+ "names": {
+  "ja-hrkt": "でんせつのメモ３",
+  "ko": "전설의메모3",
+  "zh-hant": "傳說筆記３",
+  "fr": "Note Légende 3",
+  "de": "Legenden-Notiz 3",
+  "es": "Leyenda 3",
+  "it": "Leggenda 3",
+  "en": "Legendary Clue 3",
+  "ja": "でんせつのメモ３",
+  "zh-hans": "传说笔记３",
+  "es-419": "Leyenda 3"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "새포켓몬 전설에 대해 피오니가 정리한 메모. 개성적인 그림이 그려져 있다.",
+  "en": "A clue about the legend of bird Pokémon. It’s written by Peony and has a unique drawing.",
+  "ja": "とりポケモン 伝説について ピオニーが まとめた メモ。 個性的な 絵が 描かれている。"
+ }
+}

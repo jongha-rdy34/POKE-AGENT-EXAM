@@ -1,0 +1,37 @@
+{
+ "id": 996,
+ "name": "frigibax",
+ "names": {
+  "ja-hrkt": "セビエ",
+  "ja-roma": "Sebie",
+  "ko": "드니차",
+  "zh-hant": "涼脊龍",
+  "fr": "Frigodo",
+  "de": "Frospino",
+  "es": "Frigibax",
+  "it": "Frigibax",
+  "en": "Frigibax",
+  "ja": "セビエ",
+  "zh-hans": "凉脊龙",
+  "es-419": "Frigibax"
+ },
+ "genus": {
+  "ja-hrkt": "こおりビレポケモン",
+  "ko": "얼음지느러미포켓몬",
+  "zh-hant": "冰鰭寶可夢",
+  "fr": "Glaçaileron",
+  "de": "Eisfinne",
+  "en": "Ice Fin Pokémon",
+  "zh-hans": "冰鳍宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon lives in forests and craggy areas. Using the power of its dorsal fin, it cools the inside of its nest like a refrigerator."
+ },
+ "varieties": [
+  {
+   "name": "frigibax",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "527"
+}

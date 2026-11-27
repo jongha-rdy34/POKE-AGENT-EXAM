@@ -1,0 +1,28 @@
+{
+ "name": "roto-prize-money",
+ "names": {
+  "ja-hrkt": "おこづかいポン",
+  "ko": "용돈캡슐토이",
+  "zh-hant": "零用錢碰碰",
+  "fr": "Moti-Magot",
+  "de": "Preisgeldbon",
+  "es": "Cupón Botín",
+  "it": "Soldi’n’roll",
+  "en": "Roto Prize Money",
+  "ja": "おこづかいポン",
+  "zh-hans": "零花钱碰碰",
+  "es-419": "Cupón Botín"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-prize-money",
+  "en": "XXX new effect for roto-prize-money"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 승부 후에 받는 용돈이 3배가 된다.",
+  "en": "One of the Rotom Powers. It triples the prize money you receive after battle.",
+  "ja": "ロトムパワーの ひとつ。 勝負の あとに もらえる おこづかいが ３倍に なる。"
+ }
+}

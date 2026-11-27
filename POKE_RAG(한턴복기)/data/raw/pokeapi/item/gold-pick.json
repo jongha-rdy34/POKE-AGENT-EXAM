@@ -1,0 +1,20 @@
+{
+ "name": "gold-pick",
+ "names": {
+  "ja-hrkt": "ゴールドピック",
+  "ko": "골드 픽",
+  "zh-hant": "金色三明治籤",
+  "fr": "Pique Dorée",
+  "de": "Gold-Pikser",
+  "es": "Palillo Dorado",
+  "it": "Stecchino oro",
+  "en": "Gold Pick",
+  "ja": "ゴールドピック",
+  "zh-hans": "金色三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

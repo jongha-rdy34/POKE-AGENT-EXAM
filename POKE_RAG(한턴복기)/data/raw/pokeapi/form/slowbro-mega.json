@@ -1,0 +1,23 @@
+{
+ "name": "slowbro-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Flagadoss",
+  "de": "Mega-Lahmus",
+  "en": "Mega Slowbro"
+ },
+ "form_names": {
+  "ja-hrkt": "メガヤドラン",
+  "ko": "메가야도란",
+  "zh-hant": "超級呆殼獸",
+  "fr": "Méga-Flagadoss",
+  "de": "Mega-Form",
+  "es": "Mega-Slowbro",
+  "it": "MegaSlowbro",
+  "en": "Mega Slowbro",
+  "ja": "メガヤドラン",
+  "zh-hans": "超级呆壳兽",
+  "es-419": "Mega-Slowbro"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,31 @@
+{
+ "name": "metal-burst",
+ "names": {
+  "ja-hrkt": "メタルバースト",
+  "ko": "메탈버스트",
+  "zh-hant": "金屬爆炸",
+  "fr": "Fulmifer",
+  "de": "Metallstoß",
+  "es": "Represión Metal",
+  "it": "Metalscoppio",
+  "en": "Metal Burst",
+  "ja": "メタルバースト",
+  "zh-hans": "金属爆炸",
+  "es-419": "Expl. Metálica"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "specific-move",
+ "effect": {
+  "en": "Strikes back at the last Pokémon to hit the user this turn with 1.5× the damage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user retaliates with much greater force against the opponent that last inflicted damage on it.",
+  "ko": "기술을 쓰기 전에 마지막으로 받은 기술의 데미지를 늘려서 기술을 쓴 상대에게 돌려준다."
+ }
+}

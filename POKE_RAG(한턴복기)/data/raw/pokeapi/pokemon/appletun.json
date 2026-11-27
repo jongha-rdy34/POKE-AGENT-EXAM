@@ -1,0 +1,87 @@
+{
+ "id": 842,
+ "name": "appletun",
+ "species": "appletun",
+ "is_default": true,
+ "types": [
+  "grass",
+  "dragon"
+ ],
+ "stats": {
+  "hp": 110,
+  "attack": 85,
+  "defense": 80,
+  "special-attack": 100,
+  "special-defense": 80,
+  "speed": 30
+ },
+ "abilities": [
+  {
+   "name": "ripen",
+   "hidden": false
+  },
+  {
+   "name": "gluttony",
+   "hidden": false
+  },
+  {
+   "name": "thick-fat",
+   "hidden": true
+  }
+ ],
+ "height": 4,
+ "weight": 130,
+ "champions_moves": [
+  "amnesia",
+  "apple-acid",
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "bullet-seed",
+  "curse",
+  "draco-meteor",
+  "dragon-pulse",
+  "dragon-tail",
+  "earthquake",
+  "endure",
+  "energy-ball",
+  "facade",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "growth",
+  "gyro-ball",
+  "heavy-slam",
+  "helping-hand",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "leaf-storm",
+  "leech-seed",
+  "light-screen",
+  "outrage",
+  "pounce",
+  "protect",
+  "rain-dance",
+  "recover",
+  "recycle",
+  "reflect",
+  "rest",
+  "round",
+  "seed-bomb",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "stomping-tantrum",
+  "substitute",
+  "sucker-punch",
+  "sunny-day",
+  "superpower",
+  "sweet-scent",
+  "trailblaze",
+  "zen-headbutt"
+ ]
+}

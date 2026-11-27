@@ -1,0 +1,30 @@
+{
+ "name": "oran-berry",
+ "names": {
+  "ja-hrkt": "オレンのみ",
+  "ko": "오랭열매",
+  "zh-hant": "橙橙果",
+  "fr": "Baie Oran",
+  "de": "Sinelbeere",
+  "es": "Baya Aranja",
+  "it": "Baccarancia",
+  "en": "Oran Berry",
+  "ja": "オレンのみ",
+  "zh-hans": "橙橙果",
+  "es-419": "Baya Aranja"
+ },
+ "category": "medicine",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/2 des PV max pour regagner 10 PV.",
+  "en": "Held: Consumed at 1/2 max HP to recover 10 HP."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it can restore its own HP by 10 points during battle.",
+  "ko": "포켓몬에게 지니게 하면 HP를 10만큼 회복한다.",
+  "ja": "ポケモンに 持たせると ＨＰを １０だけ 回復する。"
+ }
+}

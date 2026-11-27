@@ -1,0 +1,31 @@
+{
+ "name": "flail",
+ "names": {
+  "ja-hrkt": "じたばた",
+  "ko": "바둥바둥",
+  "zh-hant": "抓狂",
+  "fr": "Gigotage",
+  "de": "Dreschflegel",
+  "es": "Azote",
+  "it": "Flagello",
+  "en": "Flail",
+  "ja": "じたばた",
+  "zh-hans": "抓狂",
+  "es-419": "Azote"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts more damage when the user has less HP remaining, with a maximum of 200 power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user flails about aimlessly to attack. The less HP the user has, the greater the move's power.",
+  "ko": "바둥바둥 난동 부려서 공격한다. 자신의 HP가 적을수록 기술의 위력이 올라간다."
+ }
+}

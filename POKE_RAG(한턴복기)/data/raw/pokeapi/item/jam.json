@@ -1,0 +1,20 @@
+{
+ "name": "jam",
+ "names": {
+  "ja-hrkt": "ベリージャム",
+  "ko": "베리잼",
+  "zh-hant": "莓果醬",
+  "fr": "Confiture de Baies",
+  "de": "Beerenkonfitüre",
+  "es": "Confitura de Bayas",
+  "it": "Confettura di bosco",
+  "en": "Jam",
+  "ja": "ベリージャム",
+  "zh-hans": "莓果酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

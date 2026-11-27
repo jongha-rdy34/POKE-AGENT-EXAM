@@ -1,0 +1,28 @@
+{
+ "name": "tm59",
+ "names": {
+  "ja-hrkt": "わざマシン５９",
+  "ko": "기술머신59",
+  "zh-hant": "招式學習器５９",
+  "fr": "CT59",
+  "de": "TM59",
+  "es": "MT59",
+  "it": "MT59",
+  "en": "TM59",
+  "ja": "わざマシン５９",
+  "zh-hans": "招式学习器５９",
+  "es-419": "MT59"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Calcination à un Pokémon compatible. (Gén IV: Draco-Choc)",
+  "en": "Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)"
+ },
+ "flavor": {
+  "en": "The user flings its held item at the target to attack. This move’s power and effects depend on the item.",
+  "ko": "지니게 한 도구를 재빠르게 내던져서 공격한다. 도구에 따라 위력과 효과가 바뀐다.",
+  "ja": "持たせた 道具を 素早く 投げつけて 攻撃する。 道具で 威力と 効果が 変わる。"
+ }
+}

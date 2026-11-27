@@ -1,0 +1,31 @@
+{
+ "name": "lava-plume",
+ "names": {
+  "ja-hrkt": "ふんえん",
+  "ko": "분연",
+  "zh-hant": "噴煙",
+  "fr": "Ébullilave",
+  "de": "Flammensturm",
+  "es": "Humareda",
+  "it": "Lavasbuffo",
+  "en": "Lava Plume",
+  "ja": "ふんえん",
+  "zh-hans": "喷烟",
+  "es-419": "Bomba de Lava"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Has a chance to burn the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.",
+  "ko": "새빨간 불꽃으로 자신의 주위에 있는 포켓몬을 공격한다. 화상 상태로 만들 때가 있다."
+ }
+}

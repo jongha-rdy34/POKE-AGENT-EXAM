@@ -1,0 +1,28 @@
+{
+ "name": "air-balloon",
+ "names": {
+  "ja-hrkt": "ふうせん",
+  "ko": "풍선",
+  "zh-hant": "氣球",
+  "fr": "Ballon",
+  "de": "Luftballon",
+  "es": "Globo Helio",
+  "it": "Palloncino",
+  "en": "Air Balloon",
+  "ja": "ふうせん",
+  "zh-hans": "气球",
+  "es-419": "Globo con Helio"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Donne l'immunité aux capacités de type Sol, Picots et Pics Toxik. Consommé quand le porteur prend des dégâts d'une capacité.",
+  "en": "Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. The holder will float in the air until hit. Once the holder is hit, this item will burst.",
+  "ko": "포켓몬에게 지니게 하면 포켓몬이 허공에 뜬다. 공격을 받으면 터져버린다.",
+  "ja": "ポケモンに 持たせると ポケモンが 宙に 浮く。 攻撃を 受けると 割れてしまう。"
+ }
+}

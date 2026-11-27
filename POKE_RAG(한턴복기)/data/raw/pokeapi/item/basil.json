@@ -1,0 +1,20 @@
+{
+ "name": "basil",
+ "names": {
+  "ja-hrkt": "バジル",
+  "ko": "바질",
+  "zh-hant": "羅勒",
+  "fr": "Basilic",
+  "de": "Basilikum",
+  "es": "Albahaca",
+  "it": "Basilico",
+  "en": "Basil",
+  "ja": "バジル",
+  "zh-hans": "罗勒"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

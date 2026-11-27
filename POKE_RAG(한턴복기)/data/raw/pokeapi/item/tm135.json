@@ -1,0 +1,20 @@
+{
+ "name": "tm135",
+ "names": {
+  "ja-hrkt": "わざマシン１３５",
+  "ko": "기술머신135",
+  "zh-hant": "招式學習器１３５",
+  "fr": "CT135",
+  "de": "TM135",
+  "es": "MT135",
+  "it": "MT135",
+  "en": "TM135",
+  "ja": "わざマシン１３５",
+  "zh-hans": "招式学习器１３５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

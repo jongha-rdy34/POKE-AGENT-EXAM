@@ -1,0 +1,28 @@
+{
+ "name": "park-ball",
+ "names": {
+  "ja-hrkt": "パークボール",
+  "ko": "파크볼",
+  "zh-hant": "公園球",
+  "fr": "Parc Ball",
+  "de": "Parkball",
+  "es": "Parque Ball",
+  "it": "Parco Ball",
+  "en": "Park Ball",
+  "ja": "パークボール",
+  "zh-hans": "公园球",
+  "es-419": "Parquebola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Capture un Pokémon du Parc des Amis à coup sûr.",
+  "en": "Catches Pokémon in the Pal Park every time."
+ },
+ "flavor": {
+  "en": "A special Poké Ball for the Pal Park.",
+  "ko": "팔파크 내에서 사용하는 특별한 볼.",
+  "ja": "パルパークの なかで 使う 特別な ボール。"
+ }
+}

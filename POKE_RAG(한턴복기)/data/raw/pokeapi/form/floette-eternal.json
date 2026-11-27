@@ -1,0 +1,21 @@
+{
+ "name": "floette-eternal",
+ "form_name": "eternal",
+ "names": {
+  "fr": "Floette Éternel",
+  "de": "Floette (Ewigblütler)",
+  "en": "Eternal Floette"
+ },
+ "form_names": {
+  "ja-hrkt": "えいえんのはな",
+  "ko": "영원의 꽃",
+  "fr": "Fleur Éternelle",
+  "de": "Ewigblütler",
+  "es": "Flor Eterna",
+  "it": "Fiore Eterno",
+  "en": "Eternal Flower",
+  "ja": "えいえんのはな",
+  "es-419": "Flor Eterna"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,31 @@
+{
+ "name": "brick-break",
+ "names": {
+  "ja-hrkt": "かわらわり",
+  "ko": "깨뜨리다",
+  "zh-hant": "劈瓦",
+  "fr": "Casse-Brique",
+  "de": "Durchbruch",
+  "es": "Demolición",
+  "it": "Breccia",
+  "en": "Brick Break",
+  "ja": "かわらわり",
+  "zh-hans": "劈瓦",
+  "es-419": "Karatazo"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Destroys Reflect and Light Screen."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks with a swift chop. This move can also break barriers, such as Light Screen and Reflect.",
+  "ko": "수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다."
+ }
+}

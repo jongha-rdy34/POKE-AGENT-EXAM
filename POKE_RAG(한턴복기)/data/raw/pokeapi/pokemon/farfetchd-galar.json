@@ -1,0 +1,30 @@
+{
+ "id": 10166,
+ "name": "farfetchd-galar",
+ "species": "farfetchd",
+ "is_default": false,
+ "types": [
+  "fighting"
+ ],
+ "stats": {
+  "hp": 52,
+  "attack": 95,
+  "defense": 55,
+  "special-attack": 58,
+  "special-defense": 62,
+  "speed": 55
+ },
+ "abilities": [
+  {
+   "name": "steadfast",
+   "hidden": false
+  },
+  {
+   "name": "scrappy",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 420,
+ "champions_moves": []
+}

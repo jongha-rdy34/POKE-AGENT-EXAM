@@ -1,0 +1,42 @@
+{
+ "id": 880,
+ "name": "dracozolt",
+ "names": {
+  "ja-hrkt": "パッチラゴン",
+  "ja-roma": "Patchiragon",
+  "ko": "파치래곤",
+  "zh-hant": "雷鳥龍",
+  "fr": "Galvagon",
+  "de": "Lectragon",
+  "es": "Dracozolt",
+  "it": "Dracozolt",
+  "en": "Dracozolt",
+  "ja": "パッチラゴン",
+  "zh-hans": "雷鸟龙",
+  "es-419": "Dracozolt"
+ },
+ "genus": {
+  "ja-hrkt": "かせきポケモン",
+  "ko": "화석포켓몬",
+  "zh-hant": "化石寶可夢",
+  "fr": "Pokémon Fossile",
+  "de": "Fossil-Pokémon",
+  "es": "Pokémon Fósil",
+  "it": "Pokémon Fossile",
+  "en": "Fossil Pokémon",
+  "ja": "かせきポケモン",
+  "zh-hans": "化石宝可梦",
+  "es-419": "Pokémon Fósil"
+ },
+ "flavor": {
+  "ko": "꼬리의 억센 근육으로 발전한다. 하반신에 비해 상반신이 너무 작다.",
+  "en": "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small."
+ },
+ "varieties": [
+  {
+   "name": "dracozolt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "461"
+}

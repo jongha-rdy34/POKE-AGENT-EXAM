@@ -1,0 +1,31 @@
+{
+ "name": "giga-drain",
+ "names": {
+  "ja-hrkt": "ギガドレイン",
+  "ko": "기가드레인",
+  "zh-hant": "終極吸取",
+  "fr": "Giga-Sangsue",
+  "de": "Gigasauger",
+  "es": "Gigadrenado",
+  "it": "Gigassorbimento",
+  "en": "Giga Drain",
+  "ja": "ギガドレイン",
+  "zh-hans": "终极吸取",
+  "es-419": "Gigadrenado"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Drains half the damage inflicted to heal the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target.",
+  "ko": "양분을 흡수하여 공격한다. 입힌 데미지의 절반에 해당하는 HP를 회복할 수 있다."
+ }
+}

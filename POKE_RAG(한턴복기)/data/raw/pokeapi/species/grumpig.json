@@ -1,0 +1,42 @@
+{
+ "id": 326,
+ "name": "grumpig",
+ "names": {
+  "ja-hrkt": "ブーピッグ",
+  "ja-roma": "Boopig",
+  "ko": "피그킹",
+  "zh-hant": "噗噗豬",
+  "fr": "Groret",
+  "de": "Groink",
+  "es": "Grumpig",
+  "it": "Grumpig",
+  "en": "Grumpig",
+  "ja": "ブーピッグ",
+  "zh-hans": "噗噗猪",
+  "es-419": "Grumpig"
+ },
+ "genus": {
+  "ja-hrkt": "あやつりポケモン",
+  "ko": "조작포켓몬",
+  "zh-hant": "操縱寶可夢",
+  "fr": "Pokémon Magouilleur",
+  "de": "Manipulator",
+  "es": "Pokémon Manipulador",
+  "it": "Pokémon Raggiro",
+  "en": "Manipulate Pokémon",
+  "ja": "あやつりポケモン",
+  "zh-hans": "操纵宝可梦",
+  "es-419": "Pokémon Manipulador"
+ },
+ "flavor": {
+  "en": "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.",
+  "ko": "흑진주를 이용하여 이상한 힘을 사용할 때 기묘한 스텝으로 춤을 춘다. 흑진주는 미술품으로서의 가치를 지녔다."
+ },
+ "varieties": [
+  {
+   "name": "grumpig",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "164"
+}

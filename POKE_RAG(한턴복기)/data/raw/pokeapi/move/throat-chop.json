@@ -1,0 +1,31 @@
+{
+ "name": "throat-chop",
+ "names": {
+  "ja-hrkt": "じごくづき",
+  "ko": "지옥찌르기",
+  "zh-hant": "地獄突刺",
+  "fr": "Exécu-Son",
+  "de": "Neck Strike",
+  "es": "Golpe Mordaza",
+  "it": "Colpo Infernale",
+  "en": "Throat Chop",
+  "ja": "じごくづき",
+  "zh-hans": "地狱突刺",
+  "es-419": "Golpe al Cuello"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Prevents the target from using sound-based moves for two turns."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "이 기술에 맞은 상대는 지옥의 고통 때문에 2턴 동안 소리 기술을 낼 수 없다.",
+  "en": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns."
+ }
+}

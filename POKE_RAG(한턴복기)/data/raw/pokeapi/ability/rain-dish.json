@@ -1,0 +1,23 @@
+{
+ "name": "rain-dish",
+ "names": {
+  "ja-hrkt": "あめうけざら",
+  "ko": "젖은접시",
+  "zh-hant": "雨盤",
+  "fr": "Cuvette",
+  "de": "Regengenuss",
+  "es": "Cura Lluvia",
+  "it": "Copripioggia",
+  "en": "Rain Dish",
+  "ja": "あめうけざら",
+  "zh-hans": "雨盘",
+  "es-419": "Curación Pluvial"
+ },
+ "effect": {
+  "en": "Heals for 1/16 max HP after each turn during rain."
+ },
+ "flavor": {
+  "en": "The Pokémon gradually regains HP in rain.",
+  "ko": "비가 오는 날씨일 때 조금씩 HP를 회복한다."
+ }
+}

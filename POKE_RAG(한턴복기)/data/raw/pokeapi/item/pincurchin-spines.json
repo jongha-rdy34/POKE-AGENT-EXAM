@@ -1,0 +1,20 @@
+{
+ "name": "pincurchin-spines",
+ "names": {
+  "ja-hrkt": "バチンウニのはり",
+  "ko": "찌르성게의가시",
+  "zh-hant": "啪嚓海膽的針",
+  "fr": "Épine de Wattapik",
+  "de": "Britzigel-Stachel",
+  "es": "Púa de Pincurchin",
+  "it": "Aculeo di Pincurchin",
+  "en": "Pincurchin Spines",
+  "ja": "バチンウニのはり",
+  "zh-hans": "啪嚓海胆的针"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

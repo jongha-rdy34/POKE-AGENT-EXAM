@@ -1,0 +1,85 @@
+{
+ "id": 668,
+ "name": "pyroar-male",
+ "species": "pyroar",
+ "is_default": true,
+ "types": [
+  "fire",
+  "normal"
+ ],
+ "stats": {
+  "hp": 86,
+  "attack": 68,
+  "defense": 72,
+  "special-attack": 109,
+  "special-defense": 66,
+  "speed": 106
+ },
+ "abilities": [
+  {
+   "name": "rivalry",
+   "hidden": false
+  },
+  {
+   "name": "unnerve",
+   "hidden": false
+  },
+  {
+   "name": "moxie",
+   "hidden": true
+  }
+ ],
+ "height": 15,
+ "weight": 815,
+ "champions_moves": [
+  "acrobatics",
+  "body-slam",
+  "bulldoze",
+  "burning-jealousy",
+  "crunch",
+  "dark-pulse",
+  "dig",
+  "double-edge",
+  "endeavor",
+  "endure",
+  "entrainment",
+  "facade",
+  "fire-blast",
+  "fire-fang",
+  "fire-spin",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "giga-impact",
+  "heat-wave",
+  "helping-hand",
+  "hyper-beam",
+  "hyper-voice",
+  "iron-tail",
+  "mud-slap",
+  "noble-roar",
+  "overheat",
+  "payback",
+  "protect",
+  "psychic-fangs",
+  "rain-dance",
+  "rest",
+  "roar",
+  "round",
+  "scorching-sands",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "solar-beam",
+  "substitute",
+  "sunny-day",
+  "taunt",
+  "temper-flare",
+  "thief",
+  "thunder-fang",
+  "trailblaze",
+  "wild-charge",
+  "will-o-wisp",
+  "yawn"
+ ]
+}

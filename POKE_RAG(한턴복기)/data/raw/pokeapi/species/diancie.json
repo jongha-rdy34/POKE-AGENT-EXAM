@@ -1,0 +1,46 @@
+{
+ "id": 719,
+ "name": "diancie",
+ "names": {
+  "ja-hrkt": "ディアンシー",
+  "ja-roma": "Diancie",
+  "ko": "디안시",
+  "zh-hant": "蒂安希",
+  "fr": "Diancie",
+  "de": "Diancie",
+  "es": "Diancie",
+  "it": "Diancie",
+  "en": "Diancie",
+  "ja": "ディアンシー",
+  "zh-hans": "蒂安希",
+  "es-419": "Diancie"
+ },
+ "genus": {
+  "ja-hrkt": "ほうせきポケモン",
+  "ko": "보석포켓몬",
+  "zh-hant": "寶石寶可夢",
+  "fr": "Pokémon Joyau",
+  "de": "Edelstein-Pokémon",
+  "es": "Pokémon Joya",
+  "it": "Pokémon Gemma",
+  "en": "Jewel Pokémon",
+  "ja": "ほうせきポケモン",
+  "zh-hans": "宝石宝可梦",
+  "es-419": "Pokémon Joya"
+ },
+ "flavor": {
+  "ko": "양손의 틈으로 공기 중의 탄소를 압축하여 많은 다이아를 한순간에 만들어 낸다.",
+  "en": "It can instantly create many diamonds by compressing the carbon in the air between its hands."
+ },
+ "varieties": [
+  {
+   "name": "diancie",
+   "is_default": true
+  },
+  {
+   "name": "diancie-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "371"
+}

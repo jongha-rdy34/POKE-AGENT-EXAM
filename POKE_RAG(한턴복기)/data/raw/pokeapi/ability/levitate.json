@@ -1,0 +1,23 @@
+{
+ "name": "levitate",
+ "names": {
+  "ja-hrkt": "ふゆう",
+  "ko": "부유",
+  "zh-hant": "飄浮",
+  "fr": "Lévitation",
+  "de": "Schwebe",
+  "es": "Levitación",
+  "it": "Levitazione",
+  "en": "Levitate",
+  "ja": "ふゆう",
+  "zh-hans": "飘浮",
+  "es-419": "Levitación"
+ },
+ "effect": {
+  "en": "Evades Ground moves."
+ },
+ "flavor": {
+  "en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",
+  "ko": "땅에서 뜨는 것으로 땅타입의 기술을 받지 않는다."
+ }
+}

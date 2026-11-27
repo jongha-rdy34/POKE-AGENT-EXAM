@@ -1,0 +1,31 @@
+{
+ "name": "fake-tears",
+ "names": {
+  "ja-hrkt": "うそなき",
+  "ko": "거짓울음",
+  "zh-hant": "假哭",
+  "fr": "Croco Larme",
+  "de": "Trugträne",
+  "es": "Llanto Falso",
+  "it": "Falselacrime",
+  "en": "Fake Tears",
+  "ja": "うそなき",
+  "zh-hans": "假哭",
+  "es-419": "Llanto Falso"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Special Defense by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat.",
+  "ko": "우는 척을 하며 눈물을 흘린다. 난처하게 만들어 상대의 특수방어를 크게 떨어뜨린다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 355,
+ "name": "duskull",
+ "names": {
+  "ja-hrkt": "ヨマワル",
+  "ja-roma": "Yomawaru",
+  "ko": "해골몽",
+  "zh-hant": "夜巡靈",
+  "fr": "Skelénox",
+  "de": "Zwirrlicht",
+  "es": "Duskull",
+  "it": "Duskull",
+  "en": "Duskull",
+  "ja": "ヨマワル",
+  "zh-hans": "夜巡灵",
+  "es-419": "Duskull"
+ },
+ "genus": {
+  "ja-hrkt": "おむかえポケモン",
+  "ko": "마중포켓몬",
+  "zh-hant": "渡魂寶可夢",
+  "fr": "Pokémon Requiem",
+  "de": "Requiem-Pokémon",
+  "es": "Pokémon Réquiem",
+  "it": "Pokémon Requiem",
+  "en": "Requiem Pokémon",
+  "ja": "おむかえポケモン",
+  "zh-hans": "渡魂宝可梦",
+  "es-419": "Pokémon Réquiem"
+ },
+ "flavor": {
+  "en": "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children.",
+  "ko": "모습을 투명하게 하고 몰래 먹잇감에 다가간다. 두꺼운 벽을 통과하는 능력을 지녔다."
+ },
+ "varieties": [
+  {
+   "name": "duskull",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "182"
+}

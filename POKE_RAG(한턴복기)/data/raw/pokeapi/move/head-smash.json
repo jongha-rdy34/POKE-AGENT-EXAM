@@ -1,0 +1,31 @@
+{
+ "name": "head-smash",
+ "names": {
+  "ja-hrkt": "もろはのずつき",
+  "ko": "양날박치기",
+  "zh-hant": "雙刃頭錘",
+  "fr": "Fracass’Tête",
+  "de": "Kopfstoß",
+  "es": "Testarazo",
+  "it": "Zuccata",
+  "en": "Head Smash",
+  "ja": "もろはのずつき",
+  "zh-hans": "双刃头锤",
+  "es-419": "Topetazo"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 150,
+ "accuracy": 80,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User receives 1/2 the damage inflicted in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target with a hazardous full-power headbutt. This also damages the user terribly.",
+  "ko": "목숨을 걸고 혼신의 힘으로 상대에게 박치기를 한다. 자신도 굉장한 데미지를 입는다."
+ }
+}

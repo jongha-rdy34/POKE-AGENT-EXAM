@@ -1,0 +1,23 @@
+{
+ "name": "aegislash-blade",
+ "form_name": "blade",
+ "names": {
+  "fr": "Exagide Assaut",
+  "de": "Durengard (Klinge)",
+  "en": "Blade Aegislash"
+ },
+ "form_names": {
+  "ja-hrkt": "ブレードフォルム",
+  "ko": "블레이드폼",
+  "zh-hant": "刀劍形態",
+  "fr": "Forme Assaut",
+  "de": "Klingenform",
+  "es": "Forma Filo",
+  "it": "Forma Spada",
+  "en": "Blade Forme",
+  "ja": "ブレードフォルム",
+  "zh-hans": "刀剑形态",
+  "es-419": "Forma Filo"
+ },
+ "is_mega": false
+}

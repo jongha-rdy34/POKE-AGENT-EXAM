@@ -1,0 +1,28 @@
+{
+ "name": "x-sp-atk-6",
+ "names": {
+  "ja-hrkt": "ＳＰアップ６",
+  "ko": "스페셜업6",
+  "zh-hant": "特攻強化６",
+  "fr": "Atq. Spé. 6",
+  "de": "X-Sp.-Ang. 6",
+  "es": "At. Esp. X 6",
+  "it": "Att. Sp. X-6",
+  "en": "X Sp. Atk 6",
+  "ja": "ＳＰアップ６",
+  "zh-hans": "特攻强化６",
+  "es-419": "At. Esp. X 6"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente l'Attaque Spéciale de six niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Special Attack by six stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 특수공격을 엄청나게 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 特攻を ものすごく あげる。 ひっこめると 元に 戻る。"
+ }
+}

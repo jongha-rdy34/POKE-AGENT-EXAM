@@ -1,0 +1,42 @@
+{
+ "id": 717,
+ "name": "yveltal",
+ "names": {
+  "ja-hrkt": "イベルタル",
+  "ja-roma": "Yveltal",
+  "ko": "이벨타르",
+  "zh-hant": "伊裴爾塔爾",
+  "fr": "Yveltal",
+  "de": "Yveltal",
+  "es": "Yveltal",
+  "it": "Yveltal",
+  "en": "Yveltal",
+  "ja": "イベルタル",
+  "zh-hans": "伊裴尔塔尔",
+  "es-419": "Yveltal"
+ },
+ "genus": {
+  "ja-hrkt": "はかいポケモン",
+  "ko": "파괴포켓몬",
+  "zh-hant": "破壞寶可夢",
+  "fr": "Pokémon Annihilation",
+  "de": "Zerstörungs-Pokémon",
+  "es": "Pokémon Destrucción",
+  "it": "Pokémon Distruzione",
+  "en": "Destruction Pokémon",
+  "ja": "はかいポケモン",
+  "zh-hans": "破坏宝可梦",
+  "es-419": "Pokémon Destrucción"
+ },
+ "flavor": {
+  "ko": "수명이 다할 때 모든 생명의 목숨을 빨아들이고 고치의 모습으로 돌아간다고 한다.",
+  "en": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more."
+ },
+ "varieties": [
+  {
+   "name": "yveltal",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "369"
+}

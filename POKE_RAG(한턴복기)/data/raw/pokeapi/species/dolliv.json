@@ -1,0 +1,37 @@
+{
+ "id": 929,
+ "name": "dolliv",
+ "names": {
+  "ja-hrkt": "オリーニョ",
+  "ja-roma": "Olinyo",
+  "ko": "올리뇨",
+  "zh-hant": "奧利紐",
+  "fr": "Olivado",
+  "de": "Olivinio",
+  "es": "Dolliv",
+  "it": "Dolliv",
+  "en": "Dolliv",
+  "ja": "オリーニョ",
+  "zh-hans": "奥利纽",
+  "es-419": "Dolliv"
+ },
+ "genus": {
+  "ja-hrkt": "オリーブポケモン",
+  "ko": "올리브포켓몬",
+  "zh-hant": "橄欖寶可夢",
+  "fr": "Olive",
+  "de": "Olive",
+  "en": "Olive Pokémon",
+  "zh-hans": "橄榄宝可梦"
+ },
+ "flavor": {
+  "en": "It basks in the sun to its heart’s content until the fruits on its head ripen. After that, Dolliv departs from human settlements and goes on a journey."
+ },
+ "varieties": [
+  {
+   "name": "dolliv",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "487"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "lopunny-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Lockpin",
+  "de": "Mega-Schlapor",
+  "en": "Mega Lopunny"
+ },
+ "form_names": {
+  "ja-hrkt": "メガミミロップ",
+  "ko": "메가이어롭",
+  "zh-hant": "超級長耳兔",
+  "fr": "Méga-Lockpin",
+  "de": "Mega-Form",
+  "es": "Mega-Lopunny",
+  "it": "MegaLopunny",
+  "en": "Mega Lopunny",
+  "ja": "メガミミロップ",
+  "zh-hans": "超级长耳兔",
+  "es-419": "Mega-Lopunny"
+ },
+ "is_mega": true
+}

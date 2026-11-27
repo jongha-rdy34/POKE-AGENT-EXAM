@@ -1,0 +1,20 @@
+{
+ "name": "strawberry",
+ "names": {
+  "ja-hrkt": "いちごスライス",
+  "ko": "딸기슬라이스",
+  "zh-hant": "草莓片",
+  "fr": "Fraise",
+  "de": "Erdbeere",
+  "es": "Fresa",
+  "it": "Fragola",
+  "en": "Strawberry",
+  "ja": "いちごスライス",
+  "zh-hans": "草莓片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "parcel",
+ "names": {
+  "ja-hrkt": "おとどけもの",
+  "ko": "전해줄물건",
+  "zh-hant": "包裹",
+  "fr": "Colis",
+  "de": "Paket",
+  "es": "Paquete",
+  "it": "Pacco",
+  "en": "Parcel",
+  "ja": "おとどけもの",
+  "zh-hans": "包裹",
+  "es-419": "Paquete"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Donné au rival du dresseur à Féli-Cité. Contient une Carte.",
+  "en": "Given to the trainer’s rival in Jubilife City. Contains Town Maps."
+ },
+ "flavor": {
+  "en": "A parcel entrusted into your care. You’re supposed to deliver it to your childhood friend who left Twinleaf Town.",
+  "ko": "떡잎마을에서 여행을 떠난 소꿉친구에게 건네주도록 부탁받은 물건.",
+  "ja": "フタバタウンから 旅立った 幼なじみに 渡すように 頼まれた おとどけもの。"
+ }
+}

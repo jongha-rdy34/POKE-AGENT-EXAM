@@ -1,0 +1,28 @@
+{
+ "name": "contest-pass",
+ "names": {
+  "ja-hrkt": "コンテストパス",
+  "ko": "콘테스트패스",
+  "zh-hant": "華麗大賽參加證",
+  "fr": "Passe Concours",
+  "de": "Wettbewerbskarte",
+  "es": "Pase Concurso",
+  "it": "Tessera Gare",
+  "en": "Contest Pass",
+  "ja": "コンテストパス",
+  "zh-hans": "华丽大赛参加证",
+  "es-419": "Pase Concurso"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet de participer aux Concours Pokémon.",
+  "en": "Allows participation in Pokémon Contests."
+ },
+ "flavor": {
+  "en": "A pass required for entering Pokémon Contests. It has a drawing of an award ribbon on its front.",
+  "ko": "지니고 있으면 포켓몬 콘테스트에 참가할 수 있다. 기념리본이 그려져 있다.",
+  "ja": "持っていれば ポケモンコンテストに 参加することが できる。 記念リボンが 描かれている。"
+ }
+}

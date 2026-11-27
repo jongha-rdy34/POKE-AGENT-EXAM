@@ -1,0 +1,20 @@
+{
+ "name": "lagreat-ball",
+ "names": {
+  "ko": "슈퍼볼",
+  "zh-hant": "超級球",
+  "fr": "Super Ball",
+  "de": "Superball",
+  "es": "Super Ball",
+  "it": "Mega Ball",
+  "en": "Great Ball",
+  "ja": "スーパーボール",
+  "zh-hans": "超级球",
+  "es-419": "Superbola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "spicy-extract",
+ "names": {
+  "ja-hrkt": "ハバネロエキス",
+  "ko": "하바네로엑기스",
+  "zh-hant": "辣椒精華",
+  "fr": "Habanerage",
+  "de": "Chili-Essenz",
+  "es": "Extracto Picante",
+  "it": "Essenza Piccante",
+  "en": "Spicy Extract",
+  "ja": "ハバネロエキス",
+  "zh-hans": "辣椒精华",
+  "es-419": "Extracto Picante"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": 0,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat."
+ }
+}

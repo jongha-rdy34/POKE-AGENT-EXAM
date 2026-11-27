@@ -1,0 +1,23 @@
+{
+ "name": "pikachu-unova-cap",
+ "form_name": "unova-cap",
+ "names": {
+  "fr": "Pikachu Casquette d’Unys",
+  "de": "Pikachu (Einall-Kappe)",
+  "en": "Unova Cap Pikachu"
+ },
+ "form_names": {
+  "ja-hrkt": "イッシュキャップ",
+  "ko": "하나캡",
+  "zh-hant": "合眾帽子",
+  "fr": "Casquette d’Unys",
+  "de": "Einall-Kappe",
+  "es": "Gorra Teselia",
+  "it": "Berretto Unima",
+  "en": "Unova Cap",
+  "ja": "イッシュキャップ",
+  "zh-hans": "合众帽子",
+  "es-419": "Gorra Teselia"
+ },
+ "is_mega": false
+}

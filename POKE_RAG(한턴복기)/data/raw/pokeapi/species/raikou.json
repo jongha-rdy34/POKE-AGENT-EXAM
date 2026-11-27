@@ -1,0 +1,42 @@
+{
+ "id": 243,
+ "name": "raikou",
+ "names": {
+  "ja-hrkt": "ライコウ",
+  "ja-roma": "Raikou",
+  "ko": "라이코",
+  "zh-hant": "雷公",
+  "fr": "Raikou",
+  "de": "Raikou",
+  "es": "Raikou",
+  "it": "Raikou",
+  "en": "Raikou",
+  "ja": "ライコウ",
+  "zh-hans": "雷公",
+  "es-419": "Raikou"
+ },
+ "genus": {
+  "ja-hrkt": "いかずちポケモン",
+  "ko": "우뢰포켓몬",
+  "zh-hant": "天雷寶可夢",
+  "fr": "Pokémon Foudre",
+  "de": "Donner-Pokémon",
+  "es": "Pokémon Trueno",
+  "it": "Pokémon Tuono",
+  "en": "Thunder Pokémon",
+  "ja": "いかずちポケモン",
+  "zh-hans": "天雷宝可梦",
+  "es-419": "Pokémon Trueno"
+ },
+ "flavor": {
+  "en": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+  "ko": "번개의 스피드가 깃들어 있는 포켓몬이다. 그 울음소리는 번개가 내리쳤을 때처럼 공기를 떨리게 하며 대지를 흔든다."
+ },
+ "varieties": [
+  {
+   "name": "raikou",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "123"
+}

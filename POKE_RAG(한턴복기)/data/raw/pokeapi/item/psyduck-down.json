@@ -1,0 +1,20 @@
+{
+ "name": "psyduck-down",
+ "names": {
+  "ja-hrkt": "コダックのうもう",
+  "ko": "고라파덕의솜털",
+  "zh-hant": "可達鴨的羽絨",
+  "fr": "Duvet de Psykokwak",
+  "de": "Enton-Daune",
+  "es": "Plumón de Psyduck",
+  "it": "Piuma di Psyduck",
+  "en": "Psyduck Down",
+  "ja": "コダックのうもう",
+  "zh-hans": "可达鸭的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

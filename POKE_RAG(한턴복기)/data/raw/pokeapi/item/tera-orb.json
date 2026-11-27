@@ -1,0 +1,20 @@
+{
+ "name": "tera-orb",
+ "names": {
+  "ja-hrkt": "テラスタルオーブ",
+  "ko": "테라스탈오브",
+  "zh-hant": "太晶珠",
+  "fr": "Orbe Téracristal",
+  "de": "Terakristall-Orb",
+  "es": "Orbe Teracristal",
+  "it": "Terasfera",
+  "en": "Tera Orb",
+  "ja": "テラスタルオーブ",
+  "zh-hans": "太晶珠"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

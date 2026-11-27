@@ -1,0 +1,28 @@
+{
+ "name": "common-stone",
+ "names": {
+  "ja-hrkt": "ありふれたいし",
+  "ko": "흔해빠진돌",
+  "zh-hant": "常見石",
+  "fr": "Pierre Ordinaire",
+  "de": "Normaler Stein",
+  "es": "Piedra Común",
+  "it": "Sasso qualsiasi",
+  "en": "Common Stone",
+  "ja": "ありふれたいし",
+  "zh-hans": "常见石",
+  "es-419": "Piedra Común"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Inconnu.",
+  "en": "Unknown."
+ },
+ "flavor": {
+  "ko": "보는 사람에 따라서는 귀중할지도 모르는 평범한 돌.",
+  "en": "A perfectly normal stone that might appear to be valuable to some. It’s all in the eye of the beholder.",
+  "ja": "みる 人に よっては 貴重 かもしれない でも 普通の 石。"
+ }
+}

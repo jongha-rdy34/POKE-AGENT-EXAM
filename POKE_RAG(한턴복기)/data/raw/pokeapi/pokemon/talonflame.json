@@ -1,0 +1,82 @@
+{
+ "id": 663,
+ "name": "talonflame",
+ "species": "talonflame",
+ "is_default": true,
+ "types": [
+  "fire",
+  "flying"
+ ],
+ "stats": {
+  "hp": 78,
+  "attack": 81,
+  "defense": 71,
+  "special-attack": 74,
+  "special-defense": 69,
+  "speed": 126
+ },
+ "abilities": [
+  {
+   "name": "flame-body",
+   "hidden": false
+  },
+  {
+   "name": "gale-wings",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 245,
+ "champions_moves": [
+  "acrobatics",
+  "aerial-ace",
+  "agility",
+  "air-cutter",
+  "air-slash",
+  "blaze-kick",
+  "brave-bird",
+  "bulk-up",
+  "defog",
+  "double-edge",
+  "dual-wingbeat",
+  "endure",
+  "facade",
+  "feather-dance",
+  "feint",
+  "fire-blast",
+  "fire-spin",
+  "flail",
+  "flame-charge",
+  "flamethrower",
+  "flare-blitz",
+  "fly",
+  "giga-impact",
+  "heat-wave",
+  "hurricane",
+  "hyper-beam",
+  "overheat",
+  "protect",
+  "quick-attack",
+  "quick-guard",
+  "rain-dance",
+  "rest",
+  "roost",
+  "round",
+  "sky-attack",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "steel-wing",
+  "substitute",
+  "sunny-day",
+  "swords-dance",
+  "tailwind",
+  "taunt",
+  "temper-flare",
+  "thief",
+  "u-turn",
+  "upper-hand",
+  "whirlwind",
+  "will-o-wisp"
+ ]
+}

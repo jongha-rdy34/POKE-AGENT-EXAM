@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-band",
+ "names": {
+  "ja-hrkt": "ダイマックスＢ",
+  "ko": "다이맥스 밴드",
+  "zh-hant": "極巨腕帶",
+  "fr": "Poignet Dynamax",
+  "de": "Dynamax-Band",
+  "es": "Maximuñequera",
+  "it": "Polsino Dynamax",
+  "en": "Dynamax Band",
+  "ja": "ダイマックスＢ",
+  "zh-hans": "极巨腕带",
+  "es-419": "Maximuñequera"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "소원의별이 박혀 있으며 파워스폿에 있으면 빛이 나고 포켓몬을 다이맥스시킬 수 있다.",
+  "en": "A Wishing Star has been affixed to it. It lets out a light that allows Pokémon to Dynamax when at a Power Spot.",
+  "ja": "ねがいぼしが 組みこまれており パワースポットに いると 光りだして ポケモンを ダイマックス させる。"
+ }
+}

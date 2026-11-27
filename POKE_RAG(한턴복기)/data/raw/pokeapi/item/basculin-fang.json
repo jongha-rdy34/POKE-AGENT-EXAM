@@ -1,0 +1,20 @@
+{
+ "name": "basculin-fang",
+ "names": {
+  "ja-hrkt": "バスラオのキバ",
+  "ko": "배쓰나이의이빨",
+  "zh-hant": "野蠻鱸魚的牙",
+  "fr": "Croc de Bargantua",
+  "de": "Barschuft-Zahn",
+  "es": "Colmillo de Basculin",
+  "it": "Dente di Basculin",
+  "en": "Basculin Fang",
+  "ja": "バスラオのキバ",
+  "zh-hans": "野蛮鲈鱼的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

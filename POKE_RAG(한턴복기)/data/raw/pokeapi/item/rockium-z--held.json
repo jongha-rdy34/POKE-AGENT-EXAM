@@ -1,0 +1,28 @@
+{
+ "name": "rockium-z--held",
+ "names": {
+  "ja-hrkt": "イワＺ",
+  "ko": "바위Z",
+  "zh-hant": "岩石Ｚ",
+  "fr": "Rocazélite",
+  "de": "Petrium Z",
+  "es": "Litostal Z",
+  "it": "Petrium Z",
+  "en": "Rockium Z",
+  "ja": "イワＺ",
+  "zh-hans": "岩石Ｚ",
+  "es-419": "Litostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Roche.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 바위타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Rock-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 いわタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

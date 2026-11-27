@@ -1,0 +1,42 @@
+{
+ "id": 312,
+ "name": "minun",
+ "names": {
+  "ja-hrkt": "マイナン",
+  "ja-roma": "Minun",
+  "ko": "마이농",
+  "zh-hant": "負電拍拍",
+  "fr": "Négapi",
+  "de": "Minun",
+  "es": "Minun",
+  "it": "Minun",
+  "en": "Minun",
+  "ja": "マイナン",
+  "zh-hans": "負电拍拍",
+  "es-419": "Minun"
+ },
+ "genus": {
+  "ja-hrkt": "おうえんポケモン",
+  "ko": "응원포켓몬",
+  "zh-hant": "加油寶可夢",
+  "fr": "Pokémon Acclameur",
+  "de": "Jubel",
+  "es": "Pokémon Ánimo",
+  "it": "Pokémon Incitamento",
+  "en": "Cheering Pokémon",
+  "ja": "おうえんポケモン",
+  "zh-hans": "加油宝可梦",
+  "es-419": "Pokémon Ánimo"
+ },
+ "flavor": {
+  "en": "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
+  "ko": "동료를 응원하는 것을 매우 좋아하는 포켓몬이다. 동료가 질 것 같으면 몸에서 나오는 불꽃의 수가 점점 늘어난다."
+ },
+ "varieties": [
+  {
+   "name": "minun",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "155"
+}

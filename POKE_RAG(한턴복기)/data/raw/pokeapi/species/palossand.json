@@ -1,0 +1,42 @@
+{
+ "id": 770,
+ "name": "palossand",
+ "names": {
+  "ja-hrkt": "シロデスナ",
+  "ja-roma": "Sirodethna",
+  "ko": "모래성이당",
+  "zh-hant": "噬沙堡爺",
+  "fr": "Trépassable",
+  "de": "Colossand",
+  "es": "Palossand",
+  "it": "Palossand",
+  "en": "Palossand",
+  "ja": "シロデスナ",
+  "zh-hans": "噬沙堡爷",
+  "es-419": "Palossand"
+ },
+ "genus": {
+  "ja-hrkt": "すなのしろポケモン",
+  "ko": "모래성포켓몬",
+  "zh-hant": "沙堡寶可夢",
+  "fr": "Pokémon Châtod’Sable",
+  "de": "Sandschloss-Pokémon",
+  "es": "Pokémon Castiarena",
+  "it": "Pokémon Castelsabbia",
+  "en": "Sand Castle Pokémon",
+  "ja": "すなのしろポケモン",
+  "zh-hans": "沙堡宝可梦",
+  "es-419": "Pokémon Castiarena"
+ },
+ "flavor": {
+  "ko": "해변에 살지만 물을 싫어한다. 세찬 비를 맞으면 성의 형태를 유지하지 못한다.",
+  "en": "This Pokémon lives on beaches, but it hates water. Palossand can’t maintain its castle-like shape if it gets drenched by a heavy rain."
+ },
+ "varieties": [
+  {
+   "name": "palossand",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "397"
+}

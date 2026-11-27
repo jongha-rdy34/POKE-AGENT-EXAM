@@ -1,0 +1,42 @@
+{
+ "id": 190,
+ "name": "aipom",
+ "names": {
+  "ja-hrkt": "エイパム",
+  "ja-roma": "Eipam",
+  "ko": "에이팜",
+  "zh-hant": "長尾怪手",
+  "fr": "Capumain",
+  "de": "Griffel",
+  "es": "Aipom",
+  "it": "Aipom",
+  "en": "Aipom",
+  "ja": "エイパム",
+  "zh-hans": "长尾怪手",
+  "es-419": "Aipom"
+ },
+ "genus": {
+  "ja-hrkt": "おながポケモン",
+  "ko": "긴꼬리포켓몬",
+  "zh-hant": "長尾寶可夢",
+  "fr": "Pokémon Longqueue",
+  "de": "Langschweif",
+  "es": "Pokémon Cola Larga",
+  "it": "Pokémon Lungacoda",
+  "en": "Long Tail Pokémon",
+  "ja": "おながポケモン",
+  "zh-hans": "长尾宝可梦",
+  "es-419": "Pokémon Cola Larga"
+ },
+ "flavor": {
+  "en": "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity.",
+  "ko": "나무 위에서 먹이를 찾는다. 좋아하는 달콤아를 발견하면 흥분해서 덤벼든다."
+ },
+ "varieties": [
+  {
+   "name": "aipom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "93"
+}

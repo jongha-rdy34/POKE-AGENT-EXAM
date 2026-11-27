@@ -1,0 +1,20 @@
+{
+ "name": "rockruff-rock",
+ "names": {
+  "ja-hrkt": "イワンコのいわ",
+  "ko": "암멍이의바위",
+  "zh-hant": "岩狗狗的岩石",
+  "fr": "Roche de Rocabot",
+  "de": "Wuffels-Stein",
+  "es": "Roca de Rockruff",
+  "it": "Roccia di Rockruff",
+  "en": "Rockruff Rock",
+  "ja": "イワンコのいわ",
+  "zh-hans": "岩狗狗的岩石"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

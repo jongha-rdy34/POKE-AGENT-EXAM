@@ -1,0 +1,42 @@
+{
+ "id": 729,
+ "name": "brionne",
+ "names": {
+  "ja-hrkt": "オシャマリ",
+  "ja-roma": "Osyamari",
+  "ko": "키요공",
+  "zh-hant": "花漾海獅",
+  "fr": "Otarlette",
+  "de": "Marikeck",
+  "es": "Brionne",
+  "it": "Brionne",
+  "en": "Brionne",
+  "ja": "オシャマリ",
+  "zh-hans": "花漾海狮",
+  "es-419": "Brionne"
+ },
+ "genus": {
+  "ja-hrkt": "アイドルポケモン",
+  "ko": "아이돌포켓몬",
+  "zh-hant": "偶像寶可夢",
+  "fr": "Pokémon Starlette",
+  "de": "Popsternchen-Pokémon",
+  "es": "Pokémon Fama",
+  "it": "Pokémon Pop Star",
+  "en": "Pop Star Pokémon",
+  "ja": "アイドルポケモン",
+  "zh-hans": "偶像宝可梦",
+  "es-419": "Pokémon Fama"
+ },
+ "flavor": {
+  "ko": "파도가 잔잔한 밤이 되면 리더인 누리레느의 노랫소리에 맞춰 동료와 함께 춤을 춘다.",
+  "en": "On nights when the sea is calm, Brionne dance with one another to the singing of the Primarina that’s leading them."
+ },
+ "varieties": [
+  {
+   "name": "brionne",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "376"
+}

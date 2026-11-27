@@ -1,0 +1,42 @@
+{
+ "id": 541,
+ "name": "swadloon",
+ "names": {
+  "ja-hrkt": "クルマユ",
+  "ja-roma": "Kurumayu",
+  "ko": "두르쿤",
+  "zh-hant": "寶包繭",
+  "fr": "Couverdure",
+  "de": "Folikon",
+  "es": "Swadloon",
+  "it": "Swadloon",
+  "en": "Swadloon",
+  "ja": "クルマユ",
+  "zh-hans": "宝包茧",
+  "es-419": "Swadloon"
+ },
+ "genus": {
+  "ja-hrkt": "はごもりポケモン",
+  "ko": "잎숨기포켓몬",
+  "zh-hant": "足不出葉寶可夢",
+  "fr": "Pokémon Capefeuille",
+  "de": "Wickelblatt",
+  "es": "Pokémon Arropado",
+  "it": "Pokémon Coprifoglia",
+  "en": "Leaf-Wrapped Pokémon",
+  "ja": "はごもりポケモン",
+  "zh-hans": "足不出叶宝可梦",
+  "es-419": "Pokémon Arropado"
+ },
+ "flavor": {
+  "en": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+  "ko": "잎사귀로 몸을 감싸 추위를 막는다. 가까이 있는 낙엽을 먹으며 숲을 이동한다."
+ },
+ "varieties": [
+  {
+   "name": "swadloon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "276"
+}

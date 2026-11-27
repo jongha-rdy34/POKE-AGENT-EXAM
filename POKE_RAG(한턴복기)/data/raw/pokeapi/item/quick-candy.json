@@ -1,0 +1,25 @@
+{
+ "name": "quick-candy",
+ "names": {
+  "ja-hrkt": "はやさのアメ",
+  "ko": "속도의사탕",
+  "zh-hant": "敏捷糖果",
+  "fr": "Bonbon Sprint S",
+  "de": "Flottbonbon",
+  "es": "Caramelo Ímpetu",
+  "it": "Caramella rapidità S",
+  "en": "Quick Candy",
+  "ja": "はやさのアメ",
+  "zh-hans": "敏捷糖果",
+  "es-419": "Caramelo Ímpetu"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 스피드를 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Speed stat.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの すばやさを 上げる。"
+ }
+}

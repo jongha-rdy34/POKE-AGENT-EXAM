@@ -1,0 +1,42 @@
+{
+ "id": 866,
+ "name": "mr-rime",
+ "names": {
+  "ja-hrkt": "バリコオル",
+  "ja-roma": "Barrikohru",
+  "ko": "마임꽁꽁",
+  "zh-hant": "踏冰人偶",
+  "fr": "M. Glaquette",
+  "de": "Pantifrost",
+  "es": "Mr. Rime",
+  "it": "Mr. Rime",
+  "en": "Mr. Rime",
+  "ja": "バリコオル",
+  "zh-hans": "踏冰人偶",
+  "es-419": "Mr. Rime"
+ },
+ "genus": {
+  "ja-hrkt": "コメディアンポケモン",
+  "ko": "코미디언포켓몬",
+  "zh-hant": "喜劇演員寶可夢",
+  "fr": "Pokémon Comédien",
+  "de": "Komiker-Pokémon",
+  "es": "Pokémon Cómico",
+  "it": "Pokémon Comico",
+  "en": "Comedian Pokémon",
+  "ja": "コメディアンポケモン",
+  "zh-hans": "喜剧演员宝可梦",
+  "es-419": "Pokémon Cómico"
+ },
+ "flavor": {
+  "ko": "유머러스한 움직임으로 모두에게 인기가 높다. 배의 무늬에서 사이코 파워를 방출한다.",
+  "en": "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly."
+ },
+ "varieties": [
+  {
+   "name": "mr-rime",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "57"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "dynite-ore",
+ "names": {
+  "ja-hrkt": "マックスこうせき",
+  "ko": "맥스광석",
+  "zh-hant": "極礦石",
+  "fr": "Dynamaxium",
+  "de": "Dyna-Erz",
+  "es": "Maxinium",
+  "it": "Rocciamax",
+  "en": "Dynite Ore",
+  "ja": "マックスこうせき",
+  "zh-hans": "极矿石",
+  "es-419": "Maxinium"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "맥스다이맥스굴에서 얻을 수 있는 수수께끼의 광석. 왕관설원의 컬렉터에게 주면 좋은 일이 일어난다.",
+  "en": "Mysterious ore that can be obtained in the Max Lair. Something good will happen if you give it to a collector in the Crown Tundra.",
+  "ja": "マックスダイ巣穴で 採れる 謎の石。 カンムリ雪原の コレクターに あげると なにか いいことが ある。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 98,
+ "name": "krabby",
+ "names": {
+  "ja-hrkt": "クラブ",
+  "ja-roma": "Crab",
+  "ko": "크랩",
+  "zh-hant": "大鉗蟹",
+  "fr": "Krabby",
+  "de": "Krabby",
+  "es": "Krabby",
+  "it": "Krabby",
+  "en": "Krabby",
+  "ja": "クラブ",
+  "zh-hans": "大钳蟹",
+  "es-419": "Krabby"
+ },
+ "genus": {
+  "ja-hrkt": "さわがにポケモン",
+  "ko": "게포켓몬",
+  "zh-hant": "清水蟹寶可夢",
+  "fr": "Pokémon Doux Crabe",
+  "de": "Krabben-Pokémon",
+  "es": "Pokémon Cangrejo",
+  "it": "Pokémon Granchio",
+  "en": "River Crab Pokémon",
+  "ja": "さわがにポケモン",
+  "zh-hans": "清水蟹宝可梦",
+  "es-419": "Pokémon Cangrejo"
+ },
+ "flavor": {
+  "en": "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+  "ko": "위험이 닥치면 입에서 뿜어내는 거품으로 전신을 감싸서 몸을 크게 보이려고 한다."
+ },
+ "varieties": [
+  {
+   "name": "krabby",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "43"
+}

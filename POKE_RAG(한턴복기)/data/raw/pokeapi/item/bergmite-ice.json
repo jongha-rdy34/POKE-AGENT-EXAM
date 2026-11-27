@@ -1,0 +1,20 @@
+{
+ "name": "bergmite-ice",
+ "names": {
+  "ja-hrkt": "カチコールのこおり",
+  "ko": "꽁어름의얼음",
+  "zh-hant": "冰寶的冰",
+  "fr": "Glace de Grelaçon",
+  "de": "Arktip-Eis",
+  "es": "Hielo de Bergmite",
+  "it": "Ghiaccio di Bergmite",
+  "en": "Bergmite Ice",
+  "ja": "カチコールのこおり",
+  "zh-hans": "冰宝的冰"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

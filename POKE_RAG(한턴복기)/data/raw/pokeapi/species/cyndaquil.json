@@ -1,0 +1,42 @@
+{
+ "id": 155,
+ "name": "cyndaquil",
+ "names": {
+  "ja-hrkt": "ヒノアラシ",
+  "ja-roma": "Hinoarashi",
+  "ko": "브케인",
+  "zh-hant": "火球鼠",
+  "fr": "Héricendre",
+  "de": "Feurigel",
+  "es": "Cyndaquil",
+  "it": "Cyndaquil",
+  "en": "Cyndaquil",
+  "ja": "ヒノアラシ",
+  "zh-hans": "火球鼠",
+  "es-419": "Cyndaquil"
+ },
+ "genus": {
+  "ja-hrkt": "ひねずみポケモン",
+  "ko": "불쥐포켓몬",
+  "zh-hant": "火鼠寶可夢",
+  "fr": "Pokémon Souris Feu",
+  "de": "Feuermaus",
+  "es": "Pokémon Ratón Fuego",
+  "it": "Pokémon Fuocotopo",
+  "en": "Fire Mouse Pokémon",
+  "ja": "ひねずみポケモン",
+  "zh-hans": "火鼠宝可梦",
+  "es-419": "Pokémon Ratón Fuego"
+ },
+ "flavor": {
+  "en": "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower.",
+  "ko": "등에서 불꽃을 내뿜어 몸을 지킨다. 화났을 때의 불꽃은 기운차지만 지쳤을 때는 불완전연소한다."
+ },
+ "varieties": [
+  {
+   "name": "cyndaquil",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "80"
+}

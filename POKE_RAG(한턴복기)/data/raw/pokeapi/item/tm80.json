@@ -1,0 +1,28 @@
+{
+ "name": "tm80",
+ "names": {
+  "ja-hrkt": "わざマシン８０",
+  "ko": "기술머신80",
+  "zh-hant": "招式學習器８０",
+  "fr": "CT80",
+  "de": "TM80",
+  "es": "MT80",
+  "it": "MT80",
+  "en": "TM80",
+  "ja": "わざマシン８０",
+  "zh-hans": "招式学习器８０",
+  "es-419": "MT80"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Éboulement à un Pokémon compatible.",
+  "en": "Teaches Rock Slide to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+  "ko": "공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다.",
+  "ja": "攻撃したあと ものすごい スピードで もどってきて 控えポケモンと 入れ替わる。"
+ }
+}

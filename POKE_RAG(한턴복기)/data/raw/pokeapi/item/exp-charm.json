@@ -1,0 +1,25 @@
+{
+ "name": "exp-charm",
+ "names": {
+  "ja-hrkt": "けいけんおまもり",
+  "ko": "경험부적",
+  "zh-hant": "經驗護符",
+  "fr": "Charme Exp",
+  "de": "EP-Pin",
+  "es": "Amuleto Exp",
+  "it": "Esperienzamuleto",
+  "en": "Exp. Charm",
+  "ja": "けいけんおまもり",
+  "zh-hans": "经验护符",
+  "es-419": "Amuleto Exp"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "지니고 있으면 포켓몬이 받는 경험치가 늘어나는 부적. 기계 같은 것이 들어 있다.",
+  "en": "A charm that increases the Exp. Points that Pokémon can get. A machine-like object is inside the charm.",
+  "ja": "持っていると ポケモンが 得られる 経験値が 増える おまもり。 機械のような ものが 入っている。"
+ }
+}

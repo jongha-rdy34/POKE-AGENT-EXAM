@@ -1,0 +1,20 @@
+{
+ "name": "sandile-claw",
+ "names": {
+  "ja-hrkt": "メグロコのツメ",
+  "ko": "깜눈크의발톱",
+  "zh-hant": "黑眼鱷的爪子",
+  "fr": "Griffe de Mascaïman",
+  "de": "Ganovil-Kralle",
+  "es": "Garra de Sandile",
+  "it": "Artiglio di Sandile",
+  "en": "Sandile Claw",
+  "ja": "メグロコのツメ",
+  "zh-hans": "黑眼鳄的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

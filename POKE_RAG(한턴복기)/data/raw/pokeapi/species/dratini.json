@@ -1,0 +1,42 @@
+{
+ "id": 147,
+ "name": "dratini",
+ "names": {
+  "ja-hrkt": "ミニリュウ",
+  "ja-roma": "Miniryu",
+  "ko": "미뇽",
+  "zh-hant": "迷你龍",
+  "fr": "Minidraco",
+  "de": "Dratini",
+  "es": "Dratini",
+  "it": "Dratini",
+  "en": "Dratini",
+  "ja": "ミニリュウ",
+  "zh-hans": "迷你龙",
+  "es-419": "Dratini"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "This Pokémon was long considered to be no more than a myth. The small lump on a Dratini’s forehead is actually a horn that’s still coming in.",
+  "ko": "오랫동안 환상이라고 불렸다. 이마에 있는 작은 돌기는 성장하고 있는 뿔이다."
+ },
+ "varieties": [
+  {
+   "name": "dratini",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "76"
+}

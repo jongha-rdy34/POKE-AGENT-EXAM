@@ -1,0 +1,42 @@
+{
+ "id": 120,
+ "name": "staryu",
+ "names": {
+  "ja-hrkt": "ヒトデマン",
+  "ja-roma": "Hitodeman",
+  "ko": "별가사리",
+  "zh-hant": "海星星",
+  "fr": "Stari",
+  "de": "Sterndu",
+  "es": "Staryu",
+  "it": "Staryu",
+  "en": "Staryu",
+  "ja": "ヒトデマン",
+  "zh-hans": "海星星",
+  "es-419": "Staryu"
+ },
+ "genus": {
+  "ja-hrkt": "ほしがたポケモン",
+  "ko": "별포켓몬",
+  "zh-hant": "星形寶可夢",
+  "fr": "Pokémon Étoile",
+  "de": "Sternform-Pokémon",
+  "es": "Pokémon Estrella",
+  "it": "Pokémon Stella",
+  "en": "Star Shape Pokémon",
+  "ja": "ほしがたポケモン",
+  "zh-hans": "星形宝可梦",
+  "es-419": "Pokémon Estrella"
+ },
+ "flavor": {
+  "en": "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off.",
+  "ko": "물고기포켓몬에게 물리곤 하지만 몸이 찢겨도 금방 재생되기 때문에 신경 쓰지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "staryu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "56"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "varoom-fume",
+ "names": {
+  "ja-hrkt": "ブロロンのガス",
+  "ko": "부르롱의가스",
+  "zh-hant": "噗隆隆的氣體",
+  "fr": "Gaz de Vrombi",
+  "de": "Knattox-Gas",
+  "es": "Gas de Varoom",
+  "it": "Gas di Varoom",
+  "en": "Varoom Fume",
+  "ja": "ブロロンのガス",
+  "zh-hans": "噗隆隆的气体"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

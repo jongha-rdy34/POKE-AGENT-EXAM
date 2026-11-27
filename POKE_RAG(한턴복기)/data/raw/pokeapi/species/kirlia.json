@@ -1,0 +1,42 @@
+{
+ "id": 281,
+ "name": "kirlia",
+ "names": {
+  "ja-hrkt": "キルリア",
+  "ja-roma": "Kirlia",
+  "ko": "킬리아",
+  "zh-hant": "奇魯莉安",
+  "fr": "Kirlia",
+  "de": "Kirlia",
+  "es": "Kirlia",
+  "it": "Kirlia",
+  "en": "Kirlia",
+  "ja": "キルリア",
+  "zh-hans": "奇鲁莉安",
+  "es-419": "Kirlia"
+ },
+ "genus": {
+  "ja-hrkt": "かんじょうポケモン",
+  "ko": "감정포켓몬",
+  "zh-hant": "感情寶可夢",
+  "fr": "Pokémon Émotion",
+  "de": "Emotions-Pokémon",
+  "es": "Pokémon Sensorio",
+  "it": "Pokémon Emozione",
+  "en": "Emotion Pokémon",
+  "ja": "かんじょうポケモン",
+  "zh-hans": "感情宝可梦",
+  "es-419": "Pokémon Sensorio"
+ },
+ "flavor": {
+  "en": "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities.",
+  "ko": "사이코 파워를 조작해 주변의 공간을 일그러뜨려 미래를 내다볼 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "kirlia",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "140"
+}

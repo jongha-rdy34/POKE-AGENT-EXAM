@@ -1,0 +1,23 @@
+{
+ "name": "strong-jaw",
+ "names": {
+  "ja-hrkt": "がんじょうあご",
+  "ko": "옹골찬턱",
+  "zh-hant": "強壯之顎",
+  "fr": "Prognathe",
+  "de": "Titankiefer",
+  "es": "Mandíbula Fuerte",
+  "it": "Ferromascella",
+  "en": "Strong Jaw",
+  "ja": "がんじょうあご",
+  "zh-hans": "强壮之颚",
+  "es-419": "Mandíbula Fuerte"
+ },
+ "effect": {
+  "en": "Strengthens biting moves to 1.5× their power."
+ },
+ "flavor": {
+  "ko": "턱이 튼튼하여 무는 기술의 위력이 올라간다.",
+  "en": "The Pokémon's strong jaw boosts the power of its biting moves."
+ }
+}

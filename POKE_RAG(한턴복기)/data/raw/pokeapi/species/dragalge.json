@@ -1,0 +1,46 @@
+{
+ "id": 691,
+ "name": "dragalge",
+ "names": {
+  "ja-hrkt": "ドラミドロ",
+  "ja-roma": "Dramidoro",
+  "ko": "드래캄",
+  "zh-hant": "毒藻龍",
+  "fr": "Kravarech",
+  "de": "Tandrak",
+  "es": "Dragalge",
+  "it": "Dragalge",
+  "en": "Dragalge",
+  "ja": "ドラミドロ",
+  "zh-hans": "毒藻龙",
+  "es-419": "Dragalge"
+ },
+ "genus": {
+  "ja-hrkt": "クサモドキポケモン",
+  "ko": "풀모방포켓몬",
+  "zh-hant": "似草寶可夢",
+  "fr": "Pokémon Simulalgue",
+  "de": "Tangmimikry-Pokémon",
+  "es": "Pokémon Pseudoalga",
+  "it": "Pokémon Similalga",
+  "en": "Mock Kelp Pokémon",
+  "ja": "クサモドキポケモン",
+  "zh-hans": "似草宝可梦",
+  "es-419": "Pokémon Pseudoalga"
+ },
+ "flavor": {
+  "ko": "머리의 갓을 해면 위로 내밀고 태양 빛을 받아 드래곤 에너지를 만든다.",
+  "en": "Dragalge generates dragon energy by sticking the plume on its head out above the ocean’s surface and bathing it in sunlight."
+ },
+ "varieties": [
+  {
+   "name": "dragalge",
+   "is_default": true
+  },
+  {
+   "name": "dragalge-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "354"
+}

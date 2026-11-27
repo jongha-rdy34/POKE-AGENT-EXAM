@@ -1,0 +1,28 @@
+{
+ "name": "tm10",
+ "names": {
+  "ja-hrkt": "わざマシン１０",
+  "ko": "기술머신10",
+  "zh-hant": "招式學習器１０",
+  "fr": "CT10",
+  "de": "TM10",
+  "es": "MT10",
+  "it": "MT10",
+  "en": "TM10",
+  "ja": "わざマシン１０",
+  "zh-hans": "招式学习器１０",
+  "es-419": "MT10"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Puissance Cachée à un Pokémon compatible. (Gén I: Damoclès)",
+  "en": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)"
+ },
+ "flavor": {
+  "en": "The user scatters curious leaves that chase the target. This attack never misses.",
+  "ko": "상대를 추적하는 이상한 잎사귀를 흩뿌린다. 공격은 반드시 명중한다.",
+  "ja": "相手を 追跡する 不思議な はっぱを まきちらす。 攻撃は 必ず 命中する。"
+ }
+}

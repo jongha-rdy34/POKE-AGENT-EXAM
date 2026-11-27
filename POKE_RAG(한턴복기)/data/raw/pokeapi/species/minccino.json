@@ -1,0 +1,42 @@
+{
+ "id": 572,
+ "name": "minccino",
+ "names": {
+  "ja-hrkt": "チラーミィ",
+  "ja-roma": "Chillarmy",
+  "ko": "치라미",
+  "zh-hant": "泡沫栗鼠",
+  "fr": "Chinchidou",
+  "de": "Picochilla",
+  "es": "Minccino",
+  "it": "Minccino",
+  "en": "Minccino",
+  "ja": "チラーミィ",
+  "zh-hans": "泡沫栗鼠",
+  "es-419": "Minccino"
+ },
+ "genus": {
+  "ja-hrkt": "チンチラポケモン",
+  "ko": "친칠라포켓몬",
+  "zh-hant": "栗鼠寶可夢",
+  "fr": "Pokémon Chinchilla",
+  "de": "Chinchilla-Pokémon",
+  "es": "Pokémon Chinchilla",
+  "it": "Pokémon Cincillà",
+  "en": "Chinchilla Pokémon",
+  "ja": "チンチラポケモン",
+  "zh-hans": "栗鼠宝可梦",
+  "es-419": "Pokémon Chinchilla"
+ },
+ "flavor": {
+  "en": "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful.",
+  "ko": "꼬리로 쓰다듬으며 서로 인사한다. 꼬리 털이 많은 쪽이 조금 으스댄다."
+ },
+ "varieties": [
+  {
+   "name": "minccino",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "292"
+}

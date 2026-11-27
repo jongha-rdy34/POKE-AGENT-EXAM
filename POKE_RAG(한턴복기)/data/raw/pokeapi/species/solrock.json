@@ -1,0 +1,42 @@
+{
+ "id": 338,
+ "name": "solrock",
+ "names": {
+  "ja-hrkt": "ソルロック",
+  "ja-roma": "Solrock",
+  "ko": "솔록",
+  "zh-hant": "太陽岩",
+  "fr": "Solaroc",
+  "de": "Sonnfel",
+  "es": "Solrock",
+  "it": "Solrock",
+  "en": "Solrock",
+  "ja": "ソルロック",
+  "zh-hans": "太阳岩",
+  "es-419": "Solrock"
+ },
+ "genus": {
+  "ja-hrkt": "いんせきポケモン",
+  "ko": "별똥별포켓몬",
+  "zh-hant": "隕石寶可夢",
+  "fr": "Pokémon Météorite",
+  "de": "Meteoriten-Pokémon",
+  "es": "Pokémon Meteorito",
+  "it": "Pokémon Meteorite",
+  "en": "Meteorite Pokémon",
+  "ja": "いんせきポケモン",
+  "zh-hans": "陨石宝可梦",
+  "es-419": "Pokémon Meteorito"
+ },
+ "flavor": {
+  "en": "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines.",
+  "ko": "태양 에너지가 파워의 근원이라서 낮에는 강하다. 회전하면 몸이 빛난다."
+ },
+ "varieties": [
+  {
+   "name": "solrock",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "172"
+}

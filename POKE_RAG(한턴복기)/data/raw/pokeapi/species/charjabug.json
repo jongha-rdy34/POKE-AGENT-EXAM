@@ -1,0 +1,42 @@
+{
+ "id": 737,
+ "name": "charjabug",
+ "names": {
+  "ja-hrkt": "デンヂムシ",
+  "ja-roma": "Dendimushi",
+  "ko": "전지충이",
+  "zh-hant": "蟲電寶",
+  "fr": "Chrysapile",
+  "de": "Akkup",
+  "es": "Charjabug",
+  "it": "Charjabug",
+  "en": "Charjabug",
+  "ja": "デンヂムシ",
+  "zh-hans": "虫电宝",
+  "es-419": "Charjabug"
+ },
+ "genus": {
+  "ja-hrkt": "バッテリーポケモン",
+  "ko": "배터리포켓몬",
+  "zh-hant": "蓄電池寶可夢",
+  "fr": "Pokémon Batterie",
+  "de": "Batterie-Pokémon",
+  "es": "Pokémon Batería",
+  "it": "Pokémon Batteria",
+  "en": "Battery Pokémon",
+  "ja": "バッテリーポケモン",
+  "zh-hans": "蓄电池宝可梦",
+  "es-419": "Pokémon Batería"
+ },
+ "flavor": {
+  "ko": "먹은 낙엽을 소화할 때 전기가 발생하는 구조로 되어 있다. 배의 전기 주머니에 충전된다.",
+  "en": "Its digestive processes convert the leaves it eats into electricity. An electric sac in its belly stores the electricity for later use."
+ },
+ "varieties": [
+  {
+   "name": "charjabug",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "379"
+}

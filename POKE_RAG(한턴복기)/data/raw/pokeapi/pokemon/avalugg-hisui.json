@@ -1,0 +1,85 @@
+{
+ "id": 10243,
+ "name": "avalugg-hisui",
+ "species": "avalugg",
+ "is_default": false,
+ "types": [
+  "ice",
+  "rock"
+ ],
+ "stats": {
+  "hp": 95,
+  "attack": 127,
+  "defense": 184,
+  "special-attack": 34,
+  "special-defense": 36,
+  "speed": 38
+ },
+ "abilities": [
+  {
+   "name": "strong-jaw",
+   "hidden": false
+  },
+  {
+   "name": "ice-body",
+   "hidden": false
+  },
+  {
+   "name": "sturdy",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 2624,
+ "champions_moves": [
+  "ancient-power",
+  "aurora-veil",
+  "avalanche",
+  "bite",
+  "blizzard",
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "chilling-water",
+  "crunch",
+  "curse",
+  "dig",
+  "double-edge",
+  "earthquake",
+  "endure",
+  "facade",
+  "giga-impact",
+  "gyro-ball",
+  "hard-press",
+  "heavy-slam",
+  "high-horsepower",
+  "hyper-beam",
+  "ice-beam",
+  "ice-fang",
+  "ice-spinner",
+  "icicle-spear",
+  "icy-wind",
+  "iron-defense",
+  "iron-head",
+  "meteor-beam",
+  "mirror-coat",
+  "mountain-gale",
+  "protect",
+  "rain-dance",
+  "rapid-spin",
+  "recover",
+  "rest",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "snowscape",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "wide-guard"
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "calcium",
+ "names": {
+  "ja-hrkt": "リゾチウム",
+  "ko": "리보플라빈",
+  "zh-hant": "特攻增強劑",
+  "fr": "Calcium",
+  "de": "Kalzium",
+  "es": "Calcio",
+  "it": "Calcio",
+  "en": "Calcium",
+  "ja": "リゾチウム",
+  "zh-hans": "特攻增强剂",
+  "es-419": "Calcio"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'effort en Attaque Spéciale et le bonheur.",
+  "en": "Raises Special Attack effort and happiness."
+ },
+ "flavor": {
+  "en": "A nutritious drink for Pokémon. When consumed, it raises the Sp. Atk base points of a single Pokémon.",
+  "ko": "포켓몬의 영양 드링크. 포켓몬 1마리의 특수공격 기초 포인트를 올린다.",
+  "ja": "ポケモンの 栄養ドリンク。 ポケモン １匹の 特攻の 基礎ポイントを あげる。"
+ }
+}

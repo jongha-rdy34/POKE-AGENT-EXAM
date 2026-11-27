@@ -1,0 +1,25 @@
+{
+ "name": "tr46",
+ "names": {
+  "ja-hrkt": "わざレコード４６",
+  "ko": "기술레코드46",
+  "zh-hant": "招式紀錄４６",
+  "fr": "DT46",
+  "de": "TP46",
+  "es": "DT46",
+  "it": "DT46",
+  "en": "TR46",
+  "ja": "わざレコード４６",
+  "zh-hans": "招式记录４６",
+  "es-419": "DT46"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "피부를 쇠처럼 단단하게 만듦으로써 자신의 방어를 크게 올린다.",
+  "en": "The user hardens its body’s surface like iron, sharply raising its Defense stat.",
+  "ja": "皮膚を 鉄のように 硬くする ことで 自分の 防御を ぐーんと あげる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 374,
+ "name": "beldum",
+ "names": {
+  "ja-hrkt": "ダンバル",
+  "ja-roma": "Dumbber",
+  "ko": "메탕",
+  "zh-hant": "鐵啞鈴",
+  "fr": "Terhal",
+  "de": "Tanhel",
+  "es": "Beldum",
+  "it": "Beldum",
+  "en": "Beldum",
+  "ja": "ダンバル",
+  "zh-hans": "铁哑铃",
+  "es-419": "Beldum"
+ },
+ "genus": {
+  "ja-hrkt": "てっきゅうポケモン",
+  "ko": "철공포켓몬",
+  "zh-hant": "鐵球寶可夢",
+  "fr": "Pokémon Boulefer",
+  "de": "Eisenkugel-Pokémon",
+  "es": "Pokémon Bola Hierro",
+  "it": "Pokémon Ferrosfera",
+  "en": "Iron Ball Pokémon",
+  "ja": "てっきゅうポケモン",
+  "zh-hans": "铁球宝可梦",
+  "es-419": "Pokémon Bola Hierro"
+ },
+ "flavor": {
+  "en": "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body.",
+  "ko": "몸의 세포가 자석으로 되어 있다. 혈액 대신에 자력이 온몸에 흐른다."
+ },
+ "varieties": [
+  {
+   "name": "beldum",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "192"
+}

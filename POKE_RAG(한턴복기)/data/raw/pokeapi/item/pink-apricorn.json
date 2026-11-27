@@ -1,0 +1,28 @@
+{
+ "name": "pink-apricorn",
+ "names": {
+  "ja-hrkt": "ももぼんぐり",
+  "ko": "담홍규토리",
+  "zh-hant": "粉球果",
+  "fr": "Noigrume Rose",
+  "de": "Aprikoko Pink",
+  "es": "Bonguri Rosa",
+  "it": "Ghicocca Rosa",
+  "en": "Pink Apricorn",
+  "ja": "ももぼんぐり",
+  "zh-hans": "粉球果",
+  "es-419": "Bonguri Rosa"
+ },
+ "category": "apricorn-box",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour fabriquer une Love Ball.",
+  "en": "Used to make a Love Ball."
+ },
+ "flavor": {
+  "en": "A pink Apricorn. It has a nice, sweet scent.",
+  "ko": "담홍색의 규토리. 달콤한 듯한 좋은 향기가 난다.",
+  "ja": "ももいろの ぼんぐり。 あまそうな いい においがする。"
+ }
+}

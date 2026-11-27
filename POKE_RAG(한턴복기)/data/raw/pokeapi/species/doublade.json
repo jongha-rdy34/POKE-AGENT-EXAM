@@ -1,0 +1,42 @@
+{
+ "id": 680,
+ "name": "doublade",
+ "names": {
+  "ja-hrkt": "ニダンギル",
+  "ja-roma": "Nidangill",
+  "ko": "쌍검킬",
+  "zh-hant": "雙劍鞘",
+  "fr": "Dimoclès",
+  "de": "Duokles",
+  "es": "Doublade",
+  "it": "Doublade",
+  "en": "Doublade",
+  "ja": "ニダンギル",
+  "zh-hans": "双剑鞘",
+  "es-419": "Doublade"
+ },
+ "genus": {
+  "ja-hrkt": "とうけんポケモン",
+  "ko": "도검포켓몬",
+  "zh-hant": "刀劍寶可夢",
+  "fr": "Pokémon Glaive",
+  "de": "Klingenkraft-Pokémon",
+  "es": "Pokémon Tizona",
+  "it": "Pokémon Armabianca",
+  "en": "Sword Pokémon",
+  "ja": "とうけんポケモン",
+  "zh-hans": "刀剑宝可梦",
+  "es-419": "Pokémon Tizona"
+ },
+ "flavor": {
+  "ko": "2자루의 검이 공격과 방어를 어지러울 정도로 빠르게 바꾸는 전법으로 먹이의 숨통을 끊는다.",
+  "en": "The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey."
+ },
+ "varieties": [
+  {
+   "name": "doublade",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "349"
+}

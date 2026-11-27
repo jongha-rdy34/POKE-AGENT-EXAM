@@ -1,0 +1,23 @@
+{
+ "name": "swift-swim",
+ "names": {
+  "ja-hrkt": "すいすい",
+  "ko": "쓱쓱",
+  "zh-hant": "悠游自如",
+  "fr": "Glissade",
+  "de": "Wassertempo",
+  "es": "Nado Rápido",
+  "it": "Nuotovelox",
+  "en": "Swift Swim",
+  "ja": "すいすい",
+  "zh-hans": "悠游自如",
+  "es-419": "Nado Rápido"
+ },
+ "effect": {
+  "en": "Doubles Speed during rain."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's Speed stat in rain.",
+  "ko": "비가 오는 날씨일 때 스피드가 올라간다."
+ }
+}

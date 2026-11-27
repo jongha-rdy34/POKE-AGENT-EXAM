@@ -1,0 +1,22 @@
+{
+ "name": "pyroar-male",
+ "form_name": "male",
+ "names": {
+  "fr": "Némélios Mâle",
+  "en": "Male Pyroar"
+ },
+ "form_names": {
+  "ja-hrkt": "オスのすがた",
+  "ko": "수컷의 모습",
+  "zh-hant": "雄性的樣子",
+  "fr": "Mâle",
+  "de": "Männlich",
+  "es": "Macho",
+  "it": "Maschio",
+  "en": "Male",
+  "ja": "オスのすがた",
+  "zh-hans": "雄性的样子",
+  "es-419": "Macho"
+ },
+ "is_mega": false
+}

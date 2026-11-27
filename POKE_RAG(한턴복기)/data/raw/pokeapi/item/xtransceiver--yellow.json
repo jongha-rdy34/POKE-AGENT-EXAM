@@ -1,0 +1,28 @@
+{
+ "name": "xtransceiver--yellow",
+ "names": {
+  "ja-hrkt": "ライブキャスター",
+  "ko": "라이브캐스터",
+  "zh-hant": "即時通訊器",
+  "fr": "Vokit",
+  "de": "Viso-Caster",
+  "es": "Videomisor",
+  "it": "Interpoké",
+  "en": "Xtransceiver",
+  "ja": "ライブキャスター",
+  "zh-hans": "即时通讯器",
+  "es-419": "Videomisor"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour xtranceiver--yellow",
+  "en": "XXX new effect for xtranceiver--yellow"
+ },
+ "flavor": {
+  "ko": "영상 통화 기능이 내장된 최신식 무전기. 최대 4명이 동시에 통화할 수 있다.",
+  "en": "A high-tech transceiver with a camera function. It allows up to four-way calls.",
+  "ja": "最大４人で 通話ができる テレビカメラ機能つきの 最新型トランシーバー。"
+ }
+}

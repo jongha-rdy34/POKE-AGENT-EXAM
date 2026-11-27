@@ -1,0 +1,31 @@
+{
+ "name": "stun-spore",
+ "names": {
+  "ja-hrkt": "しびれごな",
+  "ko": "저리가루",
+  "zh-hant": "麻痺粉",
+  "fr": "Para-Spore",
+  "de": "Stachelspore",
+  "es": "Paralizador",
+  "it": "Paralizzante",
+  "en": "Stun Spore",
+  "ja": "しびれごな",
+  "zh-hans": "麻痹粉",
+  "es-419": "Paralizador"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": 75,
+ "pp": 30,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Paralyzes the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user scatters a cloud of numbing powder that paralyzes the target.",
+  "ko": "저리가루를 많이 흩뿌려서 상대를 마비 상태로 만든다."
+ }
+}

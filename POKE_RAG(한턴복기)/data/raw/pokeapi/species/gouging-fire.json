@@ -1,0 +1,35 @@
+{
+ "id": 1020,
+ "name": "gouging-fire",
+ "names": {
+  "ja-hrkt": "ウガツホムラ",
+  "ja-roma": "Ugatsuhomura",
+  "ko": "꿰뚫는화염",
+  "zh-hant": "破空焰",
+  "fr": "Feu-Perçant",
+  "de": "Keilflamme",
+  "es": "Flamariete",
+  "it": "Vampeaguzze",
+  "en": "Gouging Fire",
+  "ja": "ウガツホムラ",
+  "zh-hans": "破空焰",
+  "es-419": "Flamariete"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "fr": "Paradoxe",
+  "en": "Paradox Pokémon",
+  "ja": "パラドックスポケモン"
+ },
+ "flavor": {
+  "en": "It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil."
+ },
+ "varieties": [
+  {
+   "name": "gouging-fire",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "544"
+}

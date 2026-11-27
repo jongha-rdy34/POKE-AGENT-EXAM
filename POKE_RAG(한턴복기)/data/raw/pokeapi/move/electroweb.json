@@ -1,0 +1,31 @@
+{
+ "name": "electroweb",
+ "names": {
+  "ja-hrkt": "エレキネット",
+  "ko": "일렉트릭네트",
+  "zh-hant": "電網",
+  "fr": "Toile Élek",
+  "de": "Elektronetz",
+  "es": "Electrotela",
+  "it": "Elettrotela",
+  "en": "Electroweb",
+  "ja": "エレキネット",
+  "zh-hans": "电网",
+  "es-419": "Electrotela"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 55,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Lowers the target’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats.",
+  "ko": "전기 네트로 상대를 붙잡아서 공격한다. 상대의 스피드를 떨어뜨린다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 732,
+ "name": "trumbeak",
+ "names": {
+  "ja-hrkt": "ケララッパ",
+  "ja-roma": "Kerarappa",
+  "ko": "크라파",
+  "zh-hant": "喇叭啄鳥",
+  "fr": "Piclairon",
+  "de": "Trompeck",
+  "es": "Trumbeak",
+  "it": "Trumbeak",
+  "en": "Trumbeak",
+  "ja": "ケララッパ",
+  "zh-hans": "喇叭啄鸟",
+  "es-419": "Trumbeak"
+ },
+ "genus": {
+  "ja-hrkt": "ラッパぐちポケモン",
+  "ko": "나팔입포켓몬",
+  "zh-hant": "喇叭喙寶可夢",
+  "fr": "Pokémon Bec Clairon",
+  "de": "Trompete",
+  "es": "Pokémon Trompeta",
+  "it": "Pokémon Trombecco",
+  "en": "Bugle Beak Pokémon",
+  "ja": "ラッパぐちポケモン",
+  "zh-hans": "喇叭喙宝可梦",
+  "es-419": "Pokémon Trompeta"
+ },
+ "flavor": {
+  "ko": "먹은 나무열매의 씨를 부리에서 발사한다. 씨는 대지에 흩어져서 새로운 풀과 나무가 자라난다.",
+  "en": "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants."
+ },
+ "varieties": [
+  {
+   "name": "trumbeak",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "377"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "naive-mint",
+ "names": {
+  "ja-hrkt": "むじゃきミント",
+  "ko": "천진난만민트",
+  "zh-hant": "天真薄荷",
+  "fr": "Aromate Naïf",
+  "de": "Naiv-Minze",
+  "es": "Menta Ingenua",
+  "it": "Menta Ingenua",
+  "en": "Naive Mint",
+  "ja": "むじゃきミント",
+  "zh-hans": "天真薄荷",
+  "es-419": "Menta Ingenua"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 스피드가 오르기 쉬워지지만 특수방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Speed will grow more easily, but its Sp. Def will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 素早さが 上がりやすく なるが 特防は 上がりにくくなる ミント。"
+ }
+}

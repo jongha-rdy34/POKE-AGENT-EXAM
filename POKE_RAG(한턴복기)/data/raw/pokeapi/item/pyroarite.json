@@ -1,0 +1,20 @@
+{
+ "name": "pyroarite",
+ "names": {
+  "ko": "화염레오나이트",
+  "zh-hant": "火炎獅進化石",
+  "fr": "Néméliosite",
+  "de": "Pyroleonit",
+  "es": "Pyroarita",
+  "it": "Pyroarite",
+  "en": "Pyroarite",
+  "ja": "カエンジシナイト",
+  "zh-hans": "火炎狮进化石",
+  "es-419": "Pyroarita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

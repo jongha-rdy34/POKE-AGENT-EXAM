@@ -1,0 +1,18 @@
+{
+ "name": "sassy",
+ "names": {
+  "ja-hrkt": "なまいき",
+  "ko": "건방",
+  "zh-hant": "自大",
+  "fr": "Malpoli",
+  "de": "Forsch",
+  "es": "Grosera",
+  "it": "Vivace",
+  "en": "Sassy",
+  "ja": "なまいき",
+  "zh-hans": "自大",
+  "es-419": "Grosera"
+ },
+ "plus": "special-defense",
+ "minus": "speed"
+}

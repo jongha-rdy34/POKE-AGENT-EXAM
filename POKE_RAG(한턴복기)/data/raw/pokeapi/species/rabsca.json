@@ -1,0 +1,37 @@
+{
+ "id": 954,
+ "name": "rabsca",
+ "names": {
+  "ja-hrkt": "ベラカス",
+  "ja-roma": "Beracas",
+  "ko": "베라카스",
+  "zh-hant": "蟲甲聖",
+  "fr": "Bérasca",
+  "de": "Skarabaks",
+  "es": "Rabsca",
+  "it": "Rabsca",
+  "en": "Rabsca",
+  "ja": "ベラカス",
+  "zh-hans": "虫甲圣",
+  "es-419": "Rabsca"
+ },
+ "genus": {
+  "ja-hrkt": "ころがしポケモン",
+  "ko": "굴리기포켓몬",
+  "zh-hant": "滾動寶可夢",
+  "fr": "Rouleur",
+  "de": "Wälz",
+  "en": "Rolling Pokémon",
+  "zh-hans": "滚动宝可梦"
+ },
+ "flavor": {
+  "en": "An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably."
+ },
+ "varieties": [
+  {
+   "name": "rabsca",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "499"
+}

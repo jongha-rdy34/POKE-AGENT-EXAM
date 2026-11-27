@@ -1,0 +1,20 @@
+{
+ "name": "heracross-claw",
+ "names": {
+  "ja-hrkt": "ヘラクロスのツメ",
+  "ko": "헤라크로스의발톱",
+  "zh-hant": "赫拉克羅斯的爪子",
+  "fr": "Griffe de Scarhino",
+  "de": "Skaraborn-Kralle",
+  "es": "Garra de Heracross",
+  "it": "Artiglio di Heracross",
+  "en": "Heracross Claw",
+  "ja": "ヘラクロスのツメ",
+  "zh-hans": "赫拉克罗斯的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

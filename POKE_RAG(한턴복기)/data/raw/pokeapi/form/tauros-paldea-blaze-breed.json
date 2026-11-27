@@ -1,0 +1,15 @@
+{
+ "name": "tauros-paldea-blaze-breed",
+ "form_name": "paldea-blaze-breed",
+ "names": {
+  "fr": "Tauros de Paldéa Race Flamboyante",
+  "en": "Paldean Tauros (Blaze Breed)"
+ },
+ "form_names": {
+  "ja-hrkt": "パルデアのすがた",
+  "fr": "Forme de Paldéa",
+  "en": "Paldean Form (Blaze Breed)",
+  "ja": "パルデアのすがた"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,17 @@
+{
+ "name": "avalugg-hisui",
+ "form_name": "hisui",
+ "names": {
+  "fr": "Séracrawl de Hisui",
+  "de": "Hisui Arktilas",
+  "en": "Hisuian Avalugg"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒスイのすがた",
+  "fr": "Forme de Hisui",
+  "de": "Hisui-Form",
+  "en": "Hisuian Form",
+  "ja": "ヒスイのすがた"
+ },
+ "is_mega": false
+}

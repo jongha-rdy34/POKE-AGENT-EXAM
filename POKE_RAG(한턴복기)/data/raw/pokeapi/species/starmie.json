@@ -1,0 +1,46 @@
+{
+ "id": 121,
+ "name": "starmie",
+ "names": {
+  "ja-hrkt": "スターミー",
+  "ja-roma": "Starmie",
+  "ko": "아쿠스타",
+  "zh-hant": "寶石海星",
+  "fr": "Staross",
+  "de": "Starmie",
+  "es": "Starmie",
+  "it": "Starmie",
+  "en": "Starmie",
+  "ja": "スターミー",
+  "zh-hans": "宝石海星",
+  "es-419": "Starmie"
+ },
+ "genus": {
+  "ja-hrkt": "なぞのポケモン",
+  "ko": "수수께끼포켓몬",
+  "zh-hant": "謎寶可夢",
+  "fr": "Pokémon Mystérieux",
+  "de": "Mysteriös-Pokémon",
+  "es": "Pokémon Misterioso",
+  "it": "Pokémon Misterioso",
+  "en": "Mysterious Pokémon",
+  "ja": "なぞのポケモン",
+  "zh-hans": "谜宝可梦",
+  "es-419": "Pokémon Misterioso"
+ },
+ "flavor": {
+  "en": "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton.",
+  "ko": "몸을 고속으로 회전시켜 바다를 헤엄치며 작은 플랑크톤을 흡수한다."
+ },
+ "varieties": [
+  {
+   "name": "starmie",
+   "is_default": true
+  },
+  {
+   "name": "starmie-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "56"
+}

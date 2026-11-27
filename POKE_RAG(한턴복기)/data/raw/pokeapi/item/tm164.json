@@ -1,0 +1,20 @@
+{
+ "name": "tm164",
+ "names": {
+  "ja-hrkt": "わざマシン１６４",
+  "ko": "기술머신164",
+  "zh-hant": "招式學習器１６４",
+  "fr": "CT164",
+  "de": "TM164",
+  "es": "MT164",
+  "it": "MT164",
+  "en": "TM164",
+  "ja": "わざマシン１６４",
+  "zh-hans": "招式学习器１６４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 533,
+ "name": "gurdurr",
+ "names": {
+  "ja-hrkt": "ドテッコツ",
+  "ja-roma": "Dotekkotsu",
+  "ko": "토쇠골",
+  "zh-hant": "鐵骨土人",
+  "fr": "Ouvrifier",
+  "de": "Strepoli",
+  "es": "Gurdurr",
+  "it": "Gurdurr",
+  "en": "Gurdurr",
+  "ja": "ドテッコツ",
+  "zh-hans": "铁骨土人",
+  "es-419": "Gurdurr"
+ },
+ "genus": {
+  "ja-hrkt": "きんこつポケモン",
+  "ko": "근골포켓몬",
+  "zh-hant": "筋骨寶可夢",
+  "fr": "Pokémon Costaud",
+  "de": "Muskel-Pokémon",
+  "es": "Pokémon Musculoso",
+  "it": "Pokémon Forzaimmane",
+  "en": "Muscular Pokémon",
+  "ja": "きんこつポケモン",
+  "zh-hans": "筋骨宝可梦",
+  "es-419": "Pokémon Musculoso"
+ },
+ "flavor": {
+  "en": "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam.",
+  "ko": "철골을 자유자재로 다룬다. 해체는 잘하지만 무언가를 조립하는 것은 서툴다."
+ },
+ "varieties": [
+  {
+   "name": "gurdurr",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "272"
+}

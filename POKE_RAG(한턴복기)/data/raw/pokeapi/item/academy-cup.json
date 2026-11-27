@@ -1,0 +1,20 @@
+{
+ "name": "academy-cup",
+ "names": {
+  "ja-hrkt": "スクールカップ",
+  "ko": "스쿨 컵",
+  "zh-hant": "校園水杯",
+  "fr": "Tasse de l'Académie",
+  "de": "Akademie-Tasse",
+  "es": "Taza Academia",
+  "it": "Tazza accademia",
+  "en": "Academy Cup",
+  "ja": "スクールカップ",
+  "zh-hans": "校园水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr92",
+ "names": {
+  "ja-hrkt": "わざレコード９２",
+  "ko": "기술레코드92",
+  "zh-hant": "招式紀錄９２",
+  "fr": "DT92",
+  "de": "TP92",
+  "es": "DT92",
+  "it": "DT92",
+  "en": "TR92",
+  "ja": "わざレコード９２",
+  "zh-hans": "招式记录９２",
+  "es-419": "DT92"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강력한 빛을 내어 상대에게 데미지를 준다.",
+  "en": "The user damages opposing Pokémon by emitting a powerful flash.",
+  "ja": "強力な 光を 放ち 相手に ダメージを 与える。"
+ }
+}

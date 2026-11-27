@@ -1,0 +1,20 @@
+{
+ "name": "mareanie-spike",
+ "names": {
+  "ja-hrkt": "ヒドイデのトゲ",
+  "ko": "시마사리의가시",
+  "zh-hant": "好壞星的刺",
+  "fr": "Épine de Vorastérie",
+  "de": "Garstella-Stachel",
+  "es": "Aguijón de Mareanie",
+  "it": "Aculeo di Mareanie",
+  "en": "Mareanie Spike",
+  "ja": "ヒドイデのトゲ",
+  "zh-hans": "好坏星的刺"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

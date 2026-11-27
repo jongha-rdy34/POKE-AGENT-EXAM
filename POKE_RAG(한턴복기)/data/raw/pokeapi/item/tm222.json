@@ -1,0 +1,19 @@
+{
+ "name": "tm222",
+ "names": {
+  "ko": "기술머신222",
+  "zh-hant": "招式學習器２２２",
+  "fr": "CT222",
+  "de": "TM222",
+  "es": "MT222",
+  "it": "MT222",
+  "en": "TM222",
+  "ja": "わざマシン２２２",
+  "zh-hans": "招式学习器２２２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

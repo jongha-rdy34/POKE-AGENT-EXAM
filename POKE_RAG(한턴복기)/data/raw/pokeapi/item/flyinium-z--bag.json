@@ -1,0 +1,28 @@
+{
+ "name": "flyinium-z--bag",
+ "names": {
+  "ja-hrkt": "ヒコウＺ",
+  "ko": "비행Z",
+  "zh-hant": "飛行Ｚ",
+  "fr": "Aérozélite",
+  "de": "Aerium Z",
+  "es": "Aerostal Z",
+  "it": "Volantium Z",
+  "en": "Flyinium Z",
+  "ja": "ヒコウＺ",
+  "zh-hans": "飞行Ｚ",
+  "es-419": "Aerostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour flyinium-z--bag",
+  "en": "XXX new effect for flyinium-z--bag"
+ },
+ "flavor": {
+  "ko": "비행타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Flying-type moves to Flying-type Z-Moves.",
+  "ja": "ひこうタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

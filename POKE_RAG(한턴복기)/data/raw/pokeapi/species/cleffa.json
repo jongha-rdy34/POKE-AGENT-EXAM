@@ -1,0 +1,42 @@
+{
+ "id": 173,
+ "name": "cleffa",
+ "names": {
+  "ja-hrkt": "ピィ",
+  "ja-roma": "Py",
+  "ko": "삐",
+  "zh-hant": "皮寶寶",
+  "fr": "Mélo",
+  "de": "Pii",
+  "es": "Cleffa",
+  "it": "Cleffa",
+  "en": "Cleffa",
+  "ja": "ピィ",
+  "zh-hans": "皮宝宝",
+  "es-419": "Cleffa"
+ },
+ "genus": {
+  "ja-hrkt": "ほしがたポケモン",
+  "ko": "별포켓몬",
+  "zh-hant": "星形寶可夢",
+  "fr": "Pokémon Étoile",
+  "de": "Sternform-Pokémon",
+  "es": "Pokémon Estrella",
+  "it": "Pokémon Stella",
+  "en": "Star Shape Pokémon",
+  "ja": "ほしがたポケモン",
+  "zh-hans": "星形宝可梦",
+  "es-419": "Pokémon Estrella"
+ },
+ "flavor": {
+  "en": "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars.",
+  "ko": "실루엣이 별 모양이다. 그 때문에 별똥별을 타고 온다고 여겨진다."
+ },
+ "varieties": [
+  {
+   "name": "cleffa",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "14"
+}

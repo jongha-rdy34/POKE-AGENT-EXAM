@@ -1,0 +1,42 @@
+{
+ "id": 342,
+ "name": "crawdaunt",
+ "names": {
+  "ja-hrkt": "シザリガー",
+  "ja-roma": "Shizariger",
+  "ko": "가재장군",
+  "zh-hant": "鐵螯龍蝦",
+  "fr": "Colhomard",
+  "de": "Krebutack",
+  "es": "Crawdaunt",
+  "it": "Crawdaunt",
+  "en": "Crawdaunt",
+  "ja": "シザリガー",
+  "zh-hans": "铁螯龙虾",
+  "es-419": "Crawdaunt"
+ },
+ "genus": {
+  "ja-hrkt": "ならずものポケモン",
+  "ko": "불량배포켓몬",
+  "zh-hant": "流氓寶可夢",
+  "fr": "Pokémon Crapule",
+  "de": "Schlingel-Pokémon",
+  "es": "Pokémon Granuja",
+  "it": "Pokémon Canaglia",
+  "en": "Rogue Pokémon",
+  "ja": "ならずものポケモン",
+  "zh-hans": "流氓宝可梦",
+  "es-419": "Pokémon Granuja"
+ },
+ "flavor": {
+  "en": "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.",
+  "ko": "싸움을 좋아하는 성격. 거처에 가까이 오는 상대를 가차 없이 때려눕힌다."
+ },
+ "varieties": [
+  {
+   "name": "crawdaunt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "174"
+}

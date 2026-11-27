@@ -1,0 +1,28 @@
+{
+ "name": "raging-bull",
+ "names": {
+  "ja-hrkt": "レイジングブル",
+  "ko": "레이징불",
+  "zh-hant": "怒牛",
+  "fr": "Taurogne",
+  "de": "Rasender Stier",
+  "es": "Furia Taurina",
+  "it": "Scatenatoro",
+  "en": "Raging Bull",
+  "ja": "レイジングブル",
+  "zh-hans": "怒牛",
+  "es-419": "Furia Taurina"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user performs a tackle like a raging bull. This move's type depends on the user's form. It can also break barriers, such as Light Screen and Reflect."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "rainbow-flower",
+ "names": {
+  "ja-hrkt": "にじいろのはな",
+  "ko": "무지개꽃",
+  "zh-hant": "虹色之花",
+  "fr": "Fleur 7 Couleurs",
+  "de": "Regenbogenblüte",
+  "es": "Flor Irisada",
+  "it": "Fiore arcobaleno",
+  "en": "Rainbow Flower",
+  "ja": "にじいろのはな",
+  "zh-hans": "虹色之花",
+  "es-419": "Flor Irisada"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour rainbow-flower",
+  "en": "XXX new effect for rainbow-flower"
+ },
+ "flavor": {
+  "ko": "캡틴들에게 받은 꽃잎을 하나로 만든 것. 성장을 인정받은 증표.",
+  "en": "A flower made of the petals you received from captains. It’s proof that your growth has been recognized by them.",
+  "ja": "キャプテンたちから もらった はなびらを ひとつに まとめたもの。 成長を 認められた 証。"
+ }
+}

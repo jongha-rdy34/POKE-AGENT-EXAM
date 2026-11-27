@@ -1,0 +1,23 @@
+{
+ "name": "unburden",
+ "names": {
+  "ja-hrkt": "かるわざ",
+  "ko": "곡예",
+  "zh-hant": "輕裝",
+  "fr": "Délestage",
+  "de": "Entlastung",
+  "es": "Liviano",
+  "it": "Agiltecnica",
+  "en": "Unburden",
+  "ja": "かるわざ",
+  "zh-hans": "轻装",
+  "es-419": "Liviano"
+ },
+ "effect": {
+  "en": "Doubles Speed upon using or losing a held item."
+ },
+ "flavor": {
+  "en": "Boosts the Speed stat if the Pokémon's held item is used or lost.",
+  "ko": "지니던 도구가 없어지면 스피드가 올라간다."
+ }
+}

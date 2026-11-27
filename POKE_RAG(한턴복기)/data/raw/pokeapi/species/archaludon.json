@@ -1,0 +1,35 @@
+{
+ "id": 1018,
+ "name": "archaludon",
+ "names": {
+  "ja-hrkt": "ブリジュラス",
+  "ja-roma": "Briduras",
+  "ko": "브리두라스",
+  "zh-hant": "鋁鋼橋龍",
+  "fr": "Pondralugon",
+  "de": "Briduradon",
+  "es": "Archaludon",
+  "it": "Archaludon",
+  "en": "Archaludon",
+  "ja": "ブリジュラス",
+  "zh-hans": "铝钢桥龙",
+  "es-419": "Archaludon"
+ },
+ "genus": {
+  "ja-hrkt": "ごうきんポケモン",
+  "ko": "합금포켓몬",
+  "fr": "Alliage",
+  "en": "Alloy Pokémon",
+  "ja": "ごうきんポケモン"
+ },
+ "flavor": {
+  "en": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it."
+ },
+ "varieties": [
+  {
+   "name": "archaludon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "465"
+}

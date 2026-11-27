@@ -1,0 +1,20 @@
+{
+ "name": "tm102",
+ "names": {
+  "ja-hrkt": "わざマシン１０２",
+  "ko": "기술머신102",
+  "zh-hant": "招式學習器１０２",
+  "fr": "CT102",
+  "de": "TM102",
+  "es": "MT102",
+  "it": "MT102",
+  "en": "TM102",
+  "ja": "わざマシン１０２",
+  "zh-hans": "招式学习器１０２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

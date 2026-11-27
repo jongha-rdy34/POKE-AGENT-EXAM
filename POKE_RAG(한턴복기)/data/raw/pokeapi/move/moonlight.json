@@ -1,0 +1,31 @@
+{
+ "name": "moonlight",
+ "names": {
+  "ja-hrkt": "つきのひかり",
+  "ko": "달빛",
+  "zh-hant": "月光",
+  "fr": "Rayon Lune",
+  "de": "Mondschein",
+  "es": "Luz Lunar",
+  "it": "Lucelunare",
+  "en": "Moonlight",
+  "ja": "つきのひかり",
+  "zh-hans": "月光",
+  "es-419": "Luz Lunar"
+ },
+ "type": "fairy",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP.  Affected by weather."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user restores its own HP. The amount of HP regained varies with the weather.",
+  "ko": "자신의 HP를 회복한다. 날씨에 따라 회복량이 변한다."
+ }
+}

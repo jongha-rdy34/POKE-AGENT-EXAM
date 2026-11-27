@@ -1,0 +1,34 @@
+{
+ "name": "burn-heal",
+ "names": {
+  "ja-hrkt": "やけどなおし",
+  "ko": "화상치료제",
+  "zh-hant": "灼傷藥",
+  "fr": "Anti-Brûle",
+  "de": "Feuerheiler",
+  "es": "Antiquemar",
+  "it": "Antiscottatura",
+  "en": "Burn Heal",
+  "ja": "やけどなおし",
+  "zh-hans": "灼伤药",
+  "es-419": "Antiquemar"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne la brûlure.",
+  "en": "Cures a burn."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating burns. It can be used to heal a single Pokémon suffering from a burn.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 화상 상태를 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の やけどの 状態を 回復する。"
+ }
+}

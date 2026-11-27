@@ -1,0 +1,86 @@
+{
+ "id": 547,
+ "name": "whimsicott",
+ "species": "whimsicott",
+ "is_default": true,
+ "types": [
+  "grass",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 67,
+  "defense": 85,
+  "special-attack": 77,
+  "special-defense": 75,
+  "speed": 116
+ },
+ "abilities": [
+  {
+   "name": "prankster",
+   "hidden": false
+  },
+  {
+   "name": "infiltrator",
+   "hidden": false
+  },
+  {
+   "name": "chlorophyll",
+   "hidden": true
+  }
+ ],
+ "height": 7,
+ "weight": 66,
+ "champions_moves": [
+  "attract",
+  "beat-up",
+  "charm",
+  "cotton-guard",
+  "cotton-spore",
+  "dazzling-gleam",
+  "encore",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fake-tears",
+  "fling",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "growth",
+  "helping-hand",
+  "hurricane",
+  "hyper-beam",
+  "leech-seed",
+  "light-screen",
+  "memento",
+  "misty-terrain",
+  "moonblast",
+  "play-rough",
+  "poison-powder",
+  "protect",
+  "psychic",
+  "rest",
+  "round",
+  "safeguard",
+  "seed-bomb",
+  "shadow-ball",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "stun-spore",
+  "substitute",
+  "sunny-day",
+  "switcheroo",
+  "tailwind",
+  "taunt",
+  "thief",
+  "tickle",
+  "trick-room",
+  "u-turn",
+  "worry-seed"
+ ]
+}

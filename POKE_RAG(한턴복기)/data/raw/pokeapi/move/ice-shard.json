@@ -1,0 +1,31 @@
+{
+ "name": "ice-shard",
+ "names": {
+  "ja-hrkt": "こおりのつぶて",
+  "ko": "얼음뭉치",
+  "zh-hant": "冰礫",
+  "fr": "Éclats Glace",
+  "de": "Eissplitter",
+  "es": "Esquirla Helada",
+  "it": "Geloscheggia",
+  "en": "Ice Shard",
+  "ja": "こおりのつぶて",
+  "zh-hans": "冰砾",
+  "es-419": "Esquirla Helada"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.",
+  "ko": "얼음덩어리를 순식간에 만들어 상대에게 빠르게 쏜다. 반드시 선제공격을 할 수 있다."
+ }
+}

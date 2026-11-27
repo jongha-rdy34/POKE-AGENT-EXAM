@@ -1,0 +1,28 @@
+{
+ "name": "plasma-card",
+ "names": {
+  "ja-hrkt": "プラズマカード",
+  "ko": "플라스마카드",
+  "zh-hant": "等離子卡",
+  "fr": "Carte Plasma",
+  "de": "Plasmakarte",
+  "es": "Tarjeta Plasma",
+  "it": "Carta Plasma",
+  "en": "Plasma Card",
+  "ja": "プラズマカード",
+  "zh-hans": "等离子卡",
+  "es-419": "Tarjeta Plasma"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Requis pour progresser dans la Frégate Plasma.",
+  "en": "Required to progress in the Plasma Frigate."
+ },
+ "flavor": {
+  "en": "A card key needed to enter the password inside the Plasma Frigate.",
+  "ko": "플라스마 프리깃 배 안에서 패스워드를 입력할 때 필요한 카드키.",
+  "ja": "プラズマフリゲートの 船内で パスワードを 入力するときに 必要となる カードキー。"
+ }
+}

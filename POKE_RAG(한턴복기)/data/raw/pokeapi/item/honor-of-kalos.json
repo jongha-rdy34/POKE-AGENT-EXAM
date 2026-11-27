@@ -1,0 +1,28 @@
+{
+ "name": "honor-of-kalos",
+ "names": {
+  "ja-hrkt": "カロスエンブレム",
+  "ko": "칼로스엠블럼",
+  "zh-hant": "卡洛斯勳章",
+  "fr": "Insigne de Kalos",
+  "de": "Kalos-Emblem",
+  "es": "Emblema Kalos",
+  "it": "Emblema di Kalos",
+  "en": "Honor of Kalos",
+  "ja": "カロスエンブレム",
+  "zh-hans": "卡洛斯勋章",
+  "es-419": "Emblema Kalos"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Ne fait rien, mais signifie devenir Champion.",
+  "en": "Does nothing, but signifies becoming Champion."
+ },
+ "flavor": {
+  "ko": "칼로스지방에서 훌륭한 활약을 한 인물에게 주어지는 귀중한 심볼.",
+  "en": "A precious symbol that is awarded only to an individual who has done great things for the Kalos region.",
+  "ja": "カロス地方で すばらしい 活躍を した 人物に 贈られる 貴重な シンボル。"
+ }
+}

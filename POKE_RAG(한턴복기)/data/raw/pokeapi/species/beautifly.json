@@ -1,0 +1,42 @@
+{
+ "id": 267,
+ "name": "beautifly",
+ "names": {
+  "ja-hrkt": "アゲハント",
+  "ja-roma": "Agehunt",
+  "ko": "뷰티플라이",
+  "zh-hant": "狩獵鳳蝶",
+  "fr": "Charmillon",
+  "de": "Papinella",
+  "es": "Beautifly",
+  "it": "Beautifly",
+  "en": "Beautifly",
+  "ja": "アゲハント",
+  "zh-hans": "狩猎凤蝶",
+  "es-419": "Beautifly"
+ },
+ "genus": {
+  "ja-hrkt": "ちょうちょポケモン",
+  "ko": "나비포켓몬",
+  "zh-hant": "蝴蝶寶可夢",
+  "fr": "Pokémon Papillon",
+  "de": "Falter",
+  "es": "Pokémon Mariposa",
+  "it": "Pokémon Farfalla",
+  "en": "Butterfly Pokémon",
+  "ja": "ちょうちょポケモン",
+  "zh-hans": "蝴蝶宝可梦",
+  "es-419": "Pokémon Mariposa"
+ },
+ "flavor": {
+  "en": "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar.",
+  "ko": "둥글게 말린 바늘같이 생긴 긴 입은 꽃가루를 모을 때 매우 편리하다. 봄바람을 타고 꽃가루를 모으러 돌아다닌다."
+ },
+ "varieties": [
+  {
+   "name": "beautifly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "135"
+}

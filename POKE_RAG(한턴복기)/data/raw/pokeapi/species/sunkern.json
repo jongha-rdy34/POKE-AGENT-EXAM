@@ -1,0 +1,42 @@
+{
+ "id": 191,
+ "name": "sunkern",
+ "names": {
+  "ja-hrkt": "ヒマナッツ",
+  "ja-roma": "Himanuts",
+  "ko": "해너츠",
+  "zh-hant": "向日種子",
+  "fr": "Tournegrin",
+  "de": "Sonnkern",
+  "es": "Sunkern",
+  "it": "Sunkern",
+  "en": "Sunkern",
+  "ja": "ヒマナッツ",
+  "zh-hans": "向日种子",
+  "es-419": "Sunkern"
+ },
+ "genus": {
+  "ja-hrkt": "たねポケモン",
+  "ko": "씨앗포켓몬",
+  "zh-hant": "種子寶可夢",
+  "fr": "Pokémon Graine",
+  "de": "Samen",
+  "es": "Pokémon Semilla",
+  "it": "Pokémon Seme",
+  "en": "Seed Pokémon",
+  "ja": "たねポケモン",
+  "zh-hans": "种子宝可梦",
+  "es-419": "Pokémon Semilla"
+ },
+ "flavor": {
+  "en": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
+  "ko": "몸에 모은 영양을 진화할 때까지 간직하기 위해 거의 움직이려 하지 않는다. 아무것도 먹지 않고 아침 이슬만 마시고 있다."
+ },
+ "varieties": [
+  {
+   "name": "sunkern",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "94"
+}

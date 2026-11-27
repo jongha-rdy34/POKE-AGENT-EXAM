@@ -1,0 +1,28 @@
+{
+ "name": "medal-box",
+ "names": {
+  "ja-hrkt": "メダルボックス",
+  "ko": "메달박스",
+  "zh-hant": "獎牌盒",
+  "fr": "Boîte Médailles",
+  "de": "Medaillenbox",
+  "es": "Caja Insignias",
+  "it": "Box Premi",
+  "en": "Medal Box",
+  "ja": "メダルボックス",
+  "zh-hans": "奖牌盒",
+  "es-419": "Caja Insignias"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Contient les médailles reçues dans la Chasse aux Médailles.",
+  "en": "Holds medals recieved in the medal rally."
+ },
+ "flavor": {
+  "en": "A box-shaped machine that stores Medals and Medal information.",
+  "ko": "획득한 메달을 수납하고 메달에 대한 정보를 기록하는 상자 모양의 기계.",
+  "ja": "獲得した メダルを 収納し メダルについての 情報を 記録する 箱型の 機械。"
+ }
+}

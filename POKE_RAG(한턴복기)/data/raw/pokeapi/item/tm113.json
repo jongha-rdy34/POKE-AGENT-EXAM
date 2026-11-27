@@ -1,0 +1,20 @@
+{
+ "name": "tm113",
+ "names": {
+  "ja-hrkt": "わざマシン１１３",
+  "ko": "기술머신113",
+  "zh-hant": "招式學習器１１３",
+  "fr": "CT113",
+  "de": "TM113",
+  "es": "MT113",
+  "it": "MT113",
+  "en": "TM113",
+  "ja": "わざマシン１１３",
+  "zh-hans": "招式学习器１１３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

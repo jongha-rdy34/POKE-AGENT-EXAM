@@ -1,0 +1,20 @@
+{
+ "name": "makuhita-sweat",
+ "names": {
+  "ja-hrkt": "マクノシタのあせ",
+  "ko": "마크탕의땀",
+  "zh-hant": "幕下力士的汗",
+  "fr": "Sueur de Makuhita",
+  "de": "Makuhita-Schweiß",
+  "es": "Sudor de Makuhita",
+  "it": "Sudore di Makuhita",
+  "en": "Makuhita Sweat",
+  "ja": "マクノシタのあせ",
+  "zh-hans": "幕下力士的汗"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

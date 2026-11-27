@@ -1,0 +1,15 @@
+{
+ "name": "scovillain-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Scovilain",
+  "en": "Mega Scovillain"
+ },
+ "form_names": {
+  "ja-hrkt": "メガスコヴィラン",
+  "fr": "Méga-Scovilain",
+  "en": "Mega Scovillain",
+  "ja": "メガスコヴィラン"
+ },
+ "is_mega": true
+}

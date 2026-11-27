@@ -1,0 +1,28 @@
+{
+ "name": "tm36",
+ "names": {
+  "ja-hrkt": "わざマシン３６",
+  "ko": "기술머신36",
+  "zh-hant": "招式學習器３６",
+  "fr": "CT36",
+  "de": "TM36",
+  "es": "MT36",
+  "it": "MT36",
+  "en": "TM36",
+  "ja": "わざマシン３６",
+  "zh-hans": "招式学习器３６",
+  "es-419": "MT36"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Bomb Beurk à un Pokémon compatible. (Gén I: Destruction)",
+  "en": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)"
+ },
+ "flavor": {
+  "en": "The user traps the target in a violent swirling whirlpool for four to five turns.",
+  "ko": "세차게 소용돌이치는 물속에 4-5턴 동안 상대를 가두어 공격한다.",
+  "ja": "激しく 渦をまく 水の中に ４ー５ターンの 間 相手を 閉じこめて 攻撃する。"
+ }
+}

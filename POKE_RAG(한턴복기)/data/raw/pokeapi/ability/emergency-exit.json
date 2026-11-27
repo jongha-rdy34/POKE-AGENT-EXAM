@@ -1,0 +1,23 @@
+{
+ "name": "emergency-exit",
+ "names": {
+  "ja-hrkt": "ききかいひ",
+  "ko": "위기회피",
+  "zh-hant": "危險迴避",
+  "fr": "Repli Tactique",
+  "de": "Rückzug",
+  "es": "Retirada",
+  "it": "Passoindietro",
+  "en": "Emergency Exit",
+  "ja": "ききかいひ",
+  "zh-hans": "危险回避",
+  "es-419": "Retirada"
+ },
+ "effect": {
+  "en": "This Pokémon automatically switches out when its HP drops below half."
+ },
+ "flavor": {
+  "ko": "HP가 절반이 되면 위험을 회피하기 위해 지닌 포켓몬으로 돌아간다.",
+  "en": "The Pokémon, sensing danger, switches out when its HP becomes half or less."
+ }
+}

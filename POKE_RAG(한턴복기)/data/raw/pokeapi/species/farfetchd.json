@@ -1,0 +1,46 @@
+{
+ "id": 83,
+ "name": "farfetchd",
+ "names": {
+  "ja-hrkt": "カモネギ",
+  "ja-roma": "Kamonegi",
+  "ko": "파오리",
+  "zh-hant": "大蔥鴨",
+  "fr": "Canarticho",
+  "de": "Porenta",
+  "es": "Farfetch’d",
+  "it": "Farfetch’d",
+  "en": "Farfetch’d",
+  "ja": "カモネギ",
+  "zh-hans": "大葱鸭",
+  "es-419": "Farfetch’d"
+ },
+ "genus": {
+  "ja-hrkt": "かるがもポケモン",
+  "ko": "청둥오리포켓몬",
+  "zh-hant": "黃嘴鴨寶可夢",
+  "fr": "Pokémon Canard Fou",
+  "de": "Wildenten-Pokémon",
+  "es": "Pokémon Pato Salvaje",
+  "it": "Pokémon Selvanatra",
+  "en": "Wild Duck Pokémon",
+  "ja": "かるがもポケモン",
+  "zh-hans": "黄嘴鸭宝可梦",
+  "es-419": "Pokémon Pato Salvaje"
+ },
+ "flavor": {
+  "en": "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed.",
+  "ko": "식물의 줄기로 싸운다. 줄기를 휘두르는 방식에 따라 몇 종류의 유파가 있는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "farfetchd",
+   "is_default": true
+  },
+  {
+   "name": "farfetchd-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "35"
+}

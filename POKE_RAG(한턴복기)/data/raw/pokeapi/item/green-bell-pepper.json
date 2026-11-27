@@ -1,0 +1,20 @@
+{
+ "name": "green-bell-pepper",
+ "names": {
+  "ja-hrkt": "ピーマンスライス",
+  "ko": "피망슬라이스",
+  "zh-hant": "青椒片",
+  "fr": "Poivron Vert",
+  "de": "Grüne Paprika",
+  "es": "Pimiento Verde",
+  "it": "Peperone verde",
+  "en": "Green Bell Pepper",
+  "ja": "ピーマンスライス",
+  "zh-hans": "青椒片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

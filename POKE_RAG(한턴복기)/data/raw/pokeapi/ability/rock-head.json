@@ -1,0 +1,23 @@
+{
+ "name": "rock-head",
+ "names": {
+  "ja-hrkt": "いしあたま",
+  "ko": "돌머리",
+  "zh-hant": "堅硬腦袋",
+  "fr": "Tête de Roc",
+  "de": "Steinhaupt",
+  "es": "Cabeza Roca",
+  "it": "Testadura",
+  "en": "Rock Head",
+  "ja": "いしあたま",
+  "zh-hans": "坚硬脑袋",
+  "es-419": "Cabeza Roca"
+ },
+ "effect": {
+  "en": "Protects against recoil damage."
+ },
+ "flavor": {
+  "en": "Protects the Pokémon from recoil damage.",
+  "ko": "반동을 받는 기술을 사용해도 HP가 줄지 않는다."
+ }
+}

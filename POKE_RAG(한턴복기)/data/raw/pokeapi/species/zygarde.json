@@ -1,0 +1,62 @@
+{
+ "id": 718,
+ "name": "zygarde",
+ "names": {
+  "ja-hrkt": "ジガルデ",
+  "ja-roma": "Zygarde",
+  "ko": "지가르데",
+  "zh-hant": "基格爾德",
+  "fr": "Zygarde",
+  "de": "Zygarde",
+  "es": "Zygarde",
+  "it": "Zygarde",
+  "en": "Zygarde",
+  "ja": "ジガルデ",
+  "zh-hans": "基格尔德",
+  "es-419": "Zygarde"
+ },
+ "genus": {
+  "ja-hrkt": "ちつじょポケモン",
+  "ko": "질서포켓몬",
+  "zh-hant": "秩序寶可夢",
+  "fr": "Pokémon Équilibre",
+  "de": "Ordnungs-Pokémon",
+  "es": "Pokémon Equilibrio",
+  "it": "Pokémon Equilibrio",
+  "en": "Order Pokémon",
+  "ja": "ちつじょポケモン",
+  "zh-hans": "秩序宝可梦",
+  "es-419": "Pokémon Equilibrio"
+ },
+ "flavor": {
+  "ko": "생태계를 위협하는 자와 싸울 때 더욱 강력한 모습으로 변화한다고 전해진다.",
+  "en": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem."
+ },
+ "varieties": [
+  {
+   "name": "zygarde-50",
+   "is_default": true
+  },
+  {
+   "name": "zygarde-10-power-construct",
+   "is_default": false
+  },
+  {
+   "name": "zygarde-50-power-construct",
+   "is_default": false
+  },
+  {
+   "name": "zygarde-complete",
+   "is_default": false
+  },
+  {
+   "name": "zygarde-10",
+   "is_default": false
+  },
+  {
+   "name": "zygarde-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "370"
+}

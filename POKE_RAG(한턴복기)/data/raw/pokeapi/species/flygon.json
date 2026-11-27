@@ -1,0 +1,42 @@
+{
+ "id": 330,
+ "name": "flygon",
+ "names": {
+  "ja-hrkt": "フライゴン",
+  "ja-roma": "Flygon",
+  "ko": "플라이곤",
+  "zh-hant": "沙漠蜻蜓",
+  "fr": "Libégon",
+  "de": "Libelldra",
+  "es": "Flygon",
+  "it": "Flygon",
+  "en": "Flygon",
+  "ja": "フライゴン",
+  "zh-hans": "沙漠蜻蜓",
+  "es-419": "Flygon"
+ },
+ "genus": {
+  "ja-hrkt": "せいれいポケモン",
+  "ko": "정령포켓몬",
+  "zh-hant": "神秘寶可夢",
+  "fr": "Pokémon Mystique",
+  "de": "Mystik-Pokémon",
+  "es": "Pokémon Místico",
+  "it": "Pokémon Magico",
+  "en": "Mystic Pokémon",
+  "ja": "せいれいポケモン",
+  "zh-hans": "神秘宝可梦",
+  "es-419": "Pokémon Místico"
+ },
+ "flavor": {
+  "en": "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing.",
+  "ko": "날갯짓하는 소리가 여성의 아름다운 노랫소리와 닮아서 사막의 정령이라고 불린다."
+ },
+ "varieties": [
+  {
+   "name": "flygon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "166"
+}

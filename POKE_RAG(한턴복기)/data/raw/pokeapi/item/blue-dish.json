@@ -1,0 +1,20 @@
+{
+ "name": "blue-dish",
+ "names": {
+  "ja-hrkt": "ブループレート",
+  "ko": "블루 플레이트",
+  "zh-hant": "藍色盤子",
+  "fr": "Assiette Bleue",
+  "de": "Blauer Teller",
+  "es": "Plato Azul",
+  "it": "Piatto celeste",
+  "en": "Blue Dish",
+  "ja": "ブループレート",
+  "zh-hans": "蓝色盘子"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "misdreavus-tears",
+ "names": {
+  "ja-hrkt": "ムウマのなみだ",
+  "ko": "무우마의눈물",
+  "zh-hant": "夢妖的眼淚",
+  "fr": "Larme de Feuforêve",
+  "de": "Traunfugil-Träne",
+  "es": "Lágrima de Misdreavus",
+  "it": "Lacrime di Misdreavus",
+  "en": "Misdreavus Tears",
+  "ja": "ムウマのなみだ",
+  "zh-hans": "梦妖的眼泪"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

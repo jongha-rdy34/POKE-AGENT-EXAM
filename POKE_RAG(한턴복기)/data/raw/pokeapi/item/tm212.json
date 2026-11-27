@@ -1,0 +1,19 @@
+{
+ "name": "tm212",
+ "names": {
+  "ko": "기술머신212",
+  "zh-hant": "招式學習器２１２",
+  "fr": "CT212",
+  "de": "TM212",
+  "es": "MT212",
+  "it": "MT212",
+  "en": "TM212",
+  "ja": "わざマシン２１２",
+  "zh-hans": "招式学习器２１２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

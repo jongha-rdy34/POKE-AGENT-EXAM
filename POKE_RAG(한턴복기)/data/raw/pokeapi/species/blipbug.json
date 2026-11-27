@@ -1,0 +1,42 @@
+{
+ "id": 824,
+ "name": "blipbug",
+ "names": {
+  "ja-hrkt": "サッチムシ",
+  "ja-roma": "Sacchimushi",
+  "ko": "두루지벌레",
+  "zh-hant": "索偵蟲",
+  "fr": "Larvadar",
+  "de": "Sensect",
+  "es": "Blipbug",
+  "it": "Blipbug",
+  "en": "Blipbug",
+  "ja": "サッチムシ",
+  "zh-hans": "索侦虫",
+  "es-419": "Blipbug"
+ },
+ "genus": {
+  "ja-hrkt": "ようちゅうポケモン",
+  "ko": "유충포켓몬",
+  "zh-hant": "幼蟲寶可夢",
+  "fr": "Pokémon Larve",
+  "de": "Larven-Pokémon",
+  "es": "Pokémon Pupa",
+  "it": "Pokémon Coleolarva",
+  "en": "Larva Pokémon",
+  "ja": "ようちゅうポケモン",
+  "zh-hans": "幼虫宝可梦",
+  "es-419": "Pokémon Pupa"
+ },
+ "flavor": {
+  "ko": "밭에서 자주 보이는 포켓몬이다. 몸에 난 털로 주위에서 일어나는 일을 감지한다.",
+  "en": "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings."
+ },
+ "varieties": [
+  {
+   "name": "blipbug",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "435"
+}

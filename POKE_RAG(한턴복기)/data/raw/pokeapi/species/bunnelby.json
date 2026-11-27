@@ -1,0 +1,42 @@
+{
+ "id": 659,
+ "name": "bunnelby",
+ "names": {
+  "ja-hrkt": "ホルビー",
+  "ja-roma": "Horubee",
+  "ko": "파르빗",
+  "zh-hant": "掘掘兔",
+  "fr": "Sapereau",
+  "de": "Scoppel",
+  "es": "Bunnelby",
+  "it": "Bunnelby",
+  "en": "Bunnelby",
+  "ja": "ホルビー",
+  "zh-hans": "掘掘兔",
+  "es-419": "Bunnelby"
+ },
+ "genus": {
+  "ja-hrkt": "あなほりポケモン",
+  "ko": "땅구멍파기포켓몬",
+  "zh-hant": "挖洞寶可夢",
+  "fr": "Pokémon Fouisseur",
+  "de": "Baugräber-Pokémon",
+  "es": "Pokémon Excavador",
+  "it": "Pokémon Scavabuche",
+  "en": "Digging Pokémon",
+  "ja": "あなほりポケモン",
+  "zh-hans": "挖洞宝可梦",
+  "es-419": "Pokémon Excavador"
+ },
+ "flavor": {
+  "ko": "위험에 민감하다. 아머까오의 날갯소리를 들으면 눈 깜짝할 사이에 구멍을 파고 땅으로 숨어든다.",
+  "en": "It’s very sensitive to danger. The sound of Corviknight’s flapping will have Bunnelby digging a hole to hide underground in moments."
+ },
+ "varieties": [
+  {
+   "name": "bunnelby",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "340"
+}

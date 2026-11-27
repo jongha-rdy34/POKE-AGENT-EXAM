@@ -1,0 +1,31 @@
+{
+ "name": "sheer-cold",
+ "names": {
+  "ja-hrkt": "ぜったいれいど",
+  "ko": "절대영도",
+  "zh-hant": "絕對零度",
+  "fr": "Glaciation",
+  "de": "Eiseskälte",
+  "es": "Frío Polar",
+  "it": "Purogelo",
+  "en": "Sheer Cold",
+  "ja": "ぜったいれいど",
+  "zh-hans": "绝对零度",
+  "es-419": "Frío Extremo"
+ },
+ "type": "ice",
+ "category": "special",
+ "power": null,
+ "accuracy": 30,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Causes a one-hit KO."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types.",
+  "ko": "상대를 일격에 기절시킨다. 얼음타입 이외의 포켓몬이 사용하면 잘 맞지 않는다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 337,
+ "name": "lunatone",
+ "names": {
+  "ja-hrkt": "ルナトーン",
+  "ja-roma": "Lunatone",
+  "ko": "루나톤",
+  "zh-hant": "月石",
+  "fr": "Séléroc",
+  "de": "Lunastein",
+  "es": "Lunatone",
+  "it": "Lunatone",
+  "en": "Lunatone",
+  "ja": "ルナトーン",
+  "zh-hans": "月石",
+  "es-419": "Lunatone"
+ },
+ "genus": {
+  "ja-hrkt": "いんせきポケモン",
+  "ko": "별똥별포켓몬",
+  "zh-hant": "隕石寶可夢",
+  "fr": "Pokémon Météorite",
+  "de": "Meteoriten-Pokémon",
+  "es": "Pokémon Meteorito",
+  "it": "Pokémon Meteorite",
+  "en": "Meteorite Pokémon",
+  "ja": "いんせきポケモン",
+  "zh-hans": "陨石宝可梦",
+  "es-419": "Pokémon Meteorito"
+ },
+ "flavor": {
+  "en": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+  "ko": "40년 전에 운석이 떨어진 장소에서 처음 발견되었다. 노려보기만 해도 적을 잠들게 한다."
+ },
+ "varieties": [
+  {
+   "name": "lunatone",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "171"
+}

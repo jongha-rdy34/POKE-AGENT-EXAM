@@ -1,0 +1,20 @@
+{
+ "name": "griseous-core",
+ "names": {
+  "ja-hrkt": "だいはっきんだま",
+  "ko": "큰백금옥",
+  "zh-hant": "大白金寶玉",
+  "fr": "Globe Platiné",
+  "de": "Platinumkristall",
+  "es": "Gran Griseosfera",
+  "it": "Grigiosferoide",
+  "en": "Griseous Core",
+  "ja": "だいはっきんだま",
+  "zh-hans": "大白金宝玉"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

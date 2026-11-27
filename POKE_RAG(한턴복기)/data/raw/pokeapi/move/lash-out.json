@@ -1,0 +1,31 @@
+{
+ "name": "lash-out",
+ "names": {
+  "ja-hrkt": "うっぷんばらし",
+  "ko": "분풀이",
+  "zh-hant": "洩憤",
+  "fr": "Cent Rancunes",
+  "de": "Frustventil",
+  "es": "Desahogo",
+  "it": "Sfogarabbia",
+  "en": "Lash Out",
+  "ja": "うっぷんばらし",
+  "zh-hans": "泄愤",
+  "es-419": "Desahogo"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power doubles if the user had a stat stage lowered this turn."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "상대에 대한 울분이 담긴 공격을 한다. 그 턴에 능력이 떨어져 있으면 기술의 위력이 2배가 된다.",
+  "en": "The user lashes out to vent its frustration toward the target. This move's power is doubled if the user's stats were lowered during this turn."
+ }
+}

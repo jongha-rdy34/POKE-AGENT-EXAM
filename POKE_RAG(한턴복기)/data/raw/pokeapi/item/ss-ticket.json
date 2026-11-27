@@ -1,0 +1,28 @@
+{
+ "name": "ss-ticket",
+ "names": {
+  "ja-hrkt": "ふねのチケット",
+  "ko": "승선티켓",
+  "zh-hant": "船票",
+  "fr": "Passe Bateau",
+  "de": "Bootsticket",
+  "es": "Ticket Barco",
+  "it": "Biglietto nave",
+  "en": "S.S. Ticket",
+  "ja": "ふねのチケット",
+  "zh-hans": "船票",
+  "es-419": "Ticket Barco"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Ticket pour un bâteau. (RSE: Le Marina LF: L'Océane HG: Aquaria)",
+  "en": "Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)"
+ },
+ "flavor": {
+  "en": "A ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on its front.",
+  "ko": "쾌속선 아쿠아호에 탈 때 필요한 승선티켓. 배 그림이 그려져 있다.",
+  "ja": "高速船アクア号に 乗るとき 必要な 船の チケット。 船の 絵が 描かれている。"
+ }
+}

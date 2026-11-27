@@ -1,0 +1,28 @@
+{
+ "name": "tm31",
+ "names": {
+  "ja-hrkt": "わざマシン３１",
+  "ko": "기술머신31",
+  "zh-hant": "招式學習器３１",
+  "fr": "CT31",
+  "de": "TM31",
+  "es": "MT31",
+  "it": "MT31",
+  "en": "TM31",
+  "ja": "わざマシン３１",
+  "zh-hans": "招式学习器３１",
+  "es-419": "MT31"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Casse-Brique à un Pokémon compatible. (Gén II: Coud'Boue Gén I: Copie)",
+  "en": "Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)"
+ },
+ "flavor": {
+  "en": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.",
+  "ko": "수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다.",
+  "ja": "♂なら♀を ♀なら♂を 誘惑して メロメロに する。 相手は 技が だしにくくなる。"
+ }
+}

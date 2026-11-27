@@ -1,0 +1,20 @@
+{
+ "name": "magical-star-pick",
+ "names": {
+  "ja-hrkt": "マジカルスターピック",
+  "ko": "매지컬 스타 픽",
+  "zh-hant": "魔法星星三明治籤",
+  "fr": "Pique Étoile Magique",
+  "de": "Zauberstern-Pikser",
+  "es": "Palillo Estrella",
+  "it": "Stecchino magistella",
+  "en": "Magical Star Pick",
+  "ja": "マジカルスターピック",
+  "zh-hans": "魔法星星三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "ground-gem",
+ "names": {
+  "ja-hrkt": "じめんのジュエル",
+  "ko": "땅주얼",
+  "zh-hant": "地面寶石",
+  "fr": "Joyau Sol",
+  "de": "Bodenjuwel",
+  "es": "Gema Tierra",
+  "it": "Bijouterra",
+  "en": "Ground Gem",
+  "ja": "じめんのジュエル",
+  "zh-hans": "地面宝石",
+  "es-419": "Gema Tierra"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Sol, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Ground-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of land. When held, it strengthens the power of a Ground-type move one time.",
+  "ko": "땅타입의 주얼. 지니게 하면 한 번만 땅 기술의 위력이 강해진다.",
+  "ja": "じめんの タイプの ジュエル。 持たせると １度だけ じめんの 技の 威力が 強まる。"
+ }
+}

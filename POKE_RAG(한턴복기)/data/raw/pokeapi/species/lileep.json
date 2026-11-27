@@ -1,0 +1,42 @@
+{
+ "id": 345,
+ "name": "lileep",
+ "names": {
+  "ja-hrkt": "リリーラ",
+  "ja-roma": "Lilyla",
+  "ko": "릴링",
+  "zh-hant": "觸手百合",
+  "fr": "Lilia",
+  "de": "Liliep",
+  "es": "Lileep",
+  "it": "Lileep",
+  "en": "Lileep",
+  "ja": "リリーラ",
+  "zh-hans": "触手百合",
+  "es-419": "Lileep"
+ },
+ "genus": {
+  "ja-hrkt": "ウミユリポケモン",
+  "ko": "바다나리포켓몬",
+  "zh-hant": "海百合寶可夢",
+  "fr": "Pokémon Lis d’Eau",
+  "de": "Seeanemonen-Pokémon",
+  "es": "Pokémon Lirio de Mar",
+  "it": "Pokémon Fiordimare",
+  "en": "Sea Lily Pokémon",
+  "ja": "ウミユリポケモン",
+  "zh-hans": "海百合宝可梦",
+  "es-419": "Pokémon Lirio de Mar"
+ },
+ "flavor": {
+  "en": "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles.",
+  "ko": "해저 바위에 달라붙어 먹이가 가까이 오면 꽃잎처럼 생긴 촉수로 감아버린다."
+ },
+ "varieties": [
+  {
+   "name": "lileep",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "176"
+}

@@ -1,0 +1,17 @@
+{
+ "name": "pikachu-pop-star",
+ "form_name": "pop-star",
+ "names": {
+  "fr": "Pikachu Star",
+  "de": "Pop Star Pikachu",
+  "en": "Pikachu Pop Star"
+ },
+ "form_names": {
+  "ja-hrkt": "アイドル・ピカチュウ",
+  "fr": "Pikachu Star",
+  "de": "Cosplayform",
+  "en": "Pikachu Pop Star",
+  "ja": "アイドル・ピカチュウ"
+ },
+ "is_mega": false
+}

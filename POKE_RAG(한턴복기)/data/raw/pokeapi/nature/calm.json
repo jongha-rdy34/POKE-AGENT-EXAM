@@ -1,0 +1,18 @@
+{
+ "name": "calm",
+ "names": {
+  "ja-hrkt": "おだやか",
+  "ko": "차분",
+  "zh-hant": "溫和",
+  "fr": "Calme",
+  "de": "Still",
+  "es": "Serena",
+  "it": "Calma",
+  "en": "Calm",
+  "ja": "おだやか",
+  "zh-hans": "温和",
+  "es-419": "Serena"
+ },
+ "plus": "special-defense",
+ "minus": "attack"
+}

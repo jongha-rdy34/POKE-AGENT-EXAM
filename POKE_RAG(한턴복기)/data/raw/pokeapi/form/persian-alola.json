@@ -1,0 +1,23 @@
+{
+ "name": "persian-alola",
+ "form_name": "alola",
+ "names": {
+  "fr": "Persian d’Alola",
+  "de": "Alola Snobilikat",
+  "en": "Alolan Persian"
+ },
+ "form_names": {
+  "ja-hrkt": "アローラのすがた",
+  "ko": "알로라의 모습",
+  "zh-hant": "阿羅拉的樣子",
+  "fr": "Forme d’Alola",
+  "de": "Alola-Form",
+  "es": "Forma de Alola",
+  "it": "Forma di Alola",
+  "en": "Alolan Form",
+  "ja": "アローラのすがた",
+  "zh-hans": "阿罗拉的样子",
+  "es-419": "Forma de Alola"
+ },
+ "is_mega": false
+}

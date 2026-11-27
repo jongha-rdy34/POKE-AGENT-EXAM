@@ -1,0 +1,35 @@
+{
+ "name": "revive",
+ "names": {
+  "ja-hrkt": "げんきのかけら",
+  "ko": "기력의조각",
+  "zh-hant": "活力碎片",
+  "fr": "Rappel",
+  "de": "Beleber",
+  "es": "Revivir",
+  "it": "Revitalizzante",
+  "en": "Revive",
+  "ja": "げんきのかけら",
+  "zh-hans": "活力碎片",
+  "es-419": "Revivir"
+ },
+ "category": "revival",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Renaît avec la moitié des PV.",
+  "en": "Revives with half HP."
+ },
+ "flavor": {
+  "en": "A medicine that can be used to revive a single Pokémon that has fainted. It also restores half of the Pokémon’s max HP.",
+  "ko": "기절해 버린 포켓몬 1마리를 건강하게 하고 HP를 절반까지 회복한다.",
+  "ja": "ひんしに なった ポケモン １匹を 元気に したうえで ＨＰを 半分まで 回復する。"
+ }
+}

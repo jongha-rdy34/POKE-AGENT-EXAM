@@ -1,0 +1,23 @@
+{
+ "name": "static",
+ "names": {
+  "ja-hrkt": "せいでんき",
+  "ko": "정전기",
+  "zh-hant": "靜電",
+  "fr": "Statik",
+  "de": "Statik",
+  "es": "Electricidad Estática",
+  "it": "Statico",
+  "en": "Static",
+  "ja": "せいでんき",
+  "zh-hans": "静电",
+  "es-419": "Electricidad Estática"
+ },
+ "effect": {
+  "en": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+ },
+ "flavor": {
+  "en": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.",
+  "ko": "정전기를 몸에 둘러 접촉한 상대를 마비시킬 때가 있다."
+ }
+}

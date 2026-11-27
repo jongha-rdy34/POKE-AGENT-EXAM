@@ -1,0 +1,23 @@
+{
+ "name": "piercing-drill",
+ "names": {
+  "ja-hrkt": "かんつうドリル",
+  "ko": "관통드릴",
+  "zh-hant": "貫穿鑽",
+  "fr": "Transperceuse",
+  "de": "Stichbohrer",
+  "es": "Turbotaladro",
+  "it": "Punta Perforante",
+  "en": "Piercing Drill",
+  "ja": "かんつうドリル",
+  "zh-hans": "贯穿钻",
+  "pt-br": "Broca Pervasiva",
+  "es-419": "Turbotaladro"
+ },
+ "effect": {
+  "en": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves."
+ },
+ "flavor": {
+  "en": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered."
+ }
+}

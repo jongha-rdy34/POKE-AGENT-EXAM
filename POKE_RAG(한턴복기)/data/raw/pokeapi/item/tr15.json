@@ -1,0 +1,25 @@
+{
+ "name": "tr15",
+ "names": {
+  "ja-hrkt": "わざレコード１５",
+  "ko": "기술레코드15",
+  "zh-hant": "招式紀錄１５",
+  "fr": "DT15",
+  "de": "TP15",
+  "es": "DT15",
+  "it": "DT15",
+  "en": "TR15",
+  "ja": "わざレコード１５",
+  "zh-hans": "招式记录１５",
+  "es-419": "DT15"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "큰 대자의 불꽃으로 상대를 불태운다. 화상 상태로 만들 때가 있다.",
+  "en": "The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.",
+  "ja": "大の字の 炎で 相手を 焼きつくす。 やけど状態に することが ある。"
+ }
+}

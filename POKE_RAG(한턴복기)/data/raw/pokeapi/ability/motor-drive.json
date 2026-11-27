@@ -1,0 +1,23 @@
+{
+ "name": "motor-drive",
+ "names": {
+  "ja-hrkt": "でんきエンジン",
+  "ko": "전기엔진",
+  "zh-hant": "電氣引擎",
+  "fr": "Motorisé",
+  "de": "Starthilfe",
+  "es": "Electromotor",
+  "it": "Elettrorapid",
+  "en": "Motor Drive",
+  "ja": "でんきエンジン",
+  "zh-hans": "电气引擎",
+  "es-419": "Electromotor"
+ },
+ "effect": {
+  "en": "Absorbs Electric moves, raising Speed one stage."
+ },
+ "flavor": {
+  "en": "The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.",
+  "ko": "전기타입의 기술을 받으면 데미지를 받지 않고 스피드가 올라간다."
+ }
+}

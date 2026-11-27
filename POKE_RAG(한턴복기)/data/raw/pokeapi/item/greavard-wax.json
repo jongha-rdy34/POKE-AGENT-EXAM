@@ -1,0 +1,20 @@
+{
+ "name": "greavard-wax",
+ "names": {
+  "ja-hrkt": "ボチのろう",
+  "ko": "망망이의촛농",
+  "zh-hant": "墓仔狗的蠟",
+  "fr": "Cire de Toutombe",
+  "de": "Gruff-Wachs",
+  "es": "Cera de Greavard",
+  "it": "Cera di Greavard",
+  "en": "Greavard Wax",
+  "ja": "ボチのろう",
+  "zh-hans": "墓仔狗的蜡"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

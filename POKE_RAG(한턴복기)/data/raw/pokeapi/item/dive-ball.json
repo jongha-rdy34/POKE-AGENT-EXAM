@@ -1,0 +1,33 @@
+{
+ "name": "dive-ball",
+ "names": {
+  "ja-hrkt": "ダイブボール",
+  "ko": "다이브볼",
+  "zh-hant": "潛水球",
+  "fr": "Scuba Ball",
+  "de": "Tauchball",
+  "es": "Buceo Ball",
+  "it": "Sub Ball",
+  "en": "Dive Ball",
+  "ja": "ダイブボール",
+  "zh-hans": "潜水球",
+  "es-419": "Buceobola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 3.5× sous l'eau, en pêchant ou en surfant.",
+  "en": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that works especially well when catching Pokémon that live underwater.",
+  "ko": "물의 세계에서 사는 포켓몬을 잡기 쉬운 조금 특이한 볼.",
+  "ja": "水の 世界で 暮らしている ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

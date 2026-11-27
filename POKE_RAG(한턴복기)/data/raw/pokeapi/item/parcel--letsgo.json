@@ -1,0 +1,25 @@
+{
+ "name": "parcel--letsgo",
+ "names": {
+  "ja-hrkt": "おとどけもの",
+  "ko": "전해줄물건",
+  "zh-hant": "包裹",
+  "fr": "Colis",
+  "de": "Paket",
+  "es": "Paquete",
+  "it": "Pacco",
+  "en": "Parcel",
+  "ja": "おとどけもの",
+  "zh-hans": "包裹",
+  "es-419": "Paquete"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상록시티의 숍에서 오박사님에게 전달하도록 부탁받은 물건.",
+  "en": "A parcel to be delivered to Professor Oak from Viridian City’s Poké Mart.",
+  "ja": "トキワシティの ショップ から オーキド博士に 届けるよう 頼まれた 荷物。"
+ }
+}

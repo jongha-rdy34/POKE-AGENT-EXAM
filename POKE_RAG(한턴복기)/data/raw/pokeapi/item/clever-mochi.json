@@ -1,0 +1,20 @@
+{
+ "name": "clever-mochi",
+ "names": {
+  "ja-hrkt": "せいしんのもち",
+  "ko": "정신력떡",
+  "zh-hant": "精神糬",
+  "fr": "Mochi Mental",
+  "de": "Esprit-Mochi",
+  "es": "Mochi Mente",
+  "it": "Mochi dell’intuito",
+  "en": "Clever Mochi",
+  "ja": "せいしんのもち",
+  "zh-hans": "精神粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

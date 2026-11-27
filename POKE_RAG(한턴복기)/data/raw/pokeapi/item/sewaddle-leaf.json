@@ -1,0 +1,20 @@
+{
+ "name": "sewaddle-leaf",
+ "names": {
+  "ja-hrkt": "クルミルのはっぱ",
+  "ko": "두르보의잎",
+  "zh-hant": "蟲寶包的葉片",
+  "fr": "Feuille de Larveyette",
+  "de": "Strawickl-Blatt",
+  "es": "Hoja de Sewaddle",
+  "it": "Foglia di Sewaddle",
+  "en": "Sewaddle Leaf",
+  "ja": "クルミルのはっぱ",
+  "zh-hans": "虫宝包的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

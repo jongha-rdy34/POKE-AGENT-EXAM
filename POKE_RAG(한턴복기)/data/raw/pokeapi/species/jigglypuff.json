@@ -1,0 +1,42 @@
+{
+ "id": 39,
+ "name": "jigglypuff",
+ "names": {
+  "ja-hrkt": "プリン",
+  "ja-roma": "Purin",
+  "ko": "푸린",
+  "zh-hant": "胖丁",
+  "fr": "Rondoudou",
+  "de": "Pummeluff",
+  "es": "Jigglypuff",
+  "it": "Jigglypuff",
+  "en": "Jigglypuff",
+  "ja": "プリン",
+  "zh-hans": "胖丁",
+  "es-419": "Jigglypuff"
+ },
+ "genus": {
+  "ja-hrkt": "ふうせんポケモン",
+  "ko": "풍선포켓몬",
+  "zh-hant": "氣球寶可夢",
+  "fr": "Pokémon Bouboule",
+  "de": "Ballon-Pokémon",
+  "es": "Pokémon Globo",
+  "it": "Pokémon Pallone",
+  "en": "Balloon Pokémon",
+  "ja": "ふうせんポケモン",
+  "zh-hans": "气球宝可梦",
+  "es-419": "Pokémon Globo"
+ },
+ "flavor": {
+  "en": "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy.",
+  "ko": "목소리 파장을 자유자재로 바꾸어 들으면 반드시 잠드는 신비한 멜로디를 노래한다."
+ },
+ "varieties": [
+  {
+   "name": "jigglypuff",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "16"
+}

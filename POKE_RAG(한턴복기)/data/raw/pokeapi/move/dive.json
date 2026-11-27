@@ -1,0 +1,31 @@
+{
+ "name": "dive",
+ "names": {
+  "ja-hrkt": "ダイビング",
+  "ko": "다이빙",
+  "zh-hant": "潛水",
+  "fr": "Plongée",
+  "de": "Taucher",
+  "es": "Buceo",
+  "it": "Sub",
+  "en": "Dive",
+  "ja": "ダイビング",
+  "zh-hans": "潜水",
+  "es-419": "Buceo"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User dives underwater, dodging all attacks, and hits next turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user dives on the first turn, then floats up and attacks on the next turn.",
+  "ko": "1턴째에 잠수했다가 2턴째에 떠올라 공격한다."
+ }
+}

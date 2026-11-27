@@ -1,0 +1,25 @@
+{
+ "name": "super-lure",
+ "names": {
+  "ja-hrkt": "シルバーコロン",
+  "ko": "실버코롱",
+  "zh-hant": "白銀香水",
+  "fr": "Super Parfum",
+  "de": "Super-Lockparfüm",
+  "es": "Supercolonia",
+  "it": "Superprofumo",
+  "en": "Super Lure",
+  "ja": "シルバーコロン",
+  "zh-hans": "白银香水",
+  "es-419": "Supercolonia"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용하면 희귀한 포켓몬이 나오기 쉬워지는 향수. 벌레유인코롱보다 효과가 오래간다.",
+  "en": "A glass bottle of perfume that makes rare Pokémon more likely to appear. It lasts longer than a Lure.",
+  "ja": "使うと 珍しい ポケモンが 出て きやすく なる 香水。 むしよせコロンより 長く もつ。"
+ }
+}

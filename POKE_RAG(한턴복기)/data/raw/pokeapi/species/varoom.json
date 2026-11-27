@@ -1,0 +1,37 @@
+{
+ "id": 965,
+ "name": "varoom",
+ "names": {
+  "ja-hrkt": "ブロロン",
+  "ja-roma": "Buroron",
+  "ko": "부르롱",
+  "zh-hant": "噗隆隆",
+  "fr": "Vrombi",
+  "de": "Knattox",
+  "es": "Varoom",
+  "it": "Varoom",
+  "en": "Varoom",
+  "ja": "ブロロン",
+  "zh-hans": "噗隆隆",
+  "es-419": "Varoom"
+ },
+ "genus": {
+  "ja-hrkt": "たんきとうポケモン",
+  "ko": "단기통포켓몬",
+  "zh-hant": "單汽缸寶可夢",
+  "fr": "Monocylindre",
+  "de": "Einzylinder",
+  "en": "Single-Cyl Pokémon",
+  "zh-hans": "单汽缸宝可梦"
+ },
+ "flavor": {
+  "en": "The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities."
+ },
+ "varieties": [
+  {
+   "name": "varoom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "505"
+}

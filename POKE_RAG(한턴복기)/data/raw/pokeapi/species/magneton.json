@@ -1,0 +1,42 @@
+{
+ "id": 82,
+ "name": "magneton",
+ "names": {
+  "ja-hrkt": "レアコイル",
+  "ja-roma": "Rarecoil",
+  "ko": "레어코일",
+  "zh-hant": "三合一磁怪",
+  "fr": "Magnéton",
+  "de": "Magneton",
+  "es": "Magneton",
+  "it": "Magneton",
+  "en": "Magneton",
+  "ja": "レアコイル",
+  "zh-hans": "三合一磁怪",
+  "es-419": "Magneton"
+ },
+ "genus": {
+  "ja-hrkt": "じしゃくポケモン",
+  "ko": "자석포켓몬",
+  "zh-hant": "磁鐵寶可夢",
+  "fr": "Pokémon Magnétique",
+  "de": "Magnet-Pokémon",
+  "es": "Pokémon Imán",
+  "it": "Pokémon Calamita",
+  "en": "Magnet Pokémon",
+  "ja": "じしゃくポケモン",
+  "zh-hans": "磁铁宝可梦",
+  "es-419": "Pokémon Imán"
+ },
+ "flavor": {
+  "en": "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment.",
+  "ko": "강한 자력을 끊임없이 발산한다. 레어코일이 접근하면 대부분의 컴퓨터에 이상 현상이 발생한다."
+ },
+ "varieties": [
+  {
+   "name": "magneton",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "34"
+}

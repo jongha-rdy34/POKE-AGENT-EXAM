@@ -1,0 +1,28 @@
+{
+ "name": "devon-parts",
+ "names": {
+  "ja-hrkt": "デボンのにもつ",
+  "ko": "데봉화물",
+  "zh-hant": "得文的物品",
+  "fr": "Pack Devon",
+  "de": "Devon-Waren",
+  "es": "Piezas Devon",
+  "it": "Merce Devon",
+  "en": "Devon Parts",
+  "ja": "デボンのにもつ",
+  "zh-hans": "得文的物品",
+  "es-419": "Piezas Devon"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au capitaine Poupe de débuter son expédition.",
+  "en": "Allows Captain Stern to set out on his expedition."
+ },
+ "flavor": {
+  "ko": "데봉에서 만들어진 무언가의 파츠가 들어 있는 화물.",
+  "en": "A case that contains mechanical parts of some sort made by the Devon Corporation.",
+  "ja": "デボンで つくられた 何かの パーツが 入っている にもつ。"
+ }
+}

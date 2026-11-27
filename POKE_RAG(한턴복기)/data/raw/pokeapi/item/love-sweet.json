@@ -1,0 +1,25 @@
+{
+ "name": "love-sweet",
+ "names": {
+  "ja-hrkt": "ハートアメざいく",
+  "ko": "하트사탕공예",
+  "zh-hant": "愛心糖飾",
+  "fr": "Cœur en Sucre",
+  "de": "Zucker-Herz",
+  "es": "Confite Corazón",
+  "it": "Bonboncuore",
+  "en": "Love Sweet",
+  "ja": "ハートアメざいく",
+  "zh-hans": "爱心糖饰",
+  "es-419": "Confite Corazón"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "하트 모양의 사탕공예. 마빌크에게 지니게 하면 빙빙 돌며 기뻐한다.",
+  "en": "A heart-shaped sweet. When a Milcery holds this, it spins around happily.",
+  "ja": "ハートの 形を した アメ細工。 マホミルに 持たせてあげると くるくる 回って 喜ぶ。"
+ }
+}

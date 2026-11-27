@@ -1,0 +1,28 @@
+{
+ "name": "aqua-step",
+ "names": {
+  "ja-hrkt": "アクアステップ",
+  "ko": "아쿠아스텝",
+  "zh-hant": "流水旋舞",
+  "fr": "Danse Aquatique",
+  "de": "Wogentanz",
+  "es": "Danza Acuática",
+  "it": "Idroballetto",
+  "en": "Aqua Step",
+  "ja": "アクアステップ",
+  "zh-hans": "流水旋舞",
+  "es-419": "Danza Acuática"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat."
+ }
+}

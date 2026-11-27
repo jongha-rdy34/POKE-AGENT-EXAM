@@ -1,0 +1,28 @@
+{
+ "name": "forage-bag",
+ "names": {
+  "ja-hrkt": "ざいりょうぶくろ",
+  "ko": "재료주머니",
+  "zh-hant": "材料袋",
+  "fr": "Sac Ingrédients",
+  "de": "Zutatenbeutel",
+  "es": "Zurrón",
+  "it": "Portaingredienti",
+  "en": "Forage Bag",
+  "ja": "ざいりょうぶくろ",
+  "zh-hans": "材料袋",
+  "es-419": "Zurrón"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Porte les ingrédients pendant l'épreuve de Barbara.",
+  "en": "Holds ingredients during Mallow’s trial."
+ },
+ "flavor": {
+  "ko": "정글에서 모은 재료를 모아두는 주머니. 마오의 시련에서 사용한다.",
+  "en": "A bag to carry ingredients gathered during Mallow’s trial in the jungle.",
+  "ja": "ジャングルで 集めた 材料を まとめておく ふくろ。 マオの試練で 使う。"
+ }
+}

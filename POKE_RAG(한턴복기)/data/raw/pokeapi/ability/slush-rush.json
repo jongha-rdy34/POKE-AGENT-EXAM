@@ -1,0 +1,23 @@
+{
+ "name": "slush-rush",
+ "names": {
+  "ja-hrkt": "ゆきかき",
+  "ko": "눈치우기",
+  "zh-hant": "撥雪",
+  "fr": "Chasse-Neige",
+  "de": "Schneescharrer",
+  "es": "Quitanieves",
+  "it": "Spalaneve",
+  "en": "Slush Rush",
+  "ja": "ゆきかき",
+  "zh-hans": "拨雪",
+  "es-419": "Quitanieves"
+ },
+ "effect": {
+  "en": "During Hail, this Pokémon has double Speed."
+ },
+ "flavor": {
+  "ko": "날씨가 싸라기눈일 때 스피드가 올라간다.",
+  "en": "Boosts the Pokémon's Speed stat in snow."
+ }
+}

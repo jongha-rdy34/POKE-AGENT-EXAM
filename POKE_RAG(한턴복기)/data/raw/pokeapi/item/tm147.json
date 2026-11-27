@@ -1,0 +1,20 @@
+{
+ "name": "tm147",
+ "names": {
+  "ja-hrkt": "わざマシン１４７",
+  "ko": "기술머신147",
+  "zh-hant": "招式學習器１４７",
+  "fr": "CT147",
+  "de": "TM147",
+  "es": "MT147",
+  "it": "MT147",
+  "en": "TM147",
+  "ja": "わざマシン１４７",
+  "zh-hans": "招式学习器１４７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

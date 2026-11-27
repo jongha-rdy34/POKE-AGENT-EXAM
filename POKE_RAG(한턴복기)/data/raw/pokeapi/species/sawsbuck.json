@@ -1,0 +1,42 @@
+{
+ "id": 586,
+ "name": "sawsbuck",
+ "names": {
+  "ja-hrkt": "メブキジカ",
+  "ja-roma": "Mebukijika",
+  "ko": "바라철록",
+  "zh-hant": "萌芽鹿",
+  "fr": "Haydaim",
+  "de": "Kronjuwild",
+  "es": "Sawsbuck",
+  "it": "Sawsbuck",
+  "en": "Sawsbuck",
+  "ja": "メブキジカ",
+  "zh-hans": "萌芽鹿",
+  "es-419": "Sawsbuck"
+ },
+ "genus": {
+  "ja-hrkt": "きせつポケモン",
+  "ko": "계절포켓몬",
+  "zh-hant": "季節寶可夢",
+  "fr": "Pokémon Saison",
+  "de": "Jahreszeit",
+  "es": "Pokémon Estacional",
+  "it": "Pokémon Stagione",
+  "en": "Season Pokémon",
+  "ja": "きせつポケモン",
+  "zh-hans": "季节宝可梦",
+  "es-419": "Pokémon Estacional"
+ },
+ "flavor": {
+  "en": "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
+  "ko": "계절의 변화와 함께 거처를 바꾸기에 바라철록이 봄을 나른다고 말하는 사람도 있다."
+ },
+ "varieties": [
+  {
+   "name": "sawsbuck",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "297"
+}

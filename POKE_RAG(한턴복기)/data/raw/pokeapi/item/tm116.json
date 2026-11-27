@@ -1,0 +1,20 @@
+{
+ "name": "tm116",
+ "names": {
+  "ja-hrkt": "わざマシン１１６",
+  "ko": "기술머신116",
+  "zh-hant": "招式學習器１１６",
+  "fr": "CT116",
+  "de": "TM116",
+  "es": "MT116",
+  "it": "MT116",
+  "en": "TM116",
+  "ja": "わざマシン１１６",
+  "zh-hans": "招式学习器１１６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

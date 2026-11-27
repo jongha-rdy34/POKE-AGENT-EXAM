@@ -1,0 +1,23 @@
+{
+ "name": "beedrill-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Dardargnan",
+  "de": "Mega-Bibor",
+  "en": "Mega Beedrill"
+ },
+ "form_names": {
+  "ja-hrkt": "メガスピアー",
+  "ko": "메가독침붕",
+  "zh-hant": "超級大針蜂",
+  "fr": "Méga-Dardargnan",
+  "de": "Mega-Form",
+  "es": "Mega-Beedrill",
+  "it": "MegaBeedrill",
+  "en": "Mega Beedrill",
+  "ja": "メガスピアー",
+  "zh-hans": "超级大针蜂",
+  "es-419": "Mega-Beedrill"
+ },
+ "is_mega": true
+}

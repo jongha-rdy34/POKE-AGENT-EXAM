@@ -1,0 +1,28 @@
+{
+ "name": "bitter-malice",
+ "names": {
+  "ja-hrkt": "うらみつらみ",
+  "ko": "천추지한",
+  "zh-hant": "冤冤相報",
+  "fr": "Cœur de Rancœur",
+  "de": "Niedertracht",
+  "es": "Rencor Reprimido",
+  "it": "Livore",
+  "en": "Bitter Malice",
+  "ja": "うらみつらみ",
+  "zh-hans": "冤冤相报",
+  "es-419": "Rencor Reprimido"
+ },
+ "type": "ghost",
+ "category": "special",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat."
+ }
+}

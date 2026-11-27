@@ -1,0 +1,42 @@
+{
+ "id": 697,
+ "name": "tyrantrum",
+ "names": {
+  "ja-hrkt": "ガチゴラス",
+  "ja-roma": "Gachigoras",
+  "ko": "견고라스",
+  "zh-hant": "怪顎龍",
+  "fr": "Rexillius",
+  "de": "Monargoras",
+  "es": "Tyrantrum",
+  "it": "Tyrantrum",
+  "en": "Tyrantrum",
+  "ja": "ガチゴラス",
+  "zh-hans": "怪颚龙",
+  "es-419": "Tyrantrum"
+ },
+ "genus": {
+  "ja-hrkt": "ぼうくんポケモン",
+  "ko": "폭군포켓몬",
+  "zh-hant": "暴君寶可夢",
+  "fr": "Pokémon Tyran",
+  "de": "Tyrannen-Pokémon",
+  "es": "Pokémon Tirano",
+  "it": "Pokémon Tiranno",
+  "en": "Despot Pokémon",
+  "ja": "ぼうくんポケモン",
+  "zh-hans": "暴君宝可梦",
+  "es-419": "Pokémon Tirano"
+ },
+ "flavor": {
+  "ko": "큰 턱은 살짝 물기만 해도 자동차를 산산조각 낸다. 고대 세계의 왕이다.",
+  "en": "A single bite of Tyrantrum’s massive jaws will demolish a car. This Pokémon was the king of the ancient world."
+ },
+ "varieties": [
+  {
+   "name": "tyrantrum",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "357"
+}

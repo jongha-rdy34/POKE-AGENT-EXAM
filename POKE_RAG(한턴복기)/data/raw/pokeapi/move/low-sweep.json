@@ -1,0 +1,31 @@
+{
+ "name": "low-sweep",
+ "names": {
+  "ja-hrkt": "ローキック",
+  "ko": "로킥",
+  "zh-hant": "下盤踢",
+  "fr": "Balayette",
+  "de": "Fußtritt",
+  "es": "Puntapié",
+  "it": "Calciobasso",
+  "en": "Low Sweep",
+  "ja": "ローキック",
+  "zh-hans": "下盘踢",
+  "es-419": "Barredora"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user makes a swift attack on the target's legs, which lowers the target's Speed stat.",
+  "ko": "재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다."
+ }
+}

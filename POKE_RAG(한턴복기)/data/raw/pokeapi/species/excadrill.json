@@ -1,0 +1,46 @@
+{
+ "id": 530,
+ "name": "excadrill",
+ "names": {
+  "ja-hrkt": "ドリュウズ",
+  "ja-roma": "Doryuzu",
+  "ko": "몰드류",
+  "zh-hant": "龍頭地鼠",
+  "fr": "Minotaupe",
+  "de": "Stalobor",
+  "es": "Excadrill",
+  "it": "Excadrill",
+  "en": "Excadrill",
+  "ja": "ドリュウズ",
+  "zh-hans": "龙头地鼠",
+  "es-419": "Excadrill"
+ },
+ "genus": {
+  "ja-hrkt": "ちていポケモン",
+  "ko": "땅밑포켓몬",
+  "zh-hant": "地底寶可夢",
+  "fr": "Pokémon Souterrain",
+  "de": "Untergrund-Pokémon",
+  "es": "Pokémon Subterráneo",
+  "it": "Pokémon Sottoterra",
+  "en": "Subterrene Pokémon",
+  "ja": "ちていポケモン",
+  "zh-hans": "地底宝可梦",
+  "es-419": "Pokémon Subterráneo"
+ },
+ "flavor": {
+  "en": "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph.",
+  "ko": "별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다."
+ },
+ "varieties": [
+  {
+   "name": "excadrill",
+   "is_default": true
+  },
+  {
+   "name": "excadrill-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "270"
+}

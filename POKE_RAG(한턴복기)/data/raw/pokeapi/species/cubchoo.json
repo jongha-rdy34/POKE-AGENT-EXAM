@@ -1,0 +1,42 @@
+{
+ "id": 613,
+ "name": "cubchoo",
+ "names": {
+  "ja-hrkt": "クマシュン",
+  "ja-roma": "Kumasyun",
+  "ko": "코고미",
+  "zh-hant": "噴嚏熊",
+  "fr": "Polarhume",
+  "de": "Petznief",
+  "es": "Cubchoo",
+  "it": "Cubchoo",
+  "en": "Cubchoo",
+  "ja": "クマシュン",
+  "zh-hans": "喷嚏熊",
+  "es-419": "Cubchoo"
+ },
+ "genus": {
+  "ja-hrkt": "ひょうけつポケモン",
+  "ko": "빙결포켓몬",
+  "zh-hant": "結冰寶可夢",
+  "fr": "Pokémon Gelé",
+  "de": "Eisschollen-Pokémon",
+  "es": "Pokémon Congelación",
+  "it": "Pokémon Freddo",
+  "en": "Chill Pokémon",
+  "ja": "ひょうけつポケモン",
+  "zh-hans": "结冰宝可梦",
+  "es-419": "Pokémon Congelación"
+ },
+ "flavor": {
+  "en": "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it.",
+  "ko": "기술을 사용하기 전에 코를 훌쩍인다. 콧물에 포함된 강한 냉기가 얼음 기술의 근원이다."
+ },
+ "varieties": [
+  {
+   "name": "cubchoo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "310"
+}

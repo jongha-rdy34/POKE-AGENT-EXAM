@@ -1,0 +1,42 @@
+{
+ "id": 171,
+ "name": "lanturn",
+ "names": {
+  "ja-hrkt": "ランターン",
+  "ja-roma": "Lantern",
+  "ko": "랜턴",
+  "zh-hant": "電燈怪",
+  "fr": "Lanturn",
+  "de": "Lanturn",
+  "es": "Lanturn",
+  "it": "Lanturn",
+  "en": "Lanturn",
+  "ja": "ランターン",
+  "zh-hans": "电灯怪",
+  "es-419": "Lanturn"
+ },
+ "genus": {
+  "ja-hrkt": "ライトポケモン",
+  "ko": "라이트포켓몬",
+  "zh-hant": "燈寶可夢",
+  "fr": "Pokémon Lumière",
+  "de": "Leuchten-Pokémon",
+  "es": "Pokémon Luz",
+  "it": "Pokémon Luce",
+  "en": "Light Pokémon",
+  "ja": "ライトポケモン",
+  "zh-hans": "灯宝可梦",
+  "es-419": "Pokémon Luz"
+ },
+ "flavor": {
+  "en": "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack.",
+  "ko": "강한 빛을 발산해 먹이의 눈을 멀게 한다. 허점을 보이면 전격을 먹인다."
+ },
+ "varieties": [
+  {
+   "name": "lanturn",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "86"
+}

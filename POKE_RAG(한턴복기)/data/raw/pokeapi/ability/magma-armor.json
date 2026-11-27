@@ -1,0 +1,23 @@
+{
+ "name": "magma-armor",
+ "names": {
+  "ja-hrkt": "マグマのよろい",
+  "ko": "마그마의무장",
+  "zh-hant": "熔岩鎧甲",
+  "fr": "Armumagma",
+  "de": "Magmapanzer",
+  "es": "Escudo Magma",
+  "it": "Magmascudo",
+  "en": "Magma Armor",
+  "ja": "マグマのよろい",
+  "zh-hans": "熔岩铠甲",
+  "es-419": "Escudo de Magma"
+ },
+ "effect": {
+  "en": "Prevents freezing."
+ },
+ "flavor": {
+  "en": "The Pokémon’s hot magma coating prevents it from being frozen.",
+  "ko": "뜨거운 마그마를 몸에 둘러서 얼음 상태가 되지 않는다."
+ }
+}

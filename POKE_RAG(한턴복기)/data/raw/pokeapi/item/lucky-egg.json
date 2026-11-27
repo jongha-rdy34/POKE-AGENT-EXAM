@@ -1,0 +1,31 @@
+{
+ "name": "lucky-egg",
+ "names": {
+  "ja-hrkt": "しあわせタマゴ",
+  "ko": "행복의알",
+  "zh-hant": "幸運蛋",
+  "fr": "Œuf Chance",
+  "de": "Glücks-Ei",
+  "es": "Huevo Suerte",
+  "it": "Fortunuovo",
+  "en": "Lucky Egg",
+  "ja": "しあわせタマゴ",
+  "zh-hans": "幸运蛋",
+  "es-419": "Huevo Suerte"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente l'EXP gagnée au combat de 50%.",
+  "en": "Held: Increases EXP earned in battle by 50%."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s an egg filled with happiness that earns the holder extra Exp. Points in battle.",
+  "ko": "행복이 가득한 알. 지니게 한 포켓몬은 받을 수 있는 경험치가 조금 늘어난다.",
+  "ja": "しあわせが つまった タマゴ。 持たせた ポケモンは もらえる 経験値が 少し 増える。"
+ }
+}

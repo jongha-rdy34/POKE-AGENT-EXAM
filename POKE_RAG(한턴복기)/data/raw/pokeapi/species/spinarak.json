@@ -1,0 +1,42 @@
+{
+ "id": 167,
+ "name": "spinarak",
+ "names": {
+  "ja-hrkt": "イトマル",
+  "ja-roma": "Itomaru",
+  "ko": "페이검",
+  "zh-hant": "圓絲蛛",
+  "fr": "Mimigal",
+  "de": "Webarak",
+  "es": "Spinarak",
+  "it": "Spinarak",
+  "en": "Spinarak",
+  "ja": "イトマル",
+  "zh-hans": "圆丝蛛",
+  "es-419": "Spinarak"
+ },
+ "genus": {
+  "ja-hrkt": "いとはきポケモン",
+  "ko": "실뿜기포켓몬",
+  "zh-hant": "吐絲寶可夢",
+  "fr": "Pokémon Crache Fil",
+  "de": "Fadenwurf",
+  "es": "Pokémon Escupesoga",
+  "it": "Pokémon Tela",
+  "en": "String Spit Pokémon",
+  "ja": "いとはきポケモン",
+  "zh-hans": "吐丝宝可梦",
+  "es-419": "Pokémon Escupesoga"
+ },
+ "flavor": {
+  "en": "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web.",
+  "ko": "이빨의 독은 그다지 강하진 않지만 둥지에 걸려서 움직일 수 없는 먹이를 약하게 만들기에는 충분하다."
+ },
+ "varieties": [
+  {
+   "name": "spinarak",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "85"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr96",
+ "names": {
+  "ja-hrkt": "わざレコード９６",
+  "ko": "기술레코드96",
+  "zh-hant": "招式紀錄９６",
+  "fr": "DT96",
+  "de": "TP96",
+  "es": "DT96",
+  "it": "DT96",
+  "en": "TR96",
+  "ja": "わざレコード９６",
+  "zh-hans": "招式记录９６",
+  "es-419": "DT96"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대에게는 폭발하는 경단을 사용하여 공격한다. 같은 편에게는 회복하는 경단을 준다.",
+  "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",
+  "ja": "敵には 爆発する だんごを 使って 攻撃。 味方には 回復する だんごを 与える。"
+ }
+}

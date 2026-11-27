@@ -1,0 +1,28 @@
+{
+ "name": "matcha-gotcha",
+ "names": {
+  "ja-hrkt": "シャカシャカほう",
+  "ko": "휘적휘적포",
+  "zh-hant": "刷刷茶炮",
+  "fr": "Mortier Matcha",
+  "de": "Quirlschuss",
+  "es": "Cañón Batidor",
+  "it": "Spruzzatè",
+  "en": "Matcha Gotcha",
+  "ja": "シャカシャカほう",
+  "zh-hans": "刷刷茶炮",
+  "es-419": "Cañón Batidor"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 80,
+ "accuracy": 90,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn."
+ }
+}

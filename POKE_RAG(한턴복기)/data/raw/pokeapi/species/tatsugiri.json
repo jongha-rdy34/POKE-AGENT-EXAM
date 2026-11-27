@@ -1,0 +1,57 @@
+{
+ "id": 978,
+ "name": "tatsugiri",
+ "names": {
+  "ja-hrkt": "シャリタツ",
+  "ja-roma": "Syaritatsu",
+  "ko": "싸리용",
+  "zh-hant": "米立龍",
+  "fr": "Nigirigon",
+  "de": "Nigiragi",
+  "es": "Tatsugiri",
+  "it": "Tatsugiri",
+  "en": "Tatsugiri",
+  "ja": "シャリタツ",
+  "zh-hans": "米立龙",
+  "es-419": "Tatsugiri"
+ },
+ "genus": {
+  "ja-hrkt": "ぎたいポケモン",
+  "ko": "의태포켓몬",
+  "zh-hant": "擬態寶可夢",
+  "fr": "Mimétisme",
+  "de": "Mimesen",
+  "en": "Mimicry Pokémon",
+  "zh-hans": "拟态宝可梦"
+ },
+ "flavor": {
+  "en": "Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack."
+ },
+ "varieties": [
+  {
+   "name": "tatsugiri-curly",
+   "is_default": true
+  },
+  {
+   "name": "tatsugiri-droopy",
+   "is_default": false
+  },
+  {
+   "name": "tatsugiri-stretchy",
+   "is_default": false
+  },
+  {
+   "name": "tatsugiri-curly-mega",
+   "is_default": false
+  },
+  {
+   "name": "tatsugiri-droopy-mega",
+   "is_default": false
+  },
+  {
+   "name": "tatsugiri-stretchy-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "514"
+}

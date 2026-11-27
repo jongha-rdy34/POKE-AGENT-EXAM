@@ -1,0 +1,37 @@
+{
+ "id": 966,
+ "name": "revavroom",
+ "names": {
+  "ja-hrkt": "ブロロローム",
+  "ja-roma": "Burororoom",
+  "ko": "부르르룸",
+  "zh-hant": "普隆隆姆",
+  "fr": "Vrombotor",
+  "de": "Knattatox",
+  "es": "Revavroom",
+  "it": "Revavroom",
+  "en": "Revavroom",
+  "ja": "ブロロローム",
+  "zh-hans": "普隆隆姆",
+  "es-419": "Revavroom"
+ },
+ "genus": {
+  "ja-hrkt": "たきとうポケモン",
+  "ko": "다기통포켓몬",
+  "zh-hant": "多汽缸寶可夢",
+  "fr": "Polycylindre",
+  "de": "Mehrzylinder",
+  "en": "Multi-Cyl Pokémon",
+  "zh-hans": "多汽缸宝可梦"
+ },
+ "flavor": {
+  "en": "Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids."
+ },
+ "varieties": [
+  {
+   "name": "revavroom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "505"
+}

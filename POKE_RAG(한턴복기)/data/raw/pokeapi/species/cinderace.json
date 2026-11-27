@@ -1,0 +1,46 @@
+{
+ "id": 815,
+ "name": "cinderace",
+ "names": {
+  "ja-hrkt": "エースバーン",
+  "ja-roma": "Aceburn",
+  "ko": "에이스번",
+  "zh-hant": "閃焰王牌",
+  "fr": "Pyrobut",
+  "de": "Liberlo",
+  "es": "Cinderace",
+  "it": "Cinderace",
+  "en": "Cinderace",
+  "ja": "エースバーン",
+  "zh-hans": "闪焰王牌",
+  "es-419": "Cinderace"
+ },
+ "genus": {
+  "ja-hrkt": "ストライカーポケモン",
+  "ko": "스트라이커포켓몬",
+  "zh-hant": "前鋒寶可夢",
+  "fr": "Pokémon Buteur",
+  "de": "Torschützen-Pokémon",
+  "es": "Pokémon Delantero",
+  "it": "Pokémon Cannoniere",
+  "en": "Striker Pokémon",
+  "ja": "ストライカーポケモン",
+  "zh-hans": "前锋宝可梦",
+  "es-419": "Pokémon Delantero"
+ },
+ "flavor": {
+  "ko": "공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.",
+  "en": "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot."
+ },
+ "varieties": [
+  {
+   "name": "cinderace",
+   "is_default": true
+  },
+  {
+   "name": "cinderace-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "431"
+}

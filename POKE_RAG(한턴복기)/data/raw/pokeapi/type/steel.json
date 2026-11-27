@@ -1,0 +1,28 @@
+{
+ "name": "steel",
+ "names": {
+  "ja-hrkt": "はがね",
+  "ko": "강철",
+  "zh-hant": "鋼",
+  "fr": "Acier",
+  "de": "Stahl",
+  "es": "Acero",
+  "it": "Acciaio",
+  "en": "Steel",
+  "ja": "はがね",
+  "zh-hans": "钢",
+  "es-419": "Acero"
+ },
+ "double_to": [
+  "rock",
+  "ice",
+  "fairy"
+ ],
+ "half_to": [
+  "steel",
+  "fire",
+  "water",
+  "electric"
+ ],
+ "zero_to": []
+}

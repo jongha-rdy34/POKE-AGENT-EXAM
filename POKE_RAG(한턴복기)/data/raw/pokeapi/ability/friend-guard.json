@@ -1,0 +1,23 @@
+{
+ "name": "friend-guard",
+ "names": {
+  "ja-hrkt": "フレンドガード",
+  "ko": "프렌드가드",
+  "zh-hant": "友情防守",
+  "fr": "Garde-Ami",
+  "de": "Freundeshut",
+  "es": "Compiescolta",
+  "it": "Amicoscudo",
+  "en": "Friend Guard",
+  "ja": "フレンドガード",
+  "zh-hans": "友情防守",
+  "es-419": "Compiescolta"
+ },
+ "effect": {
+  "en": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+ },
+ "flavor": {
+  "en": "Reduces damage dealt to allies.",
+  "ko": "같은 편의 데미지를 줄일 수 있다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "rain-dance",
+ "names": {
+  "ja-hrkt": "あまごい",
+  "ko": "비바라기",
+  "zh-hant": "求雨",
+  "fr": "Danse Pluie",
+  "de": "Regentanz",
+  "es": "Danza Lluvia",
+  "it": "Pioggiadanza",
+  "en": "Rain Dance",
+  "ja": "あまごい",
+  "zh-hans": "求雨",
+  "es-419": "Danza de Lluvia"
+ },
+ "type": "water",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Changes the weather to rain for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user summons a heavy rain that falls for five turns, powering up Water-type attacks. The rain also lowers the power of Fire-type attacks.",
+  "ko": "5턴 동안 비를 내리게 해서 물타입 기술의 위력을 올린다. 불꽃타입의 위력은 떨어진다."
+ }
+}

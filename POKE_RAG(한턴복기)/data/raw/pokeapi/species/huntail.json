@@ -1,0 +1,42 @@
+{
+ "id": 367,
+ "name": "huntail",
+ "names": {
+  "ja-hrkt": "ハンテール",
+  "ja-roma": "Huntail",
+  "ko": "헌테일",
+  "zh-hant": "獵斑魚",
+  "fr": "Serpang",
+  "de": "Aalabyss",
+  "es": "Huntail",
+  "it": "Huntail",
+  "en": "Huntail",
+  "ja": "ハンテール",
+  "zh-hans": "猎斑鱼",
+  "es-419": "Huntail"
+ },
+ "genus": {
+  "ja-hrkt": "しんかいポケモン",
+  "ko": "깊은바다포켓몬",
+  "zh-hant": "深海寶可夢",
+  "fr": "Pokémon Abysse",
+  "de": "Tiefsee",
+  "es": "Pokémon Abisal",
+  "it": "Pokémon Abissi",
+  "en": "Deep Sea Pokémon",
+  "ja": "しんかいポケモン",
+  "zh-hans": "深海宝可梦",
+  "es-419": "Pokémon Abisal"
+ },
+ "flavor": {
+  "en": "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
+  "ko": "심해에 서식한다. 헌테일이 해변에 올라오면 불길한 일이 일어난다는 전설이 있다."
+ },
+ "varieties": [
+  {
+   "name": "huntail",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "188"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "frigibax-scales",
+ "names": {
+  "ja-hrkt": "セビエのウロコ",
+  "ko": "드니차의비늘",
+  "zh-hant": "涼脊龍的鱗片",
+  "fr": "Écaille de Frigodo",
+  "de": "Frospino-Schuppe",
+  "es": "Escama de Frigibax",
+  "it": "Squama di Frigibax",
+  "en": "Frigibax Scales",
+  "ja": "セビエのウロコ",
+  "zh-hans": "凉脊龙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

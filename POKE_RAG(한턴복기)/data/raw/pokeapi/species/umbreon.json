@@ -1,0 +1,42 @@
+{
+ "id": 197,
+ "name": "umbreon",
+ "names": {
+  "ja-hrkt": "ブラッキー",
+  "ja-roma": "Bracky",
+  "ko": "블래키",
+  "zh-hant": "月亮伊布",
+  "fr": "Noctali",
+  "de": "Nachtara",
+  "es": "Umbreon",
+  "it": "Umbreon",
+  "en": "Umbreon",
+  "ja": "ブラッキー",
+  "zh-hans": "月亮伊布",
+  "es-419": "Umbreon"
+ },
+ "genus": {
+  "ja-hrkt": "げっこうポケモン",
+  "ko": "달빛포켓몬",
+  "zh-hant": "月光寶可夢",
+  "fr": "Pokémon Lune",
+  "de": "Mondschein-Pokémon",
+  "es": "Pokémon Luz Lunar",
+  "it": "Pokémon Lucelunare",
+  "en": "Moonlight Pokémon",
+  "ja": "げっこうポケモン",
+  "zh-hans": "月光宝可梦",
+  "es-419": "Pokémon Luz Lunar"
+ },
+ "flavor": {
+  "en": "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity.",
+  "ko": "보름달이 뜬 밤이나 흥분했을 때 전신의 고리 무늬가 노랗게 빛난다."
+ },
+ "varieties": [
+  {
+   "name": "umbreon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

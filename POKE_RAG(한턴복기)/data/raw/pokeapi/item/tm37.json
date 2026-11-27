@@ -1,0 +1,28 @@
+{
+ "name": "tm37",
+ "names": {
+  "ja-hrkt": "わざマシン３７",
+  "ko": "기술머신37",
+  "zh-hant": "招式學習器３７",
+  "fr": "CT37",
+  "de": "TM37",
+  "es": "MT37",
+  "it": "MT37",
+  "en": "TM37",
+  "ja": "わざマシン３７",
+  "zh-hans": "招式学习器３７",
+  "es-419": "MT37"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Tempête de Sable à un Pokémon compatible. (Gén I: Bombe Œuf)",
+  "en": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)"
+ },
+ "flavor": {
+  "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+  "ko": "같은 편 전원이 공격한다. 동료 포켓몬이 많을수록 기술의 공격 횟수가 증가한다.",
+  "ja": "味方 全員で 攻撃する。 仲間の ポケモンが 多いほど 技の 攻撃回数が 増える。"
+ }
+}

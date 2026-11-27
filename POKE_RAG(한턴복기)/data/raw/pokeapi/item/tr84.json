@@ -1,0 +1,25 @@
+{
+ "name": "tr84",
+ "names": {
+  "ja-hrkt": "わざレコード８４",
+  "ko": "기술레코드84",
+  "zh-hant": "招式紀錄８４",
+  "fr": "DT84",
+  "de": "TP84",
+  "es": "DT84",
+  "it": "DT84",
+  "en": "TR84",
+  "ja": "わざレコード８４",
+  "zh-hans": "招式记录８４",
+  "es-419": "DT84"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "뜨겁게 끓어오르는 물을 상대에게 발사해서 공격한다. 화상 상태로 만들 때가 있다.",
+  "en": "The user shoots boiling hot water at its target. This may also leave the target with a burn.",
+  "ja": "熱く 煮えたぎる 水を 相手に 発射して 攻撃する。 やけど状態に することが ある。"
+ }
+}

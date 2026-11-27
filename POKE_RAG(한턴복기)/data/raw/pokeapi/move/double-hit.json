@@ -1,0 +1,31 @@
+{
+ "name": "double-hit",
+ "names": {
+  "ja-hrkt": "ダブルアタック",
+  "ko": "더블어택",
+  "zh-hant": "二連擊",
+  "fr": "Coup Double",
+  "de": "Doppelschlag",
+  "es": "Doble Golpe",
+  "it": "Doppiosmash",
+  "en": "Double Hit",
+  "ja": "ダブルアタック",
+  "zh-hans": "二连击",
+  "es-419": "Doble Golpe"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 35,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits twice in one turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slams the target with a tail or the like. The target is hit twice in a row.",
+  "ko": "꼬리 등을 써서 상대를 때려 공격한다. 2회 연속으로 데미지를 준다."
+ }
+}

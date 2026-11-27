@@ -1,0 +1,20 @@
+{
+ "name": "pika-pika-pick",
+ "names": {
+  "ja-hrkt": "ピカピカピック",
+  "ko": "피카피카 픽",
+  "zh-hant": "皮卡丘三明治籤",
+  "fr": "Pique Pikapika",
+  "de": "Pikapika-Pikser",
+  "es": "Palillo Pikachu",
+  "it": "Stecchino Pikachu",
+  "en": "Pika-Pika Pick",
+  "ja": "ピカピカピック",
+  "zh-hans": "皮卡丘三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

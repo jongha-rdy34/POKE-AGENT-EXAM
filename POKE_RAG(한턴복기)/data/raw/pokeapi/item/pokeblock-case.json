@@ -1,0 +1,22 @@
+{
+ "name": "pokeblock-case",
+ "names": {
+  "ja-hrkt": "ポロックケース",
+  "fr": "Boîte Pokéblocs",
+  "de": "Pokériegelbox",
+  "es": "Tubo Pokécubos",
+  "it": "PortaPokémelle",
+  "en": "Pokéblock Case",
+  "es-419": "Tubo Pokécubos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Porte les Pokéblocs.",
+  "en": "Holds Pokéblocks."
+ },
+ "flavor": {
+  "en": "A case for holding POKéBLOCKS made with a BERRY BLENDER. It releases one POKéBLOCK when shaken."
+ }
+}

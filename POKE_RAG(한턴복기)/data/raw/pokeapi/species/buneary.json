@@ -1,0 +1,42 @@
+{
+ "id": 427,
+ "name": "buneary",
+ "names": {
+  "ja-hrkt": "ミミロル",
+  "ja-roma": "Mimirol",
+  "ko": "이어롤",
+  "zh-hant": "捲捲耳",
+  "fr": "Laporeille",
+  "de": "Haspiror",
+  "es": "Buneary",
+  "it": "Buneary",
+  "en": "Buneary",
+  "ja": "ミミロル",
+  "zh-hans": "卷卷耳",
+  "es-419": "Buneary"
+ },
+ "genus": {
+  "ja-hrkt": "うさぎポケモン",
+  "ko": "토끼포켓몬",
+  "zh-hant": "兔子寶可夢",
+  "fr": "Pokémon Lapin",
+  "de": "Hasen-Pokémon",
+  "es": "Pokémon Conejo",
+  "it": "Pokémon Coniglio",
+  "en": "Rabbit Pokémon",
+  "ja": "うさぎポケモン",
+  "zh-hans": "兔子宝可梦",
+  "es-419": "Pokémon Conejo"
+ },
+ "flavor": {
+  "en": "My hypothesis as to why Buneary rolls up its ears is that its hearing is far too keen. I surmise that the Pokémon protects its hearing by limiting the sound that may enter its ears.",
+  "ko": "말고 있던 귀를 뻗는 힘으로 공격하는 기술은 트레이닝을 할수록 위력이 커진다."
+ },
+ "varieties": [
+  {
+   "name": "buneary",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "220"
+}

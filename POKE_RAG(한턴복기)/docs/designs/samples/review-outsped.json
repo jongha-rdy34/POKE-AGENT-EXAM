@@ -1,0 +1,168 @@
+{
+ "request": {
+  "my_form_key": "garchomp",
+  "opp_form_key": "dragapult",
+  "actor": "opp",
+  "move_key": "dragon-darts",
+  "actual": {
+   "kind": "outsped"
+  },
+  "my_build": {
+   "sp": {
+    "spe": 32
+   },
+   "nature": "jolly",
+   "item": ""
+  }
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "상대 드래펄트는 도구 없이도 내 한카리아스보다 빨라요",
+    "summary": "계산상, 상대가 S32 · 명랑 · 구애스카프일 때 상대가 먼저 움직여요. 또는 상대가 S32 · 노력 · 구애스카프일 때 상대가 먼저 움직여요. 실제 랭크배틀 통계 기준, 이 행동 순서는 상대가 결과를 바꾸는 도구를 들지 않았을 때 가장 잘 맞아요. Showdown 시뮬레이터 환경에서 모은 데이터 기준, 상대 도구로는 이 결과를 구분하기 어려워요.",
+    "calc": {
+     "rows": [
+      {
+       "label": "S32 · 명랑 · 구애스카프",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 구애스카프 채용 22%"
+       ],
+       "k": null,
+       "speed": {
+        "opp": 319,
+        "me": 169
+       }
+      },
+      {
+       "label": "S32 · 노력 · 구애스카프",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 구애스카프 채용 22%"
+       ],
+       "k": null,
+       "speed": {
+        "opp": 291,
+        "me": 169
+       }
+      },
+      {
+       "label": "S32 · 명랑 · 도구 없음",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [],
+       "k": null,
+       "speed": {
+        "opp": 213,
+        "me": 169
+       }
+      },
+      {
+       "label": "S32 · 노력 · 도구 없음",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [],
+       "k": null,
+       "speed": {
+        "opp": 194,
+        "me": 169
+       }
+      }
+     ],
+     "more": 0,
+     "near": [],
+     "assumed": "상대 SP S32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "S32 · 명랑 · 특성 모래숨기 · 도구 없음",
+     "headline_row": 2
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 특성 모래숨기"
+      ],
+      "causes": [
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 1,
+        "rolls": null,
+        "rolls_k": null,
+        "conditions": [
+         "명랑 · H2 A32 B32 · 특성 클리어바디",
+         "명랑 · H2 A32 B32 · 특성 틈새포착",
+         "명랑 · H2 A32 B32 · 특성 저주받은바디"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): 특성 까칠한피부"
+      ],
+      "causes": [
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 1,
+        "rolls": null,
+        "rolls_k": null,
+        "conditions": [
+         "겁쟁이 · H2 C32 S32 · 특성 틈새포착",
+         "고집 · H2 A32 S32 · 특성 틈새포착",
+         "명랑 · H2 A32 S32 · 특성 틈새포착"
+        ]
+       },
+       {
+        "key": "choice-scarf",
+        "label": "구애스카프",
+        "rank": 2,
+        "rolls": null,
+        "rolls_k": null,
+        "conditions": [
+         "겁쟁이 · H2 C32 S32 · 특성 틈새포착",
+         "고집 · H2 A32 S32 · 특성 틈새포착",
+         "명랑 · H2 A32 S32 · 특성 틈새포착"
+        ]
+       }
+      ]
+     }
+    },
+    "differs": true,
+    "diff_reason": "한쪽만 일치 0건 또는 도구 구분 불가",
+    "unsupported": [],
+    "assumptions": [
+     "상대가 우선도 0 기술을 썼다는 가정(상대 기술 입력은 v1 범위 밖)"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "sample-outsped"
+   }
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr93",
+ "names": {
+  "ja-hrkt": "わざレコード９３",
+  "ko": "기술레코드93",
+  "zh-hant": "招式紀錄９３",
+  "fr": "DT93",
+  "de": "TP93",
+  "es": "DT93",
+  "it": "DT93",
+  "en": "TR93",
+  "ja": "わざレコード９３",
+  "zh-hans": "招式记录９３",
+  "es-419": "DT93"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "양팔을 돌려 상대에게 부딪친다. 상대의 능력 변화에 상관없이 데미지를 준다.",
+  "en": "The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.",
+  "ja": "両腕を 回し 相手に 当てる。 相手の 能力変化に 関係なく ダメージを 与える。"
+ }
+}

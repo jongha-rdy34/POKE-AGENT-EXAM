@@ -1,0 +1,42 @@
+{
+ "id": 11,
+ "name": "metapod",
+ "names": {
+  "ja-hrkt": "トランセル",
+  "ja-roma": "Transel",
+  "ko": "단데기",
+  "zh-hant": "鐵甲蛹",
+  "fr": "Chrysacier",
+  "de": "Safcon",
+  "es": "Metapod",
+  "it": "Metapod",
+  "en": "Metapod",
+  "ja": "トランセル",
+  "zh-hans": "铁甲蛹",
+  "es-419": "Metapod"
+ },
+ "genus": {
+  "ja-hrkt": "さなぎポケモン",
+  "ko": "번데기포켓몬",
+  "zh-hant": "蛹寶可夢",
+  "fr": "Pokémon Cocon",
+  "de": "Kokon-Pokémon",
+  "es": "Pokémon Capullo",
+  "it": "Pokémon Bozzolo",
+  "en": "Cocoon Pokémon",
+  "ja": "さなぎポケモン",
+  "zh-hans": "蛹宝可梦",
+  "es-419": "Pokémon Capullo"
+ },
+ "flavor": {
+  "en": "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack.",
+  "ko": "단단한 껍질로 둘러싸여 있지만 안은 부드럽기 때문에 강한 공격에는 버티지 못한다."
+ },
+ "varieties": [
+  {
+   "name": "metapod",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "4"
+}

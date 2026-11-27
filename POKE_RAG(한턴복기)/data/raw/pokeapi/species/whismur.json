@@ -1,0 +1,42 @@
+{
+ "id": 293,
+ "name": "whismur",
+ "names": {
+  "ja-hrkt": "ゴニョニョ",
+  "ja-roma": "Gonyonyo",
+  "ko": "소곤룡",
+  "zh-hant": "咕妞妞",
+  "fr": "Chuchmur",
+  "de": "Flurmel",
+  "es": "Whismur",
+  "it": "Whismur",
+  "en": "Whismur",
+  "ja": "ゴニョニョ",
+  "zh-hans": "咕妞妞",
+  "es-419": "Whismur"
+ },
+ "genus": {
+  "ja-hrkt": "ささやきポケモン",
+  "ko": "속삭임포켓몬",
+  "zh-hant": "細語寶可夢",
+  "fr": "Pokémon Chuchoteur",
+  "de": "Flüster-Pokémon",
+  "es": "Pokémon Susurro",
+  "it": "Pokémon Sussurro",
+  "en": "Whisper Pokémon",
+  "ja": "ささやきポケモン",
+  "zh-hans": "细语宝可梦",
+  "es-419": "Pokémon Susurro"
+ },
+ "flavor": {
+  "en": "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep.",
+  "ko": "울음이 터지면 자신의 목소리에 놀라 더 격렬하게 운다. 울다 지치면 잠들어 버린다."
+ },
+ "varieties": [
+  {
+   "name": "whismur",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "145"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "cloud-nine",
+ "names": {
+  "ja-hrkt": "ノーてんき",
+  "ko": "날씨부정",
+  "zh-hant": "無關天氣",
+  "fr": "Ciel Gris",
+  "de": "Wolke Sieben",
+  "es": "Aclimatación",
+  "it": "Antimeteo",
+  "en": "Cloud Nine",
+  "ja": "ノーてんき",
+  "zh-hans": "无关天气",
+  "es-419": "Aclimatación"
+ },
+ "effect": {
+  "en": "Negates all effects of weather, but does not prevent the weather itself."
+ },
+ "flavor": {
+  "en": "Eliminates the effects of weather.",
+  "ko": "모든 날씨의 영향이 없어진다."
+ }
+}

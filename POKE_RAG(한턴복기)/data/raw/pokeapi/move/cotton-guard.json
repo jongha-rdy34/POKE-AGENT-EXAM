@@ -1,0 +1,31 @@
+{
+ "name": "cotton-guard",
+ "names": {
+  "ja-hrkt": "コットンガード",
+  "ko": "코튼가드",
+  "zh-hant": "棉花防守",
+  "fr": "Cotogarde",
+  "de": "Watteschild",
+  "es": "Rizo Algodón",
+  "it": "Cotonscudo",
+  "en": "Cotton Guard",
+  "ja": "コットンガード",
+  "zh-hans": "棉花防守",
+  "es-419": "Guardialgodón"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Defense by three stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat.",
+  "ko": "푹신푹신한 솜털로 자신의 몸을 둘러싸서 지킨다. 방어를 매우 크게 올린다."
+ }
+}

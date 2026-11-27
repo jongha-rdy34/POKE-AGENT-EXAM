@@ -1,0 +1,20 @@
+{
+ "name": "bagon-scales",
+ "names": {
+  "ja-hrkt": "タツベイのウロコ",
+  "ko": "아공이의비늘",
+  "zh-hant": "寶貝龍的鱗片",
+  "fr": "Écaille de Draby",
+  "de": "Kindwurm-Schuppe",
+  "es": "Escama de Bagon",
+  "it": "Squama di Bagon",
+  "en": "Bagon Scales",
+  "ja": "タツベイのウロコ",
+  "zh-hans": "宝贝龙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

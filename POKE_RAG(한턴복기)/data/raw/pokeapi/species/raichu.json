@@ -1,0 +1,54 @@
+{
+ "id": 26,
+ "name": "raichu",
+ "names": {
+  "ja-hrkt": "ライチュウ",
+  "ja-roma": "Raichu",
+  "ko": "라이츄",
+  "zh-hant": "雷丘",
+  "fr": "Raichu",
+  "de": "Raichu",
+  "es": "Raichu",
+  "it": "Raichu",
+  "en": "Raichu",
+  "ja": "ライチュウ",
+  "zh-hans": "雷丘",
+  "es-419": "Raichu"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Pokémon Souris",
+  "de": "Maus-Pokémon",
+  "es": "Pokémon Ratón",
+  "it": "Pokémon Topo",
+  "en": "Mouse Pokémon",
+  "ja": "ねずみポケモン",
+  "zh-hans": "鼠宝可梦",
+  "es-419": "Pokémon Ratón"
+ },
+ "flavor": {
+  "en": "It can discharge bursts of electricity exceeding 100,000 volts— a single strike with that amount of power would incapacitate one of the Copperajah of my homeland.",
+  "ko": "전기 주머니가 텅 비면 꼬리를 똑바로 세워서 공기 중의 전기를 모은다."
+ },
+ "varieties": [
+  {
+   "name": "raichu",
+   "is_default": true
+  },
+  {
+   "name": "raichu-alola",
+   "is_default": false
+  },
+  {
+   "name": "raichu-mega-x",
+   "is_default": false
+  },
+  {
+   "name": "raichu-mega-y",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "10"
+}

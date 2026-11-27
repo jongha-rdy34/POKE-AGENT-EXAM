@@ -1,0 +1,42 @@
+{
+ "id": 415,
+ "name": "combee",
+ "names": {
+  "ja-hrkt": "ミツハニー",
+  "ja-roma": "Mitsuhoney",
+  "ko": "세꿀버리",
+  "zh-hant": "三蜜蜂",
+  "fr": "Apitrini",
+  "de": "Wadribie",
+  "es": "Combee",
+  "it": "Combee",
+  "en": "Combee",
+  "ja": "ミツハニー",
+  "zh-hans": "三蜜蜂",
+  "es-419": "Combee"
+ },
+ "genus": {
+  "ja-hrkt": "はちのこポケモン",
+  "ko": "꼬마벌포켓몬",
+  "zh-hant": "幼蜂寶可夢",
+  "fr": "Pokémon Miniabeille",
+  "de": "Kleinbienen-Pokémon",
+  "es": "Pokémon Abejita",
+  "it": "Pokémon Apetta",
+  "en": "Tiny Bee Pokémon",
+  "ja": "はちのこポケモン",
+  "zh-hans": "幼蜂宝可梦",
+  "es-419": "Pokémon Abejita"
+ },
+ "flavor": {
+  "en": "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey.",
+  "ko": "새벽부터 저녁때까지 꿀을 계속 모은다. 모든 것은 무리와 비퀸을 위해서다."
+ },
+ "varieties": [
+  {
+   "name": "combee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "214"
+}

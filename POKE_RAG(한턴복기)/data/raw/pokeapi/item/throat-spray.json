@@ -1,0 +1,25 @@
+{
+ "name": "throat-spray",
+ "names": {
+  "ja-hrkt": "のどスプレー",
+  "ko": "목스프레이",
+  "zh-hant": "爽喉噴霧",
+  "fr": "Spray Gorge",
+  "de": "Halsspray",
+  "es": "Espray Bucal",
+  "it": "Spray gola",
+  "en": "Throat Spray",
+  "ja": "のどスプレー",
+  "zh-hans": "爽喉喷雾",
+  "es-419": "Espray Bucal"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "소리 기술을 사용하면 특수공격이 올라간다.",
+  "en": "Raises Sp. Atk when a Pokémon uses a sound-based move.",
+  "ja": "音に 関する 技を 使うと 特攻が 上がる。"
+ }
+}

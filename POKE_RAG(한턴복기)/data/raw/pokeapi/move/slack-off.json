@@ -1,0 +1,31 @@
+{
+ "name": "slack-off",
+ "names": {
+  "ja-hrkt": "なまける",
+  "ko": "게으름피우기",
+  "zh-hant": "偷懶",
+  "fr": "Paresse",
+  "de": "Tagedieb",
+  "es": "Relajo",
+  "it": "Pigro",
+  "en": "Slack Off",
+  "ja": "なまける",
+  "zh-hans": "偷懒",
+  "es-419": "Relajar"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slacks off, restoring its own HP by up to half its max HP.",
+  "ko": "게으름 피우며 쉰다. 자신의 HP를 최대 HP의 절반만큼 회복한다."
+ }
+}

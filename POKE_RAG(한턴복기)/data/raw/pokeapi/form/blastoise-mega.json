@@ -1,0 +1,23 @@
+{
+ "name": "blastoise-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Tortank",
+  "de": "Mega-Turtok",
+  "en": "Mega Blastoise"
+ },
+ "form_names": {
+  "ja-hrkt": "メガカメックス",
+  "ko": "메가거북왕",
+  "zh-hant": "超級水箭龜",
+  "fr": "Méga-Tortank",
+  "de": "Mega-Form",
+  "es": "Mega-Blastoise",
+  "it": "MegaBlastoise",
+  "en": "Mega Blastoise",
+  "ja": "メガカメックス",
+  "zh-hans": "超级水箭龟",
+  "es-419": "Mega-Blastoise"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,28 @@
+{
+ "name": "roller-skates",
+ "names": {
+  "ja-hrkt": "ローラースケート",
+  "ko": "롤러스케이트",
+  "zh-hant": "溜冰鞋",
+  "fr": "Rollers",
+  "de": "Rollerskates",
+  "es": "Patines",
+  "it": "Pattini",
+  "en": "Roller Skates",
+  "ja": "ローラースケート",
+  "zh-hans": "轮滑鞋",
+  "es-419": "Patines"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur de se déplacer rapidement et hors des sentiers battus.",
+  "en": "Allows the player to move quickly and off the grid."
+ },
+ "flavor": {
+  "ko": "신발 바닥에 롤러가 달려 있다. 지면을 활주하거나 트릭플레이를 할 수 있다.",
+  "en": "Attaches roller skates to the bottom of your shoes, allowing you to glide quickly around and perform tricks.",
+  "ja": "クツ底に ローラーが ついている。 地面を 滑走 したり トリックプレイを 決めたりできる。"
+ }
+}

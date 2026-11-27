@@ -1,0 +1,23 @@
+{
+ "name": "alakazam-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Alakazam",
+  "de": "Mega-Simsala",
+  "en": "Mega Alakazam"
+ },
+ "form_names": {
+  "ja-hrkt": "メガフーディン",
+  "ko": "메가후딘",
+  "zh-hant": "超級胡地",
+  "fr": "Méga-Alakazam",
+  "de": "Mega-Form",
+  "es": "Mega-Alakazam",
+  "it": "MegaAlakazam",
+  "en": "Mega Alakazam",
+  "ja": "メガフーディン",
+  "zh-hans": "超级胡地",
+  "es-419": "Mega-Alakazam"
+ },
+ "is_mega": true
+}

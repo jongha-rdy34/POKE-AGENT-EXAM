@@ -1,0 +1,46 @@
+{
+ "id": 211,
+ "name": "qwilfish",
+ "names": {
+  "ja-hrkt": "ハリーセン",
+  "ja-roma": "Harysen",
+  "ko": "침바루",
+  "zh-hant": "千針魚",
+  "fr": "Qwilfish",
+  "de": "Baldorfish",
+  "es": "Qwilfish",
+  "it": "Qwilfish",
+  "en": "Qwilfish",
+  "ja": "ハリーセン",
+  "zh-hans": "千针鱼",
+  "es-419": "Qwilfish"
+ },
+ "genus": {
+  "ja-hrkt": "ふうせんポケモン",
+  "ko": "풍선포켓몬",
+  "zh-hant": "氣球寶可夢",
+  "fr": "Pokémon Bouboule",
+  "de": "Ballon-Pokémon",
+  "es": "Pokémon Globo",
+  "it": "Pokémon Pallone",
+  "en": "Balloon Pokémon",
+  "ja": "ふうせんポケモン",
+  "zh-hans": "气球宝可梦",
+  "es-419": "Pokémon Globo"
+ },
+ "flavor": {
+  "en": "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions.",
+  "ko": "전신의 작은 바늘은 비늘이 변화한 것이다. 찔리면 독 때문에 정신을 잃게 된다."
+ },
+ "varieties": [
+  {
+   "name": "qwilfish",
+   "is_default": true
+  },
+  {
+   "name": "qwilfish-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "106"
+}

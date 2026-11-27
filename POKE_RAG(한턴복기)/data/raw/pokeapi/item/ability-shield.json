@@ -1,0 +1,20 @@
+{
+ "name": "ability-shield",
+ "names": {
+  "ja-hrkt": "とくせいガード",
+  "ko": "특성가드",
+  "zh-hant": "特性護具",
+  "fr": "Garde-Talent",
+  "de": "Fähigkeitenschild",
+  "es": "Escudo Habilidad",
+  "it": "Scudo abilità",
+  "en": "Ability Shield",
+  "ja": "とくせいガード",
+  "zh-hans": "特性护具"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

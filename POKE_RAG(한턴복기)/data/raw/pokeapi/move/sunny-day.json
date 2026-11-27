@@ -1,0 +1,31 @@
+{
+ "name": "sunny-day",
+ "names": {
+  "ja-hrkt": "にほんばれ",
+  "ko": "쾌청",
+  "zh-hant": "大晴天",
+  "fr": "Zénith",
+  "de": "Sonnentag",
+  "es": "Día Soleado",
+  "it": "Giornodisole",
+  "en": "Sunny Day",
+  "ja": "にほんばれ",
+  "zh-hans": "大晴天",
+  "es-419": "Día Soleado"
+ },
+ "type": "fire",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "entire-field",
+ "effect": {
+  "en": "Changes the weather to sunny for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user intensifies the sun for five turns, powering up Fire-type attacks. The sunlight also lowers the power of Water-type attacks.",
+  "ko": "5턴 동안 햇살을 강하게 해서 불꽃타입 기술의 위력을 올린다. 물타입의 위력은 떨어진다."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "mark-charm",
+ "names": {
+  "ja-hrkt": "あかしのおまもり",
+  "ko": "증표의부적",
+  "zh-hant": "證章護符",
+  "fr": "Charme Insigne",
+  "de": "Zeichenpin",
+  "es": "Amuleto Emblema",
+  "it": "Emblemamuleto",
+  "en": "Mark Charm",
+  "ja": "あかしのおまもり",
+  "zh-hans": "证章护符",
+  "es-419": "Amuleto Emblema"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "지니고 있으면 증표가 붙은 포켓몬과 만나기 쉬워지는 이상하고 개성적인 부적.",
+  "en": "A mysterious and unique charm that increases the chance of finding a Pokémon with a mark.",
+  "ja": "持っていると あかしが ついた ポケモンと 出会いやすくなる 不思議で 個性的な おまもり。"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "wandering-spirit",
+ "names": {
+  "ja-hrkt": "さまようたましい",
+  "ko": "떠도는영혼",
+  "zh-hant": "遊魂",
+  "fr": "Âme Vagabonde",
+  "de": "Rastlose Seele",
+  "es": "Alma Errante",
+  "it": "Anima Errante",
+  "en": "Wandering Spirit",
+  "ja": "さまようたましい",
+  "zh-hans": "游魂",
+  "es-419": "Alma Errante"
+ },
+ "effect": {
+  "en": "Swaps abilities with opponents on contact."
+ },
+ "flavor": {
+  "ko": "접촉하는 기술로 공격해온 포켓몬과 특성을 바꾼다.",
+  "en": "The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
+ }
+}

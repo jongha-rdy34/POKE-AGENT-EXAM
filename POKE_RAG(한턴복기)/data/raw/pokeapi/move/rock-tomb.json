@@ -1,0 +1,31 @@
+{
+ "name": "rock-tomb",
+ "names": {
+  "ja-hrkt": "がんせきふうじ",
+  "ko": "암석봉인",
+  "zh-hant": "岩石封鎖",
+  "fr": "Tomberoche",
+  "de": "Felsgrab",
+  "es": "Tumba Rocas",
+  "it": "Rocciotomba",
+  "en": "Rock Tomb",
+  "ja": "がんせきふうじ",
+  "zh-hans": "岩石封锁",
+  "es-419": "Tumba de Rocas"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement.",
+  "ko": "암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다."
+ }
+}

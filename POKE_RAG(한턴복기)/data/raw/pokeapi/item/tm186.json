@@ -1,0 +1,19 @@
+{
+ "name": "tm186",
+ "names": {
+  "ko": "기술머신186",
+  "zh-hant": "招式學習器１８６",
+  "fr": "CT186",
+  "de": "TM186",
+  "es": "MT186",
+  "it": "MT186",
+  "en": "TM186",
+  "ja": "わざマシン１８６",
+  "zh-hans": "招式学习器１８６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 368,
+ "name": "gorebyss",
+ "names": {
+  "ja-hrkt": "サクラビス",
+  "ja-roma": "Sakurabyss",
+  "ko": "분홍장이",
+  "zh-hant": "櫻花魚",
+  "fr": "Rosabyss",
+  "de": "Saganabyss",
+  "es": "Gorebyss",
+  "it": "Gorebyss",
+  "en": "Gorebyss",
+  "ja": "サクラビス",
+  "zh-hans": "樱花鱼",
+  "es-419": "Gorebyss"
+ },
+ "genus": {
+  "ja-hrkt": "なんかいポケモン",
+  "ko": "남해포켓몬",
+  "zh-hant": "南海寶可夢",
+  "fr": "Pokémon Mer du Sud",
+  "de": "Südsee",
+  "es": "Pokémon Mar del Sur",
+  "it": "Pokémon Sudmarino",
+  "en": "South Sea Pokémon",
+  "ja": "なんかいポケモン",
+  "zh-hans": "南海宝可梦",
+  "es-419": "Pokémon Mar del Sur"
+ },
+ "flavor": {
+  "en": "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon.",
+  "ko": "먹이의 체액을 빨아들인다. 고기는 바다 밑으로 가라앉아 다른 포켓몬의 먹이가 된다."
+ },
+ "varieties": [
+  {
+   "name": "gorebyss",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "188"
+}

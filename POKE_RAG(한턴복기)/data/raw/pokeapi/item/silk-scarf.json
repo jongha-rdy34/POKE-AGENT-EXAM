@@ -1,0 +1,31 @@
+{
+ "name": "silk-scarf",
+ "names": {
+  "ja-hrkt": "シルクのスカーフ",
+  "ko": "실크스카프",
+  "zh-hant": "絲綢圍巾",
+  "fr": "Mouchoir Soie",
+  "de": "Seidenschal",
+  "es": "Pañuelo de Seda",
+  "it": "Sciarpa Seta",
+  "en": "Silk Scarf",
+  "ja": "シルクのスカーフ",
+  "zh-hans": "丝绸围巾",
+  "es-419": "Pañuelo de Seda"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Normal du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Normal-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a sumptuous scarf that boosts the power of Normal-type moves.",
+  "ko": "감촉이 좋은 스카프. 지니게 하면 노말타입 기술의 위력이 올라간다.",
+  "ja": "はだざわりの よい スカーフ。 持たせると ノーマルタイプの 技の 威力が あがる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "stuff-cheeks",
+ "names": {
+  "ja-hrkt": "ほおばる",
+  "ko": "볼가득넣기",
+  "zh-hant": "大快朵頤",
+  "fr": "Garde-à-Joues",
+  "de": "Backenstopfer",
+  "es": "Atiborramiento",
+  "it": "Riempiguance",
+  "en": "Stuff Cheeks",
+  "ja": "ほおばる",
+  "zh-hans": "大快朵颐",
+  "es-419": "Atiborramiento"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User consumes berry and raises its defense by 2 stages."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "지니고 있는 나무열매를 먹고 방어를 크게 올린다.",
+  "en": "The user eats its held Berry, then sharply boosts its Defense stat."
+ }
+}

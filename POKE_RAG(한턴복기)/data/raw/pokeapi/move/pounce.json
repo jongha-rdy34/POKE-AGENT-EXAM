@@ -1,0 +1,28 @@
+{
+ "name": "pounce",
+ "names": {
+  "ja-hrkt": "とびつく",
+  "ko": "달려들기",
+  "zh-hant": "蟲撲",
+  "fr": "Bond",
+  "de": "Anspringen",
+  "es": "Brinco",
+  "it": "Balzo",
+  "en": "Pounce",
+  "ja": "とびつく",
+  "zh-hans": "虫扑",
+  "es-419": "Brinco"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by pouncing on the target. This also lowers the target's Speed stat."
+ }
+}

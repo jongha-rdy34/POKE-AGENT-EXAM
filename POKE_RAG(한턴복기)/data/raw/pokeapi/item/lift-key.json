@@ -1,0 +1,28 @@
+{
+ "name": "lift-key",
+ "names": {
+  "ja-hrkt": "エレベータのカギ",
+  "ko": "엘리베이터열쇠",
+  "zh-hant": "電梯鑰匙",
+  "fr": "Clé Ascenseur",
+  "de": "Aufzugsschlüssel",
+  "es": "Llave Ascensor",
+  "it": "Chiave ascensore",
+  "en": "Lift Key",
+  "ja": "エレベータのカギ",
+  "zh-hans": "电梯钥匙",
+  "es-419": "Llave Ascensor"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Met en marche l'ascenseur du Repaire Rocket de Céladopole.",
+  "en": "Operates the elevator in Team Rocket’s Celadon Hideout."
+ },
+ "flavor": {
+  "en": "A key that operates the elevator in the Team Rocket Hideout. It bears the Team Rocket logo.",
+  "ko": "로켓단아지트에 있는 엘리베이터를 작동시키는 열쇠. 로켓단의 마크가 새겨져 있다.",
+  "ja": "ロケット団 アジトに ある エレベータを 動かす カギ。 ロケット団の マーク入り。"
+ }
+}

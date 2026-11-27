@@ -1,0 +1,20 @@
+{
+ "name": "wellspring-mask",
+ "names": {
+  "ja-hrkt": "いどのめん",
+  "ko": "우물의가면",
+  "zh-hant": "水井面具",
+  "fr": "Masque du Puits",
+  "de": "Brunnenmaske",
+  "es": "Máscara Fuente",
+  "it": "Maschera Pozzo",
+  "en": "Wellspring Mask",
+  "ja": "いどのめん",
+  "zh-hans": "水井面具"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

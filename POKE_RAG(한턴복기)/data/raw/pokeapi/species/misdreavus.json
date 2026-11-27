@@ -1,0 +1,42 @@
+{
+ "id": 200,
+ "name": "misdreavus",
+ "names": {
+  "ja-hrkt": "ムウマ",
+  "ja-roma": "Muma",
+  "ko": "무우마",
+  "zh-hant": "夢妖",
+  "fr": "Feuforêve",
+  "de": "Traunfugil",
+  "es": "Misdreavus",
+  "it": "Misdreavus",
+  "en": "Misdreavus",
+  "ja": "ムウマ",
+  "zh-hans": "梦妖",
+  "es-419": "Misdreavus"
+ },
+ "genus": {
+  "ja-hrkt": "よなきポケモン",
+  "ko": "야명포켓몬",
+  "zh-hant": "夜啼寶可夢",
+  "fr": "Pokémon Strident",
+  "de": "Kreischer",
+  "es": "Pokémon Chirrido",
+  "it": "Pokémon Strido",
+  "en": "Screech Pokémon",
+  "ja": "よなきポケモン",
+  "zh-hans": "夜啼宝可梦",
+  "es-419": "Pokémon Chirrido"
+ },
+ "flavor": {
+  "en": "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light.",
+  "ko": "사람이 울부짖는 소리를 흉내 내 모두를 겁주고 기뻐한다. 담력이 강한 상대는 좋아하지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "misdreavus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "98"
+}

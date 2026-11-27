@@ -1,0 +1,23 @@
+{
+ "name": "sticky-hold",
+ "names": {
+  "ja-hrkt": "ねんちゃく",
+  "ko": "점착",
+  "zh-hant": "黏著",
+  "fr": "Glu",
+  "de": "Klebekörper",
+  "es": "Viscosidad",
+  "it": "Antifurto",
+  "en": "Sticky Hold",
+  "ja": "ねんちゃく",
+  "zh-hans": "黏着",
+  "es-419": "Viscosidad"
+ },
+ "effect": {
+  "en": "Prevents a held item from being removed by other Pokémon."
+ },
+ "flavor": {
+  "en": "The Pokémon's held items cling to its sticky body and cannot be removed by other Pokémon.",
+  "ko": "점착질의 몸에 도구가 달라붙어 있어 상대에게 도구를 뺏기지 않는다."
+ }
+}

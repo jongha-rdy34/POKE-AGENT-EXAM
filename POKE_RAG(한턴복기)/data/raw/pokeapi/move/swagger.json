@@ -1,0 +1,31 @@
+{
+ "name": "swagger",
+ "names": {
+  "ja-hrkt": "いばる",
+  "ko": "뽐내기",
+  "zh-hant": "虛張聲勢",
+  "fr": "Vantardise",
+  "de": "Angeberei",
+  "es": "Fanfarronear",
+  "it": "Bullo",
+  "en": "Swagger",
+  "ja": "いばる",
+  "zh-hans": "虚张声势",
+  "es-419": "Fanfarronear"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 85,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Raises the target’s Attack by two stages and confuses the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user enrages and confuses the target. However, this also sharply boosts the target's Attack stat.",
+  "ko": "상대를 화내게 해서 혼란시킨다. 분노로 상대의 공격은 크게 올라가 버린다."
+ }
+}

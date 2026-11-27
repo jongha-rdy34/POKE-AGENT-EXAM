@@ -1,0 +1,37 @@
+{
+ "id": 940,
+ "name": "wattrel",
+ "names": {
+  "ja-hrkt": "カイデン",
+  "ja-roma": "Kaiden",
+  "ko": "찌리비",
+  "zh-hant": "電海燕",
+  "fr": "Zapétrel",
+  "de": "Voltrel",
+  "es": "Wattrel",
+  "it": "Wattrel",
+  "en": "Wattrel",
+  "ja": "カイデン",
+  "zh-hans": "电海燕",
+  "es-419": "Wattrel"
+ },
+ "genus": {
+  "ja-hrkt": "うみつばめポケモン",
+  "ko": "바다제비포켓몬",
+  "zh-hant": "海燕寶可夢",
+  "fr": "Océanite",
+  "de": "Sturmvogel",
+  "en": "Storm Petrel Pokémon",
+  "zh-hans": "海燕宝可梦"
+ },
+ "flavor": {
+  "en": "These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they’re a popular delicacy."
+ },
+ "varieties": [
+  {
+   "name": "wattrel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "492"
+}

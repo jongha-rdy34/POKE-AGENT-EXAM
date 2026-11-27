@@ -1,0 +1,42 @@
+{
+ "id": 725,
+ "name": "litten",
+ "names": {
+  "ja-hrkt": "ニャビー",
+  "ja-roma": "Nyabby",
+  "ko": "냐오불",
+  "zh-hant": "火斑喵",
+  "fr": "Flamiaou",
+  "de": "Flamiau",
+  "es": "Litten",
+  "it": "Litten",
+  "en": "Litten",
+  "ja": "ニャビー",
+  "zh-hans": "火斑喵",
+  "es-419": "Litten"
+ },
+ "genus": {
+  "ja-hrkt": "ひねこポケモン",
+  "ko": "불고양이포켓몬",
+  "zh-hant": "火貓寶可夢",
+  "fr": "Pokémon Chat Feu",
+  "de": "Feuerkatzen-Pokémon",
+  "es": "Pokémon Gato Fuego",
+  "it": "Pokémon Pirofelino",
+  "en": "Fire Cat Pokémon",
+  "ja": "ひねこポケモン",
+  "zh-hans": "火猫宝可梦",
+  "es-419": "Pokémon Gato Fuego"
+ },
+ "flavor": {
+  "ko": "냐오불에게 신뢰받기 전에 쓰다듬으려고 하면 날카로운 발톱으로 심하게 할퀴니 주의가 필요하다.",
+  "en": "Trying to pet Litten before it trusts you will result in a nasty scratch from its sharp claws. Be careful."
+ },
+ "varieties": [
+  {
+   "name": "litten",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "375"
+}

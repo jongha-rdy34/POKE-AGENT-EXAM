@@ -1,0 +1,42 @@
+{
+ "id": 241,
+ "name": "miltank",
+ "names": {
+  "ja-hrkt": "ミルタンク",
+  "ja-roma": "Miltank",
+  "ko": "밀탱크",
+  "zh-hant": "大奶罐",
+  "fr": "Écrémeuh",
+  "de": "Miltank",
+  "es": "Miltank",
+  "it": "Miltank",
+  "en": "Miltank",
+  "ja": "ミルタンク",
+  "zh-hans": "大奶罐",
+  "es-419": "Miltank"
+ },
+ "genus": {
+  "ja-hrkt": "ちちうしポケモン",
+  "ko": "젖소포켓몬",
+  "zh-hant": "乳牛寶可夢",
+  "fr": "Pokémon Vachalait",
+  "de": "Milchkuh-Pokémon",
+  "es": "Pokémon Lechera",
+  "it": "Pokémon Bovino",
+  "en": "Milk Cow Pokémon",
+  "ja": "ちちうしポケモン",
+  "zh-hans": "奶牛宝可梦",
+  "es-419": "Pokémon Lechera"
+ },
+ "flavor": {
+  "en": "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.",
+  "ko": "매일 우유를 짜지 않으면 컨디션이 나빠진다. 우유의 맛은 계절에 따라 다르다."
+ },
+ "varieties": [
+  {
+   "name": "miltank",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "122"
+}

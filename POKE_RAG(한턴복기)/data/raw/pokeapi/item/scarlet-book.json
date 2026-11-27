@@ -1,0 +1,20 @@
+{
+ "name": "scarlet-book",
+ "names": {
+  "ja-hrkt": "スカーレットブック",
+  "ko": "스칼렛북",
+  "zh-hant": "朱之書",
+  "fr": "Livre Écarlate",
+  "de": "Karmesinbuch",
+  "es": "Libro Escarlata",
+  "it": "Libro scarlatto",
+  "en": "Scarlet Book",
+  "ja": "スカーレットブック",
+  "zh-hans": "朱之书"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,22 @@
+{
+ "name": "purifying-salt",
+ "names": {
+  "ja-hrkt": "きよめのしお",
+  "ko": "정화의소금",
+  "zh-hant": "潔淨之鹽",
+  "fr": "Sel Purificateur",
+  "de": "Läutersalz",
+  "es": "Sal Purificadora",
+  "it": "Sale Purificante",
+  "en": "Purifying Salt",
+  "ja": "きよめのしお",
+  "zh-hans": "洁净之盐",
+  "es-419": "Sal Purificadora"
+ },
+ "effect": {
+  "en": "Protects from status conditions and halves damage from Ghost-type moves."
+ },
+ "flavor": {
+  "en": "The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "radiant-petal",
+ "names": {
+  "ja-hrkt": "かがやくはなびら",
+  "ko": "빛나는꽃잎",
+  "zh-hant": "光輝花瓣",
+  "fr": "Pétale Brillant",
+  "de": "Kronblatt",
+  "es": "Pétalo Fulgor",
+  "it": "Petalo lucente",
+  "en": "Radiant Petal",
+  "ja": "かがやくはなびら",
+  "zh-hans": "光辉花瓣",
+  "es-419": "Pétalo Fulgor"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풍요의 왕에게서 받은 한 장의 꽃잎. 희미하게 빛을 내고 있다.",
+  "en": "A single petal that the King of Bountiful Harvests gave you. It radiates faint light.",
+  "ja": "豊穣の王 から もらった ひとひらの はなびら。 淡い ひかりを 放っている。"
+ }
+}

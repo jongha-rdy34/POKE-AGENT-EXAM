@@ -1,0 +1,37 @@
+{
+ "id": 920,
+ "name": "lokix",
+ "names": {
+  "ja-hrkt": "エクスレッグ",
+  "ja-roma": "Exleg",
+  "ko": "엑스레그",
+  "zh-hant": "烈腿蝗",
+  "fr": "Gambex",
+  "de": "Lextremo",
+  "es": "Lokix",
+  "it": "Lokix",
+  "en": "Lokix",
+  "ja": "エクスレッグ",
+  "zh-hans": "烈腿蝗",
+  "es-419": "Lokix"
+ },
+ "genus": {
+  "ja-hrkt": "バッタポケモン",
+  "ko": "메뚜기포켓몬",
+  "zh-hant": "蝗蟲寶可夢",
+  "fr": "Sauterelle",
+  "de": "Heuschrecke",
+  "en": "Grasshopper Pokémon",
+  "zh-hans": "蝗虫宝可梦"
+ },
+ "flavor": {
+  "en": "It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can’t stay in this mode for long."
+ },
+ "varieties": [
+  {
+   "name": "lokix",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "483"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "sheer-force",
+ "names": {
+  "ja-hrkt": "ちからずく",
+  "ko": "우격다짐",
+  "zh-hant": "強行",
+  "fr": "Sans Limite",
+  "de": "Rohe Gewalt",
+  "es": "Potencia Bruta",
+  "it": "Forzabruta",
+  "en": "Sheer Force",
+  "ja": "ちからずく",
+  "zh-hans": "强行",
+  "es-419": "Potencia Bruta"
+ },
+ "effect": {
+  "en": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+ },
+ "flavor": {
+  "en": "Removes any additional effects from the Pokémon's moves, but increases the moves' power.",
+  "ko": "기술의 추가 효과가 없어지지만 그만큼 높은 위력으로 기술을 사용할 수 있다."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tm127",
+ "names": {
+  "ja-hrkt": "わざマシン１２７",
+  "ko": "기술머신127",
+  "zh-hant": "招式學習器１２７",
+  "fr": "CT127",
+  "de": "TM127",
+  "es": "MT127",
+  "it": "MT127",
+  "en": "TM127",
+  "ja": "わざマシン１２７",
+  "zh-hans": "招式学习器１２７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

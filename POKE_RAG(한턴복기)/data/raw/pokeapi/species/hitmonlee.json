@@ -1,0 +1,42 @@
+{
+ "id": 106,
+ "name": "hitmonlee",
+ "names": {
+  "ja-hrkt": "サワムラー",
+  "ja-roma": "Sawamular",
+  "ko": "시라소몬",
+  "zh-hant": "飛腿郎",
+  "fr": "Kicklee",
+  "de": "Kicklee",
+  "es": "Hitmonlee",
+  "it": "Hitmonlee",
+  "en": "Hitmonlee",
+  "ja": "サワムラー",
+  "zh-hans": "飞腿郎",
+  "es-419": "Hitmonlee"
+ },
+ "genus": {
+  "ja-hrkt": "キックポケモン",
+  "ko": "킥포켓몬",
+  "zh-hant": "踢腿寶可夢",
+  "fr": "Pokémon Latteur",
+  "de": "Kicker-Pokémon",
+  "es": "Pokémon Patada",
+  "it": "Pokémon Tiracalci",
+  "en": "Kicking Pokémon",
+  "ja": "キックポケモン",
+  "zh-hans": "踢腿宝可梦",
+  "es-419": "Pokémon Patada"
+ },
+ "flavor": {
+  "en": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+  "ko": "다리를 자유자재로 늘이고 줄인다. 상대가 멀리 떨어져 있어도 다리를 늘여서 차올릴 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "hitmonlee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "47"
+}

@@ -1,0 +1,37 @@
+{
+ "id": 971,
+ "name": "greavard",
+ "names": {
+  "ja-hrkt": "ボチ",
+  "ja-roma": "Bochi",
+  "ko": "망망이",
+  "zh-hant": "墓仔狗",
+  "fr": "Toutombe",
+  "de": "Gruff",
+  "es": "Greavard",
+  "it": "Greavard",
+  "en": "Greavard",
+  "ja": "ボチ",
+  "zh-hans": "墓仔狗",
+  "es-419": "Greavard"
+ },
+ "genus": {
+  "ja-hrkt": "おばけいぬポケモン",
+  "ko": "유령개포켓몬",
+  "zh-hant": "鬼犬寶可夢",
+  "fr": "Fantôchien",
+  "de": "Geisterhund",
+  "en": "Ghost Dog Pokémon",
+  "zh-hans": "鬼犬宝可梦"
+ },
+ "flavor": {
+  "en": "This friendly Pokémon doesn’t like being alone. Pay it even the slightest bit of attention, and it will follow you forever."
+ },
+ "varieties": [
+  {
+   "name": "greavard",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "509"
+}

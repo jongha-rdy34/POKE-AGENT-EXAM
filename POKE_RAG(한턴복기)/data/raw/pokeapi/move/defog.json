@@ -1,0 +1,31 @@
+{
+ "name": "defog",
+ "names": {
+  "ja-hrkt": "きりばらい",
+  "ko": "안개제거",
+  "zh-hant": "清除濃霧",
+  "fr": "Anti-Brume",
+  "de": "Auflockern",
+  "es": "Despejar",
+  "it": "Scacciabruma",
+  "en": "Defog",
+  "ja": "きりばらい",
+  "zh-hans": "清除浓雾",
+  "es-419": "Desempañar"
+ },
+ "type": "flying",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s evasion by one stage.  Removes field effects from the enemy field."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness.",
+  "ko": "강한 바람으로 상대의 리플렉터나 빛의장막 등을 제거한다. 회피율도 떨어뜨린다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 269,
+ "name": "dustox",
+ "names": {
+  "ja-hrkt": "ドクケイル",
+  "ja-roma": "Dokucale",
+  "ko": "독케일",
+  "zh-hant": "毒粉蛾",
+  "fr": "Papinox",
+  "de": "Pudox",
+  "es": "Dustox",
+  "it": "Dustox",
+  "en": "Dustox",
+  "ja": "ドクケイル",
+  "zh-hans": "毒粉蛾",
+  "es-419": "Dustox"
+ },
+ "genus": {
+  "ja-hrkt": "どくがポケモン",
+  "ko": "독나방포켓몬",
+  "zh-hant": "毒蛾寶可夢",
+  "fr": "Pokémon Papipoison",
+  "de": "Giftmotte",
+  "es": "Pokémon Polilla Ven.",
+  "it": "Pokémon Velentarma",
+  "en": "Poison Moth Pokémon",
+  "ja": "どくがポケモン",
+  "zh-hans": "毒蛾宝可梦",
+  "es-419": "Pokémon Polilla Ven."
+ },
+ "flavor": {
+  "en": "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales.",
+  "ko": "날갯짓하면 미세한 가루가 날린다. 들이마시면 프로레슬러도 잠드는 맹독이다. 더듬이의 레이더로 먹이를 찾는다."
+ },
+ "varieties": [
+  {
+   "name": "dustox",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "135"
+}

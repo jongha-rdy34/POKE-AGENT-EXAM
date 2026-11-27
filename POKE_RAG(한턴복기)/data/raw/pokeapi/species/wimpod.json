@@ -1,0 +1,42 @@
+{
+ "id": 767,
+ "name": "wimpod",
+ "names": {
+  "ja-hrkt": "コソクムシ",
+  "ja-roma": "Kosokumushi",
+  "ko": "꼬시레",
+  "zh-hant": "膽小蟲",
+  "fr": "Sovkipou",
+  "de": "Reißlaus",
+  "es": "Wimpod",
+  "it": "Wimpod",
+  "en": "Wimpod",
+  "ja": "コソクムシ",
+  "zh-hans": "胆小虫",
+  "es-419": "Wimpod"
+ },
+ "genus": {
+  "ja-hrkt": "そうこうポケモン",
+  "ko": "주행포켓몬",
+  "zh-hant": "疾行寶可夢",
+  "fr": "Pokémon Cavaleur",
+  "de": "Laufschritt-Pokémon",
+  "es": "Pokémon Huidizo",
+  "it": "Pokémon Lestopode",
+  "en": "Turn Tail Pokémon",
+  "ja": "そうこうポケモン",
+  "zh-hans": "疾行宝可梦",
+  "es-419": "Pokémon Huidizo"
+ },
+ "flavor": {
+  "ko": "무리가 모여 다니며 항상 주위를 경계한다. 적의 기척을 느끼면 뿔뿔이 흩어져 도망간다.",
+  "en": "Wimpod gather in swarms, constantly on the lookout for danger. They scatter the moment they detect an enemy’s presence."
+ },
+ "varieties": [
+  {
+   "name": "wimpod",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "396"
+}

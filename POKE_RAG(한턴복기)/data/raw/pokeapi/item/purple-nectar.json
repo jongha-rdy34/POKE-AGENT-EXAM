@@ -1,0 +1,28 @@
+{
+ "name": "purple-nectar",
+ "names": {
+  "ja-hrkt": "むらさきのミツ",
+  "ko": "보라꿀",
+  "zh-hant": "蘭紫色花蜜",
+  "fr": "Nectar Mauve",
+  "de": "Purpurner Nektar",
+  "es": "Néctar Violeta",
+  "it": "Nettare viola",
+  "en": "Purple Nectar",
+  "ja": "むらさきのミツ",
+  "zh-hans": "兰紫色花蜜",
+  "es-419": "Néctar Violeta"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Change Plumeline en Style Buyō.",
+  "en": "Changes Oricorio to Sensu Style."
+ },
+ "flavor": {
+  "ko": "포니 화원에서 손에 넣은 꽃의 꿀. 특정 포켓몬의 모습을 바꾼다.",
+  "en": "A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.",
+  "ja": "ポニの花園で 手に入れた 花のミツ。 特定の ポケモンの 姿を 変える。"
+ }
+}

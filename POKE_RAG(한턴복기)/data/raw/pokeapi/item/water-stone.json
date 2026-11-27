@@ -1,0 +1,30 @@
+{
+ "name": "water-stone",
+ "names": {
+  "ja-hrkt": "みずのいし",
+  "ko": "물의돌",
+  "zh-hant": "水之石",
+  "fr": "Pierre Eau",
+  "de": "Wasserstein",
+  "es": "Piedra Agua",
+  "it": "Pietraidrica",
+  "en": "Water Stone",
+  "ja": "みずのいし",
+  "zh-hans": "水之石",
+  "es-419": "Piedra Agua"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Évoli en Aquali, un Lombre en Ludicolo, un Flotajou en Flotoutan, un Têtarte en Tartard, un Kokiyas en Crustabri, ou un Stari en Staross.",
+  "en": "Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It is the blue of a pool of clear water.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 투명한 푸른색을 띠고 있다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 澄んだ 水色を している。"
+ }
+}

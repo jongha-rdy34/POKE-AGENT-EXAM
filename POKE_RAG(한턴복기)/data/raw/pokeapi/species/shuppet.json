@@ -1,0 +1,42 @@
+{
+ "id": 353,
+ "name": "shuppet",
+ "names": {
+  "ja-hrkt": "カゲボウズ",
+  "ja-roma": "Kagebouzu",
+  "ko": "어둠대신",
+  "zh-hant": "怨影娃娃",
+  "fr": "Polichombr",
+  "de": "Shuppet",
+  "es": "Shuppet",
+  "it": "Shuppet",
+  "en": "Shuppet",
+  "ja": "カゲボウズ",
+  "zh-hans": "怨影娃娃",
+  "es-419": "Shuppet"
+ },
+ "genus": {
+  "ja-hrkt": "にんぎょうポケモン",
+  "ko": "인형포켓몬",
+  "zh-hant": "人偶寶可夢",
+  "fr": "Pokémon Poupée",
+  "de": "Puppe",
+  "es": "Pokémon Títere",
+  "it": "Pokémon Pupazzo",
+  "en": "Puppet Pokémon",
+  "ja": "にんぎょうポケモン",
+  "zh-hans": "人偶宝可梦",
+  "es-419": "Pokémon Títere"
+ },
+ "flavor": {
+  "en": "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
+  "ko": "해질녘에 어둠대신이 줄지어 있는 집과는 어울리지 말라는 오랜 속담이 남아 있다."
+ },
+ "varieties": [
+  {
+   "name": "shuppet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "181"
+}

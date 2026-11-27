@@ -1,0 +1,42 @@
+{
+ "id": 406,
+ "name": "budew",
+ "names": {
+  "ja-hrkt": "スボミー",
+  "ja-roma": "Subomie",
+  "ko": "꼬몽울",
+  "zh-hant": "含羞苞",
+  "fr": "Rozbouton",
+  "de": "Knospi",
+  "es": "Budew",
+  "it": "Budew",
+  "en": "Budew",
+  "ja": "スボミー",
+  "zh-hans": "含羞苞",
+  "es-419": "Budew"
+ },
+ "genus": {
+  "ja-hrkt": "つぼみポケモン",
+  "ko": "꽃봉오리포켓몬",
+  "zh-hant": "花苞寶可夢",
+  "fr": "Pokémon Bourgeon",
+  "de": "Knospen-Pokémon",
+  "es": "Pokémon Brote",
+  "it": "Pokémon Germoglio",
+  "en": "Bud Pokémon",
+  "ja": "つぼみポケモン",
+  "zh-hans": "花苞宝可梦",
+  "es-419": "Pokémon Brote"
+ },
+ "flavor": {
+  "en": "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun.",
+  "ko": "기온 변화에 민감하다. 봉오리가 피기 시작하면 곧 봄이 온다."
+ },
+ "varieties": [
+  {
+   "name": "budew",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "158"
+}

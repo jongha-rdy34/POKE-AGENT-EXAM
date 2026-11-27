@@ -1,0 +1,42 @@
+{
+ "id": 859,
+ "name": "impidimp",
+ "names": {
+  "ja-hrkt": "ベロバー",
+  "ja-roma": "Beroba",
+  "ko": "메롱꿍",
+  "zh-hant": "搗蛋小妖",
+  "fr": "Grimalin",
+  "de": "Bähmon",
+  "es": "Impidimp",
+  "it": "Impidimp",
+  "en": "Impidimp",
+  "ja": "ベロバー",
+  "zh-hans": "捣蛋小妖",
+  "es-419": "Impidimp"
+ },
+ "genus": {
+  "ja-hrkt": "いじわるポケモン",
+  "ko": "꾀부리기포켓몬",
+  "zh-hant": "捉弄寶可夢",
+  "fr": "Pokémon Malin",
+  "de": "Hinterlist-Pokémon",
+  "es": "Pokémon Astuto",
+  "it": "Pokémon Scaltro",
+  "en": "Wily Pokémon",
+  "ja": "いじわるポケモン",
+  "zh-hans": "捉弄宝可梦",
+  "es-419": "Pokémon Astuto"
+ },
+ "flavor": {
+  "ko": "민가에 숨어들어 도둑질을 하고 속상해하는 사람의 마이너스 에너지도 얻는다.",
+  "en": "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants."
+ },
+ "varieties": [
+  {
+   "name": "impidimp",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "451"
+}

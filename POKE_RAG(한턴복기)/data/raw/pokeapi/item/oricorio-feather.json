@@ -1,0 +1,20 @@
+{
+ "name": "oricorio-feather",
+ "names": {
+  "ja-hrkt": "オドリドリのはね",
+  "ko": "춤추새의깃털",
+  "zh-hant": "花舞鳥的羽毛",
+  "fr": "Plume de Plumeline",
+  "de": "Choreogel-Feder",
+  "es": "Pluma de Oricorio",
+  "it": "Penna di Oricorio",
+  "en": "Oricorio Feather",
+  "ja": "オドリドリのはね",
+  "zh-hans": "花舞鸟的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "shadow-tag",
+ "names": {
+  "ja-hrkt": "かげふみ",
+  "ko": "그림자밟기",
+  "zh-hant": "踩影",
+  "fr": "Marque Ombre",
+  "de": "Wegsperre",
+  "es": "Sombra Trampa",
+  "it": "Pedinombra",
+  "en": "Shadow Tag",
+  "ja": "かげふみ",
+  "zh-hans": "踩影",
+  "es-419": "Sombra Trampa"
+ },
+ "effect": {
+  "en": "Prevents opponents from fleeing or switching out."
+ },
+ "flavor": {
+  "en": "The Pokémon steps on the opposing Pokémon's shadows to prevent them from fleeing or switching out.",
+  "ko": "상대의 그림자를 밟아 도망치거나 교체할 수 없게 한다."
+ }
+}

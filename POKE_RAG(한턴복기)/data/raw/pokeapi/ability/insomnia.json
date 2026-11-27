@@ -1,0 +1,23 @@
+{
+ "name": "insomnia",
+ "names": {
+  "ja-hrkt": "ふみん",
+  "ko": "불면",
+  "zh-hant": "不眠",
+  "fr": "Insomnia",
+  "de": "Insomnia",
+  "es": "Insomnio",
+  "it": "Insonnia",
+  "en": "Insomnia",
+  "ja": "ふみん",
+  "zh-hans": "不眠",
+  "es-419": "Insomnio"
+ },
+ "effect": {
+  "en": "Prevents sleep."
+ },
+ "flavor": {
+  "en": "The Pokémon's insomnia prevents it from falling asleep.",
+  "ko": "잠들지 못하는 체질이라 잠듦 상태가 되지 않는다."
+ }
+}

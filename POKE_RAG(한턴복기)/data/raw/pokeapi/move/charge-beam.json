@@ -1,0 +1,31 @@
+{
+ "name": "charge-beam",
+ "names": {
+  "ja-hrkt": "チャージビーム",
+  "ko": "차지빔",
+  "zh-hant": "充電光束",
+  "fr": "Rayon Chargé",
+  "de": "Ladestrahl",
+  "es": "Rayo Carga",
+  "it": "Raggioscossa",
+  "en": "Charge Beam",
+  "ja": "チャージビーム",
+  "zh-hans": "充电光束",
+  "es-419": "Rayo Carga"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 50,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to raise the user’s Special Attack by one stage."
+ },
+ "effect_chance": 70,
+ "flavor": {
+  "en": "The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat.",
+  "ko": "전격의 다발을 상대에게 발사한다. 전기를 모아서 자신의 특수공격을 올릴 때가 있다."
+ }
+}

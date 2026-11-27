@@ -1,0 +1,46 @@
+{
+ "id": 652,
+ "name": "chesnaught",
+ "names": {
+  "ja-hrkt": "ブリガロン",
+  "ja-roma": "Brigarron",
+  "ko": "브리가론",
+  "zh-hant": "布里卡隆",
+  "fr": "Blindépique",
+  "de": "Brigaron",
+  "es": "Chesnaught",
+  "it": "Chesnaught",
+  "en": "Chesnaught",
+  "ja": "ブリガロン",
+  "zh-hans": "布里卡隆",
+  "es-419": "Chesnaught"
+ },
+ "genus": {
+  "ja-hrkt": "とげよろいポケモン",
+  "ko": "가시갑옷포켓몬",
+  "zh-hant": "刺鎧寶可夢",
+  "fr": "Pokémon Épinarmure",
+  "de": "Spitzpanzer",
+  "es": "Pokémon Corazaespín",
+  "it": "Pokémon Spincorazza",
+  "en": "Spiny Armor Pokémon",
+  "ja": "とげよろいポケモン",
+  "zh-hans": "刺铠宝可梦",
+  "es-419": "Pokémon Corazaespín"
+ },
+ "flavor": {
+  "ko": "얼굴 앞에 주먹을 맞대어 방어 포즈를 취하면 폭탄의 직격도 견뎌낸다.",
+  "en": "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast."
+ },
+ "varieties": [
+  {
+   "name": "chesnaught",
+   "is_default": true
+  },
+  {
+   "name": "chesnaught-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "337"
+}

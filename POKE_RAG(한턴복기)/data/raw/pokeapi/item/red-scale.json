@@ -1,0 +1,28 @@
+{
+ "name": "red-scale",
+ "names": {
+  "ja-hrkt": "あかいウロコ",
+  "ko": "빨간비늘",
+  "zh-hant": "紅色鱗片",
+  "fr": "Écaille Rouge",
+  "de": "Rote Schuppe",
+  "es": "Escama Roja",
+  "it": "Squama Rossa",
+  "en": "Red Scale",
+  "ja": "あかいウロコ",
+  "zh-hans": "红色鳞片",
+  "es-419": "Escama Roja"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger à M. Pokémon pour un Multi Exp.",
+  "en": "Trade to Mr. Pokémon for an Exp. Share."
+ },
+ "flavor": {
+  "en": "A scale from a red Gyarados. It glows red like a flame.",
+  "ko": "분노의 호수에 나타난 빨간 갸라도스의 비늘. 불꽃처럼 빨갛게 빛난다.",
+  "ja": "怒りの湖に あらわれた あかい ギャラドスの ウロコ。 ほのおのように あかく かがやく。"
+ }
+}

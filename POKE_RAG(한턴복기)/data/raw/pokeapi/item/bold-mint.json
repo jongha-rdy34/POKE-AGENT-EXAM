@@ -1,0 +1,25 @@
+{
+ "name": "bold-mint",
+ "names": {
+  "ja-hrkt": "ずぶといミント",
+  "ko": "대담민트",
+  "zh-hant": "大膽薄荷",
+  "fr": "Aromate Assuré",
+  "de": "Kühn-Minze",
+  "es": "Menta Osada",
+  "it": "Menta Sicura",
+  "en": "Bold Mint",
+  "ja": "ずぶといミント",
+  "zh-hans": "大胆薄荷",
+  "es-419": "Menta Osada"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 방어가 오르기 쉬워지지만 공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Defense will grow more easily, but its Attack will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 防御が 上がりやすく なるが 攻撃は 上がりにくくなる ミント。"
+ }
+}

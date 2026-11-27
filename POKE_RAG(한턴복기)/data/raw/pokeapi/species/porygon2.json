@@ -1,0 +1,42 @@
+{
+ "id": 233,
+ "name": "porygon2",
+ "names": {
+  "ja-hrkt": "ポリゴン２",
+  "ja-roma": "Porygon2",
+  "ko": "폴리곤2",
+  "zh-hant": "多邊獸Ⅱ",
+  "fr": "Porygon2",
+  "de": "Porygon2",
+  "es": "Porygon2",
+  "it": "Porygon2",
+  "en": "Porygon2",
+  "ja": "ポリゴン２",
+  "zh-hans": "多边兽２型",
+  "es-419": "Porygon2"
+ },
+ "genus": {
+  "ja-hrkt": "バーチャルポケモン",
+  "ko": "가상포켓몬",
+  "zh-hant": "虛擬寶可夢",
+  "fr": "Pokémon Virtuel",
+  "de": "Virtuell-Pokémon",
+  "es": "Pokémon Virtual",
+  "it": "Pokémon Virtuale",
+  "en": "Virtual Pokémon",
+  "ja": "バーチャルポケモン",
+  "zh-hans": "虚拟宝可梦",
+  "es-419": "Pokémon Virtual"
+ },
+ "flavor": {
+  "en": "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable.",
+  "ko": "AI 기능을 탑재한 결과 폴리곤2끼리만 통하는 수수께끼의 언어로 말하기 시작했다."
+ },
+ "varieties": [
+  {
+   "name": "porygon2",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "68"
+}

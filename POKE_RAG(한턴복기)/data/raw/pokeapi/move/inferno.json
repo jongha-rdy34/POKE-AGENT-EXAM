@@ -1,0 +1,31 @@
+{
+ "name": "inferno",
+ "names": {
+  "ja-hrkt": "れんごく",
+  "ko": "연옥",
+  "zh-hant": "煉獄",
+  "fr": "Feu d’Enfer",
+  "de": "Inferno",
+  "es": "Infierno",
+  "it": "Marchiatura",
+  "en": "Inferno",
+  "ja": "れんごく",
+  "zh-hans": "炼狱",
+  "es-419": "Infierno"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 100,
+ "accuracy": 50,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to burn the target."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.",
+  "ko": "격렬한 불꽃으로 상대를 둘러싸 공격한다. 화상 상태로 만든다."
+ }
+}

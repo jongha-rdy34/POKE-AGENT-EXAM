@@ -1,0 +1,33 @@
+{
+ "name": "black-flute",
+ "names": {
+  "ja-hrkt": "くろいビードロ",
+  "ko": "검정비드로",
+  "zh-hant": "黑色玻璃哨",
+  "fr": "Flûte Noire",
+  "de": "Schwarze Flöte",
+  "es": "Flauta Negra",
+  "it": "Flauto Nero",
+  "en": "Black Flute",
+  "ja": "くろいビードロ",
+  "zh-hans": "黑色玻璃哨",
+  "es-419": "Flauta Negra"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Divise par deux le taux de rencontres avec un Pokémon sauvage.",
+  "en": "Halves the wild Pokémon encounter rate."
+ },
+ "flavor": {
+  "en": "A flute made from black glass. It makes it easier to encounter strong Pokémon in the place you use it.",
+  "ko": "검은 유리로 만들어진 피리. 사용한 장소에서 강한 포켓몬과 만나기 쉬워진다.",
+  "ja": "黒いガラスで できた 笛。 使った 場所で 強いポケモンと 遭遇 しやすくなる。"
+ }
+}

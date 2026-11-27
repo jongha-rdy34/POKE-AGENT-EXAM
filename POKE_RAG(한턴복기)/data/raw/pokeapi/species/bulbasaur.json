@@ -1,0 +1,42 @@
+{
+ "id": 1,
+ "name": "bulbasaur",
+ "names": {
+  "ja-hrkt": "フシギダネ",
+  "ja-roma": "Fushigidane",
+  "ko": "이상해씨",
+  "zh-hant": "妙蛙種子",
+  "fr": "Bulbizarre",
+  "de": "Bisasam",
+  "es": "Bulbasaur",
+  "it": "Bulbasaur",
+  "en": "Bulbasaur",
+  "ja": "フシギダネ",
+  "zh-hans": "妙蛙种子",
+  "es-419": "Bulbasaur"
+ },
+ "genus": {
+  "ja-hrkt": "たねポケモン",
+  "ko": "씨앗포켓몬",
+  "zh-hant": "種子寶可夢",
+  "fr": "Pokémon Graine",
+  "de": "Samen-Pokémon",
+  "es": "Pokémon Semilla",
+  "it": "Pokémon Seme",
+  "en": "Seed Pokémon",
+  "ja": "たねポケモン",
+  "zh-hans": "种子宝可梦",
+  "es-419": "Pokémon Semilla"
+ },
+ "flavor": {
+  "en": "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.",
+  "ko": "태어나서 얼마 동안 등의 씨앗에 담긴 영양을 섭취하며 자란다."
+ },
+ "varieties": [
+  {
+   "name": "bulbasaur",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "1"
+}

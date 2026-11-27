@@ -1,0 +1,42 @@
+{
+ "id": 251,
+ "name": "celebi",
+ "names": {
+  "ja-hrkt": "セレビィ",
+  "ja-roma": "Celebi",
+  "ko": "세레비",
+  "zh-hant": "時拉比",
+  "fr": "Celebi",
+  "de": "Celebi",
+  "es": "Celebi",
+  "it": "Celebi",
+  "en": "Celebi",
+  "ja": "セレビィ",
+  "zh-hans": "时拉比",
+  "es-419": "Celebi"
+ },
+ "genus": {
+  "ja-hrkt": "ときわたりポケモン",
+  "ko": "시간이동포켓몬",
+  "zh-hant": "時空穿越寶可夢",
+  "fr": "Pokémon Temporel",
+  "de": "Zeitreise-Pokémon",
+  "es": "Pokémon Viajetiempo",
+  "it": "Pokémon Tempovia",
+  "en": "Time Travel Pokémon",
+  "ja": "ときわたりポケモン",
+  "zh-hans": "时空穿越宝可梦",
+  "es-419": "Pokémon Viajetiempo"
+ },
+ "flavor": {
+  "en": "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too.",
+  "ko": "미래에서 시간을 건너 찾아왔다. 상처를 치료하고 초목에 힘을 나누어준다."
+ },
+ "varieties": [
+  {
+   "name": "celebi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "129"
+}

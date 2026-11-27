@@ -1,0 +1,42 @@
+{
+ "id": 231,
+ "name": "phanpy",
+ "names": {
+  "ja-hrkt": "ゴマゾウ",
+  "ja-roma": "Gomazou",
+  "ko": "코코리",
+  "zh-hant": "小小象",
+  "fr": "Phanpy",
+  "de": "Phanpy",
+  "es": "Phanpy",
+  "it": "Phanpy",
+  "en": "Phanpy",
+  "ja": "ゴマゾウ",
+  "zh-hans": "小小象",
+  "es-419": "Phanpy"
+ },
+ "genus": {
+  "ja-hrkt": "ながはなポケモン",
+  "ko": "긴코포켓몬",
+  "zh-hant": "長鼻寶可夢",
+  "fr": "Pokémon Long-Nez",
+  "de": "Langrüssel",
+  "es": "Pokémon Narizotas",
+  "it": "Pokémon Nasone",
+  "en": "Long Nose Pokémon",
+  "ja": "ながはなポケモン",
+  "zh-hans": "长鼻宝可梦",
+  "es-419": "Pokémon Narizotas"
+ },
+ "flavor": {
+  "en": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
+  "ko": "긴 코를 써서 물을 끼얹는다. 동료가 모여들면 서로 물을 끼얹는다. 흠뻑 젖은 몸을 물가에서 말린다."
+ },
+ "varieties": [
+  {
+   "name": "phanpy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "119"
+}

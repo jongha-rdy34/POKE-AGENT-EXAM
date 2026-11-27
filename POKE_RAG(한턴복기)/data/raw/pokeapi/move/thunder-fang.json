@@ -1,0 +1,31 @@
+{
+ "name": "thunder-fang",
+ "names": {
+  "ja-hrkt": "かみなりのキバ",
+  "ko": "번개엄니",
+  "zh-hant": "雷電牙",
+  "fr": "Crocs Éclair",
+  "de": "Donnerzahn",
+  "es": "Colmillo Rayo",
+  "it": "Fulmindenti",
+  "en": "Thunder Fang",
+  "ja": "かみなりのキバ",
+  "zh-hans": "雷电牙",
+  "es-419": "Colmillo Trueno"
+ },
+ "type": "electric",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 95,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target and a chance to make the target flinch."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.",
+  "ko": "전기를 모은 이빨로 문다. 상대를 풀죽게 하거나 마비 상태로 만들 때가 있다."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 758,
+ "name": "salazzle",
+ "names": {
+  "ja-hrkt": "エンニュート",
+  "ja-roma": "Ennewt",
+  "ko": "염뉴트",
+  "zh-hant": "焰后蜥",
+  "fr": "Malamandre",
+  "de": "Amfira",
+  "es": "Salazzle",
+  "it": "Salazzle",
+  "en": "Salazzle",
+  "ja": "エンニュート",
+  "zh-hans": "焰后蜥",
+  "es-419": "Salazzle"
+ },
+ "genus": {
+  "ja-hrkt": "どくトカゲポケモン",
+  "ko": "독도마뱀포켓몬",
+  "zh-hant": "毒蜥寶可夢",
+  "fr": "Pokémon Toxilézard",
+  "de": "Giftechsen-Pokémon",
+  "es": "Pokémon Lagartoxina",
+  "it": "Pokémon Lucertossina",
+  "en": "Toxic Lizard Pokémon",
+  "ja": "どくトカゲポケモン",
+  "zh-hans": "毒蜥宝可梦",
+  "es-419": "Pokémon Lagartoxina"
+ },
+ "flavor": {
+  "ko": "염뉴트들의 싸움은 거느리고 있는 수컷 야도뇽의 수로 승패가 정해지는 듯하다.",
+  "en": "The winner of competitions between Salazzle is decided by which one has the most male Salandit with it."
+ },
+ "varieties": [
+  {
+   "name": "salazzle",
+   "is_default": true
+  },
+  {
+   "name": "salazzle-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "390"
+}

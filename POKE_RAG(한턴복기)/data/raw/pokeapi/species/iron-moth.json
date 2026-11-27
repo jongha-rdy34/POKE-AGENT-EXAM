@@ -1,0 +1,37 @@
+{
+ "id": 994,
+ "name": "iron-moth",
+ "names": {
+  "ja-hrkt": "テツノドクガ",
+  "ja-roma": "Tetsunodokuga",
+  "ko": "무쇠독나방",
+  "zh-hant": "鐵毒蛾",
+  "fr": "Mite-de-Fer",
+  "de": "Eisenfalter",
+  "es": "Ferropolilla",
+  "it": "Falenaferrea",
+  "en": "Iron Moth",
+  "ja": "テツノドクガ",
+  "zh-hans": "铁毒蛾",
+  "es-419": "Ferropolilla"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "No records exist of this species being caught. Data is lacking, but the Pokémon’s traits match up with an object described in an old book."
+ },
+ "varieties": [
+  {
+   "name": "iron-moth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "525"
+}

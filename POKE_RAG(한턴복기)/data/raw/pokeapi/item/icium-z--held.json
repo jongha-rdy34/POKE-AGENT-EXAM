@@ -1,0 +1,28 @@
+{
+ "name": "icium-z--held",
+ "names": {
+  "ja-hrkt": "コオリＺ",
+  "ko": "얼음Z",
+  "zh-hant": "冰Ｚ",
+  "fr": "Cryozélite",
+  "de": "Glacium Z",
+  "es": "Criostal Z",
+  "it": "Glacium Z",
+  "en": "Icium Z",
+  "ja": "コオリＺ",
+  "zh-hans": "冰Ｚ",
+  "es-419": "Criostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Glace.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 얼음타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Ice-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 こおりタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

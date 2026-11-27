@@ -1,0 +1,25 @@
+{
+ "name": "armorite-ore",
+ "names": {
+  "ja-hrkt": "ヨロイこうせき",
+  "ko": "갑옷광석",
+  "zh-hant": "鎧甲礦石",
+  "fr": "Armurium",
+  "de": "Rüstungserz",
+  "es": "Duralium",
+  "it": "Rocciarmatura",
+  "en": "Armorite Ore",
+  "ja": "ヨロイこうせき",
+  "zh-hans": "铠甲矿石",
+  "es-419": "Duralium"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "갑옷섬에서 얻을 수 있는 희귀한 광석. 갑옷섬의 컬렉터에게 주면 좋은 일이 일어난다.",
+  "en": "Rare ore that can be obtained on the Isle of Armor. Something good will happen if you give it to a collector on the Isle of Armor.",
+  "ja": "ヨロイ島で 採れる 珍しい石。 ヨロイ島の コレクターに あげると なにか いいことが ある。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm57",
+ "names": {
+  "ja-hrkt": "わざマシン５７",
+  "ko": "기술머신57",
+  "zh-hant": "招式學習器５７",
+  "fr": "CT57",
+  "de": "TM57",
+  "es": "MT57",
+  "it": "MT57",
+  "en": "TM57",
+  "ja": "わざマシン５７",
+  "zh-hans": "招式学习器５７",
+  "es-419": "MT57"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Rayon Chargé à un Pokémon compatible.",
+  "en": "Teaches Charge Beam to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.",
+  "ko": "모아서 공격한다. 상대보다 나중에 공격할 수 있으면 기술의 위력은 2배가 된다.",
+  "ja": "ためこんで 攻撃する。 相手より あとに 攻撃できると 技の 威力は ２倍に なる。"
+ }
+}

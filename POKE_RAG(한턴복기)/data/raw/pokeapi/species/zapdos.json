@@ -1,0 +1,46 @@
+{
+ "id": 145,
+ "name": "zapdos",
+ "names": {
+  "ja-hrkt": "サンダー",
+  "ja-roma": "Thunder",
+  "ko": "썬더",
+  "zh-hant": "閃電鳥",
+  "fr": "Électhor",
+  "de": "Zapdos",
+  "es": "Zapdos",
+  "it": "Zapdos",
+  "en": "Zapdos",
+  "ja": "サンダー",
+  "zh-hans": "闪电鸟",
+  "es-419": "Zapdos"
+ },
+ "genus": {
+  "ja-hrkt": "でんげきポケモン",
+  "ko": "전기포켓몬",
+  "zh-hant": "電擊寶可夢",
+  "fr": "Pokémon Électrique",
+  "de": "Elektro-Pokémon",
+  "es": "Pokémon Eléctrico",
+  "it": "Pokémon Elettrico",
+  "en": "Electric Pokémon",
+  "ja": "でんげきポケモン",
+  "zh-hans": "电击宝可梦",
+  "es-419": "Pokémon Eléctrico"
+ },
+ "flavor": {
+  "en": "Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after.",
+  "ko": "날개를 비비대면 바로 천둥이 친다고 전해지는 전설의 새포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "zapdos",
+   "is_default": true
+  },
+  {
+   "name": "zapdos-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "74"
+}

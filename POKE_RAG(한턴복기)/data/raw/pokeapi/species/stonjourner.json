@@ -1,0 +1,42 @@
+{
+ "id": 874,
+ "name": "stonjourner",
+ "names": {
+  "ja-hrkt": "イシヘンジン",
+  "ja-roma": "Ishihengin",
+  "ko": "돌헨진",
+  "zh-hant": "巨石丁",
+  "fr": "Dolman",
+  "de": "Humanolith",
+  "es": "Stonjourner",
+  "it": "Stonjourner",
+  "en": "Stonjourner",
+  "ja": "イシヘンジン",
+  "zh-hans": "巨石丁",
+  "es-419": "Stonjourner"
+ },
+ "genus": {
+  "ja-hrkt": "きょせきポケモン",
+  "ko": "거석포켓몬",
+  "zh-hant": "巨石寶可夢",
+  "fr": "Pokémon Mégalithe",
+  "de": "Megalithen-Pokémon",
+  "es": "Pokémon Megalito",
+  "it": "Pokémon Megalito",
+  "en": "Big Rock Pokémon",
+  "ja": "きょせきポケモン",
+  "zh-hans": "巨石宝可梦",
+  "es-419": "Pokémon Megalito"
+ },
+ "flavor": {
+  "ko": "1년에 1번 정해진 일시에 어디선가 모여 둥글게 늘어서는 습성이 있다.",
+  "en": "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle."
+ },
+ "varieties": [
+  {
+   "name": "stonjourner",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "456"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm44",
+ "names": {
+  "ja-hrkt": "わざマシン４４",
+  "ko": "기술머신44",
+  "zh-hant": "招式學習器４４",
+  "fr": "CT44",
+  "de": "TM44",
+  "es": "MT44",
+  "it": "MT44",
+  "en": "TM44",
+  "ja": "わざマシン４４",
+  "zh-hans": "招式学习器４４",
+  "es-419": "MT44"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Repos à un Pokémon compatible.",
+  "en": "Teaches Rest to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "If opposing Pokémon know any move also known by the user, they are prevented from using it.",
+  "ko": "상대가 자신과 같은 기술을 배웠다면 상대만 그 기술을 사용할 수 없게 한다.",
+  "ja": "相手が 自分と 同じ 技を おぼえていたら 相手だけ その技を 使えなくする。"
+ }
+}

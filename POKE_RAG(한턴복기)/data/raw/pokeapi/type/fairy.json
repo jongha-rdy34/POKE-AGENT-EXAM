@@ -1,0 +1,27 @@
+{
+ "name": "fairy",
+ "names": {
+  "ja-hrkt": "フェアリー",
+  "ko": "페어리",
+  "zh-hant": "妖精",
+  "fr": "Fée",
+  "de": "Fee",
+  "es": "Hada",
+  "it": "Folletto",
+  "en": "Fairy",
+  "ja": "フェアリー",
+  "zh-hans": "妖精",
+  "es-419": "Hada"
+ },
+ "double_to": [
+  "fighting",
+  "dragon",
+  "dark"
+ ],
+ "half_to": [
+  "poison",
+  "steel",
+  "fire"
+ ],
+ "zero_to": []
+}

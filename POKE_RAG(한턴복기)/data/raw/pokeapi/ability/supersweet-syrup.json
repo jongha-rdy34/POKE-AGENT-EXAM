@@ -1,0 +1,22 @@
+{
+ "name": "supersweet-syrup",
+ "names": {
+  "ja-hrkt": "かんろなミツ",
+  "ko": "감미로운꿀",
+  "zh-hant": "甘露之蜜",
+  "fr": "Nectar Mielleux",
+  "de": "Süßer Nektar",
+  "es": "Néctar Dulce",
+  "it": "Sciroppo Sublime",
+  "en": "Supersweet Syrup",
+  "ja": "かんろなミツ",
+  "zh-hans": "甘露之蜜",
+  "es-419": "Néctar Dulce"
+ },
+ "effect": {
+  "en": "Once per battle, when a Pokémon with Supersweet Syrup enters the battle, it lowers the evasion stat of all adjacent opponents by one stage. "
+ },
+ "flavor": {
+  "en": "Lowers the evasion of opposing Pokémon by 1 stage when first sent into battle"
+ }
+}

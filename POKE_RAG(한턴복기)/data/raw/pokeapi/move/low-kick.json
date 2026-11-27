@@ -1,0 +1,31 @@
+{
+ "name": "low-kick",
+ "names": {
+  "ja-hrkt": "けたぐり",
+  "ko": "안다리걸기",
+  "zh-hant": "踢倒",
+  "fr": "Balayage",
+  "de": "Fußkick",
+  "es": "Patada Baja",
+  "it": "Colpo Basso",
+  "en": "Low Kick",
+  "ja": "けたぐり",
+  "zh-hans": "踢倒",
+  "es-419": "Patada Baja"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts more damage to heavier targets, with a maximum of 120 power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A powerful low kick that makes the target fall over. The heavier the target, the greater the move's power.",
+  "ko": "발을 강하게 걸고 상대를 넘어뜨려 공격한다. 상대가 무거울수록 위력이 올라간다."
+ }
+}

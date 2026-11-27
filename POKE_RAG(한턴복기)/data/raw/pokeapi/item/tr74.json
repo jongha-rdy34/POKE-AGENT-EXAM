@@ -1,0 +1,25 @@
+{
+ "name": "tr74",
+ "names": {
+  "ja-hrkt": "わざレコード７４",
+  "ko": "기술레코드74",
+  "zh-hant": "招式紀錄７４",
+  "fr": "DT74",
+  "de": "TP74",
+  "es": "DT74",
+  "it": "DT74",
+  "en": "TR74",
+  "ja": "わざレコード７４",
+  "zh-hans": "招式记录７４",
+  "es-419": "DT74"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강철과 같은 단단한 머리로 공격한다. 상대를 풀죽게 만들 때가 있다.",
+  "en": "The user slams the target with its steel-hard head. This may also make the target flinch.",
+  "ja": "鋼の ような 硬い 頭で 攻撃する。 相手を ひるませることが ある。"
+ }
+}

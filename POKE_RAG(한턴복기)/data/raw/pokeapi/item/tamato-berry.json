@@ -1,0 +1,28 @@
+{
+ "name": "tamato-berry",
+ "names": {
+  "ja-hrkt": "マトマのみ",
+  "ko": "토망열매",
+  "zh-hant": "茄番果",
+  "fr": "Baie Tamato",
+  "de": "Tamotbeere",
+  "es": "Baya Tamate",
+  "it": "Baccamodoro",
+  "en": "Tamato Berry",
+  "ja": "マトマのみ",
+  "zh-hans": "茄番果",
+  "es-419": "Baya Tamate"
+ },
+ "category": "effort-drop",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Diminue les EV de Vitesse de 10 et augmente le bonheur.",
+  "en": "Drops Speed Effort Values by 10 and raises happiness."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. Using it on a Pokémon makes it more friendly but lowers its Speed base points.",
+  "ko": "포켓몬에게 주면 매우 친밀해지기 쉬워지지만 스피드의 기초 포인트가 떨어진다.",
+  "ja": "ポケモンに あげると とても なかよく なりやすくなるが 素早さの 基礎ポイントは さがる。"
+ }
+}

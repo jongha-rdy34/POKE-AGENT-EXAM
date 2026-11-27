@@ -1,0 +1,46 @@
+{
+ "id": 861,
+ "name": "grimmsnarl",
+ "names": {
+  "ja-hrkt": "オーロンゲ",
+  "ja-roma": "Ohlonge",
+  "ko": "오롱털",
+  "zh-hant": "長毛巨魔",
+  "fr": "Angoliath",
+  "de": "Olangaar",
+  "es": "Grimmsnarl",
+  "it": "Grimmsnarl",
+  "en": "Grimmsnarl",
+  "ja": "オーロンゲ",
+  "zh-hans": "长毛巨魔",
+  "es-419": "Grimmsnarl"
+ },
+ "genus": {
+  "ja-hrkt": "ビルドアップポケモン",
+  "ko": "벌크업포켓몬",
+  "zh-hant": "健美寶可夢",
+  "fr": "Pokémon Gonflette",
+  "de": "Muskelaufbau-Pokémon",
+  "es": "Pokémon Voluminoso",
+  "it": "Pokémon Granfisico",
+  "en": "Bulk Up Pokémon",
+  "ja": "ビルドアップポケモン",
+  "zh-hans": "健美宝可梦",
+  "es-419": "Pokémon Voluminoso"
+ },
+ "flavor": {
+  "ko": "머리카락은 근섬유의 역할을 하며 매듭이 풀어지면 촉수와 같은 움직임으로 상대를 묶어버린다.",
+  "en": "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would."
+ },
+ "varieties": [
+  {
+   "name": "grimmsnarl",
+   "is_default": true
+  },
+  {
+   "name": "grimmsnarl-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "451"
+}

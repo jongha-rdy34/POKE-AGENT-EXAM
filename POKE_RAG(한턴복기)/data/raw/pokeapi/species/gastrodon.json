@@ -1,0 +1,42 @@
+{
+ "id": 423,
+ "name": "gastrodon",
+ "names": {
+  "ja-hrkt": "トリトドン",
+  "ja-roma": "Tritodon",
+  "ko": "트리토돈",
+  "zh-hant": "海兔獸",
+  "fr": "Tritosor",
+  "de": "Gastrodon",
+  "es": "Gastrodon",
+  "it": "Gastrodon",
+  "en": "Gastrodon",
+  "ja": "トリトドン",
+  "zh-hans": "海兔兽",
+  "es-419": "Gastrodon"
+ },
+ "genus": {
+  "ja-hrkt": "ウミウシポケモン",
+  "ko": "갯민숭달팽이포켓몬",
+  "zh-hant": "海兔寶可夢",
+  "fr": "Pokémon Aqualimace",
+  "de": "Seeschnecken-Pokémon",
+  "es": "Pokémon Babosa Marina",
+  "it": "Pokémon Lumacomare",
+  "en": "Sea Slug Pokémon",
+  "ja": "ウミウシポケモン",
+  "zh-hans": "海兔宝可梦",
+  "es-419": "Pokémon Babosa Marina"
+ },
+ "flavor": {
+  "en": "Eats beach sand for nourishment. Should one Gastrodon encounter another of a different color, a fierce battle will inevitably ensue.",
+  "ko": "흐물흐물한 몸이지만 제법 튼튼하다. 부드러워서 충격을 분산시킨다."
+ },
+ "varieties": [
+  {
+   "name": "gastrodon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "218"
+}

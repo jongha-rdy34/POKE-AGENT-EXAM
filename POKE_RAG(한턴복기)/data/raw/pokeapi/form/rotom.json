@@ -1,0 +1,22 @@
+{
+ "name": "rotom",
+ "form_name": "",
+ "names": {
+  "fr": "Motisma",
+  "de": "Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "ロトムのすがた",
+  "ko": "로토무의 모습",
+  "zh-hant": "洛托姆的樣子",
+  "fr": "Forme de Motisma",
+  "de": "Rotom",
+  "es": "Forma de Rotom",
+  "it": "Forma Rotom",
+  "en": "Rotom",
+  "ja": "ロトムのすがた",
+  "zh-hans": "洛托姆的样子",
+  "es-419": "Forma de Rotom"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,28 @@
+{
+ "name": "last-respects",
+ "names": {
+  "ja-hrkt": "おはかまいり",
+  "ko": "성묘",
+  "zh-hant": "掃墓",
+  "fr": "Hommage Posthume",
+  "de": "Letzte Ehre",
+  "es": "Homenaje Póstumo",
+  "it": "Omaggio ai KO",
+  "en": "Last Respects",
+  "ja": "おはかまいり",
+  "zh-hans": "扫墓",
+  "es-419": "Homenaje Póstumo"
+ },
+ "type": "ghost",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
+ }
+}

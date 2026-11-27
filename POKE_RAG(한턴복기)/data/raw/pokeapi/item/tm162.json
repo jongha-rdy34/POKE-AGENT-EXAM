@@ -1,0 +1,20 @@
+{
+ "name": "tm162",
+ "names": {
+  "ja-hrkt": "わざマシン１６２",
+  "ko": "기술머신162",
+  "zh-hant": "招式學習器１６２",
+  "fr": "CT162",
+  "de": "TM162",
+  "es": "MT162",
+  "it": "MT162",
+  "en": "TM162",
+  "ja": "わざマシン１６２",
+  "zh-hans": "招式学习器１６２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

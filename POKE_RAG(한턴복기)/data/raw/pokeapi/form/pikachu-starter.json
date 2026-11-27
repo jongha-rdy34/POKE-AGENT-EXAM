@@ -1,0 +1,13 @@
+{
+ "name": "pikachu-starter",
+ "form_name": "starter",
+ "names": {
+  "fr": "Pikachu Partenaire",
+  "de": "Partner Pikachu",
+  "en": "Partner Pikachu"
+ },
+ "form_names": {
+  "de": "Partnerform"
+ },
+ "is_mega": false
+}

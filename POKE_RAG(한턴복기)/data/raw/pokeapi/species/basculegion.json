@@ -1,0 +1,43 @@
+{
+ "id": 902,
+ "name": "basculegion",
+ "names": {
+  "ja-hrkt": "イダイトウ",
+  "ja-roma": "Idaitou",
+  "ko": "대쓰여너",
+  "zh-hant": "幽尾玄魚",
+  "fr": "Paragruel",
+  "de": "Salmagnis",
+  "es": "Basculegion",
+  "it": "Basculegion",
+  "en": "Basculegion",
+  "ja": "イダイトウ",
+  "zh-hans": "幽尾玄鱼",
+  "es-419": "Basculegion"
+ },
+ "genus": {
+  "ja-hrkt": "おおうおポケモン",
+  "ko": "큰물고기포켓몬",
+  "zh-hant": "大魚寶可夢",
+  "fr": "Pokémon Poissigrand",
+  "de": "Großfisch-Pokémon",
+  "it": "Pokémon Pescegrosso",
+  "en": "Big Fish Pokémon",
+  "ja": "おおうおポケモン",
+  "zh-hans": "大鱼宝可梦"
+ },
+ "flavor": {
+  "en": "Clads itself in the souls of comrades that perished before fulfilling their goals of journeying upstream. No other species throughout all Hisui's rivers is Basculegion's equal."
+ },
+ "varieties": [
+  {
+   "name": "basculegion-male",
+   "is_default": true
+  },
+  {
+   "name": "basculegion-female",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "280"
+}

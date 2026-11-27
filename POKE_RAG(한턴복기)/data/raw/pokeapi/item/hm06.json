@@ -1,0 +1,28 @@
+{
+ "name": "hm06",
+ "names": {
+  "ja-hrkt": "ひでんマシン０６",
+  "ko": "비전머신06",
+  "zh-hant": "秘傳學習器０６",
+  "fr": "CS06",
+  "de": "VM06",
+  "es": "MO06",
+  "it": "MN06",
+  "en": "HM06",
+  "ja": "ひでんマシン０６",
+  "zh-hans": "秘传学习器０６",
+  "es-419": "MO06"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Plongée à un Pokémon compatible. (Gén IV & III: Éclate-Roc Gen II: Siphon)",
+  "en": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)"
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

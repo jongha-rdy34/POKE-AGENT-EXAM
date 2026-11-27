@@ -1,0 +1,31 @@
+{
+ "name": "bounce",
+ "names": {
+  "ja-hrkt": "とびはねる",
+  "ko": "뛰어오르기",
+  "zh-hant": "彈跳",
+  "fr": "Rebond",
+  "de": "Sprungfeder",
+  "es": "Bote",
+  "it": "Rimbalzo",
+  "en": "Bounce",
+  "ja": "とびはねる",
+  "zh-hans": "弹跳",
+  "es-419": "Rebote"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 85,
+ "accuracy": 85,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User bounces high into the air, dodging all attacks, and hits next turn."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis.",
+  "ko": "하늘 높이 뛰어올라 2턴째에 상대를 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

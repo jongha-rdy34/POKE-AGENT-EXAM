@@ -1,0 +1,42 @@
+{
+ "id": 864,
+ "name": "cursola",
+ "names": {
+  "ja-hrkt": "サニゴーン",
+  "ja-roma": "Sunigoon",
+  "ko": "산호르곤",
+  "zh-hant": "魔靈珊瑚",
+  "fr": "Corayôme",
+  "de": "Gorgasonn",
+  "es": "Cursola",
+  "it": "Cursola",
+  "en": "Cursola",
+  "ja": "サニゴーン",
+  "zh-hans": "魔灵珊瑚",
+  "es-419": "Cursola"
+ },
+ "genus": {
+  "ja-hrkt": "さんごポケモン",
+  "ko": "산호포켓몬",
+  "zh-hant": "珊瑚寶可夢",
+  "fr": "Pokémon Corail",
+  "de": "Korallen-Pokémon",
+  "es": "Pokémon Coral",
+  "it": "Pokémon Corallo",
+  "en": "Coral Pokémon",
+  "ja": "さんごポケモン",
+  "zh-hans": "珊瑚宝可梦",
+  "es-419": "Pokémon Coral"
+ },
+ "flavor": {
+  "ko": "혼을 감싸는 영체의 몸은 주의가 필요하다. 만지면 돌처럼 움직일 수 없게 된다.",
+  "en": "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it."
+ },
+ "varieties": [
+  {
+   "name": "cursola",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "113"
+}

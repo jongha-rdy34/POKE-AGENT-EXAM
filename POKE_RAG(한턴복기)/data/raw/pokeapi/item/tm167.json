@@ -1,0 +1,20 @@
+{
+ "name": "tm167",
+ "names": {
+  "ja-hrkt": "わざマシン１６７",
+  "ko": "기술머신167",
+  "zh-hant": "招式學習器１６７",
+  "fr": "CT167",
+  "de": "TM167",
+  "es": "MT167",
+  "it": "MT167",
+  "en": "TM167",
+  "ja": "わざマシン１６７",
+  "zh-hans": "招式学习器１６７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

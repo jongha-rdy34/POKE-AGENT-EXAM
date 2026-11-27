@@ -1,0 +1,161 @@
+{
+ "request": {
+  "my_form_key": "garchomp",
+  "opp_form_key": "archaludon",
+  "actor": "me",
+  "move_key": "earthquake",
+  "actual": {
+   "kind": "survived",
+   "hp_band": "50-75"
+  },
+  "my_build": {
+   "sp": {
+    "atk": 20
+   }
+  }
+ },
+ "sse": [
+  {
+   "event": "status",
+   "data": {
+    "state": "computing"
+   }
+  },
+  {
+   "event": "answer",
+   "data": {
+    "headline": "상대가 장난꾸러기 슈캐열매면 16번 중 16번 이 HP로 버텨요",
+    "summary": "계산상, 상대가 H32 B32 · 장난꾸러기 · 슈캐열매일 때 16번 중 16번 이 HP로 버텨요. 또는 상대가 H32 B32 · 노력 · 슈캐열매일 때 16번 중 16번 이 HP로 버텨요. 실제 랭크배틀 통계 기준, 이 타격은 내 공격이 한 단계 내려가 있었을 때(위협 등) 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 16번). Showdown 시뮬레이터 환경에서 모은 데이터 기준, 이 타격은 내 공격이 한 단계 내려가 있었을 때(위협 등) 가장 잘 맞아요(가장 그럴듯한 조건에서 16번 중 15번). 계산에 넣지 않은 것: 계산하지 않은 상대 특성: 옹골참.",
+    "calc": {
+     "rows": [
+      {
+       "label": "H32 B32 · 장난꾸러기 · 슈캐열매",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 슈캐열매 채용 2%"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        27.4,
+        32.5
+       ]
+      },
+      {
+       "label": "H32 B32 · 노력 · 슈캐열매",
+       "in_champions": true,
+       "same_items": [],
+       "usage": [
+        "Smogon 슈캐열매 채용 2%"
+       ],
+       "k": 16,
+       "pct": 100.0,
+       "damage": [
+        29.4,
+        35.5
+       ]
+      }
+     ],
+     "more": 0,
+     "near": [],
+     "assumed": "상대 SP H32 B32, 보정 성격과 무보정 성격을 계산",
+     "my_build": "A20 · 고집 · 특성 모래숨기 · 구애스카프",
+     "headline_row": 0
+    },
+    "bases": {
+     "pokedb": {
+      "basis": "pokedb",
+      "source": {
+       "label": "pokedb M-6 싱글 상위 구축(실제 게임 랭크배틀)"
+      },
+      "zero_match": false,
+      "undetermined": true,
+      "excluded_share": 0.0,
+      "notes": [
+       "상대 배분은 SP 32/32 별칭 15종 × 성격 2종을 같은 비중으로 가정(중간·무투자 배분은 후보에 없음)",
+       "내 빌드 가정(pokedb M-6 도구 1위 + 관련 스탯 SP 32·보정 성격): 고집 · 구애스카프 · 특성 모래숨기"
+      ],
+      "causes": [
+       {
+        "key": "_atk_minus1",
+        "label": "공격 −1(위협 등, 확정 아님)",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "장난꾸러기 · H32 B32 · 특성 지구력 · 도구 없음·영향 없는 도구",
+         "장난꾸러기 · H32 B32 · 특성 옹골참 · 도구 없음·영향 없는 도구",
+         "장난꾸러기 · H32 B32 · 특성 굳건한신념 · 도구 없음·영향 없는 도구"
+        ]
+       }
+      ]
+     },
+     "smogon": {
+      "basis": "smogon",
+      "source": {
+       "label": "Smogon 2026-09 · gen9championsbssregmc · 1500+",
+       "note": "Pokémon Showdown(시뮬레이터) 환경에서 수집된 데이터",
+       "url": "https://www.smogon.com/stats/"
+      },
+      "zero_match": false,
+      "undetermined": false,
+      "excluded_share": 0.0,
+      "notes": [
+       "내 빌드 가정(Smogon 2026-09 분포 1위): 명랑 · 구애스카프 · 특성 까칠한피부"
+      ],
+      "causes": [
+       {
+        "key": "_atk_minus1",
+        "label": "공격 −1(위협 등, 확정 아님)",
+        "rank": 1,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 15번",
+        "rolls_k": 15,
+        "conditions": [
+         "차분 · H32 B2 D32 · 특성 지구력 · 도구 없음·영향 없는 도구",
+         "대담 · H32 B13 D18 S3 · 특성 지구력 · 도구 없음·영향 없는 도구",
+         "대담 · H32 B32 D2 · 특성 지구력 · 도구 없음·영향 없는 도구"
+        ]
+       },
+       {
+        "key": "shuca-berry",
+        "label": "슈캐열매",
+        "rank": 2,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 16번",
+        "rolls_k": 16,
+        "conditions": [
+         "조심 · H2 C32 S32 · 특성 지구력",
+         "겁쟁이 · H2 C32 S32 · 특성 지구력",
+         "차분 · H32 B2 D32 · 특성 지구력"
+        ]
+       },
+       {
+        "key": "_neutral",
+        "label": "이 타격에 영향 없는 도구(도구 없음 포함)",
+        "rank": 3,
+        "rolls": "가장 그럴듯한 조건에서 16번 중 3번",
+        "rolls_k": 3,
+        "conditions": [
+         "대담 · H32 B32 D2 · 특성 지구력",
+         "대담 · H32 B32 C2 · 특성 지구력",
+         "대담 · H32 B32 D2 · 특성 옹골참"
+        ]
+       }
+      ]
+     }
+    },
+    "differs": true,
+    "diff_reason": "한쪽만 일치 0건 또는 도구 구분 불가 (두 기준의 내 빌드 가정이 달라 생긴 차이일 수 있음)",
+    "unsupported": [
+     "계산하지 않은 상대 특성: 옹골참"
+    ],
+    "assumptions": [
+     "맞기 전 HP는 가득 찬 상태로 가정"
+    ],
+    "reference_only": false,
+    "degraded": false,
+    "review_id": "sample-survived-differs"
+   }
+  }
+ ]
+}

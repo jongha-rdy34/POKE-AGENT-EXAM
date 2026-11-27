@@ -1,0 +1,25 @@
+{
+ "name": "gentle-mint",
+ "names": {
+  "ja-hrkt": "おとなしいミント",
+  "ko": "얌전민트",
+  "zh-hant": "溫順薄荷",
+  "fr": "Aromate Gentil",
+  "de": "Zart-Minze",
+  "es": "Menta Amable",
+  "it": "Menta Gentile",
+  "en": "Gentle Mint",
+  "ja": "おとなしいミント",
+  "zh-hans": "温顺薄荷",
+  "es-419": "Menta Amable"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 특수방어가 오르기 쉬워지지만 방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Sp. Def will grow more easily, but its Defense will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 特防が 上がりやすく なるが 防御は 上がりにくくなる ミント。"
+ }
+}

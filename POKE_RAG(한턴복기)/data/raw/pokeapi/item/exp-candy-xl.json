@@ -1,0 +1,25 @@
+{
+ "name": "exp-candy-xl",
+ "names": {
+  "ja-hrkt": "けいけんアメＸＬ",
+  "ko": "경험사탕XL",
+  "zh-hant": "經驗糖果ＸＬ",
+  "fr": "Bonbon Exp. XL",
+  "de": "EP-Bonbon XL",
+  "es": "Caramelo Exp. XL",
+  "it": "Caram. Esp. XL",
+  "en": "Exp. Candy XL",
+  "ja": "けいけんアメＸＬ",
+  "zh-hans": "经验糖果ＸＬ",
+  "es-419": "Caramelo Exp. XL"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 먹이면 포켓몬 1마리의 경험치가 매우 많이 올라간다.",
+  "en": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a very large amount of Exp. Points.",
+  "ja": "エネルギーの つまった アメ。 与えると ポケモン １匹の 経験値が とても 増える。"
+ }
+}

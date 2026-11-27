@@ -1,0 +1,42 @@
+{
+ "id": 649,
+ "name": "genesect",
+ "names": {
+  "ja-hrkt": "ゲノセクト",
+  "ja-roma": "Genesect",
+  "ko": "게노세크트",
+  "zh-hant": "蓋諾賽克特",
+  "fr": "Genesect",
+  "de": "Genesect",
+  "es": "Genesect",
+  "it": "Genesect",
+  "en": "Genesect",
+  "ja": "ゲノセクト",
+  "zh-hans": "盖诺赛克特",
+  "es-419": "Genesect"
+ },
+ "genus": {
+  "ja-hrkt": "こせいだいポケモン",
+  "ko": "고생대포켓몬",
+  "zh-hant": "古生代寶可夢",
+  "fr": "Pokémon Paléozoïque",
+  "de": "Paläozoikums-Pokémon",
+  "es": "Pokémon Paleozoico",
+  "it": "Pokémon Paleozoico",
+  "en": "Paleozoic Pokémon",
+  "ja": "こせいだいポケモン",
+  "zh-hans": "古生代宝可梦",
+  "es-419": "Pokémon Paleozoico"
+ },
+ "flavor": {
+  "en": "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+  "ko": "3억 년 전에 있었던 포켓몬. 플라스마단에게 개조당해 등에 대포가 붙여졌다."
+ },
+ "varieties": [
+  {
+   "name": "genesect",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "336"
+}

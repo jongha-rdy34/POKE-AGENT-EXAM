@@ -1,0 +1,20 @@
+{
+ "name": "mankey-fur",
+ "names": {
+  "ja-hrkt": "マンキーのけ",
+  "ko": "망키의털",
+  "zh-hant": "猴怪的毛",
+  "fr": "Poils de Férosinge",
+  "de": "Menki-Haar",
+  "es": "Pelo de Mankey",
+  "it": "Pelo di Mankey",
+  "en": "Mankey Fur",
+  "ja": "マンキーのけ",
+  "zh-hans": "猴怪的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

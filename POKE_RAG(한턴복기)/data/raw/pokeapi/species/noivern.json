@@ -1,0 +1,42 @@
+{
+ "id": 715,
+ "name": "noivern",
+ "names": {
+  "ja-hrkt": "オンバーン",
+  "ja-roma": "Onvern",
+  "ko": "음번",
+  "zh-hant": "音波龍",
+  "fr": "Bruyverne",
+  "de": "UHaFnir",
+  "es": "Noivern",
+  "it": "Noivern",
+  "en": "Noivern",
+  "ja": "オンバーン",
+  "zh-hans": "音波龙",
+  "es-419": "Noivern"
+ },
+ "genus": {
+  "ja-hrkt": "おんぱポケモン",
+  "ko": "음파포켓몬",
+  "zh-hant": "音波寶可夢",
+  "fr": "Pokémon Ondes",
+  "de": "Schallwellen-Pokémon",
+  "es": "Pokémon Onda Sónica",
+  "it": "Pokémon Ondasonora",
+  "en": "Sound Wave Pokémon",
+  "ja": "おんぱポケモン",
+  "zh-hans": "音波宝可梦",
+  "es-419": "Pokémon Onda Sónica"
+ },
+ "flavor": {
+  "ko": "어둠 속을 날아다니며 바위도 부수는 초음파로 타격을 입힌 뒤 예리한 이빨로 숨통을 끊는다.",
+  "en": "Flying through the darkness, it weakens enemies with ultrasonic waves that could crush stone. Its fangs finish the fight."
+ },
+ "varieties": [
+  {
+   "name": "noivern",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "367"
+}

@@ -1,0 +1,17 @@
+{
+ "name": "decidueye-hisui",
+ "form_name": "hisui",
+ "names": {
+  "fr": "Archéduc de Hisui",
+  "de": "Hisui Silvarro",
+  "en": "Hisuian Decidueye"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒスイのすがた",
+  "fr": "Forme de Hisui",
+  "de": "Hisui-Form",
+  "en": "Hisuian Form",
+  "ja": "ヒスイのすがた"
+ },
+ "is_mega": false
+}

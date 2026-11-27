@@ -1,0 +1,28 @@
+{
+ "name": "adrenaline-orb",
+ "names": {
+  "ja-hrkt": "ビビリだま",
+  "ko": "주눅구슬",
+  "zh-hant": "膽怯球",
+  "fr": "Orbe Frousse",
+  "de": "Zitter-Orb",
+  "es": "Nerviosfera",
+  "it": "Fifasfera",
+  "en": "Adrenaline Orb",
+  "ja": "ビビリだま",
+  "zh-hans": "胆怯球",
+  "es-419": "Nerviosfera"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Rend les Pokémon sauvages plus susceptibles d'appeler à l'aide.   Tenu: augmente la Vitesse du porteur d'un niveau quand affecté par Intimidation.",
+  "en": "Makes wild Pokémon more likely to summon allies.  Held: increases the holder’s Speed by one stage when affected by Intimidate."
+ },
+ "flavor": {
+  "ko": "포켓몬에게 지니게 하면 위협을 받았을 때 스피드가 올라간다.",
+  "en": "If held by a Pokémon, it boosts Speed when intimidated.",
+  "ja": "ポケモンに 持たせると いかくを 受けた時 すばやさが 上がる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "lunge",
+ "names": {
+  "ja-hrkt": "とびかかる",
+  "ko": "덤벼들기",
+  "zh-hant": "猛撲",
+  "fr": "Furie-Bond",
+  "de": "Anfallen",
+  "es": "Plancha",
+  "it": "Assalto",
+  "en": "Lunge",
+  "ja": "とびかかる",
+  "zh-hans": "猛扑",
+  "es-419": "Plancha"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack by one stage after inflicting damage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "전력으로 상대에게 덤벼들며 공격한다. 상대의 공격을 떨어뜨린다.",
+  "en": "The user makes a lunge at the target, attacking with full force. This also lowers the target's Attack stat."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm72",
+ "names": {
+  "ja-hrkt": "わざマシン７２",
+  "ko": "기술머신72",
+  "zh-hant": "招式學習器７２",
+  "fr": "CT72",
+  "de": "TM72",
+  "es": "MT72",
+  "it": "MT72",
+  "en": "TM72",
+  "ja": "わざマシン７２",
+  "zh-hans": "招式学习器７２",
+  "es-419": "MT72"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Change Éclair à un Pokémon compatible. (Gén IV: Avalanche)",
+  "en": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)"
+ },
+ "flavor": {
+  "en": "The user creates a bizarre area in which Pokémon’s held items lose their effects for five turns.",
+  "ko": "이상한 공간을 만든다. 5턴 동안 모든 포켓몬의 도구의 효과가 사라진다.",
+  "ja": "まか不思議な 空間を つくる。 ５ターンの間 すべてのポケモンの 道具の 効果が なくなる。"
+ }
+}

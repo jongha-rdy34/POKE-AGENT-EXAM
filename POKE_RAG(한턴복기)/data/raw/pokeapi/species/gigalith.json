@@ -1,0 +1,42 @@
+{
+ "id": 526,
+ "name": "gigalith",
+ "names": {
+  "ja-hrkt": "ギガイアス",
+  "ja-roma": "Gigaiath",
+  "ko": "기가이어스",
+  "zh-hant": "龐岩怪",
+  "fr": "Gigalithe",
+  "de": "Brockoloss",
+  "es": "Gigalith",
+  "it": "Gigalith",
+  "en": "Gigalith",
+  "ja": "ギガイアス",
+  "zh-hans": "庞岩怪",
+  "es-419": "Gigalith"
+ },
+ "genus": {
+  "ja-hrkt": "こうあつポケモン",
+  "ko": "고압포켓몬",
+  "zh-hant": "高壓寶可夢",
+  "fr": "Pokémon Surpression",
+  "de": "Kompressions-Pokémon",
+  "es": "Pokémon Presurizado",
+  "it": "Pokémon Pressionalta",
+  "en": "Compressed Pokémon",
+  "ja": "こうあつポケモン",
+  "zh-hans": "高压宝可梦",
+  "es-419": "Pokémon Presurizado"
+ },
+ "flavor": {
+  "en": "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out.",
+  "ko": "맑은 날에만 쏠 수 있지만 에너지탄의 파괴력은 덤프트럭도 날려버릴 정도다."
+ },
+ "varieties": [
+  {
+   "name": "gigalith",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "268"
+}

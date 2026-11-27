@@ -1,0 +1,31 @@
+{
+ "name": "aqua-jet",
+ "names": {
+  "ja-hrkt": "アクアジェット",
+  "ko": "아쿠아제트",
+  "zh-hant": "水流噴射",
+  "fr": "Aqua-Jet",
+  "de": "Wasserdüse",
+  "es": "Acua Jet",
+  "it": "Acquagetto",
+  "en": "Aqua Jet",
+  "ja": "アクアジェット",
+  "zh-hans": "水流喷射",
+  "es-419": "Acuajet"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+  "ko": "눈에 보이지 않는 굉장한 속도로 상대에게 돌진한다. 반드시 선제공격할 수 있다."
+ }
+}

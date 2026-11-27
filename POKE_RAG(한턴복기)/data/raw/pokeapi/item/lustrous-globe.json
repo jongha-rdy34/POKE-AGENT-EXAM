@@ -1,0 +1,20 @@
+{
+ "name": "lustrous-globe",
+ "names": {
+  "ja-hrkt": "だいしらたま",
+  "ko": "큰백옥",
+  "zh-hant": "大白寶玉",
+  "fr": "Globe Perlé",
+  "de": "Weißkristall",
+  "es": "Gran Lustresfera",
+  "it": "Splendisferoide",
+  "en": "Lustrous Globe",
+  "ja": "だいしらたま",
+  "zh-hans": "大白宝玉"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

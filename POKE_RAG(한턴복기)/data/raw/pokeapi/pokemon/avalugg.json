@@ -1,0 +1,84 @@
+{
+ "id": 713,
+ "name": "avalugg",
+ "species": "avalugg",
+ "is_default": true,
+ "types": [
+  "ice"
+ ],
+ "stats": {
+  "hp": 95,
+  "attack": 117,
+  "defense": 184,
+  "special-attack": 44,
+  "special-defense": 46,
+  "speed": 28
+ },
+ "abilities": [
+  {
+   "name": "own-tempo",
+   "hidden": false
+  },
+  {
+   "name": "ice-body",
+   "hidden": false
+  },
+  {
+   "name": "sturdy",
+   "hidden": true
+  }
+ ],
+ "height": 20,
+ "weight": 5050,
+ "champions_moves": [
+  "aurora-veil",
+  "avalanche",
+  "bite",
+  "blizzard",
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "chilling-water",
+  "crunch",
+  "curse",
+  "double-edge",
+  "earthquake",
+  "endure",
+  "facade",
+  "flash-cannon",
+  "frost-breath",
+  "giga-impact",
+  "gyro-ball",
+  "heavy-slam",
+  "high-horsepower",
+  "hydro-pump",
+  "hyper-beam",
+  "ice-beam",
+  "ice-fang",
+  "ice-spinner",
+  "icicle-crash",
+  "icicle-spear",
+  "icy-wind",
+  "iron-defense",
+  "iron-head",
+  "mirror-coat",
+  "protect",
+  "rain-dance",
+  "rapid-spin",
+  "recover",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "scary-face",
+  "sleep-talk",
+  "snore",
+  "snowscape",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "superpower",
+  "surf",
+  "wide-guard"
+ ]
+}

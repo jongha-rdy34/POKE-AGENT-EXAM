@@ -1,0 +1,20 @@
+{
+ "name": "bronzor-fragment",
+ "names": {
+  "ja-hrkt": "ドーミラーのかけら",
+  "ko": "동미러의조각",
+  "zh-hant": "銅鏡怪的碎片",
+  "fr": "Fragment d'Archéomire",
+  "de": "Bronzel-Splitter",
+  "es": "Fragmento de Bronzor",
+  "it": "Frammento di Bronzor",
+  "en": "Bronzor Fragment",
+  "ja": "ドーミラーのかけら",
+  "zh-hans": "铜镜怪的碎片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

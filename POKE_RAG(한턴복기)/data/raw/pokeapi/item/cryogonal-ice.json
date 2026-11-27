@@ -1,0 +1,20 @@
+{
+ "name": "cryogonal-ice",
+ "names": {
+  "ja-hrkt": "フリージオのこおり",
+  "ko": "프리지오의얼음",
+  "zh-hant": "幾何雪花的冰",
+  "fr": "Glace d'Hexagel",
+  "de": "Frigometri-Eis",
+  "es": "Hielo de Cryogonal",
+  "it": "Ghiaccio di Cryogonal",
+  "en": "Cryogonal Ice",
+  "ja": "フリージオのこおり",
+  "zh-hans": "几何雪花的冰"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

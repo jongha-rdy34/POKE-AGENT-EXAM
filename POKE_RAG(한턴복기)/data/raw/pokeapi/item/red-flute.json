@@ -1,0 +1,33 @@
+{
+ "name": "red-flute",
+ "names": {
+  "ja-hrkt": "あかいビードロ",
+  "ko": "빨강비드로",
+  "zh-hant": "紅色玻璃哨",
+  "fr": "Flûte Rouge",
+  "de": "Rote Flöte",
+  "es": "Flauta Roja",
+  "it": "Flauto Rosso",
+  "en": "Red Flute",
+  "ja": "あかいビードロ",
+  "zh-hans": "红色玻璃哨",
+  "es-419": "Flauta Roja"
+ },
+ "category": "flutes",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne l'amour.",
+  "en": "Cures attraction."
+ },
+ "flavor": {
+  "en": "A flute made from red glass. It snaps Pokémon out of infatuation.",
+  "ko": "빨간 유리로 만들어진 피리. 헤롱헤롱 상태를 회복한다.",
+  "ja": "赤いガラスで できた 笛。 メロメロ状態を 回復する。"
+ }
+}

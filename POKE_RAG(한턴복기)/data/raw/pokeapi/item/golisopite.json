@@ -1,0 +1,20 @@
+{
+ "name": "golisopite",
+ "names": {
+  "ko": "갑주무사나이트",
+  "zh-hant": "具甲武者進化石",
+  "fr": "Sarmuraïte",
+  "de": "Tectassnit",
+  "es": "Golisopodita",
+  "it": "Golisopodite",
+  "en": "Golisopite",
+  "ja": "グソクムシャナイト",
+  "zh-hans": "具甲武者进化石",
+  "es-419": "Golisopodita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 505,
+ "name": "watchog",
+ "names": {
+  "ja-hrkt": "ミルホッグ",
+  "ja-roma": "Miruhog",
+  "ko": "보르그",
+  "zh-hant": "步哨鼠",
+  "fr": "Miradar",
+  "de": "Kukmarda",
+  "es": "Watchog",
+  "it": "Watchog",
+  "en": "Watchog",
+  "ja": "ミルホッグ",
+  "zh-hans": "步哨鼠",
+  "es-419": "Watchog"
+ },
+ "genus": {
+  "ja-hrkt": "けいかいポケモン",
+  "ko": "경계포켓몬",
+  "zh-hant": "警戒寶可夢",
+  "fr": "Pokémon Vigilant",
+  "de": "Wachsamkeit",
+  "es": "Pokémon Alerta",
+  "it": "Pokémon Sentinella",
+  "en": "Lookout Pokémon",
+  "ja": "けいかいポケモン",
+  "zh-hans": "警戒宝可梦",
+  "es-419": "Pokémon Alerta"
+ },
+ "flavor": {
+  "en": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+  "ko": "뺨의 주머니에 모아둔 나무열매의 씨앗을 날려서 공격한다. 적을 발견하면 꼬리를 세운다."
+ },
+ "varieties": [
+  {
+   "name": "watchog",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "259"
+}

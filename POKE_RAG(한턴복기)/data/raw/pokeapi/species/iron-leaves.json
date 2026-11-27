@@ -1,0 +1,37 @@
+{
+ "id": 1010,
+ "name": "iron-leaves",
+ "names": {
+  "ja-hrkt": "テツノイサハ",
+  "ja-roma": "Tetsunoisaha",
+  "ko": "무쇠잎새",
+  "zh-hant": "鐵斑葉",
+  "fr": "Vert-de-Fer",
+  "de": "Eisenblatt",
+  "es": "Ferroverdor",
+  "it": "Fogliaferrea",
+  "en": "Iron Leaves",
+  "ja": "テツノイサハ",
+  "zh-hans": "铁斑叶",
+  "es-419": "Ferroverdor"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders."
+ },
+ "varieties": [
+  {
+   "name": "iron-leaves",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "538"
+}

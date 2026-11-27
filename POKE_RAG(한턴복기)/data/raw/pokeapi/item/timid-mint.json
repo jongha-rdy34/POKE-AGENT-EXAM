@@ -1,0 +1,25 @@
+{
+ "name": "timid-mint",
+ "names": {
+  "ja-hrkt": "おくびょうミント",
+  "ko": "겁쟁이민트",
+  "zh-hant": "膽小薄荷",
+  "fr": "Aromate Timide",
+  "de": "Scheu-Minze",
+  "es": "Menta Miedosa",
+  "it": "Menta Timida",
+  "en": "Timid Mint",
+  "ja": "おくびょうミント",
+  "zh-hans": "胆小薄荷",
+  "es-419": "Menta Miedosa"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 스피드가 오르기 쉬워지지만 공격이 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Speed will grow more easily, but its Attack will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 素早さが 上がりやすく なるが 攻撃は 上がりにくくなる ミント。"
+ }
+}

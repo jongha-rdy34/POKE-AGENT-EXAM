@@ -1,0 +1,42 @@
+{
+ "id": 671,
+ "name": "florges",
+ "names": {
+  "ja-hrkt": "フラージェス",
+  "ja-roma": "Florges",
+  "ko": "플라제스",
+  "zh-hant": "花潔夫人",
+  "fr": "Florges",
+  "de": "Florges",
+  "es": "Florges",
+  "it": "Florges",
+  "en": "Florges",
+  "ja": "フラージェス",
+  "zh-hans": "花洁夫人",
+  "es-419": "Florges"
+ },
+ "genus": {
+  "ja-hrkt": "ガーデンポケモン",
+  "ko": "가든포켓몬",
+  "zh-hant": "花園寶可夢",
+  "fr": "Pokémon Jardin",
+  "de": "Garten",
+  "es": "Pokémon Jardín",
+  "it": "Pokémon Giardino",
+  "en": "Garden Pokémon",
+  "ja": "ガーデンポケモン",
+  "zh-hans": "花园宝可梦",
+  "es-419": "Pokémon Jardín"
+ },
+ "flavor": {
+  "ko": "수백 년의 수명을 가졌다. 정원을 지키는 일에 일생을 바친다고 한다.",
+  "en": "Its life can span several hundred years. It’s said to devote its entire life to protecting gardens."
+ },
+ "varieties": [
+  {
+   "name": "florges",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "344"
+}

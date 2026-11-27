@@ -1,0 +1,20 @@
+{
+ "name": "ground-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースじめん",
+  "ko": "테라피스 땅",
+  "zh-hant": "地面太晶碎塊",
+  "fr": "Téra-Éclat Sol",
+  "de": "Tera-Stück (Boden)",
+  "es": "Teralito Tierra",
+  "it": "Teralite Terra",
+  "en": "Ground Tera Shard",
+  "ja": "テラピースじめん",
+  "zh-hans": "地面太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 629,
+ "name": "vullaby",
+ "names": {
+  "ja-hrkt": "バルチャイ",
+  "ja-roma": "Valchai",
+  "ko": "벌차이",
+  "zh-hant": "禿鷹丫頭",
+  "fr": "Vostourno",
+  "de": "Skallyk",
+  "es": "Vullaby",
+  "it": "Vullaby",
+  "en": "Vullaby",
+  "ja": "バルチャイ",
+  "zh-hans": "秃鹰丫头",
+  "es-419": "Vullaby"
+ },
+ "genus": {
+  "ja-hrkt": "おむつポケモン",
+  "ko": "기저귀포켓몬",
+  "zh-hant": "尿布寶可夢",
+  "fr": "Pokémon Couche",
+  "de": "Windel-Pokémon",
+  "es": "Pokémon Pañal",
+  "it": "Pokémon Pannolino",
+  "en": "Diapered Pokémon",
+  "ja": "おむつポケモン",
+  "zh-hans": "尿布宝可梦",
+  "es-419": "Pokémon Pañal"
+ },
+ "flavor": {
+  "en": "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest.",
+  "ko": "금방 크게 성장하므로 엉덩이의 해골은 둥지 안에서 대물림되어 계속 사용된다."
+ },
+ "varieties": [
+  {
+   "name": "vullaby",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "320"
+}

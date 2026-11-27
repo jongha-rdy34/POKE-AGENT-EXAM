@@ -1,0 +1,25 @@
+{
+ "name": "candy-jar",
+ "names": {
+  "ja-hrkt": "アメボトル",
+  "ko": "사탕보틀",
+  "zh-hant": "糖果罐",
+  "fr": "Bonbonnière",
+  "de": "Bonbonglas",
+  "es": "Tarro de Caramelos",
+  "it": "Portacaramelle",
+  "en": "Candy Jar",
+  "ja": "アメボトル",
+  "zh-hans": "糖果罐",
+  "es-419": "Tarro de Caramelos"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

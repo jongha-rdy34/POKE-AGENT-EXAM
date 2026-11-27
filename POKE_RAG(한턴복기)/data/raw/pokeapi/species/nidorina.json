@@ -1,0 +1,42 @@
+{
+ "id": 30,
+ "name": "nidorina",
+ "names": {
+  "ja-hrkt": "ニドリーナ",
+  "ja-roma": "Nidorina",
+  "ko": "니드리나",
+  "zh-hant": "尼多娜",
+  "fr": "Nidorina",
+  "de": "Nidorina",
+  "es": "Nidorina",
+  "it": "Nidorina",
+  "en": "Nidorina",
+  "ja": "ニドリーナ",
+  "zh-hans": "尼多娜",
+  "es-419": "Nidorina"
+ },
+ "genus": {
+  "ja-hrkt": "どくばりポケモン",
+  "ko": "독침포켓몬",
+  "zh-hant": "毒針寶可夢",
+  "fr": "Pokémon Vénépic",
+  "de": "Giftdorn-Pokémon",
+  "es": "Pokémon Pin Veneno",
+  "it": "Pokémon Velenago",
+  "en": "Poison Pin Pokémon",
+  "ja": "どくばりポケモン",
+  "zh-hans": "毒针宝可梦",
+  "es-419": "Pokémon Pin Veneno"
+ },
+ "flavor": {
+  "en": "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves.",
+  "ko": "무리에 위험이 닥치면 동료와 결속하여 초음파로 크게 합창한다."
+ },
+ "varieties": [
+  {
+   "name": "nidorina",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "12"
+}

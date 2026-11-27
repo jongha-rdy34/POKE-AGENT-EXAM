@@ -1,0 +1,20 @@
+{
+ "name": "venonat-fang",
+ "names": {
+  "ja-hrkt": "コンパンのキバ",
+  "ko": "콘팡의이빨",
+  "zh-hant": "毛球的牙",
+  "fr": "Croc de Mimitoss",
+  "de": "Bluzuk-Zahn",
+  "es": "Colmillo de Venonat",
+  "it": "Zanna di Venonat",
+  "en": "Venonat Fang",
+  "ja": "コンパンのキバ",
+  "zh-hans": "毛球的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "pidgeot-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Roucarnage",
+  "de": "Mega-Tauboss",
+  "en": "Mega Pidgeot"
+ },
+ "form_names": {
+  "ja-hrkt": "メガピジョット",
+  "ko": "메가피죤투",
+  "zh-hant": "超級大比鳥",
+  "fr": "Méga-Roucarnage",
+  "de": "Mega-Form",
+  "es": "Mega-Pidgeot",
+  "it": "MegaPidgeot",
+  "en": "Mega Pidgeot",
+  "ja": "メガピジョット",
+  "zh-hans": "超级大比鸟",
+  "es-419": "Mega-Pidgeot"
+ },
+ "is_mega": true
+}

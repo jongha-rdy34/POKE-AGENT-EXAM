@@ -1,0 +1,31 @@
+{
+ "name": "copycat",
+ "names": {
+  "ja-hrkt": "まねっこ",
+  "ko": "흉내쟁이",
+  "zh-hant": "仿效",
+  "fr": "Photocopie",
+  "de": "Imitator",
+  "es": "Copión",
+  "it": "Copione",
+  "en": "Copycat",
+  "ja": "まねっこ",
+  "zh-hans": "仿效",
+  "es-419": "Copión"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Uses the target’s last used move."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user mimics the move used immediately before it. The move fails if no other move has been used yet.",
+  "ko": "직전에 나온 기술을 흉내 내어 같은 기술을 쓴다. 기술이 나오지 않았으면 실패한다."
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "name": "icicle-plate",
+ "names": {
+  "ja-hrkt": "つららのプレート",
+  "ko": "고드름플레이트",
+  "zh-hant": "冰柱石板",
+  "fr": "Plaque Glace",
+  "de": "Frosttafel",
+  "es": "Tabla Helada",
+  "it": "Lastragelo",
+  "en": "Icicle Plate",
+  "ja": "つららのプレート",
+  "zh-hans": "冰柱石板",
+  "es-419": "Tabla Helada"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Glace du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Glace.",
+  "en": "Held: Ice-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ice."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Ice-type moves.",
+  "ko": "얼음타입의 석판. 지니게 하면 얼음타입 기술의 위력이 강해진다.",
+  "ja": "こおりの タイプの 石盤。 持たせると こおりタイプの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "wide-guard",
+ "names": {
+  "ja-hrkt": "ワイドガード",
+  "ko": "와이드가드",
+  "zh-hant": "廣域防守",
+  "fr": "Garde Large",
+  "de": "Rundumschutz",
+  "es": "Vasta Guardia",
+  "it": "Bodyguard",
+  "en": "Wide Guard",
+  "ja": "ワイドガード",
+  "zh-hans": "广域防守",
+  "es-419": "Guardia Amplia"
+ },
+ "type": "rock",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 3,
+ "target": "users-field",
+ "effect": {
+  "en": "Prevents any multi-target moves from hitting friendly Pokémon this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user and its allies are protected from wide-ranging attacks for one turn.",
+  "ko": "같은 편 전원에게 향하는 공격을 1턴 동안 막는다."
+ }
+}

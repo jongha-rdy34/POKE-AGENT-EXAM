@@ -1,0 +1,31 @@
+{
+ "name": "wood-hammer",
+ "names": {
+  "ja-hrkt": "ウッドハンマー",
+  "ko": "우드해머",
+  "zh-hant": "木槌",
+  "fr": "Martobois",
+  "de": "Holzhammer",
+  "es": "Mazazo",
+  "it": "Mazzuolegno",
+  "en": "Wood Hammer",
+  "ja": "ウッドハンマー",
+  "zh-hans": "木槌",
+  "es-419": "Mazazo"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User receives 1/3 the damage inflicted in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slams its rugged body into the target to attack. This also damages the user quite a lot.",
+  "ko": "단단한 몸통을 상대에게 부딪쳐서 공격한다. 자신도 상당한 데미지를 입는다."
+ }
+}

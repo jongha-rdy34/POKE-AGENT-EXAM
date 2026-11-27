@@ -1,0 +1,42 @@
+{
+ "id": 810,
+ "name": "grookey",
+ "names": {
+  "ja-hrkt": "サルノリ",
+  "ja-roma": "Sarunori",
+  "ko": "흥나숭",
+  "zh-hant": "敲音猴",
+  "fr": "Ouistempo",
+  "de": "Chimpep",
+  "es": "Grookey",
+  "it": "Grookey",
+  "en": "Grookey",
+  "ja": "サルノリ",
+  "zh-hans": "敲音猴",
+  "es-419": "Grookey"
+ },
+ "genus": {
+  "ja-hrkt": "こざるポケモン",
+  "ko": "꼬마원숭이포켓몬",
+  "zh-hant": "小猴寶可夢",
+  "fr": "Pokémon Chimpanzé",
+  "de": "Schimpansen-Pokémon",
+  "es": "Pokémon Chimpancé",
+  "it": "Pokémon Scimpanzé",
+  "en": "Chimp Pokémon",
+  "ja": "こざるポケモン",
+  "zh-hans": "小猴宝可梦",
+  "es-419": "Pokémon Chimpancé"
+ },
+ "flavor": {
+  "ko": "스틱으로 연타하여 공격한다. 굉장한 속도로 치다 보면 점점 텐션이 올라간다.",
+  "en": "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped."
+ },
+ "varieties": [
+  {
+   "name": "grookey",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "430"
+}

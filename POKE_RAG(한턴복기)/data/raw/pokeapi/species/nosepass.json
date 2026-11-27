@@ -1,0 +1,42 @@
+{
+ "id": 299,
+ "name": "nosepass",
+ "names": {
+  "ja-hrkt": "ノズパス",
+  "ja-roma": "Nosepass",
+  "ko": "코코파스",
+  "zh-hant": "朝北鼻",
+  "fr": "Tarinor",
+  "de": "Nasgnet",
+  "es": "Nosepass",
+  "it": "Nosepass",
+  "en": "Nosepass",
+  "ja": "ノズパス",
+  "zh-hans": "朝北鼻",
+  "es-419": "Nosepass"
+ },
+ "genus": {
+  "ja-hrkt": "コンパスポケモン",
+  "ko": "콤파스포켓몬",
+  "zh-hant": "羅盤寶可夢",
+  "fr": "Pokémon Boussole",
+  "de": "Kompass",
+  "es": "Pokémon Brújula",
+  "it": "Pokémon Bussola",
+  "en": "Compass Pokémon",
+  "ja": "コンパスポケモン",
+  "zh-hans": "罗盘宝可梦",
+  "es-419": "Pokémon Brújula"
+ },
+ "flavor": {
+  "en": "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses.",
+  "ko": "강력한 자력으로 먹이를 끌어당겨 움직이지 않고 사냥을 하지만 천적을 끌어당기는 일도 있다."
+ },
+ "varieties": [
+  {
+   "name": "nosepass",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "147"
+}

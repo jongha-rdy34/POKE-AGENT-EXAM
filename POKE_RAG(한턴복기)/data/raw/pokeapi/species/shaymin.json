@@ -1,0 +1,46 @@
+{
+ "id": 492,
+ "name": "shaymin",
+ "names": {
+  "ja-hrkt": "シェイミ",
+  "ja-roma": "Shaymin",
+  "ko": "쉐이미",
+  "zh-hant": "謝米",
+  "fr": "Shaymin",
+  "de": "Shaymin",
+  "es": "Shaymin",
+  "it": "Shaymin",
+  "en": "Shaymin",
+  "ja": "シェイミ",
+  "zh-hans": "谢米",
+  "es-419": "Shaymin"
+ },
+ "genus": {
+  "ja-hrkt": "かんしゃポケモン",
+  "ko": "감사포켓몬",
+  "zh-hant": "感謝寶可夢",
+  "fr": "Pokémon Gratitude",
+  "de": "Dankbarkeit",
+  "es": "Pokémon Gratitud",
+  "it": "Pokémon Gratitudine",
+  "en": "Gratitude Pokémon",
+  "ja": "かんしゃポケモン",
+  "zh-hans": "感谢宝可梦",
+  "es-419": "Pokémon Gratitud"
+ },
+ "flavor": {
+  "en": "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers.",
+  "ko": "그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "shaymin-land",
+   "is_default": true
+  },
+  {
+   "name": "shaymin-sky",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "253"
+}

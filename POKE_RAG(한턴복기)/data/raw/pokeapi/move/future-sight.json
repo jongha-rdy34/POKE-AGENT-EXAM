@@ -1,0 +1,31 @@
+{
+ "name": "future-sight",
+ "names": {
+  "ja-hrkt": "みらいよち",
+  "ko": "미래예지",
+  "zh-hant": "預知未來",
+  "fr": "Prescience",
+  "de": "Seher",
+  "es": "Premonición",
+  "it": "Divinazione",
+  "en": "Future Sight",
+  "ja": "みらいよち",
+  "zh-hans": "预知未来",
+  "es-419": "Premonición"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits the target two turns later."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "Two turns after this move is used, a hunk of psychic energy attacks the target.",
+  "ko": "기술을 사용한 2턴 뒤에 상대에게 염동력의 덩어리를 보내어 공격한다."
+ }
+}

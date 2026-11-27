@@ -1,0 +1,25 @@
+{
+ "name": "porygon-candy",
+ "names": {
+  "ja-hrkt": "ポリゴンのアメ",
+  "ko": "폴리곤의사탕",
+  "zh-hant": "多邊獸的糖果",
+  "fr": "Bonbon Porygon",
+  "de": "Porygon-Bonbon",
+  "es": "Caramelo Porygon",
+  "it": "Caramella Porygon",
+  "en": "Porygon Candy",
+  "ja": "ポリゴンのアメ",
+  "zh-hans": "多边兽的糖果",
+  "es-419": "Caramelo Porygon"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

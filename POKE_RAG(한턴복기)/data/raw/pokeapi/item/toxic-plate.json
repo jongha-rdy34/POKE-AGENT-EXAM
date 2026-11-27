@@ -1,0 +1,32 @@
+{
+ "name": "toxic-plate",
+ "names": {
+  "ja-hrkt": "もうどくプレート",
+  "ko": "맹독플레이트",
+  "zh-hant": "劇毒石板",
+  "fr": "Plaque Toxicité",
+  "de": "Gifttafel",
+  "es": "Tabla Tóxica",
+  "it": "Lastrafiele",
+  "en": "Toxic Plate",
+  "ja": "もうどくプレート",
+  "zh-hans": "剧毒石板",
+  "es-419": "Tabla Tóxica"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Poison du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Poison.",
+  "en": "Held: Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Poison-type moves.",
+  "ko": "독타입의 석판. 지니게 하면 독타입 기술의 위력이 강해진다.",
+  "ja": "どくの タイプの 石盤。 持たせると どくタイプの 技の 威力が 強まる。"
+ }
+}

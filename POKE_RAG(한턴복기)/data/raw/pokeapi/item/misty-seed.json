@@ -1,0 +1,28 @@
+{
+ "name": "misty-seed",
+ "names": {
+  "ja-hrkt": "ミストシード",
+  "ko": "미스트시드",
+  "zh-hant": "薄霧種子",
+  "fr": "Graine Brume",
+  "de": "Nebel-Samen",
+  "es": "Semilla Bruma",
+  "it": "Nebbiaseme",
+  "en": "Misty Seed",
+  "ja": "ミストシード",
+  "zh-hans": "薄雾种子",
+  "es-419": "Semilla Bruma"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Consommé sur un Champ Brumeux et augmente la Défense Spéciale du porteur d'un niveau.",
+  "en": "Held: Consumed on Misty Terrain and raises the holder’s Special Defense by one stage."
+ },
+ "flavor": {
+  "ko": "포켓몬에게 지니게 하면 미스트필드일 때 사용하여 특수방어가 올라간다.",
+  "en": "An item to be held by a Pokémon. It boosts Sp. Def on Misty Terrain. It can only be used once.",
+  "ja": "ポケモンに 持たせると ミストフィールドのときに 使って 特防が あがる。"
+ }
+}

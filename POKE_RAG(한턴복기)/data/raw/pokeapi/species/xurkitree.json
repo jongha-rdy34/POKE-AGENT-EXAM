@@ -1,0 +1,42 @@
+{
+ "id": 796,
+ "name": "xurkitree",
+ "names": {
+  "ja-hrkt": "デンジュモク",
+  "ja-roma": "Denjyumoku",
+  "ko": "전수목",
+  "zh-hant": "電束木",
+  "fr": "Câblifère",
+  "de": "Voltriant",
+  "es": "Xurkitree",
+  "it": "Xurkitree",
+  "en": "Xurkitree",
+  "ja": "デンジュモク",
+  "zh-hans": "电束木",
+  "es-419": "Xurkitree"
+ },
+ "genus": {
+  "ja-hrkt": "でんしょくポケモン",
+  "ko": "전기장식포켓몬",
+  "zh-hant": "燈飾寶可夢",
+  "fr": "Pokémon Luminaire",
+  "de": "Illuminations-Pokémon",
+  "es": "Pokémon Luminaria",
+  "it": "Pokémon Luminaria",
+  "en": "Glowing Pokémon",
+  "ja": "でんしょくポケモン",
+  "zh-hans": "灯饰宝可梦",
+  "es-419": "Pokémon Luminaria"
+ },
+ "flavor": {
+  "ko": "울트라비스트라고 불린다. 나무처럼 땅에 손발을 꽂고 움직이지 않는 것도 있다.",
+  "en": "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground."
+ },
+ "varieties": [
+  {
+   "name": "xurkitree",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "417"
+}

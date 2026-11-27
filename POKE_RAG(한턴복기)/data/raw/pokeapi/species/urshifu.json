@@ -1,0 +1,54 @@
+{
+ "id": 892,
+ "name": "urshifu",
+ "names": {
+  "ja-hrkt": "ウーラオス",
+  "ja-roma": "Wulaosu",
+  "ko": "우라오스",
+  "zh-hant": "武道熊師",
+  "fr": "Shifours",
+  "de": "Wulaosu",
+  "es": "Urshifu",
+  "it": "Urshifu",
+  "en": "Urshifu",
+  "ja": "ウーラオス",
+  "zh-hans": "武道熊师",
+  "es-419": "Urshifu"
+ },
+ "genus": {
+  "ja-hrkt": "けんぽうポケモン",
+  "ko": "권법포켓몬",
+  "zh-hant": "拳法寶可夢",
+  "fr": "Pokémon Kung-fu",
+  "de": "Kung-Fu-Pokémon",
+  "es": "Pokémon Kung-fu",
+  "it": "Pokémon Kung Fu",
+  "en": "Wushu Pokémon",
+  "ja": "けんぽうポケモン",
+  "zh-hans": "拳法宝可梦",
+  "es-419": "Pokémon Kung-fu"
+ },
+ "flavor": {
+  "ko": "먼 지방의 산악지대에 산다. 낭떠러지 절벽을 달리며 하체를 단련하고 기술을 연마한다.",
+  "en": "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves."
+ },
+ "varieties": [
+  {
+   "name": "urshifu-single-strike",
+   "is_default": true
+  },
+  {
+   "name": "urshifu-rapid-strike",
+   "is_default": false
+  },
+  {
+   "name": "urshifu-single-strike-gmax",
+   "is_default": false
+  },
+  {
+   "name": "urshifu-rapid-strike-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "470"
+}

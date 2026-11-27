@@ -1,0 +1,20 @@
+{
+ "name": "yellow-bottle",
+ "names": {
+  "ja-hrkt": "イエローボトル",
+  "ko": "옐로 보틀",
+  "zh-hant": "黃色水壺",
+  "fr": "Gourde Jaune",
+  "de": "Gelbe Flasche",
+  "es": "Termo Amarillo",
+  "it": "Borraccia gialla",
+  "en": "Yellow Bottle",
+  "ja": "イエローボトル",
+  "zh-hans": "黄色水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

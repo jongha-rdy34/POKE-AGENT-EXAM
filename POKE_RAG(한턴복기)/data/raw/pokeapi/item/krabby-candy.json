@@ -1,0 +1,25 @@
+{
+ "name": "krabby-candy",
+ "names": {
+  "ja-hrkt": "クラブのアメ",
+  "ko": "크랩의사탕",
+  "zh-hant": "大鉗蟹的糖果",
+  "fr": "Bonbon Krabby",
+  "de": "Krabby-Bonbon",
+  "es": "Caramelo Krabby",
+  "it": "Caramella Krabby",
+  "en": "Krabby Candy",
+  "ja": "クラブのアメ",
+  "zh-hans": "大钳蟹的糖果",
+  "es-419": "Caramelo Krabby"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

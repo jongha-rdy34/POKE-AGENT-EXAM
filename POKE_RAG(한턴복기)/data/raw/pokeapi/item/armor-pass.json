@@ -1,0 +1,25 @@
+{
+ "name": "armor-pass",
+ "names": {
+  "ja-hrkt": "ヨロイパス",
+  "ko": "갑옷패스",
+  "zh-hant": "鎧甲車票",
+  "fr": "Pass Isolarmure",
+  "de": "Rüstungspass",
+  "es": "Pase Armadura",
+  "it": "Pass Armatura",
+  "en": "Armor Pass",
+  "ja": "ヨロイパス",
+  "zh-hans": "铠甲车票",
+  "es-419": "Pase Armadura"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "갑옷섬에 갈 수 있는 패스. 브래시마을역에 있는 역무원에게 보여주자.",
+  "en": "A pass to go to the Isle of Armor. Show it to the rail staff at Wedgehurst Station.",
+  "ja": "ヨロイ島に 行くための パス。 ブラッシータウンの 駅で 駅員さんに 見せよう。"
+ }
+}

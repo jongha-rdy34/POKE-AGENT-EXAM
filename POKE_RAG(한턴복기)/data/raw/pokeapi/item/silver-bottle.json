@@ -1,0 +1,20 @@
+{
+ "name": "silver-bottle",
+ "names": {
+  "ja-hrkt": "シルバーチタンボトル",
+  "ko": "실버 티탄 보틀",
+  "zh-hant": "銀鈦水壺",
+  "fr": "Gourde Titane (Argent)",
+  "de": "Silber-Titanflasche",
+  "es": "Termo Plateado",
+  "it": "Borraccia argento",
+  "en": "Silver Bottle",
+  "ja": "シルバーチタンボトル",
+  "zh-hans": "银钛水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

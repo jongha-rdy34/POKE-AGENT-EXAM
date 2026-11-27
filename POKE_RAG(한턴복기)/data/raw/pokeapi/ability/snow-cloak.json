@@ -1,0 +1,23 @@
+{
+ "name": "snow-cloak",
+ "names": {
+  "ja-hrkt": "ゆきがくれ",
+  "ko": "눈숨기",
+  "zh-hant": "雪隱",
+  "fr": "Rideau Neige",
+  "de": "Schneemantel",
+  "es": "Manto Níveo",
+  "it": "Mantelneve",
+  "en": "Snow Cloak",
+  "ja": "ゆきがくれ",
+  "zh-hans": "雪隐",
+  "es-419": "Manto Níveo"
+ },
+ "effect": {
+  "en": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's evasiveness in snow.",
+  "ko": "날씨가 싸라기눈일 때 회피율이 올라간다."
+ }
+}

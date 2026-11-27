@@ -1,0 +1,20 @@
+{
+ "name": "tm163",
+ "names": {
+  "ja-hrkt": "わざマシン１６３",
+  "ko": "기술머신163",
+  "zh-hant": "招式學習器１６３",
+  "fr": "CT163",
+  "de": "TM163",
+  "es": "MT163",
+  "it": "MT163",
+  "en": "TM163",
+  "ja": "わざマシン１６３",
+  "zh-hans": "招式学习器１６３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

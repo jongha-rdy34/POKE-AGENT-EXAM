@@ -1,0 +1,25 @@
+{
+ "name": "naughty-mint",
+ "names": {
+  "ja-hrkt": "やんちゃミント",
+  "ko": "개구쟁이민트",
+  "zh-hant": "頑皮薄荷",
+  "fr": "Aromate Mauvais",
+  "de": "Frech-Minze",
+  "es": "Menta Pícara",
+  "it": "Menta Birbona",
+  "en": "Naughty Mint",
+  "ja": "やんちゃミント",
+  "zh-hans": "顽皮薄荷",
+  "es-419": "Menta Pícara"
+ },
+ "category": "nature-mints",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 향기를 맡게 하면 공격이 오르기 쉬워지지만 특수방어가 오르기 어려워지는 민트.",
+  "en": "When a Pokémon smells this mint, its Attack will grow more easily, but its Sp. Def will grow more slowly.",
+  "ja": "ポケモンに 香りを かがせると 攻撃が 上がりやすく なるが 特防は 上がりにくくなる ミント。"
+ }
+}

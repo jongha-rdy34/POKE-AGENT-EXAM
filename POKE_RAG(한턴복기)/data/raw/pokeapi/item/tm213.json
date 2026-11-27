@@ -1,0 +1,19 @@
+{
+ "name": "tm213",
+ "names": {
+  "ko": "기술머신213",
+  "zh-hant": "招式學習器２１３",
+  "fr": "CT213",
+  "de": "TM213",
+  "es": "MT213",
+  "it": "MT213",
+  "en": "TM213",
+  "ja": "わざマシン２１３",
+  "zh-hans": "招式学习器２１３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

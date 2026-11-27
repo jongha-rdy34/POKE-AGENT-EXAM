@@ -1,0 +1,28 @@
+{
+ "name": "hm03",
+ "names": {
+  "ja-hrkt": "ひでんマシン０３",
+  "ko": "비전머신03",
+  "zh-hant": "秘傳學習器０３",
+  "fr": "CS03",
+  "de": "VM03",
+  "es": "MO03",
+  "it": "MN03",
+  "en": "HM03",
+  "ja": "ひでんマシン０３",
+  "zh-hans": "秘传学习器０３",
+  "es-419": "MO03"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Surf à un Pokémon compatible.",
+  "en": "Teaches Surf to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

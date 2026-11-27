@@ -1,0 +1,28 @@
+{
+ "name": "pal-pad",
+ "names": {
+  "ja-hrkt": "ともだちてちょう",
+  "ko": "친구수첩",
+  "zh-hant": "朋友手冊",
+  "fr": "Registre Ami",
+  "de": "Adressbuch",
+  "es": "Bloc amigos",
+  "it": "Blocco Amici",
+  "en": "Pal Pad",
+  "ja": "ともだちてちょう",
+  "zh-hans": "朋友手册",
+  "es-419": "Bloc amigos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour enregistrer les Code Amis et vérifier le sien.",
+  "en": "Use to record Friend Codes and check your own."
+ },
+ "flavor": {
+  "en": "A convenient notepad that is used to register your friends and friend codes and keep a record of your gameplay.",
+  "ko": "친구를 등록하거나 친구와 놀았던 기록을 관리하는 편리한 수첩.",
+  "ja": "友達を 登録したり 遊んだことを 記録する 便利な 手帳。"
+ }
+}

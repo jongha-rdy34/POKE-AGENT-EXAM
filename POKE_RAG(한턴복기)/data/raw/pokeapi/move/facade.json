@@ -1,0 +1,31 @@
+{
+ "name": "facade",
+ "names": {
+  "ja-hrkt": "からげんき",
+  "ko": "객기",
+  "zh-hant": "硬撐",
+  "fr": "Façade",
+  "de": "Fassade",
+  "es": "Fachada",
+  "it": "Facciata",
+  "en": "Facade",
+  "ja": "からげんき",
+  "zh-hans": "硬撑",
+  "es-419": "Fachada"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power doubles if user is burned, paralyzed, or poisoned."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move's power is doubled if the user is poisoned, burned, or paralyzed.",
+  "ko": "자신이 독, 마비, 화상 상태일 때 날리면 기술의 위력이 2배가 된다."
+ }
+}

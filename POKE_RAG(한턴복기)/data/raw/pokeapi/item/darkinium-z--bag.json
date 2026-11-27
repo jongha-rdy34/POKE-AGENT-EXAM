@@ -1,0 +1,28 @@
+{
+ "name": "darkinium-z--bag",
+ "names": {
+  "ja-hrkt": "アクＺ",
+  "ko": "악Z",
+  "zh-hant": "惡Ｚ",
+  "fr": "Ténébrozélite",
+  "de": "Noctium Z",
+  "es": "Nictostal Z",
+  "it": "Obscurium Z",
+  "en": "Darkinium Z",
+  "ja": "アクＺ",
+  "zh-hans": "恶Ｚ",
+  "es-419": "Nictostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour darkinium-z--bag",
+  "en": "XXX new effect for darkinium-z--bag"
+ },
+ "flavor": {
+  "ko": "악타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Dark-type moves to Dark-type Z-Moves.",
+  "ja": "あくタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "id": 1008,
+ "name": "miraidon",
+ "names": {
+  "ja-hrkt": "ミライドン",
+  "ja-roma": "Miraidon",
+  "ko": "미라이돈",
+  "zh-hant": "密勒頓",
+  "fr": "Miraidon",
+  "de": "Miraidon",
+  "es": "Miraidon",
+  "it": "Miraidon",
+  "en": "Miraidon",
+  "ja": "ミライドン",
+  "zh-hans": "密勒顿",
+  "es-419": "Miraidon"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning."
+ },
+ "varieties": [
+  {
+   "name": "miraidon",
+   "is_default": true
+  },
+  {
+   "name": "miraidon-low-power-mode",
+   "is_default": false
+  },
+  {
+   "name": "miraidon-drive-mode",
+   "is_default": false
+  },
+  {
+   "name": "miraidon-aquatic-mode",
+   "is_default": false
+  },
+  {
+   "name": "miraidon-glide-mode",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "536"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "nugget",
+ "names": {
+  "ja-hrkt": "きんのたま",
+  "ko": "금구슬",
+  "zh-hant": "金珠",
+  "fr": "Pépite",
+  "de": "Nugget",
+  "es": "Pepita",
+  "it": "Pepita",
+  "en": "Nugget",
+  "ja": "きんのたま",
+  "zh-hans": "金珠",
+  "es-419": "Pepita"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre pour 5000 Pokédollars, ou au collectionneur d'objets pour 10000 Pokédollars.",
+  "en": "Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A nugget of the purest gold that gives off a lustrous gleam in direct light. It can be sold at a high price to shops.",
+  "ko": "금색으로 반짝반짝 빛나는 순금으로 만들어진 구슬. 상점에서 비싸게 팔린다.",
+  "ja": "キラキラと 金色に 光る 純金製の 玉。 ショップで 高く 売れる。"
+ }
+}

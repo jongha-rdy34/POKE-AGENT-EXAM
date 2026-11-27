@@ -1,0 +1,20 @@
+{
+ "name": "curry-powder",
+ "names": {
+  "ja-hrkt": "カレーパウダー",
+  "ko": "카레파우더",
+  "zh-hant": "咖哩粉",
+  "fr": "Curry en Poudre",
+  "de": "Currypulver",
+  "es": "Curri en Polvo",
+  "it": "Curry in polvere",
+  "en": "Curry Powder",
+  "ja": "カレーパウダー",
+  "zh-hans": "咖喱粉"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

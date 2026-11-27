@@ -1,0 +1,42 @@
+{
+ "id": 429,
+ "name": "mismagius",
+ "names": {
+  "ja-hrkt": "ムウマージ",
+  "ja-roma": "Mumargi",
+  "ko": "무우마직",
+  "zh-hant": "夢妖魔",
+  "fr": "Magirêve",
+  "de": "Traunmagil",
+  "es": "Mismagius",
+  "it": "Mismagius",
+  "en": "Mismagius",
+  "ja": "ムウマージ",
+  "zh-hans": "梦妖魔",
+  "es-419": "Mismagius"
+ },
+ "genus": {
+  "ja-hrkt": "マジカルポケモン",
+  "ko": "매지컬포켓몬",
+  "zh-hant": "魔法寶可夢",
+  "fr": "Pokémon Magique",
+  "de": "Magisch",
+  "es": "Pokémon Mágico",
+  "it": "Pokémon Stregone",
+  "en": "Magical Pokémon",
+  "ja": "マジカルポケモン",
+  "zh-hans": "魔法宝可梦",
+  "es-419": "Pokémon Mágico"
+ },
+ "flavor": {
+  "en": "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue.",
+  "ko": "저주의 말을 중얼거리며 심한 두통이나 무서운 환상을 보여 줘서 괴롭힌다."
+ },
+ "varieties": [
+  {
+   "name": "mismagius",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "98"
+}

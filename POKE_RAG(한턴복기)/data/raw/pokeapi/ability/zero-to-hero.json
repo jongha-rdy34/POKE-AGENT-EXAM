@@ -1,0 +1,23 @@
+{
+ "name": "zero-to-hero",
+ "names": {
+  "ja-hrkt": "マイティチェンジ",
+  "ko": "마이티체인지",
+  "zh-hant": "全能變身",
+  "fr": "Supermutation",
+  "de": "Superwechsel",
+  "es": "Cambio Heroico",
+  "it": "Supercambio",
+  "en": "Zero to Hero",
+  "ja": "マイティチェンジ",
+  "zh-hans": "全能变身",
+  "pt-br": "Do Abismo ao Heroísmo",
+  "es-419": "Cambio Heroico"
+ },
+ "effect": {
+  "en": "Transforms into its Hero Form when switching out."
+ },
+ "flavor": {
+  "en": "The Pokémon transforms into its Hero Form when it switches out."
+ }
+}

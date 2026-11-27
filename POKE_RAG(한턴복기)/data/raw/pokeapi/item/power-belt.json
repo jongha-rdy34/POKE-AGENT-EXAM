@@ -1,0 +1,31 @@
+{
+ "name": "power-belt",
+ "names": {
+  "ja-hrkt": "パワーベルト",
+  "ko": "파워벨트",
+  "zh-hant": "力量腰帶",
+  "fr": "Ceinture Pouvoir",
+  "de": "Machtgurt",
+  "es": "Cinto Recio",
+  "it": "Vigorfascia",
+  "en": "Power Belt",
+  "ja": "パワーベルト",
+  "zh-hans": "力量腰带",
+  "es-419": "Cinto Recio"
+ },
+ "category": "effort-training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur gagne 4 EV de Défense, mais a sa Vitesse divisée par deux en combat.",
+  "en": "Held: Holder gains 4 Defense effort values, but has halved Speed in battle."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It reduces Speed but allows the holder’s Defense stat to grow more after battling.",
+  "ko": "지니게 하면 스피드는 떨어지지만 여느 때보다 포켓몬의 방어를 올리면서 키우기가 쉽다.",
+  "ja": "持たせると 素早さが さがるが ふつうよりも ポケモンの 防御が 高く 育ちやすい。"
+ }
+}

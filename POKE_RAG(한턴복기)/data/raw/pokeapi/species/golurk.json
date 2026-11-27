@@ -1,0 +1,46 @@
+{
+ "id": 623,
+ "name": "golurk",
+ "names": {
+  "ja-hrkt": "ゴルーグ",
+  "ja-roma": "Goloog",
+  "ko": "골루그",
+  "zh-hant": "泥偶巨人",
+  "fr": "Golemastoc",
+  "de": "Golgantes",
+  "es": "Golurk",
+  "it": "Golurk",
+  "en": "Golurk",
+  "ja": "ゴルーグ",
+  "zh-hans": "泥偶巨人",
+  "es-419": "Golurk"
+ },
+ "genus": {
+  "ja-hrkt": "ゴーレムポケモン",
+  "ko": "골렘포켓몬",
+  "zh-hant": "魔像寶可夢",
+  "fr": "Pokémon Golem Ancien",
+  "de": "Urgolem-Pokémon",
+  "es": "Pokémon Autómata",
+  "it": "Pokémon Statuanimata",
+  "en": "Automaton Pokémon",
+  "ja": "ゴーレムポケモン",
+  "zh-hans": "魔像宝可梦",
+  "es-419": "Pokémon Autómata"
+ },
+ "flavor": {
+  "en": "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven.",
+  "ko": "체내에 에너지를 생성하는 영구 기관이 있다고 하지만 아직도 밝혀지지 않았다."
+ },
+ "varieties": [
+  {
+   "name": "golurk",
+   "is_default": true
+  },
+  {
+   "name": "golurk-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "316"
+}

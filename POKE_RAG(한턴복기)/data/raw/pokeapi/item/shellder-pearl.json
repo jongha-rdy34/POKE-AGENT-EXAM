@@ -1,0 +1,20 @@
+{
+ "name": "shellder-pearl",
+ "names": {
+  "ja-hrkt": "シェルダーのしんじゅ",
+  "ko": "셀러의진주",
+  "zh-hant": "大舌貝的珍珠",
+  "fr": "Perle de Kokiyas",
+  "de": "Muschas-Perle",
+  "es": "Perla de Shellder",
+  "it": "Perla di Shellder",
+  "en": "Shellder Pearl",
+  "ja": "シェルダーのしんじゅ",
+  "zh-hans": "大舌贝的珍珠"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

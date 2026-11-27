@@ -1,0 +1,34 @@
+{
+ "id": 10108,
+ "name": "persian-alola",
+ "species": "persian",
+ "is_default": false,
+ "types": [
+  "dark"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 60,
+  "defense": 60,
+  "special-attack": 75,
+  "special-defense": 65,
+  "speed": 115
+ },
+ "abilities": [
+  {
+   "name": "fur-coat",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": false
+  },
+  {
+   "name": "rattled",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 330,
+ "champions_moves": []
+}

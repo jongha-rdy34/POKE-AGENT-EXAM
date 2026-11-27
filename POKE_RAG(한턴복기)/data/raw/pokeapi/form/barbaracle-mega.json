@@ -1,0 +1,15 @@
+{
+ "name": "barbaracle-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Golgopathe",
+  "en": "Mega Barbaracle"
+ },
+ "form_names": {
+  "ja-hrkt": "メガガメノデス",
+  "fr": "Méga-Golgopathe",
+  "en": "Mega Barbaracle",
+  "ja": "メガガメノデス"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,20 @@
+{
+ "name": "ketchup",
+ "names": {
+  "ja-hrkt": "ケチャップ",
+  "ko": "케첩",
+  "zh-hant": "番茄醬",
+  "fr": "Ketchup",
+  "de": "Ketchup",
+  "es": "Kétchup",
+  "it": "Ketchup",
+  "en": "Ketchup",
+  "ja": "ケチャップ",
+  "zh-hans": "番茄酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

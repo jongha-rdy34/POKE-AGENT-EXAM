@@ -1,0 +1,42 @@
+{
+ "id": 152,
+ "name": "chikorita",
+ "names": {
+  "ja-hrkt": "チコリータ",
+  "ja-roma": "Chicorita",
+  "ko": "치코리타",
+  "zh-hant": "菊草葉",
+  "fr": "Germignon",
+  "de": "Endivie",
+  "es": "Chikorita",
+  "it": "Chikorita",
+  "en": "Chikorita",
+  "ja": "チコリータ",
+  "zh-hans": "菊草叶",
+  "es-419": "Chikorita"
+ },
+ "genus": {
+  "ja-hrkt": "はっぱポケモン",
+  "ko": "잎사귀포켓몬",
+  "zh-hant": "葉子寶可夢",
+  "fr": "Pokémon Feuille",
+  "de": "Laub",
+  "es": "Pokémon Hoja",
+  "it": "Pokémon Foglia",
+  "en": "Leaf Pokémon",
+  "ja": "はっぱポケモン",
+  "zh-hans": "叶子宝可梦",
+  "es-419": "Pokémon Hoja"
+ },
+ "flavor": {
+  "en": "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
+  "ko": "잎사귀를 휘둘러 상대를 위협하지만 잎사귀에서 달콤한 향기가 풍겨 나와 서로 온화한 분위기가 된다."
+ },
+ "varieties": [
+  {
+   "name": "chikorita",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "79"
+}

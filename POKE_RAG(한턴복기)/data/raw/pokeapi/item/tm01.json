@@ -1,0 +1,28 @@
+{
+ "name": "tm01",
+ "names": {
+  "ja-hrkt": "わざマシン０１",
+  "ko": "기술머신01",
+  "zh-hant": "招式學習器０１",
+  "fr": "CT01",
+  "de": "TM01",
+  "es": "MT01",
+  "it": "MT01",
+  "en": "TM01",
+  "ja": "わざマシン０１",
+  "zh-hans": "招式学习器０１",
+  "es-419": "MT01"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Aiguisage à un Pokémon compatible. (Gén IV & III: Mitra-Poing Gén II: Dynamo-Poing Gén I: Ultimapoing)",
+  "en": "Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)"
+ },
+ "flavor": {
+  "en": "The target is attacked by a kick launched with muscle-packed power.",
+  "ko": "굉장한 힘을 담은 킥으로 상대를 걷어차서 공격한다.",
+  "ja": "ものすごい 力を こめた キックで 相手を けとばして 攻撃する。"
+ }
+}

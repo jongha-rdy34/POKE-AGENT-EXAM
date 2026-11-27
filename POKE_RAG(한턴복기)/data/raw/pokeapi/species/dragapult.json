@@ -1,0 +1,42 @@
+{
+ "id": 887,
+ "name": "dragapult",
+ "names": {
+  "ja-hrkt": "ドラパルト",
+  "ja-roma": "Dorapult",
+  "ko": "드래펄트",
+  "zh-hant": "多龍巴魯托",
+  "fr": "Lanssorien",
+  "de": "Katapuldra",
+  "es": "Dragapult",
+  "it": "Dragapult",
+  "en": "Dragapult",
+  "ja": "ドラパルト",
+  "zh-hans": "多龙巴鲁托",
+  "es-419": "Dragapult"
+ },
+ "genus": {
+  "ja-hrkt": "ステルスポケモン",
+  "ko": "스텔스포켓몬",
+  "zh-hant": "隱形寶可夢",
+  "fr": "Pokémon Furtif",
+  "de": "Tarnkünstler-Pokémon",
+  "es": "Pokémon Furtivo",
+  "it": "Pokémon Furtivo",
+  "en": "Stealth Pokémon",
+  "ja": "ステルスポケモン",
+  "zh-hans": "隐形宝可梦",
+  "es-419": "Pokémon Furtivo"
+ },
+ "flavor": {
+  "ko": "뿔에 들어간 드라꼰은 마하의 속도로 날려지기를 기대하고 있는 것 같다.",
+  "en": "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds."
+ },
+ "varieties": [
+  {
+   "name": "dragapult",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "466"
+}

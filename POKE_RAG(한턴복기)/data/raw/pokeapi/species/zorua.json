@@ -1,0 +1,46 @@
+{
+ "id": 570,
+ "name": "zorua",
+ "names": {
+  "ja-hrkt": "ゾロア",
+  "ja-roma": "Zorua",
+  "ko": "조로아",
+  "zh-hant": "索羅亞",
+  "fr": "Zorua",
+  "de": "Zorua",
+  "es": "Zorua",
+  "it": "Zorua",
+  "en": "Zorua",
+  "ja": "ゾロア",
+  "zh-hans": "索罗亚",
+  "es-419": "Zorua"
+ },
+ "genus": {
+  "ja-hrkt": "わるぎつねポケモン",
+  "ko": "나쁜여우포켓몬",
+  "zh-hant": "惡狐寶可夢",
+  "fr": "Pokémon Sombrenard",
+  "de": "Lausefuchs-Pokémon",
+  "es": "Pokémon Zorro Pillo",
+  "it": "Pokémon Malavolpe",
+  "en": "Tricky Fox Pokémon",
+  "ja": "わるぎつねポケモン",
+  "zh-hans": "恶狐宝可梦",
+  "es-419": "Pokémon Zorro Pillo"
+ },
+ "flavor": {
+  "en": "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice.",
+  "ko": "먹이를 찾아 사람으로 둔갑하여 마을에 나타나기도 한다. 주로 아이로 둔갑한다."
+ },
+ "varieties": [
+  {
+   "name": "zorua",
+   "is_default": true
+  },
+  {
+   "name": "zorua-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "291"
+}

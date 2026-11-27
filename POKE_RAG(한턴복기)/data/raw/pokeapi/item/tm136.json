@@ -1,0 +1,20 @@
+{
+ "name": "tm136",
+ "names": {
+  "ja-hrkt": "わざマシン１３６",
+  "ko": "기술머신136",
+  "zh-hant": "招式學習器１３６",
+  "fr": "CT136",
+  "de": "TM136",
+  "es": "MT136",
+  "it": "MT136",
+  "en": "TM136",
+  "ja": "わざマシン１３６",
+  "zh-hans": "招式学习器１３６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

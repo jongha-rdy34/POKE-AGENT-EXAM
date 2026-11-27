@@ -1,0 +1,28 @@
+{
+ "name": "red-card",
+ "names": {
+  "ja-hrkt": "レッドカード",
+  "ko": "레드카드",
+  "zh-hant": "紅牌",
+  "fr": "Carton Rouge",
+  "de": "Rote Karte",
+  "es": "Tarjeta Roja",
+  "it": "Cartelrosso",
+  "en": "Red Card",
+  "ja": "レッドカード",
+  "zh-hans": "红牌",
+  "es-419": "Tarjeta Roja"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Quand le porteur subit des dégâts d'une capacité, l'adversaire se retire pour un autre Pokémon aléatoire de l'équipe. Consommé après utilisation.",
+  "en": "Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. When the holder is hit by an attack, the attacker is removed from battle.",
+  "ko": "이상한 힘이 있는 카드. 지니게 하면 기술을 사용한 상대를 퇴장시킬 수 있다.",
+  "ja": "不思議な ちからのある カード。 持たせると 技を 使ってきた 相手を 退場させることが できる。"
+ }
+}

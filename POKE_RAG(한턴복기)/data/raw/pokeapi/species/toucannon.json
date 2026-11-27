@@ -1,0 +1,42 @@
+{
+ "id": 733,
+ "name": "toucannon",
+ "names": {
+  "ja-hrkt": "ドデカバシ",
+  "ja-roma": "Dodekabashi",
+  "ko": "왕큰부리",
+  "zh-hant": "銃嘴大鳥",
+  "fr": "Bazoucan",
+  "de": "Tukanon",
+  "es": "Toucannon",
+  "it": "Toucannon",
+  "en": "Toucannon",
+  "ja": "ドデカバシ",
+  "zh-hans": "铳嘴大鸟",
+  "es-419": "Toucannon"
+ },
+ "genus": {
+  "ja-hrkt": "おおづつポケモン",
+  "ko": "대포포켓몬",
+  "zh-hant": "銃炮寶可夢",
+  "fr": "Pokémon Canon",
+  "de": "Kanone",
+  "es": "Pokémon Cañón",
+  "it": "Pokémon Cannone",
+  "en": "Cannon Pokémon",
+  "ja": "おおづつポケモン",
+  "zh-hans": "铳炮宝可梦",
+  "es-419": "Pokémon Cañón"
+ },
+ "flavor": {
+  "ko": "암수의 사이가 좋다고 알려져 있다. 행운을 부르기 위해 결혼식에 데리고 온다.",
+  "en": "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm."
+ },
+ "varieties": [
+  {
+   "name": "toucannon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "377"
+}

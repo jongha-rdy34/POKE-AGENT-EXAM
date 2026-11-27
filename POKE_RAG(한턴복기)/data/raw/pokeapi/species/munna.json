@@ -1,0 +1,42 @@
+{
+ "id": 517,
+ "name": "munna",
+ "names": {
+  "ja-hrkt": "ムンナ",
+  "ja-roma": "Munna",
+  "ko": "몽나",
+  "zh-hant": "食夢夢",
+  "fr": "Munna",
+  "de": "Somniam",
+  "es": "Munna",
+  "it": "Munna",
+  "en": "Munna",
+  "ja": "ムンナ",
+  "zh-hans": "食梦梦",
+  "es-419": "Munna"
+ },
+ "genus": {
+  "ja-hrkt": "ゆめくいポケモン",
+  "ko": "꿈먹기포켓몬",
+  "zh-hant": "食夢寶可夢",
+  "fr": "Pokémon Mangerêve",
+  "de": "Traumfresser-Pokémon",
+  "es": "Pokémon Comesueños",
+  "it": "Pokémon Divorasogni",
+  "en": "Dream Eater Pokémon",
+  "ja": "ゆめくいポケモン",
+  "zh-hans": "食梦宝可梦",
+  "es-419": "Pokémon Comesueños"
+ },
+ "flavor": {
+  "en": "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare.",
+  "ko": "꿈을 먹고 연기를 내뿜는다. 즐거운 꿈이면 핑크색이고 악몽이면 거무스름하다."
+ },
+ "varieties": [
+  {
+   "name": "munna",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "265"
+}

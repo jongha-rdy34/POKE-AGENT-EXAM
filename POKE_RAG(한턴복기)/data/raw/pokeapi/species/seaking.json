@@ -1,0 +1,42 @@
+{
+ "id": 119,
+ "name": "seaking",
+ "names": {
+  "ja-hrkt": "アズマオウ",
+  "ja-roma": "Azumao",
+  "ko": "왕콘치",
+  "zh-hant": "金魚王",
+  "fr": "Poissoroy",
+  "de": "Golking",
+  "es": "Seaking",
+  "it": "Seaking",
+  "en": "Seaking",
+  "ja": "アズマオウ",
+  "zh-hans": "金鱼王",
+  "es-419": "Seaking"
+ },
+ "genus": {
+  "ja-hrkt": "きんぎょポケモン",
+  "ko": "금붕어포켓몬",
+  "zh-hant": "金魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Goldfisch-Pokémon",
+  "es": "Pokémon Pez Color",
+  "it": "Pokémon Pescerosso",
+  "en": "Goldfish Pokémon",
+  "ja": "きんぎょポケモン",
+  "zh-hans": "金鱼宝可梦",
+  "es-419": "Pokémon Pez Color"
+ },
+ "flavor": {
+  "en": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+  "ko": "뿔로 강바닥의 바위를 파헤쳐 둥지를 만드는 이유는 낳은 알이 떠내려가지 않도록 하기 위함이다."
+ },
+ "varieties": [
+  {
+   "name": "seaking",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "55"
+}

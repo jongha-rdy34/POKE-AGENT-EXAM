@@ -1,0 +1,42 @@
+{
+ "id": 848,
+ "name": "toxel",
+ "names": {
+  "ja-hrkt": "エレズン",
+  "ja-roma": "Eleson",
+  "ko": "일레즌",
+  "zh-hant": "毒電嬰",
+  "fr": "Toxizap",
+  "de": "Toxel",
+  "es": "Toxel",
+  "it": "Toxel",
+  "en": "Toxel",
+  "ja": "エレズン",
+  "zh-hans": "电音婴",
+  "es-419": "Toxel"
+ },
+ "genus": {
+  "ja-hrkt": "あかごポケモン",
+  "ko": "젖먹이포켓몬",
+  "zh-hant": "嬰兒寶可夢",
+  "fr": "Pokémon Poupon",
+  "de": "Baby-Pokémon",
+  "es": "Pokémon Retoño",
+  "it": "Pokémon Bebè",
+  "en": "Baby Pokémon",
+  "ja": "あかごポケモン",
+  "zh-hans": "婴儿宝可梦",
+  "es-419": "Pokémon Retoño"
+ },
+ "flavor": {
+  "ko": "독소를 화학 변화시켜 전기를 만들어 낸다. 전력은 약하지만 찌릿찌릿 마비된다.",
+  "en": "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis."
+ },
+ "varieties": [
+  {
+   "name": "toxel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "446"
+}

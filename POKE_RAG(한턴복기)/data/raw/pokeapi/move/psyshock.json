@@ -1,0 +1,31 @@
+{
+ "name": "psyshock",
+ "names": {
+  "ja-hrkt": "サイコショック",
+  "ko": "사이코쇼크",
+  "zh-hant": "精神衝擊",
+  "fr": "Choc Psy",
+  "de": "Psychoschock",
+  "es": "Psicocarga",
+  "it": "Psicoshock",
+  "en": "Psyshock",
+  "ja": "サイコショック",
+  "zh-hans": "精神冲击",
+  "es-419": "Choque Psíquico"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts damage based on the target’s Defense, not Special Defense."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user materializes an odd psychic wave to attack the target. This move deals physical damage.",
+  "ko": "이상한 염력파를 실체화하여 상대를 공격한다. 물리적인 데미지를 준다."
+ }
+}

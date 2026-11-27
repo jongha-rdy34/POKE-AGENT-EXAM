@@ -1,0 +1,42 @@
+{
+ "id": 755,
+ "name": "morelull",
+ "names": {
+  "ja-hrkt": "ネマシュ",
+  "ja-roma": "Nemasyu",
+  "ko": "자마슈",
+  "zh-hant": "睡睡菇",
+  "fr": "Spododo",
+  "de": "Bubungus",
+  "es": "Morelull",
+  "it": "Morelull",
+  "en": "Morelull",
+  "ja": "ネマシュ",
+  "zh-hans": "睡睡菇",
+  "es-419": "Morelull"
+ },
+ "genus": {
+  "ja-hrkt": "はっこうポケモン",
+  "ko": "발광포켓몬",
+  "zh-hant": "發光寶可夢",
+  "fr": "Pokémon Luminescent",
+  "de": "Lumineszenz-Pokémon",
+  "es": "Pokémon Luminiscente",
+  "it": "Pokémon Luminescenza",
+  "en": "Illuminating Pokémon",
+  "ja": "はっこうポケモン",
+  "zh-hans": "发光宝可梦",
+  "es-419": "Pokémon Luminiscente"
+ },
+ "flavor": {
+  "ko": "낮에도 어두운 숲에서 생활한다. 점멸하면서 빛나는 포자를 흩뿌려 적을 잠들게 한다.",
+  "en": "Morelull live in forests that stay dark even during the day. They scatter flickering spores that put enemies to sleep."
+ },
+ "varieties": [
+  {
+   "name": "morelull",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "389"
+}

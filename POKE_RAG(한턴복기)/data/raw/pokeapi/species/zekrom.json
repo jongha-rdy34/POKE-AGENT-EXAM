@@ -1,0 +1,42 @@
+{
+ "id": 644,
+ "name": "zekrom",
+ "names": {
+  "ja-hrkt": "ゼクロム",
+  "ja-roma": "Zekrom",
+  "ko": "제크로무",
+  "zh-hant": "捷克羅姆",
+  "fr": "Zekrom",
+  "de": "Zekrom",
+  "es": "Zekrom",
+  "it": "Zekrom",
+  "en": "Zekrom",
+  "ja": "ゼクロム",
+  "zh-hans": "捷克罗姆",
+  "es-419": "Zekrom"
+ },
+ "genus": {
+  "ja-hrkt": "こくいんポケモン",
+  "ko": "흑음포켓몬",
+  "zh-hant": "黑陰寶可夢",
+  "fr": "Pokémon Noir Idéal",
+  "de": "Reines Schwarz-Pokémon",
+  "es": "Pokémon Negro Puro",
+  "it": "Pokémon Nero Ideale",
+  "en": "Deep Black Pokémon",
+  "ja": "こくいんポケモン",
+  "zh-hans": "黑阴宝可梦",
+  "es-419": "Pokémon Negro Puro"
+ },
+ "flavor": {
+  "en": "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning.",
+  "ko": "사람이 올바른 마음을 잃으면 격렬한 천둥으로 나라를 멸망시킨다는 신화가 있다."
+ },
+ "varieties": [
+  {
+   "name": "zekrom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "331"
+}

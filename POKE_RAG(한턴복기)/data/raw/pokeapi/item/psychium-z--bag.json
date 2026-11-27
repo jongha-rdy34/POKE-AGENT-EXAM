@@ -1,0 +1,28 @@
+{
+ "name": "psychium-z--bag",
+ "names": {
+  "ja-hrkt": "エスパーＺ",
+  "ko": "에스퍼Z",
+  "zh-hant": "超能力Ｚ",
+  "fr": "Psychézélite",
+  "de": "Psium Z",
+  "es": "Psicostal Z",
+  "it": "Psichium Z",
+  "en": "Psychium Z",
+  "ja": "エスパーＺ",
+  "zh-hans": "超能力Ｚ",
+  "es-419": "Psicostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour psychium-z--bag",
+  "en": "XXX new effect for psychium-z--bag"
+ },
+ "flavor": {
+  "ko": "에스퍼타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Psychic-type moves to Psychic-type Z-Moves.",
+  "ja": "エスパータイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

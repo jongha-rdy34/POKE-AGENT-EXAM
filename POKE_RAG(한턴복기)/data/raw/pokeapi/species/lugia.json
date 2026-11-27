@@ -1,0 +1,42 @@
+{
+ "id": 249,
+ "name": "lugia",
+ "names": {
+  "ja-hrkt": "ルギア",
+  "ja-roma": "Lugia",
+  "ko": "루기아",
+  "zh-hant": "洛奇亞",
+  "fr": "Lugia",
+  "de": "Lugia",
+  "es": "Lugia",
+  "it": "Lugia",
+  "en": "Lugia",
+  "ja": "ルギア",
+  "zh-hans": "洛奇亚",
+  "es-419": "Lugia"
+ },
+ "genus": {
+  "ja-hrkt": "せんすいポケモン",
+  "ko": "잠수포켓몬",
+  "zh-hant": "潛水寶可夢",
+  "fr": "Pokémon Plongeon",
+  "de": "Taucher-Pokémon",
+  "es": "Pokémon Buceo",
+  "it": "Pokémon Immersione",
+  "en": "Diving Pokémon",
+  "ja": "せんすいポケモン",
+  "zh-hans": "潜水宝可梦",
+  "es-419": "Pokémon Buceo"
+ },
+ "flavor": {
+  "en": "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
+  "ko": "가벼운 날갯짓만으로도 민가를 날려버릴 만한 파괴력을 지니고 있어서 해저에서 사람들 몰래 살게 됐다."
+ },
+ "varieties": [
+  {
+   "name": "lugia",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "127"
+}

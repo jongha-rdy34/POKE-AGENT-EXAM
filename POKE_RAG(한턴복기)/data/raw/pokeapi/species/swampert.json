@@ -1,0 +1,46 @@
+{
+ "id": 260,
+ "name": "swampert",
+ "names": {
+  "ja-hrkt": "ラグラージ",
+  "ja-roma": "Laglarge",
+  "ko": "대짱이",
+  "zh-hant": "巨沼怪",
+  "fr": "Laggron",
+  "de": "Sumpex",
+  "es": "Swampert",
+  "it": "Swampert",
+  "en": "Swampert",
+  "ja": "ラグラージ",
+  "zh-hans": "巨沼怪",
+  "es-419": "Swampert"
+ },
+ "genus": {
+  "ja-hrkt": "ぬまうおポケモン",
+  "ko": "늪물고기포켓몬",
+  "zh-hant": "沼魚寶可夢",
+  "fr": "Pokémon Poissonboue",
+  "de": "Lehmhüpfer-Pokémon",
+  "es": "Pokémon Pez Lodo",
+  "it": "Pokémon Fango Pesce",
+  "en": "Mud Fish Pokémon",
+  "ja": "ぬまうおポケモン",
+  "zh-hans": "沼鱼宝可梦",
+  "es-419": "Pokémon Pez Lodo"
+ },
+ "flavor": {
+  "en": "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
+  "ko": "대짱이는 파도 소리나 바닷바람의 아주 작은 차이를 지느러미로 감지하여 태풍을 예감한다. 태풍이 불면 바위를 쌓아서 둥지를 지킨다."
+ },
+ "varieties": [
+  {
+   "name": "swampert",
+   "is_default": true
+  },
+  {
+   "name": "swampert-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "132"
+}

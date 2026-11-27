@@ -1,0 +1,28 @@
+{
+ "name": "favored-mail",
+ "names": {
+  "ja-hrkt": "だいすきメール",
+  "ko": "애호메일",
+  "zh-hant": "喜愛郵件",
+  "fr": "Lettre Fan",
+  "de": "Faiblebrief",
+  "es": "Carta Favoritos",
+  "it": "Messaggio TVB",
+  "en": "Favored Mail",
+  "ja": "だいすきメール",
+  "zh-hans": "喜爱邮件",
+  "es-419": "Carta Favoritos"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery designed to make it easier to write about your favorite things. Have a Pokémon hold it for delivery.",
+  "ko": "좋아하는 것을 전하는 메일을 쉽게 쓸 수 있는 편지지. 포켓몬에게 지니게 해서 쓴다.",
+  "ja": "好きなものを 伝える メールが 書きやすい レターペーパー。 ポケモンに 持たせて 使う。"
+ }
+}

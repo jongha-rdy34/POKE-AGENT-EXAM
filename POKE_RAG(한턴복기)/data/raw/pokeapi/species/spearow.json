@@ -1,0 +1,42 @@
+{
+ "id": 21,
+ "name": "spearow",
+ "names": {
+  "ja-hrkt": "オニスズメ",
+  "ja-roma": "Onisuzume",
+  "ko": "깨비참",
+  "zh-hant": "烈雀",
+  "fr": "Piafabec",
+  "de": "Habitak",
+  "es": "Spearow",
+  "it": "Spearow",
+  "en": "Spearow",
+  "ja": "オニスズメ",
+  "zh-hans": "烈雀",
+  "es-419": "Spearow"
+ },
+ "genus": {
+  "ja-hrkt": "ことりポケモン",
+  "ko": "아기새포켓몬",
+  "zh-hant": "小鳥寶可夢",
+  "fr": "Pokémon Minoiseau",
+  "de": "Kleinvogel",
+  "es": "Pokémon Pajarito",
+  "it": "Pokémon Uccellino",
+  "en": "Tiny Bird Pokémon",
+  "ja": "ことりポケモン",
+  "zh-hans": "小鸟宝可梦",
+  "es-419": "Pokémon Pajarito"
+ },
+ "flavor": {
+  "en": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+  "ko": "높이 나는 것에 서투르다. 영역을 지키기 위해 맹렬한 스피드로 날아다닌다."
+ },
+ "varieties": [
+  {
+   "name": "spearow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "8"
+}

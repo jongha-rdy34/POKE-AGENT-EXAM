@@ -1,0 +1,20 @@
+{
+ "name": "poliwag-slime",
+ "names": {
+  "ja-hrkt": "ニョロモのめんえき",
+  "ko": "발챙이의점액",
+  "zh-hant": "蚊香蝌蚪的黏液",
+  "fr": "Mucus de Ptitard",
+  "de": "Quapsel-Schleim",
+  "es": "Secreción de Poliwag",
+  "it": "Muco di Poliwag",
+  "en": "Poliwag Slime",
+  "ja": "ニョロモのめんえき",
+  "zh-hans": "蚊香蝌蚪的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

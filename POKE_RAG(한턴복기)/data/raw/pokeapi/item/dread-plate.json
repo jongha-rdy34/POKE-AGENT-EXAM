@@ -1,0 +1,32 @@
+{
+ "name": "dread-plate",
+ "names": {
+  "ja-hrkt": "こわもてプレート",
+  "ko": "공포플레이트",
+  "zh-hant": "惡顏石板",
+  "fr": "Plaque Ombre",
+  "de": "Furchttafel",
+  "es": "Tabla Oscura",
+  "it": "Lastratimore",
+  "en": "Dread Plate",
+  "ja": "こわもてプレート",
+  "zh-hans": "恶颜石板",
+  "es-419": "Tabla Oscura"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Ténèbres du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Ténèbres.",
+  "en": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Dark-type moves.",
+  "ko": "악타입의 석판. 지니게 하면 악타입 기술의 위력이 강해진다.",
+  "ja": "あくの タイプの 石盤。 持たせると あくタイプの 技の 威力が 強まる。"
+ }
+}

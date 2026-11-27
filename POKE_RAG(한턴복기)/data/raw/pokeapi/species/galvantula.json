@@ -1,0 +1,42 @@
+{
+ "id": 596,
+ "name": "galvantula",
+ "names": {
+  "ja-hrkt": "デンチュラ",
+  "ja-roma": "Dentula",
+  "ko": "전툴라",
+  "zh-hant": "電蜘蛛",
+  "fr": "Mygavolt",
+  "de": "Voltula",
+  "es": "Galvantula",
+  "it": "Galvantula",
+  "en": "Galvantula",
+  "ja": "デンチュラ",
+  "zh-hans": "电蜘蛛",
+  "es-419": "Galvantula"
+ },
+ "genus": {
+  "ja-hrkt": "でんきグモポケモン",
+  "ko": "전기거미포켓몬",
+  "zh-hant": "電蜘蛛寶可夢",
+  "fr": "Pokémon Araclectrik",
+  "de": "Stromspinnen-Pokémon",
+  "es": "Pokémon Electroaraña",
+  "it": "Pokémon Elettroragno",
+  "en": "EleSpider Pokémon",
+  "ja": "でんきグモポケモン",
+  "zh-hans": "电蜘蛛宝可梦",
+  "es-419": "Pokémon Electroaraña"
+ },
+ "flavor": {
+  "en": "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.",
+  "ko": "잘 날지 못하는 새끼를 노리고 새포켓몬 둥지 가까이에 전기로 된 실로 함정을 만든다."
+ },
+ "varieties": [
+  {
+   "name": "galvantula",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "303"
+}

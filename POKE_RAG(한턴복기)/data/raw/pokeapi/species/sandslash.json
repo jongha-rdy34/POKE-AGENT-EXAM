@@ -1,0 +1,46 @@
+{
+ "id": 28,
+ "name": "sandslash",
+ "names": {
+  "ja-hrkt": "サンドパン",
+  "ja-roma": "Sandpan",
+  "ko": "고지",
+  "zh-hant": "穿山王",
+  "fr": "Sablaireau",
+  "de": "Sandamer",
+  "es": "Sandslash",
+  "it": "Sandslash",
+  "en": "Sandslash",
+  "ja": "サンドパン",
+  "zh-hans": "穿山王",
+  "es-419": "Sandslash"
+ },
+ "genus": {
+  "ja-hrkt": "ねずみポケモン",
+  "ko": "쥐포켓몬",
+  "zh-hant": "鼠寶可夢",
+  "fr": "Pokémon Souris",
+  "de": "Maus-Pokémon",
+  "es": "Pokémon Ratón",
+  "it": "Pokémon Topo",
+  "en": "Mouse Pokémon",
+  "ja": "ねずみポケモン",
+  "zh-hans": "鼠宝可梦",
+  "es-419": "Pokémon Ratón"
+ },
+ "flavor": {
+  "en": "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.",
+  "ko": "날카로운 발톱으로 찍으며 나무에 오른다. 아래에서 기다리는 모래두지들에게 나무열매를 떨어뜨려 나눠준다."
+ },
+ "varieties": [
+  {
+   "name": "sandslash",
+   "is_default": true
+  },
+  {
+   "name": "sandslash-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "11"
+}

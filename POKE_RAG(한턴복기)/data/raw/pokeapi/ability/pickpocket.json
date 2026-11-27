@@ -1,0 +1,23 @@
+{
+ "name": "pickpocket",
+ "names": {
+  "ja-hrkt": "わるいてぐせ",
+  "ko": "나쁜손버릇",
+  "zh-hant": "順手牽羊",
+  "fr": "Pickpocket",
+  "de": "Langfinger",
+  "es": "Hurto",
+  "it": "Arraffalesto",
+  "en": "Pickpocket",
+  "ja": "わるいてぐせ",
+  "zh-hans": "顺手牵羊",
+  "es-419": "Hurto"
+ },
+ "effect": {
+  "en": "Steals attacking Pokémon's held items on contact."
+ },
+ "flavor": {
+  "en": "The Pokémon steals the held item from attackers that made direct contact with it.",
+  "ko": "접촉한 상대의 도구를 훔친다."
+ }
+}

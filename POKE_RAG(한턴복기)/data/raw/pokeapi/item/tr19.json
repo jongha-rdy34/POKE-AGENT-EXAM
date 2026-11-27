@@ -1,0 +1,25 @@
+{
+ "name": "tr19",
+ "names": {
+  "ja-hrkt": "わざレコード１９",
+  "ko": "기술레코드19",
+  "zh-hant": "招式紀錄１９",
+  "fr": "DT19",
+  "de": "TP19",
+  "es": "DT19",
+  "it": "DT19",
+  "en": "TR19",
+  "ja": "わざレコード１９",
+  "zh-hans": "招式记录１９",
+  "es-419": "DT19"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "3개의 광선으로 공격한다. 마비, 화상 또는 얼음 상태 중 어느 하나로 만들 때가 있다.",
+  "en": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.",
+  "ja": "３つの 光線で 攻撃する。 まひか やけどか こおり状態の どれかに することが ある。"
+ }
+}

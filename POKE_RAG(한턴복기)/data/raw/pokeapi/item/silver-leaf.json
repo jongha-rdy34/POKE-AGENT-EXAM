@@ -1,0 +1,25 @@
+{
+ "name": "silver-leaf",
+ "names": {
+  "ja-hrkt": "ぎんのはっぱ",
+  "ko": "은빛잎사귀",
+  "zh-hant": "銀色葉子",
+  "fr": "Feuille Argentée",
+  "de": "Silberblatt",
+  "es": "Hoja de Plata",
+  "it": "Fogliargento",
+  "en": "Silver Leaf",
+  "ja": "ぎんのはっぱ",
+  "zh-hans": "银色叶子",
+  "es-419": "Hoja de Plata"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "은빛의 신비한 나뭇잎. 이 나뭇잎이 자라는 나무는 아직 발견되지 않았다.",
+  "en": "A mysterious silver leaf. No trees with this leaf have been found yet.",
+  "ja": "銀色の 不思議な はっぱ。 この はっぱを つける 木は 見つかって いない。"
+ }
+}

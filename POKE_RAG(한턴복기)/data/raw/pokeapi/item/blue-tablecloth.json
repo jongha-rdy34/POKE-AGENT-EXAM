@@ -1,0 +1,20 @@
+{
+ "name": "blue-tablecloth",
+ "names": {
+  "ja-hrkt": "ブルークロス",
+  "ko": "블루 테이블보",
+  "zh-hant": "藍色桌巾",
+  "fr": "Nappe Bleue",
+  "de": "Blaues Tischtuch",
+  "es": "Mantel Azul",
+  "it": "Tovaglia blu",
+  "en": "Blue Tablecloth",
+  "ja": "ブルークロス",
+  "zh-hans": "蓝色桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "symbiosis",
+ "names": {
+  "ja-hrkt": "きょうせい",
+  "ko": "공생",
+  "zh-hant": "共生",
+  "fr": "Symbiose",
+  "de": "Nutznießer",
+  "es": "Simbiosis",
+  "it": "Simbiosi",
+  "en": "Symbiosis",
+  "ja": "きょうせい",
+  "zh-hans": "共生",
+  "es-419": "Simbiosis"
+ },
+ "effect": {
+  "en": "Passes the bearer's held item to an ally when the ally uses up its item."
+ },
+ "flavor": {
+  "ko": "같은 편이 도구를 쓰면 자신이 지니고 있는 도구를 같은 편에게 건넨다.",
+  "en": "The Pokémon passes its held item to an ally that has used up an item."
+ }
+}

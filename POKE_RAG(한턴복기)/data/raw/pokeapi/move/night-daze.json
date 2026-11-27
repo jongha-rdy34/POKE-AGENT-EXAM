@@ -1,0 +1,31 @@
+{
+ "name": "night-daze",
+ "names": {
+  "ja-hrkt": "ナイトバースト",
+  "ko": "나이트버스트",
+  "zh-hant": "暗黑爆破",
+  "fr": "Explonuit",
+  "de": "Nachtflut",
+  "es": "Pulso Noche",
+  "it": "Urtoscuro",
+  "en": "Night Daze",
+  "ja": "ナイトバースト",
+  "zh-hans": "暗黑爆破",
+  "es-419": "Pulso Nocturno"
+ },
+ "type": "dark",
+ "category": "special",
+ "power": 85,
+ "accuracy": 95,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s accuracy by one stage."
+ },
+ "effect_chance": 40,
+ "flavor": {
+  "en": "The user looses a pitch-black shock wave at the target to inflict damage. This may also lower the target's accuracy.",
+  "ko": "암흑의 충격파를 날려서 상대를 공격한다. 명중률을 떨어뜨릴 때가 있다."
+ }
+}

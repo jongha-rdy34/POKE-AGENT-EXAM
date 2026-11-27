@@ -1,0 +1,42 @@
+{
+ "id": 409,
+ "name": "rampardos",
+ "names": {
+  "ja-hrkt": "ラムパルド",
+  "ja-roma": "Rampald",
+  "ko": "램펄드",
+  "zh-hant": "戰槌龍",
+  "fr": "Charkos",
+  "de": "Rameidon",
+  "es": "Rampardos",
+  "it": "Rampardos",
+  "en": "Rampardos",
+  "ja": "ラムパルド",
+  "zh-hans": "战槌龙",
+  "es-419": "Rampardos"
+ },
+ "genus": {
+  "ja-hrkt": "ずつきポケモン",
+  "ko": "박치기포켓몬",
+  "zh-hant": "頭錘寶可夢",
+  "fr": "Pokémon Coud’Boule",
+  "de": "Kopfstoß",
+  "es": "Pokémon Cabezazo",
+  "it": "Pokémon Cranioso",
+  "en": "Head Butt Pokémon",
+  "ja": "ずつきポケモン",
+  "zh-hans": "头锤宝可梦",
+  "es-419": "Pokémon Cabezazo"
+ },
+ "flavor": {
+  "en": "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them.",
+  "ko": "박치기가 특기인 고대 포켓몬이다. 뇌가 정말 작기 때문에 멍청해서 멸종했다는 설도 있다."
+ },
+ "varieties": [
+  {
+   "name": "rampardos",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "211"
+}

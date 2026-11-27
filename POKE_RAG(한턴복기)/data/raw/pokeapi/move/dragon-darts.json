@@ -1,0 +1,31 @@
+{
+ "name": "dragon-darts",
+ "names": {
+  "ja-hrkt": "ドラゴンアロー",
+  "ko": "드래곤애로",
+  "zh-hant": "龍箭",
+  "fr": "Draco-Flèches",
+  "de": "Drachenpfeile",
+  "es": "Dracoflechas",
+  "it": "Dragofrecce",
+  "en": "Dragon Darts",
+  "ja": "ドラゴンアロー",
+  "zh-hans": "龙箭",
+  "es-419": "Dracoflechas"
+ },
+ "type": "dragon",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits twice in one turn. In Double Battles, this move will hit both enemy targets. If it would fail to hit one of the targets, the other target will be hit twice."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "드라꼰으로 2번 공격한다. 상대가 2마리일 때는 각각 1번씩 공격한다.",
+  "en": "The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once."
+ }
+}

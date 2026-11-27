@@ -1,0 +1,53 @@
+{
+ "type": "review",
+ "fields": {
+  "my_form_key": "garchomp",
+  "opp_form_key": "dragapult",
+  "move_key": "dragon-darts",
+  "actual": {
+   "kind": "outsped"
+  },
+  "actor": "opp",
+  "my_build": {
+   "sp": {
+    "atk": 32,
+    "spe": 32,
+    "hp": 2
+   }
+  }
+ },
+ "missing": [],
+ "ask": [
+  "move_key"
+ ],
+ "notes": [
+  "문장에서 기술 '드래곤애로'를 찾았어요. 맞는지 확인해 주세요"
+ ],
+ "labels": {
+  "my": {
+   "form_key": "garchomp",
+   "name_ko": "한카리아스",
+   "types": [
+    "드래곤",
+    "땅"
+   ]
+  },
+  "opp": {
+   "form_key": "dragapult",
+   "name_ko": "드래펄트",
+   "types": [
+    "드래곤",
+    "고스트"
+   ]
+  },
+  "move": {
+   "move_key": "dragon-darts",
+   "name_ko": "드래곤애로",
+   "type": "드래곤",
+   "category": "물리",
+   "power": 50,
+   "priority": 0
+  }
+ },
+ "extraction_id": "sample-eid"
+}

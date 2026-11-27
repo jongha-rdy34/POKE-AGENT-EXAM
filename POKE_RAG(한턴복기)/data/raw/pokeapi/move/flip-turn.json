@@ -1,0 +1,31 @@
+{
+ "name": "flip-turn",
+ "names": {
+  "ja-hrkt": "クイックターン",
+  "ko": "퀵턴",
+  "zh-hant": "快速折返",
+  "fr": "Eau Revoir",
+  "de": "Rollwende",
+  "es": "Viraje",
+  "it": "Virata",
+  "en": "Flip Turn",
+  "ja": "クイックターン",
+  "zh-hans": "快速折返",
+  "es-419": "Viraje"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User must switch out after attacking."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다.",
+  "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+ }
+}

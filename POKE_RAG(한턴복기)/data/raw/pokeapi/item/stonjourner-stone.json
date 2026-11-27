@@ -1,0 +1,20 @@
+{
+ "name": "stonjourner-stone",
+ "names": {
+  "ja-hrkt": "イシヘンジンのいわ",
+  "ko": "돌헨진의바위",
+  "zh-hant": "巨石丁的岩石",
+  "fr": "Roche de Dolman",
+  "de": "Humanolith-Stein",
+  "es": "Roca de Stonjourner",
+  "it": "Roccia di Stonjourner",
+  "en": "Stonjourner Stone",
+  "ja": "イシヘンジンのいわ",
+  "zh-hans": "巨石丁的岩石"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

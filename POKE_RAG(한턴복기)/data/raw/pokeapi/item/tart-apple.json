@@ -1,0 +1,25 @@
+{
+ "name": "tart-apple",
+ "names": {
+  "ja-hrkt": "すっぱいりんご",
+  "ko": "새콤한사과",
+  "zh-hant": "酸酸蘋果",
+  "fr": "Pomme Acidulée",
+  "de": "Saurer Apfel",
+  "es": "Manzana Ácida",
+  "it": "Aspropomo",
+  "en": "Tart Apple",
+  "ja": "すっぱいりんご",
+  "zh-hans": "酸酸苹果",
+  "es-419": "Manzana Ácida"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 사과. 엄청나게 새콤하다.",
+  "en": "A peculiar apple that can make a certain species of Pokémon evolve. It’s exceptionally tart.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な りんご。 とにかく 酸っぱい。"
+ }
+}

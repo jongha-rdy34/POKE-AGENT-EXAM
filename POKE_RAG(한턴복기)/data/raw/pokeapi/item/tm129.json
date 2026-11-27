@@ -1,0 +1,20 @@
+{
+ "name": "tm129",
+ "names": {
+  "ja-hrkt": "わざマシン１２９",
+  "ko": "기술머신129",
+  "zh-hant": "招式學習器１２９",
+  "fr": "CT129",
+  "de": "TM129",
+  "es": "MT129",
+  "it": "MT129",
+  "en": "TM129",
+  "ja": "わざマシン１２９",
+  "zh-hans": "招式学习器１２９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 765,
+ "name": "oranguru",
+ "names": {
+  "ja-hrkt": "ヤレユータン",
+  "ja-roma": "Yareyuutan",
+  "ko": "하랑우탄",
+  "zh-hant": "智揮猩",
+  "fr": "Gouroutan",
+  "de": "Kommandutan",
+  "es": "Oranguru",
+  "it": "Oranguru",
+  "en": "Oranguru",
+  "ja": "ヤレユータン",
+  "zh-hans": "智挥猩",
+  "es-419": "Oranguru"
+ },
+ "genus": {
+  "ja-hrkt": "けんじゃポケモン",
+  "ko": "현자포켓몬",
+  "zh-hant": "賢者寶可夢",
+  "fr": "Pokémon Grand Sage",
+  "de": "Weisheits-Pokémon",
+  "es": "Pokémon Sabio",
+  "it": "Pokémon Saggio",
+  "en": "Sage Pokémon",
+  "ja": "けんじゃポケモン",
+  "zh-hans": "贤者宝可梦",
+  "es-419": "Pokémon Sabio"
+ },
+ "flavor": {
+  "ko": "숲 구석구석까지 파악하고 있어 상처 입은 포켓몬이 있으면 약초를 찾아 치료한다.",
+  "en": "It knows the forest inside and out. If it comes across a wounded Pokémon, Oranguru will gather medicinal herbs to treat it."
+ },
+ "varieties": [
+  {
+   "name": "oranguru",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "394"
+}

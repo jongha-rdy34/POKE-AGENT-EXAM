@@ -1,0 +1,20 @@
+{
+ "name": "falinksite",
+ "names": {
+  "ko": "대여르나이트",
+  "zh-hant": "列陣兵進化石",
+  "fr": "Hexadronite",
+  "de": "Legiosnit",
+  "es": "Falinksita",
+  "it": "Falinksite",
+  "en": "Falinksite",
+  "ja": "タイレーツナイト",
+  "zh-hans": "列阵兵进化石",
+  "es-419": "Falinksita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

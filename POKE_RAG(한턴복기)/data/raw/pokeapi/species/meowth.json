@@ -1,0 +1,54 @@
+{
+ "id": 52,
+ "name": "meowth",
+ "names": {
+  "ja-hrkt": "ニャース",
+  "ja-roma": "Nyarth",
+  "ko": "나옹",
+  "zh-hant": "喵喵",
+  "fr": "Miaouss",
+  "de": "Mauzi",
+  "es": "Meowth",
+  "it": "Meowth",
+  "en": "Meowth",
+  "ja": "ニャース",
+  "zh-hans": "喵喵",
+  "es-419": "Meowth"
+ },
+ "genus": {
+  "ja-hrkt": "ばけねこポケモン",
+  "ko": "요괴고양이포켓몬",
+  "zh-hant": "妖怪貓寶可夢",
+  "fr": "Pokémon Chadégout",
+  "de": "Katzen-Pokémon",
+  "es": "Pokémon Gato Araña",
+  "it": "Pokémon Graffimiao",
+  "en": "Scratch Cat Pokémon",
+  "ja": "ばけねこポケモン",
+  "zh-hans": "妖怪猫宝可梦",
+  "es-419": "Pokémon Gato Araña"
+ },
+ "flavor": {
+  "en": "It washes its face regularly to keep the coin on its forehead spotless. It doesn’t get along with Galarian Meowth.",
+  "ko": "이마의 금화가 더러워지지 않도록 바지런히 얼굴을 씻는다. 가라르의 나옹과는 사이가 나쁘다."
+ },
+ "varieties": [
+  {
+   "name": "meowth",
+   "is_default": true
+  },
+  {
+   "name": "meowth-alola",
+   "is_default": false
+  },
+  {
+   "name": "meowth-galar",
+   "is_default": false
+  },
+  {
+   "name": "meowth-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "22"
+}

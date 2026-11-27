@@ -1,0 +1,31 @@
+{
+ "name": "accelerock",
+ "names": {
+  "ja-hrkt": "アクセルロック",
+  "ko": "액셀록",
+  "zh-hant": "衝岩",
+  "fr": "Vif Roc",
+  "de": "Turbofelsen",
+  "es": "Roca Veloz",
+  "it": "Rocciarapida",
+  "en": "Accelerock",
+  "ja": "アクセルロック",
+  "zh-hans": "冲岩",
+  "es-419": "Roca Veloz"
+ },
+ "type": "rock",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "재빠른 스피드로 상대에게 부딪쳐서 공격한다. 반드시 선제공격할 수 있다.",
+  "en": "The user smashes into the target at high speed. This move always goes first."
+ }
+}

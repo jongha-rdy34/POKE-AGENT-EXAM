@@ -1,0 +1,42 @@
+{
+ "id": 891,
+ "name": "kubfu",
+ "names": {
+  "ja-hrkt": "ダクマ",
+  "ja-roma": "Dakuma",
+  "ko": "치고마",
+  "zh-hant": "熊徒弟",
+  "fr": "Wushours",
+  "de": "Dakuma",
+  "es": "Kubfu",
+  "it": "Kubfu",
+  "en": "Kubfu",
+  "ja": "ダクマ",
+  "zh-hans": "熊徒弟",
+  "es-419": "Kubfu"
+ },
+ "genus": {
+  "ja-hrkt": "けんぽうポケモン",
+  "ko": "권법포켓몬",
+  "zh-hant": "拳法寶可夢",
+  "fr": "Pokémon Kung-fu",
+  "de": "Kung-Fu-Pokémon",
+  "es": "Pokémon Kung-fu",
+  "it": "Pokémon Kung Fu",
+  "en": "Wushu Pokémon",
+  "ja": "けんぽうポケモン",
+  "zh-hans": "拳法宝可梦",
+  "es-419": "Pokémon Kung-fu"
+ },
+ "flavor": {
+  "ko": "머리의 하얗고 긴 털을 잡아당기면 기세가 고조되어 단전에서 파워가 끓어오른다.",
+  "en": "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly."
+ },
+ "varieties": [
+  {
+   "name": "kubfu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "470"
+}

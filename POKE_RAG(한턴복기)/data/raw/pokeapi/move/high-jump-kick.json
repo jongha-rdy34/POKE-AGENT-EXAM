@@ -1,0 +1,31 @@
+{
+ "name": "high-jump-kick",
+ "names": {
+  "ja-hrkt": "とびひざげり",
+  "ko": "무릎차기",
+  "zh-hant": "飛膝踢",
+  "fr": "Pied Voltige",
+  "de": "Turmkick",
+  "es": "Patada Salto Alta",
+  "it": "Calcinvolo",
+  "en": "High Jump Kick",
+  "ja": "とびひざげり",
+  "zh-hans": "飞膝踢",
+  "es-419": "Patada Salto Alto"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 130,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If the user misses, it takes half the damage it would have inflicted in recoil."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is attacked with a knee kick from a jump. If this move misses, the user takes damage instead.",
+  "ko": "점프해서 무릎차기로 상대를 공격한다. 빗나가면 자신이 데미지를 입는다."
+ }
+}

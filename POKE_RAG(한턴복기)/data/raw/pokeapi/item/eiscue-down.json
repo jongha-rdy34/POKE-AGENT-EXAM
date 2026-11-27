@@ -1,0 +1,20 @@
+{
+ "name": "eiscue-down",
+ "names": {
+  "ja-hrkt": "コオリッポのうもう",
+  "ko": "빙큐보의솜털",
+  "zh-hant": "冰砌鵝的羽絨",
+  "fr": "Duvet de Bekaglaçon",
+  "de": "Kubuin-Daune",
+  "es": "Plumón de Eiscue",
+  "it": "Piuma di Eiscue",
+  "en": "Eiscue Down",
+  "ja": "コオリッポのうもう",
+  "zh-hans": "冰砌鹅的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

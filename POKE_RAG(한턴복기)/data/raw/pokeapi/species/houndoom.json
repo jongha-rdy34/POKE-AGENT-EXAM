@@ -1,0 +1,46 @@
+{
+ "id": 229,
+ "name": "houndoom",
+ "names": {
+  "ja-hrkt": "ヘルガー",
+  "ja-roma": "Hellgar",
+  "ko": "헬가",
+  "zh-hant": "黑魯加",
+  "fr": "Démolosse",
+  "de": "Hundemon",
+  "es": "Houndoom",
+  "it": "Houndoom",
+  "en": "Houndoom",
+  "ja": "ヘルガー",
+  "zh-hans": "黑鲁加",
+  "es-419": "Houndoom"
+ },
+ "genus": {
+  "ja-hrkt": "ダークポケモン",
+  "ko": "다크포켓몬",
+  "zh-hant": "陰暗寶可夢",
+  "fr": "Pokémon Sombre",
+  "de": "Hades",
+  "es": "Pokémon Siniestro",
+  "it": "Pokémon Buio",
+  "en": "Dark Pokémon",
+  "ja": "ダークポケモン",
+  "zh-hans": "阴暗宝可梦",
+  "es-419": "Pokémon Siniestro"
+ },
+ "flavor": {
+  "en": "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
+  "ko": "기분 나쁜 울음소리가 특징이다. 옛날 사람들은 지옥에서 온 사자라고 여겨 두려워했다."
+ },
+ "varieties": [
+  {
+   "name": "houndoom",
+   "is_default": true
+  },
+  {
+   "name": "houndoom-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "118"
+}

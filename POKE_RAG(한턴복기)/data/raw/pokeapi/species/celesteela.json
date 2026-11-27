@@ -1,0 +1,42 @@
+{
+ "id": 797,
+ "name": "celesteela",
+ "names": {
+  "ja-hrkt": "テッカグヤ",
+  "ja-roma": "Tekkaguya",
+  "ko": "철화구야",
+  "zh-hant": "鐵火輝夜",
+  "fr": "Bamboiselle",
+  "de": "Kaguron",
+  "es": "Celesteela",
+  "it": "Celesteela",
+  "en": "Celesteela",
+  "ja": "テッカグヤ",
+  "zh-hans": "铁火辉夜",
+  "es-419": "Celesteela"
+ },
+ "genus": {
+  "ja-hrkt": "うちあげポケモン",
+  "ko": "쏴올리기포켓몬",
+  "zh-hant": "發射寶可夢",
+  "fr": "Pokémon Décollage",
+  "de": "Raketenstart-Pokémon",
+  "es": "Pokémon Lanzamiento",
+  "it": "Pokémon Decollo",
+  "en": "Launch Pokémon",
+  "ja": "うちあげポケモン",
+  "zh-hans": "发射宝可梦",
+  "es-419": "Pokémon Lanzamiento"
+ },
+ "flavor": {
+  "ko": "이 세계와는 성질이 다르고 위험하지만 원래 살던 세계에서는 흔히 볼 수 있는 생물인 듯하다.",
+  "en": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+ },
+ "varieties": [
+  {
+   "name": "celesteela",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "418"
+}

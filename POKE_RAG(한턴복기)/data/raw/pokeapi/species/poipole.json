@@ -1,0 +1,42 @@
+{
+ "id": 803,
+ "name": "poipole",
+ "names": {
+  "ja-hrkt": "ベベノム",
+  "ja-roma": "Bevenom",
+  "ko": "베베놈",
+  "zh-hant": "毒貝比",
+  "fr": "Vémini",
+  "de": "Venicro",
+  "es": "Poipole",
+  "it": "Poipole",
+  "en": "Poipole",
+  "ja": "ベベノム",
+  "zh-hans": "毒贝比",
+  "es-419": "Poipole"
+ },
+ "genus": {
+  "ja-hrkt": "どくばりポケモン",
+  "ko": "독침포켓몬",
+  "zh-hant": "毒針寶可夢",
+  "fr": "Pokémon Vénépic",
+  "de": "Giftdorn-Pokémon",
+  "es": "Pokémon Pin Veneno",
+  "it": "Pokémon Velenago",
+  "en": "Poison Pin Pokémon",
+  "ja": "どくばりポケモン",
+  "zh-hans": "毒针宝可梦",
+  "es-419": "Pokémon Pin Veneno"
+ },
+ "flavor": {
+  "ko": "다른 세계에 사는 울트라비스트. 머리의 독침에서 나온 독액을 상대에게 끼얹고 깔깔 웃는다.",
+  "en": "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head."
+ },
+ "varieties": [
+  {
+   "name": "poipole",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "424"
+}

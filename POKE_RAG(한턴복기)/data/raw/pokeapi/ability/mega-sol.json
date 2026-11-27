@@ -1,0 +1,22 @@
+{
+ "name": "mega-sol",
+ "names": {
+  "ja-hrkt": "メガソーラー",
+  "ko": "메가솔라",
+  "zh-hant": "超級日光",
+  "fr": "Méga-Soleil",
+  "de": "Mega-Solarladung",
+  "es": "Megasolar",
+  "it": "Megasolar",
+  "en": "Mega Sol",
+  "ja": "メガソーラー",
+  "zh-hans": "超级日光",
+  "es-419": "Megasolar"
+ },
+ "effect": {
+  "en": "The Pokémon can use its moves as if the weather were harsh sunlight."
+ },
+ "flavor": {
+  "en": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight."
+ }
+}

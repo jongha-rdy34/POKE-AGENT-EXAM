@@ -1,0 +1,20 @@
+{
+ "name": "houndour-fang",
+ "names": {
+  "ja-hrkt": "デルビルのキバ",
+  "ko": "델빌의이빨",
+  "zh-hant": "戴魯比的牙",
+  "fr": "Croc de Malosse",
+  "de": "Hunduster-Zahn",
+  "es": "Colmillo de Houndour",
+  "it": "Zanna di Houndour",
+  "en": "Houndour Fang",
+  "ja": "デルビルのキバ",
+  "zh-hans": "戴鲁比的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

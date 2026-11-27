@@ -1,0 +1,20 @@
+{
+ "name": "oranguru-fur",
+ "names": {
+  "ja-hrkt": "ヤレユータンのけ",
+  "ko": "하랑우탄의털",
+  "zh-hant": "智揮猩的毛",
+  "fr": "Poils de Gouroutan",
+  "de": "Kommandutan-Haar",
+  "es": "Pelo de Oranguru",
+  "it": "Pelo di Oranguru",
+  "en": "Oranguru Fur",
+  "ja": "ヤレユータンのけ",
+  "zh-hans": "智挥猩的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

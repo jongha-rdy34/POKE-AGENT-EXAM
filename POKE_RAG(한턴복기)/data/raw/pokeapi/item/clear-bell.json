@@ -1,0 +1,28 @@
+{
+ "name": "clear-bell",
+ "names": {
+  "ja-hrkt": "とうめいなスズ",
+  "ko": "크리스탈방울",
+  "zh-hant": "透明鈴鐺",
+  "fr": "Glas Transparent",
+  "de": "Klarglocke",
+  "es": "Cascabel Claro",
+  "it": "Campana Chiara",
+  "en": "Clear Bell",
+  "ja": "とうめいなスズ",
+  "zh-hans": "透明铃铛",
+  "es-419": "Cascabel Claro"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "HS: Permet aux Kimono d'invoquer Ho-oh. C: Invoque Suicune à la Tour Carillon.",
+  "en": "HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower."
+ },
+ "flavor": {
+  "en": "A very old-fashioned bell that makes a gentle ringing sound.",
+  "ko": "마음이 편안해지는 음색이 들리는 아주 고풍스러운 방울.",
+  "ja": "こころ やすまる 音色が きける とても ふるめかしい スズ。"
+ }
+}

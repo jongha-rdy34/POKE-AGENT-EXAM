@@ -1,0 +1,41 @@
+{
+ "id": 916,
+ "name": "oinkologne",
+ "names": {
+  "ja-hrkt": "パフュートン",
+  "ja-roma": "Perfuton",
+  "ko": "퍼퓨돈",
+  "zh-hant": "飄香豚",
+  "fr": "Fragroin",
+  "de": "Fragrunz",
+  "es": "Oinkologne",
+  "it": "Oinkologne",
+  "en": "Oinkologne",
+  "ja": "パフュートン",
+  "zh-hans": "飘香豚",
+  "es-419": "Oinkologne"
+ },
+ "genus": {
+  "ja-hrkt": "ぶたポケモン",
+  "ko": "돼지포켓몬",
+  "zh-hant": "豬寶可夢",
+  "fr": "Pourceau",
+  "de": "Schwein",
+  "en": "Hog Pokémon",
+  "zh-hans": "猪宝可梦"
+ },
+ "flavor": {
+  "en": "It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body."
+ },
+ "varieties": [
+  {
+   "name": "oinkologne-male",
+   "is_default": true
+  },
+  {
+   "name": "oinkologne-female",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "481"
+}

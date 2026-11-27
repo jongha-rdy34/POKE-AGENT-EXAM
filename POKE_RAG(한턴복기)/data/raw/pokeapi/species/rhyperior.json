@@ -1,0 +1,42 @@
+{
+ "id": 464,
+ "name": "rhyperior",
+ "names": {
+  "ja-hrkt": "ドサイドン",
+  "ja-roma": "Dosidon",
+  "ko": "거대코뿌리",
+  "zh-hant": "超甲狂犀",
+  "fr": "Rhinastoc",
+  "de": "Rihornior",
+  "es": "Rhyperior",
+  "it": "Rhyperior",
+  "en": "Rhyperior",
+  "ja": "ドサイドン",
+  "zh-hans": "超甲狂犀",
+  "es-419": "Rhyperior"
+ },
+ "genus": {
+  "ja-hrkt": "ドリルポケモン",
+  "ko": "드릴포켓몬",
+  "zh-hant": "鑽錐寶可夢",
+  "fr": "Pokémon Perceur",
+  "de": "Bohrer-Pokémon",
+  "es": "Pokémon Taladro",
+  "it": "Pokémon Trapano",
+  "en": "Drill Pokémon",
+  "ja": "ドリルポケモン",
+  "zh-hans": "钻锥宝可梦",
+  "es-419": "Pokémon Taladro"
+ },
+ "flavor": {
+  "en": "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch.",
+  "ko": "프로텍터로 공격을 튕겨내고 상대가 풀이 죽으면 특징적인 드릴로 관통한다."
+ },
+ "varieties": [
+  {
+   "name": "rhyperior",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "50"
+}

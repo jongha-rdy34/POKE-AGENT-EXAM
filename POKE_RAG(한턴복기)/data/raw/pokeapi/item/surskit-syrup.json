@@ -1,0 +1,20 @@
+{
+ "name": "surskit-syrup",
+ "names": {
+  "ja-hrkt": "アメタマのミツ",
+  "ko": "비구술의꿀",
+  "zh-hant": "溜溜糖球的蜜",
+  "fr": "Nectar d'Arakdo",
+  "de": "Gehweiher-Nektar",
+  "es": "Néctar de Surskit",
+  "it": "Sciroppo di Surskit",
+  "en": "Surskit Syrup",
+  "ja": "アメタマのミツ",
+  "zh-hans": "溜溜糖球的蜜"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

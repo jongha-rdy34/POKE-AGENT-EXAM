@@ -1,0 +1,28 @@
+{
+ "name": "tm96",
+ "names": {
+  "ja-hrkt": "わざマシン９６",
+  "ko": "기술머신96",
+  "zh-hant": "招式學習器９６",
+  "fr": "CT96",
+  "de": "TM96",
+  "es": "MT96",
+  "it": "MT96",
+  "en": "TM96",
+  "ja": "わざマシン９６",
+  "zh-hans": "招式学习器９６",
+  "es-419": "MT96"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend la CT96 à un Pokémon.",
+  "en": "Teaches a Pokémon TM96."
+ },
+ "flavor": {
+  "ko": "뾰족한 뿔로 상대를 꿰찔러서 공격한다. 공격은 반드시 명중한다.",
+  "en": "The user stabs the target with a sharp horn. This attack never misses.",
+  "ja": "とがった つので 相手を 突き刺して 攻撃する。 攻撃は 必ず 命中する。"
+ }
+}

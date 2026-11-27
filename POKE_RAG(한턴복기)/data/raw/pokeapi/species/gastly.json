@@ -1,0 +1,42 @@
+{
+ "id": 92,
+ "name": "gastly",
+ "names": {
+  "ja-hrkt": "ゴース",
+  "ja-roma": "Ghos",
+  "ko": "고오스",
+  "zh-hant": "鬼斯",
+  "fr": "Fantominus",
+  "de": "Nebulak",
+  "es": "Gastly",
+  "it": "Gastly",
+  "en": "Gastly",
+  "ja": "ゴース",
+  "zh-hans": "鬼斯",
+  "es-419": "Gastly"
+ },
+ "genus": {
+  "ja-hrkt": "ガスじょうポケモン",
+  "ko": "가스포켓몬",
+  "zh-hant": "氣體狀寶可夢",
+  "fr": "Pokémon Gaz",
+  "de": "Gas-Pokémon",
+  "es": "Pokémon Gas",
+  "it": "Pokémon Gas",
+  "en": "Gas Pokémon",
+  "ja": "ガスじょうポケモン",
+  "zh-hans": "气体状宝可梦",
+  "es-419": "Pokémon Gas"
+ },
+ "flavor": {
+  "en": "Gaseous and completely impalpable. Also highly dangerous— inhaling part of its poisonous body will cause one to faint instantly.",
+  "ko": "몸은 옅은 가스로 되어 있어 어디든지 숨어들어 가지만 바람이 불면 날아가 버린다."
+ },
+ "varieties": [
+  {
+   "name": "gastly",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "40"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 686,
+ "name": "inkay",
+ "names": {
+  "ja-hrkt": "マーイーカ",
+  "ja-roma": "Maaiika",
+  "ko": "오케이징",
+  "zh-hant": "好啦魷",
+  "fr": "Sepiatop",
+  "de": "Iscalar",
+  "es": "Inkay",
+  "it": "Inkay",
+  "en": "Inkay",
+  "ja": "マーイーカ",
+  "zh-hans": "好啦鱿",
+  "es-419": "Inkay"
+ },
+ "genus": {
+  "ja-hrkt": "かいてんポケモン",
+  "ko": "회전포켓몬",
+  "zh-hant": "回轉寶可夢",
+  "fr": "Pokémon Rotation",
+  "de": "Rotations-Pokémon",
+  "es": "Pokémon Rotación",
+  "it": "Pokémon Volteggio",
+  "en": "Revolving Pokémon",
+  "ja": "かいてんポケモン",
+  "zh-hans": "回转宝可梦",
+  "es-419": "Pokémon Rotación"
+ },
+ "flavor": {
+  "ko": "상대를 향해 발광체를 깜빡여서 전의를 상실시킨다. 그 틈에 도망간다.",
+  "en": "By exposing foes to the blinking of its luminescent spots, Inkay demoralizes them, and then it seizes the chance to flee."
+ },
+ "varieties": [
+  {
+   "name": "inkay",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "352"
+}

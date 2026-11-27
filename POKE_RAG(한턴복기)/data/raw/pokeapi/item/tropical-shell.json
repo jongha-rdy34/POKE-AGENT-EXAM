@@ -1,0 +1,25 @@
+{
+ "name": "tropical-shell",
+ "names": {
+  "ja-hrkt": "なんごくかいがら",
+  "ko": "트로피컬조개껍질",
+  "zh-hant": "南國貝殼",
+  "fr": "Coquille du Sud",
+  "de": "Tropenmuschel",
+  "es": "Concha Tropical",
+  "it": "Tropiconchiglia",
+  "en": "Tropical Shell",
+  "ja": "なんごくかいがら",
+  "zh-hans": "南国贝壳",
+  "es-419": "Concha Tropical"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "따뜻한 지방의 바다에서 흘러들어 왔을지도 모르는 하얗고 예쁜 조개껍질.",
+  "en": "A beautiful white shell that may have drifted from a sea in a warm region.",
+  "ja": "あたたかい 地方の 海から 流れついた かも しれない 白くて きれいな 貝がら。"
+ }
+}

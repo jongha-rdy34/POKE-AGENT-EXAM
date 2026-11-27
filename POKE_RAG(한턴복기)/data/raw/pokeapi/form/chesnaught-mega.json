@@ -1,0 +1,15 @@
+{
+ "name": "chesnaught-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Blindépique",
+  "en": "Mega Chesnaught"
+ },
+ "form_names": {
+  "ja-hrkt": "メガブリガロン",
+  "fr": "Méga-Blindépique",
+  "en": "Mega Chesnaught",
+  "ja": "メガブリガロン"
+ },
+ "is_mega": true
+}

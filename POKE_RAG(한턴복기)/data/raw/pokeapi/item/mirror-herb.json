@@ -1,0 +1,20 @@
+{
+ "name": "mirror-herb",
+ "names": {
+  "ja-hrkt": "ものまねハーブ",
+  "ko": "흉내허브",
+  "zh-hant": "模仿香草",
+  "fr": "Feuille Copieuse",
+  "de": "Kopierkraut",
+  "es": "Hierba Copia",
+  "it": "Foglia carbone",
+  "en": "Mirror Herb",
+  "ja": "ものまねハーブ",
+  "zh-hans": "模仿香草"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

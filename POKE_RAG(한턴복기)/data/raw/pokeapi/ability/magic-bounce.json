@@ -1,0 +1,23 @@
+{
+ "name": "magic-bounce",
+ "names": {
+  "ja-hrkt": "マジックミラー",
+  "ko": "매직미러",
+  "zh-hant": "魔法鏡",
+  "fr": "Miroir Magik",
+  "de": "Magiespiegel",
+  "es": "Espejo Mágico",
+  "it": "Magispecchio",
+  "en": "Magic Bounce",
+  "ja": "マジックミラー",
+  "zh-hans": "魔法镜",
+  "es-419": "Espejo Mágico"
+ },
+ "effect": {
+  "en": "Reflects most non-damaging moves back at their user."
+ },
+ "flavor": {
+  "en": "The Pokémon reflects status moves instead of getting hit by them.",
+  "ko": "상대가 쓴 변화 기술을 받지 않고 그대로 되받아칠 수 있다."
+ }
+}

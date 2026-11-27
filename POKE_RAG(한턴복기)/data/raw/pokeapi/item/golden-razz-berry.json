@@ -1,0 +1,25 @@
+{
+ "name": "golden-razz-berry",
+ "names": {
+  "ja-hrkt": "きんのズリのみ",
+  "ko": "황금 라즈열매",
+  "zh-hant": "金色蔓莓果",
+  "fr": "Baie Framby dorée",
+  "de": "Goldene Himmihbeere",
+  "es": "Baya Frambu Dorada",
+  "it": "Baccalampon dorata",
+  "en": "Golden Razz Berry",
+  "ja": "きんのズリのみ",
+  "zh-hans": "金色蔓莓果",
+  "es-419": "Baya Frambu Dorada"
+ },
+ "category": "catching-bonus",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "포켓몬에게 주면 상당히 잡기 쉬워지는 나무열매.",
+  "en": "A Berry that makes it drastically easier to catch Pokémon when given to them.",
+  "ja": "ポケモンに あたえると かなり 捕まえ やすくなる きのみ。"
+ }
+}

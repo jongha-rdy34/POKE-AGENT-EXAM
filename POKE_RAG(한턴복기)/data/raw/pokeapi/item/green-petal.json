@@ -1,0 +1,28 @@
+{
+ "name": "green-petal",
+ "names": {
+  "ja-hrkt": "みどりのはなびら",
+  "ko": "초록꽃잎",
+  "zh-hant": "綠色花瓣",
+  "fr": "Pétale Vert",
+  "de": "Grünes Blatt",
+  "es": "Pétalo Verde",
+  "it": "Petalo verde",
+  "en": "Green Petal",
+  "ja": "みどりのはなびら",
+  "zh-hans": "绿色花瓣",
+  "es-419": "Pétalo Verde"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour green-petal",
+  "en": "XXX new effect for green-petal"
+ },
+ "flavor": {
+  "ko": "말리화의 시련에서 마오에게 받을 수 있는 꽃잎의 압화. 7종류 모으는 것이 목적.",
+  "en": "A pressed flower petal you receive from Mallow during Mina’s trial. The goal is to collect seven different kinds of petals.",
+  "ja": "マツリカの試練で マオから もらえる はなびらの 押し花。 ７種類 集めるのが 目的。"
+ }
+}

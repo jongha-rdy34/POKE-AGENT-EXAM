@@ -1,0 +1,30 @@
+{
+ "name": "petaya-berry",
+ "names": {
+  "ja-hrkt": "ヤタピのみ",
+  "ko": "야타비열매",
+  "zh-hant": "龍火果",
+  "fr": "Baie Pitaye",
+  "de": "Tahaybeere",
+  "es": "Baya Yapati",
+  "it": "Baccapitaya",
+  "en": "Petaya Berry",
+  "ja": "ヤタピのみ",
+  "zh-hans": "龙火果",
+  "es-419": "Baya Yapati"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV max pour booster l'Attaque Spéciale.",
+  "en": "Held: Consumed at 1/4 max HP to boost Special Attack."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, its Sp. Atk stat will increase when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 자신의 특수공격이 올라간다.",
+  "ja": "ポケモンに 持たせると ピンチのとき 自分の 特攻が あがる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm71",
+ "names": {
+  "ja-hrkt": "わざマシン７１",
+  "ko": "기술머신71",
+  "zh-hant": "招式學習器７１",
+  "fr": "CT71",
+  "de": "TM71",
+  "es": "MT71",
+  "it": "MT71",
+  "en": "TM71",
+  "ja": "わざマシン７１",
+  "zh-hans": "招式学习器７１",
+  "es-419": "MT71"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Lame de Roc à un Pokémon compatible.",
+  "en": "Teaches Stone Edge to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.",
+  "ko": "이상한 공간을 만든다. 5턴 동안 모든 포켓몬의 방어와 특수방어가 바뀐다.",
+  "ja": "まか不思議な 空間を つくる。 ５ターンのあいだ すべてのポケモンの 防御と 特防が 入れ替わる。"
+ }
+}

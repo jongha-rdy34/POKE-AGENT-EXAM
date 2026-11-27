@@ -1,0 +1,31 @@
+{
+ "name": "healing-wish",
+ "names": {
+  "ja-hrkt": "いやしのねがい",
+  "ko": "치유소원",
+  "zh-hant": "治癒之願",
+  "fr": "Vœu Soin",
+  "de": "Heilopfer",
+  "es": "Deseo Cura",
+  "it": "Curardore",
+  "en": "Healing Wish",
+  "ja": "いやしのねがい",
+  "zh-hans": "治愈之愿",
+  "es-419": "Deseo Sanador"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User faints.  Its replacement has its HP fully restored and any major status effect removed."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.",
+  "ko": "자신은 기절하지만 교대하여 나오는 포켓몬의 상태 이상과 HP를 회복한다."
+ }
+}

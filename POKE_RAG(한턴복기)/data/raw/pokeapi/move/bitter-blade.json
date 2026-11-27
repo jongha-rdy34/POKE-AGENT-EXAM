@@ -1,0 +1,28 @@
+{
+ "name": "bitter-blade",
+ "names": {
+  "ja-hrkt": "むねんのつるぎ",
+  "ko": "원념의칼",
+  "zh-hant": "悔念劍",
+  "fr": "Lame en Peine",
+  "de": "Reueschwert",
+  "es": "Espada Lamento",
+  "it": "Lama del Rimorso",
+  "en": "Bitter Blade",
+  "ja": "むねんのつるぎ",
+  "zh-hans": "悔念剑",
+  "es-419": "Espada Lamento"
+ },
+ "type": "fire",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user focuses its bitter feelings toward the world of the living into a slashing attack. The user's HP is restored by up to half the damage taken by the target."
+ }
+}

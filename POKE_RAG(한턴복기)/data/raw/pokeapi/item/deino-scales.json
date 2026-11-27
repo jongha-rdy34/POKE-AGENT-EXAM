@@ -1,0 +1,20 @@
+{
+ "name": "deino-scales",
+ "names": {
+  "ja-hrkt": "モノズのウロコ",
+  "ko": "모노두의비늘",
+  "zh-hant": "單首龍的鱗片",
+  "fr": "Écaille de Solochi",
+  "de": "Kapuno-Schuppe",
+  "es": "Escama de Deino",
+  "it": "Squama di Deino",
+  "en": "Deino Scales",
+  "ja": "モノズのウロコ",
+  "zh-hans": "单首龙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

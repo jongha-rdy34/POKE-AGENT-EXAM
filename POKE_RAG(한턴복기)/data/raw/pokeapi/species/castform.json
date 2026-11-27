@@ -1,0 +1,54 @@
+{
+ "id": 351,
+ "name": "castform",
+ "names": {
+  "ja-hrkt": "ポワルン",
+  "ja-roma": "Powalen",
+  "ko": "캐스퐁",
+  "zh-hant": "飄浮泡泡",
+  "fr": "Morphéo",
+  "de": "Formeo",
+  "es": "Castform",
+  "it": "Castform",
+  "en": "Castform",
+  "ja": "ポワルン",
+  "zh-hans": "飘浮泡泡",
+  "es-419": "Castform"
+ },
+ "genus": {
+  "ja-hrkt": "てんきポケモン",
+  "ko": "날씨포켓몬",
+  "zh-hant": "天氣寶可夢",
+  "fr": "Pokémon Climat",
+  "de": "Wetter",
+  "es": "Pokémon Clima",
+  "it": "Pokémon Meteo",
+  "en": "Weather Pokémon",
+  "ja": "てんきポケモン",
+  "zh-hans": "天气宝可梦",
+  "es-419": "Pokémon Clima"
+ },
+ "flavor": {
+  "en": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
+  "ko": "날씨에 따라 모습이 바뀐다. 날씨가 궂을수록 성질도 난폭해진다."
+ },
+ "varieties": [
+  {
+   "name": "castform",
+   "is_default": true
+  },
+  {
+   "name": "castform-sunny",
+   "is_default": false
+  },
+  {
+   "name": "castform-rainy",
+   "is_default": false
+  },
+  {
+   "name": "castform-snowy",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "179"
+}

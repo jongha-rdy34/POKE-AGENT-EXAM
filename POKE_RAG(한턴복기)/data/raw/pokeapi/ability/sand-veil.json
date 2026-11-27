@@ -1,0 +1,23 @@
+{
+ "name": "sand-veil",
+ "names": {
+  "ja-hrkt": "すながくれ",
+  "ko": "모래숨기",
+  "zh-hant": "沙隱",
+  "fr": "Voile Sable",
+  "de": "Sandschleier",
+  "es": "Velo Arena",
+  "it": "Sabbiavelo",
+  "en": "Sand Veil",
+  "ja": "すながくれ",
+  "zh-hans": "沙隐",
+  "es-419": "Velo de Arena"
+ },
+ "effect": {
+  "en": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+ },
+ "flavor": {
+  "en": "Boosts the Pokémon's evasiveness in a sandstorm.",
+  "ko": "모래바람일 때 회피율이 올라간다."
+ }
+}

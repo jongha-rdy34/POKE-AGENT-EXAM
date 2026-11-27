@@ -1,0 +1,23 @@
+{
+ "name": "rough-skin",
+ "names": {
+  "ja-hrkt": "さめはだ",
+  "ko": "까칠한피부",
+  "zh-hant": "粗糙皮膚",
+  "fr": "Peau Dure",
+  "de": "Rauhaut",
+  "es": "Piel Tosca",
+  "it": "Cartavetro",
+  "en": "Rough Skin",
+  "ja": "さめはだ",
+  "zh-hans": "粗糙皮肤",
+  "es-419": "Piel Tosca"
+ },
+ "effect": {
+  "en": "Damages attacking Pokémon for 1/8 their max HP on contact."
+ },
+ "flavor": {
+  "en": "The Pokémon's rough skin damages attackers that make direct contact with it.",
+  "ko": "공격을 받았을 때 자신에게 접촉한 상대를 까칠까칠한 피부로 상처를 입힌다."
+ }
+}

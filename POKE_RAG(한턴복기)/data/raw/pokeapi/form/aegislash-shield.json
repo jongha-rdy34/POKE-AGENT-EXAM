@@ -1,0 +1,23 @@
+{
+ "name": "aegislash-shield",
+ "form_name": "shield",
+ "names": {
+  "fr": "Exagide Parade",
+  "de": "Durengard (Schild)",
+  "en": "Shield Aegislash"
+ },
+ "form_names": {
+  "ja-hrkt": "シールドフォルム",
+  "ko": "실드폼",
+  "zh-hant": "盾牌形態",
+  "fr": "Forme Parade",
+  "de": "Schildform",
+  "es": "Forma Escudo",
+  "it": "Forma Scudo",
+  "en": "Shield Forme",
+  "ja": "シールドフォルム",
+  "zh-hans": "盾牌形态",
+  "es-419": "Forma Escudo"
+ },
+ "is_mega": false
+}

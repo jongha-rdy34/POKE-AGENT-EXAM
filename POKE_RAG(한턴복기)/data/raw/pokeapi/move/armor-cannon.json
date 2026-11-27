@@ -1,0 +1,28 @@
+{
+ "name": "armor-cannon",
+ "names": {
+  "ja-hrkt": "アーマーキャノン",
+  "ko": "아머캐논",
+  "zh-hant": "鎧農炮",
+  "fr": "Canon Blindé",
+  "de": "Rüstungskanone",
+  "es": "Cañón Armadura",
+  "it": "Corazza Cannone",
+  "en": "Armor Cannon",
+  "ja": "アーマーキャノン",
+  "zh-hans": "铠农炮",
+  "es-419": "Cañón Armadura"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 120,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats."
+ }
+}

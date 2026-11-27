@@ -1,0 +1,15 @@
+{
+ "name": "hawlucha-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Brutalibré",
+  "en": "Mega Hawlucha"
+ },
+ "form_names": {
+  "ja-hrkt": "メガルチャブル",
+  "fr": "Méga-Brutalibré",
+  "en": "Mega Hawlucha",
+  "ja": "メガルチャブル"
+ },
+ "is_mega": true
+}

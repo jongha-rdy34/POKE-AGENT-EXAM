@@ -1,0 +1,37 @@
+{
+ "id": 948,
+ "name": "toedscool",
+ "names": {
+  "ja-hrkt": "ノノクラゲ",
+  "ja-roma": "Nonokurage",
+  "ko": "들눈해",
+  "zh-hant": "原野水母",
+  "fr": "Terracool",
+  "de": "Tentagra",
+  "es": "Toedscool",
+  "it": "Toedscool",
+  "en": "Toedscool",
+  "ja": "ノノクラゲ",
+  "zh-hans": "原野水母",
+  "es-419": "Toedscool"
+ },
+ "genus": {
+  "ja-hrkt": "きくらげポケモン",
+  "ko": "목이버섯포켓몬",
+  "zh-hant": "木耳寶可夢",
+  "fr": "Champiméduse",
+  "de": "Quallenpilz",
+  "en": "Woodear Pokémon",
+  "zh-hans": "木耳宝可梦"
+ },
+ "flavor": {
+  "en": "Though it looks like Tentacool, Toedscool is a completely different species. Its legs may be thin, but it can run at a speed of 30 mph."
+ },
+ "varieties": [
+  {
+   "name": "toedscool",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "496"
+}

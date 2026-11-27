@@ -1,0 +1,42 @@
+{
+ "id": 66,
+ "name": "machop",
+ "names": {
+  "ja-hrkt": "ワンリキー",
+  "ja-roma": "Wanriky",
+  "ko": "알통몬",
+  "zh-hant": "腕力",
+  "fr": "Machoc",
+  "de": "Machollo",
+  "es": "Machop",
+  "it": "Machop",
+  "en": "Machop",
+  "ja": "ワンリキー",
+  "zh-hans": "腕力",
+  "es-419": "Machop"
+ },
+ "genus": {
+  "ja-hrkt": "かいりきポケモン",
+  "ko": "괴력포켓몬",
+  "zh-hant": "怪力寶可夢",
+  "fr": "Pokémon Colosse",
+  "de": "Kraftprotz-Pokémon",
+  "es": "Pokémon Superpoder",
+  "it": "Pokémon Megaforza",
+  "en": "Superpower Pokémon",
+  "ja": "かいりきポケモン",
+  "zh-hans": "怪力宝可梦",
+  "es-419": "Pokémon Superpoder"
+ },
+ "flavor": {
+  "en": "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders.",
+  "ko": "언제나 파워풀하다. 체력이 남아돌기 때문에 심심풀이로 바위를 들어 올리며 더 강해진다."
+ },
+ "varieties": [
+  {
+   "name": "machop",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "28"
+}

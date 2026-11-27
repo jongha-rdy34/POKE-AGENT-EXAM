@@ -1,0 +1,23 @@
+{
+ "name": "aggron-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Galeking",
+  "de": "Mega-Stolloss",
+  "en": "Mega Aggron"
+ },
+ "form_names": {
+  "ja-hrkt": "メガボスゴドラ",
+  "ko": "메가보스로라",
+  "zh-hant": "超級波士可多拉",
+  "fr": "Méga-Galeking",
+  "de": "Mega-Form",
+  "es": "Mega-Aggron",
+  "it": "MegaAggron",
+  "en": "Mega Aggron",
+  "ja": "メガボスゴドラ",
+  "zh-hans": "超级波士可多拉",
+  "es-419": "Mega-Aggron"
+ },
+ "is_mega": true
+}

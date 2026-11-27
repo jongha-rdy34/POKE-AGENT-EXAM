@@ -1,0 +1,42 @@
+{
+ "id": 682,
+ "name": "spritzee",
+ "names": {
+  "ja-hrkt": "シュシュプ",
+  "ja-roma": "Shushupu",
+  "ko": "슈쁘",
+  "zh-hant": "粉香香",
+  "fr": "Fluvetin",
+  "de": "Parfi",
+  "es": "Spritzee",
+  "it": "Spritzee",
+  "en": "Spritzee",
+  "ja": "シュシュプ",
+  "zh-hans": "粉香香",
+  "es-419": "Spritzee"
+ },
+ "genus": {
+  "ja-hrkt": "こうすいポケモン",
+  "ko": "향수포켓몬",
+  "zh-hant": "香水寶可夢",
+  "fr": "Pokémon Fragrance",
+  "de": "Parfüm-Pokémon",
+  "es": "Pokémon Aroma",
+  "it": "Pokémon Profumo",
+  "en": "Perfume Pokémon",
+  "ja": "こうすいポケモン",
+  "zh-hans": "香水宝可梦",
+  "es-419": "Pokémon Aroma"
+ },
+ "flavor": {
+  "ko": "사람을 매료하는 황홀한 냄새를 몸에서 풍긴다. 귀부인들에게 사랑받았다.",
+  "en": "The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee."
+ },
+ "varieties": [
+  {
+   "name": "spritzee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "350"
+}

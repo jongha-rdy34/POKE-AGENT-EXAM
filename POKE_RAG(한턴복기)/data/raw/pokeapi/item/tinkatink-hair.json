@@ -1,0 +1,20 @@
+{
+ "name": "tinkatink-hair",
+ "names": {
+  "ja-hrkt": "カヌチャンのけ",
+  "ko": "어리짱의털",
+  "zh-hant": "小鍛匠的毛",
+  "fr": "Poils de Forgerette",
+  "de": "Forgita-Haar",
+  "es": "Pelo de Tinkatink",
+  "it": "Pelo di Tinkatink",
+  "en": "Tinkatink Hair",
+  "ja": "カヌチャンのけ",
+  "zh-hans": "小锻匠的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

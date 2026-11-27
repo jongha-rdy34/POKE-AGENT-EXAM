@@ -1,0 +1,23 @@
+{
+ "name": "klutz",
+ "names": {
+  "ja-hrkt": "ぶきよう",
+  "ko": "서투름",
+  "zh-hant": "笨拙",
+  "fr": "Maladresse",
+  "de": "Tollpatsch",
+  "es": "Zoquete",
+  "it": "Impaccio",
+  "en": "Klutz",
+  "ja": "ぶきよう",
+  "zh-hans": "笨拙",
+  "es-419": "Torpeza"
+ },
+ "effect": {
+  "en": "Prevents the Pokémon from using its held item in battle."
+ },
+ "flavor": {
+  "en": "The Pokémon can't use any held items.",
+  "ko": "지니고 있는 도구를 쓸 수 없다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 471,
+ "name": "glaceon",
+ "names": {
+  "ja-hrkt": "グレイシア",
+  "ja-roma": "Glacia",
+  "ko": "글레이시아",
+  "zh-hant": "冰伊布",
+  "fr": "Givrali",
+  "de": "Glaziola",
+  "es": "Glaceon",
+  "it": "Glaceon",
+  "en": "Glaceon",
+  "ja": "グレイシア",
+  "zh-hans": "冰伊布",
+  "es-419": "Glaceon"
+ },
+ "genus": {
+  "ja-hrkt": "しんせつポケモン",
+  "ko": "신설포켓몬",
+  "zh-hant": "新雪寶可夢",
+  "fr": "Pokémon Poudreuse",
+  "de": "Neuschnee-Pokémon",
+  "es": "Pokémon Nieve Fresca",
+  "it": "Pokémon Nevefresca",
+  "en": "Fresh Snow Pokémon",
+  "ja": "しんせつポケモン",
+  "zh-hans": "新雪宝可梦",
+  "es-419": "Pokémon Nieve Fresca"
+ },
+ "flavor": {
+  "en": "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around.",
+  "ko": "글레이시아가 발산하는 냉기는 가루눈을 만들어 내기 때문에 스키장에서 인기가 높다."
+ },
+ "varieties": [
+  {
+   "name": "glaceon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

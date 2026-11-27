@@ -1,0 +1,20 @@
+{
+ "name": "legend-plate",
+ "names": {
+  "ja-hrkt": "レジェンドプレート",
+  "ko": "레전드플레이트",
+  "zh-hant": "傳說石板",
+  "fr": "Plaque Légende",
+  "de": "Legendentafel",
+  "es": "Tabla Legendaria",
+  "it": "Lastraleggenda",
+  "en": "Legend Plate",
+  "ja": "レジェンドプレート",
+  "zh-hans": "传说石板"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

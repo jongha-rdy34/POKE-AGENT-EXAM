@@ -1,0 +1,33 @@
+{
+ "name": "x-sp-atk",
+ "names": {
+  "ja-hrkt": "スペシャルアップ",
+  "ko": "스페셜업",
+  "zh-hant": "特攻強化",
+  "fr": "Atq. Spé. +",
+  "de": "X-Sp.-Ang.",
+  "es": "At. Especial X",
+  "it": "Att. Speciale X",
+  "en": "X Sp. Atk",
+  "ja": "スペシャルアップ",
+  "zh-hans": "特攻强化",
+  "es-419": "At. Especial X"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'Attaque Spéciale d'un niveau en combat. Augmente le bonheur.",
+  "en": "Raises Special Attack by one stage in battle.  Raises happiness."
+ },
+ "flavor": {
+  "en": "An item that sharply boosts the Sp. Atk stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 특수공격을 크게 올리는 도구. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 特攻を 大きく あげる 道具。 ひっこめると 元に 戻る。"
+ }
+}

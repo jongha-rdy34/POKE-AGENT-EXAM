@@ -1,0 +1,46 @@
+{
+ "id": 668,
+ "name": "pyroar",
+ "names": {
+  "ja-hrkt": "カエンジシ",
+  "ja-roma": "Kaenjishi",
+  "ko": "화염레오",
+  "zh-hant": "火炎獅",
+  "fr": "Némélios",
+  "de": "Pyroleo",
+  "es": "Pyroar",
+  "it": "Pyroar",
+  "en": "Pyroar",
+  "ja": "カエンジシ",
+  "zh-hans": "火炎狮",
+  "es-419": "Pyroar"
+ },
+ "genus": {
+  "ja-hrkt": "おうじゃポケモン",
+  "ko": "임금포켓몬",
+  "zh-hant": "王者寶可夢",
+  "fr": "Pokémon Royal",
+  "de": "Monarch",
+  "es": "Pokémon Regio",
+  "it": "Pokémon Reale",
+  "en": "Royal Pokémon",
+  "ja": "おうじゃポケモン",
+  "zh-hans": "王者宝可梦",
+  "es-419": "Pokémon Regio"
+ },
+ "flavor": {
+  "ko": "섭씨 6000도의 숨결을 내뱉지만 먹이에는 사용하지 않는다. 고기는 날것을 좋아하기 때문이다.",
+  "en": "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat."
+ },
+ "varieties": [
+  {
+   "name": "pyroar-male",
+   "is_default": true
+  },
+  {
+   "name": "pyroar-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "343"
+}

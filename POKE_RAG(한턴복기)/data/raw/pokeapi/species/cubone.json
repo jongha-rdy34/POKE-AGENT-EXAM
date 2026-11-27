@@ -1,0 +1,42 @@
+{
+ "id": 104,
+ "name": "cubone",
+ "names": {
+  "ja-hrkt": "カラカラ",
+  "ja-roma": "Karakara",
+  "ko": "탕구리",
+  "zh-hant": "卡拉卡拉",
+  "fr": "Osselait",
+  "de": "Tragosso",
+  "es": "Cubone",
+  "it": "Cubone",
+  "en": "Cubone",
+  "ja": "カラカラ",
+  "zh-hans": "卡拉卡拉",
+  "es-419": "Cubone"
+ },
+ "genus": {
+  "ja-hrkt": "こどくポケモン",
+  "ko": "고독포켓몬",
+  "zh-hant": "孤獨寶可夢",
+  "fr": "Pokémon Solitaire",
+  "de": "Einsam-Pokémon",
+  "es": "Pokémon Solitario",
+  "it": "Pokémon Solitario",
+  "en": "Lonely Pokémon",
+  "ja": "こどくポケモン",
+  "zh-hans": "孤独宝可梦",
+  "es-419": "Pokémon Solitario"
+ },
+ "flavor": {
+  "en": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+  "ko": "죽은 어미의 뼈를 머리에 쓰고 있다. 어미의 꿈을 꾸고 울기도 하지만 눈물을 흘릴 때마다 강해진다."
+ },
+ "varieties": [
+  {
+   "name": "cubone",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "46"
+}

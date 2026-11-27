@@ -1,0 +1,5647 @@
+{
+ "pokemon": {
+  "matched": 256,
+  "stat_diff": [],
+  "unmatched": [],
+  "ambiguous": [
+   {
+    "name": "Paldean Tauros",
+    "candidates": [
+     "tauros-paldea-aqua-breed",
+     "tauros-paldea-blaze-breed",
+     "tauros-paldea-combat-breed"
+    ]
+   },
+   {
+    "name": "Mega Meowstic",
+    "candidates": [
+     "meowstic-female-mega",
+     "meowstic-male-mega"
+    ]
+   }
+  ]
+ },
+ "moves": {
+  "cd_in_champions": 494,
+  "api_champions_learnable": 496,
+  "only_cd": [
+   "Milk Drink",
+   "Power Shift",
+   "Soft-Boiled",
+   "Spore",
+   "Struggle"
+  ],
+  "only_api": [
+   "Barb Barrage",
+   "Make It Rain",
+   "No Retreat",
+   "Pound",
+   "Rage Fist",
+   "Spirit Break",
+   "Topsy-Turvy"
+  ],
+  "cd_missing_in_api_data": [
+   "Milk Drink",
+   "Power Shift",
+   "Soft-Boiled",
+   "Spore",
+   "Struggle"
+  ],
+  "field_diffs": [
+   {
+    "move": "Acrobatics",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Acupressure",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "After You",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Agility",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Air Cutter",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Air Slash",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Alluring Voice",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Ally Switch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Ancient Power",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Apple Acid",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      80
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Aqua Step",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Aqua Tail",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Armor Cannon",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Assurance",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Attract",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Aura Wheel",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Avalanche",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Axe Kick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Baby-Doll Eyes",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Baneful Bunker",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Baton Pass",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Beak Blast",
+    "diff(cd,api)": {
+     "power": [
+      120,
+      100
+     ],
+     "pp": [
+      8,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Beat Up",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Belch",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Belly Drum",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Bite",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Bitter Blade",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Bitter Malice",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Blast Burn",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Blaze Kick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Blizzard",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Block",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Body Press",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Body Slam",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Bone Rush",
+    "diff(cd,api)": {
+     "power": [
+      30,
+      25
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Boomburst",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Bounce",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Brave Bird",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Breaking Swipe",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Brick Break",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Bug Buzz",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Bullet Punch",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Bullet Seed",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Burn Up",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Burning Jealousy",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Ceaseless Edge",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Charge Beam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Chilly Reception",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Circle Throw",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Clanging Scales",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Clangorous Soul",
+    "diff(cd,api)": {
+     "accuracy": [
+      null,
+      100
+     ],
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Clear Smog",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Close Combat",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Coaching",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Comeuppance",
+    "diff(cd,api)": {
+     "power": [
+      null,
+      1
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Confuse Ray",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Corrosive Gas",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Cotton Guard",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Cotton Spore",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Covet",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Crabhammer",
+    "diff(cd,api)": {
+     "accuracy": [
+      95,
+      90
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Cross Chop",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Crunch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Crush Claw",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Curse",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dark Pulse",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Darkest Lariat",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dazzling Gleam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Decorate",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Defog",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Destiny Bond",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Detect",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Dig",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dire Claw",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Discharge",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Dive",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Double Hit",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Double Team",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Double-Edge",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Draco Meteor",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Dragon Cheer",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Dragon Claw",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Dragon Darts",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dragon Pulse",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dragon Rush",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dragon Tail",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Drain Punch",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Draining Kiss",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Drill Run",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dual Wingbeat",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Dynamic Punch",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Earth Power",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Earthquake",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Eerie Impulse",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Eerie Spell",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Electric Terrain",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Electro Ball",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Electro Shot",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Electroweb",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Encore",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Endeavor",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Endure",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Energy Ball",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Entrainment",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Eruption",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Expanding Force",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Explosion",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Extreme Speed",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Fairy Lock",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Fake Out",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Feather Dance",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Feint",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Fell Stinger",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Fickle Beam",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Fiery Dance",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Final Gambit",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Fire Blast",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Fire Fang",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Fire Lash",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      80
+     ],
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Fire Punch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Fire Spin",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "First Impression",
+    "diff(cd,api)": {
+     "power": [
+      100,
+      90
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Fissure",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Flail",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Flamethrower",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Flare Blitz",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Flash Cannon",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Flatter",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Fling",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Flower Trick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Fly",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Flying Press",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Focus Blast",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Focus Energy",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Foul Play",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Frenzy Plant",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Frost Breath",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Future Sight",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Gastro Acid",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Giga Drain",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Giga Impact",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Gigaton Hammer",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Glare",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Grassy Terrain",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Grav Apple",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      80
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Gravity",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Guard Split",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Guard Swap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Guillotine",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Gunk Shot",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Gyro Ball",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Hammer Arm",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Hard Press",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Haze",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Head Smash",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Headlong Rush",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Heal Bell",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Heal Pulse",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Healing Wish",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Heat Crash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Heat Wave",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Heavy Slam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Hex",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "High Horsepower",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "High Jump Kick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Horn Drill",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Horn Leech",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Howl",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Hurricane",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Hydro Cannon",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Hydro Pump",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Hyper Beam",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Hyper Voice",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Ice Beam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Ice Fang",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Ice Hammer",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Ice Punch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Ice Shard",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Ice Spinner",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Icicle Crash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Icicle Spear",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Icy Wind",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Imprison",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Infernal Parade",
+    "diff(cd,api)": {
+     "power": [
+      65,
+      60
+     ],
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Inferno",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Instruct",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Iron Defense",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Iron Head",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Iron Tail",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Jet Punch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "King's Shield",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Kowtow Cleave",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Lash Out",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Last Resort",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Last Respects",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Lava Plume",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Leaf Blade",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Leaf Storm",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Leech Life",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Leech Seed",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Life Dew",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Light Screen",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Light of Ruin",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Liquidation",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Lock-On",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Lumina Crash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Lunge",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Mach Punch",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Magic Room",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Magnet Rise",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Matcha Gotcha",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Mean Look",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Mega Kick",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Megahorn",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Memento",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Metal Burst",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Metal Sound",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Meteor Beam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Meteor Mash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Minimize",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Misty Explosion",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Misty Terrain",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Moonblast",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Moonlight",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Morning Sun",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Mortal Spin",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Mountain Gale",
+    "diff(cd,api)": {
+     "power": [
+      120,
+      100
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Mud Shot",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Mud-Slap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Muddy Water",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Mystical Fire",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Night Daze",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      85
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Night Shade",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Night Slash",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Noble Roar",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Outrage",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Overheat",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Payback",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Perish Song",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Petal Blizzard",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Petal Dance",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Phantom Force",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Play Rough",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Poison Fang",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Poison Powder",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      35
+     ]
+    }
+   },
+   {
+    "move": "Pollen Puff",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Poltergeist",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Population Bomb",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Power Split",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Power Swap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Power Trick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Power Trip",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Power Whip",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Protect",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psych Up",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psychic",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psychic Fangs",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psychic Noise",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psychic Terrain",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psyshield Bash",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      70
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Psyshock",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Quash",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Quick Attack",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Quick Guard",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Raging Bull",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Raging Fury",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Rain Dance",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Rapid Spin",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Razor Shell",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Recover",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Recycle",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Reflect Type",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Rest",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Reversal",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Rock Blast",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Rock Slide",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Rock Tomb",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Rock Wrecker",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Role Play",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Roost",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Round",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Sacred Sword",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Safeguard",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Salt Cure",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Sand Tomb",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Sandstorm",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Scald",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Scary Face",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Scorching Sands",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Screech",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Seed Bomb",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Self-Destruct",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Shadow Ball",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Shadow Claw",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Shadow Sneak",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Shed Tail",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sheer Cold",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Shell Side Arm",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Shell Smash",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Shelter",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Simple Beam",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Sing",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Skill Swap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Skitter Smack",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sky Attack",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Slack Off",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Sleep Powder",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Sleep Talk",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sludge Bomb",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sludge Wave",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Smack Down",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Smart Strike",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Snap Trap",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Snarl",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Snore",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Snowscape",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Solar Beam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Solar Blade",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sparkling Aria",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Speed Swap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Spicy Extract",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Spiky Shield",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Spirit Shackle",
+    "diff(cd,api)": {
+     "power": [
+      90,
+      80
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Spit Up",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Spite",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Steel Beam",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Steel Roller",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Steel Wing",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Stomping Tantrum",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Stone Axe",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Stone Edge",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Stored Power",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Storm Throw",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Strength Sap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "String Shot",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      40
+     ]
+    }
+   },
+   {
+    "move": "Stuff Cheeks",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Stun Spore",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Substitute",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sucker Punch",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Sunny Day",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Super Fang",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Supercell Slam",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Superpower",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Surf",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Swagger",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Swallow",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Sweet Kiss",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Switcheroo",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Synthesis",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Syrup Bomb",
+    "diff(cd,api)": {
+     "accuracy": [
+      90,
+      85
+     ],
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Tail Slap",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Tailwind",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Teatime",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Temper Flare",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Terrain Pulse",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Thief",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      25
+     ]
+    }
+   },
+   {
+    "move": "Thrash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Throat Chop",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Thunder",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Thunder Fang",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Thunder Punch",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Thunderbolt",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Tidy Up",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Torch Song",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Torment",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Toxic",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Transform",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Tri Attack",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Trick",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Trick Room",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Triple Arrows",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Triple Axel",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Trop Kick",
+    "diff(cd,api)": {
+     "power": [
+      85,
+      70
+     ],
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Twin Beam",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Upper Hand",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Uproar",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Vacuum Wave",
+    "diff(cd,api)": {
+     "pp": [
+      20,
+      30
+     ]
+    }
+   },
+   {
+    "move": "Venoshock",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Volt Tackle",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Water Spout",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Waterfall",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Wave Crash",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Weather Ball",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Whirlpool",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Wide Guard",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Wild Charge",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Will-O-Wisp",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Wish",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Wonder Room",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Wood Hammer",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Worry Seed",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "X-Scissor",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   },
+   {
+    "move": "Yawn",
+    "diff(cd,api)": {
+     "pp": [
+      12,
+      10
+     ]
+    }
+   },
+   {
+    "move": "Zap Cannon",
+    "diff(cd,api)": {
+     "pp": [
+      8,
+      5
+     ]
+    }
+   },
+   {
+    "move": "Zen Headbutt",
+    "diff(cd,api)": {
+     "pp": [
+      16,
+      15
+     ]
+    }
+   }
+  ],
+  "field_diff_counts": {
+   "power": 13,
+   "accuracy": 3,
+   "pp": 395,
+   "priority": 0,
+   "type": 0
+  }
+ },
+ "cd_name_to_form_keys": {
+  "Mega Venusaur": [
+   "venusaur-mega"
+  ],
+  "Venusaur": [
+   "venusaur"
+  ],
+  "Charizard": [
+   "charizard"
+  ],
+  "Mega Charizard X": [
+   "charizard-mega-x"
+  ],
+  "Mega Charizard Y": [
+   "charizard-mega-y"
+  ],
+  "Blastoise": [
+   "blastoise"
+  ],
+  "Mega Blastoise": [
+   "blastoise-mega"
+  ],
+  "Beedrill": [
+   "beedrill"
+  ],
+  "Mega Beedrill": [
+   "beedrill-mega"
+  ],
+  "Mega Pidgeot": [
+   "pidgeot-mega"
+  ],
+  "Pidgeot": [
+   "pidgeot"
+  ],
+  "Arbok": [
+   "arbok"
+  ],
+  "Pikachu": [
+   "pikachu"
+  ],
+  "Alolan Raichu": [
+   "raichu-alola"
+  ],
+  "Raichu": [
+   "raichu"
+  ],
+  "Clefable": [
+   "clefable"
+  ],
+  "Mega Clefable": [
+   "clefable-mega"
+  ],
+  "Alolan Ninetales": [
+   "ninetales-alola"
+  ],
+  "Ninetales": [
+   "ninetales"
+  ],
+  "Arcanine": [
+   "arcanine"
+  ],
+  "Hisuian Arcanine": [
+   "arcanine-hisui"
+  ],
+  "Alakazam": [
+   "alakazam"
+  ],
+  "Mega Alakazam": [
+   "alakazam-mega"
+  ],
+  "Machamp": [
+   "machamp"
+  ],
+  "Mega Victreebel": [
+   "victreebel-mega"
+  ],
+  "Victreebel": [
+   "victreebel"
+  ],
+  "Galarian Slowbro": [
+   "slowbro-galar"
+  ],
+  "Mega Slowbro": [
+   "slowbro-mega"
+  ],
+  "Slowbro": [
+   "slowbro"
+  ],
+  "Gengar": [
+   "gengar"
+  ],
+  "Mega Gengar": [
+   "gengar-mega"
+  ],
+  "Kangaskhan": [
+   "kangaskhan"
+  ],
+  "Mega Kangaskhan": [
+   "kangaskhan-mega"
+  ],
+  "Mega Starmie": [
+   "starmie-mega"
+  ],
+  "Starmie": [
+   "starmie"
+  ],
+  "Mega Pinsir": [
+   "pinsir-mega"
+  ],
+  "Pinsir": [
+   "pinsir"
+  ],
+  "Tauros": [
+   "tauros"
+  ],
+  "Gyarados": [
+   "gyarados"
+  ],
+  "Mega Gyarados": [
+   "gyarados-mega"
+  ],
+  "Ditto": [
+   "ditto"
+  ],
+  "Vaporeon": [
+   "vaporeon"
+  ],
+  "Jolteon": [
+   "jolteon"
+  ],
+  "Flareon": [
+   "flareon"
+  ],
+  "Aerodactyl": [
+   "aerodactyl"
+  ],
+  "Mega Aerodactyl": [
+   "aerodactyl-mega"
+  ],
+  "Snorlax": [
+   "snorlax"
+  ],
+  "Dragonite": [
+   "dragonite"
+  ],
+  "Mega Dragonite": [
+   "dragonite-mega"
+  ],
+  "Mega Meganium": [
+   "meganium-mega"
+  ],
+  "Meganium": [
+   "meganium"
+  ],
+  "Hisuian Typhlosion": [
+   "typhlosion-hisui"
+  ],
+  "Typhlosion": [
+   "typhlosion"
+  ],
+  "Feraligatr": [
+   "feraligatr"
+  ],
+  "Mega Feraligatr": [
+   "feraligatr-mega"
+  ],
+  "Ariados": [
+   "ariados"
+  ],
+  "Ampharos": [
+   "ampharos"
+  ],
+  "Mega Ampharos": [
+   "ampharos-mega"
+  ],
+  "Azumarill": [
+   "azumarill"
+  ],
+  "Politoed": [
+   "politoed"
+  ],
+  "Espeon": [
+   "espeon"
+  ],
+  "Umbreon": [
+   "umbreon"
+  ],
+  "Galarian Slowking": [
+   "slowking-galar"
+  ],
+  "Slowking": [
+   "slowking"
+  ],
+  "Forretress": [
+   "forretress"
+  ],
+  "Mega Steelix": [
+   "steelix-mega"
+  ],
+  "Steelix": [
+   "steelix"
+  ],
+  "Mega Scizor": [
+   "scizor-mega"
+  ],
+  "Scizor": [
+   "scizor"
+  ],
+  "Heracross": [
+   "heracross"
+  ],
+  "Mega Heracross": [
+   "heracross-mega"
+  ],
+  "Mega Skarmory": [
+   "skarmory-mega"
+  ],
+  "Skarmory": [
+   "skarmory"
+  ],
+  "Houndoom": [
+   "houndoom"
+  ],
+  "Mega Houndoom": [
+   "houndoom-mega"
+  ],
+  "Mega Tyranitar": [
+   "tyranitar-mega"
+  ],
+  "Tyranitar": [
+   "tyranitar"
+  ],
+  "Pelipper": [
+   "pelipper"
+  ],
+  "Gardevoir": [
+   "gardevoir"
+  ],
+  "Mega Gardevoir": [
+   "gardevoir-mega"
+  ],
+  "Mega Sableye": [
+   "sableye-mega"
+  ],
+  "Sableye": [
+   "sableye"
+  ],
+  "Aggron": [
+   "aggron"
+  ],
+  "Mega Aggron": [
+   "aggron-mega"
+  ],
+  "Medicham": [
+   "medicham"
+  ],
+  "Mega Medicham": [
+   "medicham-mega"
+  ],
+  "Manectric": [
+   "manectric"
+  ],
+  "Mega Manectric": [
+   "manectric-mega"
+  ],
+  "Mega Sharpedo": [
+   "sharpedo-mega"
+  ],
+  "Sharpedo": [
+   "sharpedo"
+  ],
+  "Camerupt": [
+   "camerupt"
+  ],
+  "Mega Camerupt": [
+   "camerupt-mega"
+  ],
+  "Torkoal": [
+   "torkoal"
+  ],
+  "Altaria": [
+   "altaria"
+  ],
+  "Mega Altaria": [
+   "altaria-mega"
+  ],
+  "Milotic": [
+   "milotic"
+  ],
+  "Castform": [
+   "castform"
+  ],
+  "Banette": [
+   "banette"
+  ],
+  "Mega Banette": [
+   "banette-mega"
+  ],
+  "Chimecho": [
+   "chimecho"
+  ],
+  "Mega Chimecho": [
+   "chimecho-mega"
+  ],
+  "Absol": [
+   "absol"
+  ],
+  "Mega Absol": [
+   "absol-mega"
+  ],
+  "Glalie": [
+   "glalie"
+  ],
+  "Mega Glalie": [
+   "glalie-mega"
+  ],
+  "Torterra": [
+   "torterra"
+  ],
+  "Infernape": [
+   "infernape"
+  ],
+  "Empoleon": [
+   "empoleon"
+  ],
+  "Luxray": [
+   "luxray"
+  ],
+  "Roserade": [
+   "roserade"
+  ],
+  "Rampardos": [
+   "rampardos"
+  ],
+  "Bastiodon": [
+   "bastiodon"
+  ],
+  "Lopunny": [
+   "lopunny"
+  ],
+  "Mega Lopunny": [
+   "lopunny-mega"
+  ],
+  "Spiritomb": [
+   "spiritomb"
+  ],
+  "Garchomp": [
+   "garchomp"
+  ],
+  "Mega Garchomp": [
+   "garchomp-mega"
+  ],
+  "Lucario": [
+   "lucario"
+  ],
+  "Mega Lucario": [
+   "lucario-mega"
+  ],
+  "Hippowdon": [
+   "hippowdon"
+  ],
+  "Toxicroak": [
+   "toxicroak"
+  ],
+  "Abomasnow": [
+   "abomasnow"
+  ],
+  "Mega Abomasnow": [
+   "abomasnow-mega"
+  ],
+  "Weavile": [
+   "weavile"
+  ],
+  "Rhyperior": [
+   "rhyperior"
+  ],
+  "Leafeon": [
+   "leafeon"
+  ],
+  "Glaceon": [
+   "glaceon"
+  ],
+  "Gliscor": [
+   "gliscor"
+  ],
+  "Mamoswine": [
+   "mamoswine"
+  ],
+  "Gallade": [
+   "gallade"
+  ],
+  "Mega Gallade": [
+   "gallade-mega"
+  ],
+  "Froslass": [
+   "froslass"
+  ],
+  "Mega Froslass": [
+   "froslass-mega"
+  ],
+  "Rotom": [
+   "rotom"
+  ],
+  "Serperior": [
+   "serperior"
+  ],
+  "Emboar": [
+   "emboar"
+  ],
+  "Mega Emboar": [
+   "emboar-mega"
+  ],
+  "Hisuian Samurott": [
+   "samurott-hisui"
+  ],
+  "Samurott": [
+   "samurott"
+  ],
+  "Watchog": [
+   "watchog"
+  ],
+  "Liepard": [
+   "liepard"
+  ],
+  "Simisage": [
+   "simisage"
+  ],
+  "Simisear": [
+   "simisear"
+  ],
+  "Simipour": [
+   "simipour"
+  ],
+  "Excadrill": [
+   "excadrill"
+  ],
+  "Mega Excadrill": [
+   "excadrill-mega"
+  ],
+  "Audino": [
+   "audino"
+  ],
+  "Mega Audino": [
+   "audino-mega"
+  ],
+  "Conkeldurr": [
+   "conkeldurr"
+  ],
+  "Whimsicott": [
+   "whimsicott"
+  ],
+  "Krookodile": [
+   "krookodile"
+  ],
+  "Cofagrigus": [
+   "cofagrigus"
+  ],
+  "Garbodor": [
+   "garbodor"
+  ],
+  "Hisuian Zoroark": [
+   "zoroark-hisui"
+  ],
+  "Zoroark": [
+   "zoroark"
+  ],
+  "Reuniclus": [
+   "reuniclus"
+  ],
+  "Vanilluxe": [
+   "vanilluxe"
+  ],
+  "Emolga": [
+   "emolga"
+  ],
+  "Chandelure": [
+   "chandelure"
+  ],
+  "Mega Chandelure": [
+   "chandelure-mega"
+  ],
+  "Beartic": [
+   "beartic"
+  ],
+  "Galarian Stunfisk": [
+   "stunfisk-galar"
+  ],
+  "Stunfisk": [
+   "stunfisk"
+  ],
+  "Golurk": [
+   "golurk"
+  ],
+  "Mega Golurk": [
+   "golurk-mega"
+  ],
+  "Hydreigon": [
+   "hydreigon"
+  ],
+  "Volcarona": [
+   "volcarona"
+  ],
+  "Chesnaught": [
+   "chesnaught"
+  ],
+  "Mega Chesnaught": [
+   "chesnaught-mega"
+  ],
+  "Delphox": [
+   "delphox"
+  ],
+  "Mega Delphox": [
+   "delphox-mega"
+  ],
+  "Greninja": [
+   "greninja"
+  ],
+  "Mega Greninja": [
+   "greninja-mega"
+  ],
+  "Diggersby": [
+   "diggersby"
+  ],
+  "Talonflame": [
+   "talonflame"
+  ],
+  "Vivillon": [
+   "vivillon"
+  ],
+  "Floette": [
+   "floette"
+  ],
+  "Mega Floette": [
+   "floette-mega"
+  ],
+  "Florges": [
+   "florges"
+  ],
+  "Pangoro": [
+   "pangoro"
+  ],
+  "Furfrou": [
+   "furfrou"
+  ],
+  "Meowstic": [
+   "meowstic-male"
+  ],
+  "Aegislash": [
+   "aegislash-shield"
+  ],
+  "Aromatisse": [
+   "aromatisse"
+  ],
+  "Slurpuff": [
+   "slurpuff"
+  ],
+  "Clawitzer": [
+   "clawitzer"
+  ],
+  "Heliolisk": [
+   "heliolisk"
+  ],
+  "Tyrantrum": [
+   "tyrantrum"
+  ],
+  "Aurorus": [
+   "aurorus"
+  ],
+  "Sylveon": [
+   "sylveon"
+  ],
+  "Hawlucha": [
+   "hawlucha"
+  ],
+  "Mega Hawlucha": [
+   "hawlucha-mega"
+  ],
+  "Dedenne": [
+   "dedenne"
+  ],
+  "Goodra": [
+   "goodra"
+  ],
+  "Hisuian Goodra": [
+   "goodra-hisui"
+  ],
+  "Klefki": [
+   "klefki"
+  ],
+  "Trevenant": [
+   "trevenant"
+  ],
+  "Gourgeist": [
+   "gourgeist-average"
+  ],
+  "Avalugg": [
+   "avalugg"
+  ],
+  "Hisuian Avalugg": [
+   "avalugg-hisui"
+  ],
+  "Noivern": [
+   "noivern"
+  ],
+  "Decidueye": [
+   "decidueye"
+  ],
+  "Hisuian Decidueye": [
+   "decidueye-hisui"
+  ],
+  "Incineroar": [
+   "incineroar"
+  ],
+  "Primarina": [
+   "primarina"
+  ],
+  "Toucannon": [
+   "toucannon"
+  ],
+  "Crabominable": [
+   "crabominable"
+  ],
+  "Mega Crabominable": [
+   "crabominable-mega"
+  ],
+  "Lycanroc": [
+   "lycanroc-midday"
+  ],
+  "Toxapex": [
+   "toxapex"
+  ],
+  "Mudsdale": [
+   "mudsdale"
+  ],
+  "Araquanid": [
+   "araquanid"
+  ],
+  "Salazzle": [
+   "salazzle"
+  ],
+  "Tsareena": [
+   "tsareena"
+  ],
+  "Oranguru": [
+   "oranguru"
+  ],
+  "Passimian": [
+   "passimian"
+  ],
+  "Mimikyu": [
+   "mimikyu-disguised"
+  ],
+  "Drampa": [
+   "drampa"
+  ],
+  "Mega Drampa": [
+   "drampa-mega"
+  ],
+  "Kommo-o": [
+   "kommo-o"
+  ],
+  "Corviknight": [
+   "corviknight"
+  ],
+  "Flapple": [
+   "flapple"
+  ],
+  "Appletun": [
+   "appletun"
+  ],
+  "Sandaconda": [
+   "sandaconda"
+  ],
+  "Polteageist": [
+   "polteageist"
+  ],
+  "Hatterene": [
+   "hatterene"
+  ],
+  "Mr. Rime": [
+   "mr-rime"
+  ],
+  "Runerigus": [
+   "runerigus"
+  ],
+  "Alcremie": [
+   "alcremie"
+  ],
+  "Morpeko": [
+   "morpeko-full-belly"
+  ],
+  "Dragapult": [
+   "dragapult"
+  ],
+  "Wyrdeer": [
+   "wyrdeer"
+  ],
+  "Kleavor": [
+   "kleavor"
+  ],
+  "Basculegion": [
+   "basculegion-male"
+  ],
+  "Sneasler": [
+   "sneasler"
+  ],
+  "Meowscarada": [
+   "meowscarada"
+  ],
+  "Skeledirge": [
+   "skeledirge"
+  ],
+  "Quaquaval": [
+   "quaquaval"
+  ],
+  "Maushold": [
+   "maushold-family-of-four"
+  ],
+  "Garganacl": [
+   "garganacl"
+  ],
+  "Armarouge": [
+   "armarouge"
+  ],
+  "Ceruledge": [
+   "ceruledge"
+  ],
+  "Bellibolt": [
+   "bellibolt"
+  ],
+  "Mega Scovillain": [
+   "scovillain-mega"
+  ],
+  "Scovillain": [
+   "scovillain"
+  ],
+  "Espathra": [
+   "espathra"
+  ],
+  "Tinkaton": [
+   "tinkaton"
+  ],
+  "Palafin": [
+   "palafin-zero"
+  ],
+  "Orthworm": [
+   "orthworm"
+  ],
+  "Glimmora": [
+   "glimmora"
+  ],
+  "Mega Glimmora": [
+   "glimmora-mega"
+  ],
+  "Farigiraf": [
+   "farigiraf"
+  ],
+  "Kingambit": [
+   "kingambit"
+  ],
+  "Sinistcha": [
+   "sinistcha"
+  ],
+  "Archaludon": [
+   "archaludon"
+  ],
+  "Hydrapple": [
+   "hydrapple"
+  ],
+  "Paldean Tauros": [
+   "tauros-paldea-aqua-breed",
+   "tauros-paldea-blaze-breed",
+   "tauros-paldea-combat-breed"
+  ],
+  "Mega Meowstic": [
+   "meowstic-female-mega",
+   "meowstic-male-mega"
+  ]
+ },
+ "learnsets": {
+  "api_empty_fillable_from_cd": [
+   {
+    "form_key": "floette",
+    "cd_name": "Floette",
+    "cd_move_count": 40
+   }
+  ],
+  "differs": [
+   {
+    "form_key": "raichu-alola",
+    "only_cd": [
+     "brutalswing",
+     "drainpunch"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "raichu",
+    "only_cd": [
+     "calmmind",
+     "expandingforce",
+     "magicroom",
+     "psychicnoise",
+     "psychicterrain",
+     "psyshock",
+     "skillswap",
+     "speedswap",
+     "storedpower"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "clefable",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "clefable-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "ninetales-alola",
+    "only_cd": [
+     "burningjealousy",
+     "energyball",
+     "fireblast",
+     "firespin",
+     "flamecharge",
+     "flamethrower",
+     "flareblitz",
+     "healingwish",
+     "heatwave",
+     "inferno",
+     "memento",
+     "mysticalfire",
+     "nightshade",
+     "overheat",
+     "quickattack",
+     "scorchingsands",
+     "shadowball",
+     "snarl",
+     "solarbeam",
+     "sunnyday",
+     "willowisp"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "ninetales",
+    "only_cd": [
+     "auroraveil",
+     "avalanche",
+     "blizzard",
+     "chillingwater",
+     "dazzlinggleam",
+     "drainingkiss",
+     "freezedry",
+     "icebeam",
+     "iceshard",
+     "iciclespear",
+     "icywind",
+     "mistyterrain",
+     "moonblast",
+     "playrough",
+     "raindance",
+     "snowscape",
+     "tripleaxel",
+     "wonderroom"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "arcanine",
+    "only_cd": [
+     "headsmash",
+     "powergem",
+     "rockblast",
+     "rockslide",
+     "rocktomb",
+     "sandstorm",
+     "smackdown",
+     "smartstrike",
+     "stealthrock",
+     "stoneedge"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "arcanine-hisui",
+    "only_cd": [
+     "charm",
+     "curse",
+     "playrough"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "alakazam",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "alakazam-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "victreebel-mega",
+    "only_cd": [],
+    "only_api": [
+     "grassyterrain"
+    ]
+   },
+   {
+    "form_key": "victreebel",
+    "only_cd": [],
+    "only_api": [
+     "grassyterrain"
+    ]
+   },
+   {
+    "form_key": "slowbro-galar",
+    "only_cd": [
+     "focuspunch",
+     "psychicnoise",
+     "scald"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "slowbro-mega",
+    "only_cd": [
+     "acidspray",
+     "doubleedge",
+     "gunkshot",
+     "haze",
+     "icefang",
+     "poisonjab",
+     "powergem",
+     "rockblast",
+     "sandstorm",
+     "scaryface",
+     "shellsidearm",
+     "sludgebomb",
+     "sludgewave",
+     "smackdown",
+     "toxic",
+     "toxicspikes",
+     "venoshock"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "slowbro",
+    "only_cd": [
+     "acidspray",
+     "doubleedge",
+     "gunkshot",
+     "haze",
+     "icefang",
+     "poisonjab",
+     "powergem",
+     "rockblast",
+     "sandstorm",
+     "scaryface",
+     "shellsidearm",
+     "sludgebomb",
+     "sludgewave",
+     "smackdown",
+     "toxic",
+     "toxicspikes",
+     "venoshock"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gengar",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gengar-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "starmie-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "starmie",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "tauros",
+    "only_cd": [
+     "aquajet",
+     "bodypress",
+     "bulkup",
+     "chillingwater",
+     "drillrun",
+     "firespin",
+     "flamecharge",
+     "flareblitz",
+     "hydropump",
+     "liquidation",
+     "overheat",
+     "temperflare",
+     "waterpulse",
+     "wavecrash",
+     "willowisp"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "typhlosion-hisui",
+    "only_cd": [
+     "fling",
+     "helpinghand",
+     "rocktomb",
+     "scorchingsands",
+     "throatchop"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "typhlosion",
+    "only_cd": [
+     "calmmind",
+     "confuseray",
+     "hex",
+     "infernalparade",
+     "mysticalfire",
+     "nightshade",
+     "poltergeist",
+     "spite"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "ariados",
+    "only_cd": [
+     "psychicfangs"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "politoed",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "espeon",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "umbreon",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "slowking-galar",
+    "only_cd": [
+     "focuspunch",
+     "reflect",
+     "rockslide",
+     "rocktomb",
+     "scald"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "slowking",
+    "only_cd": [
+     "acidspray",
+     "eeriespell",
+     "gunkshot",
+     "hex",
+     "lowsweep",
+     "poisonjab",
+     "scaryface",
+     "sludgebomb",
+     "sludgewave",
+     "snarl",
+     "stompingtantrum",
+     "taunt",
+     "toxic",
+     "toxicspikes",
+     "venoshock"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gardevoir",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gardevoir-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "sableye-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "sableye",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "medicham",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "medicham-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "banette",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "banette-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "chimecho",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "chimecho-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "spiritomb",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "lucario",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "lucario-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gallade",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gallade-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "froslass",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "froslass-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "rotom",
+    "only_cd": [
+     "airslash",
+     "blizzard",
+     "hydropump",
+     "leafstorm",
+     "overheat"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "samurott",
+    "only_cd": [
+     "ceaselessedge",
+     "darkpulse",
+     "lashout",
+     "snarl",
+     "suckerpunch",
+     "throatchop"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "audino",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "audino-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "whimsicott",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "cofagrigus",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "garbodor",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "zoroark-hisui",
+    "only_cd": [
+     "counter",
+     "encore",
+     "nightdaze",
+     "nightslash",
+     "suckerpunch",
+     "sunnyday",
+     "toxic"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "zoroark",
+    "only_cd": [
+     "bittermalice",
+     "comeuppance",
+     "curse",
+     "focuspunch",
+     "icywind",
+     "phantomforce",
+     "poltergeist",
+     "shadowsneak",
+     "snowscape",
+     "willowisp"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "reuniclus",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "chandelure",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "chandelure-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "stunfisk-galar",
+    "only_cd": [
+     "charge",
+     "discharge",
+     "eerieimpulse",
+     "electricterrain",
+     "electroweb",
+     "thunder",
+     "thunderbolt"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "stunfisk",
+    "only_cd": [
+     "bind",
+     "counter",
+     "crunch",
+     "flashcannon",
+     "icefang",
+     "irondefense",
+     "metalsound",
+     "screech",
+     "snaptrap",
+     "steelbeam",
+     "terrainpulse"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "golurk",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "golurk-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "volcarona",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "delphox",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "delphox-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "vivillon",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "floette-mega",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "florges",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "meowstic-male",
+    "only_cd": [
+     "extrasensory",
+     "futuresight"
+    ],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "aegislash-shield",
+    "only_cd": [],
+    "only_api": [
+     "kingsshield"
+    ]
+   },
+   {
+    "form_key": "aromatisse",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "slurpuff",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "aurorus",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "sylveon",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "goodra",
+    "only_cd": [
+     "ancientpower",
+     "flashcannon",
+     "gyroball",
+     "heavyslam",
+     "icespinner",
+     "ironhead",
+     "lashout",
+     "rocktomb",
+     "sandstorm",
+     "scaryface",
+     "shelter",
+     "steelbeam"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "goodra-hisui",
+    "only_cd": [
+     "acidarmor",
+     "aquatail",
+     "assurance",
+     "brutalswing",
+     "focusblast",
+     "focuspunch",
+     "gigadrain",
+     "megakick",
+     "powerwhip",
+     "round",
+     "scald",
+     "snore",
+     "superpower",
+     "toxic"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "klefki",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "trevenant",
+    "only_cd": [],
+    "only_api": [
+     "forestscurse",
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "gourgeist-average",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "avalugg",
+    "only_cd": [
+     "ancientpower",
+     "dig",
+     "hardpress",
+     "meteorbeam",
+     "mountaingale",
+     "rockblast",
+     "sandstorm",
+     "stealthrock"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "avalugg-hisui",
+    "only_cd": [
+     "flashcannon",
+     "frostbreath",
+     "hydropump",
+     "iciclecrash",
+     "round",
+     "snore",
+     "superpower",
+     "surf"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "noivern",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "decidueye",
+    "only_cd": [
+     "aurasphere",
+     "brickbreak",
+     "bulkup",
+     "closecombat",
+     "coaching",
+     "focusblast",
+     "focuspunch",
+     "reversal",
+     "rocktomb",
+     "scaryface",
+     "taunt",
+     "triplearrows",
+     "upperhand"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "decidueye-hisui",
+    "only_cd": [
+     "acrobatics",
+     "curse",
+     "hex",
+     "hurricane",
+     "imprison",
+     "phantomforce",
+     "poltergeist",
+     "psychocut",
+     "shadowball",
+     "skittersmack",
+     "solarblade",
+     "spiritshackle",
+     "spite"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "primarina",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "lycanroc-midday",
+    "only_cd": [
+     "counter",
+     "crushclaw",
+     "firepunch",
+     "fling",
+     "focusenergy",
+     "focuspunch",
+     "foulplay",
+     "knockoff",
+     "lashout",
+     "lowsweep",
+     "megakick",
+     "outrage",
+     "payback",
+     "reversal",
+     "shadowclaw",
+     "throatchop",
+     "thunderpunch",
+     "upperhand",
+     "uproar"
+    ],
+    "only_api": []
+   },
+   {
+    "form_key": "oranguru",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "mimikyu-disguised",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "polteageist",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "hatterene",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "mr-rime",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "runerigus",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "alcremie",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "wyrdeer",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "armarouge",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "espathra",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   },
+   {
+    "form_key": "farigiraf",
+    "only_cd": [],
+    "only_api": [
+     "psychic"
+    ]
+   }
+  ],
+  "categories": {
+   "cd_gap_only": 65,
+   "cd_superset": 19,
+   "api_superset": 2,
+   "both_differ": 10
+  },
+  "category_forms": {
+   "cd_gap_only": [
+    "clefable",
+    "clefable-mega",
+    "alakazam",
+    "alakazam-mega",
+    "victreebel-mega",
+    "victreebel",
+    "gengar",
+    "gengar-mega",
+    "starmie-mega",
+    "starmie",
+    "politoed",
+    "espeon",
+    "umbreon",
+    "gardevoir",
+    "gardevoir-mega",
+    "sableye-mega",
+    "sableye",
+    "medicham",
+    "medicham-mega",
+    "banette",
+    "banette-mega",
+    "chimecho",
+    "chimecho-mega",
+    "spiritomb",
+    "lucario",
+    "lucario-mega",
+    "gallade",
+    "gallade-mega",
+    "froslass",
+    "froslass-mega",
+    "audino",
+    "audino-mega",
+    "whimsicott",
+    "cofagrigus",
+    "garbodor",
+    "reuniclus",
+    "chandelure",
+    "chandelure-mega",
+    "golurk",
+    "golurk-mega",
+    "volcarona",
+    "delphox",
+    "delphox-mega",
+    "vivillon",
+    "floette-mega",
+    "florges",
+    "aromatisse",
+    "slurpuff",
+    "aurorus",
+    "sylveon",
+    "klefki",
+    "gourgeist-average",
+    "noivern",
+    "primarina",
+    "oranguru",
+    "mimikyu-disguised",
+    "polteageist",
+    "hatterene",
+    "mr-rime",
+    "runerigus",
+    "alcremie",
+    "wyrdeer",
+    "armarouge",
+    "espathra",
+    "farigiraf"
+   ],
+   "cd_superset": [
+    "raichu",
+    "ninetales-alola",
+    "ninetales",
+    "arcanine",
+    "arcanine-hisui",
+    "tauros",
+    "typhlosion-hisui",
+    "typhlosion",
+    "rotom",
+    "samurott",
+    "stunfisk-galar",
+    "stunfisk",
+    "goodra",
+    "goodra-hisui",
+    "avalugg",
+    "avalugg-hisui",
+    "decidueye",
+    "decidueye-hisui",
+    "lycanroc-midday"
+   ],
+   "api_superset": [
+    "aegislash-shield",
+    "trevenant"
+   ],
+   "both_differ": [
+    "raichu-alola",
+    "slowbro-galar",
+    "slowbro-mega",
+    "slowbro",
+    "ariados",
+    "slowking-galar",
+    "slowking",
+    "zoroark-hisui",
+    "zoroark",
+    "meowstic-male"
+   ]
+  }
+ },
+ "no_learnset_anywhere": [
+  {
+   "species": "wigglytuff",
+   "dex_no": 40,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "persian",
+   "dex_no": 53,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "farfetchd",
+   "dex_no": 83,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "mr-mime",
+   "dex_no": 122,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "swalot",
+   "dex_no": 317,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "salamence",
+   "dex_no": 373,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "gogoat",
+   "dex_no": 673,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "golisopod",
+   "dex_no": 768,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "rillaboom",
+   "dex_no": 812,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "cinderace",
+   "dex_no": 815,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "inteleon",
+   "dex_no": 818,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "thievul",
+   "dex_no": 828,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "toxtricity",
+   "dex_no": 849,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "grapploct",
+   "dex_no": 853,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "perrserker",
+   "dex_no": 863,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "sirfetchd",
+   "dex_no": 865,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "pincurchin",
+   "dex_no": 871,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "indeedee",
+   "dex_no": 876,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "pawmot",
+   "dex_no": 923,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "arboliva",
+   "dex_no": 930,
+   "seen_in_pokedb": true
+  },
+  {
+   "species": "squawkabilly",
+   "dex_no": 931,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "mabosstiff",
+   "dex_no": 943,
+   "seen_in_pokedb": false
+  },
+  {
+   "species": "baxcalibur",
+   "dex_no": 998,
+   "seen_in_pokedb": true
+  }
+ ],
+ "api_dex_species_not_in_cd": 45
+}

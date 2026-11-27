@@ -1,0 +1,20 @@
+{
+ "name": "muscle-mochi",
+ "names": {
+  "ja-hrkt": "きんりょくのもち",
+  "ko": "근력떡",
+  "zh-hant": "肌力糬",
+  "fr": "Mochi Force",
+  "de": "Kraft-Mochi",
+  "es": "Mochi Músculo",
+  "it": "Mochi della potenza",
+  "en": "Muscle Mochi",
+  "ja": "きんりょくのもち",
+  "zh-hans": "肌力粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,22 @@
+{
+ "name": "sharpness",
+ "names": {
+  "ja-hrkt": "きれあじ",
+  "ko": "예리함",
+  "zh-hant": "鋒銳",
+  "fr": "Incisif",
+  "de": "Scharfkantig",
+  "es": "Cortante",
+  "it": "Affilama",
+  "en": "Sharpness",
+  "ja": "きれあじ",
+  "zh-hans": "锋锐",
+  "es-419": "Cortante"
+ },
+ "effect": {
+  "en": "Powers up slicing moves."
+ },
+ "flavor": {
+  "en": "Powers up slicing moves."
+ }
+}

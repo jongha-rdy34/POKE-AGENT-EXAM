@@ -1,0 +1,23 @@
+{
+ "name": "gluttony",
+ "names": {
+  "ja-hrkt": "くいしんぼう",
+  "ko": "먹보",
+  "zh-hant": "貪吃鬼",
+  "fr": "Gloutonnerie",
+  "de": "Völlerei",
+  "es": "Gula",
+  "it": "Voracità",
+  "en": "Gluttony",
+  "ja": "くいしんぼう",
+  "zh-hans": "贪吃鬼",
+  "es-419": "Gula"
+ },
+ "effect": {
+  "en": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+ },
+ "flavor": {
+  "en": "If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less.",
+  "ko": "HP가 줄어들면 먹을 나무열매를 HP가 절반일 때 먹어버린다."
+ }
+}

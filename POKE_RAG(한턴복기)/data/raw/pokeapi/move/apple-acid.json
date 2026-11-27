@@ -1,0 +1,31 @@
+{
+ "name": "apple-acid",
+ "names": {
+  "ja-hrkt": "りんごさん",
+  "ko": "사과산",
+  "zh-hant": "蘋果酸",
+  "fr": "Acide Malique",
+  "de": "Apfelsäure",
+  "es": "Ácido Málico",
+  "it": "Acido Malico",
+  "en": "Apple Acid",
+  "ja": "りんごさん",
+  "zh-hans": "苹果酸",
+  "es-419": "Ácido Málico"
+ },
+ "type": "grass",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lower the targets Special Defense by 1 stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "새콤한 사과에서 만들어 낸 산성 액체로 공격한다. 상대의 특수방어를 떨어뜨린다.",
+  "en": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat."
+ }
+}

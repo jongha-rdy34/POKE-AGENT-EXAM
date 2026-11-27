@@ -1,0 +1,28 @@
+{
+ "name": "hm01",
+ "names": {
+  "ja-hrkt": "ひでんマシン０１",
+  "ko": "비전머신01",
+  "zh-hant": "秘傳學習器０１",
+  "fr": "CS01",
+  "de": "VM01",
+  "es": "MO01",
+  "it": "MN01",
+  "en": "HM01",
+  "ja": "ひでんマシン０１",
+  "zh-hans": "秘传学习器０１",
+  "es-419": "MO01"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Coupe à un Pokémon compatible.",
+  "en": "Teaches Cut to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

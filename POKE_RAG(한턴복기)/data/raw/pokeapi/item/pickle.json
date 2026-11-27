@@ -1,0 +1,20 @@
+{
+ "name": "pickle",
+ "names": {
+  "ja-hrkt": "ピクルススライス",
+  "ko": "피클슬라이스",
+  "zh-hant": "酸黃瓜片",
+  "fr": "Cornichon",
+  "de": "Gewürzgurke",
+  "es": "Pepinillo",
+  "it": "Sottaceto",
+  "en": "Pickle",
+  "ja": "ピクルススライス",
+  "zh-hans": "酸黄瓜片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

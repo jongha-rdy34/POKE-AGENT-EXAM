@@ -1,0 +1,33 @@
+{
+ "id": 1012,
+ "name": "poltchageist",
+ "names": {
+  "ja-hrkt": "チャデス",
+  "ja-roma": "Chadeath",
+  "ko": "차데스",
+  "zh-hant": "斯魔茶",
+  "fr": "Poltchageist",
+  "de": "Mortcha",
+  "es": "Poltchageist",
+  "it": "Poltchageist",
+  "en": "Poltchageist",
+  "ja": "チャデス",
+  "zh-hans": "斯魔茶",
+  "es-419": "Poltchageist"
+ },
+ "genus": {
+  "ko": "말차포켓몬",
+  "fr": "Matcha",
+  "en": "Matcha Pokémon"
+ },
+ "flavor": {
+  "en": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated."
+ },
+ "varieties": [
+  {
+   "name": "poltchageist",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "539"
+}

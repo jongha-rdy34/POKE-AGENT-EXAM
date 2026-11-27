@@ -1,0 +1,42 @@
+{
+ "id": 773,
+ "name": "silvally",
+ "names": {
+  "ja-hrkt": "シルヴァディ",
+  "ja-roma": "Silvady",
+  "ko": "실버디",
+  "zh-hant": "銀伴戰獸",
+  "fr": "Silvallié",
+  "de": "Amigento",
+  "es": "Silvally",
+  "it": "Silvally",
+  "en": "Silvally",
+  "ja": "シルヴァディ",
+  "zh-hans": "银伴战兽",
+  "es-419": "Silvally"
+ },
+ "genus": {
+  "ja-hrkt": "じんこうポケモン",
+  "ko": "인공포켓몬",
+  "zh-hant": "人工寶可夢",
+  "fr": "Pokémon Multigénome",
+  "de": "Modifikations-Pokémon",
+  "es": "Pokémon Multigénico",
+  "it": "Pokémon Multigene",
+  "en": "Synthetic Pokémon",
+  "ja": "じんこうポケモン",
+  "zh-hans": "人工宝可梦",
+  "es-419": "Pokémon Multigénico"
+ },
+ "flavor": {
+  "ko": "본래의 힘을 해방하게 하는 마지막 요소는 신뢰하는 트레이너와의 유대였다.",
+  "en": "The final factor needed to release this Pokémon’s true power was a strong bond with a Trainer it trusts."
+ },
+ "varieties": [
+  {
+   "name": "silvally",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "399"
+}

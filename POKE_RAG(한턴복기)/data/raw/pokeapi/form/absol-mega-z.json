@@ -1,0 +1,15 @@
+{
+ "name": "absol-mega-z",
+ "form_name": "mega-z",
+ "names": {
+  "fr": "Méga-Absol Z",
+  "en": "Mega Absol Z"
+ },
+ "form_names": {
+  "ja-hrkt": "メガアブソルZ",
+  "fr": "Méga-Absol Z",
+  "en": "Mega Absol Z",
+  "ja": "メガアブソルZ"
+ },
+ "is_mega": true
+}

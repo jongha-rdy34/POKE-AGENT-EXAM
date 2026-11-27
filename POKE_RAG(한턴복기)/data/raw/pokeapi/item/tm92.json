@@ -1,0 +1,28 @@
+{
+ "name": "tm92",
+ "names": {
+  "ja-hrkt": "わざマシン９２",
+  "ko": "기술머신92",
+  "zh-hant": "招式學習器９２",
+  "fr": "CT92",
+  "de": "TM92",
+  "es": "MT92",
+  "it": "MT92",
+  "en": "TM92",
+  "ja": "わざマシン９２",
+  "zh-hans": "招式学习器９２",
+  "es-419": "MT92"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Distorsion à un Pokémon compatible.",
+  "en": "Teaches Trick Room to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user attacks by breathing a special, hot fire. This also lowers the target’s Sp. Atk stat.",
+  "ko": "입에서 내뱉는 아주 뜨거운 불꽃으로 공격한다. 상대의 특수공격을 떨어뜨린다.",
+  "ja": "口から 吐きだす 特別 熱い 炎で 攻撃する。 相手の 特攻を さげる。"
+ }
+}

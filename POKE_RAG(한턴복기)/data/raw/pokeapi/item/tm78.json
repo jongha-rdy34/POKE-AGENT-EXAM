@@ -1,0 +1,28 @@
+{
+ "name": "tm78",
+ "names": {
+  "ja-hrkt": "わざマシン７８",
+  "ko": "기술머신78",
+  "zh-hant": "招式學習器７８",
+  "fr": "CT78",
+  "de": "TM78",
+  "es": "MT78",
+  "it": "MT78",
+  "en": "TM78",
+  "ja": "わざマシン７８",
+  "zh-hans": "招式学习器７８",
+  "es-419": "MT78"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Piétisol à un Pokémon compatible. (Gén IV: Séduction)",
+  "en": "Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)"
+ },
+ "flavor": {
+  "en": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.",
+  "ko": "경쾌하게 상대를 공격한다. 자신이 도구를 지니고 있지 않을 때 큰 데미지를 준다.",
+  "ja": "軽やかに 相手を 攻撃する。 自分が 道具を 持っていないとき 大きな ダメージを 与える。"
+ }
+}

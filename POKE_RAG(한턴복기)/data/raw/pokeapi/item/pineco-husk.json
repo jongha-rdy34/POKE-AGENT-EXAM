@@ -1,0 +1,20 @@
+{
+ "name": "pineco-husk",
+ "names": {
+  "ja-hrkt": "クヌギダマのから",
+  "ko": "피콘의껍데기",
+  "zh-hant": "榛果球的殼",
+  "fr": "Écorce de Pomdepik",
+  "de": "Tannza-Schale",
+  "es": "Corteza de Pineco",
+  "it": "Guscio di Pineco",
+  "en": "Pineco Husk",
+  "ja": "クヌギダマのから",
+  "zh-hans": "榛果球的壳"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

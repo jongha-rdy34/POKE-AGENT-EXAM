@@ -1,0 +1,20 @@
+{
+ "name": "tm112",
+ "names": {
+  "ja-hrkt": "わざマシン１１２",
+  "ko": "기술머신112",
+  "zh-hant": "招式學習器１１２",
+  "fr": "CT112",
+  "de": "TM112",
+  "es": "MT112",
+  "it": "MT112",
+  "en": "TM112",
+  "ja": "わざマシン１１２",
+  "zh-hans": "招式学习器１１２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

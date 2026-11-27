@@ -1,0 +1,20 @@
+{
+ "name": "academy-bottle",
+ "names": {
+  "ja-hrkt": "スクールボトル",
+  "ko": "스쿨 보틀",
+  "zh-hant": "校園水壺",
+  "fr": "Gourde de l'Académie",
+  "de": "Akademie-Flasche",
+  "es": "Termo Academia",
+  "it": "Borraccia accademia",
+  "en": "Academy Bottle",
+  "ja": "スクールボトル",
+  "zh-hans": "校园水壶"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

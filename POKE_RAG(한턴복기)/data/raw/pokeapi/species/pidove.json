@@ -1,0 +1,42 @@
+{
+ "id": 519,
+ "name": "pidove",
+ "names": {
+  "ja-hrkt": "マメパト",
+  "ja-roma": "Mamepato",
+  "ko": "콩둘기",
+  "zh-hant": "豆豆鴿",
+  "fr": "Poichigeon",
+  "de": "Dusselgurr",
+  "es": "Pidove",
+  "it": "Pidove",
+  "en": "Pidove",
+  "ja": "マメパト",
+  "zh-hans": "豆豆鸽",
+  "es-419": "Pidove"
+ },
+ "genus": {
+  "ja-hrkt": "こばとポケモン",
+  "ko": "아기비둘기포켓몬",
+  "zh-hant": "小鴿寶可夢",
+  "fr": "Pokémon Tipigeon",
+  "de": "Täubchen-Pokémon",
+  "es": "Pokémon Pichón",
+  "it": "Pokémon Piccione",
+  "en": "Tiny Pigeon Pokémon",
+  "ja": "こばとポケモン",
+  "zh-hans": "小鸽宝可梦",
+  "es-419": "Pokémon Pichón"
+ },
+ "flavor": {
+  "en": "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity.",
+  "ko": "건망증이 심하고 영리하지 않지만 사람을 잘 따르고 착실해서 귀여워하는 트레이너가 많다."
+ },
+ "varieties": [
+  {
+   "name": "pidove",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "266"
+}

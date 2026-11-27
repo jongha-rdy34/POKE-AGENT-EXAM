@@ -1,0 +1,23 @@
+{
+ "name": "super-luck",
+ "names": {
+  "ja-hrkt": "きょううん",
+  "ko": "대운",
+  "zh-hant": "超幸運",
+  "fr": "Chanceux",
+  "de": "Glückspilz",
+  "es": "Afortunado",
+  "it": "Supersorte",
+  "en": "Super Luck",
+  "ja": "きょううん",
+  "zh-hans": "超幸运",
+  "es-419": "Supersuerte"
+ },
+ "effect": {
+  "en": "Raises moves' critical hit rates one stage."
+ },
+ "flavor": {
+  "en": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.",
+  "ko": "대운을 가지고 있어 상대의 급소에 공격이 맞기 쉽다."
+ }
+}

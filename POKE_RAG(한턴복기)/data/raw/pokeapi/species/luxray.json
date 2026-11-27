@@ -1,0 +1,42 @@
+{
+ "id": 405,
+ "name": "luxray",
+ "names": {
+  "ja-hrkt": "レントラー",
+  "ja-roma": "Rentorar",
+  "ko": "렌트라",
+  "zh-hant": "倫琴貓",
+  "fr": "Luxray",
+  "de": "Luxtra",
+  "es": "Luxray",
+  "it": "Luxray",
+  "en": "Luxray",
+  "ja": "レントラー",
+  "zh-hans": "伦琴猫",
+  "es-419": "Luxray"
+ },
+ "genus": {
+  "ja-hrkt": "がんこうポケモン",
+  "ko": "안광포켓몬",
+  "zh-hant": "目光寶可夢",
+  "fr": "Pokémon Brillœil",
+  "de": "Glühaugen-Pokémon",
+  "es": "Pokémon Chispa Ojos",
+  "it": "Pokémon Occhiluce",
+  "en": "Gleam Eyes Pokémon",
+  "ja": "がんこうポケモン",
+  "zh-hans": "目光宝可梦",
+  "es-419": "Pokémon Chispa Ojos"
+ },
+ "flavor": {
+  "en": "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything.",
+  "ko": "투시는 전기 에너지를 매우 많이 소모하기 때문에 오랜 시간 수면을 취해서 에너지를 비축한다."
+ },
+ "varieties": [
+  {
+   "name": "luxray",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "209"
+}

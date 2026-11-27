@@ -1,0 +1,28 @@
+{
+ "name": "data-card-21",
+ "names": {
+  "ja-hrkt": "データカード２１",
+  "ko": "데이터카드21",
+  "zh-hant": "資料卡２１",
+  "fr": "Carte Mémo21",
+  "de": "Datenkarte21",
+  "es": "Tarjeta Datos 21",
+  "it": "Scheda Dati 21",
+  "en": "Data Card 21",
+  "ja": "データカード２１",
+  "zh-hans": "数据卡２１",
+  "es-419": "Tarjeta Datos 21"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Pokéathlon toutes épreuves confondues.",
+  "en": "Records the number of times the trainer has come in first across all Pokéathlon events."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you have won a Pokéathlon event.",
+  "ko": "포켓슬론의 기록이 들어 있다. 경기에서 1위 한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 競技で １位 になった 回数が 記録された カード。"
+ }
+}

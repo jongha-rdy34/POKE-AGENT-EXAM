@@ -1,0 +1,25 @@
+{
+ "name": "tr66",
+ "names": {
+  "ja-hrkt": "わざレコード６６",
+  "ko": "기술레코드66",
+  "zh-hant": "招式紀錄６６",
+  "fr": "DT66",
+  "de": "TP66",
+  "es": "DT66",
+  "it": "DT66",
+  "en": "TR66",
+  "ja": "わざレコード６６",
+  "zh-hans": "招式记录６６",
+  "es-419": "DT66"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "날개를 접어 저공비행으로 돌격한다. 자신도 상당한 데미지를 입는다.",
+  "en": "The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.",
+  "ja": "はねを おりたたみ 低空飛行で 突撃する。 自分も かなり ダメージを 受ける。"
+ }
+}

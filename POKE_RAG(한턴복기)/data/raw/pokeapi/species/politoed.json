@@ -1,0 +1,42 @@
+{
+ "id": 186,
+ "name": "politoed",
+ "names": {
+  "ja-hrkt": "ニョロトノ",
+  "ja-roma": "Nyorotono",
+  "ko": "왕구리",
+  "zh-hant": "蚊香蛙皇",
+  "fr": "Tarpaud",
+  "de": "Quaxo",
+  "es": "Politoed",
+  "it": "Politoed",
+  "en": "Politoed",
+  "ja": "ニョロトノ",
+  "zh-hans": "蚊香蛙皇",
+  "es-419": "Politoed"
+ },
+ "genus": {
+  "ja-hrkt": "かえるポケモン",
+  "ko": "개구리포켓몬",
+  "zh-hant": "蛙寶可夢",
+  "fr": "Pokémon Grenouille",
+  "de": "Frosch-Pokémon",
+  "es": "Pokémon Rana",
+  "it": "Pokémon Rana",
+  "en": "Frog Pokémon",
+  "ja": "かえるポケモン",
+  "zh-hans": "蛙宝可梦",
+  "es-419": "Pokémon Rana"
+ },
+ "flavor": {
+  "en": "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender.",
+  "ko": "수컷의 울음소리가 더 크다. 나지막하고 위협적인 목소리로 우는 왕구리가 암컷에게 인기다."
+ },
+ "varieties": [
+  {
+   "name": "politoed",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "26"
+}

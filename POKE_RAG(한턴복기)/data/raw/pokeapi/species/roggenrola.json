@@ -1,0 +1,42 @@
+{
+ "id": 524,
+ "name": "roggenrola",
+ "names": {
+  "ja-hrkt": "ダンゴロ",
+  "ja-roma": "Dangoro",
+  "ko": "단굴",
+  "zh-hant": "石丸子",
+  "fr": "Nodulithe",
+  "de": "Kiesling",
+  "es": "Roggenrola",
+  "it": "Roggenrola",
+  "en": "Roggenrola",
+  "ja": "ダンゴロ",
+  "zh-hans": "石丸子",
+  "es-419": "Roggenrola"
+ },
+ "genus": {
+  "ja-hrkt": "マントルポケモン",
+  "ko": "맨틀포켓몬",
+  "zh-hant": "地幔寶可夢",
+  "fr": "Pokémon Manteau",
+  "de": "Erdmantel-Pokémon",
+  "es": "Pokémon Manto",
+  "it": "Pokémon Placca",
+  "en": "Mantle Pokémon",
+  "ja": "マントルポケモン",
+  "zh-hans": "地幔宝可梦",
+  "es-419": "Pokémon Manto"
+ },
+ "flavor": {
+  "en": "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch.",
+  "ko": "소리에 반응해 움직인다. 에너지 코어의 영향으로 만지면 조금 따듯하다."
+ },
+ "varieties": [
+  {
+   "name": "roggenrola",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "268"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "camerupt-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Camérupt",
+  "de": "Mega-Camerupt",
+  "en": "Mega Camerupt"
+ },
+ "form_names": {
+  "ja-hrkt": "メガバクーダ",
+  "ko": "메가폭타",
+  "zh-hant": "超級噴火駝",
+  "fr": "Méga-Camérupt",
+  "de": "Mega-Form",
+  "es": "Mega-Camerupt",
+  "it": "MegaCamerupt",
+  "en": "Mega Camerupt",
+  "ja": "メガバクーダ",
+  "zh-hans": "超级喷火驼",
+  "es-419": "Mega-Camerupt"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,23 @@
+{
+ "name": "quick-draw",
+ "names": {
+  "ja-hrkt": "クイックドロウ",
+  "ko": "퀵드로",
+  "zh-hant": "速擊",
+  "fr": "Tir Vif",
+  "de": "Schnellschuss",
+  "es": "Mano Rápida",
+  "it": "Colpolesto",
+  "en": "Quick Draw",
+  "ja": "クイックドロウ",
+  "zh-hans": "速击",
+  "es-419": "Mano Rápida"
+ },
+ "effect": {
+  "en": "Enables the Pokémon to move first occasionally."
+ },
+ "flavor": {
+  "ko": "상대보다 먼저 행동할 수도 있다.",
+  "en": "Enables the Pokémon to move first occasionally."
+ }
+}

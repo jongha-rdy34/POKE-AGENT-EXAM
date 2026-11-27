@@ -1,0 +1,31 @@
+{
+ "name": "calm-mind",
+ "names": {
+  "ja-hrkt": "めいそう",
+  "ko": "명상",
+  "zh-hant": "冥想",
+  "fr": "Plénitude",
+  "de": "Gedankengut",
+  "es": "Paz Mental",
+  "it": "Calmamente",
+  "en": "Calm Mind",
+  "ja": "めいそう",
+  "zh-hans": "冥想",
+  "es-419": "Paz Mental"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises the user’s Special Attack and Special Defense by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user quietly focuses its mind and calms its spirit to boost its Sp. Atk and Sp. Def stats.",
+  "ko": "조용히 정신을 통일하고 마음을 가라앉혀서 자신의 특수공격과 특수방어를 올린다."
+ }
+}

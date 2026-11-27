@@ -1,0 +1,23 @@
+{
+ "name": "kangaskhan-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Kangourex",
+  "de": "Mega-Kangama",
+  "en": "Mega Kangaskhan"
+ },
+ "form_names": {
+  "ja-hrkt": "メガガルーラ",
+  "ko": "메가캥카",
+  "zh-hant": "超級袋獸",
+  "fr": "Méga-Kangourex",
+  "de": "Mega-Form",
+  "es": "Mega-Kangaskhan",
+  "it": "MegaKangaskhan",
+  "en": "Mega Kangaskhan",
+  "ja": "メガガルーラ",
+  "zh-hans": "超级袋兽",
+  "es-419": "Mega-Kangaskhan"
+ },
+ "is_mega": true
+}

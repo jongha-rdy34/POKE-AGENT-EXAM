@@ -1,0 +1,31 @@
+{
+ "name": "water-spout",
+ "names": {
+  "ja-hrkt": "しおふき",
+  "ko": "해수스파우팅",
+  "zh-hant": "噴水",
+  "fr": "Giclédo",
+  "de": "Fontränen",
+  "es": "Salpicar",
+  "it": "Zampillo",
+  "en": "Water Spout",
+  "ja": "しおふき",
+  "zh-hans": "喷水",
+  "es-419": "Columna de Agua"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 150,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power.",
+  "ko": "바닷물을 내뿜어 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다."
+ }
+}

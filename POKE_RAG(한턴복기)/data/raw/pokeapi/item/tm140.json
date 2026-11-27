@@ -1,0 +1,20 @@
+{
+ "name": "tm140",
+ "names": {
+  "ja-hrkt": "わざマシン１４０",
+  "ko": "기술머신140",
+  "zh-hant": "招式學習器１４０",
+  "fr": "CT140",
+  "de": "TM140",
+  "es": "MT140",
+  "it": "MT140",
+  "en": "TM140",
+  "ja": "わざマシン１４０",
+  "zh-hans": "招式学习器１４０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

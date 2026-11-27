@@ -1,0 +1,22 @@
+{
+ "name": "oaks-parcel",
+ "names": {
+  "ja-hrkt": "おとどけもの",
+  "fr": "Colis Chen",
+  "de": "Eichs Paket",
+  "es": "Correo-Oak",
+  "it": "Pacco di Oak",
+  "en": "Oak’s Parcel",
+  "es-419": "Correo-Oak"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger au Professeur Chen pour un Pokédex.",
+  "en": "Trade to Prof. Oak for a Pokédex."
+ },
+ "flavor": {
+  "en": "A parcel to be delivered to PROF. OAK from VIRIDIAN CITY’s POKéMON MART."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "skiddo-leaf",
+ "names": {
+  "ja-hrkt": "メェークルのはっぱ",
+  "ko": "메이클의잎",
+  "zh-hant": "坐騎小羊的葉片",
+  "fr": "Feuille de Cabriolaine",
+  "de": "Mähikel-Blatt",
+  "es": "Hoja de Skiddo",
+  "it": "Foglia di Skiddo",
+  "en": "Skiddo Leaf",
+  "ja": "メェークルのはっぱ",
+  "zh-hans": "坐骑小羊的叶片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

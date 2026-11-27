@@ -1,0 +1,31 @@
+{
+ "name": "tickle",
+ "names": {
+  "ja-hrkt": "くすぐる",
+  "ko": "간지르기",
+  "zh-hant": "搔癢",
+  "fr": "Chatouille",
+  "de": "Spaßkanone",
+  "es": "Cosquillas",
+  "it": "Solletico",
+  "en": "Tickle",
+  "ja": "くすぐる",
+  "zh-hans": "挠痒",
+  "es-419": "Cosquillas"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack and Defense by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user tickles the target into laughing, lowering its Attack and Defense stats.",
+  "ko": "몸을 간질여 웃게 만들어서 상대의 공격과 방어를 떨어뜨린다."
+ }
+}

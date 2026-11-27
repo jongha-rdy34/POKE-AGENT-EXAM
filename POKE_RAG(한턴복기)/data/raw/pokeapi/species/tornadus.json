@@ -1,0 +1,46 @@
+{
+ "id": 641,
+ "name": "tornadus",
+ "names": {
+  "ja-hrkt": "トルネロス",
+  "ja-roma": "Tornelos",
+  "ko": "토네로스",
+  "zh-hant": "龍捲雲",
+  "fr": "Boréas",
+  "de": "Boreos",
+  "es": "Tornadus",
+  "it": "Tornadus",
+  "en": "Tornadus",
+  "ja": "トルネロス",
+  "zh-hans": "龙卷云",
+  "es-419": "Tornadus"
+ },
+ "genus": {
+  "ja-hrkt": "せんぷうポケモン",
+  "ko": "선풍포켓몬",
+  "zh-hant": "旋風寶可夢",
+  "fr": "Pokémon Tornade",
+  "de": "Wirbelsturm-Pokémon",
+  "es": "Pokémon Torbellino",
+  "it": "Pokémon Turbinio",
+  "en": "Cyclone Pokémon",
+  "ja": "せんぷうポケモン",
+  "zh-hans": "旋风宝可梦",
+  "es-419": "Pokémon Torbellino"
+ },
+ "flavor": {
+  "en": "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one.",
+  "ko": "토네로스의 꼬리에서 뿜어져 나온 에너지가 큰 폭풍을 일으킨다. 민가를 날려버릴 정도의 힘이다."
+ },
+ "varieties": [
+  {
+   "name": "tornadus-incarnate",
+   "is_default": true
+  },
+  {
+   "name": "tornadus-therian",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "328"
+}

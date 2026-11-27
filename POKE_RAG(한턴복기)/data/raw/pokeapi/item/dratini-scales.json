@@ -1,0 +1,20 @@
+{
+ "name": "dratini-scales",
+ "names": {
+  "ja-hrkt": "ミニリュウのウロコ",
+  "ko": "미뇽의비늘",
+  "zh-hant": "迷你龍的鱗片",
+  "fr": "Écaille de Minidraco",
+  "de": "Dratini-Schuppe",
+  "es": "Escama de Dratini",
+  "it": "Squama di Dratini",
+  "en": "Dratini Scales",
+  "ja": "ミニリュウのウロコ",
+  "zh-hans": "迷你龙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

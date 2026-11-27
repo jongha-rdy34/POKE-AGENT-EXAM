@@ -1,0 +1,46 @@
+{
+ "id": 687,
+ "name": "malamar",
+ "names": {
+  "ja-hrkt": "カラマネロ",
+  "ja-roma": "Calamanero",
+  "ko": "칼라마네로",
+  "zh-hant": "烏賊王",
+  "fr": "Sepiatroce",
+  "de": "Calamanero",
+  "es": "Malamar",
+  "it": "Malamar",
+  "en": "Malamar",
+  "ja": "カラマネロ",
+  "zh-hans": "乌贼王",
+  "es-419": "Malamar"
+ },
+ "genus": {
+  "ja-hrkt": "ぎゃくてんポケモン",
+  "ko": "역전포켓몬",
+  "zh-hant": "倒轉寶可夢",
+  "fr": "Pokémon Révolution",
+  "de": "Inversions-Pokémon",
+  "es": "Pokémon Revolución",
+  "it": "Pokémon Giravolta",
+  "en": "Overturning Pokémon",
+  "ja": "ぎゃくてんポケモン",
+  "zh-hans": "倒转宝可梦",
+  "es-419": "Pokémon Revolución"
+ },
+ "flavor": {
+  "ko": "역사를 바꿀 정도의 큰 사건은 칼라마네로의 최면 능력과 관련이 있다고 전해진다.",
+  "en": "It’s said that Malamar’s hypnotic powers played a role in certain history-changing events."
+ },
+ "varieties": [
+  {
+   "name": "malamar",
+   "is_default": true
+  },
+  {
+   "name": "malamar-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "352"
+}

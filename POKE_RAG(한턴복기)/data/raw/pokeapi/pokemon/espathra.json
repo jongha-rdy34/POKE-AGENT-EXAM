@@ -1,0 +1,92 @@
+{
+ "id": 956,
+ "name": "espathra",
+ "species": "espathra",
+ "is_default": true,
+ "types": [
+  "psychic"
+ ],
+ "stats": {
+  "hp": 95,
+  "attack": 60,
+  "defense": 60,
+  "special-attack": 101,
+  "special-defense": 60,
+  "speed": 105
+ },
+ "abilities": [
+  {
+   "name": "opportunist",
+   "hidden": false
+  },
+  {
+   "name": "frisk",
+   "hidden": false
+  },
+  {
+   "name": "speed-boost",
+   "hidden": true
+  }
+ ],
+ "height": 19,
+ "weight": 900,
+ "champions_moves": [
+  "aerial-ace",
+  "agility",
+  "ally-switch",
+  "baby-doll-eyes",
+  "baton-pass",
+  "body-slam",
+  "brave-bird",
+  "calm-mind",
+  "confuse-ray",
+  "dazzling-gleam",
+  "double-edge",
+  "drill-peck",
+  "endure",
+  "energy-ball",
+  "expanding-force",
+  "facade",
+  "feather-dance",
+  "flash-cannon",
+  "foul-play",
+  "giga-impact",
+  "helping-hand",
+  "hex",
+  "hyper-beam",
+  "hyper-voice",
+  "hypnosis",
+  "last-resort",
+  "light-screen",
+  "low-kick",
+  "lumina-crash",
+  "mud-slap",
+  "night-shade",
+  "pluck",
+  "pounce",
+  "protect",
+  "psych-up",
+  "psychic",
+  "psychic-terrain",
+  "psyshock",
+  "quick-attack",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "roost",
+  "sandstorm",
+  "seed-bomb",
+  "shadow-ball",
+  "skill-swap",
+  "sleep-talk",
+  "stored-power",
+  "substitute",
+  "sunny-day",
+  "thief",
+  "trick",
+  "trick-room",
+  "u-turn",
+  "uproar",
+  "zen-headbutt"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "grassy-glide",
+ "names": {
+  "ja-hrkt": "グラススライダー",
+  "ko": "그래스슬라이더",
+  "zh-hant": "青草滑梯",
+  "fr": "Gliss’Herbe",
+  "de": "Grasrutsche",
+  "es": "Fitoimpulso",
+  "it": "Erboscivolata",
+  "en": "Grassy Glide",
+  "ja": "グラススライダー",
+  "zh-hans": "青草滑梯",
+  "es-419": "Fitoimpulso"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 55,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If Grassy Terrain is active and the user is grounded, this move has has its priority increased by 1."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "지면에 미끄러지듯 상대를 공격한다. 그래스필드일 때 반드시 선제공격할 수 있다.",
+  "en": "Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain."
+ }
+}

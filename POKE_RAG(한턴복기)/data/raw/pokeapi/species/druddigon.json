@@ -1,0 +1,42 @@
+{
+ "id": 621,
+ "name": "druddigon",
+ "names": {
+  "ja-hrkt": "クリムガン",
+  "ja-roma": "Crimgan",
+  "ko": "크리만",
+  "zh-hant": "赤面龍",
+  "fr": "Drakkarmin",
+  "de": "Shardrago",
+  "es": "Druddigon",
+  "it": "Druddigon",
+  "en": "Druddigon",
+  "ja": "クリムガン",
+  "zh-hans": "赤面龙",
+  "es-419": "Druddigon"
+ },
+ "genus": {
+  "ja-hrkt": "ほらあなポケモン",
+  "ko": "동굴포켓몬",
+  "zh-hant": "洞穴寶可夢",
+  "fr": "Pokémon Caverne",
+  "de": "Höhlen-Pokémon",
+  "es": "Pokémon Cueva",
+  "it": "Pokémon Grotta",
+  "en": "Cave Pokémon",
+  "ja": "ほらあなポケモン",
+  "zh-hans": "洞穴宝可梦",
+  "es-419": "Pokémon Cueva"
+ },
+ "flavor": {
+  "en": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
+  "ko": "난폭하고 교활하다. 다른 포켓몬이 파낸 굴을 빼앗아 거처로 삼는다."
+ },
+ "varieties": [
+  {
+   "name": "druddigon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "315"
+}

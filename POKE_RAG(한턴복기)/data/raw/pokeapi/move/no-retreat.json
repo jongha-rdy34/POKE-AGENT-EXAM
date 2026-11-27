@@ -1,0 +1,31 @@
+{
+ "name": "no-retreat",
+ "names": {
+  "ja-hrkt": "はいすいのじん",
+  "ko": "배수의진",
+  "zh-hant": "背水一戰",
+  "fr": "Ultime Bastion",
+  "de": "Finalformation",
+  "es": "Bastión Final",
+  "it": "Spalle al Muro",
+  "en": "No Retreat",
+  "ja": "はいすいのじん",
+  "zh-hans": "背水一战",
+  "es-419": "Bastión Final"
+ },
+ "type": "fighting",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Prevents user from switching out. Raises all of the user’s stats by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "자신의 모든 능력이 올라가지만 교체하거나 도망칠 수 없게 된다.",
+  "en": "This move boosts all the user's stats but prevents the user from switching out or fleeing."
+ }
+}

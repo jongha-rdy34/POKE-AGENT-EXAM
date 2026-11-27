@@ -1,0 +1,20 @@
+{
+ "name": "clefablite",
+ "names": {
+  "ko": "픽시나이트",
+  "zh-hant": "皮可西進化石",
+  "fr": "Mélodelfite",
+  "de": "Pixinit",
+  "es": "Clefablita",
+  "it": "Clefablite",
+  "en": "Clefablite",
+  "ja": "ピクシナイト",
+  "zh-hans": "皮可西进化石",
+  "es-419": "Clefablita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "happiny-dust",
+ "names": {
+  "ja-hrkt": "ピンプクのおとしもの",
+  "ko": "핑복의유실물",
+  "zh-hant": "小福蛋的掉落物",
+  "fr": "Babiole de Ptiravi",
+  "de": "Wonneira-Material",
+  "es": "Pertenencia de Happiny",
+  "it": "Oggetto di Happiny",
+  "en": "Happiny Dust",
+  "ja": "ピンプクのおとしもの",
+  "zh-hans": "小福蛋的掉落物"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

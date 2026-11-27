@@ -1,0 +1,42 @@
+{
+ "id": 750,
+ "name": "mudsdale",
+ "names": {
+  "ja-hrkt": "バンバドロ",
+  "ja-roma": "Banbadoro",
+  "ko": "만마드",
+  "zh-hant": "重泥挽馬",
+  "fr": "Bourrinos",
+  "de": "Pampross",
+  "es": "Mudsdale",
+  "it": "Mudsdale",
+  "en": "Mudsdale",
+  "ja": "バンバドロ",
+  "zh-hans": "重泥挽马",
+  "es-419": "Mudsdale"
+ },
+ "genus": {
+  "ja-hrkt": "ばんばポケモン",
+  "ko": "만마포켓몬",
+  "zh-hant": "挽馬寶可夢",
+  "fr": "Pokémon Cheval Trait",
+  "de": "Zugpferd-Pokémon",
+  "es": "Pokémon Caballo Tiro",
+  "it": "Pokémon Fortequino",
+  "en": "Draft Horse Pokémon",
+  "ja": "ばんばポケモン",
+  "zh-hans": "挽马宝可梦",
+  "es-419": "Pokémon Caballo Tiro"
+ },
+ "flavor": {
+  "ko": "10톤이 넘는 짐을 끌고 자지도 쉬지도 않고 가라르지방을 종단할 수 있는 지구력이 있다.",
+  "en": "Mudsdale has so much stamina that it could carry over 10 tons across the Galar region without rest or sleep."
+ },
+ "varieties": [
+  {
+   "name": "mudsdale",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "386"
+}

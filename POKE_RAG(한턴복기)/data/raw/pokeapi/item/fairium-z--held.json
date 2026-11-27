@@ -1,0 +1,28 @@
+{
+ "name": "fairium-z--held",
+ "names": {
+  "ja-hrkt": "フェアリーＺ",
+  "ko": "페어리Z",
+  "zh-hant": "妖精Ｚ",
+  "fr": "Nymphézélite",
+  "de": "Sylphium Z",
+  "es": "Feeristal Z",
+  "it": "Follectium Z",
+  "en": "Fairium Z",
+  "ja": "フェアリーＺ",
+  "zh-hans": "妖精Ｚ",
+  "es-419": "Feeristal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Fée.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 페어리타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Fairy-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 フェアリータイプの 技を Ｚワザに グレードアップする。"
+ }
+}

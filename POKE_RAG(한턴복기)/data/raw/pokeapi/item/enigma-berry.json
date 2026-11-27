@@ -1,0 +1,30 @@
+{
+ "name": "enigma-berry",
+ "names": {
+  "ja-hrkt": "ナゾのみ",
+  "ko": "의문열매",
+  "zh-hant": "謎芝果",
+  "fr": "Baie Enigma",
+  "de": "Enigmabeere",
+  "es": "Baya Enigma",
+  "it": "Baccaenigma",
+  "en": "Enigma Berry",
+  "ja": "ナゾのみ",
+  "zh-hans": "谜芝果",
+  "es-419": "Baya Enigma"
+ },
+ "category": "other",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé quand touché par une attaque super efficace pour restaurer 1/4 des PV max.",
+  "en": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, being hit by a supereffective attack will restore its HP.",
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 공격을 받았을 때 HP를 회복한다.",
+  "ja": "ポケモンに 持たせると 効果バツグンの 技を 受けたとき ＨＰを 回復する。"
+ }
+}

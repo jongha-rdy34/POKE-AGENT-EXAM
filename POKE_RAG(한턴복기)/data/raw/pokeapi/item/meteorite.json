@@ -1,0 +1,28 @@
+{
+ "name": "meteorite",
+ "names": {
+  "ja-hrkt": "いんせき",
+  "ko": "운석",
+  "zh-hant": "隕石",
+  "fr": "Météorite",
+  "de": "Meteorit",
+  "es": "Meteorito",
+  "it": "Meteorite",
+  "en": "Meteorite",
+  "ja": "いんせき",
+  "zh-hans": "陨石",
+  "es-419": "Meteorito"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "FL: À livrer au père de Lostelle. RSE: À échanger au Professeur Kosmo contre la CT27 (Retour).",
+  "en": "FL: Deliver to Lostelle’s father. RSE: Trade to Professor Cozmo for TM27 (Return)."
+ },
+ "flavor": {
+  "en": "A Meteorite originally found at Meteor Falls. You got it at Mt. Chimney.",
+  "ko": "원래는 유성의 폭포에 떨어져 있던 운석이다. 굴뚝산에서 손에 넣었다.",
+  "ja": "元々は 流星の滝に 落ちていた いんせき。 えんとつ山で 手に入れた。"
+ }
+}

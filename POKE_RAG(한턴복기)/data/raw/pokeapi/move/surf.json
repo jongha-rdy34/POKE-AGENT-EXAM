@@ -1,0 +1,31 @@
+{
+ "name": "surf",
+ "names": {
+  "ja-hrkt": "なみのり",
+  "ko": "파도타기",
+  "zh-hant": "衝浪",
+  "fr": "Surf",
+  "de": "Surfer",
+  "es": "Surf",
+  "it": "Surf",
+  "en": "Surf",
+  "ja": "なみのり",
+  "zh-hans": "冲浪",
+  "es-419": "Surf"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage and can hit Dive users."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks everything around it by swamping its surroundings with a giant wave.",
+  "ko": "큰 파도로 자신의 주위에 있는 포켓몬을 공격한다."
+ }
+}

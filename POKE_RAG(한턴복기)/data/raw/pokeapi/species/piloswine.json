@@ -1,0 +1,42 @@
+{
+ "id": 221,
+ "name": "piloswine",
+ "names": {
+  "ja-hrkt": "イノムー",
+  "ja-roma": "Inomoo",
+  "ko": "메꾸리",
+  "zh-hant": "長毛豬",
+  "fr": "Cochignon",
+  "de": "Keifel",
+  "es": "Piloswine",
+  "it": "Piloswine",
+  "en": "Piloswine",
+  "ja": "イノムー",
+  "zh-hans": "长毛猪",
+  "es-419": "Piloswine"
+ },
+ "genus": {
+  "ja-hrkt": "いのししポケモン",
+  "ko": "멧돼지포켓몬",
+  "zh-hant": "野豬寶可夢",
+  "fr": "Pokémon Porc",
+  "de": "Schwein-Pokémon",
+  "es": "Pokémon Puerco",
+  "it": "Pokémon Suino",
+  "en": "Swine Pokémon",
+  "ja": "いのししポケモン",
+  "zh-hans": "野猪宝可梦",
+  "es-419": "Pokémon Puerco"
+ },
+ "flavor": {
+  "en": "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies.",
+  "ko": "4개의 다리는 짧지만 발굽이 넓고 거칠거칠하므로 눈 위도 미끄러지지 않고 걸을 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "piloswine",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "112"
+}

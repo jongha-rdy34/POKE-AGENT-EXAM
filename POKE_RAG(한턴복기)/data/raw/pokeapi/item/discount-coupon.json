@@ -1,0 +1,28 @@
+{
+ "name": "discount-coupon",
+ "names": {
+  "ja-hrkt": "バーゲンチケット",
+  "ko": "바겐세일티켓",
+  "zh-hant": "折價券",
+  "fr": "Bon Réduction",
+  "de": "Rabattmarke",
+  "es": "Vale Descuento",
+  "it": "Buono sconto",
+  "en": "Discount Coupon",
+  "ja": "バーゲンチケット",
+  "zh-hans": "折价券",
+  "es-419": "Vale Descuento"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut être utilisé à la boutique pour une réduction de 50%.  Consommé une fois utilisé.",
+  "en": "Can be used at a boutique for a 50% discount.  Consumed once used."
+ },
+ "flavor": {
+  "ko": "부티크에서 아이템을 살 때 평소보다 저렴해지는 티켓.",
+  "en": "This special coupon allows you to buy items at a discount when you are shopping at a boutique.",
+  "ja": "ブティックで アイテムを 買うとき いつもより 安くなる チケット。"
+ }
+}

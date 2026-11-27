@@ -1,0 +1,28 @@
+{
+ "name": "tm22",
+ "names": {
+  "ja-hrkt": "わざマシン２２",
+  "ko": "기술머신22",
+  "zh-hant": "招式學習器２２",
+  "fr": "CT22",
+  "de": "TM22",
+  "es": "MT22",
+  "it": "MT22",
+  "en": "TM22",
+  "ja": "わざマシン２２",
+  "zh-hans": "招式学习器２２",
+  "es-419": "MT22"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Lance-Soleil à un Pokémon compatible.",
+  "en": "Teaches SolarBeam to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.",
+  "ko": "큰 바위를 세차게 부딪쳐서 공격한다. 상대를 풀죽게 만들 때가 있다.",
+  "ja": "大きな 岩を 激しく ぶつけて 攻撃する。 相手を ひるませることが ある。"
+ }
+}

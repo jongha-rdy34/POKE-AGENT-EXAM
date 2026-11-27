@@ -1,0 +1,28 @@
+{
+ "name": "good-rod",
+ "names": {
+  "ja-hrkt": "いいつりざお",
+  "ko": "좋은낚싯대",
+  "zh-hant": "好釣竿",
+  "fr": "Super Canne",
+  "de": "Profiangel",
+  "es": "Caña Buena",
+  "it": "Amo Buono",
+  "en": "Good Rod",
+  "ja": "いいつりざお",
+  "zh-hans": "好钓竿",
+  "es-419": "Caña Buena"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Utilisé pour capturer des Pokémon dans les points d'eau.",
+  "en": "Used to catch Pokémon in bodies of water."
+ },
+ "flavor": {
+  "en": "A new, good-quality fishing rod. Use it at any body of water to fish for wild aquatic Pokémon.",
+  "ko": "새로 나온 좋은 낚싯대. 물이 있는 장소에서 사용하면 포켓몬을 낚을 수 있다.",
+  "ja": "あたらしくて いい つりざお。 水の ある 場所で 使うと ポケモンが つれる。"
+ }
+}

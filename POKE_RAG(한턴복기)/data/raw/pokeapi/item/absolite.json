@@ -1,0 +1,28 @@
+{
+ "name": "absolite",
+ "names": {
+  "ja-hrkt": "アブソルナイト",
+  "ko": "앱솔나이트",
+  "zh-hant": "阿勃梭魯進化石",
+  "fr": "Absolite",
+  "de": "Absolnit",
+  "es": "Absolita",
+  "it": "Absolite",
+  "en": "Absolite",
+  "ja": "アブソルナイト",
+  "zh-hans": "阿勃梭鲁进化石",
+  "es-419": "Absolita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Absol de Méga-Évoluer en Méga-Absol.",
+  "en": "Held: Allows Absol to Mega Evolve into Mega Absol."
+ },
+ "flavor": {
+  "ko": "앱솔에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Absol hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "アブソルに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

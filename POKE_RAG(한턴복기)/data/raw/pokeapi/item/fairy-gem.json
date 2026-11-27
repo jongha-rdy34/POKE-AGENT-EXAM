@@ -1,0 +1,28 @@
+{
+ "name": "fairy-gem",
+ "names": {
+  "ja-hrkt": "ようせいジュエル",
+  "ko": "페어리주얼",
+  "zh-hant": "妖精寶石",
+  "fr": "Joyau Fée",
+  "de": "Feenjuwel",
+  "es": "Gema Hada",
+  "it": "Bijoufolletto",
+  "en": "Fairy Gem",
+  "ja": "ようせいジュエル",
+  "zh-hans": "妖精宝石",
+  "es-419": "Gema Hada"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Quand le porteur utilise une capacité offensive Fée, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Fairy move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "ko": "페어리타입의 주얼. 지니게 하면 한 번만 페어리 기술의 위력이 강해진다.",
+  "en": "A gem with an essence of the fey. When held, it strengthens the power of a Fairy-type move one time.",
+  "ja": "フェアリーの タイプの ジュエル。 持たせると １度だけ フェアリーの 技の 威力が 強まる。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "carrot-seeds",
+ "names": {
+  "ja-hrkt": "にんじんのタネ",
+  "ko": "당근씨",
+  "zh-hant": "蘿蔔種子",
+  "fr": "Graines Carotte",
+  "de": "Karottensamen",
+  "es": "Sem. Zanahoria",
+  "it": "Semi di carota",
+  "en": "Carrot Seeds",
+  "ja": "にんじんのタネ",
+  "zh-hans": "萝卜种子",
+  "es-419": "Sem. Zanahoria"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "밭에 심을 수 있는 씨. 심은 밭에 따라 자라는 당근의 종류가 달라진다.",
+  "en": "Seeds to plant in a field. The kind of carrot you’ll get is determined by which field you plant the seeds in.",
+  "ja": "畑に 植えて 使う タネ。 植える 畑に よって できる にんじんの 種類が 変わる。"
+ }
+}

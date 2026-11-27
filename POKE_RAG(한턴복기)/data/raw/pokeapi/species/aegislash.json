@@ -1,0 +1,46 @@
+{
+ "id": 681,
+ "name": "aegislash",
+ "names": {
+  "ja-hrkt": "ギルガルド",
+  "ja-roma": "Gillgard",
+  "ko": "킬가르도",
+  "zh-hant": "堅盾劍怪",
+  "fr": "Exagide",
+  "de": "Durengard",
+  "es": "Aegislash",
+  "it": "Aegislash",
+  "en": "Aegislash",
+  "ja": "ギルガルド",
+  "zh-hans": "坚盾剑怪",
+  "es-419": "Aegislash"
+ },
+ "genus": {
+  "ja-hrkt": "おうけんポケモン",
+  "ko": "왕검포켓몬",
+  "zh-hant": "王劍寶可夢",
+  "fr": "Pokémon Noble Lame",
+  "de": "Königsklingen-Pokémon",
+  "es": "Pokémon Espada Real",
+  "it": "Pokémon Spadareale",
+  "en": "Royal Sword Pokémon",
+  "ja": "おうけんポケモン",
+  "zh-hans": "王剑宝可梦",
+  "es-419": "Pokémon Espada Real"
+ },
+ "flavor": {
+  "ko": "강력한 영력으로 사람과 포켓몬을 조종해 킬가르도의 입맛에 맞는 나라를 만들게 했다.",
+  "en": "Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking."
+ },
+ "varieties": [
+  {
+   "name": "aegislash-shield",
+   "is_default": true
+  },
+  {
+   "name": "aegislash-blade",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "349"
+}

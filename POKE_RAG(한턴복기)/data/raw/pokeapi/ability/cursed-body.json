@@ -1,0 +1,23 @@
+{
+ "name": "cursed-body",
+ "names": {
+  "ja-hrkt": "のろわれボディ",
+  "ko": "저주받은바디",
+  "zh-hant": "詛咒之軀",
+  "fr": "Corps Maudit",
+  "de": "Tastfluch",
+  "es": "Cuerpo Maldito",
+  "it": "Corpofunesto",
+  "en": "Cursed Body",
+  "ja": "のろわれボディ",
+  "zh-hans": "诅咒之躯",
+  "es-419": "Cuerpo Maldito"
+ },
+ "effect": {
+  "en": "Has a 30% chance of Disabling any move that hits the Pokémon."
+ },
+ "flavor": {
+  "en": "May disable a move that has dealt damage to the Pokémon.",
+  "ko": "공격을 받으면 상대의 기술을 사슬묶기 상태로 만들 때가 있다."
+ }
+}

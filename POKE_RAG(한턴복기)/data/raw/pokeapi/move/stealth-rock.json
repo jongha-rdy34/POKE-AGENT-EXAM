@@ -1,0 +1,31 @@
+{
+ "name": "stealth-rock",
+ "names": {
+  "ja-hrkt": "ステルスロック",
+  "ko": "스텔스록",
+  "zh-hant": "隱形岩",
+  "fr": "Piège de Roc",
+  "de": "Tarnsteine",
+  "es": "Trampa Rocas",
+  "it": "Levitoroccia",
+  "en": "Stealth Rock",
+  "ja": "ステルスロック",
+  "zh-hans": "隐形岩",
+  "es-419": "Trampa de Rocas"
+ },
+ "type": "rock",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "opponents-field",
+ "effect": {
+  "en": "Causes damage when opposing Pokémon switch in."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle.",
+  "ko": "상대의 주위에 무수한 바위를 띄워 교체해서 나온 상대 포켓몬에게 데미지를 준다."
+ }
+}

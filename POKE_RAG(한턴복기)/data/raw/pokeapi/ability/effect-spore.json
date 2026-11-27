@@ -1,0 +1,23 @@
+{
+ "name": "effect-spore",
+ "names": {
+  "ja-hrkt": "ほうし",
+  "ko": "포자",
+  "zh-hant": "孢子",
+  "fr": "Pose Spore",
+  "de": "Sporenwirt",
+  "es": "Efecto Espora",
+  "it": "Spargispora",
+  "en": "Effect Spore",
+  "ja": "ほうし",
+  "zh-hans": "孢子",
+  "es-419": "Efecto Espora"
+ },
+ "effect": {
+  "en": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+ },
+ "flavor": {
+  "en": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.",
+  "ko": "공격으로 자신에게 접촉한 상대를 독이나 마비, 잠듦 상태로 만들 때가 있다."
+ }
+}

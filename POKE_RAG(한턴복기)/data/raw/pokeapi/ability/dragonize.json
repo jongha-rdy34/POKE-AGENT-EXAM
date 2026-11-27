@@ -1,0 +1,22 @@
+{
+ "name": "dragonize",
+ "names": {
+  "ja-hrkt": "ドラゴンスキン",
+  "ko": "드래곤스킨",
+  "zh-hant": "龍皮膚",
+  "fr": "Peau Draconique",
+  "de": "Drachenschicht",
+  "es": "Piel Dragontina",
+  "it": "Pelledrago",
+  "en": "Dragonize",
+  "ja": "ドラゴンスキン",
+  "zh-hans": "龙皮肤",
+  "es-419": "Piel Dracónica"
+ },
+ "effect": {
+  "en": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%."
+ },
+ "flavor": {
+  "en": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%."
+ }
+}

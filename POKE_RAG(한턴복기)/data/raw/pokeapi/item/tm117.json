@@ -1,0 +1,20 @@
+{
+ "name": "tm117",
+ "names": {
+  "ja-hrkt": "わざマシン１１７",
+  "ko": "기술머신117",
+  "zh-hant": "招式學習器１１７",
+  "fr": "CT117",
+  "de": "TM117",
+  "es": "MT117",
+  "it": "MT117",
+  "en": "TM117",
+  "ja": "わざマシン１１７",
+  "zh-hans": "招式学习器１１７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

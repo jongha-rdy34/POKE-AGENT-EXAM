@@ -1,0 +1,42 @@
+{
+ "id": 832,
+ "name": "dubwool",
+ "names": {
+  "ja-hrkt": "バイウールー",
+  "ja-roma": "Baiwooluu",
+  "ko": "배우르",
+  "zh-hant": "毛毛角羊",
+  "fr": "Moumouflon",
+  "de": "Zwollock",
+  "es": "Dubwool",
+  "it": "Dubwool",
+  "en": "Dubwool",
+  "ja": "バイウールー",
+  "zh-hans": "毛毛角羊",
+  "es-419": "Dubwool"
+ },
+ "genus": {
+  "ja-hrkt": "ひつじポケモン",
+  "ko": "양포켓몬",
+  "zh-hant": "綿羊寶可夢",
+  "fr": "Pokémon Mouton",
+  "de": "Schaf-Pokémon",
+  "es": "Pokémon Oveja",
+  "it": "Pokémon Pecora",
+  "en": "Sheep Pokémon",
+  "ja": "ひつじポケモン",
+  "zh-hans": "绵羊宝可梦",
+  "es-419": "Pokémon Oveja"
+ },
+ "flavor": {
+  "ko": "늠름하게 자란 뿔은 이성에게 어필하기 위한 것이다. 무기로는 사용하지 않는다.",
+  "en": "Its majestic horns are meant only to impress the opposite gender. They never see use in battle."
+ },
+ "varieties": [
+  {
+   "name": "dubwool",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "438"
+}

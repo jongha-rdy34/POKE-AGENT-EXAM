@@ -1,0 +1,42 @@
+{
+ "id": 63,
+ "name": "abra",
+ "names": {
+  "ja-hrkt": "ケーシィ",
+  "ja-roma": "Casey",
+  "ko": "캐이시",
+  "zh-hant": "凱西",
+  "fr": "Abra",
+  "de": "Abra",
+  "es": "Abra",
+  "it": "Abra",
+  "en": "Abra",
+  "ja": "ケーシィ",
+  "zh-hans": "凯西",
+  "es-419": "Abra"
+ },
+ "genus": {
+  "ja-hrkt": "ねんりきポケモン",
+  "ko": "초능력포켓몬",
+  "zh-hant": "念力寶可夢",
+  "fr": "Pokémon Psy",
+  "de": "Psi-Pokémon",
+  "es": "Pokémon Psi",
+  "it": "Pokémon Psico",
+  "en": "Psi Pokémon",
+  "ja": "ねんりきポケモン",
+  "zh-hans": "念力宝可梦",
+  "es-419": "Pokémon Psi"
+ },
+ "flavor": {
+  "en": "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away.",
+  "ko": "잠이 든 상태에서 순간이동이 가능하다. 깊이 잠들수록 먼 곳으로 이동한다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "abra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "27"
+}

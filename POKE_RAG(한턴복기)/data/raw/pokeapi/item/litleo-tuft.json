@@ -1,0 +1,20 @@
+{
+ "name": "litleo-tuft",
+ "names": {
+  "ja-hrkt": "シシコのたてがみ",
+  "ko": "레오꼬의갈기",
+  "zh-hant": "小獅獅的鬃毛",
+  "fr": "Crinière d'Hélionceau",
+  "de": "Leufeo-Mähnenhaar",
+  "es": "Mechón de Litleo",
+  "it": "Crine di Litleo",
+  "en": "Litleo Tuft",
+  "ja": "シシコのたてがみ",
+  "zh-hans": "小狮狮的鬃毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "ss-ticket--hoenn",
+ "names": {
+  "ja-hrkt": "ふねのチケット",
+  "ko": "승선티켓",
+  "zh-hant": "船票",
+  "fr": "Passe Bateau",
+  "de": "Bootsticket",
+  "es": "Ticket Barco",
+  "it": "Biglietto nave",
+  "en": "S.S. Ticket",
+  "ja": "ふねのチケット",
+  "zh-hans": "船票",
+  "es-419": "Ticket Barco"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour ss-ticket--hoenn",
+  "en": "XXX new effect for ss-ticket--hoenn"
+ },
+ "flavor": {
+  "ko": "연락선에 탈 때 필요하다.",
+  "en": "Ticket required for sailing on a ferry.",
+  "ja": "連絡船に 乗るとき 必要。"
+ }
+}

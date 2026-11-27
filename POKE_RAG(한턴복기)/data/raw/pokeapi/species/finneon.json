@@ -1,0 +1,42 @@
+{
+ "id": 456,
+ "name": "finneon",
+ "names": {
+  "ja-hrkt": "ケイコウオ",
+  "ja-roma": "Keikouo",
+  "ko": "형광어",
+  "zh-hant": "螢光魚",
+  "fr": "Écayon",
+  "de": "Finneon",
+  "es": "Finneon",
+  "it": "Finneon",
+  "en": "Finneon",
+  "ja": "ケイコウオ",
+  "zh-hans": "荧光鱼",
+  "es-419": "Finneon"
+ },
+ "genus": {
+  "ja-hrkt": "はねうおポケモン",
+  "ko": "비어포켓몬",
+  "zh-hant": "飛翅魚寶可夢",
+  "fr": "Pokémon Poisson Ailé",
+  "de": "Flügelfisch",
+  "es": "Pokémon Pez Ala",
+  "it": "Pokémon Pescealato",
+  "en": "Wing Fish Pokémon",
+  "ja": "はねうおポケモン",
+  "zh-hans": "飞翅鱼宝可梦",
+  "es-419": "Pokémon Pez Ala"
+ },
+ "flavor": {
+  "en": "What a gorgeous sight this Pokémon is as it swims with its long, pink-painted caudal fins fluttering behind it. Finneon's beautiful appearance has led to its nickname: ”finery fish.”",
+  "ko": "빛나는 꼬리지느러미로 먹이를 유인한다. 낮에는 해수면 가까이 있다가 밤이 되면 깊은 곳으로 이동한다."
+ },
+ "varieties": [
+  {
+   "name": "finneon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "237"
+}

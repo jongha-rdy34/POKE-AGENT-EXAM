@@ -1,0 +1,20 @@
+{
+ "name": "tm152",
+ "names": {
+  "ja-hrkt": "わざマシン１５２",
+  "ko": "기술머신152",
+  "zh-hant": "招式學習器１５２",
+  "fr": "CT152",
+  "de": "TM152",
+  "es": "MT152",
+  "it": "MT152",
+  "en": "TM152",
+  "ja": "わざマシン１５２",
+  "zh-hans": "招式学习器１５２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

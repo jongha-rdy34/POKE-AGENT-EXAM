@@ -1,0 +1,46 @@
+{
+ "id": 754,
+ "name": "lurantis",
+ "names": {
+  "ja-hrkt": "ラランテス",
+  "ja-roma": "Lalantes",
+  "ko": "라란티스",
+  "zh-hant": "蘭螳花",
+  "fr": "Floramantis",
+  "de": "Mantidea",
+  "es": "Lurantis",
+  "it": "Lurantis",
+  "en": "Lurantis",
+  "ja": "ラランテス",
+  "zh-hans": "兰螳花",
+  "es-419": "Lurantis"
+ },
+ "genus": {
+  "ja-hrkt": "はなかまポケモン",
+  "ko": "꽃사마귀포켓몬",
+  "zh-hant": "花鐮寶可夢",
+  "fr": "Pokémon Fauch’Fleur",
+  "de": "Blumensichel-Pokémon",
+  "es": "Pokémon Filo Flor",
+  "it": "Pokémon Mantifiore",
+  "en": "Bloom Sickle Pokémon",
+  "ja": "はなかまポケモン",
+  "zh-hans": "花镰宝可梦",
+  "es-419": "Pokémon Filo Flor"
+ },
+ "flavor": {
+  "ko": "양팔의 꽃잎은 얇고 예리하다. 빛을 모아 빔을 쏘기도 한다.",
+  "en": "The petals on this Pokémon’s arms are thin and super sharp, and they can fire laser beams if Lurantis gathers light first."
+ },
+ "varieties": [
+  {
+   "name": "lurantis",
+   "is_default": true
+  },
+  {
+   "name": "lurantis-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "388"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm58",
+ "names": {
+  "ja-hrkt": "わざマシン５８",
+  "ko": "기술머신58",
+  "zh-hant": "招式學習器５８",
+  "fr": "CT58",
+  "de": "TM58",
+  "es": "MT58",
+  "it": "MT58",
+  "en": "TM58",
+  "ja": "わざマシン５８",
+  "zh-hans": "招式学习器５８",
+  "es-419": "MT58"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Chute Libre à un Pokémon compatible. (Gén IV: Ténacité)",
+  "en": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)"
+ },
+ "flavor": {
+  "en": "If the target has already taken some damage in the same turn, this attack’s power is doubled.",
+  "ko": "그 턴에 상대가 이미 데미지를 입었다면 기술의 위력은 2배가 된다.",
+  "ja": "そのターンに 相手が すでに ダメージを 受けていたら 技の 威力は ２倍に なる。"
+ }
+}

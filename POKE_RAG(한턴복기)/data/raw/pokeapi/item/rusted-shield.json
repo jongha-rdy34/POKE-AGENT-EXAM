@@ -1,0 +1,25 @@
+{
+ "name": "rusted-shield",
+ "names": {
+  "ja-hrkt": "くちたたて",
+  "ko": "녹슨방패",
+  "zh-hant": "腐朽的盾",
+  "fr": "Bouclier Rouillé",
+  "de": "Rostiger Schild",
+  "es": "Escudo Oxidado",
+  "it": "Scudo rovinato",
+  "en": "Rusted Shield",
+  "ja": "くちたたて",
+  "zh-hans": "腐朽的盾",
+  "es-419": "Escudo Oxidado"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "먼 옛날의 영웅이 재앙을 막는 데 사용했다고 전해지는 방패지만 지금은 녹이 슬고 닳아버렸다.",
+  "en": "It is said that a hero used this shield to halt a terrible disaster in ancient times. But it’s grown rusty and worn.",
+  "ja": "大昔の 英雄が 災厄を 討ち払ったと 伝えられる 盾 だが いまは さびて ボロボロに なっている。"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "dedenne-fur",
+ "names": {
+  "ja-hrkt": "デデンネのけ",
+  "ko": "데덴네의털",
+  "zh-hant": "咚咚鼠的毛",
+  "fr": "Poils de Dedenne",
+  "de": "Dedenne-Haar",
+  "es": "Pelo de Dedenne",
+  "it": "Pelo di Dedenne",
+  "en": "Dedenne Fur",
+  "ja": "デデンネのけ",
+  "zh-hans": "咚咚鼠的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

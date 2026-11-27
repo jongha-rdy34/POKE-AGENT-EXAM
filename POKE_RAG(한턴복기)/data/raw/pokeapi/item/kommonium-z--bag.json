@@ -1,0 +1,28 @@
+{
+ "name": "kommonium-z--bag",
+ "names": {
+  "ja-hrkt": "ジャラランガＺ",
+  "ko": "짜랑고우거Z",
+  "zh-hant": "杖尾鱗甲龍Ｚ",
+  "fr": "Ékaïzélite",
+  "de": "Grandirasium Z",
+  "es": "Kommostal Z",
+  "it": "Kommonium Z",
+  "en": "Kommonium Z",
+  "ja": "ジャラランガＺ",
+  "zh-hans": "杖尾鳞甲龙Ｚ",
+  "es-419": "Kommostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour kommonium-z--bag",
+  "en": "XXX new effect for kommonium-z--bag"
+ },
+ "flavor": {
+  "ko": "짜랑고우거의 스케일노이즈를 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Kommo-o’s Clanging Scales to an exclusive Z-Move.",
+  "ja": "ジャラランガの スケイルノイズを Ｚワザに グレードアップする Ｚパワーの 結晶を つくりだす。"
+ }
+}

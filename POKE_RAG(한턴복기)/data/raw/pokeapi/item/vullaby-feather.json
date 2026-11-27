@@ -1,0 +1,20 @@
+{
+ "name": "vullaby-feather",
+ "names": {
+  "ja-hrkt": "バルチャイのはね",
+  "ko": "벌차이의깃털",
+  "zh-hant": "禿鷹丫頭的羽毛",
+  "fr": "Plume de Vostourno",
+  "de": "Skallyk-Feder",
+  "es": "Pluma de Vullaby",
+  "it": "Penna di Vullaby",
+  "en": "Vullaby Feather",
+  "ja": "バルチャイのはね",
+  "zh-hans": "秃鹰丫头的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

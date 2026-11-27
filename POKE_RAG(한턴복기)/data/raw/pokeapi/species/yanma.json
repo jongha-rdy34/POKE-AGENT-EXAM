@@ -1,0 +1,42 @@
+{
+ "id": 193,
+ "name": "yanma",
+ "names": {
+  "ja-hrkt": "ヤンヤンマ",
+  "ja-roma": "Yanyanma",
+  "ko": "왕자리",
+  "zh-hant": "蜻蜻蜓",
+  "fr": "Yanma",
+  "de": "Yanma",
+  "es": "Yanma",
+  "it": "Yanma",
+  "en": "Yanma",
+  "ja": "ヤンヤンマ",
+  "zh-hans": "蜻蜻蜓",
+  "es-419": "Yanma"
+ },
+ "genus": {
+  "ja-hrkt": "うすばねポケモン",
+  "ko": "얇은날개포켓몬",
+  "zh-hant": "薄翼寶可夢",
+  "fr": "Pokémon Translaile",
+  "de": "Libelle",
+  "es": "Pokémon Ala Clara",
+  "it": "Pokémon Alachiara",
+  "en": "Clear Wing Pokémon",
+  "ja": "うすばねポケモン",
+  "zh-hans": "薄翼宝可梦",
+  "es-419": "Pokémon Ala Clara"
+ },
+ "flavor": {
+  "en": "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward.",
+  "ko": "눈알을 움직이지 않고 360도를 볼 수 있다. 급브레이크나 방향 전환이 특기다. 노린 먹이를 빠르게 몰아넣는다."
+ },
+ "varieties": [
+  {
+   "name": "yanma",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "95"
+}

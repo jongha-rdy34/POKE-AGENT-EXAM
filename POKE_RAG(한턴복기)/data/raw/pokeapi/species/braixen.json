@@ -1,0 +1,42 @@
+{
+ "id": 654,
+ "name": "braixen",
+ "names": {
+  "ja-hrkt": "テールナー",
+  "ja-roma": "Tairenar",
+  "ko": "테르나",
+  "zh-hant": "長尾火狐",
+  "fr": "Roussil",
+  "de": "Rutena",
+  "es": "Braixen",
+  "it": "Braixen",
+  "en": "Braixen",
+  "ja": "テールナー",
+  "zh-hans": "长尾火狐",
+  "es-419": "Braixen"
+ },
+ "genus": {
+  "ja-hrkt": "キツネポケモン",
+  "ko": "여우포켓몬",
+  "zh-hant": "狐狸寶可夢",
+  "fr": "Pokémon Renard",
+  "de": "Fuchs",
+  "es": "Pokémon Zorro",
+  "it": "Pokémon Volpe",
+  "en": "Fox Pokémon",
+  "ja": "キツネポケモン",
+  "zh-hans": "狐狸宝可梦",
+  "es-419": "Pokémon Zorro"
+ },
+ "flavor": {
+  "ko": "나뭇가지를 꼬리에서 뽑을 때 마찰로 불이 붙는다. 나뭇가지의 불꽃을 흔들어 동료에게 신호를 보낸다.",
+  "en": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies."
+ },
+ "varieties": [
+  {
+   "name": "braixen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "338"
+}

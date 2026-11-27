@@ -1,0 +1,22 @@
+{
+ "name": "teachy-tv",
+ "names": {
+  "ja-hrkt": "おしえテレビ",
+  "fr": "TV ABC",
+  "de": "Lehrkanal",
+  "es": "Poké Tele",
+  "it": "Pokétivù",
+  "en": "Teachy TV",
+  "es-419": "Poké Tele"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Conseils de base des professeurs pour les dresseurs.",
+  "en": "Teachers basic trainer advice."
+ },
+ "flavor": {
+  "en": "A television set that is tuned to a program with useful tips for novice TRAINERS."
+ }
+}

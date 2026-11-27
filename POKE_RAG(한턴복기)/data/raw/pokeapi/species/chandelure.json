@@ -1,0 +1,46 @@
+{
+ "id": 609,
+ "name": "chandelure",
+ "names": {
+  "ja-hrkt": "シャンデラ",
+  "ja-roma": "Chandela",
+  "ko": "샹델라",
+  "zh-hant": "水晶燈火靈",
+  "fr": "Lugulabre",
+  "de": "Skelabra",
+  "es": "Chandelure",
+  "it": "Chandelure",
+  "en": "Chandelure",
+  "ja": "シャンデラ",
+  "zh-hans": "水晶灯火灵",
+  "es-419": "Chandelure"
+ },
+ "genus": {
+  "ja-hrkt": "いざないポケモン",
+  "ko": "권유포켓몬",
+  "zh-hant": "引誘寶可夢",
+  "fr": "Pokémon Invitation",
+  "de": "Geleit-Pokémon",
+  "es": "Pokémon Señuelo",
+  "it": "Pokémon Attiranime",
+  "en": "Luring Pokémon",
+  "ja": "いざないポケモン",
+  "zh-hans": "引诱宝可梦",
+  "es-419": "Pokémon Señuelo"
+ },
+ "flavor": {
+  "en": "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said.",
+  "ko": "샹델라를 등불 대용으로 사용했던 저택에서는 장례식이 끊이지 않았다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "chandelure",
+   "is_default": true
+  },
+  {
+   "name": "chandelure-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "308"
+}

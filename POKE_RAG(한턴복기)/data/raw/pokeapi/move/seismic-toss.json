@@ -1,0 +1,31 @@
+{
+ "name": "seismic-toss",
+ "names": {
+  "ja-hrkt": "ちきゅうなげ",
+  "ko": "지구던지기",
+  "zh-hant": "地球上投",
+  "fr": "Frappe Atlas",
+  "de": "Geowurf",
+  "es": "Sísmico",
+  "it": "Movim. Sismico",
+  "en": "Seismic Toss",
+  "ja": "ちきゅうなげ",
+  "zh-hans": "地球上投",
+  "es-419": "Sísmico"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts damage equal to the user’s level."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level.",
+  "ko": "인력을 사용해 내던진다. 자신의 레벨과 똑같은 데미지를 상대에게 준다."
+ }
+}

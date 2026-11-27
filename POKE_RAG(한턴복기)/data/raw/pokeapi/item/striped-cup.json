@@ -1,0 +1,20 @@
+{
+ "name": "striped-cup",
+ "names": {
+  "ja-hrkt": "たてストライプカップ",
+  "ko": "세로 줄무늬 컵",
+  "zh-hant": "直條紋水杯",
+  "fr": "Tasse à Rayures Jaunes",
+  "de": "Längsstreifen-Tasse",
+  "es": "Taza Raya Vertical",
+  "it": "Tazza a righe verticali",
+  "en": "Striped Cup",
+  "ja": "たてストライプカップ",
+  "zh-hans": "直条纹水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

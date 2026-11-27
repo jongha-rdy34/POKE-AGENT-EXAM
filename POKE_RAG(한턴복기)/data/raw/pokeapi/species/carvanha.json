@@ -1,0 +1,42 @@
+{
+ "id": 318,
+ "name": "carvanha",
+ "names": {
+  "ja-hrkt": "キバニア",
+  "ja-roma": "Kibanha",
+  "ko": "샤프니아",
+  "zh-hant": "利牙魚",
+  "fr": "Carvanha",
+  "de": "Kanivanha",
+  "es": "Carvanha",
+  "it": "Carvanha",
+  "en": "Carvanha",
+  "ja": "キバニア",
+  "zh-hans": "利牙鱼",
+  "es-419": "Carvanha"
+ },
+ "genus": {
+  "ja-hrkt": "どうもうポケモン",
+  "ko": "사나움포켓몬",
+  "zh-hant": "凶猛寶可夢",
+  "fr": "Pokémon Féroce",
+  "de": "Gnadenlos-Pokémon",
+  "es": "Pokémon Feroz",
+  "it": "Pokémon Feroce",
+  "en": "Savage Pokémon",
+  "ja": "どうもうポケモン",
+  "zh-hans": "凶猛宝可梦",
+  "es-419": "Pokémon Feroz"
+ },
+ "flavor": {
+  "en": "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs.",
+  "ko": "날카로운 이빨과 튼튼한 턱을 갖고 있다. 선원들은 샤프니아 거처에 결코 가까이 가지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "carvanha",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "160"
+}

@@ -1,0 +1,46 @@
+{
+ "id": 701,
+ "name": "hawlucha",
+ "names": {
+  "ja-hrkt": "ルチャブル",
+  "ja-roma": "Luchabull",
+  "ko": "루차불",
+  "zh-hant": "摔角鷹人",
+  "fr": "Brutalibré",
+  "de": "Resladero",
+  "es": "Hawlucha",
+  "it": "Hawlucha",
+  "en": "Hawlucha",
+  "ja": "ルチャブル",
+  "zh-hans": "摔角鹰人",
+  "es-419": "Hawlucha"
+ },
+ "genus": {
+  "ja-hrkt": "レスリングポケモン",
+  "ko": "레슬링포켓몬",
+  "zh-hant": "摔角寶可夢",
+  "fr": "Pokémon Catcheur",
+  "de": "Wrestling-Pokémon",
+  "es": "Pokémon Lucha Libre",
+  "it": "Pokémon Lottalibera",
+  "en": "Wrestling Pokémon",
+  "ja": "レスリングポケモン",
+  "zh-hans": "摔角宝可梦",
+  "es-419": "Pokémon Lucha Libre"
+ },
+ "flavor": {
+  "ko": "끝을 내는 결정적인 기술을 쓰기 전에 반드시 포즈를 취한다. 그 틈에 반격당하기도 한다.",
+  "en": "It always strikes a pose before going for its finishing move. Sometimes opponents take advantage of that time to counterattack."
+ },
+ "varieties": [
+  {
+   "name": "hawlucha",
+   "is_default": true
+  },
+  {
+   "name": "hawlucha-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "359"
+}

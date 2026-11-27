@@ -1,0 +1,42 @@
+{
+ "id": 469,
+ "name": "yanmega",
+ "names": {
+  "ja-hrkt": "メガヤンマ",
+  "ja-roma": "Megayanma",
+  "ko": "메가자리",
+  "zh-hant": "遠古巨蜓",
+  "fr": "Yanmega",
+  "de": "Yanmega",
+  "es": "Yanmega",
+  "it": "Yanmega",
+  "en": "Yanmega",
+  "ja": "メガヤンマ",
+  "zh-hans": "远古巨蜓",
+  "es-419": "Yanmega"
+ },
+ "genus": {
+  "ja-hrkt": "オニトンボポケモン",
+  "ko": "깨비잠자리포켓몬",
+  "zh-hant": "勾蜓寶可夢",
+  "fr": "Pokémon Libellogre",
+  "de": "Agrion",
+  "es": "Pokémon Libélula",
+  "it": "Pokémon Libellorco",
+  "en": "Ogre Darner Pokémon",
+  "ja": "オニトンボポケモン",
+  "zh-hans": "勾蜓宝可梦",
+  "es-419": "Pokémon Libélula"
+ },
+ "flavor": {
+  "en": "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery.",
+  "ko": "6개의 다리로 어른을 껴안고도 너끈히 날 수 있다. 꼬리의 날개로 균형을 잡는다."
+ },
+ "varieties": [
+  {
+   "name": "yanmega",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "95"
+}

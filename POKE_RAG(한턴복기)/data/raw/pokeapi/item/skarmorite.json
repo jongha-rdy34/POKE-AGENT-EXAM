@@ -1,0 +1,20 @@
+{
+ "name": "skarmorite",
+ "names": {
+  "ko": "무장조나이트",
+  "zh-hant": "盔甲鳥進化石",
+  "fr": "Airmurite",
+  "de": "Panzaeronit",
+  "es": "Skarmorita",
+  "it": "Skarmorite",
+  "en": "Skarmorite",
+  "ja": "エアームドナイト",
+  "zh-hans": "盔甲鸟进化石",
+  "es-419": "Skarmorita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

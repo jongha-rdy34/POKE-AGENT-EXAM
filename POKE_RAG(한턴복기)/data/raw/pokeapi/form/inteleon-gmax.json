@@ -1,0 +1,17 @@
+{
+ "name": "inteleon-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Lézargus Gigamax",
+  "de": "Gigadynamax-Intelleon",
+  "en": "Gigantamax Inteleon"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

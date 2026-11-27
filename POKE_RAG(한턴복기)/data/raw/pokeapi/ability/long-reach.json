@@ -1,0 +1,23 @@
+{
+ "name": "long-reach",
+ "names": {
+  "ja-hrkt": "えんかく",
+  "ko": "원격",
+  "zh-hant": "遠隔",
+  "fr": "Longue Portée",
+  "de": "Langstrecke",
+  "es": "Remoto",
+  "it": "Distacco",
+  "en": "Long Reach",
+  "ja": "えんかく",
+  "zh-hans": "远隔",
+  "es-419": "Remoto"
+ },
+ "effect": {
+  "en": "This Pokémon's moves do not make contact."
+ },
+ "flavor": {
+  "ko": "모든 기술을 상대에게 접촉하지 않고 사용할 수 있다.",
+  "en": "The Pokémon uses its moves without making contact with the target."
+ }
+}

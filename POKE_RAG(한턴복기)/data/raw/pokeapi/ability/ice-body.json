@@ -1,0 +1,23 @@
+{
+ "name": "ice-body",
+ "names": {
+  "ja-hrkt": "アイスボディ",
+  "ko": "아이스바디",
+  "zh-hant": "冰凍之軀",
+  "fr": "Corps Gel",
+  "de": "Eishaut",
+  "es": "Gélido",
+  "it": "Corpogelo",
+  "en": "Ice Body",
+  "ja": "アイスボディ",
+  "zh-hans": "冰冻之躯",
+  "es-419": "Cuerpo de Hielo"
+ },
+ "effect": {
+  "en": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+ },
+ "flavor": {
+  "en": "The Pokémon gradually regains HP in snow.",
+  "ko": "날씨가 싸라기눈일 때 HP를 조금씩 회복한다."
+ }
+}

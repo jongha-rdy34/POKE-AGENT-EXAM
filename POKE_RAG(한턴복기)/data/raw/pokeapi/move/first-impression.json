@@ -1,0 +1,31 @@
+{
+ "name": "first-impression",
+ "names": {
+  "ja-hrkt": "であいがしら",
+  "ko": "만나자마자",
+  "zh-hant": "迎頭一擊",
+  "fr": "Escarmouche",
+  "de": "Überrumpler",
+  "es": "Escaramuza",
+  "it": "Schermaglia",
+  "en": "First Impression",
+  "ja": "であいがしら",
+  "zh-hans": "迎头一击",
+  "es-419": "Escaramuza"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 2,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Can only be used as the first move after the user enters battle."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "위력이 높은 기술이지만 배틀에 나가서 바로 쓰지 않으면 성공할 수 없다.",
+  "en": "Although this move has great power, it works only on the first turn each time the user enters battle."
+ }
+}

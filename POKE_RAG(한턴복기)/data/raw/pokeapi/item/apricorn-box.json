@@ -1,0 +1,28 @@
+{
+ "name": "apricorn-box",
+ "names": {
+  "ja-hrkt": "ぼんぐりケース",
+  "ko": "규토리케이스",
+  "zh-hant": "球果盒",
+  "fr": "Boîte Noigrume",
+  "de": "Aprikokobox",
+  "es": "Caja Bonguri",
+  "it": "Ghicobox",
+  "en": "Apricorn Box",
+  "ja": "ぼんぐりケース",
+  "zh-hans": "球果盒",
+  "es-419": "Caja Bonguri"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les Noigrumes.",
+  "en": "Holds Apricorns."
+ },
+ "flavor": {
+  "en": "A handy box where you can store up to 99 of each kind of Apricorn.",
+  "ko": "규토리를 99개 보존할 수 있는 편리한 용기.",
+  "ja": "ぼんぐりを ９９こ 保存できる 便利な いれもの。"
+ }
+}

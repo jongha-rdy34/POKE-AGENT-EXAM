@@ -1,0 +1,20 @@
+{
+ "name": "ghost-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースゴースト",
+  "ko": "테라피스 고스트",
+  "zh-hant": "幽靈太晶碎塊",
+  "fr": "Téra-Éclat Spectre",
+  "de": "Tera-Stück (Geist)",
+  "es": "Teralito Fantasma",
+  "it": "Teralite Spettro",
+  "en": "Ghost Tera Shard",
+  "ja": "テラピースゴースト",
+  "zh-hans": "幽灵太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

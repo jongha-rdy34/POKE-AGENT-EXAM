@@ -1,0 +1,42 @@
+{
+ "id": 865,
+ "name": "sirfetchd",
+ "names": {
+  "ja-hrkt": "ネギガナイト",
+  "ja-roma": "Negigaknight",
+  "ko": "창파나이트",
+  "zh-hant": "蔥遊兵",
+  "fr": "Palarticho",
+  "de": "Lauchzelot",
+  "es": "Sirfetch’d",
+  "it": "Sirfetch’d",
+  "en": "Sirfetch’d",
+  "ja": "ネギガナイト",
+  "zh-hans": "葱游兵",
+  "es-419": "Sirfetch’d"
+ },
+ "genus": {
+  "ja-hrkt": "かるがもポケモン",
+  "ko": "청둥오리포켓몬",
+  "zh-hant": "黃嘴鴨寶可夢",
+  "fr": "Pokémon Canard Fou",
+  "de": "Wildenten-Pokémon",
+  "es": "Pokémon Pato Salvaje",
+  "it": "Pokémon Selvanatra",
+  "en": "Wild Duck Pokémon",
+  "ja": "かるがもポケモン",
+  "zh-hans": "黄嘴鸭宝可梦",
+  "es-419": "Pokémon Pato Salvaje"
+ },
+ "flavor": {
+  "ko": "단단한 파잎으로 공격을 받아넘기고 날카로운 줄기로 반격한다. 파는 무기인 동시에 식재료다.",
+  "en": "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food."
+ },
+ "varieties": [
+  {
+   "name": "sirfetchd",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "35"
+}

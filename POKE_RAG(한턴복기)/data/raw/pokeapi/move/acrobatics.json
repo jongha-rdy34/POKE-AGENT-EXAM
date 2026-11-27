@@ -1,0 +1,31 @@
+{
+ "name": "acrobatics",
+ "names": {
+  "ja-hrkt": "アクロバット",
+  "ko": "애크러뱃",
+  "zh-hant": "雜技",
+  "fr": "Acrobatie",
+  "de": "Akrobatik",
+  "es": "Acróbata",
+  "it": "Acrobazia",
+  "en": "Acrobatics",
+  "ja": "アクロバット",
+  "zh-hans": "杂技",
+  "es-419": "Acrobacia"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 55,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has double power if the user has no held item."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user nimbly strikes the target. This attack does massive damage if the user isn't holding an item.",
+  "ko": "경쾌하게 상대를 공격한다. 자신이 도구를 지니고 있지 않을 때 큰 데미지를 준다."
+ }
+}

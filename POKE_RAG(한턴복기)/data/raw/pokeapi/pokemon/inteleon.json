@@ -1,0 +1,30 @@
+{
+ "id": 818,
+ "name": "inteleon",
+ "species": "inteleon",
+ "is_default": true,
+ "types": [
+  "water"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 85,
+  "defense": 65,
+  "special-attack": 125,
+  "special-defense": 65,
+  "speed": 120
+ },
+ "abilities": [
+  {
+   "name": "torrent",
+   "hidden": false
+  },
+  {
+   "name": "sniper",
+   "hidden": true
+  }
+ ],
+ "height": 19,
+ "weight": 452,
+ "champions_moves": []
+}

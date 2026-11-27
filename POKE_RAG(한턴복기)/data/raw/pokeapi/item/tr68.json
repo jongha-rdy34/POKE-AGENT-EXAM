@@ -1,0 +1,25 @@
+{
+ "name": "tr68",
+ "names": {
+  "ja-hrkt": "わざレコード６８",
+  "ko": "기술레코드68",
+  "zh-hant": "招式紀錄６８",
+  "fr": "DT68",
+  "de": "TP68",
+  "es": "DT68",
+  "it": "DT68",
+  "en": "TR68",
+  "ja": "わざレコード６８",
+  "zh-hans": "招式记录６８",
+  "es-419": "DT68"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "나쁜 일을 생각해서 머리를 활성화시킨다. 자신의 특수공격을 크게 올린다.",
+  "en": "The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat.",
+  "ja": "悪いことを 考えて 頭を 活性化させる。 自分の 特攻を ぐーんと あげる。"
+ }
+}

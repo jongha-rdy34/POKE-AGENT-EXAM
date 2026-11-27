@@ -1,0 +1,31 @@
+{
+ "name": "helping-hand",
+ "names": {
+  "ja-hrkt": "てだすけ",
+  "ko": "도우미",
+  "zh-hant": "幫助",
+  "fr": "Coup d’Main",
+  "de": "Rechte Hand",
+  "es": "Refuerzo",
+  "it": "Altruismo",
+  "en": "Helping Hand",
+  "ja": "てだすけ",
+  "zh-hans": "帮助",
+  "es-419": "Refuerzos"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 5,
+ "target": "ally",
+ "effect": {
+  "en": "Ally’s next move inflicts half more damage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user assists an ally by boosting the power of that ally's attack.",
+  "ko": "동료를 돕는다. 도움받은 포켓몬이 쓰는 기술의 위력은 여느 때보다 커진다."
+ }
+}

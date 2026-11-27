@@ -1,0 +1,28 @@
+{
+ "name": "sweet-heart",
+ "names": {
+  "ja-hrkt": "ハートスイーツ",
+  "ko": "하트스위트",
+  "zh-hant": "心形甜點",
+  "fr": "Chococœur",
+  "de": "Herzkonfekt",
+  "es": "Corazón Dulce",
+  "it": "Dolcecuore",
+  "en": "Sweet Heart",
+  "ja": "ハートスイーツ",
+  "zh-hans": "心形甜点",
+  "es-419": "Corazón Dulce"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Restaure 20 PV.",
+  "en": "Restores 20 HP."
+ },
+ "flavor": {
+  "en": "A piece of cloyingly sweet chocolate. It can be used to restore 20 HP to a single Pokémon.",
+  "ko": "지나칠 정도로 달콤한 초콜릿. 포켓몬 1마리의 HP를 20만큼 회복한다.",
+  "ja": "とても 甘ったるい チョコレート。 ポケモン １匹の ＨＰを ２０だけ 回復する。"
+ }
+}

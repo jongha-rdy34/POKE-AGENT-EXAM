@@ -1,0 +1,42 @@
+{
+ "id": 563,
+ "name": "cofagrigus",
+ "names": {
+  "ja-hrkt": "デスカーン",
+  "ja-roma": "Desukarn",
+  "ko": "데스니칸",
+  "zh-hant": "死神棺",
+  "fr": "Tutankafer",
+  "de": "Echnatoll",
+  "es": "Cofagrigus",
+  "it": "Cofagrigus",
+  "en": "Cofagrigus",
+  "ja": "デスカーン",
+  "zh-hans": "迭失棺",
+  "es-419": "Cofagrigus"
+ },
+ "genus": {
+  "ja-hrkt": "かんおけポケモン",
+  "ko": "관포켓몬",
+  "zh-hant": "棺木寶可夢",
+  "fr": "Pokémon Cercueil",
+  "de": "Sarkophag-Pokémon",
+  "es": "Pokémon Sepultura",
+  "it": "Pokémon Bara",
+  "en": "Coffin Pokémon",
+  "ja": "かんおけポケモン",
+  "zh-hans": "棺木宝可梦",
+  "es-419": "Pokémon Sepultura"
+ },
+ "flavor": {
+  "en": "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had.",
+  "ko": "오래된 묘지의 벽을 보면 왕의 부를 드러내고자 그려져 있는 경우가 많다."
+ },
+ "varieties": [
+  {
+   "name": "cofagrigus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "287"
+}

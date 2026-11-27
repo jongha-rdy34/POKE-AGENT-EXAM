@@ -1,0 +1,50 @@
+{
+ "id": 80,
+ "name": "slowbro",
+ "names": {
+  "ja-hrkt": "ヤドラン",
+  "ja-roma": "Yadoran",
+  "ko": "야도란",
+  "zh-hant": "呆殼獸",
+  "fr": "Flagadoss",
+  "de": "Lahmus",
+  "es": "Slowbro",
+  "it": "Slowbro",
+  "en": "Slowbro",
+  "ja": "ヤドラン",
+  "zh-hans": "呆壳兽",
+  "es-419": "Slowbro"
+ },
+ "genus": {
+  "ja-hrkt": "やどかりポケモン",
+  "ko": "기생포켓몬",
+  "zh-hant": "寄居蟹寶可夢",
+  "fr": "Pokémon Symbiose",
+  "de": "Symbiose-Pokémon",
+  "es": "Pokémon Ermitaño",
+  "it": "Pokémon Paguro",
+  "en": "Hermit Crab Pokémon",
+  "ja": "やどかりポケモン",
+  "zh-hans": "寄居蟹宝可梦",
+  "es-419": "Pokémon Ermitaño"
+ },
+ "flavor": {
+  "en": "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke.",
+  "ko": "셀러에게 물린 충격으로 두 발로 걸을 수 있게 되었다. 셀러가 떨어지면 야돈으로 돌아간다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "slowbro",
+   "is_default": true
+  },
+  {
+   "name": "slowbro-mega",
+   "is_default": false
+  },
+  {
+   "name": "slowbro-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "33"
+}

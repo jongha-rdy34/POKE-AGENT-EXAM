@@ -1,0 +1,42 @@
+{
+ "id": 179,
+ "name": "mareep",
+ "names": {
+  "ja-hrkt": "メリープ",
+  "ja-roma": "Merriep",
+  "ko": "메리프",
+  "zh-hant": "咩利羊",
+  "fr": "Wattouat",
+  "de": "Voltilamm",
+  "es": "Mareep",
+  "it": "Mareep",
+  "en": "Mareep",
+  "ja": "メリープ",
+  "zh-hans": "咩利羊",
+  "es-419": "Mareep"
+ },
+ "genus": {
+  "ja-hrkt": "わたげポケモン",
+  "ko": "솜털포켓몬",
+  "zh-hant": "綿毛寶可夢",
+  "fr": "Pokémon Laine",
+  "de": "Wolle",
+  "es": "Pokémon Lana",
+  "it": "Pokémon Lana",
+  "en": "Wool Pokémon",
+  "ja": "わたげポケモン",
+  "zh-hans": "绵毛宝可梦",
+  "es-419": "Pokémon Lana"
+ },
+ "flavor": {
+  "en": "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
+  "ko": "솜털이 마찰하여 전기가 모인다. 귀엽다고 맨손으로 만지면 따끔하게 저리고 아프다."
+ },
+ "varieties": [
+  {
+   "name": "mareep",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "89"
+}

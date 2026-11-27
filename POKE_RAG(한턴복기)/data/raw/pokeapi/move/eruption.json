@@ -1,0 +1,31 @@
+{
+ "name": "eruption",
+ "names": {
+  "ja-hrkt": "ふんか",
+  "ko": "분화",
+  "zh-hant": "噴火",
+  "fr": "Éruption",
+  "de": "Eruption",
+  "es": "Estallido",
+  "it": "Eruzione",
+  "en": "Eruption",
+  "ja": "ふんか",
+  "zh-hans": "喷火",
+  "es-419": "Estallido"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 150,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power.",
+  "ko": "분노를 폭발시켜 상대를 공격한다. 자신의 HP가 적을수록 기술의 위력이 떨어진다."
+ }
+}

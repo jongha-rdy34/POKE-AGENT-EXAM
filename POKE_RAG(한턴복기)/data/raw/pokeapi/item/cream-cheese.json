@@ -1,0 +1,20 @@
+{
+ "name": "cream-cheese",
+ "names": {
+  "ja-hrkt": "クリームチーズ",
+  "ko": "크림치즈",
+  "zh-hant": "奶油起司",
+  "fr": "Fromage Frais",
+  "de": "Frischkäse",
+  "es": "Queso Crema",
+  "it": "Formaggio cremoso",
+  "en": "Cream Cheese",
+  "ja": "クリームチーズ",
+  "zh-hans": "奶油芝士"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

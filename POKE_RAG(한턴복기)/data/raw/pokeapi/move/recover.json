@@ -1,0 +1,31 @@
+{
+ "name": "recover",
+ "names": {
+  "ja-hrkt": "じこさいせい",
+  "ko": "HP회복",
+  "zh-hant": "自我再生",
+  "fr": "Soin",
+  "de": "Genesung",
+  "es": "Recuperación",
+  "it": "Ripresa",
+  "en": "Recover",
+  "ja": "じこさいせい",
+  "zh-hans": "自我再生",
+  "es-419": "Recuperación"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user regenerates its cells, restoring its own HP by up to half its max HP.",
+  "ko": "세포를 재생시켜 자신의 최대 HP의 절반만큼 HP를 회복한다."
+ }
+}

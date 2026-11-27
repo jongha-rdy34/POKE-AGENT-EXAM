@@ -1,0 +1,83 @@
+{
+ "id": 844,
+ "name": "sandaconda",
+ "species": "sandaconda",
+ "is_default": true,
+ "types": [
+  "ground"
+ ],
+ "stats": {
+  "hp": 72,
+  "attack": 107,
+  "defense": 125,
+  "special-attack": 65,
+  "special-defense": 70,
+  "speed": 71
+ },
+ "abilities": [
+  {
+   "name": "sand-spit",
+   "hidden": false
+  },
+  {
+   "name": "shed-skin",
+   "hidden": false
+  },
+  {
+   "name": "sand-veil",
+   "hidden": true
+  }
+ ],
+ "height": 38,
+ "weight": 655,
+ "champions_moves": [
+  "belch",
+  "body-press",
+  "body-slam",
+  "brutal-swing",
+  "bulldoze",
+  "coil",
+  "dig",
+  "dragon-rush",
+  "drill-run",
+  "earth-power",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-fang",
+  "giga-impact",
+  "glare",
+  "high-horsepower",
+  "hurricane",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "last-resort",
+  "minimize",
+  "mud-shot",
+  "mud-slap",
+  "outrage",
+  "protect",
+  "rest",
+  "rock-blast",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sand-tomb",
+  "sandstorm",
+  "scale-shot",
+  "scary-face",
+  "scorching-sands",
+  "screech",
+  "skitter-smack",
+  "sleep-talk",
+  "snore",
+  "stealth-rock",
+  "stone-edge",
+  "substitute",
+  "thunder-fang",
+  "wrap",
+  "zen-headbutt"
+ ]
+}

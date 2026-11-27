@@ -1,0 +1,23 @@
+{
+ "name": "gengar-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Ectoplasma",
+  "de": "Mega-Gengar",
+  "en": "Mega Gengar"
+ },
+ "form_names": {
+  "ja-hrkt": "メガゲンガー",
+  "ko": "메가팬텀",
+  "zh-hant": "超級耿鬼",
+  "fr": "Méga-Ectoplasma",
+  "de": "Mega-Form",
+  "es": "Mega-Gengar",
+  "it": "MegaGengar",
+  "en": "Mega Gengar",
+  "ja": "メガゲンガー",
+  "zh-hans": "超级耿鬼",
+  "es-419": "Mega-Gengar"
+ },
+ "is_mega": true
+}

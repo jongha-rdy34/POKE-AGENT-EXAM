@@ -1,0 +1,25 @@
+{
+ "name": "tr69",
+ "names": {
+  "ja-hrkt": "わざレコード６９",
+  "ko": "기술레코드69",
+  "zh-hant": "招式紀錄６９",
+  "fr": "DT69",
+  "de": "TP69",
+  "es": "DT69",
+  "it": "DT69",
+  "en": "TR69",
+  "ja": "わざレコード６９",
+  "zh-hans": "招式记录６９",
+  "es-419": "DT69"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사념의 힘을 이마에 모아서 공격한다. 상대를 풀죽게 만들 때가 있다.",
+  "en": "The user focuses its willpower to its head and attacks the target. This may also make the target flinch.",
+  "ja": "思念の 力を 額に 集めて 攻撃する。 相手を ひるませることが ある。"
+ }
+}

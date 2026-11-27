@@ -1,0 +1,31 @@
+{
+ "name": "guillotine",
+ "names": {
+  "ja-hrkt": "ハサミギロチン",
+  "ko": "가위자르기",
+  "zh-hant": "斷頭鉗",
+  "fr": "Guillotine",
+  "de": "Guillotine",
+  "es": "Guillotina",
+  "it": "Ghigliottina",
+  "en": "Guillotine",
+  "ja": "ハサミギロチン",
+  "zh-hans": "断头钳",
+  "es-419": "Guillotina"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": null,
+ "accuracy": 30,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Causes a one-hit KO."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A vicious tearing attack with big pincers. The target faints instantly if this attack hits.",
+  "ko": "큰 집게로 상대를 베어 갈라 공격한다. 맞으면 일격에 기절한다."
+ }
+}

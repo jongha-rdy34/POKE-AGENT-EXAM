@@ -1,0 +1,28 @@
+{
+ "name": "aloraichium-z--bag",
+ "names": {
+  "ja-hrkt": "アロライＺ",
+  "ko": "알로라이Z",
+  "zh-hant": "阿羅雷Ｚ",
+  "fr": "Aloraïzélite",
+  "de": "A-Raichunium Z",
+  "es": "Alo-Raistal Z",
+  "it": "Aloraicium Z",
+  "en": "Aloraichium Z",
+  "ja": "アロライＺ",
+  "zh-hans": "阿罗雷Ｚ",
+  "es-419": "Alo-Raistal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour aloraichium-z--bag",
+  "en": "XXX new effect for aloraichium-z--bag"
+ },
+ "flavor": {
+  "ko": "알로라지방에 있는 라이츄의 10만볼트를 Z기술로 바꾸는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Alolan Raichu’s Thunderbolt to an exclusive Z-Move.",
+  "ja": "アローラ地方に いる ライチュウの １０まんボルトを Ｚワザに 変える Ｚパワーの 結晶を 作りだす。"
+ }
+}

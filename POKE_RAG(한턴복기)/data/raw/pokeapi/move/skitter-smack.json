@@ -1,0 +1,31 @@
+{
+ "name": "skitter-smack",
+ "names": {
+  "ja-hrkt": "はいよるいちげき",
+  "ko": "엄습하는일격",
+  "zh-hant": "爬擊",
+  "fr": "Ravage Rampant",
+  "de": "Krabbelkracher",
+  "es": "Golpe Rastrero",
+  "it": "Strisciacolpo",
+  "en": "Skitter Smack",
+  "ja": "はいよるいちげき",
+  "zh-hans": "爬击",
+  "es-419": "Golpe Rastrero"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 70,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Special Attack by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "배후에서 엄습해서 공격한다. 상대의 특수공격을 떨어뜨린다.",
+  "en": "The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat."
+ }
+}

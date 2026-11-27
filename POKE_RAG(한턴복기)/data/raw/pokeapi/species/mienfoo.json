@@ -1,0 +1,42 @@
+{
+ "id": 619,
+ "name": "mienfoo",
+ "names": {
+  "ja-hrkt": "コジョフー",
+  "ja-roma": "Kojofu",
+  "ko": "비조푸",
+  "zh-hant": "功夫鼬",
+  "fr": "Kungfouine",
+  "de": "Lin-Fu",
+  "es": "Mienfoo",
+  "it": "Mienfoo",
+  "en": "Mienfoo",
+  "ja": "コジョフー",
+  "zh-hans": "功夫鼬",
+  "es-419": "Mienfoo"
+ },
+ "genus": {
+  "ja-hrkt": "ぶじゅつポケモン",
+  "ko": "무술포켓몬",
+  "zh-hant": "武術寶可夢",
+  "fr": "Pokémon Art Martial",
+  "de": "Kampfkünste-Pokémon",
+  "es": "Pokémon Arte Marcial",
+  "it": "Pokémon Marziale",
+  "en": "Martial Arts Pokémon",
+  "ja": "ぶじゅつポケモン",
+  "zh-hans": "武术宝可梦",
+  "es-419": "Pokémon Arte Marcial"
+ },
+ "flavor": {
+  "en": "Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks.",
+  "ko": "작아도 기질은 거칠다. 방심하고 다가간 상대에게 화려한 연타를 먹인다."
+ },
+ "varieties": [
+  {
+   "name": "mienfoo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "314"
+}

@@ -1,0 +1,46 @@
+{
+ "id": 212,
+ "name": "scizor",
+ "names": {
+  "ja-hrkt": "ハッサム",
+  "ja-roma": "Hassam",
+  "ko": "핫삼",
+  "zh-hant": "巨鉗螳螂",
+  "fr": "Cizayox",
+  "de": "Scherox",
+  "es": "Scizor",
+  "it": "Scizor",
+  "en": "Scizor",
+  "ja": "ハッサム",
+  "zh-hans": "巨钳螳螂",
+  "es-419": "Scizor"
+ },
+ "genus": {
+  "ja-hrkt": "はさみポケモン",
+  "ko": "집게포켓몬",
+  "zh-hant": "鉗子寶可夢",
+  "fr": "Pokémon Pince",
+  "de": "Kneifer-Pokémon",
+  "es": "Pokémon Tenaza",
+  "it": "Pokémon Chela",
+  "en": "Pincer Pokémon",
+  "ja": "はさみポケモン",
+  "zh-hans": "钳子宝可梦",
+  "es-419": "Pokémon Tenaza"
+ },
+ "flavor": {
+  "en": "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel.",
+  "ko": "몸은 가늘지만 공격력은 무시무시하다. 몸의 근육도 금속으로 되어 있다."
+ },
+ "varieties": [
+  {
+   "name": "scizor",
+   "is_default": true
+  },
+  {
+   "name": "scizor-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "58"
+}

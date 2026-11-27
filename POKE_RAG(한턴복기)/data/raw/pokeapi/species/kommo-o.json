@@ -1,0 +1,46 @@
+{
+ "id": 784,
+ "name": "kommo-o",
+ "names": {
+  "ja-hrkt": "ジャラランガ",
+  "ja-roma": "Jyararanga",
+  "ko": "짜랑고우거",
+  "zh-hant": "杖尾鱗甲龍",
+  "fr": "Ékaïser",
+  "de": "Grandiras",
+  "es": "Kommo-o",
+  "it": "Kommo-o",
+  "en": "Kommo-o",
+  "ja": "ジャラランガ",
+  "zh-hans": "杖尾鳞甲龙",
+  "es-419": "Kommo-o"
+ },
+ "genus": {
+  "ja-hrkt": "うろこポケモン",
+  "ko": "비늘포켓몬",
+  "zh-hant": "鱗片寶可夢",
+  "fr": "Pokémon Écailles",
+  "de": "Schuppentier-Pokémon",
+  "es": "Pokémon Escamas",
+  "it": "Pokémon Squama",
+  "en": "Scaly Pokémon",
+  "ja": "うろこポケモン",
+  "zh-hans": "鳞片宝可梦",
+  "es-419": "Pokémon Escamas"
+ },
+ "flavor": {
+  "ko": "짜랑고우거의 비늘로 만든 갑옷을 두른 고대의 전사가 유적에 그려져 있다.",
+  "en": "Certain ruins have paintings of ancient warriors wearing armor made of Kommo-o scales."
+ },
+ "varieties": [
+  {
+   "name": "kommo-o",
+   "is_default": true
+  },
+  {
+   "name": "kommo-o-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "408"
+}

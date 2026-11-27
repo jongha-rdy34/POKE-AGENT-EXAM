@@ -1,0 +1,37 @@
+{
+ "id": 962,
+ "name": "bombirdier",
+ "names": {
+  "ja-hrkt": "オトシドリ",
+  "ja-roma": "Otoshidori",
+  "ko": "떨구새",
+  "zh-hant": "下石鳥",
+  "fr": "Lestombaile",
+  "de": "Adebom",
+  "es": "Bombirdier",
+  "it": "Bombirdier",
+  "en": "Bombirdier",
+  "ja": "オトシドリ",
+  "zh-hans": "下石鸟",
+  "es-419": "Bombirdier"
+ },
+ "genus": {
+  "ja-hrkt": "おとしものポケモン",
+  "ko": "낙하물포켓몬",
+  "zh-hant": "掉東西寶可夢",
+  "fr": "Délesteur",
+  "de": "Abwurf",
+  "en": "Item Drop Pokémon",
+  "zh-hans": "掉东西宝可梦"
+ },
+ "flavor": {
+  "en": "Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises."
+ },
+ "varieties": [
+  {
+   "name": "bombirdier",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "503"
+}

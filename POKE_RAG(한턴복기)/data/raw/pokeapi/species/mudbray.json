@@ -1,0 +1,42 @@
+{
+ "id": 749,
+ "name": "mudbray",
+ "names": {
+  "ja-hrkt": "ドロバンコ",
+  "ja-roma": "Dorobanko",
+  "ko": "머드나기",
+  "zh-hant": "泥驢仔",
+  "fr": "Tiboudet",
+  "de": "Pampuli",
+  "es": "Mudbray",
+  "it": "Mudbray",
+  "en": "Mudbray",
+  "ja": "ドロバンコ",
+  "zh-hans": "泥驴仔",
+  "es-419": "Mudbray"
+ },
+ "genus": {
+  "ja-hrkt": "うさぎうまポケモン",
+  "ko": "당나귀포켓몬",
+  "zh-hant": "驢寶可夢",
+  "fr": "Pokémon Âne",
+  "de": "Packesel-Pokémon",
+  "es": "Pokémon Asno",
+  "it": "Pokémon Ciuconiglio",
+  "en": "Donkey Pokémon",
+  "ja": "うさぎうまポケモン",
+  "zh-hans": "驴宝可梦",
+  "es-419": "Pokémon Asno"
+ },
+ "flavor": {
+  "ko": "흙을 먹어서 만든 진흙을 다리에 바르면 험한 길에서도 미끄러지지 않고 걸을 수 있게 된다.",
+  "en": "It eats dirt to create mud and smears this mud all over its feet, giving them the grip needed to walk on rough terrain without slipping."
+ },
+ "varieties": [
+  {
+   "name": "mudbray",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "386"
+}

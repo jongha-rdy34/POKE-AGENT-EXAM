@@ -1,0 +1,35 @@
+{
+ "name": "max-revive",
+ "names": {
+  "ja-hrkt": "げんきのかたまり",
+  "ko": "기력의덩어리",
+  "zh-hant": "活力塊",
+  "fr": "Rappel Max",
+  "de": "Top-Beleber",
+  "es": "Revivir Máximo",
+  "it": "Revitalizz. Max",
+  "en": "Max Revive",
+  "ja": "げんきのかたまり",
+  "zh-hans": "活力块",
+  "es-419": "Revivir Máximo"
+ },
+ "category": "revival",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Renaît avec tous les PV.",
+  "en": "Revives with full HP."
+ },
+ "flavor": {
+  "en": "A medicine that can be used to revive a single Pokémon that has fainted. It also fully restores the Pokémon’s max HP.",
+  "ko": "기절해 버린 포켓몬 1마리를 건강하게 하고 HP를 모두 회복한다.",
+  "ja": "ひんしに なった ポケモン １匹を 元気に したうえで ＨＰを すべて 回復する。"
+ }
+}

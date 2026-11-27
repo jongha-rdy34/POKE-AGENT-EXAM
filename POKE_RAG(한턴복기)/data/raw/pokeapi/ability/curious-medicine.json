@@ -1,0 +1,23 @@
+{
+ "name": "curious-medicine",
+ "names": {
+  "ja-hrkt": "きみょうなくすり",
+  "ko": "기묘한약",
+  "zh-hant": "怪藥",
+  "fr": "Breuvage Suspect",
+  "de": "Kuriose Arznei",
+  "es": "Medicina Extraña",
+  "it": "Stranofarmaco",
+  "en": "Curious Medicine",
+  "ja": "きみょうなくすり",
+  "zh-hans": "怪药",
+  "es-419": "Medicina Extraña"
+ },
+ "effect": {
+  "en": "Resets all stat changes upon entering battlefield."
+ },
+ "flavor": {
+  "ko": "등장했을 때 조개껍질에서 약을 흩뿌려서 능력 변화를 원래대로 되돌린다.",
+  "en": "When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
+ }
+}

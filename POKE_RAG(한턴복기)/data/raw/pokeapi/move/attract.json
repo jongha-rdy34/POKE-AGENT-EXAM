@@ -1,0 +1,31 @@
+{
+ "name": "attract",
+ "names": {
+  "ja-hrkt": "メロメロ",
+  "ko": "헤롱헤롱",
+  "zh-hant": "迷人",
+  "fr": "Attraction",
+  "de": "Anziehung",
+  "es": "Atracción",
+  "it": "Attrazione",
+  "en": "Attract",
+  "ja": "メロメロ",
+  "zh-hans": "迷人",
+  "es-419": "Atracción"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "If the target is of the opposite gender to the user, it becomes infatuated with the user and will sometimes be unable to use its moves.",
+  "ko": "수컷은 암컷을 암컷은 수컷을 유혹하여 헤롱헤롱하게 만든다. 상대가 기술을 쓰기 어려워진다."
+ }
+}

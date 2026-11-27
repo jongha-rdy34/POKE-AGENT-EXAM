@@ -1,0 +1,23 @@
+{
+ "name": "thick-fat",
+ "names": {
+  "ja-hrkt": "あついしぼう",
+  "ko": "두꺼운지방",
+  "zh-hant": "厚脂肪",
+  "fr": "Isograisse",
+  "de": "Speckschicht",
+  "es": "Sebo",
+  "it": "Grassospesso",
+  "en": "Thick Fat",
+  "ja": "あついしぼう",
+  "zh-hans": "厚脂肪",
+  "es-419": "Sebo"
+ },
+ "effect": {
+  "en": "Halves damage from Fire and Ice moves."
+ },
+ "flavor": {
+  "en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.",
+  "ko": "두꺼운 지방으로 보호되고 있어 불꽃타입과 얼음타입의 기술의 데미지를 반감시킨다."
+ }
+}

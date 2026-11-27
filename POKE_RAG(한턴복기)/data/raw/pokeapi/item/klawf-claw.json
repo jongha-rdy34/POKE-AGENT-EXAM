@@ -1,0 +1,20 @@
+{
+ "name": "klawf-claw",
+ "names": {
+  "ja-hrkt": "ガケガニのハサミ",
+  "ko": "절벼게의집게",
+  "zh-hant": "毛崖蟹的鉗子",
+  "fr": "Pince de Craparoi",
+  "de": "Klibbe-Schere",
+  "es": "Pinza de Klawf",
+  "it": "Chela di Klawf",
+  "en": "Klawf Claw",
+  "ja": "ガケガニのハサミ",
+  "zh-hans": "毛崖蟹的钳子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

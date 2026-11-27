@@ -1,0 +1,42 @@
+{
+ "id": 165,
+ "name": "ledyba",
+ "names": {
+  "ja-hrkt": "レディバ",
+  "ja-roma": "Rediba",
+  "ko": "레디바",
+  "zh-hant": "芭瓢蟲",
+  "fr": "Coxy",
+  "de": "Ledyba",
+  "es": "Ledyba",
+  "it": "Ledyba",
+  "en": "Ledyba",
+  "ja": "レディバ",
+  "zh-hans": "芭瓢虫",
+  "es-419": "Ledyba"
+ },
+ "genus": {
+  "ja-hrkt": "いつつぼしポケモン",
+  "ko": "별다섯포켓몬",
+  "zh-hant": "五星寶可夢",
+  "fr": "Pokémon 5 Étoiles",
+  "de": "Fünf-Punkt",
+  "es": "Pokémon 5 Estrellas",
+  "it": "Pokémon Pentastra",
+  "en": "Five Star Pokémon",
+  "ja": "いつつぼしポケモン",
+  "zh-hans": "五星宝可梦",
+  "es-419": "Pokémon 5 Estrellas"
+ },
+ "flavor": {
+  "en": "These very cowardly Pokémon join together and use Reflect to protect their nest.",
+  "ko": "매우 겁이 많은 포켓몬이다. 동료와 함께 리플렉터를 펼쳐서 보금자리를 지키고 있다."
+ },
+ "varieties": [
+  {
+   "name": "ledyba",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "84"
+}

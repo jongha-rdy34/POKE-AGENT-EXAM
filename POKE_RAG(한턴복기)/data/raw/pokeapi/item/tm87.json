@@ -1,0 +1,28 @@
+{
+ "name": "tm87",
+ "names": {
+  "ja-hrkt": "わざマシン８７",
+  "ko": "기술머신87",
+  "zh-hant": "招式學習器８７",
+  "fr": "CT87",
+  "de": "TM87",
+  "es": "MT87",
+  "it": "MT87",
+  "en": "TM87",
+  "ja": "わざマシン８７",
+  "zh-hans": "招式学习器８７",
+  "es-419": "MT87"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Vantardise à un Pokémon compatible.",
+  "en": "Teaches Swagger to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target.",
+  "ko": "키스로 상대의 HP를 흡수한다. 준 데미지의 반 이상 HP를 회복한다.",
+  "ja": "キッスによって 相手から ＨＰを 吸い取る。 与えた ダメージの 半分以上 ＨＰを 回復する。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "machine-part",
+ "names": {
+  "ja-hrkt": "きかいのぶひん",
+  "ko": "기계부품",
+  "zh-hant": "機械零件",
+  "fr": "Partie Machine",
+  "de": "Spule",
+  "es": "Maquinaria",
+  "it": "Pezzo macch.",
+  "en": "Machine Part",
+  "ja": "きかいのぶひん",
+  "zh-hans": "机械零件",
+  "es-419": "Maquinaria"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Doit être replacé dans la Centrale Abandonée pour alimenter le Train Magnétique.",
+  "en": "Must be replaced in the Power Plant to power the Magnet Train."
+ },
+ "flavor": {
+  "en": "An important part of a machine that was stolen from the Power Plant.",
+  "ko": "발전소에서 도둑맞은 발전기의 중요한 부품.",
+  "ja": "発電所から ぬすまれた 発電機の たいせつな 部品。"
+ }
+}

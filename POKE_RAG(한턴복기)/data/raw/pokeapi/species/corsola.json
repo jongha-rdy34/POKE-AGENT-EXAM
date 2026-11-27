@@ -1,0 +1,46 @@
+{
+ "id": 222,
+ "name": "corsola",
+ "names": {
+  "ja-hrkt": "サニーゴ",
+  "ja-roma": "Sunnygo",
+  "ko": "코산호",
+  "zh-hant": "太陽珊瑚",
+  "fr": "Corayon",
+  "de": "Corasonn",
+  "es": "Corsola",
+  "it": "Corsola",
+  "en": "Corsola",
+  "ja": "サニーゴ",
+  "zh-hans": "太阳珊瑚",
+  "es-419": "Corsola"
+ },
+ "genus": {
+  "ja-hrkt": "さんごポケモン",
+  "ko": "산호포켓몬",
+  "zh-hant": "珊瑚寶可夢",
+  "fr": "Pokémon Corail",
+  "de": "Korallen-Pokémon",
+  "es": "Pokémon Coral",
+  "it": "Pokémon Corallo",
+  "en": "Coral Pokémon",
+  "ja": "さんごポケモン",
+  "zh-hans": "珊瑚宝可梦",
+  "es-419": "Pokémon Coral"
+ },
+ "flavor": {
+  "en": "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well.",
+  "ko": "따뜻한 바다에 서식한다. 태고에는 가라르 근해에서도 많은 수가 서식했었다."
+ },
+ "varieties": [
+  {
+   "name": "corsola",
+   "is_default": true
+  },
+  {
+   "name": "corsola-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "113"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 457,
+ "name": "lumineon",
+ "names": {
+  "ja-hrkt": "ネオラント",
+  "ja-roma": "Neolant",
+  "ko": "네오라이트",
+  "zh-hant": "霓虹魚",
+  "fr": "Luminéon",
+  "de": "Lumineon",
+  "es": "Lumineon",
+  "it": "Lumineon",
+  "en": "Lumineon",
+  "ja": "ネオラント",
+  "zh-hans": "霓虹鱼",
+  "es-419": "Lumineon"
+ },
+ "genus": {
+  "ja-hrkt": "ネオンポケモン",
+  "ko": "네온포켓몬",
+  "zh-hant": "霓虹寶可夢",
+  "fr": "Pokémon Néon",
+  "de": "Neon",
+  "es": "Pokémon Neón",
+  "it": "Pokémon Neon",
+  "en": "Neon Pokémon",
+  "ja": "ネオンポケモン",
+  "zh-hans": "霓虹宝可梦",
+  "es-419": "Pokémon Neón"
+ },
+ "flavor": {
+  "en": "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking— it's as though there were shining stars right there.",
+  "ko": "심해 해저를 기어가듯 헤엄친다. 환상적인 지느러미의 빛은 밤하늘의 별과 같다."
+ },
+ "varieties": [
+  {
+   "name": "lumineon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "237"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "sonias-book",
+ "names": {
+  "ja-hrkt": "ソニアのほん",
+  "ko": "소니아의책",
+  "zh-hant": "索妮亞的書",
+  "fr": "Livre de Sonya",
+  "de": "Sanias Buch",
+  "es": "Libro de Sonia",
+  "it": "Libro di Sonia",
+  "en": "Sonia’s Book",
+  "ja": "ソニアのほん",
+  "zh-hans": "索妮亚的书",
+  "es-419": "Libro de Sonia"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "소니아박사가 출판했다. 가라르지방의 전설에 대한 새로운 발견이 흥미롭게 쓰여 있다.",
+  "en": "Professor Sonia’s published writings. Her new discoveries about the Galar region’s legends are recorded in this enjoyable read.",
+  "ja": "ソニア博士が 出版 した。 ガラル地方の 伝説に ついての 新発見が おもしろく 書かれている。"
+ }
+}

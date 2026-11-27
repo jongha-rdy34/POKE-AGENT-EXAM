@@ -1,0 +1,28 @@
+{
+ "name": "rocky-helmet",
+ "names": {
+  "ja-hrkt": "ゴツゴツメット",
+  "ko": "울퉁불퉁멧",
+  "zh-hant": "凸凸頭盔",
+  "fr": "Casque Brut",
+  "de": "Beulenhelm",
+  "es": "Casco Dentado",
+  "it": "Bitorzolelmo",
+  "en": "Rocky Helmet",
+  "ja": "ゴツゴツメット",
+  "zh-hans": "凸凸头盔",
+  "es-419": "Casco Dentado"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Quand le porteur est touché par une capacité à contact, le Pokémon attaquant subit 1/6 de ses PV max en dégâts.",
+  "en": "Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. If the holder is hit, the attacker will also be damaged upon contact.",
+  "ko": "포켓몬에게 지니게 하면 타격 기술을 당했을 때 상대에게도 데미지를 준다.",
+  "ja": "ポケモンに 持たせると 打撃技を 受けたとき 相手にも ダメージを 与える。"
+ }
+}

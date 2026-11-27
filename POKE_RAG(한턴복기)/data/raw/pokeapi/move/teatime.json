@@ -1,0 +1,31 @@
+{
+ "name": "teatime",
+ "names": {
+  "ja-hrkt": "おちゃかい",
+  "ko": "다과회",
+  "zh-hant": "茶會",
+  "fr": "Thérémonie",
+  "de": "Teatime",
+  "es": "Hora del Té",
+  "it": "Ora del Tè",
+  "en": "Teatime",
+  "ja": "おちゃかい",
+  "zh-hans": "茶会",
+  "es-419": "Hora del Té"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-pokemon",
+ "effect": {
+  "en": "All Pokemon on the field consume their held berries."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "다과회를 열어서 배틀에 나와 있는 포켓몬이 각각 지니고 있는 나무열매를 먹는다.",
+  "en": "The user has teatime with all the Pokémon currently in the battle. Each Pokémon eats its held Berry."
+ }
+}

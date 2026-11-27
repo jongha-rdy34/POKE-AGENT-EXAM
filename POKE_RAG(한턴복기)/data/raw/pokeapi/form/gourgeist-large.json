@@ -1,0 +1,23 @@
+{
+ "name": "gourgeist-large",
+ "form_name": "large",
+ "names": {
+  "fr": "Banshitrouye Maxi",
+  "de": "Pumpdjinn (L)",
+  "en": "Large Gourgeist"
+ },
+ "form_names": {
+  "ja-hrkt": "おおきいサイズ",
+  "ko": "큰 사이즈",
+  "zh-hant": "大尺寸",
+  "fr": "Taille Maxi",
+  "de": "Größe L",
+  "es": "Tamaño Grande",
+  "it": "Grande",
+  "en": "Large Size",
+  "ja": "おおきいサイズ",
+  "zh-hans": "大尺寸",
+  "es-419": "Tamaño Grande"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,20 @@
+{
+ "name": "drifloon-gas",
+ "names": {
+  "ja-hrkt": "フワンテのガス",
+  "ko": "흔들풍손의가스",
+  "zh-hant": "飄飄球的氣體",
+  "fr": "Gaz de Baudrive",
+  "de": "Driftlon-Gas",
+  "es": "Gas de Drifloon",
+  "it": "Gas di Drifloon",
+  "en": "Drifloon Gas",
+  "ja": "フワンテのガス",
+  "zh-hans": "飘飘球的气体"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

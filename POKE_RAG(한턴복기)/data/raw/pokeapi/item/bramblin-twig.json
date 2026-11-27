@@ -1,0 +1,20 @@
+{
+ "name": "bramblin-twig",
+ "names": {
+  "ja-hrkt": "アノクサのえだ",
+  "ko": "그푸리의가지",
+  "zh-hant": "納噬草的枝條",
+  "fr": "Branche de Virovent",
+  "de": "Weherba-Zweig",
+  "es": "Rama de Bramblin",
+  "it": "Ramoscello di Bramblin",
+  "en": "Bramblin Twig",
+  "ja": "アノクサのえだ",
+  "zh-hans": "纳噬草的枝条"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

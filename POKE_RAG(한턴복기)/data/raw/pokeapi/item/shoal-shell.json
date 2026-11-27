@@ -1,0 +1,30 @@
+{
+ "name": "shoal-shell",
+ "names": {
+  "ja-hrkt": "あさせのかいがら",
+  "ko": "여울조개껍질",
+  "zh-hant": "淺灘貝殼",
+  "fr": "CoquilleTréfonds",
+  "de": "Küstenschale",
+  "es": "Concha Cardumen",
+  "it": "Gusciondoso",
+  "en": "Shoal Shell",
+  "ja": "あさせのかいがら",
+  "zh-hans": "浅滩贝壳",
+  "es-419": "Concha Cardumen"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [
+  "countable"
+ ],
+ "effect": {
+  "fr": "Aucun effet. Gén III : Échange quatre et quatre Sel Tréfonds pour un Grelot Coque.",
+  "en": "No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell."
+ },
+ "flavor": {
+  "en": "A seashell that you found inside Shoal Cave.",
+  "ko": "여울의 동굴에서 발견한 조개껍질.",
+  "ja": "浅瀬の洞穴で みつけた 貝殻。"
+ }
+}

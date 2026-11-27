@@ -1,0 +1,28 @@
+{
+ "name": "tm50",
+ "names": {
+  "ja-hrkt": "わざマシン５０",
+  "ko": "기술머신50",
+  "zh-hant": "招式學習器５０",
+  "fr": "CT50",
+  "de": "TM50",
+  "es": "MT50",
+  "it": "MT50",
+  "en": "TM50",
+  "ja": "わざマシン５０",
+  "zh-hans": "招式学习器５０",
+  "es-419": "MT50"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Surchauffe à un Pokémon compatible. (Gén II: Cauchemar Gén I: Clonage)",
+  "en": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)"
+ },
+ "flavor": {
+  "en": "The user forcefully shoots seeds at the target two to five times in a row.",
+  "ko": "씨앗을 기세 좋게 상대에게 발사하여 공격한다. 2-5회 동안 연속으로 쓴다.",
+  "ja": "タネを 勢いよく 相手に 発射して 攻撃する。 ２ー５回の 間 連続で だす。"
+ }
+}

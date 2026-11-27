@@ -1,0 +1,25 @@
+{
+ "name": "battle-pocket",
+ "names": {
+  "ja-hrkt": "バトルポケット",
+  "ko": "배틀포켓",
+  "zh-hant": "對戰口袋",
+  "fr": "Poche de Combat",
+  "de": "Kampftasche",
+  "es": "Bolsillo Combate",
+  "it": "Tasca lotta",
+  "en": "Battle Pocket",
+  "ja": "バトルポケット",
+  "zh-hans": "对战口袋",
+  "es-419": "Bolsillo Combate"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "- - -",
+  "en": "- - -",
+  "ja": "ー ー ー"
+ }
+}

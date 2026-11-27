@@ -1,0 +1,28 @@
+{
+ "name": "x-speed-3",
+ "names": {
+  "ja-hrkt": "スピーダー３",
+  "ko": "스피드업3",
+  "zh-hant": "速度強化３",
+  "fr": "Vitesse 3",
+  "de": "X-Initiative 3",
+  "es": "Velocidad X 3",
+  "it": "Velocità X-3",
+  "en": "X Speed 3",
+  "ja": "スピーダー３",
+  "zh-hans": "速度强化３",
+  "es-419": "Velocidad X 3"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la Vitesse de trois niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Speed by three stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 스피드를 상당히 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 素早さを かなり あげる。 ひっこめると 元に 戻る。"
+ }
+}

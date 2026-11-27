@@ -1,0 +1,31 @@
+{
+ "name": "charm",
+ "names": {
+  "ja-hrkt": "あまえる",
+  "ko": "애교부리기",
+  "zh-hant": "撒嬌",
+  "fr": "Charme",
+  "de": "Charme",
+  "es": "Encanto",
+  "it": "Fascino",
+  "en": "Charm",
+  "ja": "あまえる",
+  "zh-hans": "撒娇",
+  "es-419": "Encanto"
+ },
+ "type": "fairy",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user gazes at the target rather charmingly, making it less wary. This harshly lowers the target's Attack stat.",
+  "ko": "귀엽게 바라보고 방심을 유도하여 상대의 공격을 크게 떨어뜨린다."
+ }
+}

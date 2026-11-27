@@ -1,0 +1,28 @@
+{
+ "name": "relic-crown",
+ "names": {
+  "ja-hrkt": "こだいのおうかん",
+  "ko": "고대의왕관",
+  "zh-hant": "古代王冠",
+  "fr": "Vieux Tortil",
+  "de": "Alte Krone",
+  "es": "Corona Antigua",
+  "it": "Coronantica",
+  "en": "Relic Crown",
+  "ja": "こだいのおうかん",
+  "zh-hans": "古代王冠",
+  "es-419": "Corona Antigua"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 300000 Pokédollars.",
+  "en": "Sell to Villa Owner for 300000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A heavy crown made by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 만들어진 왕관.",
+  "ja": "３０００年ほど 昔の 文明で つくられた 王冠。"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tadbulb-mucus",
+ "names": {
+  "ja-hrkt": "ズピカのねんえき",
+  "ko": "빈나두의점액",
+  "zh-hant": "光蚪仔的黏液",
+  "fr": "Mucus de Têtampoule",
+  "de": "Blipp-Schleim",
+  "es": "Secreción de Tadbulb",
+  "it": "Muco di Tadbulb",
+  "en": "Tadbulb Mucus",
+  "ja": "ズピカのねんえき",
+  "zh-hans": "光蚪仔的黏液"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,23 @@
+{
+ "name": "steadfast",
+ "names": {
+  "ja-hrkt": "ふくつのこころ",
+  "ko": "불굴의마음",
+  "zh-hant": "不屈之心",
+  "fr": "Impassible",
+  "de": "Felsenfest",
+  "es": "Impasible",
+  "it": "Cuordeciso",
+  "en": "Steadfast",
+  "ja": "ふくつのこころ",
+  "zh-hans": "不屈之心",
+  "es-419": "Impasible"
+ },
+ "effect": {
+  "en": "Raises Speed one stage upon flinching."
+ },
+ "flavor": {
+  "en": "The Pokémon's determination boosts its Speed stat every time it flinches.",
+  "ko": "풀죽을 때마다 불굴의 마음을 불태워 스피드가 올라간다."
+ }
+}

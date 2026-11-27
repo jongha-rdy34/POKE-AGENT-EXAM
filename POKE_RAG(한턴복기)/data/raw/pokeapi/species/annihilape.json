@@ -1,0 +1,37 @@
+{
+ "id": 979,
+ "name": "annihilape",
+ "names": {
+  "ja-hrkt": "コノヨザル",
+  "ja-roma": "Konoyozaru",
+  "ko": "저승갓숭",
+  "zh-hant": "棄世猴",
+  "fr": "Courrousinge",
+  "de": "Epitaff",
+  "es": "Annihilape",
+  "it": "Annihilape",
+  "en": "Annihilape",
+  "ja": "コノヨザル",
+  "zh-hans": "弃世猴",
+  "es-419": "Annihilape"
+ },
+ "genus": {
+  "ja-hrkt": "ふんどざるポケモン",
+  "ko": "분노숭이포켓몬",
+  "zh-hant": "憤怒猴寶可夢",
+  "fr": "Singe Furax",
+  "de": "Zornaffe",
+  "en": "Rage Monkey Pokémon",
+  "zh-hans": "愤怒猴宝可梦"
+ },
+ "flavor": {
+  "en": "It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core."
+ },
+ "varieties": [
+  {
+   "name": "annihilape",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "24"
+}

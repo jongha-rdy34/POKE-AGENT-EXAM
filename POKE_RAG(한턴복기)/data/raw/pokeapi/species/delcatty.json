@@ -1,0 +1,42 @@
+{
+ "id": 301,
+ "name": "delcatty",
+ "names": {
+  "ja-hrkt": "エネコロロ",
+  "ja-roma": "Enekororo",
+  "ko": "델케티",
+  "zh-hant": "優雅貓",
+  "fr": "Delcatty",
+  "de": "Enekoro",
+  "es": "Delcatty",
+  "it": "Delcatty",
+  "en": "Delcatty",
+  "ja": "エネコロロ",
+  "zh-hans": "优雅猫",
+  "es-419": "Delcatty"
+ },
+ "genus": {
+  "ja-hrkt": "おすましポケモン",
+  "ko": "새침떼기포켓몬",
+  "zh-hant": "清高寶可夢",
+  "fr": "Pokémon Guindé",
+  "de": "Eingebildet",
+  "es": "Pokémon Cursi",
+  "it": "Pokémon Finezza",
+  "en": "Prim Pokémon",
+  "ja": "おすましポケモン",
+  "zh-hans": "清高宝可梦",
+  "es-419": "Pokémon Cursi"
+ },
+ "flavor": {
+  "en": "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
+  "ko": "일정한 거처 없이 생활하는 포켓몬이다. 다른 포켓몬이 잠자리에 가까이 다가와도 절대 다투지 않고 이동하여 잔다."
+ },
+ "varieties": [
+  {
+   "name": "delcatty",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "148"
+}

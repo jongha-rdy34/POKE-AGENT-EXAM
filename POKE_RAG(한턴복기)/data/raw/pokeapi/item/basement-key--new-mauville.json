@@ -1,0 +1,28 @@
+{
+ "name": "basement-key--new-mauville",
+ "names": {
+  "ja-hrkt": "ちかのカギ",
+  "ko": "지하열쇠",
+  "zh-hant": "地下鑰匙",
+  "fr": "Clé Sous-Sol",
+  "de": "Kelleröffner",
+  "es": "Llave del Sótano",
+  "it": "Chiave sotterr.",
+  "en": "Basement Key",
+  "ja": "ちかのカギ",
+  "zh-hans": "地下钥匙",
+  "es-419": "Llave del Sótano"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour basement-key--new-mauville",
+  "en": "XXX new effect for basement-key--new-mauville"
+ },
+ "flavor": {
+  "ko": "보라시티 지하에 있는 뉴보라에 들어가기 위한 열쇠다.",
+  "en": "The key to New Mauville, which was constructed beneath Mauville City.",
+  "ja": "キンセツの 地下にある ニューキンセツに 入るための カギ。"
+ }
+}

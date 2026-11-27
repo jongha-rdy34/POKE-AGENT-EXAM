@@ -1,0 +1,22 @@
+{
+ "name": "air-mail",
+ "names": {
+  "ja-hrkt": "エアメール",
+  "fr": "Lettre Avion",
+  "de": "Luftbrief",
+  "es": "Carta Aérea",
+  "it": "Mess. Aereo",
+  "en": "Air Mail",
+  "es-419": "Carta Aérea"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring a print of colorful letter sets. Let a Pokémon hold it for delivery."
+ }
+}

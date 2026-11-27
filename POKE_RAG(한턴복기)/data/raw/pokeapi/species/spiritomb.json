@@ -1,0 +1,42 @@
+{
+ "id": 442,
+ "name": "spiritomb",
+ "names": {
+  "ja-hrkt": "ミカルゲ",
+  "ja-roma": "Mikaruge",
+  "ko": "화강돌",
+  "zh-hant": "花岩怪",
+  "fr": "Spiritomb",
+  "de": "Kryppuk",
+  "es": "Spiritomb",
+  "it": "Spiritomb",
+  "en": "Spiritomb",
+  "ja": "ミカルゲ",
+  "zh-hans": "花岩怪",
+  "es-419": "Spiritomb"
+ },
+ "genus": {
+  "ja-hrkt": "ふういんポケモン",
+  "ko": "봉인포켓몬",
+  "zh-hant": "封印寶可夢",
+  "fr": "Pokémon Interdit",
+  "de": "Verboten-Pokémon",
+  "es": "Pokémon Prohibido",
+  "it": "Pokémon Proibito",
+  "en": "Forbidden Pokémon",
+  "ja": "ふういんポケモン",
+  "zh-hans": "封印宝可梦",
+  "es-419": "Pokémon Prohibido"
+ },
+ "flavor": {
+  "en": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits.",
+  "ko": "나쁜 짓만 일삼다가 신비한 술수를 사용하는 여행자에 의해 쐐기돌에 속박당했다."
+ },
+ "varieties": [
+  {
+   "name": "spiritomb",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "229"
+}

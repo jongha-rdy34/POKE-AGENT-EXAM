@@ -1,0 +1,42 @@
+{
+ "id": 817,
+ "name": "drizzile",
+ "names": {
+  "ja-hrkt": "ジメレオン",
+  "ja-roma": "Jimereon",
+  "ko": "누겔레온",
+  "zh-hant": "變澀蜥",
+  "fr": "Arrozard",
+  "de": "Phlegleon",
+  "es": "Drizzile",
+  "it": "Drizzile",
+  "en": "Drizzile",
+  "ja": "ジメレオン",
+  "zh-hans": "变涩蜥",
+  "es-419": "Drizzile"
+ },
+ "genus": {
+  "ja-hrkt": "みずとかげポケモン",
+  "ko": "물도마뱀포켓몬",
+  "zh-hant": "水蜥寶可夢",
+  "fr": "Pokémon Lézard’Eau",
+  "de": "Wasserechsen-Pokémon",
+  "es": "Pokémon Acuartija",
+  "it": "Pokémon Acquacertola",
+  "en": "Water Lizard Pokémon",
+  "ja": "みずとかげポケモン",
+  "zh-hans": "水蜥宝可梦",
+  "es-419": "Pokémon Acuartija"
+ },
+ "flavor": {
+  "ko": "머리가 좋지만 귀찮음이 많다. 영역에 적이 다가오지 못하게 여기저기에 함정을 만들어 놓는다.",
+  "en": "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere."
+ },
+ "varieties": [
+  {
+   "name": "drizzile",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "432"
+}

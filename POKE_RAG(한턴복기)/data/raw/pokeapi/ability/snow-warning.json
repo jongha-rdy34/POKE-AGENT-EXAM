@@ -1,0 +1,23 @@
+{
+ "name": "snow-warning",
+ "names": {
+  "ja-hrkt": "ゆきふらし",
+  "ko": "눈퍼뜨리기",
+  "zh-hant": "降雪",
+  "fr": "Alerte Neige",
+  "de": "Hagelalarm",
+  "es": "Nevada",
+  "it": "Scendineve",
+  "en": "Snow Warning",
+  "ja": "ゆきふらし",
+  "zh-hans": "降雪",
+  "es-419": "Nevada"
+ },
+ "effect": {
+  "en": "Summons hail that lasts indefinitely upon entering battle."
+ },
+ "flavor": {
+  "en": "The Pokémon makes it snow when it enters a battle.",
+  "ko": "등장했을 때 날씨를 싸라기눈으로 만든다."
+ }
+}

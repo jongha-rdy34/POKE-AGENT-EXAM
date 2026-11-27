@@ -1,0 +1,20 @@
+{
+ "name": "shroodle-ink",
+ "names": {
+  "ja-hrkt": "シルシュルーのインク",
+  "ko": "땃쭈르의잉크",
+  "zh-hant": "滋汁鼴的墨汁",
+  "fr": "Encre de Gribouraigne",
+  "de": "Sproxi-Tinte",
+  "es": "Tinta de Shroodle",
+  "it": "Inchiostro di Shroodle",
+  "en": "Shroodle Ink",
+  "ja": "シルシュルーのインク",
+  "zh-hans": "滋汁鼹的墨汁"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

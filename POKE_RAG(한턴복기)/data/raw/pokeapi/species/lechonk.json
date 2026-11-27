@@ -1,0 +1,37 @@
+{
+ "id": 915,
+ "name": "lechonk",
+ "names": {
+  "ja-hrkt": "グルトン",
+  "ja-roma": "Gourton",
+  "ko": "맛보돈",
+  "zh-hant": "愛吃豚",
+  "fr": "Gourmelet",
+  "de": "Ferkuli",
+  "es": "Lechonk",
+  "it": "Lechonk",
+  "en": "Lechonk",
+  "ja": "グルトン",
+  "zh-hans": "爱吃豚",
+  "es-419": "Lechonk"
+ },
+ "genus": {
+  "ja-hrkt": "ぶたポケモン",
+  "ko": "돼지포켓몬",
+  "zh-hant": "豬寶可夢",
+  "fr": "Pourceau",
+  "de": "Schwein",
+  "en": "Hog Pokémon",
+  "zh-hans": "猪宝可梦"
+ },
+ "flavor": {
+  "en": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest."
+ },
+ "varieties": [
+  {
+   "name": "lechonk",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "481"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 140,
+ "name": "kabuto",
+ "names": {
+  "ja-hrkt": "カブト",
+  "ja-roma": "Kabuto",
+  "ko": "투구",
+  "zh-hant": "化石盔",
+  "fr": "Kabuto",
+  "de": "Kabuto",
+  "es": "Kabuto",
+  "it": "Kabuto",
+  "en": "Kabuto",
+  "ja": "カブト",
+  "zh-hans": "化石盔",
+  "es-419": "Kabuto"
+ },
+ "genus": {
+  "ja-hrkt": "こうらポケモン",
+  "ko": "껍질포켓몬",
+  "zh-hant": "甲殼寶可夢",
+  "fr": "Pokémon Carapace",
+  "de": "Schaltier-Pokémon",
+  "es": "Pokémon Armazón",
+  "it": "Pokémon Crostaceo",
+  "en": "Shellfish Pokémon",
+  "ja": "こうらポケモン",
+  "zh-hans": "甲壳宝可梦",
+  "es-419": "Pokémon Armazón"
+ },
+ "flavor": {
+  "en": "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places.",
+  "ko": "멸종되었다는 이야기가 있지만 일부 지역에서는 제법 많이 목격되는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "kabuto",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "70"
+}

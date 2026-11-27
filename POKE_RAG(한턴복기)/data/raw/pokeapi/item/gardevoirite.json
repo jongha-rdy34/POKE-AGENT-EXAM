@@ -1,0 +1,28 @@
+{
+ "name": "gardevoirite",
+ "names": {
+  "ja-hrkt": "サーナイトナイト",
+  "ko": "가디안나이트",
+  "zh-hant": "沙奈朵進化石",
+  "fr": "Gardevoirite",
+  "de": "Guardevoirnit",
+  "es": "Gardevoirita",
+  "it": "Gardevoirite",
+  "en": "Gardevoirite",
+  "ja": "サーナイトナイト",
+  "zh-hans": "沙奈朵进化石",
+  "es-419": "Gardevoirita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Gardevoir de Méga-Évoluer en Méga-Gardevoir.",
+  "en": "Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir."
+ },
+ "flavor": {
+  "ko": "가디안에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Gardevoir hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "サーナイトに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

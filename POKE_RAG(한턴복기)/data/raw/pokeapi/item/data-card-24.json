@@ -1,0 +1,28 @@
+{
+ "name": "data-card-24",
+ "names": {
+  "ja-hrkt": "データカード２４",
+  "ko": "데이터카드24",
+  "zh-hant": "資料卡２４",
+  "fr": "Carte Mémo24",
+  "de": "Datenkarte24",
+  "es": "Tarjeta Datos 24",
+  "it": "Scheda Dati 24",
+  "en": "Data Card 24",
+  "ja": "データカード２４",
+  "zh-hans": "数据卡２４",
+  "es-419": "Tarjeta Datos 24"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier de la Balle au But du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Goal Roll.",
+  "ko": "포켓슬론의 기록이 들어 있다. 스매시골 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 スマッシュゴール １位 回数が 記録された カード。"
+ }
+}

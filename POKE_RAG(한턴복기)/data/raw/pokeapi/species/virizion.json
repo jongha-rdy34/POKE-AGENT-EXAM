@@ -1,0 +1,42 @@
+{
+ "id": 640,
+ "name": "virizion",
+ "names": {
+  "ja-hrkt": "ビリジオン",
+  "ja-roma": "Virizion",
+  "ko": "비리디온",
+  "zh-hant": "畢力吉翁",
+  "fr": "Viridium",
+  "de": "Viridium",
+  "es": "Virizion",
+  "it": "Virizion",
+  "en": "Virizion",
+  "ja": "ビリジオン",
+  "zh-hans": "毕力吉翁",
+  "es-419": "Virizion"
+ },
+ "genus": {
+  "ja-hrkt": "そうげんポケモン",
+  "ko": "초원포켓몬",
+  "zh-hant": "草原寶可夢",
+  "fr": "Pokémon Plaine Verte",
+  "de": "Wiesen-Pokémon",
+  "es": "Pokémon Prado",
+  "it": "Pokémon Prateria",
+  "en": "Grassland Pokémon",
+  "ja": "そうげんポケモン",
+  "zh-hans": "草原宝可梦",
+  "es-419": "Pokémon Prado"
+ },
+ "flavor": {
+  "en": "It darts around opponents with a flurry of quick movements, slicing them up with its horns.",
+  "ko": "회오리바람처럼 재빠른 몸동작으로 적을 농락하고 예리한 뿔로 가차 없이 베어버린다."
+ },
+ "varieties": [
+  {
+   "name": "virizion",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "327"
+}

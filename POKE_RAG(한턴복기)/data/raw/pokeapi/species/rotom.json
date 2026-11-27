@@ -1,0 +1,62 @@
+{
+ "id": 479,
+ "name": "rotom",
+ "names": {
+  "ja-hrkt": "ロトム",
+  "ja-roma": "Rotom",
+  "ko": "로토무",
+  "zh-hant": "洛托姆",
+  "fr": "Motisma",
+  "de": "Rotom",
+  "es": "Rotom",
+  "it": "Rotom",
+  "en": "Rotom",
+  "ja": "ロトム",
+  "zh-hans": "洛托姆",
+  "es-419": "Rotom"
+ },
+ "genus": {
+  "ja-hrkt": "プラズマポケモン",
+  "ko": "플라스마포켓몬",
+  "zh-hant": "等離子寶可夢",
+  "fr": "Pokémon Plasma",
+  "de": "Plasma-Pokémon",
+  "es": "Pokémon Plasma",
+  "it": "Pokémon Plasma",
+  "en": "Plasma Pokémon",
+  "ja": "プラズマポケモン",
+  "zh-hans": "等离子宝可梦",
+  "es-419": "Pokémon Plasma"
+ },
+ "flavor": {
+  "en": "This bizarre Pokémon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous.",
+  "ko": "플라스마로 된 몸으로 다양한 기계에 숨는다. 놀라게 하는 걸 매우 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "rotom",
+   "is_default": true
+  },
+  {
+   "name": "rotom-heat",
+   "is_default": false
+  },
+  {
+   "name": "rotom-wash",
+   "is_default": false
+  },
+  {
+   "name": "rotom-frost",
+   "is_default": false
+  },
+  {
+   "name": "rotom-fan",
+   "is_default": false
+  },
+  {
+   "name": "rotom-mow",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "240"
+}

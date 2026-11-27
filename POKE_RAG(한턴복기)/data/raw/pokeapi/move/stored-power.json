@@ -1,0 +1,31 @@
+{
+ "name": "stored-power",
+ "names": {
+  "ja-hrkt": "アシストパワー",
+  "ko": "어시스트파워",
+  "zh-hant": "輔助力量",
+  "fr": "Force Ajoutée",
+  "de": "Kraftvorrat",
+  "es": "Poder Reserva",
+  "it": "Veicolaforza",
+  "en": "Stored Power",
+  "ja": "アシストパワー",
+  "zh-hans": "辅助力量",
+  "es-419": "Poder Acumulado"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 20,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Power is higher the more the user’s stats have been raised, to a maximum of 31×."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target with stored power. The more the user's stats are boosted, the greater the move's power.",
+  "ko": "축적된 파워로 상대를 공격한다. 자신의 능력이 올라가 있는 만큼 위력이 오른다."
+ }
+}

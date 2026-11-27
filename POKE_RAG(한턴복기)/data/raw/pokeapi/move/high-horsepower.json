@@ -1,0 +1,31 @@
+{
+ "name": "high-horsepower",
+ "names": {
+  "ja-hrkt": "１０まんばりき",
+  "ko": "10만마력",
+  "zh-hant": "十萬馬力",
+  "fr": "Cavalerie Lourde",
+  "de": "Pferdestärke",
+  "es": "Fuerza Equina",
+  "it": "Forza Equina",
+  "en": "High Horsepower",
+  "ja": "１０まんばりき",
+  "zh-hans": "十万马力",
+  "es-419": "Fuerza Equina"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": 95,
+ "accuracy": 95,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "온몸을 써서 상대에게 맹렬히 어택한다.",
+  "en": "The user fiercely attacks the target using its entire body."
+ }
+}

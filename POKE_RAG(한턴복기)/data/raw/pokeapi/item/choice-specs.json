@@ -1,0 +1,31 @@
+{
+ "name": "choice-specs",
+ "names": {
+  "ja-hrkt": "こだわりメガネ",
+  "ko": "구애안경",
+  "zh-hant": "講究眼鏡",
+  "fr": "Lunettes Choix",
+  "de": "Wahlbrille",
+  "es": "Gafas Elección",
+  "it": "Lentiscelta",
+  "en": "Choice Specs",
+  "ja": "こだわりメガネ",
+  "zh-hans": "讲究眼镜",
+  "es-419": "Gafas Elección"
+ },
+ "category": "choice",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente l'Attaque Spéciale de 50%, mais restreint le porteur a seulement une capacité.",
+  "en": "Held: Increases Special Attack by 50%, but restricts the holder to only one move."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. These curious glasses boost Sp. Atk but only allow the use of one move.",
+  "ko": "기술을 구애받는 안경. 지니게 하면 특수공격이 올라가지만 같은 기술밖에 쓸 수 없다.",
+  "ja": "ちょっと こだわった メガネ。 持たせると 特攻は あがるが 同じ 技しか だせなくなる。"
+ }
+}

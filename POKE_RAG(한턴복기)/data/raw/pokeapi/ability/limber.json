@@ -1,0 +1,23 @@
+{
+ "name": "limber",
+ "names": {
+  "ja-hrkt": "じゅうなん",
+  "ko": "유연",
+  "zh-hant": "柔軟",
+  "fr": "Échauffement",
+  "de": "Flexibilität",
+  "es": "Flexibilidad",
+  "it": "Scioltezza",
+  "en": "Limber",
+  "ja": "じゅうなん",
+  "zh-hans": "柔软",
+  "es-419": "Flexibilidad"
+ },
+ "effect": {
+  "en": "Prevents paralysis."
+ },
+ "flavor": {
+  "en": "The Pokémon's limber body prevents it from being paralyzed.",
+  "ko": "유연한 몸으로 인해 마비 상태가 되지 않는다."
+ }
+}

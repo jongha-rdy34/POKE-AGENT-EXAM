@@ -1,0 +1,28 @@
+{
+ "name": "tm91",
+ "names": {
+  "ja-hrkt": "わざマシン９１",
+  "ko": "기술머신91",
+  "zh-hant": "招式學習器９１",
+  "fr": "CT91",
+  "de": "TM91",
+  "es": "MT91",
+  "it": "MT91",
+  "en": "TM91",
+  "ja": "わざマシン９１",
+  "zh-hans": "招式学习器９１",
+  "es-419": "MT91"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Luminocanon à un Pokémon compatible.",
+  "en": "Teaches Flash Cannon to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.",
+  "ko": "5턴 동안 땅에 있으면 선제공격을 받지 않는다. 에스퍼타입의 위력이 올라간다.",
+  "ja": "５ターンの間 地面にいると 先制技を 受けない。 エスパータイプの 威力が あがる。"
+ }
+}

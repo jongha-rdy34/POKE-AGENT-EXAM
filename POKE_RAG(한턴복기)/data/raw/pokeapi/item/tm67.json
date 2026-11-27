@@ -1,0 +1,28 @@
+{
+ "name": "tm67",
+ "names": {
+  "ja-hrkt": "わざマシン６７",
+  "ko": "기술머신67",
+  "zh-hant": "招式學習器６７",
+  "fr": "CT67",
+  "de": "TM67",
+  "es": "MT67",
+  "it": "MT67",
+  "en": "TM67",
+  "ja": "わざマシン６７",
+  "zh-hans": "招式学习器６７",
+  "es-419": "MT67"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Vengeance à un Pokémon compatible. (Gén IV: Recyclage)",
+  "en": "Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)"
+ },
+ "flavor": {
+  "en": "The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.",
+  "ko": "냉기를 품은 이빨로 문다. 상대를 풀죽게 하거나 얼음 상태로 만들 때가 있다.",
+  "ja": "冷気を ひめた キバで かみつく。 相手を ひるませたり こおり状態に することが ある。"
+ }
+}

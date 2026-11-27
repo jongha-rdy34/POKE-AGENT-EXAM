@@ -1,0 +1,20 @@
+{
+ "name": "yogurt",
+ "names": {
+  "ja-hrkt": "ヨーグルト",
+  "ko": "요구르트",
+  "zh-hant": "優格",
+  "fr": "Yaourt",
+  "de": "Joghurt",
+  "es": "Yogur",
+  "it": "Yogurt",
+  "en": "Yogurt",
+  "ja": "ヨーグルト",
+  "zh-hans": "酸奶"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

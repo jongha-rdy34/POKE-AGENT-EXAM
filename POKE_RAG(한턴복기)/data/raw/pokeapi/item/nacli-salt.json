@@ -1,0 +1,20 @@
+{
+ "name": "nacli-salt",
+ "names": {
+  "ja-hrkt": "コジオのしお",
+  "ko": "베베솔트의소금",
+  "zh-hant": "鹽石寶的鹽",
+  "fr": "Sel de Selutin",
+  "de": "Geosali-Salz",
+  "es": "Sal de Nacli",
+  "it": "Sale di Nacli",
+  "en": "Nacli Salt",
+  "ja": "コジオのしお",
+  "zh-hans": "盐石宝的盐"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,36 @@
+{
+ "id": 906,
+ "name": "sprigatito",
+ "names": {
+  "ja-hrkt": "ニャオハ",
+  "ja-roma": "Nyahoja",
+  "ko": "나오하",
+  "zh-hant": "新葉喵",
+  "fr": "Poussacha",
+  "de": "Felori",
+  "es": "Sprigatito",
+  "it": "Sprigatito",
+  "en": "Sprigatito",
+  "ja": "ニャオハ",
+  "zh-hans": "新叶喵",
+  "es-419": "Sprigatito"
+ },
+ "genus": {
+  "ja-hrkt": "くさねこポケモン",
+  "ko": "풀고양이포켓몬",
+  "zh-hant": "草貓寶可夢",
+  "fr": "Chat Plante",
+  "en": "Grass Cat Pokémon",
+  "zh-hans": "草猫宝可梦"
+ },
+ "flavor": {
+  "en": "The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun."
+ },
+ "varieties": [
+  {
+   "name": "sprigatito",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "478"
+}

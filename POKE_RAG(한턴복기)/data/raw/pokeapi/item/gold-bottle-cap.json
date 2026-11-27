@@ -1,0 +1,28 @@
+{
+ "name": "gold-bottle-cap",
+ "names": {
+  "ja-hrkt": "きんのおうかん",
+  "ko": "금색병뚜껑",
+  "zh-hant": "金色王冠",
+  "fr": "Capsule d’Or",
+  "de": "Goldkronkorken",
+  "es": "Chapa Dorada",
+  "it": "Tappo d’oro",
+  "en": "Gold Bottle Cap",
+  "ja": "きんのおうかん",
+  "zh-hans": "金色王冠",
+  "es-419": "Chapa Dorada"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger à Papi Ultime pour maximiser tous les IV d'un Pokémon.",
+  "en": "Trade to Mr. Hyper to maximize all of a Pokémon’s genes."
+ },
+ "flavor": {
+  "ko": "금색의 아름다운 왕관. 은왕관보다 진귀하다. 받으면 좋아하는 사람도 있다.",
+  "en": "A beautiful bottle cap that gives off a golden gleam. Some people are happy to receive one.",
+  "ja": "金色の きれいな 王冠。 ぎんのおうかんより 珍しい。 渡すと よろこぶ 人もいる。"
+ }
+}

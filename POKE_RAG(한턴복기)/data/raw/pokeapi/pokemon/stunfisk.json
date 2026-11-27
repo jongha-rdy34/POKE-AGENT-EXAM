@@ -1,0 +1,84 @@
+{
+ "id": 618,
+ "name": "stunfisk",
+ "species": "stunfisk",
+ "is_default": true,
+ "types": [
+  "ground",
+  "electric"
+ ],
+ "stats": {
+  "hp": 109,
+  "attack": 66,
+  "defense": 84,
+  "special-attack": 81,
+  "special-defense": 99,
+  "speed": 32
+ },
+ "abilities": [
+  {
+   "name": "static",
+   "hidden": false
+  },
+  {
+   "name": "limber",
+   "hidden": false
+  },
+  {
+   "name": "sand-veil",
+   "hidden": true
+  }
+ ],
+ "height": 7,
+ "weight": 110,
+ "champions_moves": [
+  "attract",
+  "bounce",
+  "bulldoze",
+  "charge",
+  "curse",
+  "dig",
+  "discharge",
+  "earth-power",
+  "earthquake",
+  "eerie-impulse",
+  "electric-terrain",
+  "electroweb",
+  "endure",
+  "facade",
+  "fissure",
+  "flail",
+  "foul-play",
+  "lash-out",
+  "mud-shot",
+  "mud-slap",
+  "muddy-water",
+  "pain-split",
+  "payback",
+  "protect",
+  "rain-dance",
+  "reflect-type",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scald",
+  "sleep-talk",
+  "sludge-bomb",
+  "sludge-wave",
+  "snore",
+  "spite",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sucker-punch",
+  "surf",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt",
+  "uproar",
+  "yawn"
+ ]
+}

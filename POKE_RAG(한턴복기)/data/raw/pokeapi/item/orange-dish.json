@@ -1,0 +1,20 @@
+{
+ "name": "orange-dish",
+ "names": {
+  "ja-hrkt": "オレンジプレート",
+  "ko": "오렌지 플레이트",
+  "zh-hant": "橘色盤子",
+  "fr": "Assiette Orange",
+  "de": "Oranger Teller",
+  "es": "Plato Naranja",
+  "it": "Piatto arancione",
+  "en": "Orange Dish",
+  "ja": "オレンジプレート",
+  "zh-hans": "橘色盘子"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

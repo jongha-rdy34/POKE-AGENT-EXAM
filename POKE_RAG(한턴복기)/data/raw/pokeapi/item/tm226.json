@@ -1,0 +1,19 @@
+{
+ "name": "tm226",
+ "names": {
+  "ko": "기술머신226",
+  "zh-hant": "招式學習器２２６",
+  "fr": "CT226",
+  "de": "TM226",
+  "es": "MT226",
+  "it": "MT226",
+  "en": "TM226",
+  "ja": "わざマシン２２６",
+  "zh-hans": "招式学习器２２６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

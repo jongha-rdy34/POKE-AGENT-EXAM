@@ -1,0 +1,37 @@
+{
+ "id": 993,
+ "name": "iron-jugulis",
+ "names": {
+  "ja-hrkt": "テツノコウベ",
+  "ja-roma": "Tetsunokoube",
+  "ko": "무쇠머리",
+  "zh-hant": "鐵脖頸",
+  "fr": "Têtes-de-Fer",
+  "de": "Eisenhals",
+  "es": "Ferrocuello",
+  "it": "Colloferreo",
+  "en": "Iron Jugulis",
+  "ja": "テツノコウベ",
+  "zh-hans": "铁脖颈",
+  "es-419": "Ferrocuello"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It’s possible that Iron Jugulis, an object described in an old book, may actually be this Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "iron-jugulis",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "524"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "chorizo",
+ "names": {
+  "ja-hrkt": "やきチョリソー",
+  "ko": "구운초리조",
+  "zh-hant": "煎辣香腸",
+  "fr": "Chorizo Grillé",
+  "de": "Chorizo",
+  "es": "Chorizo",
+  "it": "Chorizo rosolato",
+  "en": "Chorizo",
+  "ja": "やきチョリソー",
+  "zh-hans": "煎辣香肠"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,30 @@
+{
+ "name": "custap-berry",
+ "names": {
+  "ja-hrkt": "イバンのみ",
+  "ko": "애슈열매",
+  "zh-hant": "釋陀果",
+  "fr": "Baie Chérim",
+  "de": "Eipfelbeere",
+  "es": "Baya Chiri",
+  "it": "Baccacrela",
+  "en": "Custap Berry",
+  "ja": "イバンのみ",
+  "zh-hans": "释陀果",
+  "es-419": "Baya Chiri"
+ },
+ "category": "in-a-pinch",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Consommé à 1/4 des PV en utilisant une capacité pour être prioritaire.",
+  "en": "Held: Consumed at 1/4 max HP when using a move to go first."
+ },
+ "flavor": {
+  "en": "A Berry to be consumed by Pokémon. If a Pokémon holds one, it will be able to move first just once when it’s in a pinch.",
+  "ko": "포켓몬에게 지니게 하면 위급할 때 한 번만 행동이 빨라진다.",
+  "ja": "ポケモンに 持たせると ピンチのとき １度だけ 行動が 早くなる。"
+ }
+}

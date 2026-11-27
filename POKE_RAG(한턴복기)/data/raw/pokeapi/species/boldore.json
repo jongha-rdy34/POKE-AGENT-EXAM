@@ -1,0 +1,42 @@
+{
+ "id": 525,
+ "name": "boldore",
+ "names": {
+  "ja-hrkt": "ガントル",
+  "ja-roma": "Gantle",
+  "ko": "암트르",
+  "zh-hant": "地幔岩",
+  "fr": "Géolithe",
+  "de": "Sedimantur",
+  "es": "Boldore",
+  "it": "Boldore",
+  "en": "Boldore",
+  "ja": "ガントル",
+  "zh-hans": "地幔岩",
+  "es-419": "Boldore"
+ },
+ "genus": {
+  "ja-hrkt": "こうせきポケモン",
+  "ko": "광석포켓몬",
+  "zh-hant": "礦石寶可夢",
+  "fr": "Pokémon Minerai",
+  "de": "Erz-Pokémon",
+  "es": "Pokémon Mineral",
+  "it": "Pokémon Minerale",
+  "en": "Ore Pokémon",
+  "ja": "こうせきポケモン",
+  "zh-hans": "矿石宝可梦",
+  "es-419": "Pokémon Mineral"
+ },
+ "flavor": {
+  "en": "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing.",
+  "ko": "소리로 주위 상황을 살핀다. 화나게 하면 몸의 방향을 바꾸지 않은 채로 쫓아온다."
+ },
+ "varieties": [
+  {
+   "name": "boldore",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "268"
+}

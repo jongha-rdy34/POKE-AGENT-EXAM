@@ -1,0 +1,42 @@
+{
+ "id": 611,
+ "name": "fraxure",
+ "names": {
+  "ja-hrkt": "オノンド",
+  "ja-roma": "Onondo",
+  "ko": "액슨도",
+  "zh-hant": "斧牙龍",
+  "fr": "Incisache",
+  "de": "Sharfax",
+  "es": "Fraxure",
+  "it": "Fraxure",
+  "en": "Fraxure",
+  "ja": "オノンド",
+  "zh-hans": "斧牙龙",
+  "es-419": "Fraxure"
+ },
+ "genus": {
+  "ja-hrkt": "あごオノポケモン",
+  "ko": "도끼턱포켓몬",
+  "zh-hant": "顎斧寶可夢",
+  "fr": "Pokémon Hachomenton",
+  "de": "Beilkiefer-Pokémon",
+  "es": "Pokémon Boca Hacha",
+  "it": "Pokémon Mascellascia",
+  "en": "Axe Jaw Pokémon",
+  "ja": "あごオノポケモン",
+  "zh-hans": "颚斧宝可梦",
+  "es-419": "Pokémon Boca Hacha"
+ },
+ "flavor": {
+  "en": "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time.",
+  "ko": "갑옷처럼 딱딱한 피부를 가졌다. 몸통박치기와 동시에 어금니로 찌르는 전법이 특기다."
+ },
+ "varieties": [
+  {
+   "name": "fraxure",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "309"
+}

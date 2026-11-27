@@ -1,0 +1,37 @@
+{
+ "id": 981,
+ "name": "farigiraf",
+ "names": {
+  "ja-hrkt": "リキキリン",
+  "ja-roma": "Rikikirin",
+  "ko": "키키링",
+  "zh-hant": "奇麒麟",
+  "fr": "Farigiraf",
+  "de": "Farigiraf",
+  "es": "Farigiraf",
+  "it": "Farigiraf",
+  "en": "Farigiraf",
+  "ja": "リキキリン",
+  "zh-hans": "奇麒麟",
+  "es-419": "Farigiraf"
+ },
+ "genus": {
+  "ja-hrkt": "くびながポケモン",
+  "ko": "긴목포켓몬",
+  "zh-hant": "長頸寶可夢",
+  "fr": "Long-Cou",
+  "de": "Langhals",
+  "en": "Long Neck Pokémon",
+  "zh-hans": "长颈宝可梦"
+ },
+ "flavor": {
+  "en": "The hardened head from the tail protects the head of the main body as Farigiraf whips its long neck around to headbutt enemies."
+ },
+ "varieties": [
+  {
+   "name": "farigiraf",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "101"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "yellow-cup",
+ "names": {
+  "ja-hrkt": "イエローカップ",
+  "ko": "옐로 컵",
+  "zh-hant": "黃色水杯",
+  "fr": "Tasse Jaune",
+  "de": "Gelbe Tasse",
+  "es": "Taza Amarilla",
+  "it": "Tazza gialla",
+  "en": "Yellow Cup",
+  "ja": "イエローカップ",
+  "zh-hans": "黄色水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

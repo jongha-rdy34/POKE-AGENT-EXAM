@@ -1,0 +1,28 @@
+{
+ "name": "rule-book",
+ "names": {
+  "ja-hrkt": "ルールブック",
+  "ko": "룰북",
+  "zh-hant": "規則書",
+  "fr": "Livre Règles",
+  "de": "Regelbuch",
+  "es": "Reglamento",
+  "it": "Libro Regole",
+  "en": "Rule Book",
+  "ja": "ルールブック",
+  "zh-hans": "规则书",
+  "es-419": "Reglamento"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Liste des types de combats et leurs règles.",
+  "en": "List of battle types and their rules."
+ },
+ "flavor": {
+  "en": "It lists the rules for holding battles. For Link Battles, you may choose which set of rules you wish to use.",
+  "ko": "대전에 대한 룰이 적혀 있다. 통신대전을 할 때 룰을 선택할 수 있다.",
+  "ja": "対戦の ルールが かかれている。 通信対戦するとき ルールを 選ぶことが できる。"
+ }
+}

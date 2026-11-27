@@ -1,0 +1,42 @@
+{
+ "id": 72,
+ "name": "tentacool",
+ "names": {
+  "ja-hrkt": "メノクラゲ",
+  "ja-roma": "Menokurage",
+  "ko": "왕눈해",
+  "zh-hant": "瑪瑙水母",
+  "fr": "Tentacool",
+  "de": "Tentacha",
+  "es": "Tentacool",
+  "it": "Tentacool",
+  "en": "Tentacool",
+  "ja": "メノクラゲ",
+  "zh-hans": "玛瑙水母",
+  "es-419": "Tentacool"
+ },
+ "genus": {
+  "ja-hrkt": "くらげポケモン",
+  "ko": "해파리포켓몬",
+  "zh-hant": "水母寶可夢",
+  "fr": "Pokémon Mollusque",
+  "de": "Quallen-Pokémon",
+  "es": "Pokémon Medusa",
+  "it": "Pokémon Medusa",
+  "en": "Jellyfish Pokémon",
+  "ja": "くらげポケモン",
+  "zh-hans": "水母宝可梦",
+  "es-419": "Pokémon Medusa"
+ },
+ "flavor": {
+  "en": "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated.",
+  "ko": "몸의 대부분이 수분이어서 바닷속에서는 물과 동화되어 매우 구분하기 힘들다."
+ },
+ "varieties": [
+  {
+   "name": "tentacool",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "30"
+}

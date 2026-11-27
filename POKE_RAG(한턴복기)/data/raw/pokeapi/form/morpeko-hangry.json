@@ -1,0 +1,23 @@
+{
+ "name": "morpeko-hangry",
+ "form_name": "hangry",
+ "names": {
+  "fr": "Morpeko Affamé",
+  "de": "Morpeko (Kohldampf)",
+  "en": "Hangry Morpeko"
+ },
+ "form_names": {
+  "ja-hrkt": "はらぺこもよう",
+  "ko": "배고픈 모양",
+  "zh-hant": "空腹花紋",
+  "fr": "Mode Affamé",
+  "de": "Kohldampfmuster",
+  "es": "Forma Voraz",
+  "it": "Motivo Panciavuota",
+  "en": "Hangry Mode",
+  "ja": "はらぺこもよう",
+  "zh-hans": "空腹花纹",
+  "es-419": "Forma Voraz"
+ },
+ "is_mega": false
+}

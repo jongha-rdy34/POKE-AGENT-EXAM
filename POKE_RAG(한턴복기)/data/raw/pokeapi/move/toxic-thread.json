@@ -1,0 +1,31 @@
+{
+ "name": "toxic-thread",
+ "names": {
+  "ja-hrkt": "どくのいと",
+  "ko": "독실",
+  "zh-hant": "毒絲",
+  "fr": "Fil Toxique",
+  "de": "Giftfaden",
+  "es": "Hilo Venenoso",
+  "it": "Velenotela",
+  "en": "Toxic Thread",
+  "ja": "どくのいと",
+  "zh-hans": "毒丝",
+  "es-419": "Hilo Venenoso"
+ },
+ "type": "poison",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Poisons the target and lowers its Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "독이 섞인 실을 뿜어낸다. 상대를 독 상태로 만들고 스피드를 떨어뜨린다.",
+  "en": "The user shoots poisonous threads to poison the target and lower the target's Speed stat."
+ }
+}

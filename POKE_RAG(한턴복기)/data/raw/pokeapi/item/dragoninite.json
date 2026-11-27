@@ -1,0 +1,20 @@
+{
+ "name": "dragoninite",
+ "names": {
+  "ko": "망나뇽나이트",
+  "zh-hant": "快龍進化石",
+  "fr": "Dracolossite",
+  "de": "Dragoranit",
+  "es": "Dragonitita",
+  "it": "Dragonitite",
+  "en": "Dragoninite",
+  "ja": "カイリュナイト",
+  "zh-hans": "快龙进化石",
+  "es-419": "Dragonitita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

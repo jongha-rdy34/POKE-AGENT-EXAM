@@ -1,0 +1,28 @@
+{
+ "name": "seal-bag",
+ "names": {
+  "ja-hrkt": "シールぶくろ",
+  "ko": "실주머니",
+  "zh-hant": "貼紙袋",
+  "fr": "Sac Sceaux",
+  "de": "Stickertüte",
+  "es": "Bolsa Sellos",
+  "it": "Bollosacca",
+  "en": "Seal Bag",
+  "ja": "シールぶくろ",
+  "zh-hans": "贴纸袋",
+  "es-419": "Bolsa Sellos"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut contenir jusqu'à 10 Screaux pour les Poké Balls.",
+  "en": "Holds ten Seals for Poké Balls."
+ },
+ "flavor": {
+  "en": "A tiny bag that can hold 10 Seals for decorating Poké Balls.",
+  "ko": "실이 10장 들어가는 작은 주머니.",
+  "ja": "シールが １０枚 いれられる ちっちゃな ふくろ。"
+ }
+}

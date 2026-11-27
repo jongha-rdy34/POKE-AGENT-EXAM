@@ -1,0 +1,20 @@
+{
+ "name": "tm165",
+ "names": {
+  "ja-hrkt": "わざマシン１６５",
+  "ko": "기술머신165",
+  "zh-hant": "招式學習器１６５",
+  "fr": "CT165",
+  "de": "TM165",
+  "es": "MT165",
+  "it": "MT165",
+  "en": "TM165",
+  "ja": "わざマシン１６５",
+  "zh-hans": "招式学习器１６５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

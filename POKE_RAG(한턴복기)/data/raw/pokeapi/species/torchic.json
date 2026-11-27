@@ -1,0 +1,42 @@
+{
+ "id": 255,
+ "name": "torchic",
+ "names": {
+  "ja-hrkt": "アチャモ",
+  "ja-roma": "Achamo",
+  "ko": "아차모",
+  "zh-hant": "火稚雞",
+  "fr": "Poussifeu",
+  "de": "Flemmli",
+  "es": "Torchic",
+  "it": "Torchic",
+  "en": "Torchic",
+  "ja": "アチャモ",
+  "zh-hans": "火稚鸡",
+  "es-419": "Torchic"
+ },
+ "genus": {
+  "ja-hrkt": "ひよこポケモン",
+  "ko": "풋내기포켓몬",
+  "zh-hant": "雛雞寶可夢",
+  "fr": "Pokémon Poussin",
+  "de": "Küken-Pokémon",
+  "es": "Pokémon Polluelo",
+  "it": "Pokémon Pulcino",
+  "en": "Chick Pokémon",
+  "ja": "ひよこポケモン",
+  "zh-hans": "雏鸡宝可梦",
+  "es-419": "Pokémon Polluelo"
+ },
+ "flavor": {
+  "en": "Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.",
+  "ko": "체내에 불꽃을 태우는 곳이 있어서 껴안으면 따끈따끈 정말 따뜻하다. 전신이 푹신푹신한 깃털로 덮여 있다."
+ },
+ "varieties": [
+  {
+   "name": "torchic",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "131"
+}

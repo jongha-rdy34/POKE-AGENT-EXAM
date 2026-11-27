@@ -1,0 +1,42 @@
+{
+ "id": 400,
+ "name": "bibarel",
+ "names": {
+  "ja-hrkt": "ビーダル",
+  "ja-roma": "Beadaru",
+  "ko": "비버통",
+  "zh-hant": "大尾狸",
+  "fr": "Castorno",
+  "de": "Bidifas",
+  "es": "Bibarel",
+  "it": "Bibarel",
+  "en": "Bibarel",
+  "ja": "ビーダル",
+  "zh-hans": "大尾狸",
+  "es-419": "Bibarel"
+ },
+ "genus": {
+  "ja-hrkt": "ビーバーポケモン",
+  "ko": "비버포켓몬",
+  "zh-hant": "河狸寶可夢",
+  "fr": "Pokémon Castor",
+  "de": "Biber",
+  "es": "Pokémon Castor",
+  "it": "Pokémon Castoro",
+  "en": "Beaver Pokémon",
+  "ja": "ビーバーポケモン",
+  "zh-hans": "河狸宝可梦",
+  "es-419": "Pokémon Castor"
+ },
+ "flavor": {
+  "en": "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in.",
+  "ko": "강을 나무줄기나 진흙의 댐으로 막아서 거처를 만든다. 부지런한 일꾼으로 알려져 있다."
+ },
+ "varieties": [
+  {
+   "name": "bibarel",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "207"
+}

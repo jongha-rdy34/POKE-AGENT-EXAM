@@ -1,0 +1,20 @@
+{
+ "name": "big-bamboo-shoot",
+ "names": {
+  "ja-hrkt": "おおきなタケノコ",
+  "ko": "큰죽순",
+  "zh-hant": "大竹筍",
+  "fr": "Gros Bambou",
+  "de": "Riesenbambusspross",
+  "es": "Bambú Grande",
+  "it": "Grande bambù",
+  "en": "Big Bamboo Shoot",
+  "ja": "おおきなタケノコ",
+  "zh-hans": "大竹笋"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

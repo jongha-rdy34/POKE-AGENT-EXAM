@@ -1,0 +1,20 @@
+{
+ "name": "prosciutto",
+ "names": {
+  "ja-hrkt": "なまハム",
+  "ko": "생햄",
+  "zh-hant": "生火腿",
+  "fr": "Jambon Cru",
+  "de": "Roher Schinken",
+  "es": "Jamón Serrano",
+  "it": "Prosciutto crudo",
+  "en": "Prosciutto",
+  "ja": "なまハム",
+  "zh-hans": "生火腿"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

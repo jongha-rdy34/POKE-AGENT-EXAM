@@ -1,0 +1,28 @@
+{
+ "name": "scizorite",
+ "names": {
+  "ja-hrkt": "ハッサムナイト",
+  "ko": "핫삼나이트",
+  "zh-hant": "巨鉗螳螂進化石",
+  "fr": "Cizayoxite",
+  "de": "Scheroxnit",
+  "es": "Scizorita",
+  "it": "Scizorite",
+  "en": "Scizorite",
+  "ja": "ハッサムナイト",
+  "zh-hans": "巨钳螳螂进化石",
+  "es-419": "Scizorita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Cizayox de Méga-Évoluer en Méga-Cizayox.",
+  "en": "Held: Allows Scizor to Mega Evolve into Mega Scizor."
+ },
+ "flavor": {
+  "ko": "핫삼에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Scizor hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ハッサムに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

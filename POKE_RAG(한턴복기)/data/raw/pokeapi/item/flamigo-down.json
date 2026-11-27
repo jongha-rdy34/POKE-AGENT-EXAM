@@ -1,0 +1,20 @@
+{
+ "name": "flamigo-down",
+ "names": {
+  "ja-hrkt": "カラミンゴのうもう",
+  "ko": "꼬이밍고의솜털",
+  "zh-hant": "纏紅鶴的羽絨",
+  "fr": "Duvet de Flamenroule",
+  "de": "Flaminkno-Daune",
+  "es": "Plumón de Flamigo",
+  "it": "Piuma di Flamigo",
+  "en": "Flamigo Down",
+  "ja": "カラミンゴのうもう",
+  "zh-hans": "缠红鹤的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

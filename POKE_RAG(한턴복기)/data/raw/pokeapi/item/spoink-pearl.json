@@ -1,0 +1,20 @@
+{
+ "name": "spoink-pearl",
+ "names": {
+  "ja-hrkt": "バネブーのしんじゅ",
+  "ko": "피그점프의진주",
+  "zh-hant": "跳跳豬的珍珠",
+  "fr": "Perle de Spoink",
+  "de": "Spoink-Perle",
+  "es": "Perla de Spoink",
+  "it": "Perla di Spoink",
+  "en": "Spoink Pearl",
+  "ja": "バネブーのしんじゅ",
+  "zh-hans": "跳跳猪的珍珠"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

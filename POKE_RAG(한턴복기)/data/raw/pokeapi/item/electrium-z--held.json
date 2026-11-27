@@ -1,0 +1,28 @@
+{
+ "name": "electrium-z--held",
+ "names": {
+  "ja-hrkt": "デンキＺ",
+  "ko": "전기Z",
+  "zh-hant": "電Ｚ",
+  "fr": "Voltazélite",
+  "de": "Voltium Z",
+  "es": "Electrostal Z",
+  "it": "Electrium Z",
+  "en": "Electrium Z",
+  "ja": "デンキＺ",
+  "zh-hans": "电Ｚ",
+  "es-419": "Electrostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Électrik.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Electric moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 전기타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Electric-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 でんきタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

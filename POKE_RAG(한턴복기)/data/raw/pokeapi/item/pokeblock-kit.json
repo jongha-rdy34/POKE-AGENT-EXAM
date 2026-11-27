@@ -1,0 +1,28 @@
+{
+ "name": "pokeblock-kit",
+ "names": {
+  "ja-hrkt": "ポロックキット",
+  "ko": "포켓몬스낵키트",
+  "zh-hant": "寶可方塊組合",
+  "fr": "Kit Pokébloc",
+  "de": "Pokériegel-Set",
+  "es": "Kit de Pokécubos",
+  "it": "Kit Pokémelle",
+  "en": "Pokéblock Kit",
+  "ja": "ポロックキット",
+  "zh-hans": "宝可方块套装",
+  "es-419": "Kit de Pokécubos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Crée et stocke les Pokéblocs.",
+  "en": "Creates and stores Pokéblocks."
+ },
+ "flavor": {
+  "ko": "나무열매로 포켓몬스넥을 만드는 나무열매블렌더와 만들어진 포켓몬스넥을 저장하는 포켓몬스넥케이스 세트.",
+  "en": "A set containing a Berry Blender for making Pokéblocks and a Pokéblock Case for storing Pokéblocks.",
+  "ja": "きのみから ポロックを 作る きのみブレンダーと できたポロックを 保存する ポロックケースの セット。"
+ }
+}

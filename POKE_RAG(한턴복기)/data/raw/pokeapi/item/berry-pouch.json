@@ -1,0 +1,22 @@
+{
+ "name": "berry-pouch",
+ "names": {
+  "ja-hrkt": "きのみぶくろ",
+  "fr": "Sac à Baies",
+  "de": "Beerentüte",
+  "es": "Saco Bayas",
+  "it": "Portabacche",
+  "en": "Berry Pouch",
+  "es-419": "Saco Bayas"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Stocke les baies.",
+  "en": "Holds berries."
+ },
+ "flavor": {
+  "en": "A pouch for carrying BERRIES. It is attached to the BAG’s compartment for important items."
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "id": 518,
+ "name": "musharna",
+ "species": "musharna",
+ "is_default": true,
+ "types": [
+  "psychic"
+ ],
+ "stats": {
+  "hp": 116,
+  "attack": 55,
+  "defense": 85,
+  "special-attack": 107,
+  "special-defense": 95,
+  "speed": 29
+ },
+ "abilities": [
+  {
+   "name": "forewarn",
+   "hidden": false
+  },
+  {
+   "name": "synchronize",
+   "hidden": false
+  },
+  {
+   "name": "telepathy",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 605,
+ "champions_moves": [
+  "ally-switch",
+  "amnesia",
+  "attract",
+  "calm-mind",
+  "charge-beam",
+  "charm",
+  "curse",
+  "dazzling-gleam",
+  "double-team",
+  "endure",
+  "energy-ball",
+  "expanding-force",
+  "facade",
+  "future-sight",
+  "giga-impact",
+  "guard-swap",
+  "gyro-ball",
+  "healing-wish",
+  "helping-hand",
+  "hyper-beam",
+  "hypnosis",
+  "imprison",
+  "light-screen",
+  "misty-explosion",
+  "moonblast",
+  "moonlight",
+  "power-swap",
+  "protect",
+  "psychic",
+  "psychic-terrain",
+  "psyshock",
+  "rain-dance",
+  "reflect",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "safeguard",
+  "shadow-ball",
+  "skill-swap",
+  "sleep-talk",
+  "snore",
+  "stored-power",
+  "substitute",
+  "thunder-wave",
+  "trick",
+  "trick-room",
+  "wonder-room",
+  "yawn",
+  "zen-headbutt"
+ ]
+}

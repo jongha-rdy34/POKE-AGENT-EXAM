@@ -1,0 +1,13 @@
+{
+ "name": "mimikyu-totem-busted",
+ "form_name": "totem-busted",
+ "names": {
+  "fr": "Mimiqui Dominant Forme Démasquée",
+  "de": "Totem Mimigma (Entlarvt)",
+  "en": "Totem Busted Mimikyu"
+ },
+ "form_names": {
+  "de": "Totemform"
+ },
+ "is_mega": false
+}

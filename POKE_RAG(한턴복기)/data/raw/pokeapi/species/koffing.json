@@ -1,0 +1,42 @@
+{
+ "id": 109,
+ "name": "koffing",
+ "names": {
+  "ja-hrkt": "ドガース",
+  "ja-roma": "Dogars",
+  "ko": "또가스",
+  "zh-hant": "瓦斯彈",
+  "fr": "Smogo",
+  "de": "Smogon",
+  "es": "Koffing",
+  "it": "Koffing",
+  "en": "Koffing",
+  "ja": "ドガース",
+  "zh-hans": "瓦斯弹",
+  "es-419": "Koffing"
+ },
+ "genus": {
+  "ja-hrkt": "どくガスポケモン",
+  "ko": "독가스포켓몬",
+  "zh-hant": "毒氣寶可夢",
+  "fr": "Pokémon Gaz Mortel",
+  "de": "Giftwolken-Pokémon",
+  "es": "Pokémon Gas Venenoso",
+  "it": "Pokémon Velenuvola",
+  "en": "Poison Gas Pokémon",
+  "ja": "どくガスポケモン",
+  "zh-hans": "毒气宝可梦",
+  "es-419": "Pokémon Gas Venenoso"
+ },
+ "flavor": {
+  "en": "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now.",
+  "ko": "오염된 공기를 좋아한다. 옛날 가라르지방에는 지금보다 많은 또가스가 있었다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "koffing",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "49"
+}

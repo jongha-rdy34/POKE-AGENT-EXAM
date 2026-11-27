@@ -1,0 +1,970 @@
+{
+ "summary": {
+  "cases": 35,
+  "gold_computable_mismatch": [],
+  "field_accuracy": {
+   "type": "30/35",
+   "actor": "19/21",
+   "attacker": "18/20",
+   "defender": "19/21",
+   "move_key": "22/24",
+   "kind": "21/25",
+   "names": "1/3",
+   "hp_band": "7/8",
+   "my_sp": "3/3",
+   "opp_sp": "1/1"
+  },
+  "all_correct": "26/35",
+  "fail_reasons": [],
+  "computable_extracted_ok": "20/20"
+ },
+ "cases": [
+  {
+   "id": "A1",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "golisopod-mega",
+     "opp_form_key": "farigiraf",
+     "move_key": "leech-life",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "50-75"
+     },
+     "actor": "me"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "A2",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "toxapex",
+     "move_key": "kowtow-cleave",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "<25"
+     },
+     "actor": "opp"
+    },
+    "missing": [
+     "opp_form_key"
+    ],
+    "ask": [
+     "actual"
+    ],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "defender": true,
+    "move_key": true,
+    "kind": false
+   }
+  },
+  {
+   "id": "A3",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "sylveon",
+     "move_key": "hyper-voice",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [
+     "opp_form_key"
+    ],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "names": true,
+    "move_key": true,
+    "kind": true
+   }
+  },
+  {
+   "id": "A4",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": false,
+    "names": false,
+    "move_key": false,
+    "kind": false
+   }
+  },
+  {
+   "id": "A5",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": false
+   }
+  },
+  {
+   "id": "A6",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "A7",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": false,
+    "kind": false
+   }
+  },
+  {
+   "id": "A9",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "A10",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "B5",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": false,
+    "kind": false
+   }
+  },
+  {
+   "id": "N5",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "N11",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "N12",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "N13",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "golisopod-mega",
+     "opp_form_key": "farigiraf",
+     "move_key": "leech-life",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "25-50"
+     },
+     "actor": "me"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "N15",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": false,
+    "names": false,
+    "move_key": false
+   }
+  },
+  {
+   "id": "N16",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "N21",
+   "gold_runs": "incomplete",
+   "computable": false,
+   "got": {
+    "type": "rule",
+    "reason": null,
+    "fields": {},
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true
+   }
+  },
+  {
+   "id": "T9",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "rotom",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "75+"
+     },
+     "actor": "me"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W1",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "dragonite",
+     "move_key": "outrage",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W2",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "archaludon",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "50-75"
+     },
+     "actor": "me",
+     "my_build": {
+      "sp": {
+       "atk": 20
+      }
+     }
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true,
+    "my_sp": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W3",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "dragapult",
+     "move_key": "dragon-darts",
+     "actual": {
+      "kind": "outsped"
+     },
+     "actor": "opp",
+     "my_build": {
+      "sp": {
+       "atk": 32,
+       "spe": 32,
+       "hp": 2
+      }
+     }
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "my_sp": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W4",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "dragonite",
+     "opp_form_key": "scizor",
+     "move_key": "bullet-punch",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "50-75"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [
+     "actual"
+    ],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W5",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "azumarill",
+     "opp_form_key": "garchomp",
+     "move_key": "aqua-jet",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "25-50"
+     },
+     "actor": "me"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W6",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "dragonite",
+     "opp_form_key": "garchomp",
+     "move_key": "outrage",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "<25"
+     },
+     "actor": "opp",
+     "my_build": {
+      "sp": {
+       "hp": 32,
+       "def": 32
+      }
+     }
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true,
+    "my_sp": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W7",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "scizor",
+     "opp_form_key": "incineroar",
+     "move_key": "flare-blitz",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W8",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "garchomp",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [
+     "actor"
+    ],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W9",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "dragonite",
+     "opp_form_key": "sylveon",
+     "move_key": "hyper-voice",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W10",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "dragapult",
+     "opp_form_key": "charizard-mega-y",
+     "move_key": "dragon-darts",
+     "actual": {
+      "kind": "outsped"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": false,
+    "attacker": false,
+    "defender": false,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W11",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "archaludon",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "outsped"
+     },
+     "actor": "me",
+     "opp_sp": {
+      "spe": 32
+     }
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "opp_sp": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W12",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "aegislash-shield",
+     "opp_form_key": "samurott",
+     "move_key": "knock-off",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "50-75"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W13",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "azumarill",
+     "opp_form_key": "rotom-wash",
+     "move_key": "thunderbolt",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "ok"
+  },
+  {
+   "id": "W14",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "dragonite",
+     "opp_form_key": "garchomp",
+     "move_key": "outrage",
+     "actual": {
+      "kind": "ko"
+     },
+     "actor": "opp",
+     "flags": [
+      "crit"
+     ]
+    },
+    "missing": [],
+    "ask": [
+     "move_key"
+    ],
+    "notes": [
+     "문장에서 기술 '역린'를 찾았어요. 맞는지 확인해 주세요"
+    ],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "reference_only"
+  },
+  {
+   "id": "W15",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "archaludon",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "outsped"
+     },
+     "actor": "opp",
+     "flags": [
+      "trick_room"
+     ]
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": false,
+    "attacker": false,
+    "defender": false,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "reference_only"
+  },
+  {
+   "id": "W16",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "incineroar",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "survived"
+     },
+     "actor": "me",
+     "flags": [
+      "stat_stage"
+     ]
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true
+   },
+   "extracted_runs": "reference_only"
+  },
+  {
+   "id": "W17",
+   "gold_runs": "ok",
+   "computable": true,
+   "got": {
+    "type": "review",
+    "fields": {
+     "my_form_key": "garchomp",
+     "opp_form_key": "dragonite",
+     "move_key": "earthquake",
+     "actual": {
+      "kind": "survived",
+      "hp_band": "50-75"
+     },
+     "actor": "me"
+    },
+    "missing": [],
+    "ask": [],
+    "notes": [],
+    "llm_calls": 1
+   },
+   "score": {
+    "type": true,
+    "actor": true,
+    "attacker": true,
+    "defender": true,
+    "move_key": true,
+    "kind": true,
+    "hp_band": false
+   },
+   "extracted_runs": "ok"
+  }
+ ]
+}

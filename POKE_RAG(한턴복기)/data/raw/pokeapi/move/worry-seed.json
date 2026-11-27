@@ -1,0 +1,31 @@
+{
+ "name": "worry-seed",
+ "names": {
+  "ja-hrkt": "なやみのタネ",
+  "ko": "고민씨",
+  "zh-hant": "煩惱種子",
+  "fr": "Soucigraine",
+  "de": "Sorgensamen",
+  "es": "Abatidoras",
+  "it": "Affannoseme",
+  "en": "Worry Seed",
+  "ja": "なやみのタネ",
+  "zh-hans": "烦恼种子",
+  "es-419": "Abatidoras"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Changes the target’s ability to Insomnia."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia.",
+  "ko": "마음을 괴롭히는 씨앗을 심는다. 상대를 잠잘 수 없게 해서 특성을 불면으로 만든다."
+ }
+}

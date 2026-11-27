@@ -1,0 +1,15 @@
+{
+ "name": "victreebel-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Empiflor",
+  "en": "Mega Victreebel"
+ },
+ "form_names": {
+  "ja-hrkt": "メガウツボット",
+  "fr": "Méga-Empiflor",
+  "en": "Mega Victreebel",
+  "ja": "メガウツボット"
+ },
+ "is_mega": true
+}

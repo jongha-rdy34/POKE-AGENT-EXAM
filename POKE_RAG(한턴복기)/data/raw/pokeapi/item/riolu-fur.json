@@ -1,0 +1,20 @@
+{
+ "name": "riolu-fur",
+ "names": {
+  "ja-hrkt": "リオルのけ",
+  "ko": "리오르의털",
+  "zh-hant": "利歐路的毛",
+  "fr": "Poils de Riolu",
+  "de": "Riolu-Haar",
+  "es": "Pelo de Riolu",
+  "it": "Pelo di Riolu",
+  "en": "Riolu Fur",
+  "ja": "リオルのけ",
+  "zh-hans": "利欧路的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,15 @@
+{
+ "name": "crabominable-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Crabominable",
+  "en": "Mega Crabominable"
+ },
+ "form_names": {
+  "ja-hrkt": "メガケケンカニ",
+  "fr": "Méga-Crabominable",
+  "en": "Mega Crabominable",
+  "ja": "メガケケンカニ"
+ },
+ "is_mega": true
+}

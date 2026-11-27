@@ -1,0 +1,42 @@
+{
+ "id": 763,
+ "name": "tsareena",
+ "names": {
+  "ja-hrkt": "アマージョ",
+  "ja-roma": "Amajo",
+  "ko": "달코퀸",
+  "zh-hant": "甜冷美后",
+  "fr": "Sucreine",
+  "de": "Fruyal",
+  "es": "Tsareena",
+  "it": "Tsareena",
+  "en": "Tsareena",
+  "ja": "アマージョ",
+  "zh-hans": "甜冷美后",
+  "es-419": "Tsareena"
+ },
+ "genus": {
+  "ja-hrkt": "フルーツポケモン",
+  "ko": "후르츠포켓몬",
+  "zh-hant": "水果寶可夢",
+  "fr": "Pokémon Fruit",
+  "de": "Obst-Pokémon",
+  "es": "Pokémon Fruto",
+  "it": "Pokémon Frutto",
+  "en": "Fruit Pokémon",
+  "ja": "フルーツポケモン",
+  "zh-hans": "水果宝可梦",
+  "es-419": "Pokémon Fruto"
+ },
+ "flavor": {
+  "ko": "단단하고 뾰족한 발끝으로 킥을 먹여서 상대의 몸과 마음에 지워지지 않는 상처를 남긴다.",
+  "en": "A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal."
+ },
+ "varieties": [
+  {
+   "name": "tsareena",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "392"
+}

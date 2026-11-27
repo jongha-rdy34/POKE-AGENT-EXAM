@@ -1,0 +1,20 @@
+{
+ "name": "flower-pattern-cup",
+ "names": {
+  "ja-hrkt": "フラワーカップ",
+  "ko": "플라워 컵",
+  "zh-hant": "花朵水杯",
+  "fr": "Tasse à Fleurs",
+  "de": "Blümchen-Tasse",
+  "es": "Taza Flores",
+  "it": "Tazza a fiori",
+  "en": "Flower Pattern Cup",
+  "ja": "フラワーカップ",
+  "zh-hans": "花朵水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

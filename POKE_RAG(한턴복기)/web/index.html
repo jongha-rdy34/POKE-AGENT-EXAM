@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>한 턴 복기</title>
+<!-- 시안 docs/designs/prototype/review-tab.html을 실제 API(server/app.py)에 붙인 화면. 디자인 기준: DESIGN.md, docs/designs/HANDOFF-design-parallel.md -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+/* 색 배치는 ../../../DESIGN.md: 청록(--accent)은 1순위 난수 띠·포커스·제품 표식에만. 주 버튼은 거의 검정(--primary). */
+:root {
+  --bg: #f6f7f7; --text: #15191b; --muted: #525a61; --line: #d9dee1;
+  --primary: #15191b; --on-primary: #ffffff;
+  --accent: #0d6453; --chip: #e9eced; --roll: #3b4349;
+  --warn: #875200; --danger: #b0261b;
+  --r-sm: 4px; --r-md: 6px; --r-full: 9999px;
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=light]) {
+    --bg: #101315; --text: #e5e8ea; --muted: #a1a9af; --line: #2b3135;
+    --primary: #e5e8ea; --on-primary: #101315;
+    --accent: #46c2a6; --chip: #1d2225; --roll: #c3cacf;
+    --warn: #efb45c; --danger: #ff8b7d;
+    color-scheme: dark;
+  }
+}
+:root[data-theme=dark] {
+  --bg: #101315; --text: #e5e8ea; --muted: #a1a9af; --line: #2b3135;
+  --primary: #e5e8ea; --on-primary: #101315;
+  --accent: #46c2a6; --chip: #1d2225; --roll: #c3cacf;
+  --warn: #efb45c; --danger: #ff8b7d;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 400 16px/26px "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  font-variant-numeric: tabular-nums; caret-color: var(--accent);
+  word-break: keep-all; overflow-wrap: break-word;
+}
+::selection { background: var(--accent); color: var(--bg); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a { color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
+main { max-width: 720px; margin: 0 auto; padding: var(--s5) var(--s4) 120px; }
+.shell { display: flex; align-items: center; gap: var(--s3); padding-bottom: var(--s4); border-bottom: 1px solid var(--line); margin-bottom: var(--s5); }
+.mark { display: inline-grid; grid-template-columns: repeat(5, 4px); gap: 2px; }
+.mark i { height: 18px; border: 1px solid var(--roll); }
+.mark i.on { background: var(--accent); border-color: var(--accent); }
+.brand-name { font-size: 22px; line-height: 30px; font-weight: 700; }
+h1 { font-size: 22px; line-height: 30px; font-weight: 700; margin: 0 0 var(--s4); }
+.muted { color: var(--muted); }
+.small { font-size: 14px; line-height: 22px; }
+.hidden { display: none !important; }
+button, input, select, textarea { font: inherit; color: inherit; }
+button { min-height: 44px; padding: 0 var(--s4); border: 1px solid var(--muted); background: transparent; border-radius: var(--r-md); cursor: pointer; }
+button.primary { background: var(--primary); color: var(--on-primary); border-color: var(--primary); font-weight: 700; min-width: 160px; }
+button:disabled, button.primary:disabled { background: transparent; border-color: var(--line); color: var(--muted); cursor: not-allowed; }
+button.link { border: 0; padding: 0; min-height: 0; color: var(--text); text-decoration: underline; text-underline-offset: 3px; }
+/* 확인 단계가 열리면 주 버튼은 「이대로 복기」 하나 (화면당 하나) */
+#askView:has(#confirmView:not(.hidden)) #askBtn { background: transparent; color: var(--text); border-color: var(--muted); font-weight: 400; }
+label { display: block; font-size: 14px; line-height: 22px; font-weight: 500; color: var(--muted); margin-bottom: var(--s1); }
+input[type=text], select, textarea { width: 100%; min-height: 44px; padding: 0 var(--s3); border: 1px solid var(--muted); border-radius: var(--r-sm); background: var(--bg); }
+textarea { padding: var(--s3); min-height: 96px; resize: vertical; line-height: 26px; }
+.field-error { color: var(--danger); font-size: 14px; line-height: 22px; margin-top: var(--s1); }
+input[aria-invalid=true] { border-color: var(--danger); }
+.hint, .reason { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s1); }
+.hint.warn { color: var(--warn); }
+.hint.danger { color: var(--danger); }
+.reason { margin: var(--s2) 0 0; }
+.examples { display: flex; flex-wrap: wrap; gap: var(--s2); margin-top: var(--s2); }
+.examples button { font-size: 14px; }
+.row-actions { display: flex; gap: var(--s2); flex-wrap: wrap; margin-top: var(--s4); }
+.consent { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s2); }
+
+/* 「더 정확하게」(DR20: 접힘) */
+details.more { margin-top: var(--s4); border-top: 1px solid var(--line); }
+details.more > summary { min-height: 44px; padding: var(--s2) 0; display: flex; align-items: center; cursor: pointer; }
+.matchup { display: grid; grid-template-columns: 1fr auto 1fr; gap: var(--s3); align-items: end; margin-top: var(--s3); }
+.matchup > *, .row2 > *, .more-grid > * { min-width: 0; }
+.role b { color: var(--text); }
+.swap { width: 44px; padding: 0; font-size: 22px; }
+.row2 { display: grid; grid-template-columns: 1fr 1.6fr; gap: var(--s3); margin-top: var(--s4); }
+fieldset { border: 0; padding: 0; margin: 0; }
+legend { font-size: 14px; line-height: 22px; font-weight: 500; color: var(--muted); padding: 0; margin-bottom: var(--s1); }
+.group-title { font-size: 14px; line-height: 22px; font-weight: 700; margin: var(--s2) 0 var(--s1); }
+.choice { display: flex; align-items: center; gap: var(--s2); min-height: 44px; margin: 0; color: var(--text); font-size: 16px; font-weight: 400; }
+.choice input { width: 20px; height: 20px; accent-color: var(--primary); margin: 0; }
+.chips-hp { display: flex; flex-wrap: wrap; gap: var(--s2); margin: 0 0 var(--s2) 28px; }
+.chips-hp label { margin: 0; color: var(--text); font-size: 14px; }
+.chips-hp input { position: absolute; opacity: 0; }
+.chips-hp span { display: inline-flex; align-items: center; min-height: 44px; padding: 0 var(--s3); border: 1px solid var(--muted); border-radius: var(--r-md); }
+.chips-hp input:checked + span { background: var(--chip); border-color: var(--text); font-weight: 700; }
+.chips-hp input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 2px; }
+.more-grid { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s4); padding: var(--s4) 0; }
+.more-grid .full { grid-column: 1 / -1; }
+.flag-groups { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s3); }
+.flag-groups > div { min-width: 0; }
+
+/* combobox (DR13) */
+.combo { position: relative; }
+.combo ul { position: absolute; left: 0; right: 0; top: 100%; z-index: 5; margin: var(--s1) 0 0; padding: var(--s1) 0; list-style: none; background: var(--bg); border: 1px solid var(--muted); border-radius: var(--r-sm); max-height: 260px; overflow: auto; }
+.combo li { min-height: 44px; display: flex; align-items: center; gap: var(--s2); padding: 0 var(--s3); cursor: pointer; }
+.combo li[aria-selected=true] { background: var(--chip); }
+.combo li .t { font-size: 14px; color: var(--muted); }
+.combo li.empty { cursor: default; color: var(--muted); }
+.combo .sheet-head { display: none; }
+
+/* 확인 단계 (C1-1): 구분 기호는 다음 칩에 붙어 함께 넘어간다 */
+.confirm { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: var(--s4) 0; margin-top: var(--s4); }
+.confirm .label { font-size: 14px; line-height: 22px; color: var(--muted); margin: 0; }
+.sentence { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s2); margin: var(--s2) 0; }
+.seg { display: inline-flex; align-items: center; gap: var(--s2); white-space: nowrap; }
+.chip { min-height: 40px; padding: 0 var(--s3); border-radius: var(--r-full); background: var(--chip); border: 1px solid transparent; font-weight: 700; }
+.chip.missing { background: transparent; border: 1px dashed var(--danger); color: var(--danger); font-weight: 400; }
+.chip.flag { font-weight: 400; font-size: 14px; }
+.chip.check { border-color: var(--warn); }
+.chip-tag { font-size: 14px; font-weight: 400; color: var(--warn); }
+.swap-row { margin: var(--s2) 0 0; }
+.extract-notes { list-style: none; margin: var(--s2) 0 0; padding: 0; font-size: 14px; line-height: 22px; }
+.arrow { color: var(--muted); }
+.source-quote { font-size: 14px; line-height: 22px; color: var(--muted); }
+
+/* 결과 (DR3·C-O1·C-O3) */
+.turn-summary { display: flex; flex-wrap: wrap; gap: var(--s2); align-items: center; padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.turn-summary .txt { font-weight: 700; }
+.progress { color: var(--muted); margin: var(--s5) 0; }
+.notice { padding: var(--s3) 0; border-bottom: 1px solid var(--line); margin: 0; }
+.notice.warn { color: var(--warn); }
+.notice.danger { color: var(--danger); }
+.conclusion { font-size: 26px; line-height: 34px; font-weight: 700; letter-spacing: -0.01em; margin: var(--s5) 0 var(--s2); }
+.badge { display: inline-block; font-size: 14px; line-height: 20px; font-weight: 700; color: var(--warn); border: 1px solid currentColor; border-radius: var(--r-sm); padding: 0 6px; vertical-align: 4px; margin-left: var(--s2); white-space: nowrap; letter-spacing: 0; }
+.season, .assume, .excluded { font-size: 14px; line-height: 22px; color: var(--muted); }
+.assume { margin-top: var(--s2); }
+/* 원인 순위: 순위 | 도구·성립 조건 | 난수 띠 + 글자. 폰에서는 세 줄 */
+.causes-cap { font-size: 14px; line-height: 22px; color: var(--muted); margin: var(--s4) 0 0; padding-bottom: var(--s2); border-bottom: 1px solid var(--line); }
+ol.causes { list-style: none; margin: 0; padding: 0; }
+ol.causes li { display: grid; grid-template-columns: 24px 1fr auto; grid-template-areas: "rank item rolls" "rank spread rolls"; column-gap: var(--s3); padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.rank { grid-area: rank; color: var(--muted); font-weight: 700; }
+.item { grid-area: item; font-weight: 700; }
+.spread { grid-area: spread; font-size: 14px; line-height: 22px; color: var(--muted); }
+.rollcell { grid-area: rolls; display: flex; align-items: center; gap: var(--s2); justify-self: end; }
+.rolls { display: inline-grid; grid-template-columns: repeat(16, 8px); gap: 2px; }
+.rolls i { height: 14px; border: 1px solid var(--roll); border-radius: 1px; }
+.rolls i.on { background: var(--roll); }
+.lead .rolls i { border-color: var(--accent); }
+.lead .rolls i.on { background: var(--accent); }
+/* 글자 폭을 고정해 행마다 띠의 왼쪽 끝을 맞춘다 ("16번 중 11번 한 방" 기준) */
+.rolltxt { font-size: 14px; line-height: 22px; white-space: nowrap; min-width: 6em; text-align: right; }
+.excluded { margin-top: var(--s2); }
+/* 도구로 구분 불가: 순위 칸 없이 나열 */
+ol.causes.flat li { grid-template-columns: 1fr auto; grid-template-areas: "item rolls" "spread rolls"; }
+/* 두 기준(D31·D32): 우선순위대로 위아래. 위 = 실제 랭크배틀(주 기준), 아래 = Showdown 시뮬레이터(참고). 같으면 아래 기준은 접힌다 */
+.bases { margin-top: var(--s5); }
+.basis-head { font-size: 16px; line-height: 26px; font-weight: 700; margin: 0; }
+.basis-src, .diff-note, .roll-legend { font-size: 14px; line-height: 22px; color: var(--muted); margin: 0; }
+.roll-legend { margin-top: var(--s3); }
+/* 아래 기준은 굵은 구분선과 넓은 여백으로 떼고, 기준이 왜 다른지 한 줄을 먼저 둔다 */
+.basis.sub { margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--line); }
+.diff-note { margin-top: var(--s2); color: var(--text); }
+.other-basis .basis { padding-bottom: var(--s3); }
+/* 결과 구역 제목: 결론(26) 아래 단계(22). 계산표와 통계 원인표를 나눈다 */
+.section-title { font-size: 22px; line-height: 30px; font-weight: 700; margin: var(--s6) 0 var(--s1); padding-top: var(--s4); border-top: 1px solid var(--line); }
+/* 계산표(P0): 한 줄 = 빌드 이름 / 데미지 범위 + 띠 + 결과 / 통계 표기 */
+.calc-rows { list-style: none; margin: var(--s3) 0 0; padding: 0; border-top: 1px solid var(--line); }
+.calc-rows li { padding: var(--s3) 0; border-bottom: 1px solid var(--line); }
+.calc-rows p { margin: 0; }
+.calc-label { font-size: 14px; line-height: 22px; font-weight: 500; }
+.calc-rows .calc-line { display: flex; flex-wrap: wrap; align-items: center; column-gap: var(--s3); row-gap: var(--s1); margin-top: var(--s1); }
+.calc-main { font-size: 16px; line-height: 26px; font-weight: 700; min-width: 8.5em; }
+.calc-res { font-size: 14px; line-height: 22px; }
+.calc-rows .calc-meta { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s1); }
+.calc-group { font-size: 16px; line-height: 26px; font-weight: 700; margin: var(--s5) 0 0; }
+.calc-group .badge { vertical-align: 2px; }
+.calc-empty { margin: var(--s3) 0 0; }
+/* 처음 3줄만 보이고 나머지는 접는다(폰에서 통계 구역까지 너무 멀어서) */
+details.calc-fold { margin-top: 0; border-top: 0; }
+details.calc-fold .calc-rows { margin-top: 0; border-top: 0; }
+.calc-more { margin-top: var(--s2); }
+.other-basis .basis.sub { margin-top: 0; padding-top: var(--s2); border-top: 0; }
+/* 넓은 화면(1200px+)에서 결과가 다르면 이 영역만 1104px로 넓혀 좌우 배열. 720px 안의 두 열은 줄이 너무 좁다 */
+@media (min-width: 1200px) {
+  /* .two는 화면 코드가 differs일 때 붙인다(:has()는 친구 기기 브라우저 지원을 확인 못 해서 배치에 쓰지 않는다) */
+  .bases.two { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s6); width: 1104px; margin-left: calc((100% - 1104px) / 2); }
+  .bases .basis.sub { margin-top: 0; padding: 0 0 0 var(--s6); border-top: 0; border-left: 1px solid var(--line); }
+}
+.u7 { font-size: 14px; line-height: 22px; color: var(--muted); margin-top: var(--s3); }
+details.fold { margin-top: var(--s5); border-top: 1px solid var(--line); }
+details.fold > summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; }
+details.fold h3 { font-size: 14px; line-height: 22px; font-weight: 700; margin: var(--s3) 0 var(--s1); }
+details.fold ul, details.fold ol { margin: 0; padding-left: 20px; font-size: 14px; line-height: 22px; }
+details.fold li { margin-bottom: var(--s1); }
+.cite { font-size: 14px; white-space: nowrap; }
+.cite-item.flash { outline: 2px solid var(--accent); outline-offset: 2px; }
+.feedback { margin-top: var(--s5); padding-top: var(--s3); border-top: 1px solid var(--line); font-size: 14px; line-height: 22px; }
+.feedback .btns { display: flex; gap: var(--s2); margin-top: var(--s2); }
+.feedback button { font-size: 14px; }
+.rule-answer { margin-top: var(--s4); }
+.rule-answer .switch { font-size: 14px; line-height: 22px; color: var(--muted); padding-bottom: var(--s3); border-bottom: 1px solid var(--line); }
+
+
+/* 403 전체 화면 */
+.gate { text-align: left; padding: var(--s6) 0; }
+.gate h1 { margin-bottom: var(--s2); }
+
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 599px) {
+  .row2, .more-grid, .flag-groups { grid-template-columns: 1fr; }
+  .conclusion { font-size: 22px; line-height: 30px; }
+  .row-actions button { flex: 1; }
+  ol.causes li { grid-template-columns: 24px 1fr; grid-template-areas: "rank item" "rank rolls" "rank spread"; row-gap: var(--s1); }
+  .rollcell { justify-self: start; }
+  .rolls { grid-template-columns: repeat(16, 7px); }
+  .rolltxt { min-width: 0; }
+  ol.causes.flat li { grid-template-columns: 1fr; grid-template-areas: "item" "rolls" "spread"; }
+  .combo.open { position: fixed; inset: 0; z-index: 20; background: var(--bg); padding: var(--s3) var(--s4); }
+  .combo.open .sheet-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: var(--s2); }
+  .combo.open ul { position: static; max-height: none; border: 0; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .appear { animation: appear .24s ease-out; }
+  @keyframes appear { from { opacity: .4; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+  /* 유일한 연출: 난수 띠가 왼쪽부터 한 칸씩 채워진다 */
+  .appear .rolls i.on { animation: fill .12s ease-out both; animation-delay: calc(var(--i) * 35ms); }
+  @keyframes fill { from { background: transparent; } }
+}
+</style>
+</head>
+<body>
+<main>
+  <header class="shell">
+    <span class="mark" aria-hidden="true"><i class="on"></i><i class="on"></i><i class="on"></i><i></i><i></i></span>
+    <span class="brand-name">한 턴 복기</span>
+  </header>
+
+  <section id="askView" aria-labelledby="askTitle">
+    <h1 id="askTitle">어떤 한 턴이 납득 안 되나요?</h1>
+    <p id="listNotice" class="notice hidden" role="status"></p>
+    <form id="askForm" novalidate>
+      <label for="nlInput">무슨 일이 있었는지 적어 주세요</label>
+      <textarea id="nlInput" maxlength="300" aria-describedby="nlStatus" placeholder="예: 상대 망나뇽 역린에 내 한카리아스가 한 방에 쓰러졌어"></textarea>
+      <div class="examples" aria-label="예시 문장">
+        <button type="button" data-ex="상대 망나뇽 역린에 내 한카리아스가 한 방에 쓰러졌어">한 방에 쓰러짐</button>
+        <button type="button" data-ex="내가 더 빠를 텐데 상대 망나뇽이 먼저 움직였어">상대가 먼저 움직임</button>      </div>
+      <p id="nlStatus" class="hint" aria-live="polite"></p>
+
+      <details class="more" id="moreBox">
+        <summary>아래의 사항을 기록해주시면 더 정확한 답변이 가능합니다 (포켓몬·기술·결과·빌드·특수 상황)</summary>
+        <div class="matchup">
+          <div>
+            <label for="meInput">내 포켓몬 · <span class="role" id="meRole"><b>방어</b></span></label>
+            <div class="combo" id="meCombo"></div>
+          </div>
+          <button type="button" class="swap" id="swapBtn" aria-label="공격 측 바꾸기, 지금: 상대가 공격">⇄</button>
+          <div>
+            <label for="oppInput">상대 포켓몬 · <span class="role" id="oppRole"><b>공격</b></span></label>
+            <div class="combo" id="oppCombo"></div>
+          </div>
+        </div>
+        <div class="row2">
+          <div>
+            <label for="moveInput">기술</label>
+            <div class="combo" id="moveCombo"></div>
+            <p class="hint" id="moveHint">공격한 포켓몬을 먼저 골라 주세요</p>
+          </div>
+          <fieldset aria-describedby="resultHint">
+            <legend>실제 결과</legend>
+            <p class="hint" id="resultHint" style="margin-top:0">가장 납득 안 되는 것 하나</p>
+            <div role="group" aria-labelledby="g1">
+              <p class="group-title" id="g1">맞은 결과</p>
+              <label class="choice"><input type="radio" name="actual" value="ko"><span data-t="ko"></span></label>
+              <label class="choice"><input type="radio" name="actual" value="survived"><span data-t="survived"></span></label>
+              <div class="chips-hp hidden" id="hpChips" role="radiogroup" aria-label="맞은 뒤 남은 HP">
+                <label><input type="radio" name="hp_band" value="75+"><span>75% 이상</span></label>
+                <label><input type="radio" name="hp_band" value="50-75"><span>50–75%</span></label>
+                <label><input type="radio" name="hp_band" value="25-50"><span>25–50%</span></label>
+                <label><input type="radio" name="hp_band" value="-25"><span>25% 미만</span></label>
+              </div>
+            </div>
+            <div role="group" aria-labelledby="g2">
+              <p class="group-title" id="g2">행동 순서</p>
+              <label class="choice"><input type="radio" name="actual" value="outsped"><span data-t="outsped"></span></label>
+              <label class="choice"><input type="radio" name="actual" value="slower"><span data-t="slower"></span></label>
+            </div>
+          </fieldset>
+        </div>
+        <div class="more-grid">
+          <div>
+            <label for="mySp"><span data-t="mySpLabel"></span></label>
+            <input type="text" id="mySp" placeholder="예: A20 S32" aria-describedby="mySpHint mySpErr" autocomplete="off">
+            <p class="hint" id="mySpHint">H·A·B·C·D·S + 숫자, 스탯당 0~32, 합계 66 이하</p>
+            <p class="field-error hidden" id="mySpErr"></p>
+          </div>
+          <div>
+            <label for="oppSp"><span data-t="oppSpLabel"></span></label>
+            <input type="text" id="oppSp" placeholder="모르면 비워 두세요" aria-describedby="oppSpErr" autocomplete="off">
+            <p class="field-error hidden" id="oppSpErr"></p>
+          </div>
+          <div>
+            <label for="myNature">내 성격</label>
+            <select id="myNature"><option value="">통계 기준으로 가정</option><option value="adamant">고집</option><option value="jolly">명랑</option><option value="modest">조심</option><option value="timid">겁쟁이</option><option value="careful">신중</option><option value="bold">대담</option><option value="impish">장난꾸러기</option><option value="calm">차분</option></select>
+          </div>
+          <div>
+            <label for="myItem">내 도구</label>
+            <select id="myItem"><option value="">통계 기준으로 가정</option><option value="choice-scarf">구애스카프</option><option value="life-orb">생명의구슬</option><option value="focus-sash">기합의띠</option><option value="expert-belt">달인의띠</option><option value="leftovers">먹다남은음식</option><option value="sitrus-berry">자뭉열매</option><option value="none">도구 없음</option></select>
+          </div>
+          <div>
+            <label for="preHp">맞기 전 HP</label>
+            <select id="preHp"><option value="">가득 (기본)</option><option value="0.75">약 3/4</option><option value="0.5">약 절반</option><option value="0.25">약 1/4</option></select>
+          </div>
+          <fieldset class="full">
+            <legend>있었던 것만 체크 (기억 안 나면 비워도 돼요)</legend>
+            <div class="flag-groups">
+              <div data-group="status"><p class="group-title">포켓몬 상태</p>
+                <label class="choice" data-flag="crit"><input type="checkbox" name="flags" value="crit"><span>급소</span></label>
+                <label class="choice" data-flag="burn"><input type="checkbox" name="flags" value="burn"><span>화상</span></label>
+                <label class="choice" data-flag="stat_stage"><input type="checkbox" name="flags" value="stat_stage"><span>능력이 오르거나 내려감</span></label>
+                <label class="choice" data-flag="tera"><input type="checkbox" name="flags" value="tera"><span>테라스탈</span></label>
+              </div>
+              <div data-group="field"><p class="group-title">필드</p>
+                <label class="choice" data-flag="weather"><input type="checkbox" name="flags" value="weather"><span>날씨</span></label>
+                <label class="choice" data-flag="terrain"><input type="checkbox" name="flags" value="terrain"><span>필드</span></label>
+                <label class="choice" data-flag="reflect"><input type="checkbox" name="flags" value="reflect"><span>리플렉터</span></label>
+                <label class="choice" data-flag="light_screen"><input type="checkbox" name="flags" value="light_screen"><span>빛의장막</span></label>
+              </div>
+              <div data-group="order"><p class="group-title">행동 순서</p>
+                <label class="choice" data-flag="trick_room"><input type="checkbox" name="flags" value="trick_room"><span>트릭룸</span></label>
+                <label class="choice" data-flag="tailwind"><input type="checkbox" name="flags" value="tailwind"><span>순풍</span></label>
+              </div>
+            </div>
+          </fieldset>
+        </div>
+      </details>
+
+      <div class="row-actions"><button type="submit" class="primary" id="askBtn">복기하기</button></div>
+      <p class="hint" id="quotaLine"></p>
+      <p class="consent">복기 내용은 개선을 위해 기록돼요 · <button type="button" class="link" id="deleteReq">삭제 요청</button></p>
+    </form>
+
+    <section id="confirmView" class="confirm hidden" aria-labelledby="confirmTitle">
+      <p class="label" id="confirmTitle">이렇게 이해했어요. 틀린 곳은 눌러서 고쳐 주세요</p>
+      <div class="sentence" id="sentence"></div>
+      <div class="sentence" id="flagChips"></div>
+      <ul class="extract-notes" id="extractNotes"></ul>
+      <p class="source-quote" id="sourceQuote"></p>
+      <div class="row-actions">
+        <button type="button" class="primary" id="goBtn" aria-describedby="goReason">이대로 복기</button>
+        <button type="button" id="moreBtn">더 정확하게 적기</button>
+      </div>
+      <p class="reason" id="goReason"></p>
+      <!-- 서버 ask에 actor가 오면(누가 공격했는지 불확실) 공격 측 바꾸기를 확인 단계에 바로 보인다 -->
+      <p class="swap-row hidden" id="swapRow"><button type="button" id="confirmSwap">공격 측 바꾸기 ⇄</button></p>
+    </section>
+
+    <!-- /api/chat 이 없는 동안: 규칙 질문은 준비 중 안내 + 복기로 되돌리기만 -->
+    <section id="ruleView" class="rule-answer hidden" aria-label="규칙 질문">
+      <p>규칙 질문 답변은 아직 준비 중이에요. 실제로 있었던 한 턴(누가 어떤 기술로 어떻게 됐는지)을 적어 주시면 복기해 드릴게요.</p>
+      <p class="switch">한 턴을 복기하려던 거예요? <button type="button" class="link" id="toReview">복기로 바꾸기</button></p>
+    </section>
+  </section>
+
+  <section id="gateView" class="gate hidden" aria-labelledby="gateTitle">
+    <h1 id="gateTitle">초대 링크로 접속해 주세요</h1>
+    <p class="muted">이 복기 서비스는 지금 초대받은 분만 쓸 수 있어요. 받은 링크를 다시 열어 주세요.</p>
+  </section>
+
+  <section id="resultView" class="hidden" aria-label="복기 결과">
+    <div class="turn-summary">
+      <span class="txt" id="turnText"></span>
+      <button type="button" class="link" id="editBtn">조건 고치기</button>
+    </div>
+    <div id="resultBody"></div>
+    <div class="row-actions"><button type="button" id="newBtn">새 턴 복기</button></div>
+  </section>
+
+  <p id="live" class="sr-only" aria-live="polite"></p>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

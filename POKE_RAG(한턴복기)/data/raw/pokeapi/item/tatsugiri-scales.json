@@ -1,0 +1,20 @@
+{
+ "name": "tatsugiri-scales",
+ "names": {
+  "ja-hrkt": "シャリタツのウロコ",
+  "ko": "싸리용의비늘",
+  "zh-hant": "米立龍的鱗片",
+  "fr": "Écaille de Nigirigon",
+  "de": "Nigiragi-Schuppe",
+  "es": "Escama de Tatsugiri",
+  "it": "Squama di Tatsugiri",
+  "en": "Tatsugiri Scales",
+  "ja": "シャリタツのウロコ",
+  "zh-hans": "米立龙的鳞片"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

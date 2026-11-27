@@ -1,0 +1,23 @@
+{
+ "name": "oblivious",
+ "names": {
+  "ja-hrkt": "どんかん",
+  "ko": "둔감",
+  "zh-hant": "遲鈍",
+  "fr": "Benêt",
+  "de": "Dösigkeit",
+  "es": "Despiste",
+  "it": "Indifferenza",
+  "en": "Oblivious",
+  "ja": "どんかん",
+  "zh-hans": "迟钝",
+  "es-419": "Despistado"
+ },
+ "effect": {
+  "en": "Prevents infatuation and protects against Captivate."
+ },
+ "flavor": {
+  "en": "The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate.",
+  "ko": "둔감해서 헤롱헤롱이나 도발 상태가 되지 않는다."
+ }
+}

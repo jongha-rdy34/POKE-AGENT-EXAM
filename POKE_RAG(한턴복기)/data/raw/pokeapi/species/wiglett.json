@@ -1,0 +1,37 @@
+{
+ "id": 960,
+ "name": "wiglett",
+ "names": {
+  "ja-hrkt": "ウミディグダ",
+  "ja-roma": "Umidigda",
+  "ko": "바다그다",
+  "zh-hant": "海地鼠",
+  "fr": "Taupikeau",
+  "de": "Schligda",
+  "es": "Wiglett",
+  "it": "Wiglett",
+  "en": "Wiglett",
+  "ja": "ウミディグダ",
+  "zh-hans": "海地鼠",
+  "es-419": "Wiglett"
+ },
+ "genus": {
+  "ja-hrkt": "あなごポケモン",
+  "ko": "정원장어포켓몬",
+  "zh-hant": "糯鰻寶可夢",
+  "fr": "Congre",
+  "de": "Meeraal",
+  "en": "Garden Eel Pokémon",
+  "zh-hans": "糯鳗宝可梦"
+ },
+ "flavor": {
+  "en": "Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation."
+ },
+ "varieties": [
+  {
+   "name": "wiglett",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "502"
+}

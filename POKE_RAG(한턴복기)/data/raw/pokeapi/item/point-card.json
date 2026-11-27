@@ -1,0 +1,28 @@
+{
+ "name": "point-card",
+ "names": {
+  "ja-hrkt": "ポイントカード",
+  "ko": "포인트카드",
+  "zh-hant": "點數卡",
+  "fr": "Carte Points",
+  "de": "Punktekarte",
+  "es": "Tarjeta Puntos",
+  "it": "Scheda Punti",
+  "en": "Point Card",
+  "ja": "ポイントカード",
+  "zh-hans": "点数卡",
+  "es-419": "Tarjeta Puntos"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Compte le nombre de PCo gagnés.",
+  "en": "Keeps count of Battle Points earned."
+ },
+ "flavor": {
+  "en": "A card that lists how many Battle Points you have earned.",
+  "ko": "이겨서 받은 배틀포인트 수를 볼 수 있는 카드.",
+  "ja": "勝ち取った バトルポイントの 数を みることが できる カード。"
+ }
+}

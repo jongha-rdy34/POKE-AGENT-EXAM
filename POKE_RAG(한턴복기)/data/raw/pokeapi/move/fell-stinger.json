@@ -1,0 +1,31 @@
+{
+ "name": "fell-stinger",
+ "names": {
+  "ja-hrkt": "とどめばり",
+  "ko": "마지막일침",
+  "zh-hant": "致命針刺",
+  "fr": "Dard Mortel",
+  "de": "Stachelfinale",
+  "es": "Aguijón Letal",
+  "it": "Pungiglione",
+  "en": "Fell Stinger",
+  "ja": "とどめばり",
+  "zh-hans": "致命针刺",
+  "es-419": "Aguijón Letal"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 25,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Raises the user’s Attack by two stages if it KOs the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "이 기술을 사용하여 상대를 쓰러뜨리면 공격이 매우 크게 오른다.",
+  "en": "When the user knocks out a target with this move, the user's Attack stat is boosted drastically."
+ }
+}

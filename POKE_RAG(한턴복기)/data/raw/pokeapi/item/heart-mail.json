@@ -1,0 +1,22 @@
+{
+ "name": "heart-mail",
+ "names": {
+  "ja-hrkt": "ラブラブメール",
+  "fr": "Lettre Coeur",
+  "de": "Rosabrief",
+  "es": "Car. Corazón",
+  "it": "Mess. Cuore",
+  "en": "Heart Mail",
+  "es-419": "Car. Corazón"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring a print of giant heart patterns. Let a Pokémon hold it for delivery."
+ }
+}

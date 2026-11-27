@@ -1,0 +1,45 @@
+{
+ "id": 1017,
+ "name": "ogerpon",
+ "names": {
+  "ja-hrkt": "オーガポン",
+  "ja-roma": "Ogerpon",
+  "ko": "오거폰",
+  "zh-hant": "厄鬼椪",
+  "fr": "Ogerpon",
+  "de": "Ogerpon",
+  "es": "Ogerpon",
+  "it": "Ogerpon",
+  "en": "Ogerpon",
+  "ja": "オーガポン",
+  "zh-hans": "厄诡椪",
+  "es-419": "Ogerpon"
+ },
+ "genus": {
+  "ko": "가면포켓몬",
+  "fr": "Masque",
+  "en": "Mask Pokémon"
+ },
+ "flavor": {
+  "en": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks."
+ },
+ "varieties": [
+  {
+   "name": "ogerpon",
+   "is_default": true
+  },
+  {
+   "name": "ogerpon-wellspring-mask",
+   "is_default": false
+  },
+  {
+   "name": "ogerpon-hearthflame-mask",
+   "is_default": false
+  },
+  {
+   "name": "ogerpon-cornerstone-mask",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "543"
+}

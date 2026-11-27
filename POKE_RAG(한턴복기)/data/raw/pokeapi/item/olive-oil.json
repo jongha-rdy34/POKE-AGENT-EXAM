@@ -1,0 +1,20 @@
+{
+ "name": "olive-oil",
+ "names": {
+  "ja-hrkt": "オリーブオイル",
+  "ko": "올리브오일",
+  "zh-hant": "橄欖油",
+  "fr": "Huile d'Olive",
+  "de": "Olivenöl",
+  "es": "Aceite de Oliva",
+  "it": "Olio d’oliva",
+  "en": "Olive Oil",
+  "ja": "オリーブオイル",
+  "zh-hans": "橄榄油"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

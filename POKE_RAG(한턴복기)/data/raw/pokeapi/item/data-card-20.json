@@ -1,0 +1,28 @@
+{
+ "name": "data-card-20",
+ "names": {
+  "ja-hrkt": "データカード２０",
+  "ko": "데이터카드20",
+  "zh-hant": "資料卡２０",
+  "fr": "Carte Mémo20",
+  "de": "Datenkarte20",
+  "es": "Tarjeta Datos 20",
+  "it": "Scheda Dati 20",
+  "en": "Data Card 20",
+  "ja": "データカード２０",
+  "zh-hans": "数据卡２０",
+  "es-419": "Tarjeta Datos 20"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé dernier du Pokéathlon en Link.",
+  "en": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many Link Pokéathlon losses you have had.",
+  "ko": "포켓슬론의 기록이 들어 있다. 통신 포켓슬론에서 꼴찌한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 通信ポケスロンの ビリになった 回数が 記録された カード。"
+ }
+}

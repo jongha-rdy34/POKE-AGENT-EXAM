@@ -1,0 +1,25 @@
+{
+ "name": "tauros-candy",
+ "names": {
+  "ja-hrkt": "ケンタロスのアメ",
+  "ko": "켄타로스의사탕",
+  "zh-hant": "肯泰羅的糖果",
+  "fr": "Bonbon Tauros",
+  "de": "Tauros-Bonbon",
+  "es": "Caramelo Tauros",
+  "it": "Caramella Tauros",
+  "en": "Tauros Candy",
+  "ja": "ケンタロスのアメ",
+  "zh-hans": "肯泰罗的糖果",
+  "es-419": "Caramelo Tauros"
+ },
+ "category": "species-candies",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 특정 포켓몬의 모든 능력을 올린다.",
+  "en": "A candy that is packed with energy. When given to certain Pokémon, it will increase all their stats at once.",
+  "ja": "エネルギーの つまった アメ。 特定の ポケモンの 能力を すべて 上げる。"
+ }
+}

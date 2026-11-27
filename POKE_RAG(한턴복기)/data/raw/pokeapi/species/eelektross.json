@@ -1,0 +1,46 @@
+{
+ "id": 604,
+ "name": "eelektross",
+ "names": {
+  "ja-hrkt": "シビルドン",
+  "ja-roma": "Shibirudon",
+  "ko": "저리더프",
+  "zh-hant": "麻麻鰻魚王",
+  "fr": "Ohmassacre",
+  "de": "Zapplarang",
+  "es": "Eelektross",
+  "it": "Eelektross",
+  "en": "Eelektross",
+  "ja": "シビルドン",
+  "zh-hans": "麻麻鳗鱼王",
+  "es-419": "Eelektross"
+ },
+ "genus": {
+  "ja-hrkt": "でんきうおポケモン",
+  "ko": "전기물고기포켓몬",
+  "zh-hant": "電魚寶可夢",
+  "fr": "Pokémon Électrophore",
+  "de": "Stromfisch",
+  "es": "Pokémon Electropez",
+  "it": "Pokémon Elettropesce",
+  "en": "EleFish Pokémon",
+  "ja": "でんきうおポケモン",
+  "zh-hans": "电鱼宝可梦",
+  "es-419": "Pokémon Electropez"
+ },
+ "flavor": {
+  "en": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+  "ko": "팔 힘으로 바다에서 기어 나와 물가에 있는 먹이를 덮친다. 한순간에 바다로 끌고 들어간다."
+ },
+ "varieties": [
+  {
+   "name": "eelektross",
+   "is_default": true
+  },
+  {
+   "name": "eelektross-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "306"
+}

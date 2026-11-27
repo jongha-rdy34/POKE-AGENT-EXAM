@@ -1,0 +1,23 @@
+{
+ "name": "frisk",
+ "names": {
+  "ja-hrkt": "おみとおし",
+  "ko": "통찰",
+  "zh-hant": "察覺",
+  "fr": "Fouille",
+  "de": "Schnüffler",
+  "es": "Cacheo",
+  "it": "Indagine",
+  "en": "Frisk",
+  "ja": "おみとおし",
+  "zh-hans": "察觉",
+  "es-419": "Inspección"
+ },
+ "effect": {
+  "en": "Reveals an opponent's held item upon entering battle."
+ },
+ "flavor": {
+  "en": "When it enters a battle, the Pokémon can check an opposing Pokémon's held item.",
+  "ko": "등장했을 때 상대의 지닌 물건을 통찰할 수 있다."
+ }
+}

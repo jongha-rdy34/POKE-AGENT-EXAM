@@ -1,0 +1,20 @@
+{
+ "name": "tm122",
+ "names": {
+  "ja-hrkt": "わざマシン１２２",
+  "ko": "기술머신122",
+  "zh-hant": "招式學習器１２２",
+  "fr": "CT122",
+  "de": "TM122",
+  "es": "MT122",
+  "it": "MT122",
+  "en": "TM122",
+  "ja": "わざマシン１２２",
+  "zh-hans": "招式学习器１２２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

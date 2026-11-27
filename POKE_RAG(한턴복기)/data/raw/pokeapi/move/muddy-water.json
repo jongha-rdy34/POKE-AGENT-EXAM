@@ -1,0 +1,31 @@
+{
+ "name": "muddy-water",
+ "names": {
+  "ja-hrkt": "だくりゅう",
+  "ko": "탁류",
+  "zh-hant": "濁流",
+  "fr": "Ocroupi",
+  "de": "Lehmbrühe",
+  "es": "Agua Lodosa",
+  "it": "Fanghiglia",
+  "en": "Muddy Water",
+  "ja": "だくりゅう",
+  "zh-hans": "浊流",
+  "es-419": "Agua Lodosa"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 90,
+ "accuracy": 85,
+ "pp": 10,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Has a chance to lower the target’s accuracy by one stage."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "The user attacks by shooting muddy water at opposing Pokémon. This may also lower their accuracy.",
+  "ko": "탁해진 물을 상대에게 발사하여 공격한다. 명중률을 떨어뜨릴 때가 있다."
+ }
+}

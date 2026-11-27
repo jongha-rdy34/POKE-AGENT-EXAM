@@ -1,0 +1,25 @@
+{
+ "name": "tr35",
+ "names": {
+  "ja-hrkt": "わざレコード３５",
+  "ko": "기술레코드35",
+  "zh-hant": "招式紀錄３５",
+  "fr": "DT35",
+  "de": "TP35",
+  "es": "DT35",
+  "it": "DT35",
+  "en": "TR35",
+  "ja": "わざレコード３５",
+  "zh-hans": "招式记录３５",
+  "es-419": "DT35"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "3턴 동안 소란 피워 공격한다. 그동안은 아무도 잠들지 않게 된다.",
+  "en": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.",
+  "ja": "３ターンの 間 騒いで 相手を 攻撃する。 そのあいだは だれも 眠れなくなる。"
+ }
+}

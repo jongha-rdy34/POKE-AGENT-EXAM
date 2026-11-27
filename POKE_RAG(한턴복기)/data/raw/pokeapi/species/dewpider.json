@@ -1,0 +1,42 @@
+{
+ "id": 751,
+ "name": "dewpider",
+ "names": {
+  "ja-hrkt": "シズクモ",
+  "ja-roma": "Shizukumo",
+  "ko": "물거미",
+  "zh-hant": "滴蛛",
+  "fr": "Araqua",
+  "de": "Araqua",
+  "es": "Dewpider",
+  "it": "Dewpider",
+  "en": "Dewpider",
+  "ja": "シズクモ",
+  "zh-hans": "滴蛛",
+  "es-419": "Dewpider"
+ },
+ "genus": {
+  "ja-hrkt": "すいほうポケモン",
+  "ko": "수포포켓몬",
+  "zh-hant": "水泡寶可夢",
+  "fr": "Pokémon Aquabulle",
+  "de": "Wasserblasen-Pokémon",
+  "es": "Pokémon Pompa",
+  "it": "Pokémon Bolladacqua",
+  "en": "Water Bubble Pokémon",
+  "ja": "すいほうポケモン",
+  "zh-hans": "水泡宝可梦",
+  "es-419": "Pokémon Pompa"
+ },
+ "flavor": {
+  "ko": "평소에는 물속에서 생활하지만 먹이를 찾으러 육지로 올라올 때는 수포를 뒤집어쓴다.",
+  "en": "Dewpider normally lives underwater. When it comes onto land in search of food, it takes water with it in the form of a bubble on its head."
+ },
+ "varieties": [
+  {
+   "name": "dewpider",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "387"
+}

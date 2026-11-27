@@ -1,0 +1,42 @@
+{
+ "id": 42,
+ "name": "golbat",
+ "names": {
+  "ja-hrkt": "ゴルバット",
+  "ja-roma": "Golbat",
+  "ko": "골뱃",
+  "zh-hant": "大嘴蝠",
+  "fr": "Nosferalto",
+  "de": "Golbat",
+  "es": "Golbat",
+  "it": "Golbat",
+  "en": "Golbat",
+  "ja": "ゴルバット",
+  "zh-hans": "大嘴蝠",
+  "es-419": "Golbat"
+ },
+ "genus": {
+  "ja-hrkt": "こうもりポケモン",
+  "ko": "박쥐포켓몬",
+  "zh-hant": "蝙蝠寶可夢",
+  "fr": "Pokémon Chovsouris",
+  "de": "Fledermaus-Pokémon",
+  "es": "Pokémon Murciélago",
+  "it": "Pokémon Pipistrello",
+  "en": "Bat Pokémon",
+  "ja": "こうもりポケモン",
+  "zh-hans": "蝙蝠宝可梦",
+  "es-419": "Pokémon Murciélago"
+ },
+ "flavor": {
+  "en": "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws.",
+  "ko": "작은 다리로 능숙하게 걷는다. 자고 있는 먹이에게 살며시 다가가 이빨을 꽂아 피를 빨아먹는다."
+ },
+ "varieties": [
+  {
+   "name": "golbat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "17"
+}

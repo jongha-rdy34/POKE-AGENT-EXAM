@@ -1,0 +1,25 @@
+{
+ "name": "galarica-wreath",
+ "names": {
+  "ja-hrkt": "ガラナツリース",
+  "ko": "가라두구머리장식",
+  "zh-hant": "伽勒荳蔻花圈",
+  "fr": "Couronne Galanoa",
+  "de": "Galarnuss-Kranz",
+  "es": "Corona Galanuez",
+  "it": "Corona Galarnoce",
+  "en": "Galarica Wreath",
+  "ja": "ガラナツリース",
+  "zh-hans": "伽勒豆蔻花圈",
+  "es-419": "Corona Galanuez"
+ },
+ "category": "collectibles",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "가라두구가지를 엮어서 만든 머리 장식. 가라르지방의 야돈에게 씌워주면 기뻐한다.",
+  "en": "A wreath made from woven-together Galarica Twigs. Placing it on the head of a Galarian Slowpoke makes the Pokémon very happy.",
+  "ja": "ガラナツのえだを 編み込んだ 冠。 ガラル地方の ヤドンに かぶせてあげると 喜ぶ。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 575,
+ "name": "gothorita",
+ "names": {
+  "ja-hrkt": "ゴチミル",
+  "ja-roma": "Gothimiru",
+  "ko": "고디보미",
+  "zh-hant": "哥德小童",
+  "fr": "Mesmérella",
+  "de": "Hypnomorba",
+  "es": "Gothorita",
+  "it": "Gothorita",
+  "en": "Gothorita",
+  "ja": "ゴチミル",
+  "zh-hans": "哥德小童",
+  "es-419": "Gothorita"
+ },
+ "genus": {
+  "ja-hrkt": "あやつりポケモン",
+  "ko": "조작포켓몬",
+  "zh-hant": "操縱寶可夢",
+  "fr": "Pokémon Magouilleur",
+  "de": "Manipulator-Pokémon",
+  "es": "Pokémon Manipulador",
+  "it": "Pokémon Raggiro",
+  "en": "Manipulate Pokémon",
+  "ja": "あやつりポケモン",
+  "zh-hans": "操纵宝可梦",
+  "es-419": "Pokémon Manipulador"
+ },
+ "flavor": {
+  "en": "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe.",
+  "ko": "별이 빛나는 밤에 가장 사이코 파워가 높아지는 듯하다. 우주와의 관계는 불명확하다."
+ },
+ "varieties": [
+  {
+   "name": "gothorita",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "293"
+}

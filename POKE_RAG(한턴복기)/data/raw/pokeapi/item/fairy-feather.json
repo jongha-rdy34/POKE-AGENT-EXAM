@@ -1,0 +1,21 @@
+{
+ "name": "fairy-feather",
+ "names": {
+  "ja-hrkt": "ようせいのハネ",
+  "ko": "요정의깃털",
+  "zh-hant": "妖精之羽",
+  "fr": "Plume Enchantée",
+  "de": "Feendaune",
+  "es": "Pluma Feérica",
+  "it": "Piuma fatata",
+  "en": "Fairy Feather",
+  "ja": "ようせいのハネ",
+  "zh-hans": "妖精之羽",
+  "es-419": "Pluma Feérica"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

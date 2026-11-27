@@ -1,0 +1,20 @@
+{
+ "name": "picnic-set",
+ "names": {
+  "ja-hrkt": "ピクニックセット",
+  "ko": "피크닉세트",
+  "zh-hant": "野餐組合",
+  "fr": "Set de Pique-Nique",
+  "de": "Picknick-Set",
+  "es": "Kit de Pícnic",
+  "it": "Set da picnic",
+  "en": "Picnic Set",
+  "ja": "ピクニックセット",
+  "zh-hans": "野餐组合"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,20 @@
+{
+ "name": "cutiefly-powder",
+ "names": {
+  "ja-hrkt": "アブリーのこな",
+  "ko": "에블리의가루",
+  "zh-hant": "萌虻的粉",
+  "fr": "Poudre de Bombydou",
+  "de": "Wommel-Puder",
+  "es": "Polvo de Cutiefly",
+  "it": "Polvere di Cutiefly",
+  "en": "Cutiefly Powder",
+  "ja": "アブリーのこな",
+  "zh-hans": "萌虻的粉"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

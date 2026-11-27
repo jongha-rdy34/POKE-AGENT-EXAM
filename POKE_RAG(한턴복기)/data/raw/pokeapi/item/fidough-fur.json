@@ -1,0 +1,20 @@
+{
+ "name": "fidough-fur",
+ "names": {
+  "ja-hrkt": "パピモッチのけ",
+  "ko": "쫀도기의털",
+  "zh-hant": "狗仔包的毛",
+  "fr": "Poils de Pâtachiot",
+  "de": "Hefel-Haar",
+  "es": "Pelo de Fidough",
+  "it": "Pelo di Fidough",
+  "en": "Fidough Fur",
+  "ja": "パピモッチのけ",
+  "zh-hans": "狗仔包的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

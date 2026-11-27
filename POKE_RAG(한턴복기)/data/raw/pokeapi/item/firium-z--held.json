@@ -1,0 +1,28 @@
+{
+ "name": "firium-z--held",
+ "names": {
+  "ja-hrkt": "ホノオＺ",
+  "ko": "불꽃Z",
+  "zh-hant": "火Ｚ",
+  "fr": "Pyrozélite",
+  "de": "Pyrium Z",
+  "es": "Pirostal Z",
+  "it": "Pirium Z",
+  "en": "Firium Z",
+  "ja": "ホノオＺ",
+  "zh-hans": "火Ｚ",
+  "es-419": "Pirostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Feu.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 불꽃타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Fire-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 ほのおタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "name": "poke-ball",
+ "names": {
+  "ja-hrkt": "モンスターボール",
+  "ko": "몬스터볼",
+  "zh-hant": "精靈球",
+  "fr": "Poké Ball",
+  "de": "Pokéball",
+  "es": "Poké Ball",
+  "it": "Poké Ball",
+  "en": "Poké Ball",
+  "ja": "モンスターボール",
+  "zh-hans": "精灵球",
+  "es-419": "Pokébola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage.",
+  "en": "Tries to catch a wild Pokémon."
+ },
+ "flavor": {
+  "en": "A device for catching wild Pokémon. It’s thrown like a ball at a Pokémon, comfortably encapsulating its target.",
+  "ko": "야생 포켓몬에게 던져서 잡기 위한 볼. 캡슐식으로 되어 있다.",
+  "ja": "野生の ポケモンに 投げて 捕まえるための ボール。 カプセル式に なっている。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "coaching",
+ "names": {
+  "ja-hrkt": "コーチング",
+  "ko": "코칭",
+  "zh-hant": "指導",
+  "fr": "Coaching",
+  "de": "Coaching",
+  "es": "Motivación",
+  "it": "Coaching",
+  "en": "Coaching",
+  "ja": "コーチング",
+  "zh-hans": "指导",
+  "es-419": "Motivación"
+ },
+ "type": "fighting",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user-and-allies",
+ "effect": {
+  "en": "Raises the target's Attack and Defense by 1 stage. Fails if there is no ally adjacent to the user."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "적절한 지도를 통해서 같은 편 전원의 공격과 방어를 올린다.",
+  "en": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats."
+ }
+}

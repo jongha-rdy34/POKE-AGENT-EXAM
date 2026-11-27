@@ -1,0 +1,25 @@
+{
+ "name": "tr14",
+ "names": {
+  "ja-hrkt": "わざレコード１４",
+  "ko": "기술레코드14",
+  "zh-hant": "招式紀錄１４",
+  "fr": "DT14",
+  "de": "TP14",
+  "es": "DT14",
+  "it": "DT14",
+  "en": "TR14",
+  "ja": "わざレコード１４",
+  "zh-hans": "招式记录１４",
+  "es-419": "DT14"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "손가락을 흔들어 자신의 뇌를 자극해서 모든 기술 중 어느 하나를 날린다.",
+  "en": "The user waggles a finger and stimulates its brain into randomly using nearly any move.",
+  "ja": "指をふり 自分の 脳を 刺激して すべての 技の なかから どれか １つを くりだす。"
+ }
+}

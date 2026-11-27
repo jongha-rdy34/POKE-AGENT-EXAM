@@ -1,0 +1,31 @@
+{
+ "name": "trick",
+ "names": {
+  "ja-hrkt": "トリック",
+  "ko": "트릭",
+  "zh-hant": "戲法",
+  "fr": "Tour de Magie",
+  "de": "Trickbetrug",
+  "es": "Truco",
+  "it": "Raggiro",
+  "en": "Trick",
+  "ja": "トリック",
+  "zh-hans": "戏法",
+  "es-419": "Truco"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User and target swap items."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user catches the target off guard and swaps the target's held item with its own.",
+  "ko": "상대의 빈틈을 노려 자신과 상대가 지닌 물건을 바꿔치기한다."
+ }
+}

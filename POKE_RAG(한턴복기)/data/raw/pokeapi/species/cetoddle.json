@@ -1,0 +1,37 @@
+{
+ "id": 974,
+ "name": "cetoddle",
+ "names": {
+  "ja-hrkt": "アルクジラ",
+  "ja-roma": "Arukujira",
+  "ko": "터벅고래",
+  "zh-hant": "走鯨",
+  "fr": "Piétacé",
+  "de": "Flaniwal",
+  "es": "Cetoddle",
+  "it": "Cetoddle",
+  "en": "Cetoddle",
+  "ja": "アルクジラ",
+  "zh-hans": "走鲸",
+  "es-419": "Cetoddle"
+ },
+ "genus": {
+  "ja-hrkt": "りくくじらポケモン",
+  "ko": "육지고래포켓몬",
+  "zh-hant": "陸鯨寶可夢",
+  "fr": "Baleinapied",
+  "de": "Landwal",
+  "en": "Terra Whale Pokémon",
+  "zh-hans": "陆鲸宝可梦"
+ },
+ "flavor": {
+  "en": "It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice."
+ },
+ "varieties": [
+  {
+   "name": "cetoddle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "511"
+}

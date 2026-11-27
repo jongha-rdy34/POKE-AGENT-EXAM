@@ -1,0 +1,25 @@
+{
+ "name": "tr30",
+ "names": {
+  "ja-hrkt": "わざレコード３０",
+  "ko": "기술레코드30",
+  "zh-hant": "招式紀錄３０",
+  "fr": "DT30",
+  "de": "TP30",
+  "es": "DT30",
+  "it": "DT30",
+  "en": "TR30",
+  "ja": "わざレコード３０",
+  "zh-hans": "招式记录３０",
+  "es-419": "DT30"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "상대에게 앵콜시킨 기술을 3번 연속으로 쓰게 한다.",
+  "en": "The user compels the target to keep using the move it encored for three turns.",
+  "ja": "相手に アンコールした 技を ３回 続けて 出させる。"
+ }
+}

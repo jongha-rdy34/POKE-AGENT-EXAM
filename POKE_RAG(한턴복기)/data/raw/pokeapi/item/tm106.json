@@ -1,0 +1,20 @@
+{
+ "name": "tm106",
+ "names": {
+  "ja-hrkt": "わざマシン１０６",
+  "ko": "기술머신106",
+  "zh-hant": "招式學習器１０６",
+  "fr": "CT106",
+  "de": "TM106",
+  "es": "MT106",
+  "it": "MT106",
+  "en": "TM106",
+  "ja": "わざマシン１０６",
+  "zh-hans": "招式学习器１０６"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

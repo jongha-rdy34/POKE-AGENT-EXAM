@@ -1,0 +1,50 @@
+{
+ "id": 105,
+ "name": "marowak",
+ "names": {
+  "ja-hrkt": "ガラガラ",
+  "ja-roma": "Garagara",
+  "ko": "텅구리",
+  "zh-hant": "嘎啦嘎啦",
+  "fr": "Ossatueur",
+  "de": "Knogga",
+  "es": "Marowak",
+  "it": "Marowak",
+  "en": "Marowak",
+  "ja": "ガラガラ",
+  "zh-hans": "嘎啦嘎啦",
+  "es-419": "Marowak"
+ },
+ "genus": {
+  "ja-hrkt": "ほねずきポケモン",
+  "ko": "뼈다귀포켓몬",
+  "zh-hant": "愛骨寶可夢",
+  "fr": "Pokémon Gard’Os",
+  "de": "Knochenfan-Pokémon",
+  "es": "Pokémon Apilahueso",
+  "it": "Pokémon Guardaossi",
+  "en": "Bone Keeper Pokémon",
+  "ja": "ほねずきポケモン",
+  "zh-hans": "爱骨宝可梦",
+  "es-419": "Pokémon Apilahueso"
+ },
+ "flavor": {
+  "en": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.",
+  "ko": "진화로 인해 쓰고 있던 어미의 뼈는 일체화되었고 성격은 더욱 난폭해졌다."
+ },
+ "varieties": [
+  {
+   "name": "marowak",
+   "is_default": true
+  },
+  {
+   "name": "marowak-alola",
+   "is_default": false
+  },
+  {
+   "name": "marowak-totem",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "46"
+}

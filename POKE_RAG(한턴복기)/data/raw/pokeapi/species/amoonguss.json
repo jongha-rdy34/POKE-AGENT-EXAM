@@ -1,0 +1,42 @@
+{
+ "id": 591,
+ "name": "amoonguss",
+ "names": {
+  "ja-hrkt": "モロバレル",
+  "ja-roma": "Morobareru",
+  "ko": "뽀록나",
+  "zh-hant": "敗露球菇",
+  "fr": "Gaulet",
+  "de": "Hutsassa",
+  "es": "Amoonguss",
+  "it": "Amoonguss",
+  "en": "Amoonguss",
+  "ja": "モロバレル",
+  "zh-hans": "败露球菇",
+  "es-419": "Amoonguss"
+ },
+ "genus": {
+  "ja-hrkt": "きのこポケモン",
+  "ko": "버섯포켓몬",
+  "zh-hant": "蘑菇寶可夢",
+  "fr": "Pokémon Champignon",
+  "de": "Pilz-Pokémon",
+  "es": "Pokémon Hongo",
+  "it": "Pokémon Fungo",
+  "en": "Mushroom Pokémon",
+  "ja": "きのこポケモン",
+  "zh-hans": "蘑菇宝可梦",
+  "es-419": "Pokémon Hongo"
+ },
+ "flavor": {
+  "en": "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground.",
+  "ko": "평상시에는 잘 움직이지 않는다. 떨어져 있는 몬스터볼 옆에서 그저 가만히 대기할 뿐이다."
+ },
+ "varieties": [
+  {
+   "name": "amoonguss",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "300"
+}

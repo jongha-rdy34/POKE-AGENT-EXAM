@@ -1,0 +1,20 @@
+{
+ "name": "tm157",
+ "names": {
+  "ja-hrkt": "わざマシン１５７",
+  "ko": "기술머신157",
+  "zh-hant": "招式學習器１５７",
+  "fr": "CT157",
+  "de": "TM157",
+  "es": "MT157",
+  "it": "MT157",
+  "en": "TM157",
+  "ja": "わざマシン１５７",
+  "zh-hans": "招式学习器１５７"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

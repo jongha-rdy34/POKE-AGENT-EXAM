@@ -1,0 +1,28 @@
+{
+ "name": "dragon-cheer",
+ "names": {
+  "ja-hrkt": "ドラゴンエール",
+  "ko": "드래곤옐",
+  "zh-hant": "龍聲鼓舞",
+  "fr": "Cri Draconique",
+  "de": "Drachenschrei",
+  "es": "Bramido Dragón",
+  "it": "Grido del Drago",
+  "en": "Dragon Cheer",
+  "ja": "ドラゴンエール",
+  "zh-hans": "龙声鼓舞",
+  "es-419": "Bramido Dragón"
+ },
+ "type": "dragon",
+ "category": "status",
+ "power": 0,
+ "accuracy": 0,
+ "pp": 15,
+ "priority": 0,
+ "target": "all-allies",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+ }
+}

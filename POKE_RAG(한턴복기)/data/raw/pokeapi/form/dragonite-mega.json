@@ -1,0 +1,15 @@
+{
+ "name": "dragonite-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Dracolosse",
+  "en": "Mega Dragonite"
+ },
+ "form_names": {
+  "ja-hrkt": "メガカイリュー",
+  "fr": "Méga-Dracolosse",
+  "en": "Mega Dragonite",
+  "ja": "メガカイリュー"
+ },
+ "is_mega": true
+}

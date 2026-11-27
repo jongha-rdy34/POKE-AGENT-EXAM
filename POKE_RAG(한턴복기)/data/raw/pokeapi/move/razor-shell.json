@@ -1,0 +1,31 @@
+{
+ "name": "razor-shell",
+ "names": {
+  "ja-hrkt": "シェルブレード",
+  "ko": "셸블레이드",
+  "zh-hant": "貝殼刃",
+  "fr": "Coqui-Lame",
+  "de": "Kalkklinge",
+  "es": "Concha Filo",
+  "it": "Conchilama",
+  "en": "Razor Shell",
+  "ja": "シェルブレード",
+  "zh-hans": "贝壳刃",
+  "es-419": "Coraza Afilada"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 95,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Defense by one stage."
+ },
+ "effect_chance": 50,
+ "flavor": {
+  "en": "The user cuts the target with sharp shells to inflict damage. This may also lower the target's Defense stat.",
+  "ko": "날카로운 조개껍질로 베어 공격한다. 상대의 방어를 떨어뜨릴 때가 있다."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr36",
+ "names": {
+  "ja-hrkt": "わざレコード３６",
+  "ko": "기술레코드36",
+  "zh-hant": "招式紀錄３６",
+  "fr": "DT36",
+  "de": "TP36",
+  "es": "DT36",
+  "it": "DT36",
+  "en": "TR36",
+  "ja": "わざレコード３６",
+  "zh-hans": "招式记录３６",
+  "es-419": "DT36"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "뜨거운 숨결을 상대에게 내뿜어 공격한다. 화상 상태로 만들 때가 있다.",
+  "en": "The user attacks by exhaling hot breath on opposing Pokémon. This may also leave those Pokémon with a burn.",
+  "ja": "熱い 息を 相手に 吹きつけて 攻撃する。 やけど状態に することが ある。"
+ }
+}

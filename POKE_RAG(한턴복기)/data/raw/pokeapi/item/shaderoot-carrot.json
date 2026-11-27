@@ -1,0 +1,25 @@
+{
+ "name": "shaderoot-carrot",
+ "names": {
+  "ja-hrkt": "くろいにんじん",
+  "ko": "검은당근",
+  "zh-hant": "黑蘿蔔",
+  "fr": "Carotte Sombre",
+  "de": "Phantomkarotte",
+  "es": "Zanahoria Oscura",
+  "it": "Carota oscura",
+  "en": "Shaderoot Carrot",
+  "ja": "くろいにんじん",
+  "zh-hans": "黑萝卜",
+  "es-419": "Zanahoria Oscura"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풍요의 왕의 애마가 즐겨 먹는 작물. 어두컴컴한 밭에서 자랐다.",
+  "en": "Produce that the King of Bountiful Harvests’ beloved steed likes to eat. It grew in a gloomy field.",
+  "ja": "豊穣の王の 愛馬が 好んで 食べる 作物。 薄暗い 畑で 育った。"
+ }
+}

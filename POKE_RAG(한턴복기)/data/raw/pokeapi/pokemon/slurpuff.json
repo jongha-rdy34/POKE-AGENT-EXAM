@@ -1,0 +1,73 @@
+{
+ "id": 685,
+ "name": "slurpuff",
+ "species": "slurpuff",
+ "is_default": true,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 82,
+  "attack": 80,
+  "defense": 86,
+  "special-attack": 85,
+  "special-defense": 75,
+  "speed": 72
+ },
+ "abilities": [
+  {
+   "name": "sweet-veil",
+   "hidden": false
+  },
+  {
+   "name": "unburden",
+   "hidden": true
+  }
+ ],
+ "height": 8,
+ "weight": 50,
+ "champions_moves": [
+  "after-you",
+  "amnesia",
+  "attract",
+  "calm-mind",
+  "charm",
+  "copycat",
+  "cotton-guard",
+  "cotton-spore",
+  "dazzling-gleam",
+  "drain-punch",
+  "draining-kiss",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fake-tears",
+  "flamethrower",
+  "giga-impact",
+  "helping-hand",
+  "hyper-beam",
+  "light-screen",
+  "misty-explosion",
+  "play-rough",
+  "protect",
+  "psychic",
+  "rain-dance",
+  "rest",
+  "round",
+  "safeguard",
+  "sleep-talk",
+  "snore",
+  "sticky-web",
+  "string-shot",
+  "substitute",
+  "sunny-day",
+  "surf",
+  "sweet-scent",
+  "thief",
+  "thunder",
+  "thunderbolt",
+  "wish",
+  "yawn"
+ ]
+}

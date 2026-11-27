@@ -1,0 +1,23 @@
+{
+ "name": "poison-point",
+ "names": {
+  "ja-hrkt": "どくのトゲ",
+  "ko": "독가시",
+  "zh-hant": "毒刺",
+  "fr": "Point Poison",
+  "de": "Giftdorn",
+  "es": "Punto Tóxico",
+  "it": "Velenopunto",
+  "en": "Poison Point",
+  "ja": "どくのトゲ",
+  "zh-hans": "毒刺",
+  "es-419": "Punto Tóxico"
+ },
+ "effect": {
+  "en": "Has a 30% chance of poisoning attacking Pokémon on contact."
+ },
+ "flavor": {
+  "en": "Contact with the Pokémon may poison the attacker.",
+  "ko": "자신과 접촉한 상대를 독 상태로 만들 때가 있다."
+ }
+}

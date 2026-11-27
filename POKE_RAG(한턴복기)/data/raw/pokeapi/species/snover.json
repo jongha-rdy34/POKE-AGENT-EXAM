@@ -1,0 +1,42 @@
+{
+ "id": 459,
+ "name": "snover",
+ "names": {
+  "ja-hrkt": "ユキカブリ",
+  "ja-roma": "Yukikaburi",
+  "ko": "눈쓰개",
+  "zh-hant": "雪笠怪",
+  "fr": "Blizzi",
+  "de": "Shnebedeck",
+  "es": "Snover",
+  "it": "Snover",
+  "en": "Snover",
+  "ja": "ユキカブリ",
+  "zh-hans": "雪笠怪",
+  "es-419": "Snover"
+ },
+ "genus": {
+  "ja-hrkt": "じゅひょうポケモン",
+  "ko": "얼음나무포켓몬",
+  "zh-hant": "樹冰寶可夢",
+  "fr": "Pokémon Arbregelé",
+  "de": "Frostbaum-Pokémon",
+  "es": "Pokémon Árbol Nieve",
+  "it": "Pokémon Albergelo",
+  "en": "Frost Tree Pokémon",
+  "ja": "じゅひょうポケモン",
+  "zh-hans": "树冰宝可梦",
+  "es-419": "Pokémon Árbol Nieve"
+ },
+ "flavor": {
+  "en": "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children.",
+  "ko": "배에 열리는 아이스크림 같은 나무열매는 가라르에 사는 달막화들이 매우 좋아한다."
+ },
+ "varieties": [
+  {
+   "name": "snover",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "239"
+}

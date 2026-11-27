@@ -1,0 +1,42 @@
+{
+ "id": 529,
+ "name": "drilbur",
+ "names": {
+  "ja-hrkt": "モグリュー",
+  "ja-roma": "Mogurew",
+  "ko": "두더류",
+  "zh-hant": "螺釘地鼠",
+  "fr": "Rototaupe",
+  "de": "Rotomurf",
+  "es": "Drilbur",
+  "it": "Drilbur",
+  "en": "Drilbur",
+  "ja": "モグリュー",
+  "zh-hans": "螺钉地鼠",
+  "es-419": "Drilbur"
+ },
+ "genus": {
+  "ja-hrkt": "もぐらポケモン",
+  "ko": "두더지포켓몬",
+  "zh-hant": "鼴鼠寶可夢",
+  "fr": "Pokémon Taupe",
+  "de": "Maulwurf-Pokémon",
+  "es": "Pokémon Topo",
+  "it": "Pokémon Talpa",
+  "en": "Mole Pokémon",
+  "ja": "もぐらポケモン",
+  "zh-hans": "鼹鼠宝可梦",
+  "es-419": "Pokémon Topo"
+ },
+ "flavor": {
+  "en": "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it.",
+  "ko": "손톱으로 땅속을 파고 다니면서 키우는 채소를 해치기 때문에 농업 종사자들이 싫어한다."
+ },
+ "varieties": [
+  {
+   "name": "drilbur",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "270"
+}

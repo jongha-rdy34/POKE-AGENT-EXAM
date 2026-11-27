@@ -1,0 +1,46 @@
+{
+ "id": 88,
+ "name": "grimer",
+ "names": {
+  "ja-hrkt": "ベトベター",
+  "ja-roma": "Betbeter",
+  "ko": "질퍽이",
+  "zh-hant": "臭泥",
+  "fr": "Tadmorv",
+  "de": "Sleima",
+  "es": "Grimer",
+  "it": "Grimer",
+  "en": "Grimer",
+  "ja": "ベトベター",
+  "zh-hans": "臭泥",
+  "es-419": "Grimer"
+ },
+ "genus": {
+  "ja-hrkt": "ヘドロポケモン",
+  "ko": "진흙포켓몬",
+  "zh-hant": "污泥寶可夢",
+  "fr": "Pokémon Dégueu",
+  "de": "Schlamm",
+  "es": "Pokémon Lodo",
+  "it": "Pokémon Melma",
+  "en": "Sludge Pokémon",
+  "ja": "ヘドロポケモン",
+  "zh-hans": "污泥宝可梦",
+  "es-419": "Pokémon Lodo"
+ },
+ "flavor": {
+  "en": "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.",
+  "ko": "진흙이 뭉쳐져서 태어났다. 악취 때문에 건드릴 엄두가 안 나고 지나간 자리에는 풀 한 포기 나지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "grimer",
+   "is_default": true
+  },
+  {
+   "name": "grimer-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "38"
+}

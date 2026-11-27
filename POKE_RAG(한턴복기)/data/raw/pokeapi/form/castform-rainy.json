@@ -1,0 +1,23 @@
+{
+ "name": "castform-rainy",
+ "form_name": "rainy",
+ "names": {
+  "fr": "Morphéo Eau de Pluie",
+  "de": "Formeo (Regen)",
+  "en": "Rainy Castform"
+ },
+ "form_names": {
+  "ja-hrkt": "あまみずのすがた",
+  "ko": "빗방울의 모습",
+  "zh-hant": "雨水的樣子",
+  "fr": "Forme Eau de Pluie",
+  "de": "Regenform",
+  "es": "Forma Lluvia",
+  "it": "Forma Pioggia",
+  "en": "Rainy Form",
+  "ja": "あまみずのすがた",
+  "zh-hans": "雨水的样子",
+  "es-419": "Forma Lluvia"
+ },
+ "is_mega": false
+}

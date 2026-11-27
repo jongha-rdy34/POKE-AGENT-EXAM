@@ -1,0 +1,28 @@
+{
+ "name": "shiny-stone",
+ "names": {
+  "ja-hrkt": "ひかりのいし",
+  "ko": "빛의돌",
+  "zh-hant": "光之石",
+  "fr": "Pierre Éclat",
+  "de": "Leuchtstein",
+  "es": "Piedra Día",
+  "it": "Pietrabrillo",
+  "en": "Shiny Stone",
+  "ja": "ひかりのいし",
+  "zh-hans": "光之石",
+  "es-419": "Piedra Día"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fait évoluer un Chinchidou en Pashmilla, un Rosélia en Roserade, ou un Togetic en Togekiss.",
+  "en": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It shines with a dazzling light.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 빛처럼 눈부시다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 ひかりのように まぶしい。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm95",
+ "names": {
+  "ja-hrkt": "わざマシン９５",
+  "ko": "기술머신95",
+  "zh-hant": "招式學習器９５",
+  "fr": "CT95",
+  "de": "TM95",
+  "es": "MT95",
+  "it": "MT95",
+  "en": "TM95",
+  "ja": "わざマシン９５",
+  "zh-hans": "招式学习器９５",
+  "es-419": "MT95"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Aboiement à un Pokémon compatible.",
+  "en": "Teaches Snarl to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user attacks with a blade of air that slices even the sky. This may also make the target flinch.",
+  "ko": "하늘까지 베어 가르는 공기의 칼날로 공격한다. 상대를 풀죽게 만들 때가 있다.",
+  "ja": "空をも 切り裂く 空気の 刃で 攻撃する。 相手を ひるませることが ある。"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "uproar",
+ "names": {
+  "ja-hrkt": "さわぐ",
+  "ko": "소란피기",
+  "zh-hant": "吵鬧",
+  "fr": "Brouhaha",
+  "de": "Aufruhr",
+  "es": "Alboroto",
+  "it": "Baraonda",
+  "en": "Uproar",
+  "ja": "さわぐ",
+  "zh-hans": "吵闹",
+  "es-419": "Alboroto"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 90,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "random-opponent",
+ "effect": {
+  "en": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.",
+  "ko": "3턴 동안 소란 피워 공격한다. 그동안은 아무도 잠들지 않게 된다."
+ }
+}

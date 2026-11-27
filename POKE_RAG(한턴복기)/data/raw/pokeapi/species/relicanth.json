@@ -1,0 +1,42 @@
+{
+ "id": 369,
+ "name": "relicanth",
+ "names": {
+  "ja-hrkt": "ジーランス",
+  "ja-roma": "Glanth",
+  "ko": "시라칸",
+  "zh-hant": "古空棘魚",
+  "fr": "Relicanth",
+  "de": "Relicanth",
+  "es": "Relicanth",
+  "it": "Relicanth",
+  "en": "Relicanth",
+  "ja": "ジーランス",
+  "zh-hans": "古空棘鱼",
+  "es-419": "Relicanth"
+ },
+ "genus": {
+  "ja-hrkt": "ちょうじゅポケモン",
+  "ko": "장수포켓몬",
+  "zh-hant": "長壽寶可夢",
+  "fr": "Pokémon Longévité",
+  "de": "Bestand-Pokémon",
+  "es": "Pokémon Longevo",
+  "it": "Pokémon Longevità",
+  "en": "Longevity Pokémon",
+  "ja": "ちょうじゅポケモン",
+  "zh-hans": "长寿宝可梦",
+  "es-419": "Pokémon Longevo"
+ },
+ "flavor": {
+  "en": "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil.",
+  "ko": "심해 조사를 통해 발견되었다. 1억 년 동안 모습이 변하지 않아 살아 있는 화석이라고 불린다."
+ },
+ "varieties": [
+  {
+   "name": "relicanth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "189"
+}

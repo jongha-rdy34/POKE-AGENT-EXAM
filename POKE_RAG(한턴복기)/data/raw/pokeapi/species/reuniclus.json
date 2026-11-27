@@ -1,0 +1,42 @@
+{
+ "id": 579,
+ "name": "reuniclus",
+ "names": {
+  "ja-hrkt": "ランクルス",
+  "ja-roma": "Lanculus",
+  "ko": "란쿨루스",
+  "zh-hant": "人造細胞卵",
+  "fr": "Symbios",
+  "de": "Zytomega",
+  "es": "Reuniclus",
+  "it": "Reuniclus",
+  "en": "Reuniclus",
+  "ja": "ランクルス",
+  "zh-hans": "人造细胞卵",
+  "es-419": "Reuniclus"
+ },
+ "genus": {
+  "ja-hrkt": "ぞうふくポケモン",
+  "ko": "증폭포켓몬",
+  "zh-hant": "增幅寶可夢",
+  "fr": "Pokémon Multiplié",
+  "de": "Vermehrungs-Pokémon",
+  "es": "Pokémon Ampliación",
+  "it": "Pokémon Espansione",
+  "en": "Multiplying Pokémon",
+  "ja": "ぞうふくポケモン",
+  "zh-hans": "增幅宝可梦",
+  "es-419": "Pokémon Ampliación"
+ },
+ "flavor": {
+  "en": "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.",
+  "ko": "특수한 액체를 마시면 지혜를 얻는다고 전해지지만 란쿨루스 외에는 맹독이다."
+ },
+ "varieties": [
+  {
+   "name": "reuniclus",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "294"
+}

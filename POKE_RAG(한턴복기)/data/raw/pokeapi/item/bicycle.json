@@ -1,0 +1,25 @@
+{
+ "name": "bicycle",
+ "names": {
+  "ja-hrkt": "じてんしゃ",
+  "ko": "자전거",
+  "fr": "Bicyclette",
+  "de": "Fahrrad",
+  "es": "Bici",
+  "it": "Bicicletta",
+  "en": "Bicycle",
+  "es-419": "Bici"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À utiliser pour se déplacer rapidement.",
+  "en": "Use for fast transit."
+ },
+ "flavor": {
+  "en": "A folding Bicycle that enables a rider to get around much faster than a pair of Running Shoes will allow.",
+  "ko": "러닝슈즈보다도 빨리 달릴 수 있는 접이식 자전거다.",
+  "ja": "ランニングシューズ よりも 速く 走ることが できる 折りたたみ式の じてんしゃ。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 13,
+ "name": "weedle",
+ "names": {
+  "ja-hrkt": "ビードル",
+  "ja-roma": "Beedle",
+  "ko": "뿔충이",
+  "zh-hant": "獨角蟲",
+  "fr": "Aspicot",
+  "de": "Hornliu",
+  "es": "Weedle",
+  "it": "Weedle",
+  "en": "Weedle",
+  "ja": "ビードル",
+  "zh-hans": "独角虫",
+  "es-419": "Weedle"
+ },
+ "genus": {
+  "ja-hrkt": "けむしポケモン",
+  "ko": "송충이포켓몬",
+  "zh-hant": "毛毛蟲寶可夢",
+  "fr": "Pokémon Insectopic",
+  "de": "Raupe",
+  "es": "Pokémon Oruga",
+  "it": "Pokémon Millepiedi",
+  "en": "Hairy Bug Pokémon",
+  "ja": "けむしポケモン",
+  "zh-hans": "毛毛虫宝可梦",
+  "es-419": "Pokémon Oruga"
+ },
+ "flavor": {
+  "en": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+  "ko": "머리에 날카로운 침을 지니고 있다. 우거진 숲이나 풀밭에 숨어 끊임없이 풀잎을 먹고 있다."
+ },
+ "varieties": [
+  {
+   "name": "weedle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "5"
+}

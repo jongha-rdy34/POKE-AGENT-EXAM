@@ -1,0 +1,25 @@
+{
+ "name": "courage-candy-l",
+ "names": {
+  "ja-hrkt": "こころのアメＬ",
+  "ko": "마음의사탕L",
+  "zh-hant": "心靈糖果Ｌ",
+  "fr": "Bonbon Mental M",
+  "de": "Mentalbonbon+",
+  "es": "Caramelo Mente +",
+  "it": "Caramella intuito M",
+  "en": "Courage Candy L",
+  "ja": "こころのアメＬ",
+  "zh-hans": "心灵糖果Ｌ",
+  "es-419": "Caramelo Mente +"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 큰 사탕. 레벨 30 이상인 포켓몬의 특수방어를 올린다.",
+  "en": "A big candy that is packed with energy. When given to a Pokémon at Lv. 30 or higher, it will increase that Pokémon’s Sp. Def stat.",
+  "ja": "エネルギーの つまった 大きい アメ。 レベル３０ 以上の ポケモンの とくぼうを 上げる。"
+ }
+}

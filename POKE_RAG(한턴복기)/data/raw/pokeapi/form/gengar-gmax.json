@@ -1,0 +1,17 @@
+{
+ "name": "gengar-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Ectoplasma Gigamax",
+  "de": "Gigadynamax-Gengar",
+  "en": "Gigantamax Gengar"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,20 @@
+{
+ "name": "combee-honey",
+ "names": {
+  "ja-hrkt": "ミツハニーのミツ",
+  "ko": "세꿀버리의꿀",
+  "zh-hant": "三蜜蜂的蜜",
+  "fr": "Nectar d'Apitrini",
+  "de": "Wadribie-Honig",
+  "es": "Miel de Combee",
+  "it": "Nettare di Combee",
+  "en": "Combee Honey",
+  "ja": "ミツハニーのミツ",
+  "zh-hans": "三蜜蜂的蜜"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

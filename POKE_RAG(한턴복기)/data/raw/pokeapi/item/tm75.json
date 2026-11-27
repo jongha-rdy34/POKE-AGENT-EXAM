@@ -1,0 +1,28 @@
+{
+ "name": "tm75",
+ "names": {
+  "ja-hrkt": "わざマシン７５",
+  "ko": "기술머신75",
+  "zh-hant": "招式學習器７５",
+  "fr": "CT75",
+  "de": "TM75",
+  "es": "MT75",
+  "it": "MT75",
+  "en": "TM75",
+  "ja": "わざマシン７５",
+  "zh-hans": "招式学习器７５",
+  "es-419": "MT75"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Danse Lames à un Pokémon compatible.",
+  "en": "Teaches Swords Dance to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",
+  "ko": "재빠른 움직임으로 상대의 다리를 노려 공격한다. 상대의 스피드를 떨어뜨린다.",
+  "ja": "素早い 動きで 相手の 足を ねらって 攻撃する。 相手の 素早さを さげる。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "honey",
+ "names": {
+  "ja-hrkt": "あまいミツ",
+  "ko": "달콤한꿀",
+  "zh-hant": "甜甜蜜",
+  "fr": "Miel",
+  "de": "Honig",
+  "es": "Miel",
+  "it": "Miele",
+  "en": "Honey",
+  "ja": "あまいミツ",
+  "zh-hans": "甜甜蜜",
+  "es-419": "Miel"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "",
+  "en": ""
+ },
+ "flavor": {
+  "en": "A sweet honey collected by Pokémon. It has a lush aroma and can be sold at a low price to shops.",
+  "ko": "포켓몬이 모은 달콤한 냄새가 나는 꿀. 상점에서 싸게 팔린다.",
+  "ja": "ポケモンが 集めた あまい においが する ミツ。 ショップで 安く 売れる。"
+ }
+}

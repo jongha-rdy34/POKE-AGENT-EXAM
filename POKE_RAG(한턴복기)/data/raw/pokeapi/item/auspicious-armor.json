@@ -1,0 +1,20 @@
+{
+ "name": "auspicious-armor",
+ "names": {
+  "ja-hrkt": "イワイノヨロイ",
+  "ko": "축복받은갑옷",
+  "zh-hant": "慶祝之鎧",
+  "fr": "Armure de la Fortune",
+  "de": "Glorienrüstung",
+  "es": "Armadura Auspiciosa",
+  "it": "Armatura fausta",
+  "en": "Auspicious Armor",
+  "ja": "イワイノヨロイ",
+  "zh-hans": "庆祝之铠"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

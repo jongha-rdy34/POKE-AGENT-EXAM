@@ -1,0 +1,25 @@
+{
+ "name": "tr97",
+ "names": {
+  "ja-hrkt": "わざレコード９７",
+  "ko": "기술레코드97",
+  "zh-hant": "招式紀錄９７",
+  "fr": "DT97",
+  "de": "TP97",
+  "es": "DT97",
+  "it": "DT97",
+  "en": "TR97",
+  "ja": "わざレコード９７",
+  "zh-hans": "招式记录９７",
+  "es-419": "DT97"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사이코 파워로 물어서 상대를 공격한다. 빛의장막이나 리플렉터도 파괴할 수 있다.",
+  "en": "The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.",
+  "ja": "サイコパワーで かみついて 相手を 攻撃する。 ひかりのかべや リフレクター なども 破壊できる。"
+ }
+}

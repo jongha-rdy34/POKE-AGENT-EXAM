@@ -1,0 +1,25 @@
+{
+ "name": "tm00",
+ "names": {
+  "ja-hrkt": "わざマシン００",
+  "ko": "기술머신00",
+  "zh-hant": "招式學習器００",
+  "fr": "CT00",
+  "de": "TM00",
+  "es": "MT00",
+  "it": "MT00",
+  "en": "TM00",
+  "ja": "わざマシン００",
+  "zh-hans": "招式学习器００",
+  "es-419": "MT00"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "힘을 담은 펀치로 상대를 공격한다.",
+  "en": "The target is slugged by a punch thrown with muscle-packed power.",
+  "ja": "力を こめた パンチで 相手を 攻撃する。"
+ }
+}

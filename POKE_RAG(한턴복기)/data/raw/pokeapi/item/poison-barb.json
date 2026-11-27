@@ -1,0 +1,31 @@
+{
+ "name": "poison-barb",
+ "names": {
+  "ja-hrkt": "どくバリ",
+  "ko": "독바늘",
+  "zh-hant": "毒針",
+  "fr": "Pic Venin",
+  "de": "Giftstich",
+  "es": "Flecha Venenosa",
+  "it": "Velenaculeo",
+  "en": "Poison Barb",
+  "ja": "どくバリ",
+  "zh-hans": "毒针",
+  "es-419": "Flecha Venenosa"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Poison du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Poison-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This small, poisonous barb boosts the power of Poison-type moves.",
+  "ko": "독이 있는 작은 침. 지니게 하면 독타입 기술의 위력이 올라간다.",
+  "ja": "どくのある ちいさな ハリ。 持たせると どくタイプの 技の 威力が あがる。"
+ }
+}

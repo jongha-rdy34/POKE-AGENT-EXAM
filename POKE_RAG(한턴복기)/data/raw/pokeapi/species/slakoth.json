@@ -1,0 +1,42 @@
+{
+ "id": 287,
+ "name": "slakoth",
+ "names": {
+  "ja-hrkt": "ナマケロ",
+  "ja-roma": "Namakero",
+  "ko": "게을로",
+  "zh-hant": "懶人獺",
+  "fr": "Parecool",
+  "de": "Bummelz",
+  "es": "Slakoth",
+  "it": "Slakoth",
+  "en": "Slakoth",
+  "ja": "ナマケロ",
+  "zh-hans": "懒人獭",
+  "es-419": "Slakoth"
+ },
+ "genus": {
+  "ja-hrkt": "なまけものポケモン",
+  "ko": "게으름뱅이포켓몬",
+  "zh-hant": "懶人寶可夢",
+  "fr": "Pokémon Flâneur",
+  "de": "Faulpelz",
+  "es": "Pokémon Gandul",
+  "it": "Pokémon Ozioso",
+  "en": "Slacker Pokémon",
+  "ja": "なまけものポケモン",
+  "zh-hans": "懒人宝可梦",
+  "es-419": "Pokémon Gandul"
+ },
+ "flavor": {
+  "en": "Slakoth’s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pokémon in motion.",
+  "ko": "심장의 고동이 1분에 1번 뛴다. 아무튼 가만히 누워 있는 포켓몬으로 움직이는 모습을 거의 볼 수가 없다."
+ },
+ "varieties": [
+  {
+   "name": "slakoth",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "143"
+}

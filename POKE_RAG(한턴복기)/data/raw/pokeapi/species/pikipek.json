@@ -1,0 +1,42 @@
+{
+ "id": 731,
+ "name": "pikipek",
+ "names": {
+  "ja-hrkt": "ツツケラ",
+  "ja-roma": "Tsutsukera",
+  "ko": "콕코구리",
+  "zh-hant": "小篤兒",
+  "fr": "Picassaut",
+  "de": "Peppeck",
+  "es": "Pikipek",
+  "it": "Pikipek",
+  "en": "Pikipek",
+  "ja": "ツツケラ",
+  "zh-hans": "小笃儿",
+  "es-419": "Pikipek"
+ },
+ "genus": {
+  "ja-hrkt": "きつつきポケモン",
+  "ko": "딱따구리포켓몬",
+  "zh-hant": "啄木鳥寶可夢",
+  "fr": "Pokémon Pivert",
+  "de": "Specht",
+  "es": "Pokémon Carpintero",
+  "it": "Pokémon Picchio",
+  "en": "Woodpecker Pokémon",
+  "ja": "きつつきポケモン",
+  "zh-hans": "啄木鸟宝可梦",
+  "es-419": "Pokémon Carpintero"
+ },
+ "flavor": {
+  "ko": "가늘어 보이지만 강인한 목 근육을 가졌다. 초당 16연타로 나무를 마구 쪼아 댄다.",
+  "en": "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!"
+ },
+ "varieties": [
+  {
+   "name": "pikipek",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "377"
+}

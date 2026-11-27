@@ -1,0 +1,28 @@
+{
+ "name": "snowball",
+ "names": {
+  "ja-hrkt": "ゆきだま",
+  "ko": "눈덩이",
+  "zh-hant": "雪球",
+  "fr": "Boule de Neige",
+  "de": "Schneeball",
+  "es": "Bola de Nieve",
+  "it": "Palla di neve",
+  "en": "Snowball",
+  "ja": "ゆきだま",
+  "zh-hans": "雪球",
+  "es-419": "Bola de Nieve"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Si le porteur est touché par une capacité offensive Glace, augmente son Attaque d'un niveau.",
+  "en": "Held: If the holder is hit by a damaging Ice move, raises its Attack by one stage."
+ },
+ "flavor": {
+  "ko": "단 한 번 쓰면 없어지는 눈덩이. 지니게 하고 얼음 기술을 받으면 공격이 올라간다.",
+  "en": "An item to be held by a Pokémon. It boosts Attack if the holder is hit with an Ice-type attack. It can only be used once.",
+  "ja": "使い捨ての ゆきだま。 持たせて こおりの 技を 受けると 攻撃が あがる。"
+ }
+}

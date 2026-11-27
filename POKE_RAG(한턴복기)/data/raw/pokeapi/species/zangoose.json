@@ -1,0 +1,42 @@
+{
+ "id": 335,
+ "name": "zangoose",
+ "names": {
+  "ja-hrkt": "ザングース",
+  "ja-roma": "Zangoose",
+  "ko": "쟝고",
+  "zh-hant": "貓鼬斬",
+  "fr": "Mangriff",
+  "de": "Sengo",
+  "es": "Zangoose",
+  "it": "Zangoose",
+  "en": "Zangoose",
+  "ja": "ザングース",
+  "zh-hans": "猫鼬斩",
+  "es-419": "Zangoose"
+ },
+ "genus": {
+  "ja-hrkt": "ネコイタチポケモン",
+  "ko": "고양이족제비포켓몬",
+  "zh-hant": "貓鼬寶可夢",
+  "fr": "Pokémon Chat Furet",
+  "de": "Frettkatz",
+  "es": "Pokémon Gato Hurón",
+  "it": "Pokémon Furogatto",
+  "en": "Cat Ferret Pokémon",
+  "ja": "ネコイタチポケモン",
+  "zh-hans": "猫鼬宝可梦",
+  "es-419": "Pokémon Gato Hurón"
+ },
+ "flavor": {
+  "en": "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.",
+  "ko": "평소에는 4개의 다리로 행동하지만 화나면 뒷다리로 서서 앞발의 발톱을 내보인다. 세비퍼와는 선조 대대로 라이벌이다."
+ },
+ "varieties": [
+  {
+   "name": "zangoose",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "169"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "chewtle-claw",
+ "names": {
+  "ja-hrkt": "カムカメのツメ",
+  "ko": "깨물부기의발톱",
+  "zh-hant": "咬咬龜的爪子",
+  "fr": "Griffe de Khélocrok",
+  "de": "Kamehaps-Kralle",
+  "es": "Garra de Chewtle",
+  "it": "Unghia di Chewtle",
+  "en": "Chewtle Claw",
+  "ja": "カムカメのツメ",
+  "zh-hans": "咬咬龟的爪子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

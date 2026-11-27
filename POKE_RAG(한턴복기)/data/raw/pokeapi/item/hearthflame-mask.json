@@ -1,0 +1,20 @@
+{
+ "name": "hearthflame-mask",
+ "names": {
+  "ja-hrkt": "かまどのめん",
+  "ko": "화덕의가면",
+  "zh-hant": "火灶面具",
+  "fr": "Masque du Fourneau",
+  "de": "Ofenmaske",
+  "es": "Máscara Horno",
+  "it": "Maschera Focolare",
+  "en": "Hearthflame Mask",
+  "ja": "かまどのめん",
+  "zh-hans": "火灶面具"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

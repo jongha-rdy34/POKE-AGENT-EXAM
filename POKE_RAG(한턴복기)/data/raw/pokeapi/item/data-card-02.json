@@ -1,0 +1,28 @@
+{
+ "name": "data-card-02",
+ "names": {
+  "ja-hrkt": "データカード０２",
+  "ko": "데이터카드02",
+  "zh-hant": "資料卡０２",
+  "fr": "Carte Mémo02",
+  "de": "Datenkarte02",
+  "es": "Tarjeta Datos 02",
+  "it": "Scheda Dati 02",
+  "en": "Data Card 02",
+  "ja": "データカード０２",
+  "zh-hans": "数据卡０２",
+  "es-419": "Tarjeta Datos 02"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé dernier du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in last place overall in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many losses you have had in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 꼴찌가 된 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ビリになった 回数が 記録された カード。"
+ }
+}

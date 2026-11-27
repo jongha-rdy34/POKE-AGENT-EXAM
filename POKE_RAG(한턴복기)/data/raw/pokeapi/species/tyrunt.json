@@ -1,0 +1,42 @@
+{
+ "id": 696,
+ "name": "tyrunt",
+ "names": {
+  "ja-hrkt": "チゴラス",
+  "ja-roma": "Chigoras",
+  "ko": "티고라스",
+  "zh-hant": "寶寶暴龍",
+  "fr": "Ptyranidur",
+  "de": "Balgoras",
+  "es": "Tyrunt",
+  "it": "Tyrunt",
+  "en": "Tyrunt",
+  "ja": "チゴラス",
+  "zh-hans": "宝宝暴龙",
+  "es-419": "Tyrunt"
+ },
+ "genus": {
+  "ja-hrkt": "ようくんポケモン",
+  "ko": "유군포켓몬",
+  "zh-hant": "幼君寶可夢",
+  "fr": "Pokémon Prince",
+  "de": "Kronprinz-Pokémon",
+  "es": "Pokémon Heredero",
+  "it": "Pokémon Principino",
+  "en": "Royal Heir Pokémon",
+  "ja": "ようくんポケモン",
+  "zh-hans": "幼君宝可梦",
+  "es-419": "Pokémon Heredero"
+ },
+ "flavor": {
+  "ko": "제멋대로지만 응석꾸러기다. 장난만 쳐도 트레이너에게 큰 상처를 입히고 만다.",
+  "en": "This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around."
+ },
+ "varieties": [
+  {
+   "name": "tyrunt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "357"
+}

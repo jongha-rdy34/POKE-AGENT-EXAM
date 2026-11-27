@@ -1,0 +1,20 @@
+{
+ "name": "blank-plate",
+ "names": {
+  "ja-hrkt": "まっさらプレート",
+  "ko": "순백플레이트",
+  "zh-hant": "淨空石板",
+  "fr": "Plaque Renouveau",
+  "de": "Neutraltafel",
+  "es": "Tabla Neutra",
+  "it": "Lastraripristino",
+  "en": "Blank Plate",
+  "ja": "まっさらプレート",
+  "zh-hans": "净空石板"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

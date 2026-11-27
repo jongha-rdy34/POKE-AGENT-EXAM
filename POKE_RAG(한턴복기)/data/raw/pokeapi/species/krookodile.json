@@ -1,0 +1,42 @@
+{
+ "id": 553,
+ "name": "krookodile",
+ "names": {
+  "ja-hrkt": "ワルビアル",
+  "ja-roma": "Waruvial",
+  "ko": "악비아르",
+  "zh-hant": "流氓鱷",
+  "fr": "Crocorible",
+  "de": "Rabigator",
+  "es": "Krookodile",
+  "it": "Krookodile",
+  "en": "Krookodile",
+  "ja": "ワルビアル",
+  "zh-hans": "流氓鳄",
+  "es-419": "Krookodile"
+ },
+ "genus": {
+  "ja-hrkt": "いかくポケモン",
+  "ko": "위협포켓몬",
+  "zh-hant": "威嚇寶可夢",
+  "fr": "Pokémon Intimidation",
+  "de": "Abschreckungs-Pokémon",
+  "es": "Pokémon Amenazador",
+  "it": "Pokémon Minaccia",
+  "en": "Intimidation Pokémon",
+  "ja": "いかくポケモン",
+  "zh-hans": "威吓宝可梦",
+  "es-419": "Pokémon Amenazador"
+ },
+ "flavor": {
+  "en": "While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey.",
+  "ko": "난폭하지만 먹이를 잡기 위해 모래 속에서 며칠이든 기다리는 강한 인내력도 갖고 있다."
+ },
+ "varieties": [
+  {
+   "name": "krookodile",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "281"
+}

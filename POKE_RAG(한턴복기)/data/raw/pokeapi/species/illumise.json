@@ -1,0 +1,42 @@
+{
+ "id": 314,
+ "name": "illumise",
+ "names": {
+  "ja-hrkt": "イルミーゼ",
+  "ja-roma": "Illumise",
+  "ko": "네오비트",
+  "zh-hant": "甜甜螢",
+  "fr": "Lumivole",
+  "de": "Illumise",
+  "es": "Illumise",
+  "it": "Illumise",
+  "en": "Illumise",
+  "ja": "イルミーゼ",
+  "zh-hans": "甜甜萤",
+  "es-419": "Illumise"
+ },
+ "genus": {
+  "ja-hrkt": "ほたるポケモン",
+  "ko": "반딧불포켓몬",
+  "zh-hant": "螢火蟲寶可夢",
+  "fr": "Pokémon Luciole",
+  "de": "Glühwürmchen",
+  "es": "Pokémon Luciérnaga",
+  "it": "Pokémon Lucciola",
+  "en": "Firefly Pokémon",
+  "ja": "ほたるポケモン",
+  "zh-hans": "萤火虫宝可梦",
+  "es-419": "Pokémon Luciérnaga"
+ },
+ "flavor": {
+  "en": "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+  "ko": "볼비트를 유도하여 사인을 그린다. 복잡한 사인을 그리는 네오비트일수록 동료에게 존경받는다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "illumise",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "157"
+}

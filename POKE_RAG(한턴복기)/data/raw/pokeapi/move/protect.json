@@ -1,0 +1,31 @@
+{
+ "name": "protect",
+ "names": {
+  "ja-hrkt": "まもる",
+  "ko": "방어",
+  "zh-hant": "守住",
+  "fr": "Abri",
+  "de": "Schutzschild",
+  "es": "Protección",
+  "it": "Protezione",
+  "en": "Protect",
+  "ja": "まもる",
+  "zh-hans": "守住",
+  "es-419": "Protección"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 4,
+ "target": "user",
+ "effect": {
+  "en": "Prevents any moves from hitting the user this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession.",
+  "ko": "상대의 공격을 전혀 받지 않는다. 연속으로 쓰면 실패하기 쉽다."
+ }
+}

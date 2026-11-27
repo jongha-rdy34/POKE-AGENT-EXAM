@@ -1,0 +1,42 @@
+{
+ "id": 90,
+ "name": "shellder",
+ "names": {
+  "ja-hrkt": "シェルダー",
+  "ja-roma": "Shellder",
+  "ko": "셀러",
+  "zh-hant": "大舌貝",
+  "fr": "Kokiyas",
+  "de": "Muschas",
+  "es": "Shellder",
+  "it": "Shellder",
+  "en": "Shellder",
+  "ja": "シェルダー",
+  "zh-hans": "大舌贝",
+  "es-419": "Shellder"
+ },
+ "genus": {
+  "ja-hrkt": "２まいがいポケモン",
+  "ko": "두조개포켓몬",
+  "zh-hant": "雙殼貝寶可夢",
+  "fr": "Pokémon Bivalve",
+  "de": "Muschel-Pokémon",
+  "es": "Pokémon Bivalvo",
+  "it": "Pokémon Bivalve",
+  "en": "Bivalve Pokémon",
+  "ja": "２まいがいポケモン",
+  "zh-hans": "双壳贝宝可梦",
+  "es-419": "Pokémon Bivalvo"
+ },
+ "flavor": {
+  "en": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+  "ko": "단단한 껍데기는 어떤 공격도 튕겨낸다. 껍데기를 열었을 때 안쪽을 공격당하는 것에는 약하다."
+ },
+ "varieties": [
+  {
+   "name": "shellder",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "39"
+}

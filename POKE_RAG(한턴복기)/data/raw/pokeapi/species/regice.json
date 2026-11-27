@@ -1,0 +1,42 @@
+{
+ "id": 378,
+ "name": "regice",
+ "names": {
+  "ja-hrkt": "レジアイス",
+  "ja-roma": "Regice",
+  "ko": "레지아이스",
+  "zh-hant": "雷吉艾斯",
+  "fr": "Regice",
+  "de": "Regice",
+  "es": "Regice",
+  "it": "Regice",
+  "en": "Regice",
+  "ja": "レジアイス",
+  "zh-hans": "雷吉艾斯",
+  "es-419": "Regice"
+ },
+ "genus": {
+  "ja-hrkt": "ひょうざんポケモン",
+  "ko": "빙산포켓몬",
+  "zh-hant": "冰山寶可夢",
+  "fr": "Pokémon Iceberg",
+  "de": "Eisberg-Pokémon",
+  "es": "Pokémon Iceberg",
+  "it": "Pokémon Iceberg",
+  "en": "Iceberg Pokémon",
+  "ja": "ひょうざんポケモン",
+  "zh-hans": "冰山宝可梦",
+  "es-419": "Pokémon Iceberg"
+ },
+ "flavor": {
+  "en": "This Pokémon’s body is made of solid ice. It’s said that Regice was born beneath thick ice in the ice age.",
+  "ko": "전신이 얼음으로 되어 있다. 빙하 시대에 두꺼운 얼음 아래에서 태어났다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "regice",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "194"
+}

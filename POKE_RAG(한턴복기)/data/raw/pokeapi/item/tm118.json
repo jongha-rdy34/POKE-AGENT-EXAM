@@ -1,0 +1,20 @@
+{
+ "name": "tm118",
+ "names": {
+  "ja-hrkt": "わざマシン１１８",
+  "ko": "기술머신118",
+  "zh-hant": "招式學習器１１８",
+  "fr": "CT118",
+  "de": "TM118",
+  "es": "MT118",
+  "it": "MT118",
+  "en": "TM118",
+  "ja": "わざマシン１１８",
+  "zh-hans": "招式学习器１１８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

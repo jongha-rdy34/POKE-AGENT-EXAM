@@ -1,0 +1,28 @@
+{
+ "name": "psychic-noise",
+ "names": {
+  "ja-hrkt": "サイコノイズ",
+  "ko": "사이코노이즈",
+  "zh-hant": "精神噪音",
+  "fr": "Dissonance Psy",
+  "de": "Psycholärm",
+  "es": "Psicorruido",
+  "it": "Psicorumore",
+  "en": "Psychic Noise",
+  "ja": "サイコノイズ",
+  "zh-hans": "精神噪音",
+  "es-419": "Psicorruido"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "journal",
+ "names": {
+  "ja-hrkt": "ぼうけんノート",
+  "ko": "모험노트",
+  "zh-hant": "冒險筆記",
+  "fr": "Journal",
+  "de": "Tagebuch",
+  "es": "Diario",
+  "it": "Agenda",
+  "en": "Journal",
+  "ja": "ぼうけんノート",
+  "zh-hans": "冒险笔记",
+  "es-419": "Diario"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre les activités principales effectuées par le joueur.",
+  "en": "Records prior significant activities the player took."
+ },
+ "flavor": {
+  "en": "A notebook that keeps a day-to-day record of your adventure so far.",
+  "ko": "지금까지의 모험 상황이 기록되어 있는 노트.",
+  "ja": "これまでの 冒険の 様子が 記録 されている ノート。"
+ }
+}

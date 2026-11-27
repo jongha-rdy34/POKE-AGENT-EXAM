@@ -1,0 +1,23 @@
+{
+ "name": "audino-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Nanméouïe",
+  "de": "Mega-Ohrdoch",
+  "en": "Mega Audino"
+ },
+ "form_names": {
+  "ja-hrkt": "メガタブンネ",
+  "ko": "메가다부니",
+  "zh-hant": "超級差不多娃娃",
+  "fr": "Méga-Nanméouïe",
+  "de": "Mega-Form",
+  "es": "Mega-Audino",
+  "it": "MegaAudino",
+  "en": "Mega Audino",
+  "ja": "メガタブンネ",
+  "zh-hans": "超级差不多娃娃",
+  "es-419": "Mega-Audino"
+ },
+ "is_mega": true
+}

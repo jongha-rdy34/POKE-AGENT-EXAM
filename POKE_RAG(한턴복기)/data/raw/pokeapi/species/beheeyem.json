@@ -1,0 +1,42 @@
+{
+ "id": 606,
+ "name": "beheeyem",
+ "names": {
+  "ja-hrkt": "オーベム",
+  "ja-roma": "Ohbem",
+  "ko": "벰크",
+  "zh-hant": "大宇怪",
+  "fr": "Neitram",
+  "de": "Megalon",
+  "es": "Beheeyem",
+  "it": "Beheeyem",
+  "en": "Beheeyem",
+  "ja": "オーベム",
+  "zh-hans": "大宇怪",
+  "es-419": "Beheeyem"
+ },
+ "genus": {
+  "ja-hrkt": "ブレインポケモン",
+  "ko": "브레인포켓몬",
+  "zh-hant": "腦寶可夢",
+  "fr": "Pokémon Cerveau",
+  "de": "Grips-Pokémon",
+  "es": "Pokémon Cerebro",
+  "it": "Pokémon Cervello",
+  "en": "Cerebral Pokémon",
+  "ja": "ブレインポケモン",
+  "zh-hans": "脑宝可梦",
+  "es-419": "Pokémon Cerebro"
+ },
+ "flavor": {
+  "en": "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents.",
+  "ko": "상대의 기억을 조작할 수 있다. 보리밭 위를 떠도는 모습이 가끔 목격된다."
+ },
+ "varieties": [
+  {
+   "name": "beheeyem",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "307"
+}

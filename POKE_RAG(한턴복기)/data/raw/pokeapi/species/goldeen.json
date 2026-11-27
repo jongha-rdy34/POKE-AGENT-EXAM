@@ -1,0 +1,42 @@
+{
+ "id": 118,
+ "name": "goldeen",
+ "names": {
+  "ja-hrkt": "トサキント",
+  "ja-roma": "Tosakinto",
+  "ko": "콘치",
+  "zh-hant": "角金魚",
+  "fr": "Poissirène",
+  "de": "Goldini",
+  "es": "Goldeen",
+  "it": "Goldeen",
+  "en": "Goldeen",
+  "ja": "トサキント",
+  "zh-hans": "角金鱼",
+  "es-419": "Goldeen"
+ },
+ "genus": {
+  "ja-hrkt": "きんぎょポケモン",
+  "ko": "금붕어포켓몬",
+  "zh-hant": "金魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Goldfisch-Pokémon",
+  "es": "Pokémon Pez Color",
+  "it": "Pokémon Pescerosso",
+  "en": "Goldfish Pokémon",
+  "ja": "きんぎょポケモン",
+  "zh-hans": "金鱼宝可梦",
+  "es-419": "Pokémon Pez Color"
+ },
+ "flavor": {
+  "en": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+  "ko": "등지느러미와 가슴지느러미가 근육처럼 발달하여 물속을 5노트의 속도로 헤엄친다."
+ },
+ "varieties": [
+  {
+   "name": "goldeen",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "55"
+}

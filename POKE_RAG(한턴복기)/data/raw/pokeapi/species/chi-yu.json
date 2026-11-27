@@ -1,0 +1,37 @@
+{
+ "id": 1004,
+ "name": "chi-yu",
+ "names": {
+  "ja-hrkt": "イーユイ",
+  "ja-roma": "Yiyui",
+  "ko": "위유이",
+  "zh-hant": "古玉魚",
+  "fr": "Yuyu",
+  "de": "Yuyu",
+  "es": "Chi-Yu",
+  "it": "Chi-Yu",
+  "en": "Chi-Yu",
+  "ja": "イーユイ",
+  "zh-hans": "古玉鱼",
+  "es-419": "Chi-Yu"
+ },
+ "genus": {
+  "ja-hrkt": "さいやくポケモン",
+  "ko": "재액포켓몬",
+  "zh-hant": "災厄寶可夢",
+  "fr": "Fléau",
+  "de": "Unheil",
+  "en": "Ruinous Pokémon",
+  "zh-hans": "灾厄宝可梦"
+ },
+ "flavor": {
+  "en": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "chi-yu",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "532"
+}

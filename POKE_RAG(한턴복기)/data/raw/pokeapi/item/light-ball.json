@@ -1,0 +1,30 @@
+{
+ "name": "light-ball",
+ "names": {
+  "ja-hrkt": "でんきだま",
+  "ko": "전기구슬",
+  "zh-hant": "電氣球",
+  "fr": "Balle Lumière",
+  "de": "Kugelblitz",
+  "es": "Bola Luminosa",
+  "it": "Elettropalla",
+  "en": "Light Ball",
+  "ja": "でんきだま",
+  "zh-hans": "电气球",
+  "es-419": "Bola Luminosa"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Double l'Attaque et l'Attaque Spéciale de Pikachu. Porté sur Pikachu ou Raichu lors de la reproduction: le Pichu Œuf aura Électacle.",
+  "en": "Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle."
+ },
+ "flavor": {
+  "en": "An item to be held by Pikachu. It’s a puzzling orb that boosts its Attack and Sp. Atk stats.",
+  "ko": "피카츄에게 지니게 하면 공격과 특수공격의 위력이 올라가는 이상한 구슬.",
+  "ja": "ピカチュウに 持たせると 攻撃と 特攻の 威力が あがる 不思議な 玉。"
+ }
+}

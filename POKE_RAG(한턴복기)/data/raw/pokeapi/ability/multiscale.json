@@ -1,0 +1,23 @@
+{
+ "name": "multiscale",
+ "names": {
+  "ja-hrkt": "マルチスケイル",
+  "ko": "멀티스케일",
+  "zh-hant": "多重鱗片",
+  "fr": "Multiécaille",
+  "de": "Multischuppe",
+  "es": "Multiescamas",
+  "it": "Multisquame",
+  "en": "Multiscale",
+  "ja": "マルチスケイル",
+  "zh-hans": "多重鳞片",
+  "es-419": "Multiescamas"
+ },
+ "effect": {
+  "en": "Halves damage taken from full HP."
+ },
+ "flavor": {
+  "en": "Reduces the amount of damage the Pokémon takes while its HP is full.",
+  "ko": "HP가 꽉 찼을 때 받는 데미지가 줄어든다."
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "name": "everstone",
+ "names": {
+  "ja-hrkt": "かわらずのいし",
+  "ko": "변함없는돌",
+  "zh-hant": "不變之石",
+  "fr": "Pierre Stase",
+  "de": "Ewigstein",
+  "es": "Piedra Eterna",
+  "it": "Pietrastante",
+  "en": "Everstone",
+  "ja": "かわらずのいし",
+  "zh-hans": "不变之石",
+  "es-419": "Piedra Eterna"
+ },
+ "category": "training",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Empêche les évolutions basées sur le niveau d'avoir lieu.",
+  "en": "Held: Prevents level-based evolution from occuring."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. A Pokémon holding this peculiar stone is prevented from evolving.",
+  "ko": "포켓몬에게 지니게 하면 지닌 동안에는 진화하지 않게 되는 이상한 돌.",
+  "ja": "ポケモンに 持たせると そのあいだ 進化しなくなる 不思議な 石。"
+ }
+}

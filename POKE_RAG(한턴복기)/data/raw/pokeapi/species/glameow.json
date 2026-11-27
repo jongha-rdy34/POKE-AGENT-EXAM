@@ -1,0 +1,42 @@
+{
+ "id": 431,
+ "name": "glameow",
+ "names": {
+  "ja-hrkt": "ニャルマー",
+  "ja-roma": "Nyarmar",
+  "ko": "나옹마",
+  "zh-hant": "魅力喵",
+  "fr": "Chaglam",
+  "de": "Charmian",
+  "es": "Glameow",
+  "it": "Glameow",
+  "en": "Glameow",
+  "ja": "ニャルマー",
+  "zh-hans": "魅力喵",
+  "es-419": "Glameow"
+ },
+ "genus": {
+  "ja-hrkt": "ねこかぶりポケモン",
+  "ko": "내숭포켓몬",
+  "zh-hant": "裝乖寶可夢",
+  "fr": "Pokémon Chafouin",
+  "de": "Fies",
+  "es": "Pokémon Gastuto",
+  "it": "Pokémon Felide",
+  "en": "Catty Pokémon",
+  "ja": "ねこかぶりポケモン",
+  "zh-hans": "装乖宝可梦",
+  "es-419": "Pokémon Gastuto"
+ },
+ "flavor": {
+  "en": "Bewitches humans with its helical tail and piercing gaze. Its hidden claws are quite sharp as well, making this Pokémon an exceedingly tricky opponent if antagonized.",
+  "ko": "기분이 좋은 나옹마는 꼬리로 리듬 체조의 리본처럼 아름다운 움직임을 보인다."
+ },
+ "varieties": [
+  {
+   "name": "glameow",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "221"
+}

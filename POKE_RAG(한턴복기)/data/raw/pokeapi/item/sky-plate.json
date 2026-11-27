@@ -1,0 +1,32 @@
+{
+ "name": "sky-plate",
+ "names": {
+  "ja-hrkt": "あおぞらプレート",
+  "ko": "푸른하늘플레이트",
+  "zh-hant": "藍天石板",
+  "fr": "Plaque Ciel",
+  "de": "Wolkentafel",
+  "es": "Tabla Cielo",
+  "it": "Lastracielo",
+  "en": "Sky Plate",
+  "ja": "あおぞらプレート",
+  "zh-hans": "蓝天石板",
+  "es-419": "Tabla Cielo"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Vol du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Vol.",
+  "en": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Flying-type moves.",
+  "ko": "비행타입의 석판. 지니게 하면 비행타입 기술의 위력이 강해진다.",
+  "ja": "ひこうの タイプの 石盤。 持たせると ひこうタイプの 技の 威力が 強まる。"
+ }
+}

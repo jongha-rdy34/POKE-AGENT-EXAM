@@ -1,0 +1,31 @@
+{
+ "name": "hammer-arm",
+ "names": {
+  "ja-hrkt": "アームハンマー",
+  "ko": "암해머",
+  "zh-hant": "臂錘",
+  "fr": "Marto-Poing",
+  "de": "Hammerarm",
+  "es": "Machada",
+  "it": "Martelpugno",
+  "en": "Hammer Arm",
+  "ja": "アームハンマー",
+  "zh-hans": "臂锤",
+  "es-419": "Brazo Martillo"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 100,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers user’s Speed by one stage."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "en": "The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat.",
+  "ko": "강하고 무거운 주먹을 휘둘러 데미지를 준다. 자신의 스피드가 떨어진다."
+ }
+}

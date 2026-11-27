@@ -1,0 +1,31 @@
+{
+ "name": "synthesis",
+ "names": {
+  "ja-hrkt": "こうごうせい",
+  "ko": "광합성",
+  "zh-hant": "光合作用",
+  "fr": "Synthèse",
+  "de": "Synthese",
+  "es": "Fotosíntesis",
+  "it": "Sintesi",
+  "en": "Synthesis",
+  "ja": "こうごうせい",
+  "zh-hans": "光合作用",
+  "es-419": "Fotosíntesis"
+ },
+ "type": "grass",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Heals the user by half its max HP.  Affected by weather."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user restores its own HP. The amount of HP regained varies with the weather.",
+  "ko": "자신의 HP를 회복한다. 날씨에 따라 회복량이 변한다."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 768,
+ "name": "golisopod",
+ "names": {
+  "ja-hrkt": "グソクムシャ",
+  "ja-roma": "Gusokumusha",
+  "ko": "갑주무사",
+  "zh-hant": "具甲武者",
+  "fr": "Sarmuraï",
+  "de": "Tectass",
+  "es": "Golisopod",
+  "it": "Golisopod",
+  "en": "Golisopod",
+  "ja": "グソクムシャ",
+  "zh-hans": "具甲武者",
+  "es-419": "Golisopod"
+ },
+ "genus": {
+  "ja-hrkt": "そうこうポケモン",
+  "ko": "장갑포켓몬",
+  "zh-hant": "裝甲寶可夢",
+  "fr": "Pokémon Blindé",
+  "de": "Rüstungs-Pokémon",
+  "es": "Pokémon Blindaje",
+  "it": "Pokémon Blindato",
+  "en": "Hard Scale Pokémon",
+  "ja": "そうこうポケモン",
+  "zh-hans": "装甲宝可梦",
+  "es-419": "Pokémon Blindaje"
+ },
+ "flavor": {
+  "ko": "해저의 굴이나 침몰선이 거처다. 케오퍼스와 싸워서 진 쪽이 먹이가 된다.",
+  "en": "They live in sunken ships or in holes in the seabed. When Golisopod and Grapploct battle, the loser becomes the winner’s meal."
+ },
+ "varieties": [
+  {
+   "name": "golisopod",
+   "is_default": true
+  },
+  {
+   "name": "golisopod-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "396"
+}

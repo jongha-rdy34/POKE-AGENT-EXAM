@@ -1,0 +1,23 @@
+{
+ "name": "clear-body",
+ "names": {
+  "ja-hrkt": "クリアボディ",
+  "ko": "클리어바디",
+  "zh-hant": "恆淨之軀",
+  "fr": "Corps Sain",
+  "de": "Neutraltorso",
+  "es": "Cuerpo Puro",
+  "it": "Corpochiaro",
+  "en": "Clear Body",
+  "ja": "クリアボディ",
+  "zh-hans": "恒净之躯",
+  "es-419": "Cuerpo Puro"
+ },
+ "effect": {
+  "en": "Prevents stats from being lowered by other Pokémon."
+ },
+ "flavor": {
+  "en": "Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.",
+  "ko": "상대 기술이나 특성으로 능력을 떨어뜨릴 수 없다."
+ }
+}

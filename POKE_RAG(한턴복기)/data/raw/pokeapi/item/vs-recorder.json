@@ -1,0 +1,28 @@
+{
+ "name": "vs-recorder",
+ "names": {
+  "ja-hrkt": "バトルレコーダー",
+  "ko": "배틀레코더",
+  "zh-hant": "對戰記錄器",
+  "fr": "Magnéto VS",
+  "de": "Kampfkamera",
+  "es": "Cámara Lucha",
+  "it": "Registradati",
+  "en": "Vs. Recorder",
+  "ja": "バトルレコーダー",
+  "zh-hans": "对战记录器",
+  "es-419": "Cámara Lucha"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre les combats sans-fil, WiFi ou de la Zone de Combat, et stocke les points.",
+  "en": "Records wireless, Wi-Fi, or Battle Frontier battles, and stores points."
+ },
+ "flavor": {
+  "en": "An amazing device that can record a battle between friends or the battles at certain special battle facilities.",
+  "ko": "친구와의 승부나 특수한 시설에서의 승부를 기록할 수 있는 멋있는 기계.",
+  "ja": "友達との 勝負や 特殊な 施設での 勝負を 記録できる かっこいい 機械。"
+ }
+}

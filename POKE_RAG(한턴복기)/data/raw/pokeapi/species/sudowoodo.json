@@ -1,0 +1,42 @@
+{
+ "id": 185,
+ "name": "sudowoodo",
+ "names": {
+  "ja-hrkt": "ウソッキー",
+  "ja-roma": "Usokkie",
+  "ko": "꼬지모",
+  "zh-hant": "樹才怪",
+  "fr": "Simularbre",
+  "de": "Mogelbaum",
+  "es": "Sudowoodo",
+  "it": "Sudowoodo",
+  "en": "Sudowoodo",
+  "ja": "ウソッキー",
+  "zh-hans": "树才怪",
+  "es-419": "Sudowoodo"
+ },
+ "genus": {
+  "ja-hrkt": "まねポケモン",
+  "ko": "흉내포켓몬",
+  "zh-hant": "模仿寶可夢",
+  "fr": "Pokémon Imitation",
+  "de": "Imitations-Pokémon",
+  "es": "Pokémon Imitación",
+  "it": "Pokémon Imitazione",
+  "en": "Imitation Pokémon",
+  "ja": "まねポケモン",
+  "zh-hans": "模仿宝可梦",
+  "es-419": "Pokémon Imitación"
+ },
+ "flavor": {
+  "en": "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note.",
+  "ko": "습격당하지 않도록 나무 흉내를 낸다. 물에 약하기 때문에 비가 내리면 어느 틈에 모습을 감춰버린다."
+ },
+ "varieties": [
+  {
+   "name": "sudowoodo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "91"
+}

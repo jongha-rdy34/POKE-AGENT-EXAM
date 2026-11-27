@@ -1,0 +1,28 @@
+{
+ "name": "data-card-12",
+ "names": {
+  "ja-hrkt": "データカード１２",
+  "ko": "데이터카드12",
+  "zh-hant": "資料卡１２",
+  "fr": "Carte Mémo12",
+  "de": "Datenkarte12",
+  "es": "Tarjeta Datos 12",
+  "it": "Scheda Dati 12",
+  "en": "Data Card 12",
+  "ja": "データカード１２",
+  "zh-hans": "数据卡１２",
+  "es-419": "Tarjeta Datos 12"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que les Pokémon du dresseur se sont trompés au Pokéathlon.",
+  "en": "Records the number of times the trainer’s Pokémon have messed up in the Pokéathlon."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times your Pokémon failed in the Pokéathlon.",
+  "ko": "포켓슬론의 기록이 들어 있다. 포켓몬이 실패한 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 ポケモンの 失敗した 回数が 記録された カード。"
+ }
+}

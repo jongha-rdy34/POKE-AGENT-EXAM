@@ -1,0 +1,32 @@
+{
+ "name": "insect-plate",
+ "names": {
+  "ja-hrkt": "たまむしプレート",
+  "ko": "비단벌레플레이트",
+  "zh-hant": "玉蟲石板",
+  "fr": "Plaque Insecte",
+  "de": "Käfertafel",
+  "es": "Tabla Bicho",
+  "it": "Lastrabaco",
+  "en": "Insect Plate",
+  "ja": "たまむしプレート",
+  "zh-hans": "玉虫石板",
+  "es-419": "Tabla Bicho"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Insecte du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Insecte.",
+  "en": "Held: Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Bug-type moves.",
+  "ko": "벌레타입의 석판. 지니게 하면 벌레타입 기술의 위력이 강해진다.",
+  "ja": "むしの タイプの 石盤。 持たせると むしタイプの 技の 威力が 強まる。"
+ }
+}

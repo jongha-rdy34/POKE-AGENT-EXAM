@@ -1,0 +1,25 @@
+{
+ "name": "tr09",
+ "names": {
+  "ja-hrkt": "わざレコード０９",
+  "ko": "기술레코드09",
+  "zh-hant": "招式紀錄０９",
+  "fr": "DT09",
+  "de": "TP09",
+  "es": "DT09",
+  "it": "DT09",
+  "en": "TR09",
+  "ja": "わざレコード０９",
+  "zh-hans": "招式记录０９",
+  "es-419": "DT09"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다.",
+  "en": "A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.",
+  "ja": "激しい 雷を 相手に 落として 攻撃する。 まひ状態に することが ある。"
+ }
+}

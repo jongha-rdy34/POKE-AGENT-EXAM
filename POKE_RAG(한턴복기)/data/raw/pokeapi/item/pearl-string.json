@@ -1,0 +1,28 @@
+{
+ "name": "pearl-string",
+ "names": {
+  "ja-hrkt": "おだんごしんじゅ",
+  "ko": "경단진주",
+  "zh-hant": "丸子珍珠",
+  "fr": "Perle Triple",
+  "de": "Triperle",
+  "es": "Sarta Perlas",
+  "it": "Trittiperla",
+  "en": "Pearl String",
+  "ja": "おだんごしんじゅ",
+  "zh-hans": "丸子珍珠",
+  "es-419": "Sarta Perlas"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au collectionneur d'objets pour 25000 Pokédollars.",
+  "en": "Sell to Ore Collector for 25000 Pokédollars."
+ },
+ "flavor": {
+  "en": "Very large pearls that sparkle in a pretty silver color. They can be sold at a high price to shops.",
+  "ko": "예쁜 은색으로 빛나는 상당히 큰 낱알의 진주. 상점에서 비싸게 팔린다.",
+  "ja": "きれいな 銀色に 光る とても 大粒の 真珠。 ショップで 高く 売れる。"
+ }
+}

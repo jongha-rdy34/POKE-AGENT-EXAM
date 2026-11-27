@@ -1,0 +1,28 @@
+{
+ "name": "sceptilite",
+ "names": {
+  "ja-hrkt": "ジュカインナイト",
+  "ko": "나무킹나이트",
+  "zh-hant": "蜥蜴王進化石",
+  "fr": "Jungkite",
+  "de": "Gewaldronit",
+  "es": "Sceptilita",
+  "it": "Sceptilite",
+  "en": "Sceptilite",
+  "ja": "ジュカインナイト",
+  "zh-hans": "蜥蜴王进化石",
+  "es-419": "Sceptilita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Jungko de Méga-Évoluer en Méga-Jungko.",
+  "en": "Held: Allows Sceptile to Mega Evolve into Mega Sceptile."
+ },
+ "flavor": {
+  "ko": "나무킹에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ジュカインに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

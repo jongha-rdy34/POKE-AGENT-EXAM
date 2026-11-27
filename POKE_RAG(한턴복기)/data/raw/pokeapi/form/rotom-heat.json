@@ -1,0 +1,23 @@
+{
+ "name": "rotom-heat",
+ "form_name": "heat",
+ "names": {
+  "fr": "Motisma Chaleur",
+  "de": "Hitze-Rotom",
+  "en": "Heat Rotom"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒートロトム",
+  "ko": "히트로토무",
+  "zh-hant": "加熱洛托姆",
+  "fr": "Motisma Chaleur",
+  "de": "Hitze-Rotom",
+  "es": "Rotom Calor",
+  "it": "Rotom Calore",
+  "en": "Heat Rotom",
+  "ja": "ヒートロトム",
+  "zh-hans": "加热洛托姆",
+  "es-419": "Rotom Calor"
+ },
+ "is_mega": false
+}

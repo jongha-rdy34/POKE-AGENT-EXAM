@@ -1,0 +1,20 @@
+{
+ "name": "bacon",
+ "names": {
+  "ja-hrkt": "やきベーコン",
+  "ko": "구운베이컨",
+  "zh-hant": "煎培根",
+  "fr": "Bacon",
+  "de": "Gebratener Speck",
+  "es": "Panceta",
+  "it": "Pancetta rosolata",
+  "en": "Bacon",
+  "ja": "やきベーコン",
+  "zh-hans": "煎培根"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

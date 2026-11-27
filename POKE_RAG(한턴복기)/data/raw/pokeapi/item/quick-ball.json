@@ -1,0 +1,33 @@
+{
+ "name": "quick-ball",
+ "names": {
+  "ja-hrkt": "クイックボール",
+  "ko": "퀵볼",
+  "zh-hant": "先機球",
+  "fr": "Rapide Ball",
+  "de": "Flottball",
+  "es": "Veloz Ball",
+  "it": "Velox Ball",
+  "en": "Quick Ball",
+  "ja": "クイックボール",
+  "zh-hans": "先机球",
+  "es-419": "Velozbola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 4× (Gén V : 5x), mais seulement le premier tour.",
+  "en": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn."
+ },
+ "flavor": {
+  "en": "A somewhat different Poké Ball that has a more successful catch rate if used at the start of a wild encounter.",
+  "ko": "배틀이 시작되자마자 사용하면 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "戦闘が はじまって すぐに 使うと 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

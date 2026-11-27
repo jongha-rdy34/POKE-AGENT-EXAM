@@ -1,0 +1,31 @@
+{
+ "name": "clear-smog",
+ "names": {
+  "ja-hrkt": "クリアスモッグ",
+  "ko": "클리어스모그",
+  "zh-hant": "清除之煙",
+  "fr": "Bain de Smog",
+  "de": "Klärsmog",
+  "es": "Niebla Clara",
+  "it": "Pulifumo",
+  "en": "Clear Smog",
+  "ja": "クリアスモッグ",
+  "zh-hans": "清除之烟",
+  "es-419": "Humo Claro"
+ },
+ "type": "poison",
+ "category": "special",
+ "power": 50,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Removes all of the target’s stat modifiers."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated.",
+  "ko": "특수한 진흙 덩어리를 상대에게 내던져서 공격한다. 능력 변화를 원래대로 돌린다."
+ }
+}

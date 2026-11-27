@@ -1,0 +1,22 @@
+{
+ "name": "castform",
+ "form_name": "",
+ "names": {
+  "fr": "Morphéo",
+  "de": "Formeo"
+ },
+ "form_names": {
+  "ja-hrkt": "ポワルンのすがた",
+  "ko": "캐스퐁의 모습",
+  "zh-hant": "飄浮泡泡的樣子",
+  "fr": "Forme de Morphéo",
+  "de": "Formeo",
+  "es": "Forma de Castform",
+  "it": "Forma Castform",
+  "en": "Normal",
+  "ja": "ポワルンのすがた",
+  "zh-hans": "飘浮泡泡的样子",
+  "es-419": "Forma de Castform"
+ },
+ "is_mega": false
+}

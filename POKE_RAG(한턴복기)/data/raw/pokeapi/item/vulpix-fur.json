@@ -1,0 +1,20 @@
+{
+ "name": "vulpix-fur",
+ "names": {
+  "ja-hrkt": "ロコンのけ",
+  "ko": "식스테일의털",
+  "zh-hant": "六尾的毛",
+  "fr": "Poils de Goupix",
+  "de": "Vulpix-Haar",
+  "es": "Pelo de Vulpix",
+  "it": "Pelo di Vulpix",
+  "en": "Vulpix Fur",
+  "ja": "ロコンのけ",
+  "zh-hans": "六尾的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,42 @@
+{
+ "id": 693,
+ "name": "clawitzer",
+ "names": {
+  "ja-hrkt": "ブロスター",
+  "ja-roma": "Bloster",
+  "ko": "블로스터",
+  "zh-hant": "鋼炮臂蝦",
+  "fr": "Gamblast",
+  "de": "Wummer",
+  "es": "Clawitzer",
+  "it": "Clawitzer",
+  "en": "Clawitzer",
+  "ja": "ブロスター",
+  "zh-hans": "钢炮臂虾",
+  "es-419": "Clawitzer"
+ },
+ "genus": {
+  "ja-hrkt": "ランチャーポケモン",
+  "ko": "런처포켓몬",
+  "zh-hant": "發射器寶可夢",
+  "fr": "Pokémon Blaster",
+  "de": "Aquawummen-Pokémon",
+  "es": "Pokémon Lanzachorro",
+  "it": "Pokémon Acqualancio",
+  "en": "Howitzer Pokémon",
+  "ja": "ランチャーポケモン",
+  "zh-hans": "发射器宝可梦",
+  "es-419": "Pokémon Lanzachorro"
+ },
+ "flavor": {
+  "ko": "오른팔은 해수 포탄을 발사하는 대포다. 유조선을 가라앉게 할 정도의 위력이다.",
+  "en": "Clawitzer’s right arm is a cannon that launches projectiles made of seawater. Shots from a Clawitzer’s cannon arm can sink a tanker."
+ },
+ "varieties": [
+  {
+   "name": "clawitzer",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "355"
+}

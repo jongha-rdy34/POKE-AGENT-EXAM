@@ -1,0 +1,23 @@
+{
+ "name": "medicham-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Charmina",
+  "de": "Mega-Meditalis",
+  "en": "Mega Medicham"
+ },
+ "form_names": {
+  "ja-hrkt": "メガチャーレム",
+  "ko": "메가요가램",
+  "zh-hant": "超級恰雷姆",
+  "fr": "Méga-Charmina",
+  "de": "Mega-Form",
+  "es": "Mega-Medicham",
+  "it": "MegaMedicham",
+  "en": "Mega Medicham",
+  "ja": "メガチャーレム",
+  "zh-hans": "超级恰雷姆",
+  "es-419": "Mega-Medicham"
+ },
+ "is_mega": true
+}

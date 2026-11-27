@@ -1,0 +1,31 @@
+{
+ "name": "encore",
+ "names": {
+  "ja-hrkt": "アンコール",
+  "ko": "앙코르",
+  "zh-hant": "再來一次",
+  "fr": "Encore",
+  "de": "Zugabe",
+  "es": "Otra Vez",
+  "it": "Ripeti",
+  "en": "Encore",
+  "ja": "アンコール",
+  "zh-hans": "再来一次",
+  "es-419": "Otra Vez"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Forces the target to repeat its last used move every turn for 2 to 6 turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user compels the target to keep using the move it encored for three turns.",
+  "ko": "상대에게 앵콜시킨 기술을 3번 연속으로 쓰게 한다."
+ }
+}

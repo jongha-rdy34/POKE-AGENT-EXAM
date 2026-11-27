@@ -1,0 +1,29 @@
+{
+ "name": "poison",
+ "names": {
+  "ja-hrkt": "どく",
+  "ko": "독",
+  "zh-hant": "毒",
+  "fr": "Poison",
+  "de": "Gift",
+  "es": "Veneno",
+  "it": "Veleno",
+  "en": "Poison",
+  "ja": "どく",
+  "zh-hans": "毒",
+  "es-419": "Veneno"
+ },
+ "double_to": [
+  "grass",
+  "fairy"
+ ],
+ "half_to": [
+  "poison",
+  "ground",
+  "rock",
+  "ghost"
+ ],
+ "zero_to": [
+  "steel"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "name": "tm02",
+ "names": {
+  "ja-hrkt": "わざマシン０２",
+  "ko": "기술머신02",
+  "zh-hant": "招式學習器０２",
+  "fr": "CT02",
+  "de": "TM02",
+  "es": "MT02",
+  "it": "MT02",
+  "en": "TM02",
+  "ja": "わざマシン０２",
+  "zh-hans": "招式学习器０２",
+  "es-419": "MT02"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Draco-Griffe à un Pokémon compatible. (Gén II: Coup d'Boule Gén I: Coupe-Vent)",
+  "en": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)"
+ },
+ "flavor": {
+  "en": "Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.",
+  "ko": "상대의 몸에 돈을 세게 던져서 공격한다. 배틀 후에 돈을 받을 수 있다.",
+  "ja": "相手の 体に 小判を 投げつけて 攻撃する。 戦闘の あとで お金が もらえる。"
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "id": 1001,
+ "name": "wo-chien",
+ "names": {
+  "ja-hrkt": "チオンジェン",
+  "ja-roma": "Chionjen",
+  "ko": "총지엔",
+  "zh-hant": "古簡蝸",
+  "fr": "Chongjian",
+  "de": "Chongjian",
+  "es": "Wo-Chien",
+  "it": "Wo-Chien",
+  "en": "Wo-Chien",
+  "ja": "チオンジェン",
+  "zh-hans": "古简蜗",
+  "es-419": "Wo-Chien"
+ },
+ "genus": {
+  "ja-hrkt": "さいやくポケモン",
+  "ko": "재액포켓몬",
+  "zh-hant": "災厄寶可夢",
+  "fr": "Fléau",
+  "de": "Unheil",
+  "en": "Ruinous Pokémon",
+  "zh-hans": "灾厄宝可梦"
+ },
+ "flavor": {
+  "en": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren."
+ },
+ "varieties": [
+  {
+   "name": "wo-chien",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "529"
+}

@@ -1,0 +1,42 @@
+{
+ "id": 265,
+ "name": "wurmple",
+ "names": {
+  "ja-hrkt": "ケムッソ",
+  "ja-roma": "Kemusso",
+  "ko": "개무소",
+  "zh-hant": "刺尾蟲",
+  "fr": "Chenipotte",
+  "de": "Waumpel",
+  "es": "Wurmple",
+  "it": "Wurmple",
+  "en": "Wurmple",
+  "ja": "ケムッソ",
+  "zh-hans": "刺尾虫",
+  "es-419": "Wurmple"
+ },
+ "genus": {
+  "ja-hrkt": "いもむしポケモン",
+  "ko": "애벌레포켓몬",
+  "zh-hant": "蟲寶寶寶可夢",
+  "fr": "Pokémon Ver",
+  "de": "Wurm",
+  "es": "Pokémon Gusano",
+  "it": "Pokémon Baco",
+  "en": "Worm Pokémon",
+  "ja": "いもむしポケモン",
+  "zh-hans": "虫宝宝宝可梦",
+  "es-419": "Pokémon Gusano"
+ },
+ "flavor": {
+  "en": "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves.",
+  "ko": "먹이로 삼으려고 다가온 스왈로에게 엉덩이의 가시를 들이밀고 저항한다. 배어 나온 독으로 상대를 약하게 만든다."
+ },
+ "varieties": [
+  {
+   "name": "wurmple",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "135"
+}

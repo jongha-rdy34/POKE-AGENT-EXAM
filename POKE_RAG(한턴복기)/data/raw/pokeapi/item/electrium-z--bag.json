@@ -1,0 +1,28 @@
+{
+ "name": "electrium-z--bag",
+ "names": {
+  "ja-hrkt": "デンキＺ",
+  "ko": "전기Z",
+  "zh-hant": "電Ｚ",
+  "fr": "Voltazélite",
+  "de": "Voltium Z",
+  "es": "Electrostal Z",
+  "it": "Electrium Z",
+  "en": "Electrium Z",
+  "ja": "デンキＺ",
+  "zh-hans": "电Ｚ",
+  "es-419": "Electrostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour electrium-z--bag",
+  "en": "XXX new effect for electrium-z--bag"
+ },
+ "flavor": {
+  "ko": "전기타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Electric-type moves to Electric-type Z-Moves.",
+  "ja": "でんきタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

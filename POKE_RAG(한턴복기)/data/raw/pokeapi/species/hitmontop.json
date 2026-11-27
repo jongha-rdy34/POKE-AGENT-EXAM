@@ -1,0 +1,42 @@
+{
+ "id": 237,
+ "name": "hitmontop",
+ "names": {
+  "ja-hrkt": "カポエラー",
+  "ja-roma": "Kapoerer",
+  "ko": "카포에라",
+  "zh-hant": "戰舞郎",
+  "fr": "Kapoera",
+  "de": "Kapoera",
+  "es": "Hitmontop",
+  "it": "Hitmontop",
+  "en": "Hitmontop",
+  "ja": "カポエラー",
+  "zh-hans": "战舞郎",
+  "es-419": "Hitmontop"
+ },
+ "genus": {
+  "ja-hrkt": "さかだちポケモン",
+  "ko": "물구나무포켓몬",
+  "zh-hant": "倒立寶可夢",
+  "fr": "Pokémon Poirier",
+  "de": "Kopfstand-Pokémon",
+  "es": "Pokémon Boca Abajo",
+  "it": "Pokémon Verticale",
+  "en": "Handstand Pokémon",
+  "ja": "さかだちポケモン",
+  "zh-hans": "倒立宝可梦",
+  "es-419": "Pokémon Boca Abajo"
+ },
+ "flavor": {
+  "en": "After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves.",
+  "ko": "물구나무를 서서 상대의 타이밍을 흐트러뜨리고 그 틈에 화려한 발차기를 먹인다."
+ },
+ "varieties": [
+  {
+   "name": "hitmontop",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "47"
+}

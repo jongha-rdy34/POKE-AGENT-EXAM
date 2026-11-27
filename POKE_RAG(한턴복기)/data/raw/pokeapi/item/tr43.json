@@ -1,0 +1,25 @@
+{
+ "name": "tr43",
+ "names": {
+  "ja-hrkt": "わざレコード４３",
+  "ko": "기술레코드43",
+  "zh-hant": "招式紀錄４３",
+  "fr": "DT43",
+  "de": "TP43",
+  "es": "DT43",
+  "it": "DT43",
+  "en": "TR43",
+  "ja": "わざレコード４３",
+  "zh-hans": "招式记录４３",
+  "es-419": "DT43"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풀 파워로 상대를 공격한다. 쓰면 반동으로 자신의 특수공격이 크게 떨어진다.",
+  "en": "The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.",
+  "ja": "フルパワーで 相手を 攻撃する。 使うと 反動で 自分の 特攻が がくっと さがる。"
+ }
+}

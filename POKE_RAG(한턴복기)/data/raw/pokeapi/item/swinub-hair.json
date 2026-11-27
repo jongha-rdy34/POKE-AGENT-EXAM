@@ -1,0 +1,20 @@
+{
+ "name": "swinub-hair",
+ "names": {
+  "ja-hrkt": "ウリムーのけ",
+  "ko": "꾸꾸리의털",
+  "zh-hant": "小山豬的毛",
+  "fr": "Poils de Marcacrin",
+  "de": "Quiekel-Haar",
+  "es": "Pelo de Swinub",
+  "it": "Pelo di Swinub",
+  "en": "Swinub Hair",
+  "ja": "ウリムーのけ",
+  "zh-hans": "小山猪的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

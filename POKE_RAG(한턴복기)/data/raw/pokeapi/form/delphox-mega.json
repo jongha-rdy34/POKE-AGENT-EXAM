@@ -1,0 +1,15 @@
+{
+ "name": "delphox-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Goupelin",
+  "en": "Mega Delphox"
+ },
+ "form_names": {
+  "ja-hrkt": "メガマフォクシー",
+  "fr": "Méga-Goupelin",
+  "en": "Mega Delphox",
+  "ja": "メガマフォクシー"
+ },
+ "is_mega": true
+}

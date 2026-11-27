@@ -1,0 +1,20 @@
+{
+ "name": "whimsical-tablecloth",
+ "names": {
+  "ja-hrkt": "ファンシークロス",
+  "ko": "팬시 테이블보",
+  "zh-hant": "幻彩桌巾",
+  "fr": "Nappe Fantaisie",
+  "de": "Zauber-Tischtuch",
+  "es": "Mantel Cuco",
+  "it": "Tovaglia carina",
+  "en": "Whimsical Tablecloth",
+  "ja": "ファンシークロス",
+  "zh-hans": "幻彩桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

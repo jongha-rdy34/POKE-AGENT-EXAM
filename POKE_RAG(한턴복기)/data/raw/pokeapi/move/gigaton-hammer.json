@@ -1,0 +1,28 @@
+{
+ "name": "gigaton-hammer",
+ "names": {
+  "ja-hrkt": "デカハンマー",
+  "ko": "거대해머",
+  "zh-hant": "巨力錘",
+  "fr": "Marteau Mastoc",
+  "de": "Riesenhammer",
+  "es": "Martillo Colosal",
+  "it": "Granmartello",
+  "en": "Gigaton Hammer",
+  "ja": "デカハンマー",
+  "zh-hans": "巨力锤",
+  "es-419": "Martillo Colosal"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 160,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user swings its whole body around to attack with its huge hammer. This move can't be used twice in a row."
+ }
+}

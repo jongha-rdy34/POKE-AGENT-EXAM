@@ -1,0 +1,28 @@
+{
+ "name": "dubious-disc",
+ "names": {
+  "ja-hrkt": "あやしいパッチ",
+  "ko": "괴상한패치",
+  "zh-hant": "可疑修正檔",
+  "fr": "CD Douteux",
+  "de": "Dubiosdisc",
+  "es": "Disco Extraño",
+  "it": "Dubbiodisco",
+  "en": "Dubious Disc",
+  "ja": "あやしいパッチ",
+  "zh-hans": "可疑补丁",
+  "es-419": "Disco Extraño"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur un Porygon2: Le porteur évolue en Proygon-Z.",
+  "en": "Traded on a Porygon2: Holder evolves into Porygon-Z."
+ },
+ "flavor": {
+  "en": "A transparent device overflowing with dubious data. Its producer is unknown.",
+  "ko": "안에 괴상한 정보가 가득한 투명한 기계다. 제작자 불명.",
+  "ja": "なかに 怪しい 情報が つまった 透明な 機械。 製作者は 不明。"
+ }
+}

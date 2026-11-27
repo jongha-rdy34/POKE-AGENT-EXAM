@@ -1,0 +1,25 @@
+{
+ "name": "tr04",
+ "names": {
+  "ja-hrkt": "わざレコード０４",
+  "ko": "기술레코드04",
+  "zh-hant": "招式紀錄０４",
+  "fr": "DT04",
+  "de": "TP04",
+  "es": "DT04",
+  "it": "DT04",
+  "en": "TR04",
+  "ja": "わざレコード０４",
+  "zh-hans": "招式记录０４",
+  "es-419": "DT04"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "큰 파도로 자신의 주위에 있는 포켓몬을 공격한다.",
+  "en": "The user attacks everything around it by swamping its surroundings with a giant wave.",
+  "ja": "大きな 波で 自分の 周りに いるものを 攻撃する。"
+ }
+}

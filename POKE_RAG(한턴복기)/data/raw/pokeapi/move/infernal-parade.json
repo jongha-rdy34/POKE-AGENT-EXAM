@@ -1,0 +1,28 @@
+{
+ "name": "infernal-parade",
+ "names": {
+  "ja-hrkt": "ひゃっきやこう",
+  "ko": "백귀야행",
+  "zh-hant": "群魔亂舞",
+  "fr": "Cortège Funèbre",
+  "de": "Phantomparade",
+  "es": "Marcha Espectral",
+  "it": "Corteo Spettrale",
+  "en": "Infernal Parade",
+  "ja": "ひゃっきやこう",
+  "zh-hans": "群魔乱舞",
+  "es-419": "Marcha Espectral"
+ },
+ "type": "ghost",
+ "category": "special",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition."
+ }
+}

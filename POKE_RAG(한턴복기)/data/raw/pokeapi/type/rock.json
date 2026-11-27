@@ -1,0 +1,28 @@
+{
+ "name": "rock",
+ "names": {
+  "ja-hrkt": "いわ",
+  "ko": "바위",
+  "zh-hant": "岩石",
+  "fr": "Roche",
+  "de": "Gestein",
+  "es": "Roca",
+  "it": "Roccia",
+  "en": "Rock",
+  "ja": "いわ",
+  "zh-hans": "岩石",
+  "es-419": "Roca"
+ },
+ "double_to": [
+  "flying",
+  "bug",
+  "fire",
+  "ice"
+ ],
+ "half_to": [
+  "fighting",
+  "ground",
+  "steel"
+ ],
+ "zero_to": []
+}

@@ -1,0 +1,31 @@
+{
+ "name": "lock-on",
+ "names": {
+  "ja-hrkt": "ロックオン",
+  "ko": "록온",
+  "zh-hant": "鎖定",
+  "fr": "Verrouillage",
+  "de": "Zielschuss",
+  "es": "Fijar Blanco",
+  "it": "Localizza",
+  "en": "Lock-On",
+  "ja": "ロックオン",
+  "zh-hans": "锁定",
+  "es-419": "Fijar Blanco"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Ensures that the user’s next move will hit the target."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user takes sure aim at the target. This ensures the user's next move does not miss that target.",
+  "ko": "조준을 잘 맞춰 다음 공격이 반드시 상대에게 명중하도록 한다."
+ }
+}

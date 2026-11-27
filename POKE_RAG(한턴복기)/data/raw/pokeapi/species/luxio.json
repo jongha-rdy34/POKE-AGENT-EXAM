@@ -1,0 +1,42 @@
+{
+ "id": 404,
+ "name": "luxio",
+ "names": {
+  "ja-hrkt": "ルクシオ",
+  "ja-roma": "Luxio",
+  "ko": "럭시오",
+  "zh-hant": "勒克貓",
+  "fr": "Luxio",
+  "de": "Luxio",
+  "es": "Luxio",
+  "it": "Luxio",
+  "en": "Luxio",
+  "ja": "ルクシオ",
+  "zh-hans": "勒克猫",
+  "es-419": "Luxio"
+ },
+ "genus": {
+  "ja-hrkt": "でんこうポケモン",
+  "ko": "전광포켓몬",
+  "zh-hant": "電光寶可夢",
+  "fr": "Pokémon Étincelle",
+  "de": "Funken-Pokémon",
+  "es": "Pokémon Chispa",
+  "it": "Pokémon Favilla",
+  "en": "Spark Pokémon",
+  "ja": "でんこうポケモン",
+  "zh-hans": "电光宝可梦",
+  "es-419": "Pokémon Chispa"
+ },
+ "flavor": {
+  "en": "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind.",
+  "ko": "적을 만나면 100만 볼트의 위력을 가진 발톱을 드러내어 싸움에 대비한다."
+ },
+ "varieties": [
+  {
+   "name": "luxio",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "209"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "sticky-web",
+ "names": {
+  "ja-hrkt": "ねばねばネット",
+  "ko": "끈적끈적네트",
+  "zh-hant": "黏黏網",
+  "fr": "Toile Gluante",
+  "de": "Klebenetz",
+  "es": "Red Viscosa",
+  "it": "Rete Vischiosa",
+  "en": "Sticky Web",
+  "ja": "ねばねばネット",
+  "zh-hans": "黏黏网",
+  "es-419": "Red Pegajosa"
+ },
+ "type": "bug",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 0,
+ "target": "opponents-field",
+ "effect": {
+  "en": "Covers the opposing field, lowering opponents’ Speed by one stage upon switching in."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대의 주위에 끈적끈적한 네트를 둘러 펼쳐 교체되어 나온 상대의 스피드를 떨어뜨린다.",
+  "en": "The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle."
+ }
+}

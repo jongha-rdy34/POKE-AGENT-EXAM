@@ -1,0 +1,28 @@
+{
+ "name": "upper-hand",
+ "names": {
+  "ja-hrkt": "はやてがえし",
+  "ko": "기선제압",
+  "zh-hant": "快手還擊",
+  "fr": "Prio-Parade",
+  "de": "Schnellkonter",
+  "es": "Palma Rauda",
+  "it": "Colpo di Mano",
+  "en": "Upper Hand",
+  "ja": "はやてがえし",
+  "zh-hans": "快手还击",
+  "es-419": "Palma Rauda"
+ },
+ "type": "fighting",
+ "category": "physical",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 3,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move."
+ }
+}

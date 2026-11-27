@@ -1,0 +1,31 @@
+{
+ "name": "burning-jealousy",
+ "names": {
+  "ja-hrkt": "しっとのほのお",
+  "ko": "질투의불꽃",
+  "zh-hant": "妒火",
+  "fr": "Feu Envieux",
+  "de": "Neidflammen",
+  "es": "Envidia Ardiente",
+  "it": "Fiamminvidia",
+  "en": "Burning Jealousy",
+  "ja": "しっとのほのお",
+  "zh-hans": "妒火",
+  "es-419": "Envidia Ardiente"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-opponents",
+ "effect": {
+  "en": "Burns the target if it had a state stage raise this turn."
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "질투의 에너지로 상대를 공격한다. 그 턴에 능력이 올라간 포켓몬을 화상 상태로 만든다.",
+  "en": "The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn."
+ }
+}

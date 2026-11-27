@@ -1,0 +1,20 @@
+{
+ "name": "pichu-fur",
+ "names": {
+  "ja-hrkt": "ピチューのけ",
+  "ko": "피츄의털",
+  "zh-hant": "皮丘的毛",
+  "fr": "Poils de Pichu",
+  "de": "Pichu-Haar",
+  "es": "Pelo de Pichu",
+  "it": "Pelo di Pichu",
+  "en": "Pichu Fur",
+  "ja": "ピチューのけ",
+  "zh-hans": "皮丘的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

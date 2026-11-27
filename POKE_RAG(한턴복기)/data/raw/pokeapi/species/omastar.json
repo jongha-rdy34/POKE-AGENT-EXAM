@@ -1,0 +1,42 @@
+{
+ "id": 139,
+ "name": "omastar",
+ "names": {
+  "ja-hrkt": "オムスター",
+  "ja-roma": "Omstar",
+  "ko": "암스타",
+  "zh-hant": "多刺菊石獸",
+  "fr": "Amonistar",
+  "de": "Amoroso",
+  "es": "Omastar",
+  "it": "Omastar",
+  "en": "Omastar",
+  "ja": "オムスター",
+  "zh-hans": "多刺菊石兽",
+  "es-419": "Omastar"
+ },
+ "genus": {
+  "ja-hrkt": "うずまきポケモン",
+  "ko": "소용돌이포켓몬",
+  "zh-hant": "漩渦寶可夢",
+  "fr": "Pokémon Spirale",
+  "de": "Spiralen-Pokémon",
+  "es": "Pokémon Espiral",
+  "it": "Pokémon Spirale",
+  "en": "Spiral Pokémon",
+  "ja": "うずまきポケモン",
+  "zh-hans": "漩涡宝可梦",
+  "es-419": "Pokémon Espiral"
+ },
+ "flavor": {
+  "en": "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles.",
+  "ko": "날카로운 이빨은 바위도 부수지만 촉수가 닿는 범위 안의 먹이만 공격할 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "omastar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "69"
+}

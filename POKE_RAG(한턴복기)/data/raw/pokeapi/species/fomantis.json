@@ -1,0 +1,42 @@
+{
+ "id": 753,
+ "name": "fomantis",
+ "names": {
+  "ja-hrkt": "カリキリ",
+  "ja-roma": "Karikiri",
+  "ko": "짜랑랑",
+  "zh-hant": "偽螳草",
+  "fr": "Mimantis",
+  "de": "Imantis",
+  "es": "Fomantis",
+  "it": "Fomantis",
+  "en": "Fomantis",
+  "ja": "カリキリ",
+  "zh-hans": "伪螳草",
+  "es-419": "Fomantis"
+ },
+ "genus": {
+  "ja-hrkt": "かまくさポケモン",
+  "ko": "풀사마귀포켓몬",
+  "zh-hant": "鐮草寶可夢",
+  "fr": "Pokémon Fauch’Herbe",
+  "de": "Grassichel-Pokémon",
+  "es": "Pokémon Filo Hoja",
+  "it": "Pokémon Mantiderba",
+  "en": "Sickle Grass Pokémon",
+  "ja": "かまくさポケモン",
+  "zh-hans": "镰草宝可梦",
+  "es-419": "Pokémon Filo Hoja"
+ },
+ "flavor": {
+  "ko": "낮에는 햇빛을 받으며 새근새근 잔다. 한밤중에 잠에서 깨어 활동을 시작한다.",
+  "en": "During the day, Fomantis basks in sunlight and sleeps peacefully. It wakes and moves around at night."
+ },
+ "varieties": [
+  {
+   "name": "fomantis",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "388"
+}

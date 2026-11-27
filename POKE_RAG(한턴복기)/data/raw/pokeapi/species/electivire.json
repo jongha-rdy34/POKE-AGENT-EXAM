@@ -1,0 +1,42 @@
+{
+ "id": 466,
+ "name": "electivire",
+ "names": {
+  "ja-hrkt": "エレキブル",
+  "ja-roma": "Elekible",
+  "ko": "에레키블",
+  "zh-hant": "電擊魔獸",
+  "fr": "Élekable",
+  "de": "Elevoltek",
+  "es": "Electivire",
+  "it": "Electivire",
+  "en": "Electivire",
+  "ja": "エレキブル",
+  "zh-hans": "电击魔兽",
+  "es-419": "Electivire"
+ },
+ "genus": {
+  "ja-hrkt": "らいでんポケモン",
+  "ko": "뇌전포켓몬",
+  "zh-hant": "雷電寶可夢",
+  "fr": "Pokémon Foudrélec",
+  "de": "Donnerkeil-Pokémon",
+  "es": "Pokémon Rayo",
+  "it": "Pokémon Saetta",
+  "en": "Thunderbolt Pokémon",
+  "ja": "らいでんポケモン",
+  "zh-hans": "雷电宝可梦",
+  "es-419": "Pokémon Rayo"
+ },
+ "flavor": {
+  "en": "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts.",
+  "ko": "발전량은 전기포켓몬 중에서도 손꼽히는 수준이다. 꼬리 끝에서 고압 전류를 방전한다."
+ },
+ "varieties": [
+  {
+   "name": "electivire",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "60"
+}

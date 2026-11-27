@@ -1,0 +1,28 @@
+{
+ "name": "tm70",
+ "names": {
+  "ja-hrkt": "わざマシン７０",
+  "ko": "기술머신70",
+  "zh-hant": "招式學習器７０",
+  "fr": "CT70",
+  "de": "TM70",
+  "es": "MT70",
+  "it": "MT70",
+  "en": "TM70",
+  "ja": "わざマシン７０",
+  "zh-hans": "招式学习器７０",
+  "es-419": "MT70"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Flash à un Pokémon compatible.",
+  "en": "Teaches Flash to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user creates a bizarre area in which slower Pokémon get to move first for five turns.",
+  "ko": "이상한 공간을 만든다. 5턴 동안 느린 포켓몬부터 행동할 수 있다.",
+  "ja": "まか不思議な 空間を つくる。 ５ターンの 間 遅い ポケモンから 行動できる。"
+ }
+}

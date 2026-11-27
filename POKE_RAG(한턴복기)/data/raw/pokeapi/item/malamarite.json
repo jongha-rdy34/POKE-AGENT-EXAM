@@ -1,0 +1,20 @@
+{
+ "name": "malamarite",
+ "names": {
+  "ko": "칼라마네로나이트",
+  "zh-hant": "烏賊王進化石",
+  "fr": "Sepiatrocite",
+  "de": "Calamaneronit",
+  "es": "Malamarita",
+  "it": "Malamarite",
+  "en": "Malamarite",
+  "ja": "カラマネナイト",
+  "zh-hans": "乌贼王进化石",
+  "es-419": "Malamarita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

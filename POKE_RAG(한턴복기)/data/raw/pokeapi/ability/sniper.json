@@ -1,0 +1,23 @@
+{
+ "name": "sniper",
+ "names": {
+  "ja-hrkt": "スナイパー",
+  "ko": "스나이퍼",
+  "zh-hant": "狙擊手",
+  "fr": "Sniper",
+  "de": "Superschütze",
+  "es": "Francotirador",
+  "it": "Cecchino",
+  "en": "Sniper",
+  "ja": "スナイパー",
+  "zh-hans": "狙击手",
+  "es-419": "Puntería"
+ },
+ "effect": {
+  "en": "Strengthens critical hits to inflict 3× damage rather than 2×."
+ },
+ "flavor": {
+  "en": "If the Pokémon's attack lands a critical hit, the attack is powered up even further.",
+  "ko": "공격을 급소에 맞혔을 때 위력이 더욱 올라간다."
+ }
+}

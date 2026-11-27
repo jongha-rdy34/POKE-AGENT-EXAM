@@ -1,0 +1,20 @@
+{
+ "name": "academy-tablecloth",
+ "names": {
+  "ja-hrkt": "スクールクロス",
+  "ko": "스쿨 테이블보",
+  "zh-hant": "校園桌巾",
+  "fr": "Nappe de l'Académie",
+  "de": "Akademie-Tischtuch",
+  "es": "Mantel Academia",
+  "it": "Tovaglia accademia",
+  "en": "Academy Tablecloth",
+  "ja": "スクールクロス",
+  "zh-hans": "校园桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

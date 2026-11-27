@@ -1,0 +1,31 @@
+{
+ "name": "perish-song",
+ "names": {
+  "ja-hrkt": "ほろびのうた",
+  "ko": "멸망의노래",
+  "zh-hant": "滅亡之歌",
+  "fr": "Requiem",
+  "de": "Abgesang",
+  "es": "Canto Mortal",
+  "it": "Ultimocanto",
+  "en": "Perish Song",
+  "ja": "ほろびのうた",
+  "zh-hans": "灭亡之歌",
+  "es-419": "Canto Mortal"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 5,
+ "priority": 0,
+ "target": "all-pokemon",
+ "effect": {
+  "en": "User and target both faint after three turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "Any Pokémon that hears this song faints in three turns, unless it switches out of battle.",
+  "ko": "노래를 들은 포켓몬은 3턴이 지나면 기절한다. 교체되면 효과가 없어진다."
+ }
+}

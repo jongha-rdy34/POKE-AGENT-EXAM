@@ -1,0 +1,25 @@
+{
+ "name": "tr59",
+ "names": {
+  "ja-hrkt": "わざレコード５９",
+  "ko": "기술레코드59",
+  "zh-hant": "招式紀錄５９",
+  "fr": "DT59",
+  "de": "TP59",
+  "es": "DT59",
+  "it": "DT59",
+  "en": "TR59",
+  "ja": "わざレコード５９",
+  "zh-hans": "招式记录５９",
+  "es-419": "DT59"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "단단한 껍질을 가지고 있는 큰 씨앗을 위에서 힘껏 내던져 상대를 공격한다.",
+  "en": "The user slams a barrage of hard-shelled seeds down on the target from above.",
+  "ja": "硬い 殻を もつ 大きな タネを 上から たたきつけて 相手を 攻撃する。"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "id": 10252,
+ "name": "tauros-paldea-aqua-breed",
+ "species": "tauros",
+ "is_default": false,
+ "types": [
+  "fighting",
+  "water"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 110,
+  "defense": 105,
+  "special-attack": 30,
+  "special-defense": 70,
+  "speed": 100
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "anger-point",
+   "hidden": false
+  },
+  {
+   "name": "cud-chew",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 1100,
+ "champions_moves": [
+  "aqua-jet",
+  "body-press",
+  "body-slam",
+  "bulk-up",
+  "bulldoze",
+  "chilling-water",
+  "close-combat",
+  "curse",
+  "dig",
+  "double-edge",
+  "drill-run",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "giga-impact",
+  "high-horsepower",
+  "hydro-pump",
+  "hyper-beam",
+  "iron-head",
+  "iron-tail",
+  "lash-out",
+  "liquidation",
+  "megahorn",
+  "outrage",
+  "protect",
+  "raging-bull",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "smart-strike",
+  "snore",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "surf",
+  "swagger",
+  "thief",
+  "thrash",
+  "trailblaze",
+  "uproar",
+  "water-pulse",
+  "wave-crash",
+  "whirlpool",
+  "wild-charge",
+  "zen-headbutt"
+ ]
+}

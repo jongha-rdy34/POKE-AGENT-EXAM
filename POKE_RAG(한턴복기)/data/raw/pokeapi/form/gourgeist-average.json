@@ -1,0 +1,23 @@
+{
+ "name": "gourgeist-average",
+ "form_name": "average",
+ "names": {
+  "fr": "Banshitrouye Normal",
+  "de": "Pumpdjinn (M)",
+  "en": "Average Gourgeist"
+ },
+ "form_names": {
+  "ja-hrkt": "ふつうのサイズ",
+  "ko": "보통 사이즈",
+  "zh-hant": "普通尺寸",
+  "fr": "Taille Normale",
+  "de": "Größe M",
+  "es": "Tamaño Normal",
+  "it": "Normale",
+  "en": "Average Size",
+  "ja": "ふつうのサイズ",
+  "zh-hans": "普通尺寸",
+  "es-419": "Tamaño Normal"
+ },
+ "is_mega": false
+}

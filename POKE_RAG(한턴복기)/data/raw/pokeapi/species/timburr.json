@@ -1,0 +1,42 @@
+{
+ "id": 532,
+ "name": "timburr",
+ "names": {
+  "ja-hrkt": "ドッコラー",
+  "ja-roma": "Dokkorer",
+  "ko": "으랏차",
+  "zh-hant": "搬運小匠",
+  "fr": "Charpenti",
+  "de": "Praktibalk",
+  "es": "Timburr",
+  "it": "Timburr",
+  "en": "Timburr",
+  "ja": "ドッコラー",
+  "zh-hans": "搬运小匠",
+  "es-419": "Timburr"
+ },
+ "genus": {
+  "ja-hrkt": "きんこつポケモン",
+  "ko": "근골포켓몬",
+  "zh-hant": "筋骨寶可夢",
+  "fr": "Pokémon Costaud",
+  "de": "Muskel-Pokémon",
+  "es": "Pokémon Musculoso",
+  "it": "Pokémon Forzaimmane",
+  "en": "Muscular Pokémon",
+  "ja": "きんこつポケモン",
+  "zh-hans": "筋骨宝可梦",
+  "es-419": "Pokémon Musculoso"
+ },
+ "flavor": {
+  "en": "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve.",
+  "ko": "자신의 3배 정도의 각목을 들 수 있게 된 으랏차는 머지않아 진화하게 된다."
+ },
+ "varieties": [
+  {
+   "name": "timburr",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "272"
+}

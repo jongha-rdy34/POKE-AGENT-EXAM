@@ -1,0 +1,28 @@
+{
+ "name": "surge-badge",
+ "names": {
+  "ja-hrkt": "だいだいバッジ",
+  "ko": "주황배지",
+  "zh-hant": "橘色徽章",
+  "fr": "Fulguro-Badge",
+  "de": "Gewitterorden",
+  "es": "Medalla Fulgor",
+  "it": "Medaglia Tonante",
+  "en": "Surge Badge",
+  "ja": "だいだいバッジ",
+  "zh-hans": "桔色徽章",
+  "es-419": "Medalla Fulgor"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour surge-badge",
+  "en": "XXX new effect for surge-badge"
+ },
+ "flavor": {
+  "ko": "체육관오브관동에서 받을 수 있는 노벨티 배지. 어딘가의 체육관 배지를 흉내 낸듯하다.",
+  "en": "A novelty badge that you can receive at the Kantonian Gym. Rumor has it that it imitates the Badge of a Gym somewhere.",
+  "ja": "ジムオブカントーで もらえる ノベルティの バッジ。 どこかの ジムバッジを まねているらしい。"
+ }
+}

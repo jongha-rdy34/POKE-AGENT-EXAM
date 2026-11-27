@@ -1,0 +1,23 @@
+{
+ "name": "competitive",
+ "names": {
+  "ja-hrkt": "かちき",
+  "ko": "승기",
+  "zh-hant": "好勝",
+  "fr": "Battant",
+  "de": "Unbeugsamkeit",
+  "es": "Tenacidad",
+  "it": "Tenacia",
+  "en": "Competitive",
+  "ja": "かちき",
+  "zh-hans": "好胜",
+  "es-419": "Tenacidad"
+ },
+ "effect": {
+  "en": "Raises Special Attack by two stages upon having any stat lowered."
+ },
+ "flavor": {
+  "ko": "능력이 떨어지면 특수공격이 크게 올라간다.",
+  "en": "Boosts the Pokémon's Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon."
+ }
+}

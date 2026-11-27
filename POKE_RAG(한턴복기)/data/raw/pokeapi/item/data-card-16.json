@@ -1,0 +1,28 @@
+{
+ "name": "data-card-16",
+ "names": {
+  "ja-hrkt": "データカード１６",
+  "ko": "데이터카드16",
+  "zh-hant": "資料卡１６",
+  "fr": "Carte Mémo16",
+  "de": "Datenkarte16",
+  "es": "Tarjeta Datos 16",
+  "it": "Scheda Dati 16",
+  "en": "Data Card 16",
+  "ja": "データカード１６",
+  "zh-hans": "数据卡１６",
+  "es-419": "Tarjeta Datos 16"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Combat Ring-Out du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Ring Drop."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Ring Drop.",
+  "ko": "포켓슬론의 기록이 들어 있다. 링아웃파이트 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 リングアウトファイト １位 回数が 記録された カード。"
+ }
+}

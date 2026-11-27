@@ -1,0 +1,41 @@
+{
+ "id": 952,
+ "name": "scovillain",
+ "names": {
+  "ja-hrkt": "スコヴィラン",
+  "ja-roma": "Scovillain",
+  "ko": "스코빌런",
+  "zh-hant": "狠辣椒",
+  "fr": "Scovilain",
+  "de": "Halupenjo",
+  "es": "Scovillain",
+  "it": "Scovillain",
+  "en": "Scovillain",
+  "ja": "スコヴィラン",
+  "zh-hans": "狠辣椒",
+  "es-419": "Scovillain"
+ },
+ "genus": {
+  "ja-hrkt": "ハバネロポケモン",
+  "ko": "하바네로포켓몬",
+  "zh-hant": "熱辣寶可夢",
+  "fr": "Habanero",
+  "de": "Habanero",
+  "en": "Spicy Pepper Pokémon",
+  "zh-hans": "热辣宝可梦"
+ },
+ "flavor": {
+  "en": "The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it."
+ },
+ "varieties": [
+  {
+   "name": "scovillain",
+   "is_default": true
+  },
+  {
+   "name": "scovillain-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "498"
+}

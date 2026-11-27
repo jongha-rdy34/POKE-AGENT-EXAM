@@ -1,0 +1,42 @@
+{
+ "id": 451,
+ "name": "skorupi",
+ "names": {
+  "ja-hrkt": "スコルピ",
+  "ja-roma": "Scorupi",
+  "ko": "스콜피",
+  "zh-hant": "鉗尾蠍",
+  "fr": "Rapion",
+  "de": "Pionskora",
+  "es": "Skorupi",
+  "it": "Skorupi",
+  "en": "Skorupi",
+  "ja": "スコルピ",
+  "zh-hans": "钳尾蝎",
+  "es-419": "Skorupi"
+ },
+ "genus": {
+  "ja-hrkt": "さそりポケモン",
+  "ko": "전갈포켓몬",
+  "zh-hant": "蠍子寶可夢",
+  "fr": "Pokémon Scorpion",
+  "de": "Skorpion-Pokémon",
+  "es": "Pokémon Escorpión",
+  "it": "Pokémon Scorpione",
+  "en": "Scorpion Pokémon",
+  "ja": "さそりポケモン",
+  "zh-hans": "蝎子宝可梦",
+  "es-419": "Pokémon Escorpión"
+ },
+ "flavor": {
+  "en": "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however.",
+  "ko": "독이 있는 꼬리의 발톱으로 덤벼든다. 집히면 독이 스며들어 움직일 수 없게 된다."
+ },
+ "varieties": [
+  {
+   "name": "skorupi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "234"
+}

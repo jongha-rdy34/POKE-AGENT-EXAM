@@ -1,0 +1,42 @@
+{
+ "id": 886,
+ "name": "drakloak",
+ "names": {
+  "ja-hrkt": "ドロンチ",
+  "ja-roma": "Doronch",
+  "ko": "드래런치",
+  "zh-hant": "多龍奇",
+  "fr": "Dispareptil",
+  "de": "Phandra",
+  "es": "Drakloak",
+  "it": "Drakloak",
+  "en": "Drakloak",
+  "ja": "ドロンチ",
+  "zh-hans": "多龙奇",
+  "es-419": "Drakloak"
+ },
+ "genus": {
+  "ja-hrkt": "せわやくポケモン",
+  "ko": "돌보미포켓몬",
+  "zh-hant": "保姆寶可夢",
+  "fr": "Pokémon Baby-sitter",
+  "de": "Betreuer-Pokémon",
+  "es": "Pokémon Cuidador",
+  "it": "Pokémon Sostegno",
+  "en": "Caretaker Pokémon",
+  "ja": "せわやくポケモン",
+  "zh-hans": "保姆宝可梦",
+  "es-419": "Pokémon Cuidador"
+ },
+ "flavor": {
+  "ko": "보살피는 드라꼰을 머리에 태우지 않으면 진정하지 못하고 다른 포켓몬을 태우려고 한다.",
+  "en": "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy."
+ },
+ "varieties": [
+  {
+   "name": "drakloak",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "466"
+}

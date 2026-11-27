@@ -1,0 +1,37 @@
+{
+ "id": 986,
+ "name": "brute-bonnet",
+ "names": {
+  "ja-hrkt": "アラブルタケ",
+  "ja-roma": "Araburutake",
+  "ko": "사나운버섯",
+  "zh-hant": "猛惡菇",
+  "fr": "Fongus-Furie",
+  "de": "Wutpilz",
+  "es": "Furioseta",
+  "it": "Fungofurioso",
+  "en": "Brute Bonnet",
+  "ja": "アラブルタケ",
+  "zh-hans": "猛恶菇",
+  "es-419": "Furioseta"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It bears a slight resemblance to a Pokémon described in a dubious magazine as a cross between a dinosaur and a mushroom."
+ },
+ "varieties": [
+  {
+   "name": "brute-bonnet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "517"
+}

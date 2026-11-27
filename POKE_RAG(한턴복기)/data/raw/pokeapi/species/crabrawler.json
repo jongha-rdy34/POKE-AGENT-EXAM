@@ -1,0 +1,42 @@
+{
+ "id": 739,
+ "name": "crabrawler",
+ "names": {
+  "ja-hrkt": "マケンカニ",
+  "ja-roma": "Makenkani",
+  "ko": "오기지게",
+  "zh-hant": "好勝蟹",
+  "fr": "Crabagarre",
+  "de": "Krabbox",
+  "es": "Crabrawler",
+  "it": "Crabrawler",
+  "en": "Crabrawler",
+  "ja": "マケンカニ",
+  "zh-hans": "好胜蟹",
+  "es-419": "Crabrawler"
+ },
+ "genus": {
+  "ja-hrkt": "けんとうポケモン",
+  "ko": "권투포켓몬",
+  "zh-hant": "拳鬥寶可夢",
+  "fr": "Pokémon Boxeur",
+  "de": "Boxkampf",
+  "es": "Pokémon Púgil",
+  "it": "Pokémon Pugile",
+  "en": "Boxing Pokémon",
+  "ja": "けんとうポケモン",
+  "zh-hans": "拳斗宝可梦",
+  "es-419": "Pokémon Púgil"
+ },
+ "flavor": {
+  "ko": "야자나무로 착각하고 나시에 오르는 일도 있다. 분노를 사 내동댕이쳐진 다음 짓밟힌다.",
+  "en": "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it."
+ },
+ "varieties": [
+  {
+   "name": "crabrawler",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "380"
+}

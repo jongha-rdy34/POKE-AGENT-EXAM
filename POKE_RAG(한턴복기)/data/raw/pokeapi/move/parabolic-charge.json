@@ -1,0 +1,31 @@
+{
+ "name": "parabolic-charge",
+ "names": {
+  "ja-hrkt": "パラボラチャージ",
+  "ko": "파라볼라차지",
+  "zh-hant": "拋物面充電",
+  "fr": "Parabocharge",
+  "de": "Parabolladung",
+  "es": "Carga Parábola",
+  "it": "Caricaparabola",
+  "en": "Parabolic Charge",
+  "ja": "パラボラチャージ",
+  "zh-hans": "抛物面充电",
+  "es-419": "Carga Parabólica"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 65,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "all-other-pokemon",
+ "effect": {
+  "en": "Heals the user for half the total damage dealt to all targets."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "주위에 있는 모든 포켓몬에게 데미지를 준다. 준 데미지의 절반을 자신이 회복한다.",
+  "en": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+ }
+}

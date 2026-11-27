@@ -1,0 +1,20 @@
+{
+ "name": "swift-mochi",
+ "names": {
+  "ja-hrkt": "しゅんぱつのもち",
+  "ko": "순발력떡",
+  "zh-hant": "瞬發糬",
+  "fr": "Mochi Sprint",
+  "de": "Flink-Mochi",
+  "es": "Mochi Ímpetu",
+  "it": "Mochi della reazione",
+  "en": "Swift Mochi",
+  "ja": "しゅんぱつのもち",
+  "zh-hans": "瞬发粘糕"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

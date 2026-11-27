@@ -1,0 +1,17 @@
+{
+ "name": "arcanine-hisui",
+ "form_name": "hisui",
+ "names": {
+  "fr": "Arcanin de Hisui",
+  "de": "Hisui Arkani",
+  "en": "Hisuian Arcanine"
+ },
+ "form_names": {
+  "ja-hrkt": "ヒスイのすがた",
+  "fr": "Forme de Hisui",
+  "de": "Hisui-Form",
+  "en": "Hisuian Form",
+  "ja": "ヒスイのすがた"
+ },
+ "is_mega": false
+}

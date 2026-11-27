@@ -1,0 +1,28 @@
+{
+ "name": "electric-gem",
+ "names": {
+  "ja-hrkt": "でんきのジュエル",
+  "ko": "전기주얼",
+  "zh-hant": "電之寶石",
+  "fr": "Joyau Électrik",
+  "de": "Elektrojuwel",
+  "es": "Gema Eléctrica",
+  "it": "Bijouelettro",
+  "en": "Electric Gem",
+  "ja": "でんきのジュエル",
+  "zh-hans": "电之宝石",
+  "es-419": "Gema Eléctrica"
+ },
+ "category": "jewels",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Lorsque le porteur utilise une capacité offensive de type Électrik, la puissance de la capacité augmente de 50% et cet objet est consommé.",
+  "en": "Held: When the holder uses a damaging Electric-type move, the move has 1.5× power and this item is consumed."
+ },
+ "flavor": {
+  "en": "A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move one time.",
+  "ko": "전기타입의 주얼. 지니게 하면 한 번만 전기 기술의 위력이 강해진다.",
+  "ja": "でんきの タイプの ジュエル。 持たせると １度だけ でんきの 技の 威力が 強まる。"
+ }
+}

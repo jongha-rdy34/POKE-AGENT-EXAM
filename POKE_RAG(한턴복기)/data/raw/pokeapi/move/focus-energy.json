@@ -1,0 +1,31 @@
+{
+ "name": "focus-energy",
+ "names": {
+  "ja-hrkt": "きあいだめ",
+  "ko": "기충전",
+  "zh-hant": "聚氣",
+  "fr": "Puissance",
+  "de": "Energiefokus",
+  "es": "Foco Energía",
+  "it": "Focalenergia",
+  "en": "Focus Energy",
+  "ja": "きあいだめ",
+  "zh-hans": "聚气",
+  "es-419": "Centrar Energía"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 30,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Increases the user’s chance to score a critical hit."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user takes a deep breath and focuses so that its future attacks have a heightened chance of landing critical hits.",
+  "ko": "깊게 숨을 들이마셔 기합을 넣는다. 자신의 공격이 급소에 맞기 쉬워진다."
+ }
+}

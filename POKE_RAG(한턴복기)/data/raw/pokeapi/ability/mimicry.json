@@ -1,0 +1,23 @@
+{
+ "name": "mimicry",
+ "names": {
+  "ja-hrkt": "ぎたい",
+  "ko": "의태",
+  "zh-hant": "擬態",
+  "fr": "Mimétisme",
+  "de": "Mimese",
+  "es": "Mimetismo",
+  "it": "Mimetismo",
+  "en": "Mimicry",
+  "ja": "ぎたい",
+  "zh-hans": "拟态",
+  "es-419": "Mimetismo"
+ },
+ "effect": {
+  "en": "Changes type depending on the terrain."
+ },
+ "flavor": {
+  "ko": "필드의 상태에 따라 포켓몬의 타입이 바뀐다.",
+  "en": "Changes the Pokémon’s type depending on the terrain."
+ }
+}

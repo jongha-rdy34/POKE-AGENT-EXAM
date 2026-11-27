@@ -1,0 +1,46 @@
+{
+ "id": 127,
+ "name": "pinsir",
+ "names": {
+  "ja-hrkt": "カイロス",
+  "ja-roma": "Kailios",
+  "ko": "쁘사이저",
+  "zh-hant": "凱羅斯",
+  "fr": "Scarabrute",
+  "de": "Pinsir",
+  "es": "Pinsir",
+  "it": "Pinsir",
+  "en": "Pinsir",
+  "ja": "カイロス",
+  "zh-hans": "凯罗斯",
+  "es-419": "Pinsir"
+ },
+ "genus": {
+  "ja-hrkt": "くわがたポケモン",
+  "ko": "뿔집게포켓몬",
+  "zh-hant": "鍬形蟲寶可夢",
+  "fr": "Pokémon Scarabée",
+  "de": "Kneifkäfer-Pokémon",
+  "es": "Pokémon Escarabajo",
+  "it": "Pokémon Cervolante",
+  "en": "Stag Beetle Pokémon",
+  "ja": "くわがたポケモン",
+  "zh-hans": "锹形虫宝可梦",
+  "es-419": "Pokémon Escarabajo"
+ },
+ "flavor": {
+  "en": "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.",
+  "ko": "뿔로 먹이를 찔러 넣어 그대로 두 동강으로 만들거나 강제로 던져버린다."
+ },
+ "varieties": [
+  {
+   "name": "pinsir",
+   "is_default": true
+  },
+  {
+   "name": "pinsir-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "62"
+}

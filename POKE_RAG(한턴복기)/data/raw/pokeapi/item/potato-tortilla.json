@@ -1,0 +1,20 @@
+{
+ "name": "potato-tortilla",
+ "names": {
+  "ja-hrkt": "トルティージャ",
+  "ko": "토르티야",
+  "zh-hant": "烘蛋",
+  "fr": "Tortilla",
+  "de": "Tortilla",
+  "es": "Tortilla",
+  "it": "Tortilla",
+  "en": "Potato Tortilla",
+  "ja": "トルティージャ",
+  "zh-hans": "烘蛋"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

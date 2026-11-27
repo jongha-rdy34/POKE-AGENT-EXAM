@@ -1,0 +1,25 @@
+{
+ "name": "tr72",
+ "names": {
+  "ja-hrkt": "わざレコード７２",
+  "ko": "기술레코드72",
+  "zh-hant": "招式紀錄７２",
+  "fr": "DT72",
+  "de": "TP72",
+  "es": "DT72",
+  "it": "DT72",
+  "en": "TR72",
+  "ja": "わざレコード７２",
+  "zh-hans": "招式记录７２",
+  "es-419": "DT72"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "덩굴이나 촉수를 세차게 흔들어 상대를 힘껏 쳐서 공격한다.",
+  "en": "The user violently whirls its vines, tentacles, or the like to harshly lash the target.",
+  "ja": "ツタや 触手を 激しく ふるって 相手を たたきつけ 攻撃する。"
+ }
+}

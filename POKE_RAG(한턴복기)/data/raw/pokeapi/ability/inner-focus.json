@@ -1,0 +1,23 @@
+{
+ "name": "inner-focus",
+ "names": {
+  "ja-hrkt": "せいしんりょく",
+  "ko": "정신력",
+  "zh-hant": "精神力",
+  "fr": "Attention",
+  "de": "Konzentrator",
+  "es": "Fuerza Mental",
+  "it": "Forza Interiore",
+  "en": "Inner Focus",
+  "ja": "せいしんりょく",
+  "zh-hans": "精神力",
+  "es-419": "Fuerza Mental"
+ },
+ "effect": {
+  "en": "Prevents flinching."
+ },
+ "flavor": {
+  "en": "The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.",
+  "ko": "단련한 정신으로 인하여 상대의 공격에 풀죽지 않는다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "ability-capsule",
+ "names": {
+  "ja-hrkt": "とくせいカプセル",
+  "ko": "특성캡슐",
+  "zh-hant": "特性膠囊",
+  "fr": "Pilule Talent",
+  "de": "Fähigkeiten-Kapsel",
+  "es": "Cáps. Habilidad",
+  "it": "Capsula abilità",
+  "en": "Ability Capsule",
+  "ja": "とくせいカプセル",
+  "zh-hans": "特性胶囊",
+  "es-419": "Cáps. Habilidad"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Pokémon d'alterner entre ses deux Talents (non cachés) possibles.",
+  "en": "Switches a Pokémon between its two possible (non-Hidden) Abilities."
+ },
+ "flavor": {
+  "ko": "2종류의 특성을 가진 포켓몬에게 사용하면 지금과는 다른 특성으로 바꿀 수 있는 캡슐.",
+  "en": "A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.",
+  "ja": "２種類の 特性を 持つ ポケモンに 使うと 今とは違う 特性に 変えられる カプセル。"
+ }
+}

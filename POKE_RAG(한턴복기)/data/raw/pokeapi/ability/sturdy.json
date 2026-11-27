@@ -1,0 +1,23 @@
+{
+ "name": "sturdy",
+ "names": {
+  "ja-hrkt": "がんじょう",
+  "ko": "옹골참",
+  "zh-hant": "結實",
+  "fr": "Fermeté",
+  "de": "Robustheit",
+  "es": "Robustez",
+  "it": "Vigore",
+  "en": "Sturdy",
+  "ja": "がんじょう",
+  "zh-hans": "结实",
+  "es-419": "Robustez"
+ },
+ "effect": {
+  "en": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+ },
+ "flavor": {
+  "en": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.",
+  "ko": "상대 기술을 받아도 일격으로 쓰러지지 않는다. 일격필살 기술도 효과 없다."
+ }
+}

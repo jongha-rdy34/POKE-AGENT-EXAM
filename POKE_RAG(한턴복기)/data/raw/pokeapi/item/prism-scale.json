@@ -1,0 +1,28 @@
+{
+ "name": "prism-scale",
+ "names": {
+  "ja-hrkt": "きれいなウロコ",
+  "ko": "고운비늘",
+  "zh-hant": "美麗鱗片",
+  "fr": "Bel’Écaille",
+  "de": "Schönschuppe",
+  "es": "Escama Bella",
+  "it": "Squama Bella",
+  "en": "Prism Scale",
+  "ja": "きれいなウロコ",
+  "zh-hans": "美丽鳞片",
+  "es-419": "Escama Bella"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur un Barpau: Le porteur évolue en Milobellus.",
+  "en": "Traded on a Feebas: Holder evolves into Milotic."
+ },
+ "flavor": {
+  "en": "A mysterious scale that causes a certain Pokémon to evolve. It shines in rainbow colors.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 비늘. 무지갯빛으로 빛나고 있다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な ウロコ。 にじ色に 輝いている。"
+ }
+}

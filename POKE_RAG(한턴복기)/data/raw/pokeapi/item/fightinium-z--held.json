@@ -1,0 +1,28 @@
+{
+ "name": "fightinium-z--held",
+ "names": {
+  "ja-hrkt": "カクトウＺ",
+  "ko": "격투Z",
+  "zh-hant": "格鬥Ｚ",
+  "fr": "Combazélite",
+  "de": "Battalium Z",
+  "es": "Lizastal Z",
+  "it": "Luctium Z",
+  "en": "Fightinium Z",
+  "ja": "カクトウＺ",
+  "zh-hans": "格斗Ｚ",
+  "es-419": "Lizastal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Combat.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 격투타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Fighting-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 かくとうタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

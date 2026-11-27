@@ -1,0 +1,42 @@
+{
+ "id": 111,
+ "name": "rhyhorn",
+ "names": {
+  "ja-hrkt": "サイホーン",
+  "ja-roma": "Sihorn",
+  "ko": "뿔카노",
+  "zh-hant": "獨角犀牛",
+  "fr": "Rhinocorne",
+  "de": "Rihorn",
+  "es": "Rhyhorn",
+  "it": "Rhyhorn",
+  "en": "Rhyhorn",
+  "ja": "サイホーン",
+  "zh-hans": "独角犀牛",
+  "es-419": "Rhyhorn"
+ },
+ "genus": {
+  "ja-hrkt": "とげとげポケモン",
+  "ko": "뿔포켓몬",
+  "zh-hant": "尖尖寶可夢",
+  "fr": "Pokémon Piquant",
+  "de": "Stachler-Pokémon",
+  "es": "Pokémon Clavos",
+  "it": "Pokémon Punzoni",
+  "en": "Spikes Pokémon",
+  "ja": "とげとげポケモン",
+  "zh-hans": "尖尖宝可梦",
+  "es-419": "Pokémon Clavos"
+ },
+ "flavor": {
+  "en": "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something.",
+  "ko": "한 가지만 기억할 수 있다. 돌진하기 시작하면 이유가 무엇이었든 금방 잊어버린다."
+ },
+ "varieties": [
+  {
+   "name": "rhyhorn",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "50"
+}

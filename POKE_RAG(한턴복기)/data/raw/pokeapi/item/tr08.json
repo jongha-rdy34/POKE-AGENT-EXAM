@@ -1,0 +1,25 @@
+{
+ "name": "tr08",
+ "names": {
+  "ja-hrkt": "わざレコード０８",
+  "ko": "기술레코드08",
+  "zh-hant": "招式紀錄０８",
+  "fr": "DT08",
+  "de": "TP08",
+  "es": "DT08",
+  "it": "DT08",
+  "en": "TR08",
+  "ja": "わざレコード０８",
+  "zh-hans": "招式记录０８",
+  "es-419": "DT08"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강한 전격을 상대에게 날려서 공격한다. 마비 상태로 만들 때가 있다.",
+  "en": "A strong electric blast crashes down on the target. This may also leave the target with paralysis.",
+  "ja": "強い 電撃を 相手に 浴びせて 攻撃する。 まひ状態に することが ある。"
+ }
+}

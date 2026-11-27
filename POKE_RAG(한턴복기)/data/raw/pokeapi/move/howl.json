@@ -1,0 +1,31 @@
+{
+ "name": "howl",
+ "names": {
+  "ja-hrkt": "とおぼえ",
+  "ko": "멀리짖기",
+  "zh-hant": "長嚎",
+  "fr": "Grondement",
+  "de": "Jauler",
+  "es": "Aullido",
+  "it": "Gridodilotta",
+  "en": "Howl",
+  "ja": "とおぼえ",
+  "zh-hans": "长嚎",
+  "es-419": "Aullido"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 40,
+ "priority": 0,
+ "target": "user-and-allies",
+ "effect": {
+  "en": "Raises the user’s Attack by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user howls loudly to rouse itself and its allies. This boosts their Attack stats.",
+  "ko": "큰 소리로 짖고 기합을 높여 자신과 같은 편의 공격을 올린다."
+ }
+}

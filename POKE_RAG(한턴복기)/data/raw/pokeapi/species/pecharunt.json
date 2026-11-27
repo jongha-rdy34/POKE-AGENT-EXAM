@@ -1,0 +1,35 @@
+{
+ "id": 1025,
+ "name": "pecharunt",
+ "names": {
+  "ja-hrkt": "モモワロウ",
+  "ja-roma": "Momowarou",
+  "ko": "복숭악동",
+  "zh-hant": "桃歹郎",
+  "fr": "Pêchaminus",
+  "de": "Infamomo",
+  "es": "Pecharunt",
+  "it": "Pecharunt",
+  "en": "Pecharunt",
+  "ja": "モモワロウ",
+  "zh-hans": "桃歹郎",
+  "es-419": "Pecharunt"
+ },
+ "genus": {
+  "ja-hrkt": "しはいポケモン",
+  "ko": "지배포켓몬",
+  "fr": "Emprise",
+  "en": "Subjugation Pokémon",
+  "ja": "しはいポケモン"
+ },
+ "flavor": {
+  "en": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "pecharunt",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "549"
+}

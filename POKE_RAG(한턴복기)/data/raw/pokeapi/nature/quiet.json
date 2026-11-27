@@ -1,0 +1,18 @@
+{
+ "name": "quiet",
+ "names": {
+  "ja-hrkt": "れいせい",
+  "ko": "냉정",
+  "zh-hant": "冷靜",
+  "fr": "Discret",
+  "de": "Ruhig",
+  "es": "Mansa",
+  "it": "Quieta",
+  "en": "Quiet",
+  "ja": "れいせい",
+  "zh-hans": "冷静",
+  "es-419": "Apacible"
+ },
+ "plus": "special-attack",
+ "minus": "speed"
+}

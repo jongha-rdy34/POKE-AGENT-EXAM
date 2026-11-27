@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-uma3569",
+ "names": {
+  "ja-hrkt": "★UMa3569",
+  "ko": "★UMa3569",
+  "zh-hant": "★UMa3569",
+  "fr": "★UMa3569",
+  "de": "★UMa3569",
+  "es": "★UMa3569",
+  "it": "★UMa3569",
+  "en": "★UMa3569",
+  "ja": "★UMa3569",
+  "zh-hans": "★UMa3569",
+  "es-419": "★UMa3569"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

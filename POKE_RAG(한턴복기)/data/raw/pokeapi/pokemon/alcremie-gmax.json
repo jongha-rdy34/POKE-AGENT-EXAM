@@ -1,0 +1,30 @@
+{
+ "id": 10223,
+ "name": "alcremie-gmax",
+ "species": "alcremie",
+ "is_default": false,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 65,
+  "attack": 60,
+  "defense": 75,
+  "special-attack": 110,
+  "special-defense": 121,
+  "speed": 64
+ },
+ "abilities": [
+  {
+   "name": "sweet-veil",
+   "hidden": false
+  },
+  {
+   "name": "aroma-veil",
+   "hidden": true
+  }
+ ],
+ "height": 300,
+ "weight": 10000,
+ "champions_moves": []
+}

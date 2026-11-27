@@ -1,0 +1,42 @@
+{
+ "id": 112,
+ "name": "rhydon",
+ "names": {
+  "ja-hrkt": "サイドン",
+  "ja-roma": "Sidon",
+  "ko": "코뿌리",
+  "zh-hant": "鑽角犀獸",
+  "fr": "Rhinoféros",
+  "de": "Rizeros",
+  "es": "Rhydon",
+  "it": "Rhydon",
+  "en": "Rhydon",
+  "ja": "サイドン",
+  "zh-hans": "钻角犀兽",
+  "es-419": "Rhydon"
+ },
+ "genus": {
+  "ja-hrkt": "ドリルポケモン",
+  "ko": "드릴포켓몬",
+  "zh-hant": "鑽錐寶可夢",
+  "fr": "Pokémon Perceur",
+  "de": "Bohrer-Pokémon",
+  "es": "Pokémon Taladro",
+  "it": "Pokémon Trapano",
+  "en": "Drill Pokémon",
+  "ja": "ドリルポケモン",
+  "zh-hans": "钻锥宝可梦",
+  "es-419": "Pokémon Taladro"
+ },
+ "flavor": {
+  "en": "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide.",
+  "ko": "전신을 갑옷 같은 피부로 보호하고 있다. 2000도의 마그마 속에서도 살 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "rhydon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "50"
+}

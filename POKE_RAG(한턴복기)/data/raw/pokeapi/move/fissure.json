@@ -1,0 +1,31 @@
+{
+ "name": "fissure",
+ "names": {
+  "ja-hrkt": "じわれ",
+  "ko": "땅가르기",
+  "zh-hant": "地裂",
+  "fr": "Abîme",
+  "de": "Geofissur",
+  "es": "Fisura",
+  "it": "Abisso",
+  "en": "Fissure",
+  "ja": "じわれ",
+  "zh-hans": "地裂",
+  "es-419": "Fisura"
+ },
+ "type": "ground",
+ "category": "physical",
+ "power": null,
+ "accuracy": 30,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Causes a one-hit KO."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.",
+  "ko": "땅이 갈라진 곳에 상대를 떨어뜨려 공격한다. 맞으면 일격에 기절한다."
+ }
+}

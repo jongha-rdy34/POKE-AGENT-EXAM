@@ -1,0 +1,30 @@
+{
+ "name": "moon-stone",
+ "names": {
+  "ja-hrkt": "つきのいし",
+  "ko": "달의돌",
+  "zh-hant": "月之石",
+  "fr": "Pierre Lune",
+  "de": "Mondstein",
+  "es": "Piedra Lunar",
+  "it": "Pietralunare",
+  "en": "Moon Stone",
+  "ja": "つきのいし",
+  "zh-hans": "月之石",
+  "es-419": "Piedra Lunar"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Mélofée en Mélodelfe, un Rondoudou en Grodoudou, un Munna en Mushana, un Nidorina en Nidoqueen, un Nidorino en Nidoking, ou un Skitty en Delcatty.",
+  "en": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It is as black as the night sky.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 밤하늘처럼 까맣다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 夜空のように 黒い。"
+ }
+}

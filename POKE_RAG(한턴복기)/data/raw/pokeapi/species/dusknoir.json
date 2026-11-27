@@ -1,0 +1,42 @@
+{
+ "id": 477,
+ "name": "dusknoir",
+ "names": {
+  "ja-hrkt": "ヨノワール",
+  "ja-roma": "Yonoir",
+  "ko": "야느와르몽",
+  "zh-hant": "黑夜魔靈",
+  "fr": "Noctunoir",
+  "de": "Zwirrfinst",
+  "es": "Dusknoir",
+  "it": "Dusknoir",
+  "en": "Dusknoir",
+  "ja": "ヨノワール",
+  "zh-hans": "黑夜魔灵",
+  "es-419": "Dusknoir"
+ },
+ "genus": {
+  "ja-hrkt": "てづかみポケモン",
+  "ko": "움켜쥠포켓몬",
+  "zh-hant": "抓握寶可夢",
+  "fr": "Pokémon Mainpince",
+  "de": "Greifer-Pokémon",
+  "es": "Pokémon Grilletes",
+  "it": "Pokémon Pinza",
+  "en": "Gripper Pokémon",
+  "ja": "てづかみポケモン",
+  "zh-hans": "抓握宝可梦",
+  "es-419": "Pokémon Grilletes"
+ },
+ "flavor": {
+  "en": "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely.",
+  "ko": "노린 상대를 배의 입으로 통째로 삼킨다. 영혼만 먹은 뒤 육체는 뱉어내고 떠난다."
+ },
+ "varieties": [
+  {
+   "name": "dusknoir",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "182"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "mega-anchor",
+ "names": {
+  "ja-hrkt": "メガイカリ",
+  "ko": "메가앵커",
+  "zh-hant": "超級船錨",
+  "fr": "Méga-Ancre",
+  "de": "Mega-Anker",
+  "es": "Megaancla",
+  "it": "Megaancora",
+  "en": "Mega Anchor",
+  "ja": "メガイカリ",
+  "zh-hans": "超级船锚",
+  "es-419": "Megaancla"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Gemme Sésame d'un PNJ non utilisée.",
+  "en": "Unused NPC Key Stone."
+ },
+ "flavor": {
+  "ko": "메가스톤을 지닌 채로 싸우는 포켓몬을 메가진화시키는 미지의 힘을 가진 앵커.",
+  "en": "This anchor contains an untold power that somehow enables Pokémon carrying a Mega Stone to Mega Evolve in battle.",
+  "ja": "メガストーンを 持ったまま 戦う ポケモンを メガシンカさせる 未知のパワーを 秘めた アンカー。"
+ }
+}

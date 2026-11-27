@@ -1,0 +1,42 @@
+{
+ "id": 84,
+ "name": "doduo",
+ "names": {
+  "ja-hrkt": "ドードー",
+  "ja-roma": "Dodo",
+  "ko": "두두",
+  "zh-hant": "嘟嘟",
+  "fr": "Doduo",
+  "de": "Dodu",
+  "es": "Doduo",
+  "it": "Doduo",
+  "en": "Doduo",
+  "ja": "ドードー",
+  "zh-hans": "嘟嘟",
+  "es-419": "Doduo"
+ },
+ "genus": {
+  "ja-hrkt": "ふたごどりポケモン",
+  "ko": "쌍둥이새포켓몬",
+  "zh-hant": "兩頭鳥寶可夢",
+  "fr": "Pokémon Duoiseau",
+  "de": "Duovogel",
+  "es": "Pokémon Ave Gemela",
+  "it": "Pokémon Biuccello",
+  "en": "Twin Bird Pokémon",
+  "ja": "ふたごどりポケモン",
+  "zh-hans": "两头鸟宝可梦",
+  "es-419": "Pokémon Ave Gemela"
+ },
+ "flavor": {
+  "en": "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",
+  "ko": "날개가 짧아서 하늘을 나는 것은 서투르지만 대신 발달한 다리로 빠르게 달릴 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "doduo",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "36"
+}

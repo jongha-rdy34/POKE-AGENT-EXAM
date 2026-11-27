@@ -1,0 +1,33 @@
+{
+ "name": "x-speed",
+ "names": {
+  "ja-hrkt": "スピーダー",
+  "ko": "스피드업",
+  "zh-hant": "速度強化",
+  "fr": "Vitesse +",
+  "de": "X-Initiative",
+  "es": "Velocidad X",
+  "it": "Velocità X",
+  "en": "X Speed",
+  "ja": "スピーダー",
+  "zh-hans": "速度强化",
+  "es-419": "Velocidad X"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente la Vitesse d'un niveau en combat. Augmente le bonheur.",
+  "en": "Raises Speed by one stage in battle.  Raises happiness."
+ },
+ "flavor": {
+  "en": "An item that sharply boosts the Speed stat of a Pokémon during a battle. It wears off once the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 스피드를 크게 올리는 도구. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 素早さを 大きく あげる 道具。 ひっこめると 元に 戻る。"
+ }
+}

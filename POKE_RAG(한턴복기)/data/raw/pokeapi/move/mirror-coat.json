@@ -1,0 +1,31 @@
+{
+ "name": "mirror-coat",
+ "names": {
+  "ja-hrkt": "ミラーコート",
+  "ko": "미러코트",
+  "zh-hant": "鏡面反射",
+  "fr": "Voile Miroir",
+  "de": "Spiegelcape",
+  "es": "Manto Espejo",
+  "it": "Specchiovelo",
+  "en": "Mirror Coat",
+  "ja": "ミラーコート",
+  "zh-hans": "镜面反射",
+  "es-419": "Escudo Espejo"
+ },
+ "type": "psychic",
+ "category": "special",
+ "power": null,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": -5,
+ "target": "specific-move",
+ "effect": {
+  "en": "Inflicts twice the damage the user received from the last special hit it took."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A retaliatory attack that counters any special move, inflicting double the damage taken.",
+  "ko": "상대에게 받은 특수공격의 데미지를 2배로 만들어 그 상대에게 돌려준다."
+ }
+}

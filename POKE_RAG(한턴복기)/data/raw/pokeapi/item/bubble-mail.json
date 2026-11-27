@@ -1,0 +1,22 @@
+{
+ "name": "bubble-mail",
+ "names": {
+  "ja-hrkt": "ブルーメール",
+  "fr": "Lettre Mer",
+  "de": "Wasserbrief",
+  "es": "Carta Pompas",
+  "it": "Mess. Bolla",
+  "en": "Bubble Mail",
+  "es-419": "Carta Pompas"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring a print of a blue world underwater. Let a Pokémon hold it for delivery."
+ }
+}

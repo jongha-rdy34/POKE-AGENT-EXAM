@@ -1,0 +1,23 @@
+{
+ "name": "mirror-armor",
+ "names": {
+  "ja-hrkt": "ミラーアーマー",
+  "ko": "미러아머",
+  "zh-hant": "鏡甲",
+  "fr": "Armure Miroir",
+  "de": "Spiegelrüstung",
+  "es": "Coraza Reflejo",
+  "it": "Blindospecchio",
+  "en": "Mirror Armor",
+  "ja": "ミラーアーマー",
+  "zh-hans": "镜甲",
+  "es-419": "Coraza Reflejo"
+ },
+ "effect": {
+  "en": "Reflects any stat-lowering effects."
+ },
+ "flavor": {
+  "ko": "자신이 받는 능력 다운 효과에 한해 되받아친다.",
+  "en": "Bounces back only the stat-lowering effects that the Pokémon receives."
+ }
+}

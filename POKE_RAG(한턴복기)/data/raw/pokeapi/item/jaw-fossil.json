@@ -1,0 +1,28 @@
+{
+ "name": "jaw-fossil",
+ "names": {
+  "ja-hrkt": "アゴのカセキ",
+  "ko": "턱화석",
+  "zh-hant": "顎之化石",
+  "fr": "Fossile Mâchoire",
+  "de": "Kieferfossil",
+  "es": "Fósil Mandíbula",
+  "it": "Fossilmascella",
+  "en": "Jaw Fossil",
+  "ja": "アゴのカセキ",
+  "zh-hans": "颚之化石",
+  "es-419": "Fósil Mandíbula"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut être ressuscité en Ptyranidur.",
+  "en": "Can be revived into a Tyrunt."
+ },
+ "flavor": {
+  "ko": "오랜 옛날 지상에서 살았던 고대 포켓몬의 화석. 커다란 턱의 일부인 듯하다.",
+  "en": "A fossil from a prehistoric Pokémon that once lived on the land. It looks as if it could be a piece of a large jaw.",
+  "ja": "大昔 地上で 暮らした 古代ポケモンの カセキ。 大きな アゴの 一部らしい。"
+ }
+}

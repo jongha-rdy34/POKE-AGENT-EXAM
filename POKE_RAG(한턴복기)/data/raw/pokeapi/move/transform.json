@@ -1,0 +1,31 @@
+{
+ "name": "transform",
+ "names": {
+  "ja-hrkt": "へんしん",
+  "ko": "변신",
+  "zh-hant": "變身",
+  "fr": "Morphing",
+  "de": "Wandler",
+  "es": "Transformación",
+  "it": "Trasformazione",
+  "en": "Transform",
+  "ja": "へんしん",
+  "zh-hans": "变身",
+  "es-419": "Transformación"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User becomes a copy of the target until it leaves battle."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user transforms into a copy of the target, right down to having the same move set.",
+  "ko": "상대 포켓몬으로 변신하여 상대와 완전히 똑같은 기술을 사용할 수 있다."
+ }
+}

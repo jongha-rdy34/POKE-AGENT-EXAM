@@ -1,0 +1,20 @@
+{
+ "name": "morpeko-snack",
+ "names": {
+  "ja-hrkt": "モルペコのたね",
+  "ko": "모르페코의씨앗",
+  "zh-hant": "莫魯貝可的種子",
+  "fr": "Graine de Morpeko",
+  "de": "Morpeko-Samen",
+  "es": "Semilla de Morpeko",
+  "it": "Seme di Morpeko",
+  "en": "Morpeko Snack",
+  "ja": "モルペコのたね",
+  "zh-hans": "莫鲁贝可的种子"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

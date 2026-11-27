@@ -1,0 +1,42 @@
+{
+ "id": 156,
+ "name": "quilava",
+ "names": {
+  "ja-hrkt": "マグマラシ",
+  "ja-roma": "Magmarashi",
+  "ko": "마그케인",
+  "zh-hant": "火岩鼠",
+  "fr": "Feurisson",
+  "de": "Igelavar",
+  "es": "Quilava",
+  "it": "Quilava",
+  "en": "Quilava",
+  "ja": "マグマラシ",
+  "zh-hans": "火岩鼠",
+  "es-419": "Quilava"
+ },
+ "genus": {
+  "ja-hrkt": "かざんポケモン",
+  "ko": "화산포켓몬",
+  "zh-hant": "火山寶可夢",
+  "fr": "Pokémon Volcan",
+  "de": "Vulkan",
+  "es": "Pokémon Volcán",
+  "it": "Pokémon Vulcano",
+  "en": "Volcano Pokémon",
+  "ja": "かざんポケモン",
+  "zh-hans": "火山宝可梦",
+  "es-419": "Pokémon Volcán"
+ },
+ "flavor": {
+  "en": "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack.",
+  "ko": "불꽃의 기세와 열풍으로 위협한다. 재빠른 몸동작으로 상대의 공격을 피하면서 동시에 불꽃으로 태운다."
+ },
+ "varieties": [
+  {
+   "name": "quilava",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "80"
+}

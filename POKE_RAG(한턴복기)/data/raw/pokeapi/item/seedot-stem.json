@@ -1,0 +1,20 @@
+{
+ "name": "seedot-stem",
+ "names": {
+  "ja-hrkt": "タネボーのえだ",
+  "ko": "도토링의가지",
+  "zh-hant": "橡實果的枝條",
+  "fr": "Tige de Grainipiot",
+  "de": "Samurzel-Zweig",
+  "es": "Tallo de Seedot",
+  "it": "Picciolo di Seedot",
+  "en": "Seedot Stem",
+  "ja": "タネボーのえだ",
+  "zh-hans": "橡实果的枝条"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

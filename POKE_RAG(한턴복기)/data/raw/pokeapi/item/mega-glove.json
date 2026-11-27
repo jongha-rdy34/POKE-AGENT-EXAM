@@ -1,0 +1,28 @@
+{
+ "name": "mega-glove",
+ "names": {
+  "ja-hrkt": "メガグローブ",
+  "ko": "메가글러브",
+  "zh-hant": "超級手套",
+  "fr": "Méga-Gant",
+  "de": "Mega-Handschuh",
+  "es": "Megaguante",
+  "it": "Megaguanto",
+  "en": "Mega Glove",
+  "ja": "メガグローブ",
+  "zh-hans": "超级手套",
+  "es-419": "Megaguante"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Gemme Sésame d'un PNJ non utilisée.",
+  "en": "Unused NPC Key Stone."
+ },
+ "flavor": {
+  "ko": "메가스톤을 지닌 채로 싸우는 포켓몬을 메가진화시키는 미지의 힘을 가진 글러브.",
+  "en": "This glove contains an untold power that somehow enables Pokémon carrying Mega Stones to Mega Evolve in battle.",
+  "ja": "メガストーンを 持ったまま 戦う ポケモンを メガシンカさせる 未知のパワーを 秘めた グローブ。"
+ }
+}

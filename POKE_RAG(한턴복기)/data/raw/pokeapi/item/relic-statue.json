@@ -1,0 +1,28 @@
+{
+ "name": "relic-statue",
+ "names": {
+  "ja-hrkt": "こだいのせきぞう",
+  "ko": "고대의석상",
+  "zh-hant": "古代石像",
+  "fr": "Vieux Santon",
+  "de": "Alte Statue",
+  "es": "Efigie Antigua",
+  "it": "Statuantica",
+  "en": "Relic Statue",
+  "ja": "こだいのせきぞう",
+  "zh-hans": "古代石像",
+  "es-419": "Efigie Antigua"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À vendre au père de la famille Colay-Monthé pour 200000 Pokédollars.",
+  "en": "Sell to Villa Owner 200000 Pokédollars."
+ },
+ "flavor": {
+  "en": "A stone figurine made by an ancient civilization about three thousand years ago.",
+  "ko": "3000년 정도 된 오랜 문명에서 만들어진 석상.",
+  "ja": "３０００年ほど 昔の 文明で つくられた 石像。"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "blue-card",
+ "names": {
+  "ja-hrkt": "ブルーカード",
+  "ko": "블루카드",
+  "zh-hant": "藍卡",
+  "fr": "Carte Bleue",
+  "de": "Blaue Karte",
+  "es": "Tarjeta Azul",
+  "it": "Carta Blu",
+  "en": "Blue Card",
+  "ja": "ブルーカード",
+  "zh-hans": "蓝卡",
+  "es-419": "Tarjeta Azul"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Garde une trace des points du Mot de Passe de Buena.",
+  "en": "Keeps track of points from Buena’s show."
+ },
+ "flavor": {
+  "en": "A card to save points for the Buena’s Password show.",
+  "ko": "“규화의 암호\" 방송의 포인트를 모으는 카드.",
+  "ja": "「アオイのあいことば」 番組の ポイントを 貯める カード。"
+ }
+}

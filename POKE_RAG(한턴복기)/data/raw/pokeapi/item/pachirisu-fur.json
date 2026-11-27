@@ -1,0 +1,20 @@
+{
+ "name": "pachirisu-fur",
+ "names": {
+  "ja-hrkt": "パチリスのけ",
+  "ko": "파치리스의털",
+  "zh-hant": "帕奇利茲的毛",
+  "fr": "Poils de Pachirisu",
+  "de": "Pachirisu-Haar",
+  "es": "Pelo de Pachirisu",
+  "it": "Pelo di Pachirisu",
+  "en": "Pachirisu Fur",
+  "ja": "パチリスのけ",
+  "zh-hans": "帕奇利兹的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,31 @@
+{
+ "name": "avalanche",
+ "names": {
+  "ja-hrkt": "ゆきなだれ",
+  "ko": "눈사태",
+  "zh-hant": "雪崩",
+  "fr": "Avalanche",
+  "de": "Lawine",
+  "es": "Alud",
+  "it": "Slavina",
+  "en": "Avalanche",
+  "ja": "ゆきなだれ",
+  "zh-hans": "雪崩",
+  "es-419": "Alud"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 60,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": -4,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts double damage if the user takes damage before attacking this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move's power is doubled if the target has inflicted damage on the user in the same turn.",
+  "ko": "상대로부터 기술을 받으면 그 상대에 대해서 기술의 위력이 2배가 된다."
+ }
+}

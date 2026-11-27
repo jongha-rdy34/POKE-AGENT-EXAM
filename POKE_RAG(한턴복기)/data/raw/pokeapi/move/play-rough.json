@@ -1,0 +1,31 @@
+{
+ "name": "play-rough",
+ "names": {
+  "ja-hrkt": "じゃれつく",
+  "ko": "치근거리기",
+  "zh-hant": "嬉鬧",
+  "fr": "Câlinerie",
+  "de": "Knuddler",
+  "es": "Carantoña",
+  "it": "Carineria",
+  "en": "Play Rough",
+  "ja": "じゃれつく",
+  "zh-hans": "嬉闹",
+  "es-419": "Juego Rudo"
+ },
+ "type": "fairy",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to lower the target’s Attack by one stage."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "ko": "상대에게 치근거리며 공격한다. 상대의 공격을 떨어뜨릴 때가 있다.",
+  "en": "The user attacks by playing rough with the target. This may also lower the target's Attack stat."
+ }
+}

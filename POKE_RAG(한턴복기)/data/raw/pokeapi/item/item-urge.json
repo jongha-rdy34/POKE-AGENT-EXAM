@@ -1,0 +1,28 @@
+{
+ "name": "item-urge",
+ "names": {
+  "ja-hrkt": "アイテムコール",
+  "ko": "아이템콜",
+  "zh-hant": "？？？",
+  "fr": "Appel Objet",
+  "de": "Itemappell",
+  "es": "Activaobjeto",
+  "it": "Chiamoggetto",
+  "en": "Item Urge",
+  "ja": "アイテムコール",
+  "zh-hans": "？？？",
+  "es-419": "Activaobjeto"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Force l'activation de l'objet tenu d'un Pokémon allié.",
+  "en": "Forcibly activates a friendly Pokémon’s held item."
+ },
+ "flavor": {
+  "en": "When used, it causes an ally Pokémon to use its held item.",
+  "ko": "사용하면 같은 편 포켓몬이 지니고 있는 도구를 바로 쓴다.",
+  "ja": "使うと 味方の ポケモンが 持っている 道具を すぐ使う。"
+ }
+}

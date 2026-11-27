@@ -1,0 +1,31 @@
+{
+ "name": "follow-me",
+ "names": {
+  "ja-hrkt": "このゆびとまれ",
+  "ko": "날따름",
+  "zh-hant": "看我嘛",
+  "fr": "Par Ici",
+  "de": "Spotlight",
+  "es": "Señuelo",
+  "it": "Sonoqui",
+  "en": "Follow Me",
+  "ja": "このゆびとまれ",
+  "zh-hans": "看我嘛",
+  "es-419": "Señuelo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 20,
+ "priority": 2,
+ "target": "user",
+ "effect": {
+  "en": "Redirects the target’s single-target effects to the user for this turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user draws attention to itself, making all opposing Pokémon take aim only at the user.",
+  "ko": "자신에게 주목시켜 상대로부터의 공격을 모두 자신에게 향하게 한다."
+ }
+}

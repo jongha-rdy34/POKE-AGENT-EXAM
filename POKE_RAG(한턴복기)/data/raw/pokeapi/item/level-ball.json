@@ -1,0 +1,28 @@
+{
+ "name": "level-ball",
+ "names": {
+  "ja-hrkt": "レベルボール",
+  "ko": "레벨볼",
+  "zh-hant": "等級球",
+  "fr": "Niveau Ball",
+  "de": "Levelball",
+  "es": "Nivel Ball",
+  "it": "Level Ball",
+  "en": "Level Ball",
+  "ja": "レベルボール",
+  "zh-hans": "等级球",
+  "es-419": "Nivelabola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Le taux de succès dépend des niveaux du Pokémon de l'utilisateur et de la cible. Fait à partir de Noigrume Rge.",
+  "en": "Success rate based off of fraction target Pokémon is of user’s Pokémon. Made from Red Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that makes it easier to catch Pokémon that are at a lower level than your own Pokémon.",
+  "ko": "자신의 포켓몬보다 레벨이 낮을수록 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "自分の ポケモンより レベルが 低いほど 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

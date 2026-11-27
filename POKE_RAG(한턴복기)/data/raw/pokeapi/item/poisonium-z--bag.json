@@ -1,0 +1,28 @@
+{
+ "name": "poisonium-z--bag",
+ "names": {
+  "ja-hrkt": "ドクＺ",
+  "ko": "독Z",
+  "zh-hant": "毒Ｚ",
+  "fr": "Toxizélite",
+  "de": "Toxium Z",
+  "es": "Toxistal Z",
+  "it": "Venenium Z",
+  "en": "Poisonium Z",
+  "ja": "ドクＺ",
+  "zh-hans": "毒Ｚ",
+  "es-419": "Toxistal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour poisonium-z--bag",
+  "en": "XXX new effect for poisonium-z--bag"
+ },
+ "flavor": {
+  "ko": "독타입 기술을 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Poison-type moves to Poison-type Z-Moves.",
+  "ja": "どくタイプの 技を Ｚワザに グレードアップする Ｚパワーの 結晶を 作りだす。"
+ }
+}

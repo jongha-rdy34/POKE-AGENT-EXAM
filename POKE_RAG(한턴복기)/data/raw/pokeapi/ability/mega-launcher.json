@@ -1,0 +1,23 @@
+{
+ "name": "mega-launcher",
+ "names": {
+  "ja-hrkt": "メガランチャー",
+  "ko": "메가런처",
+  "zh-hant": "超級發射器",
+  "fr": "Méga Blaster",
+  "de": "Megawumme",
+  "es": "Megadisparador",
+  "it": "Megalancio",
+  "en": "Mega Launcher",
+  "ja": "メガランチャー",
+  "zh-hans": "超级发射器",
+  "es-419": "Megalanzador"
+ },
+ "effect": {
+  "en": "Strengthens aura and pulse moves to 1.5× their power."
+ },
+ "flavor": {
+  "ko": "파동 기술의 위력이 올라간다.",
+  "en": "Powers up pulse moves."
+ }
+}

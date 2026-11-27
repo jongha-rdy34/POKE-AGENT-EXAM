@@ -1,0 +1,21 @@
+{
+ "name": "strange-ball",
+ "names": {
+  "ja-hrkt": "ストレンジボール",
+  "ko": "스트레인지볼",
+  "zh-hant": "奇異球",
+  "fr": "Étrange Ball",
+  "de": "Rätselball",
+  "es": "Extraña Ball",
+  "it": "Strange Ball",
+  "en": "Strange Ball",
+  "ja": "ストレンジボール",
+  "zh-hans": "奇异球",
+  "es-419": "Extrañabola"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

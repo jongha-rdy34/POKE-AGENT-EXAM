@@ -1,0 +1,42 @@
+{
+ "id": 650,
+ "name": "chespin",
+ "names": {
+  "ja-hrkt": "ハリマロン",
+  "ja-roma": "Harimaron",
+  "ko": "도치마론",
+  "zh-hant": "哈力栗",
+  "fr": "Marisson",
+  "de": "Igamaro",
+  "es": "Chespin",
+  "it": "Chespin",
+  "en": "Chespin",
+  "ja": "ハリマロン",
+  "zh-hans": "哈力栗",
+  "es-419": "Chespin"
+ },
+ "genus": {
+  "ja-hrkt": "いがぐりポケモン",
+  "ko": "밤송이포켓몬",
+  "zh-hant": "刺栗寶可夢",
+  "fr": "Pokémon Bogue",
+  "de": "Stachelkopf",
+  "es": "Pokémon Erizo",
+  "it": "Pokémon Castanriccio",
+  "en": "Spiny Nut Pokémon",
+  "ja": "いがぐりポケモン",
+  "zh-hans": "刺栗宝可梦",
+  "es-419": "Pokémon Erizo"
+ },
+ "flavor": {
+  "ko": "머리와 등이 단단한 껍데기로 덮여 있기 때문에 트럭이 부딪혀와도 아무렇지 않다.",
+  "en": "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it."
+ },
+ "varieties": [
+  {
+   "name": "chespin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "337"
+}

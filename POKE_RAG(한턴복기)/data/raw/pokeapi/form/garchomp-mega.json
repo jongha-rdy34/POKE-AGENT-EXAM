@@ -1,0 +1,23 @@
+{
+ "name": "garchomp-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Carchacrok",
+  "de": "Mega-Knakrack",
+  "en": "Mega Garchomp"
+ },
+ "form_names": {
+  "ja-hrkt": "メガガブリアス",
+  "ko": "메가한카리아스",
+  "zh-hant": "超級烈咬陸鯊",
+  "fr": "Méga-Carchacrok",
+  "de": "Mega-Form",
+  "es": "Mega-Garchomp",
+  "it": "MegaGarchomp",
+  "en": "Mega Garchomp",
+  "ja": "メガガブリアス",
+  "zh-hans": "超级烈咬陆鲨",
+  "es-419": "Mega-Garchomp"
+ },
+ "is_mega": true
+}

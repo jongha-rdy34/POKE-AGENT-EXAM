@@ -1,0 +1,46 @@
+{
+ "id": 58,
+ "name": "growlithe",
+ "names": {
+  "ja-hrkt": "ガーディ",
+  "ja-roma": "Gardie",
+  "ko": "가디",
+  "zh-hant": "卡蒂狗",
+  "fr": "Caninos",
+  "de": "Fukano",
+  "es": "Growlithe",
+  "it": "Growlithe",
+  "en": "Growlithe",
+  "ja": "ガーディ",
+  "zh-hans": "卡蒂狗",
+  "es-419": "Growlithe"
+ },
+ "genus": {
+  "ja-hrkt": "こいぬポケモン",
+  "ko": "강아지포켓몬",
+  "zh-hant": "小狗寶可夢",
+  "fr": "Pokémon Chiot",
+  "de": "Welpen-Pokémon",
+  "es": "Pokémon Perrito",
+  "it": "Pokémon Cagnolino",
+  "en": "Puppy Pokémon",
+  "ja": "こいぬポケモン",
+  "zh-hans": "小狗宝可梦",
+  "es-419": "Pokémon Perrito"
+ },
+ "flavor": {
+  "en": "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat.",
+  "ko": "충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다."
+ },
+ "varieties": [
+  {
+   "name": "growlithe",
+   "is_default": true
+  },
+  {
+   "name": "growlithe-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "25"
+}

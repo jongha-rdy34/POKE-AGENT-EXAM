@@ -1,0 +1,46 @@
+{
+ "id": 214,
+ "name": "heracross",
+ "names": {
+  "ja-hrkt": "ヘラクロス",
+  "ja-roma": "Heracros",
+  "ko": "헤라크로스",
+  "zh-hant": "赫拉克羅斯",
+  "fr": "Scarhino",
+  "de": "Skaraborn",
+  "es": "Heracross",
+  "it": "Heracross",
+  "en": "Heracross",
+  "ja": "ヘラクロス",
+  "zh-hans": "赫拉克罗斯",
+  "es-419": "Heracross"
+ },
+ "genus": {
+  "ja-hrkt": "１ぽんヅノポケモン",
+  "ko": "외뿔포켓몬",
+  "zh-hant": "獨角寶可夢",
+  "fr": "Pokémon Unicorne",
+  "de": "Einzelhorn-Pokémon",
+  "es": "Pokémon Cuerno",
+  "it": "Pokémon Monocorno",
+  "en": "Single Horn Pokémon",
+  "ja": "１ぽんヅノポケモン",
+  "zh-hans": "独角宝可梦",
+  "es-419": "Pokémon Cuerno"
+ },
+ "flavor": {
+  "en": "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once.",
+  "ko": "자신 몸무게의 100배에 달하는 무게도 거뜬히 들어 올리는 괴력을 자랑하는 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "heracross",
+   "is_default": true
+  },
+  {
+   "name": "heracross-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "108"
+}

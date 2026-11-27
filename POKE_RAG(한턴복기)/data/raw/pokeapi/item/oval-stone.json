@@ -1,0 +1,30 @@
+{
+ "name": "oval-stone",
+ "names": {
+  "ja-hrkt": "まんまるいし",
+  "ko": "동글동글돌",
+  "zh-hant": "渾圓之石",
+  "fr": "Pierre Ovale",
+  "de": "Ovaler Stein",
+  "es": "Piedra Oval",
+  "it": "Pietraovale",
+  "en": "Oval Stone",
+  "ja": "まんまるいし",
+  "zh-hans": "浑圆之石",
+  "es-419": "Piedra Oval"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Montée de niveau pendant le Jour sur un Ptiravi : Le porteur évolue en Leveinard.",
+  "en": "Level-up during Day on a Happiny: Holder evolves into Chansey."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It’s as round as a Pokémon Egg.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 구슬처럼 둥글다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 たまのように まるい。"
+ }
+}

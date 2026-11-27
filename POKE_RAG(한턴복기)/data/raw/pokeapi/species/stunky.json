@@ -1,0 +1,42 @@
+{
+ "id": 434,
+ "name": "stunky",
+ "names": {
+  "ja-hrkt": "スカンプー",
+  "ja-roma": "Skunpuu",
+  "ko": "스컹뿡",
+  "zh-hant": "臭鼬噗",
+  "fr": "Moufouette",
+  "de": "Skunkapuh",
+  "es": "Stunky",
+  "it": "Stunky",
+  "en": "Stunky",
+  "ja": "スカンプー",
+  "zh-hans": "臭鼬噗",
+  "es-419": "Stunky"
+ },
+ "genus": {
+  "ja-hrkt": "スカンクポケモン",
+  "ko": "스컹크포켓몬",
+  "zh-hant": "臭鼬寶可夢",
+  "fr": "Pokémon Moufette",
+  "de": "Stinktier-Pokémon",
+  "es": "Pokémon Mofeta",
+  "it": "Pokémon Moffetta",
+  "en": "Skunk Pokémon",
+  "ja": "スカンクポケモン",
+  "zh-hans": "臭鼬宝可梦",
+  "es-419": "Pokémon Mofeta"
+ },
+ "flavor": {
+  "en": "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss.",
+  "ko": "꼬리를 들고 엉덩이를 돌리면 주의해야 한다. 기절할 정도로 악취 나는 분비액을 날릴 전조인 것이다."
+ },
+ "varieties": [
+  {
+   "name": "stunky",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "223"
+}

@@ -1,0 +1,23 @@
+{
+ "name": "meowstic-female",
+ "form_name": "female",
+ "names": {
+  "fr": "Mistigrix Femelle",
+  "de": "Psiaugon ♀",
+  "en": "Female Meowstic"
+ },
+ "form_names": {
+  "ja-hrkt": "メスのすがた",
+  "ko": "암컷의 모습",
+  "zh-hant": "雌性的樣子",
+  "fr": "Femelle",
+  "de": "Weiblich",
+  "es": "Hembra",
+  "it": "Femmina",
+  "en": "Female",
+  "ja": "メスのすがた",
+  "zh-hans": "雌性的样子",
+  "es-419": "Hembra"
+ },
+ "is_mega": false
+}

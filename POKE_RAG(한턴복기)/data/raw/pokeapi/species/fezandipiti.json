@@ -1,0 +1,33 @@
+{
+ "id": 1016,
+ "name": "fezandipiti",
+ "names": {
+  "ja-hrkt": "キチキギス",
+  "ja-roma": "Kichikigisu",
+  "ko": "기로치",
+  "zh-hant": "吉雉雞",
+  "fr": "Favianos",
+  "de": "Beatori",
+  "es": "Fezandipiti",
+  "it": "Fezandipiti",
+  "en": "Fezandipiti",
+  "ja": "キチキギス",
+  "zh-hans": "吉雉鸡",
+  "es-419": "Fezandipiti"
+ },
+ "genus": {
+  "ko": "수하포켓몬",
+  "fr": "Serviteur",
+  "en": "Retainer Pokémon"
+ },
+ "flavor": {
+  "en": "Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "fezandipiti",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "542"
+}

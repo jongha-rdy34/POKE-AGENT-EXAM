@@ -1,0 +1,64 @@
+{
+ "id": 10013,
+ "name": "castform-sunny",
+ "species": "castform",
+ "is_default": false,
+ "types": [
+  "fire"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 70,
+  "defense": 70,
+  "special-attack": 70,
+  "special-defense": 70,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "forecast",
+   "hidden": false
+  }
+ ],
+ "height": 3,
+ "weight": 8,
+ "champions_moves": [
+  "amnesia",
+  "attract",
+  "avalanche",
+  "blizzard",
+  "body-slam",
+  "chilling-water",
+  "cosmic-power",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fire-blast",
+  "flamethrower",
+  "future-sight",
+  "guard-swap",
+  "hex",
+  "hurricane",
+  "hydro-pump",
+  "ice-beam",
+  "icy-wind",
+  "protect",
+  "rain-dance",
+  "rest",
+  "round",
+  "sandstorm",
+  "scald",
+  "shadow-ball",
+  "sleep-talk",
+  "snore",
+  "snowscape",
+  "solar-beam",
+  "substitute",
+  "sunny-day",
+  "thief",
+  "thunder",
+  "thunder-wave",
+  "thunderbolt",
+  "weather-ball"
+ ]
+}

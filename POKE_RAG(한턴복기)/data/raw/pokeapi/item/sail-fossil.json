@@ -1,0 +1,28 @@
+{
+ "name": "sail-fossil",
+ "names": {
+  "ja-hrkt": "ヒレのカセキ",
+  "ko": "지느러미화석",
+  "zh-hant": "鰭之化石",
+  "fr": "Fossile Nageoire",
+  "de": "Flossenfossil",
+  "es": "Fósil Aleta",
+  "it": "Fossilpinna",
+  "en": "Sail Fossil",
+  "ja": "ヒレのカセキ",
+  "zh-hans": "鳍之化石",
+  "es-419": "Fósil Aleta"
+ },
+ "category": "dex-completion",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Peut être ressuscité en Amagara.",
+  "en": "Can be revived into an Amaura."
+ },
+ "flavor": {
+  "ko": "오랜 옛날 지상에서 살았던 고대 포켓몬의 화석. 목지느러미의 일부인 듯하다.",
+  "en": "A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.",
+  "ja": "大昔 地上で 暮らした 古代ポケモンの カセキ。 首の ヒレの 一部らしい。"
+ }
+}

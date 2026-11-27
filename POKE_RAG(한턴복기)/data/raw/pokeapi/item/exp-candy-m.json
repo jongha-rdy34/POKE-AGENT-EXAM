@@ -1,0 +1,25 @@
+{
+ "name": "exp-candy-m",
+ "names": {
+  "ja-hrkt": "けいけんアメＭ",
+  "ko": "경험사탕M",
+  "zh-hant": "經驗糖果Ｍ",
+  "fr": "Bonbon Exp. M",
+  "de": "EP-Bonbon M",
+  "es": "Caramelo Exp. M",
+  "it": "Caram. Esp. M",
+  "en": "Exp. Candy M",
+  "ja": "けいけんアメＭ",
+  "zh-hans": "经验糖果Ｍ",
+  "es-419": "Caramelo Exp. M"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 먹이면 포켓몬 1마리의 경험치가 올라간다.",
+  "en": "A candy that is packed with energy. When consumed, it will grant a single Pokémon a moderate amount of Exp. Points.",
+  "ja": "エネルギーの つまった アメ。 与えると ポケモン １匹の 経験値が 増える。"
+ }
+}

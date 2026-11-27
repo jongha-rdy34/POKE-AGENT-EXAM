@@ -1,0 +1,23 @@
+{
+ "name": "harvest",
+ "names": {
+  "ja-hrkt": "しゅうかく",
+  "ko": "수확",
+  "zh-hant": "收穫",
+  "fr": "Récolte",
+  "de": "Reiche Ernte",
+  "es": "Cosecha",
+  "it": "Coglibacche",
+  "en": "Harvest",
+  "ja": "しゅうかく",
+  "zh-hans": "收获",
+  "es-419": "Cosecha"
+ },
+ "effect": {
+  "en": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+ },
+ "flavor": {
+  "en": "May create another Berry after one is used.",
+  "ko": "사용한 나무열매를 몇 번이고 만들어 낸다."
+ }
+}

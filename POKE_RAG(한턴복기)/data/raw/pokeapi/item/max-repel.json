@@ -1,0 +1,28 @@
+{
+ "name": "max-repel",
+ "names": {
+  "ja-hrkt": "ゴールドスプレー",
+  "ko": "골드스프레이",
+  "zh-hant": "黃金噴霧",
+  "fr": "Repousse Max",
+  "de": "Top-Schutz",
+  "es": "Repelente Máximo",
+  "it": "Repellente Max",
+  "en": "Max Repel",
+  "ja": "ゴールドスプレー",
+  "zh-hans": "黄金喷雾",
+  "es-419": "Repelente Máximo"
+ },
+ "category": "spelunking",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Pendant 250 pas, empêche les rencontres sauvages de niveau inférieur au Pokémon en tête de votre équipe.",
+  "en": "For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+ },
+ "flavor": {
+  "en": "An item that prevents any low-level wild Pokémon from jumping out at you for a while. It lasts longer than Super Repel.",
+  "ko": "약한 야생 포켓몬이 전혀 나오지 않게 된다. 실버스프레이보다 효과가 오래간다.",
+  "ja": "弱い 野生の ポケモンが まったく でて こなくなる。 シルバースプレーより 長く 効く。"
+ }
+}

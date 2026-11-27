@@ -1,0 +1,54 @@
+{
+ "id": 6,
+ "name": "charizard",
+ "names": {
+  "ja-hrkt": "リザードン",
+  "ja-roma": "Lizardon",
+  "ko": "리자몽",
+  "zh-hant": "噴火龍",
+  "fr": "Dracaufeu",
+  "de": "Glurak",
+  "es": "Charizard",
+  "it": "Charizard",
+  "en": "Charizard",
+  "ja": "リザードン",
+  "zh-hans": "喷火龙",
+  "es-419": "Charizard"
+ },
+ "genus": {
+  "ja-hrkt": "かえんポケモン",
+  "ko": "화염포켓몬",
+  "zh-hant": "火焰寶可夢",
+  "fr": "Pokémon Flamme",
+  "de": "Flammen-Pokémon",
+  "es": "Pokémon Llama",
+  "it": "Pokémon Fiamma",
+  "en": "Flame Pokémon",
+  "ja": "かえんポケモン",
+  "zh-hans": "火焰宝可梦",
+  "es-419": "Pokémon Llama"
+ },
+ "flavor": {
+  "en": "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.",
+  "ko": "지상 1400m까지 날개를 사용해 날 수 있다. 고열의 불꽃을 내뿜는다."
+ },
+ "varieties": [
+  {
+   "name": "charizard",
+   "is_default": true
+  },
+  {
+   "name": "charizard-mega-x",
+   "is_default": false
+  },
+  {
+   "name": "charizard-mega-y",
+   "is_default": false
+  },
+  {
+   "name": "charizard-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "2"
+}

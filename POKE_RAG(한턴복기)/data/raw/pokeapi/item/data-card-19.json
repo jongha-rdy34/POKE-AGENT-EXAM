@@ -1,0 +1,28 @@
+{
+ "name": "data-card-19",
+ "names": {
+  "ja-hrkt": "データカード１９",
+  "ko": "데이터카드19",
+  "zh-hant": "資料卡１９",
+  "fr": "Carte Mémo19",
+  "de": "Datenkarte19",
+  "es": "Tarjeta Datos 19",
+  "it": "Scheda Dati 19",
+  "en": "Data Card 19",
+  "ja": "データカード１９",
+  "zh-hans": "数据卡１９",
+  "es-419": "Tarjeta Datos 19"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier du Pokéathlon en Link.",
+  "en": "Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many Link Pokéathlon wins you have had.",
+  "ko": "포켓슬론의 기록이 들어 있다. 통신 포켓슬론의 우승 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 通信ポケスロンの 優勝 回数が 記録された カード。"
+ }
+}

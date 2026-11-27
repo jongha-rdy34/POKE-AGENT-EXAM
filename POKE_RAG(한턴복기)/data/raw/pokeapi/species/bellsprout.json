@@ -1,0 +1,42 @@
+{
+ "id": 69,
+ "name": "bellsprout",
+ "names": {
+  "ja-hrkt": "マダツボミ",
+  "ja-roma": "Madatsubomi",
+  "ko": "모다피",
+  "zh-hant": "喇叭芽",
+  "fr": "Chétiflor",
+  "de": "Knofensa",
+  "es": "Bellsprout",
+  "it": "Bellsprout",
+  "en": "Bellsprout",
+  "ja": "マダツボミ",
+  "zh-hans": "喇叭芽",
+  "es-419": "Bellsprout"
+ },
+ "genus": {
+  "ja-hrkt": "フラワーポケモン",
+  "ko": "꽃포켓몬",
+  "zh-hant": "花寶可夢",
+  "fr": "Pokémon Fleur",
+  "de": "Blume",
+  "es": "Pokémon Flor",
+  "it": "Pokémon Fiore",
+  "en": "Flower Pokémon",
+  "ja": "フラワーポケモン",
+  "zh-hans": "花宝可梦",
+  "es-419": "Pokémon Flor"
+ },
+ "flavor": {
+  "en": "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.",
+  "ko": "온도가 높고 습기가 있는 장소를 좋아한다. 덩굴을 사용해 작은 벌레를 잡아먹는다."
+ },
+ "varieties": [
+  {
+   "name": "bellsprout",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "29"
+}

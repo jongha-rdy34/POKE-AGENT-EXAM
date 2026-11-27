@@ -1,0 +1,28 @@
+{
+ "name": "prison-bottle",
+ "names": {
+  "ja-hrkt": "いましめのツボ",
+  "ko": "굴레의항아리",
+  "zh-hant": "懲戒之壺",
+  "fr": "Vase Scellé",
+  "de": "Banngefäß",
+  "es": "Vasija Castigo",
+  "it": "Vaso del vincolo",
+  "en": "Prison Bottle",
+  "ja": "いましめのツボ",
+  "zh-hans": "惩戒之壶",
+  "es-419": "Vasija Castigo"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Transforme Hoopa en sa forme Déchaîné pour trois jours.",
+  "en": "Transforms Hoopa into its Unbound form for up to three days."
+ },
+ "flavor": {
+  "ko": "먼 옛날 어떤 포켓몬의 힘을 봉인했다고 여겨지는 항아리.",
+  "en": "A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",
+  "ja": "大昔に とある ポケモンの 力を 封じ込めたと される ツボ。"
+ }
+}

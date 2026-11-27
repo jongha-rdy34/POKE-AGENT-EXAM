@@ -1,0 +1,31 @@
+{
+ "name": "light-screen",
+ "names": {
+  "ja-hrkt": "ひかりのかべ",
+  "ko": "빛의장막",
+  "zh-hant": "光牆",
+  "fr": "Mur Lumière",
+  "de": "Lichtschild",
+  "es": "Pantalla de Luz",
+  "it": "Schermoluce",
+  "en": "Light Screen",
+  "ja": "ひかりのかべ",
+  "zh-hans": "光墙",
+  "es-419": "Pantalla de Luz"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 30,
+ "priority": 0,
+ "target": "users-field",
+ "effect": {
+  "en": "Reduces damage from special attacks by 50% for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A wondrous wall of light is put up to reduce damage from special moves for five turns.",
+  "ko": "5턴 동안 이상한 장막을 쳐서 상대로부터 받는 특수공격의 데미지를 약하게 한다."
+ }
+}

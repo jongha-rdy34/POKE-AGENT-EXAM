@@ -1,0 +1,42 @@
+{
+ "id": 169,
+ "name": "crobat",
+ "names": {
+  "ja-hrkt": "クロバット",
+  "ja-roma": "Crobat",
+  "ko": "크로뱃",
+  "zh-hant": "叉字蝠",
+  "fr": "Nostenfer",
+  "de": "Iksbat",
+  "es": "Crobat",
+  "it": "Crobat",
+  "en": "Crobat",
+  "ja": "クロバット",
+  "zh-hans": "叉字蝠",
+  "es-419": "Crobat"
+ },
+ "genus": {
+  "ja-hrkt": "こうもりポケモン",
+  "ko": "박쥐포켓몬",
+  "zh-hant": "蝙蝠寶可夢",
+  "fr": "Pokémon Chovsouris",
+  "de": "Fledermaus-Pokémon",
+  "es": "Pokémon Murciélago",
+  "it": "Pokémon Pipistrello",
+  "en": "Bat Pokémon",
+  "ja": "こうもりポケモン",
+  "zh-hans": "蝙蝠宝可梦",
+  "es-419": "Pokémon Murciélago"
+ },
+ "flavor": {
+  "en": "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed.",
+  "ko": "4장의 날개를 자유자재로 움직이며 날갯짓한다. 좁은 동굴에서도 속도를 늦추지 않고 날아다닐 수 있다."
+ },
+ "varieties": [
+  {
+   "name": "crobat",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "17"
+}

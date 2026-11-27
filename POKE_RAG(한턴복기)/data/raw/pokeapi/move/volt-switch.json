@@ -1,0 +1,31 @@
+{
+ "name": "volt-switch",
+ "names": {
+  "ja-hrkt": "ボルトチェンジ",
+  "ko": "볼트체인지",
+  "zh-hant": "伏特替換",
+  "fr": "Change Éclair",
+  "de": "Voltwechsel",
+  "es": "Voltiocambio",
+  "it": "Invertivolt",
+  "en": "Volt Switch",
+  "ja": "ボルトチェンジ",
+  "zh-hans": "伏特替换",
+  "es-419": "Cambiavoltaje"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 70,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User must switch out after attacking."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",
+  "ko": "공격한 뒤 굉장한 스피드로 돌아와서 교대 포켓몬과 교체한다."
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 328,
+ "name": "trapinch",
+ "names": {
+  "ja-hrkt": "ナックラー",
+  "ja-roma": "Nuckrar",
+  "ko": "톱치",
+  "zh-hant": "大顎蟻",
+  "fr": "Kraknoix",
+  "de": "Knacklion",
+  "es": "Trapinch",
+  "it": "Trapinch",
+  "en": "Trapinch",
+  "ja": "ナックラー",
+  "zh-hans": "大颚蚁",
+  "es-419": "Trapinch"
+ },
+ "genus": {
+  "ja-hrkt": "ありじごくポケモン",
+  "ko": "개미지옥포켓몬",
+  "zh-hant": "蟻獅寶可夢",
+  "fr": "Pokémon Piégeur",
+  "de": "Ameisenlöwen-Pokémon",
+  "es": "Pokémon Hormiga León",
+  "it": "Pokémon Trappola",
+  "en": "Ant Pit Pokémon",
+  "ja": "ありじごくポケモン",
+  "zh-hans": "蚁狮宝可梦",
+  "es-419": "Pokémon Hormiga León"
+ },
+ "flavor": {
+  "en": "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.",
+  "ko": "절대 탈출 불가능한 원뿔형의 둥지를 만들어 먹이가 떨어지는 것을 기다린다."
+ },
+ "varieties": [
+  {
+   "name": "trapinch",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "166"
+}

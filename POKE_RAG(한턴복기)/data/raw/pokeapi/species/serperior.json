@@ -1,0 +1,42 @@
+{
+ "id": 497,
+ "name": "serperior",
+ "names": {
+  "ja-hrkt": "ジャローダ",
+  "ja-roma": "Jalorda",
+  "ko": "샤로다",
+  "zh-hant": "君主蛇",
+  "fr": "Majaspic",
+  "de": "Serpiroyal",
+  "es": "Serperior",
+  "it": "Serperior",
+  "en": "Serperior",
+  "ja": "ジャローダ",
+  "zh-hans": "君主蛇",
+  "es-419": "Serperior"
+ },
+ "genus": {
+  "ja-hrkt": "ロイヤルポケモン",
+  "ko": "로열포켓몬",
+  "zh-hant": "皇家寶可夢",
+  "fr": "Pokémon Majestueux",
+  "de": "Hoheit",
+  "es": "Pokémon Realeza",
+  "it": "Pokémon Regale",
+  "en": "Regal Pokémon",
+  "ja": "ロイヤルポケモン",
+  "zh-hans": "皇家宝可梦",
+  "es-419": "Pokémon Realeza"
+ },
+ "flavor": {
+  "en": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
+  "ko": "째려보기만 해도 상대의 움직임을 멈추게 한다. 태양에너지를 체내에서 증폭시킨다."
+ },
+ "varieties": [
+  {
+   "name": "serperior",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "256"
+}

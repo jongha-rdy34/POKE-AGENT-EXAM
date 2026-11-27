@@ -1,0 +1,15 @@
+{
+ "name": "skarmory-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Airmure",
+  "en": "Mega Skarmory"
+ },
+ "form_names": {
+  "ja-hrkt": "メガエアームド",
+  "fr": "Méga-Airmure",
+  "en": "Mega Skarmory",
+  "ja": "メガエアームド"
+ },
+ "is_mega": true
+}

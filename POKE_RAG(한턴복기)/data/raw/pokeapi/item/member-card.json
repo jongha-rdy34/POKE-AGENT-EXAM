@@ -1,0 +1,28 @@
+{
+ "name": "member-card",
+ "names": {
+  "ja-hrkt": "メンバーズカード",
+  "ko": "멤버스카드",
+  "zh-hant": "會員卡",
+  "fr": "Carte Membre",
+  "de": "Mitgliedskarte",
+  "es": "Carné Socio",
+  "it": "Scheda Soci",
+  "en": "Member Card",
+  "ja": "メンバーズカード",
+  "zh-hans": "会员卡",
+  "es-419": "Carné Socio"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder à l'Île Nouvellune et Darkrai.",
+  "en": "Allows access to Newmoon Island and Darkrai."
+ },
+ "flavor": {
+  "en": "A card needed for entering the inn in Canalave City. Oddly, the last date marked on it was 50 years ago.",
+  "ko": "운하시티의 여관에 들어갈 수 있는 카드. 어찌된 일인지 50년 정도 전의 날짜가 새겨져 있다.",
+  "ja": "ミオシティの 宿屋に はいれる カード。 なぜか ５０年ほど前の 日付が 刻まれている。"
+ }
+}

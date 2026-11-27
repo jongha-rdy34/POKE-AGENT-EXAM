@@ -1,0 +1,31 @@
+{
+ "name": "tri-attack",
+ "names": {
+  "ja-hrkt": "トライアタック",
+  "ko": "트라이어택",
+  "zh-hant": "三重攻擊",
+  "fr": "Triplattaque",
+  "de": "Triplette",
+  "es": "Triataque",
+  "it": "Tripletta",
+  "en": "Tri Attack",
+  "ja": "トライアタック",
+  "zh-hans": "三重攻击",
+  "es-419": "Triataque"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to burn, freeze, or paralyze the target."
+ },
+ "effect_chance": 20,
+ "flavor": {
+  "en": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target.",
+  "ko": "3개의 광선으로 공격한다. 마비, 화상 또는 얼음 상태 중 어느 하나로 만들 때가 있다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "mach-bike",
+ "names": {
+  "ja-hrkt": "マッハじてんしゃ",
+  "ko": "마하자전거",
+  "zh-hant": "音速自行車",
+  "fr": "Vélo de Course",
+  "de": "Eilrad",
+  "es": "Bici de Carreras",
+  "it": "Bici da corsa",
+  "en": "Mach Bike",
+  "ja": "マッハじてんしゃ",
+  "zh-hans": "音速自行车",
+  "es-419": "Bici de Carreras"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Plus rapide que le Vélo Cross, et peut gravir des pentes sablonneuses et rouler sur des sols fissurés.",
+  "en": "Faster than the Acro Bike, and can ride up sandy slopes and across cracked floors."
+ },
+ "flavor": {
+  "en": "This folding bike more than doubles your movement speed.",
+  "ko": "2배 이상의 스피드로 이동할 수 있는 접이식 자전거다.",
+  "ja": "２倍 以上の 速さで 移動できる おりたたみの 自転車。"
+ }
+}

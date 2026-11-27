@@ -1,0 +1,42 @@
+{
+ "id": 588,
+ "name": "karrablast",
+ "names": {
+  "ja-hrkt": "カブルモ",
+  "ja-roma": "Kaburumo",
+  "ko": "딱정곤",
+  "zh-hant": "蓋蓋蟲",
+  "fr": "Carabing",
+  "de": "Laukaps",
+  "es": "Karrablast",
+  "it": "Karrablast",
+  "en": "Karrablast",
+  "ja": "カブルモ",
+  "zh-hans": "盖盖虫",
+  "es-419": "Karrablast"
+ },
+ "genus": {
+  "ja-hrkt": "かぶりつきポケモン",
+  "ko": "덥석물기포켓몬",
+  "zh-hant": "啃咬寶可夢",
+  "fr": "Pokémon Carabe",
+  "de": "Schnappbiss-Pokémon",
+  "es": "Pokémon Bocado",
+  "it": "Pokémon Addentatore",
+  "en": "Clamping Pokémon",
+  "ja": "かぶりつきポケモン",
+  "zh-hans": "啃咬宝可梦",
+  "es-419": "Pokémon Bocado"
+ },
+ "flavor": {
+  "en": "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents.",
+  "ko": "입에서 내뿜는 액체로 쪼마리의 껍질을 녹여서 내용물만 먹어 치운다."
+ },
+ "varieties": [
+  {
+   "name": "karrablast",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "299"
+}

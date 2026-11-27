@@ -1,0 +1,28 @@
+{
+ "name": "pass",
+ "names": {
+  "ja-hrkt": "リニアパス",
+  "ko": "리니어패스",
+  "zh-hant": "磁浮列車自由票",
+  "fr": "Passe Train",
+  "de": "Fahrschein",
+  "es": "Magnetopase",
+  "it": "Superpass",
+  "en": "Pass",
+  "ja": "リニアパス",
+  "zh-hans": "磁浮列车自由票",
+  "es-419": "Magnetopase"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet d'accéder et utiliser le Train Magnétique entre Doublonville et Safrania.",
+  "en": "Grants access to ride the Magnet Train between Goldenrod City and Saffron City."
+ },
+ "flavor": {
+  "en": "A pass required for riding the Magnet Train. It allows you to ride whenever and however much you’d like.",
+  "ko": "리니어 카를 탈 때 필요한 티켓. 언제든지 무제한으로 이용 가능.",
+  "ja": "リニアカーに 乗るときに 必要な チケット。 いつでも 乗り放題。"
+ }
+}

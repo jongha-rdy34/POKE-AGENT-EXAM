@@ -1,0 +1,42 @@
+{
+ "id": 495,
+ "name": "snivy",
+ "names": {
+  "ja-hrkt": "ツタージャ",
+  "ja-roma": "Tsutarja",
+  "ko": "주리비얀",
+  "zh-hant": "藤藤蛇",
+  "fr": "Vipélierre",
+  "de": "Serpifeu",
+  "es": "Snivy",
+  "it": "Snivy",
+  "en": "Snivy",
+  "ja": "ツタージャ",
+  "zh-hans": "藤藤蛇",
+  "es-419": "Snivy"
+ },
+ "genus": {
+  "ja-hrkt": "くさへびポケモン",
+  "ko": "풀뱀포켓몬",
+  "zh-hant": "草蛇寶可夢",
+  "fr": "Pokémon Serpenterbe",
+  "de": "Grasschlange",
+  "es": "Pokémon Serp. Hierba",
+  "it": "Pokémon Serperba",
+  "en": "Grass Snake Pokémon",
+  "ja": "くさへびポケモン",
+  "zh-hans": "草蛇宝可梦",
+  "es-419": "Pokémon Serp. Hierba"
+ },
+ "flavor": {
+  "en": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+  "ko": "꼬리로 태양의 빛을 받아 광합성한다. 기운이 빠지면 꼬리가 축 늘어진다."
+ },
+ "varieties": [
+  {
+   "name": "snivy",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "256"
+}

@@ -1,0 +1,28 @@
+{
+ "name": "hm04",
+ "names": {
+  "ja-hrkt": "ひでんマシン０４",
+  "ko": "비전머신04",
+  "zh-hant": "秘傳學習器０４",
+  "fr": "CS04",
+  "de": "VM04",
+  "es": "MO04",
+  "it": "MN04",
+  "en": "HM04",
+  "ja": "ひでんマシン０４",
+  "zh-hans": "秘传学习器０４",
+  "es-419": "MO04"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Force à un Pokémon compatible.",
+  "en": "Teaches Strength to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "- - -",
+  "ko": "- - -",
+  "ja": "ー ー ー"
+ }
+}

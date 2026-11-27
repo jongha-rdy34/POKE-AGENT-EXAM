@@ -1,0 +1,42 @@
+{
+ "id": 819,
+ "name": "skwovet",
+ "names": {
+  "ja-hrkt": "ホシガリス",
+  "ja-roma": "Hoshigarisu",
+  "ko": "탐리스",
+  "zh-hant": "貪心栗鼠",
+  "fr": "Rongourmand",
+  "de": "Raffel",
+  "es": "Skwovet",
+  "it": "Skwovet",
+  "en": "Skwovet",
+  "ja": "ホシガリス",
+  "zh-hans": "贪心栗鼠",
+  "es-419": "Skwovet"
+ },
+ "genus": {
+  "ja-hrkt": "ほおばりポケモン",
+  "ko": "볼가득포켓몬",
+  "zh-hant": "貪吃寶可夢",
+  "fr": "Pokémon Joufflu",
+  "de": "Raffbacken-Pokémon",
+  "es": "Pokémon Abazón",
+  "it": "Pokémon Guancepiene",
+  "en": "Cheeky Pokémon",
+  "ja": "ほおばりポケモン",
+  "zh-hans": "贪吃宝可梦",
+  "es-419": "Pokémon Abazón"
+ },
+ "flavor": {
+  "ko": "항상 나무열매를 먹고 있어 보기보다 튼튼하다. 나무열매를 노리고 밭에 출몰한다.",
+  "en": "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries."
+ },
+ "varieties": [
+  {
+   "name": "skwovet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "433"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "blue-poke-ball-pick",
+ "names": {
+  "ja-hrkt": "あおボールピック",
+  "ko": "파랑 볼 픽",
+  "zh-hant": "藍珠珠三明治籤",
+  "fr": "Pique à Ball Bleue",
+  "de": "Blauball-Pikser",
+  "es": "Palillo Ball Azul",
+  "it": "Stecchino Ball blu",
+  "en": "Blue Poké Ball Pick",
+  "ja": "あおボールピック",
+  "zh-hans": "蓝珠珠三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

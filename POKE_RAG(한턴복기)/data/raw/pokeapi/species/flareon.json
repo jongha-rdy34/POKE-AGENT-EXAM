@@ -1,0 +1,42 @@
+{
+ "id": 136,
+ "name": "flareon",
+ "names": {
+  "ja-hrkt": "ブースター",
+  "ja-roma": "Booster",
+  "ko": "부스터",
+  "zh-hant": "火伊布",
+  "fr": "Pyroli",
+  "de": "Flamara",
+  "es": "Flareon",
+  "it": "Flareon",
+  "en": "Flareon",
+  "ja": "ブースター",
+  "zh-hans": "火伊布",
+  "es-419": "Flareon"
+ },
+ "genus": {
+  "ja-hrkt": "ほのおポケモン",
+  "ko": "불꽃포켓몬",
+  "zh-hant": "火寶可夢",
+  "fr": "Pokémon Flamme",
+  "de": "Feuer-Pokémon",
+  "es": "Pokémon Llama",
+  "it": "Pokémon Fiamma",
+  "en": "Flame Pokémon",
+  "ja": "ほのおポケモン",
+  "zh-hans": "火宝可梦",
+  "es-419": "Pokémon Llama"
+ },
+ "flavor": {
+  "en": "Flames burn within a saclike organ inside this Pokémon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit.",
+  "ko": "들이마신 공기 중 일부는 체내의 불꽃 주머니로 보내져 1700도의 불꽃이 된다."
+ },
+ "varieties": [
+  {
+   "name": "flareon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "67"
+}

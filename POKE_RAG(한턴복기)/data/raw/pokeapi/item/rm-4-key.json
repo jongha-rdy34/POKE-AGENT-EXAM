@@ -1,0 +1,22 @@
+{
+ "name": "rm-4-key",
+ "names": {
+  "ja-hrkt": "４ごうしつのカギ",
+  "fr": "Clé Salle 4",
+  "de": "K4-Schlüssel",
+  "es": "Ll. Cabina 4",
+  "it": "Chiave Cab.4",
+  "en": "Rm. 4 Key",
+  "es-419": "Ll. Cabina 4"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Dévérouille la salle 4 du Lavandia Sea.",
+  "en": "Unlocks room 4 on the Abandoned Ship."
+ },
+ "flavor": {
+  "en": "A key that opens the door to Room 4 inside the ABANDONED SHIP. It is old and looks easily broken."
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "name": "rattled",
+ "names": {
+  "ja-hrkt": "びびり",
+  "ko": "주눅",
+  "zh-hant": "膽怯",
+  "fr": "Phobique",
+  "de": "Hasenfuß",
+  "es": "Cobardía",
+  "it": "Paura",
+  "en": "Rattled",
+  "ja": "びびり",
+  "zh-hans": "胆怯",
+  "es-419": "Cobardía"
+ },
+ "effect": {
+  "en": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move."
+ },
+ "flavor": {
+  "en": "The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat.",
+  "ko": "악타입과 고스트타입과 벌레타입의 기술을 받으면 주눅이 들어 스피드가 올라간다."
+ }
+}

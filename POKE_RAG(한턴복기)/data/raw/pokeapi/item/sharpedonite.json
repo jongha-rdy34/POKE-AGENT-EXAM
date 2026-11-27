@@ -1,0 +1,28 @@
+{
+ "name": "sharpedonite",
+ "names": {
+  "ja-hrkt": "サメハダナイト",
+  "ko": "샤크니아나이트",
+  "zh-hant": "巨牙鯊進化石",
+  "fr": "Sharpedite",
+  "de": "Tohaidonit",
+  "es": "Sharpedonita",
+  "it": "Sharpedite",
+  "en": "Sharpedonite",
+  "ja": "サメハダナイト",
+  "zh-hans": "巨牙鲨进化石",
+  "es-419": "Sharpedonita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Sharpedo de Méga-Évoluer en Méga-Sharpedo.",
+  "en": "Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo."
+ },
+ "flavor": {
+  "ko": "샤크니아에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Sharpedo hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "サメハダーに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "utility-umbrella",
+ "names": {
+  "ja-hrkt": "ばんのうがさ",
+  "ko": "만능우산",
+  "zh-hant": "萬能傘",
+  "fr": "Parapluie Solide",
+  "de": "Allzweckschirm",
+  "es": "Parasol Multiuso",
+  "it": "Superombrello",
+  "en": "Utility Umbrella",
+  "ja": "ばんのうがさ",
+  "zh-hans": "万能伞",
+  "es-419": "Parasol Multiuso"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "지니게 한 포켓몬은 비와 햇살이 강할 때의 영향을 받지 않게 된다.",
+  "en": "An item to be held by a Pokémon. This sturdy umbrella protects the holder from the effects of rain and harsh sunlight.",
+  "ja": "持たせた ポケモンは 雨と 日差しが強いときの 影響を 受けなくなる。"
+ }
+}

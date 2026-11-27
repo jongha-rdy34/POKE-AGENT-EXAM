@@ -1,0 +1,42 @@
+{
+ "id": 316,
+ "name": "gulpin",
+ "names": {
+  "ja-hrkt": "ゴクリン",
+  "ja-roma": "Gokulin",
+  "ko": "꼴깍몬",
+  "zh-hant": "溶食獸",
+  "fr": "Gloupti",
+  "de": "Schluppuck",
+  "es": "Gulpin",
+  "it": "Gulpin",
+  "en": "Gulpin",
+  "ja": "ゴクリン",
+  "zh-hans": "溶食兽",
+  "es-419": "Gulpin"
+ },
+ "genus": {
+  "ja-hrkt": "いぶくろポケモン",
+  "ko": "밥통포켓몬",
+  "zh-hant": "胃袋寶可夢",
+  "fr": "Pokémon Estomac",
+  "de": "Magen",
+  "es": "Pokémon Estómago",
+  "it": "Pokémon Stomaco",
+  "en": "Stomach Pokémon",
+  "ja": "いぶくろポケモン",
+  "zh-hans": "胃袋宝可梦",
+  "es-419": "Pokémon Estómago"
+ },
+ "flavor": {
+  "en": "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
+  "ko": "몸 대부분이 위로 되어 있어 심장이나 뇌는 매우 작다. 무엇이든 녹이는 특수한 위액을 지녔다."
+ },
+ "varieties": [
+  {
+   "name": "gulpin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "159"
+}

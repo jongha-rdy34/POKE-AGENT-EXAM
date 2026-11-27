@@ -1,0 +1,20 @@
+{
+ "name": "buizel-fur",
+ "names": {
+  "ja-hrkt": "ブイゼルのけ",
+  "ko": "브이젤의털",
+  "zh-hant": "泳圈鼬的毛",
+  "fr": "Poils de Mustébouée",
+  "de": "Bamelin-Haar",
+  "es": "Pelo de Buizel",
+  "it": "Pelo di Buizel",
+  "en": "Buizel Fur",
+  "ja": "ブイゼルのけ",
+  "zh-hans": "泳圈鼬的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

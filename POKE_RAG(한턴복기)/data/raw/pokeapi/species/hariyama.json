@@ -1,0 +1,42 @@
+{
+ "id": 297,
+ "name": "hariyama",
+ "names": {
+  "ja-hrkt": "ハリテヤマ",
+  "ja-roma": "Hariteyama",
+  "ko": "하리뭉",
+  "zh-hant": "鐵掌力士",
+  "fr": "Hariyama",
+  "de": "Hariyama",
+  "es": "Hariyama",
+  "it": "Hariyama",
+  "en": "Hariyama",
+  "ja": "ハリテヤマ",
+  "zh-hans": "铁掌力士",
+  "es-419": "Hariyama"
+ },
+ "genus": {
+  "ja-hrkt": "つっぱりポケモン",
+  "ko": "손바닥치기포켓몬",
+  "zh-hant": "猛推寶可夢",
+  "fr": "Pokémon Cogneur",
+  "de": "Armwurf",
+  "es": "Pokémon Empuje",
+  "it": "Pokémon Sberletese",
+  "en": "Arm Thrust Pokémon",
+  "ja": "つっぱりポケモン",
+  "zh-hans": "猛推宝可梦",
+  "es-419": "Pokémon Empuje"
+ },
+ "flavor": {
+  "en": "Hariyama that are big and fat aren’t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
+  "ko": "뚱뚱하고 큰 하리뭉이 다 강한 것은 아니다. 작지만 몸이 가볍고 기술이 뛰어난 하리뭉도 있다."
+ },
+ "varieties": [
+  {
+   "name": "hariyama",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "146"
+}

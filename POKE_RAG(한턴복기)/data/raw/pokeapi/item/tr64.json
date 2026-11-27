@@ -1,0 +1,25 @@
+{
+ "name": "tr64",
+ "names": {
+  "ja-hrkt": "わざレコード６４",
+  "ko": "기술레코드64",
+  "zh-hant": "招式紀錄６４",
+  "fr": "DT64",
+  "de": "TP64",
+  "es": "DT64",
+  "it": "DT64",
+  "en": "TR64",
+  "ja": "わざレコード６４",
+  "zh-hans": "招式记录６４",
+  "es-419": "DT64"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "기합을 높여서 혼신의 힘을 방출한다. 상대의 특수방어를 떨어뜨릴 때가 있다.",
+  "en": "The user heightens its mental focus and unleashes its power. This may also lower the target’s Sp. Def stat.",
+  "ja": "気合を 高めて ありったけの 力を 放出する。 相手の 特防を さげることが ある。"
+ }
+}

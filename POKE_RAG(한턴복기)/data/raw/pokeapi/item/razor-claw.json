@@ -1,0 +1,31 @@
+{
+ "name": "razor-claw",
+ "names": {
+  "ja-hrkt": "するどいツメ",
+  "ko": "예리한손톱",
+  "zh-hant": "銳利之爪",
+  "fr": "Griffe Rasoir",
+  "de": "Scharfklaue",
+  "es": "Garra Afilada",
+  "it": "Affilartigli",
+  "en": "Razor Claw",
+  "ja": "するどいツメ",
+  "zh-hans": "锐利之爪",
+  "es-419": "Garra Afilada"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente le taux de coups critiques du porteur d'un niveau. Porté par un Farfuret en montant de niveau la nuit: Le porteur évolue en Dimoret.",
+  "en": "Held: Raises the holder’s critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This sharply hooked claw increases the holder’s critical-hit ratio.",
+  "ko": "날카롭고 뾰족한 손톱. 지니게 하면 기술이 급소에 맞기 쉬워진다.",
+  "ja": "鋭く とがった ツメ。 持たせると 技が 急所に 当たりやすくなる。"
+ }
+}

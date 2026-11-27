@@ -1,0 +1,20 @@
+{
+ "name": "tm134",
+ "names": {
+  "ja-hrkt": "わざマシン１３４",
+  "ko": "기술머신134",
+  "zh-hant": "招式學習器１３４",
+  "fr": "CT134",
+  "de": "TM134",
+  "es": "MT134",
+  "it": "MT134",
+  "en": "TM134",
+  "ja": "わざマシン１３４",
+  "zh-hans": "招式学习器１３４"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

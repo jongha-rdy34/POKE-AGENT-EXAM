@@ -1,0 +1,30 @@
+{
+ "name": "yellow-scarf",
+ "names": {
+  "ja-hrkt": "きいろのバンダナ",
+  "ko": "노랑밴드",
+  "zh-hant": "黃色頭巾",
+  "fr": "Foulard Jaune",
+  "de": "Gelber Schal",
+  "es": "Pañuelo Amarillo",
+  "it": "Fascia Gialla",
+  "en": "Yellow Scarf",
+  "ja": "きいろのバンダナ",
+  "zh-hans": "黄色头巾",
+  "es-419": "Pañuelo Amarillo"
+ },
+ "category": "scarves",
+ "cost": null,
+ "attributes": [
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Augmente la Robustesse du porteur lors d'un concours.",
+  "en": "Raises the holder’s Toughness while in a contest."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. During a contest, it raises the Tough aspect of the Pokémon holding it.",
+  "ko": "지니게 하여 콘테스트에 참가하면 그 포켓몬은 여느 때보다 강인하게 보인다.",
+  "ja": "持たせて コンテストに 参加すると その ポケモンは いつもより たくましく みられる。"
+ }
+}

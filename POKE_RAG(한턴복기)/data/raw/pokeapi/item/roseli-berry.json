@@ -1,0 +1,28 @@
+{
+ "name": "roseli-berry",
+ "names": {
+  "ja-hrkt": "ロゼルのみ",
+  "ko": "로셀열매",
+  "zh-hant": "洛玫果",
+  "fr": "Baie Selro",
+  "de": "Hibisbeere",
+  "es": "Baya Hibis",
+  "it": "Baccarcadè",
+  "en": "Roseli Berry",
+  "ja": "ロゼルのみ",
+  "zh-hans": "洛玫果",
+  "es-419": "Baya Hibis"
+ },
+ "category": "type-protection",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Consommé quand touché par une attaque de type Fée super efficace pour diviser par deux les dégâts.",
+  "en": "Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage."
+ },
+ "flavor": {
+  "ko": "포켓몬에게 지니게 하면 효과가 뛰어난 페어리 기술을 당했을 때 위력이 약해진다.",
+  "en": "If held by a Pokémon, this Berry will lessen the damage taken from one supereffective Fairy-type attack.",
+  "ja": "ポケモンに 持たせると 効果バツグンの フェアリー技を 受けたとき 威力が 弱まる。"
+ }
+}

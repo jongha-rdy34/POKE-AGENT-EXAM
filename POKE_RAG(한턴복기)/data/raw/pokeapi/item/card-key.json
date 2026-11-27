@@ -1,0 +1,28 @@
+{
+ "name": "card-key",
+ "names": {
+  "ja-hrkt": "カードキー",
+  "ko": "카드키",
+  "zh-hant": "鑰匙卡",
+  "fr": "Carte Magnétique",
+  "de": "Schlüsselkarte",
+  "es": "Llave Magnética",
+  "it": "Apriporta",
+  "en": "Card Key",
+  "ja": "カードキー",
+  "zh-hans": "钥匙卡",
+  "es-419": "Llave Magnética"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "HS: Ouvre les portes de la Tour Radio. Gén III: Déverouille les portes de la Sylphe SARL.",
+  "en": "HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors."
+ },
+ "flavor": {
+  "en": "A card key that opens a shutter in the Radio Tower.",
+  "ko": "라디오방송국의 셔터를 여는 카드식 열쇠.",
+  "ja": "ラジオ局の シャッターを 開ける カード式の カギ。"
+ }
+}

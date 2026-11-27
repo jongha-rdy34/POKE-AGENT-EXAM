@@ -1,0 +1,25 @@
+{
+ "name": "tr51",
+ "names": {
+  "ja-hrkt": "わざレコード５１",
+  "ko": "기술레코드51",
+  "zh-hant": "招式紀錄５１",
+  "fr": "DT51",
+  "de": "TP51",
+  "es": "DT51",
+  "it": "DT51",
+  "en": "TR51",
+  "ja": "わざレコード５１",
+  "zh-hans": "招式记录５１",
+  "es-419": "DT51"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "신비롭고 힘센 춤을 격렬하게 춘다. 자신의 공격과 스피드를 올린다.",
+  "en": "The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.",
+  "ja": "神秘的で 力強い 舞を 激しく おどる。 自分の 攻撃と 素早さを あげる。"
+ }
+}

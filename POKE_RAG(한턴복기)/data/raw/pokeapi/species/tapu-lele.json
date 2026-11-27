@@ -1,0 +1,42 @@
+{
+ "id": 786,
+ "name": "tapu-lele",
+ "names": {
+  "ja-hrkt": "カプ・テテフ",
+  "ja-roma": "Kapu-Tetefu",
+  "ko": "카푸나비나",
+  "zh-hant": "卡璞・蝶蝶",
+  "fr": "Tokopiyon",
+  "de": "Kapu-Fala",
+  "es": "Tapu Lele",
+  "it": "Tapu Lele",
+  "en": "Tapu Lele",
+  "ja": "カプ・テテフ",
+  "zh-hans": "卡璞・蝶蝶",
+  "es-419": "Tapu Lele"
+ },
+ "genus": {
+  "ja-hrkt": "とちがみポケモン",
+  "ko": "토속신포켓몬",
+  "zh-hant": "土地神寶可夢",
+  "fr": "Pokémon Tutélaire",
+  "de": "Schutzpatron-Pokémon",
+  "es": "Pokémon Dios Nativo",
+  "it": "Pokémon Nume Locale",
+  "en": "Land Spirit Pokémon",
+  "ja": "とちがみポケモン",
+  "zh-hans": "土地神宝可梦",
+  "es-419": "Pokémon Dios Nativo"
+ },
+ "flavor": {
+  "ko": "수호신으로 불리지만 천진난만하면서 잔혹한 성질도 겸비한 자연의 화신이라 할 수 있는 존재다.",
+  "en": "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate."
+ },
+ "varieties": [
+  {
+   "name": "tapu-lele",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "410"
+}

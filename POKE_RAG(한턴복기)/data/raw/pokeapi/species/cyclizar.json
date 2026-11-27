@@ -1,0 +1,37 @@
+{
+ "id": 967,
+ "name": "cyclizar",
+ "names": {
+  "ja-hrkt": "モトトカゲ",
+  "ja-roma": "Mototokage",
+  "ko": "모토마",
+  "zh-hant": "摩托蜥",
+  "fr": "Motorizard",
+  "de": "Mopex",
+  "es": "Cyclizar",
+  "it": "Cyclizar",
+  "en": "Cyclizar",
+  "ja": "モトトカゲ",
+  "zh-hans": "摩托蜥",
+  "es-419": "Cyclizar"
+ },
+ "genus": {
+  "ja-hrkt": "ライドポケモン",
+  "ko": "라이드포켓몬",
+  "zh-hant": "坐騎寶可夢",
+  "fr": "Monture",
+  "de": "Ritt",
+  "en": "Mount Pokémon",
+  "zh-hans": "坐骑宝可梦"
+ },
+ "flavor": {
+  "en": "It can sprint at over 70 mph while carrying a human. The rider’s body heat warms Cyclizar’s back and lifts the Pokémon’s spirit."
+ },
+ "varieties": [
+  {
+   "name": "cyclizar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "506"
+}

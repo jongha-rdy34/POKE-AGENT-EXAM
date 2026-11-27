@@ -1,0 +1,20 @@
+{
+ "name": "spinarak-thread",
+ "names": {
+  "ja-hrkt": "イトマルのいと",
+  "ko": "페이검의실",
+  "zh-hant": "圓絲蛛的絲",
+  "fr": "Fil de Mimigal",
+  "de": "Webarak-Faden",
+  "es": "Hilo de Spinarak",
+  "it": "Filo di Spinarak",
+  "en": "Spinarak Thread",
+  "ja": "イトマルのいと",
+  "zh-hans": "圆丝蛛的丝"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

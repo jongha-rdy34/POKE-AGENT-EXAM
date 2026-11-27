@@ -1,0 +1,28 @@
+{
+ "name": "ride-pager",
+ "names": {
+  "ja-hrkt": "ライドギア",
+  "ko": "라이드기어",
+  "zh-hant": "騎行裝置",
+  "fr": "Appel-Monture",
+  "de": "PokéMobil-Funk",
+  "es": "Buscamontura",
+  "it": "Chiamapassaggio",
+  "en": "Ride Pager",
+  "ja": "ライドギア",
+  "zh-hans": "骑行装置",
+  "es-419": "Buscamontura"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet au joueur d'invoquer une Poké Monture.",
+  "en": "Allows the player to summon a Ride Pokémon."
+ },
+ "flavor": {
+  "ko": "넘버를 입력하는 것으로 대응하는 라이드포켓몬을 순식간에 불러내는 도구.",
+  "en": "By entering certain numbers on this pager, you can summon Ride Pokémon in an instant.",
+  "ja": "ナンバーを うちこむことで 対応した ライドポケモンを 瞬時に 呼びだす 道具。"
+ }
+}

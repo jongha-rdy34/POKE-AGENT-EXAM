@@ -1,0 +1,25 @@
+{
+ "name": "max-mushrooms",
+ "names": {
+  "ja-hrkt": "ダイキノコ",
+  "ko": "다이버섯",
+  "zh-hant": "極巨菇菇",
+  "fr": "Maxi Champi",
+  "de": "Dyna-Pilz",
+  "es": "Maxiseta",
+  "it": "Fungomax",
+  "en": "Max Mushrooms",
+  "ja": "ダイキノコ",
+  "zh-hans": "极巨菇菇",
+  "es-419": "Maxiseta"
+ },
+ "category": "stat-boosts",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "다이맥스의 모습을 바꿀 수 있는 힘을 가진 버섯. 배틀 중인 포켓몬의 모든 능력을 올린다.",
+  "en": "Mushrooms that have the power of changing Dynamax forms. They boost all stats of a Pokémon during battle.",
+  "ja": "ダイマックスの 姿を 変える 力を 持った キノコ。 戦闘中 ポケモンの すべての 能力を あげる。"
+ }
+}

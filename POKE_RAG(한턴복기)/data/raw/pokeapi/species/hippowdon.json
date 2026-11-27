@@ -1,0 +1,42 @@
+{
+ "id": 450,
+ "name": "hippowdon",
+ "names": {
+  "ja-hrkt": "カバルドン",
+  "ja-roma": "Kabaldon",
+  "ko": "하마돈",
+  "zh-hant": "河馬獸",
+  "fr": "Hippodocus",
+  "de": "Hippoterus",
+  "es": "Hippowdon",
+  "it": "Hippowdon",
+  "en": "Hippowdon",
+  "ja": "カバルドン",
+  "zh-hans": "河马兽",
+  "es-419": "Hippowdon"
+ },
+ "genus": {
+  "ja-hrkt": "じゅうりょうポケモン",
+  "ko": "중량포켓몬",
+  "zh-hant": "重量寶可夢",
+  "fr": "Pokémon Poids Lourd",
+  "de": "Schwergewichts-Pokémon",
+  "es": "Pokémon Peso Pesado",
+  "it": "Pokémon Grandepeso",
+  "en": "Heavyweight Pokémon",
+  "ja": "じゅうりょうポケモン",
+  "zh-hans": "重量宝可梦",
+  "es-419": "Pokémon Peso Pesado"
+ },
+ "flavor": {
+  "en": "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack.",
+  "ko": "화나게 하면 굉장히 흉포해진다. 들이마신 모래를 내뿜어 모래바람을 일으킨다."
+ },
+ "varieties": [
+  {
+   "name": "hippowdon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "233"
+}

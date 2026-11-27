@@ -1,0 +1,20 @@
+{
+ "name": "leafy-tablecloth",
+ "names": {
+  "ja-hrkt": "ネイチャークロス",
+  "ko": "네이처 테이블보",
+  "zh-hant": "大自然桌巾",
+  "fr": "Nappe Verdoyante",
+  "de": "Natur-Tischtuch",
+  "es": "Mantel Naturaleza",
+  "it": "Tovaglia natura",
+  "en": "Leafy Tablecloth",
+  "ja": "ネイチャークロス",
+  "zh-hans": "大自然桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

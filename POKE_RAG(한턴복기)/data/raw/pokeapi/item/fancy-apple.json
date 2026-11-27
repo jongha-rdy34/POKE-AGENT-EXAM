@@ -1,0 +1,25 @@
+{
+ "name": "fancy-apple",
+ "names": {
+  "ja-hrkt": "とくせんリンゴ",
+  "ko": "특선사과",
+  "zh-hant": "特選蘋果",
+  "fr": "Pomme Juteuse",
+  "de": "Luxusapfel",
+  "es": "Manzana Selecta",
+  "it": "Mela prelibata",
+  "en": "Fancy Apple",
+  "ja": "とくせんリンゴ",
+  "zh-hans": "特选苹果",
+  "es-419": "Manzana Selecta"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 엄선된 사과는 모양도 예쁘고 윤기가 돈다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. An apple chosen above others. It has spectacular form and a brilliant sheen.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。選び抜かれた リンゴは 形もよく 光り輝く。"
+ }
+}

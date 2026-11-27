@@ -1,0 +1,42 @@
+{
+ "id": 721,
+ "name": "volcanion",
+ "names": {
+  "ja-hrkt": "ボルケニオン",
+  "ja-roma": "Volcanion",
+  "ko": "볼케니온",
+  "zh-hant": "波爾凱尼恩",
+  "fr": "Volcanion",
+  "de": "Volcanion",
+  "es": "Volcanion",
+  "it": "Volcanion",
+  "en": "Volcanion",
+  "ja": "ボルケニオン",
+  "zh-hans": "波尔凯尼恩",
+  "es-419": "Volcanion"
+ },
+ "genus": {
+  "ja-hrkt": "スチームポケモン",
+  "ko": "스팀포켓몬",
+  "zh-hant": "蒸汽寶可夢",
+  "fr": "Pokémon Vapeur",
+  "de": "Dampf-Pokémon",
+  "es": "Pokémon Vapor",
+  "it": "Pokémon Vapore",
+  "en": "Steam Pokémon",
+  "ja": "スチームポケモン",
+  "zh-hans": "蒸汽宝可梦",
+  "es-419": "Pokémon Vapor"
+ },
+ "flavor": {
+  "ko": "등에 있는 팔로 체내의 수증기를 분사한다. 산 하나를 날려버릴 정도의 위력이다.",
+  "en": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain."
+ },
+ "varieties": [
+  {
+   "name": "volcanion",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "373"
+}

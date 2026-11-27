@@ -1,0 +1,46 @@
+{
+ "id": 744,
+ "name": "rockruff",
+ "names": {
+  "ja-hrkt": "イワンコ",
+  "ja-roma": "Iwanko",
+  "ko": "암멍이",
+  "zh-hant": "岩狗狗",
+  "fr": "Rocabot",
+  "de": "Wuffels",
+  "es": "Rockruff",
+  "it": "Rockruff",
+  "en": "Rockruff",
+  "ja": "イワンコ",
+  "zh-hans": "岩狗狗",
+  "es-419": "Rockruff"
+ },
+ "genus": {
+  "ja-hrkt": "こいぬポケモン",
+  "ko": "강아지포켓몬",
+  "zh-hant": "小狗寶可夢",
+  "fr": "Pokémon Chiot",
+  "de": "Welpen-Pokémon",
+  "es": "Pokémon Perrito",
+  "it": "Pokémon Cagnolino",
+  "en": "Puppy Pokémon",
+  "ja": "こいぬポケモン",
+  "zh-hans": "小狗宝可梦",
+  "es-419": "Pokémon Perrito"
+ },
+ "flavor": {
+  "ko": "목의 바위를 땅에 세게 부딪쳐서 상대를 위협한다. 풀이 죽은 순간에 덮친다.",
+  "en": "This Pokémon intimidates opponents by striking the ground with the rocks on its neck. The moment an opponent flinches, Rockruff attacks."
+ },
+ "varieties": [
+  {
+   "name": "rockruff",
+   "is_default": true
+  },
+  {
+   "name": "rockruff-own-tempo",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "383"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr12",
+ "names": {
+  "ja-hrkt": "わざレコード１２",
+  "ko": "기술레코드12",
+  "zh-hant": "招式紀錄１２",
+  "fr": "DT12",
+  "de": "TP12",
+  "es": "DT12",
+  "it": "DT12",
+  "en": "TR12",
+  "ja": "わざレコード１２",
+  "zh-hans": "招式记录１２",
+  "es-419": "DT12"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "힘을 빼고 몸을 가볍게 해서 고속으로 움직인다. 자신의 스피드를 크게 올린다.",
+  "en": "The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.",
+  "ja": "力を ぬいて 体を 軽くして 高速で 動く。 自分の 素早さを ぐーんと あげる。"
+ }
+}

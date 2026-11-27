@@ -1,0 +1,20 @@
+{
+ "name": "exercise-ball",
+ "names": {
+  "ja-hrkt": "バランスボール",
+  "ko": "밸런스볼",
+  "zh-hant": "瑜珈球",
+  "fr": "Ballon d'Exercice",
+  "de": "Gymnastik-Ball",
+  "es": "Pelota Pilates",
+  "it": "Palla fitness",
+  "en": "Exercise Ball",
+  "ja": "バランスボール",
+  "zh-hans": "瑜珈球"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

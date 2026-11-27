@@ -1,0 +1,20 @@
+{
+ "name": "watercress",
+ "names": {
+  "ja-hrkt": "クレソン",
+  "ko": "물냉이",
+  "zh-hant": "豆瓣菜",
+  "fr": "Cresson",
+  "de": "Kresse",
+  "es": "Berros",
+  "it": "Crescione",
+  "en": "Watercress",
+  "ja": "クレソン",
+  "zh-hans": "豆瓣菜"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

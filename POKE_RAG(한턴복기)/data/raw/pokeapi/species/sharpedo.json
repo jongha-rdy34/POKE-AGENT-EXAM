@@ -1,0 +1,46 @@
+{
+ "id": 319,
+ "name": "sharpedo",
+ "names": {
+  "ja-hrkt": "サメハダー",
+  "ja-roma": "Samehader",
+  "ko": "샤크니아",
+  "zh-hant": "巨牙鯊",
+  "fr": "Sharpedo",
+  "de": "Tohaido",
+  "es": "Sharpedo",
+  "it": "Sharpedo",
+  "en": "Sharpedo",
+  "ja": "サメハダー",
+  "zh-hans": "巨牙鲨",
+  "es-419": "Sharpedo"
+ },
+ "genus": {
+  "ja-hrkt": "きょうぼうポケモン",
+  "ko": "난폭포켓몬",
+  "zh-hant": "凶暴寶可夢",
+  "fr": "Pokémon Brutal",
+  "de": "Brutal-Pokémon",
+  "es": "Pokémon Voraz",
+  "it": "Pokémon Brutale",
+  "en": "Brutal Pokémon",
+  "ja": "きょうぼうポケモン",
+  "zh-hans": "凶暴宝可梦",
+  "es-419": "Pokémon Voraz"
+ },
+ "flavor": {
+  "en": "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions.",
+  "ko": "바다의 건달로 불리며 서식하는 해역에 들어간 배는 모조리 공격당한다."
+ },
+ "varieties": [
+  {
+   "name": "sharpedo",
+   "is_default": true
+  },
+  {
+   "name": "sharpedo-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "160"
+}

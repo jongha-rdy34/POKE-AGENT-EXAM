@@ -1,0 +1,31 @@
+{
+ "name": "weather-ball",
+ "names": {
+  "ja-hrkt": "ウェザーボール",
+  "ko": "웨더볼",
+  "zh-hant": "氣象球",
+  "fr": "Ball’Météo",
+  "de": "Meteorologe",
+  "es": "Meteorobola",
+  "it": "Palla Clima",
+  "en": "Weather Ball",
+  "ja": "ウェザーボール",
+  "zh-hans": "气象球",
+  "es-419": "Meteorobola"
+ },
+ "type": "normal",
+ "category": "special",
+ "power": 50,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "If there be weather, this move has doubled power and the weather’s type."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "This move's type and power change depending on the weather at the time the move is used.",
+  "ko": "사용했을 때의 날씨에 따라서 기술 타입과 위력이 바뀐다."
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 554,
+ "name": "darumaka",
+ "names": {
+  "ja-hrkt": "ダルマッカ",
+  "ja-roma": "Darumakka",
+  "ko": "달막화",
+  "zh-hant": "火紅不倒翁",
+  "fr": "Darumarond",
+  "de": "Flampion",
+  "es": "Darumaka",
+  "it": "Darumaka",
+  "en": "Darumaka",
+  "ja": "ダルマッカ",
+  "zh-hans": "火红不倒翁",
+  "es-419": "Darumaka"
+ },
+ "genus": {
+  "ja-hrkt": "だるまポケモン",
+  "ko": "달마포켓몬",
+  "zh-hant": "不倒翁寶可夢",
+  "fr": "Pokémon Daruma",
+  "de": "Lampion-Pokémon",
+  "es": "Pokémon Daruma",
+  "it": "Pokémon Daruma",
+  "en": "Zen Charm Pokémon",
+  "ja": "だるまポケモン",
+  "zh-hans": "不倒翁宝可梦",
+  "es-419": "Pokémon Daruma"
+ },
+ "flavor": {
+  "en": "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled.",
+  "ko": "자고 있을 때는 밀어도 당겨도 절대 쓰러지지 않는다. 길조의 모티브로 인기가 높다."
+ },
+ "varieties": [
+  {
+   "name": "darumaka",
+   "is_default": true
+  },
+  {
+   "name": "darumaka-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "282"
+}

@@ -1,0 +1,25 @@
+{
+ "name": "heavy-duty-boots",
+ "names": {
+  "ja-hrkt": "あつぞこブーツ",
+  "ko": "통굽부츠",
+  "zh-hant": "厚底靴",
+  "fr": "Grosses Bottes",
+  "de": "Plateauschuhe",
+  "es": "Botas Gruesas",
+  "it": "Scarponi robusti",
+  "en": "Heavy-Duty Boots",
+  "ja": "あつぞこブーツ",
+  "zh-hans": "厚底靴",
+  "es-419": "Botas Gruesas"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "발밑에 설치된 함정 등의 영향을 받지 않게 된다.",
+  "en": "These boots prevent the effects of traps set on the battlefield.",
+  "ja": "足場に しかけられた 罠などの 影響を 受けなくなる。"
+ }
+}

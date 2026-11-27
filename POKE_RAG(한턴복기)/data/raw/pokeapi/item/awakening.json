@@ -1,0 +1,34 @@
+{
+ "name": "awakening",
+ "names": {
+  "ja-hrkt": "ねむけざまし",
+  "ko": "잠깨는약",
+  "zh-hant": "解眠藥",
+  "fr": "Réveil",
+  "de": "Aufwecker",
+  "es": "Despertar",
+  "it": "Sveglia",
+  "en": "Awakening",
+  "ja": "ねむけざまし",
+  "zh-hans": "解眠药",
+  "es-419": "Despertar"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne le sommeil.",
+  "en": "Cures sleep."
+ },
+ "flavor": {
+  "en": "A spray-type medicine to wake the sleeping. It can be used to rouse a single Pokémon from the clutches of sleep.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 잠듦 상태를 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の ねむりの 状態を 回復する。"
+ }
+}

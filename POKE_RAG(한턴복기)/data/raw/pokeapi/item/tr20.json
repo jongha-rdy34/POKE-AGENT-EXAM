@@ -1,0 +1,25 @@
+{
+ "name": "tr20",
+ "names": {
+  "ja-hrkt": "わざレコード２０",
+  "ko": "기술레코드20",
+  "zh-hant": "招式紀錄２０",
+  "fr": "DT20",
+  "de": "TP20",
+  "es": "DT20",
+  "it": "DT20",
+  "en": "TR20",
+  "ja": "わざレコード２０",
+  "zh-hans": "招式记录２０",
+  "es-419": "DT20"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "자신의 HP를 조금 깎아서 분신을 만든다. 분신은 자신의 대타가 된다.",
+  "en": "The user creates a substitute for itself using some of its HP. The substitute serves as the user’s decoy.",
+  "ja": "自分の ＨＰを 少し 削って 分身を だす。 分身は 自分の 身代わりに なる。"
+ }
+}

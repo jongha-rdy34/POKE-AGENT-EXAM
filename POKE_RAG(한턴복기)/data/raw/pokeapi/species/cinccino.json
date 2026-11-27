@@ -1,0 +1,42 @@
+{
+ "id": 573,
+ "name": "cinccino",
+ "names": {
+  "ja-hrkt": "チラチーノ",
+  "ja-roma": "Chillaccino",
+  "ko": "치라치노",
+  "zh-hant": "奇諾栗鼠",
+  "fr": "Pashmilla",
+  "de": "Chillabell",
+  "es": "Cinccino",
+  "it": "Cinccino",
+  "en": "Cinccino",
+  "ja": "チラチーノ",
+  "zh-hans": "奇诺栗鼠",
+  "es-419": "Cinccino"
+ },
+ "genus": {
+  "ja-hrkt": "スカーフポケモン",
+  "ko": "스카프포켓몬",
+  "zh-hant": "圍巾寶可夢",
+  "fr": "Pokémon Écharpe",
+  "de": "Schal-Pokémon",
+  "es": "Pokémon Estola",
+  "it": "Pokémon Sciarpa",
+  "en": "Scarf Pokémon",
+  "ja": "スカーフポケモン",
+  "zh-hans": "围巾宝可梦",
+  "es-419": "Pokémon Estola"
+ },
+ "flavor": {
+  "en": "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market.",
+  "ko": "특별한 기름이 스며든 털은 공격을 받아넘긴다. 기름은 높은 가격에 거래되고 있다."
+ },
+ "varieties": [
+  {
+   "name": "cinccino",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "292"
+}

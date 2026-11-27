@@ -1,0 +1,42 @@
+{
+ "id": 855,
+ "name": "polteageist",
+ "names": {
+  "ja-hrkt": "ポットデス",
+  "ja-roma": "Potdeath",
+  "ko": "포트데스",
+  "zh-hant": "怖思壺",
+  "fr": "Polthégeist",
+  "de": "Mortipot",
+  "es": "Polteageist",
+  "it": "Polteageist",
+  "en": "Polteageist",
+  "ja": "ポットデス",
+  "zh-hans": "怖思壶",
+  "es-419": "Polteageist"
+ },
+ "genus": {
+  "ja-hrkt": "こうちゃポケモン",
+  "ko": "홍차포켓몬",
+  "zh-hant": "紅茶寶可夢",
+  "fr": "Pokémon Thé Noir",
+  "de": "Schwarztee-Pokémon",
+  "es": "Pokémon Té",
+  "it": "Pokémon Tè",
+  "en": "Black Tea Pokémon",
+  "ja": "こうちゃポケモン",
+  "zh-hans": "红茶宝可梦",
+  "es-419": "Pokémon Té"
+ },
+ "flavor": {
+  "ko": "남겨진 홍차를 발견하면 자신의 몸을 흘러 들어가게 한다. 그 홍차는 포트데스가 된다.",
+  "en": "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist."
+ },
+ "varieties": [
+  {
+   "name": "polteageist",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "449"
+}

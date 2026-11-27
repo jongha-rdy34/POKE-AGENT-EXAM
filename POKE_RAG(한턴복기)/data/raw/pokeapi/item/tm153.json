@@ -1,0 +1,20 @@
+{
+ "name": "tm153",
+ "names": {
+  "ja-hrkt": "わざマシン１５３",
+  "ko": "기술머신153",
+  "zh-hant": "招式學習器１５３",
+  "fr": "CT153",
+  "de": "TM153",
+  "es": "MT153",
+  "it": "MT153",
+  "en": "TM153",
+  "ja": "わざマシン１５３",
+  "zh-hans": "招式学习器１５３"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

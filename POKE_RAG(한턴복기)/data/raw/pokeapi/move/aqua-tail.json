@@ -1,0 +1,31 @@
+{
+ "name": "aqua-tail",
+ "names": {
+  "ja-hrkt": "アクアテール",
+  "ko": "아쿠아테일",
+  "zh-hant": "水流尾",
+  "fr": "Hydro-Queue",
+  "de": "Nassschweif",
+  "es": "Acua Cola",
+  "it": "Idrondata",
+  "en": "Aqua Tail",
+  "ja": "アクアテール",
+  "zh-hans": "水流尾",
+  "es-419": "Cola de Agua"
+ },
+ "type": "water",
+ "category": "physical",
+ "power": 90,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm.",
+  "ko": "세차게 날뛰는 거친 파도와 같이 큰 꼬리를 흔들어서 상대를 공격한다."
+ }
+}

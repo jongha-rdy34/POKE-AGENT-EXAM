@@ -1,0 +1,84 @@
+{
+ "id": 310,
+ "name": "manectric",
+ "species": "manectric",
+ "is_default": true,
+ "types": [
+  "electric"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 75,
+  "defense": 60,
+  "special-attack": 105,
+  "special-defense": 60,
+  "speed": 105
+ },
+ "abilities": [
+  {
+   "name": "static",
+   "hidden": false
+  },
+  {
+   "name": "lightning-rod",
+   "hidden": false
+  },
+  {
+   "name": "minus",
+   "hidden": true
+  }
+ ],
+ "height": 15,
+ "weight": 402,
+ "champions_moves": [
+  "agility",
+  "attract",
+  "bite",
+  "body-slam",
+  "charge",
+  "charge-beam",
+  "crunch",
+  "curse",
+  "discharge",
+  "eerie-impulse",
+  "electric-terrain",
+  "electro-ball",
+  "endure",
+  "facade",
+  "fire-fang",
+  "flamethrower",
+  "giga-impact",
+  "howl",
+  "hyper-beam",
+  "hyper-voice",
+  "ice-fang",
+  "iron-tail",
+  "light-screen",
+  "overheat",
+  "pounce",
+  "protect",
+  "psychic-fangs",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "rising-voltage",
+  "roar",
+  "round",
+  "scary-face",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "substitute",
+  "supercell-slam",
+  "switcheroo",
+  "thief",
+  "thunder",
+  "thunder-fang",
+  "thunder-wave",
+  "thunderbolt",
+  "trailblaze",
+  "uproar",
+  "volt-switch",
+  "wild-charge"
+ ]
+}

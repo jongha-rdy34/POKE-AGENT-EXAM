@@ -1,0 +1,28 @@
+{
+ "name": "colress-machine",
+ "names": {
+  "ja-hrkt": "アクロママシーン",
+  "ko": "아크로마머신",
+  "zh-hant": "阿克羅瑪機器",
+  "fr": "Nikodule",
+  "de": "Achromat",
+  "es": "Acromáquina",
+  "it": "Acrocongegno",
+  "en": "Colress Machine",
+  "ja": "アクロママシーン",
+  "zh-hans": "阿克罗玛机器",
+  "es-419": "Acromáquina"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Réveille le Crabaraque bloquant le chemin dans la Grotte Littorale.",
+  "en": "Wakes up the Crustle blocking the way in Seaside Cave."
+ },
+ "flavor": {
+  "en": "A special device that wrings out the potential of Pokémon. It’s an imperfect prototype.",
+  "ko": "포켓몬의 능력을 강제로 눈뜨게 만드는 특수 장치. 그러나 시작품이기에 불완전하다.",
+  "ja": "ポケモンの 能力を 無理やり 目覚めさせる 特殊な 装置。 だが 試作品のため 不完全。"
+ }
+}

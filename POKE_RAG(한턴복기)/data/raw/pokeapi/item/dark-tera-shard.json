@@ -1,0 +1,20 @@
+{
+ "name": "dark-tera-shard",
+ "names": {
+  "ja-hrkt": "テラピースあく",
+  "ko": "테라피스 악",
+  "zh-hant": "惡太晶碎塊",
+  "fr": "Téra-Éclat Ténèbres",
+  "de": "Tera-Stück (Unlicht)",
+  "es": "Teralito Siniestro",
+  "it": "Teralite Buio",
+  "en": "Dark Tera Shard",
+  "ja": "テラピースあく",
+  "zh-hans": "恶太晶碎块"
+ },
+ "category": "tera-shard",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

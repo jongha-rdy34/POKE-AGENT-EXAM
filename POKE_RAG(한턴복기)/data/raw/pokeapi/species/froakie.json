@@ -1,0 +1,42 @@
+{
+ "id": 656,
+ "name": "froakie",
+ "names": {
+  "ja-hrkt": "ケロマツ",
+  "ja-roma": "Keromatsu",
+  "ko": "개구마르",
+  "zh-hant": "呱呱泡蛙",
+  "fr": "Grenousse",
+  "de": "Froxy",
+  "es": "Froakie",
+  "it": "Froakie",
+  "en": "Froakie",
+  "ja": "ケロマツ",
+  "zh-hans": "呱呱泡蛙",
+  "es-419": "Froakie"
+ },
+ "genus": {
+  "ja-hrkt": "あわがえるポケモン",
+  "ko": "거품개구리포켓몬",
+  "zh-hant": "泡蛙寶可夢",
+  "fr": "Pokémon Crapobulle",
+  "de": "Blubbfrosch",
+  "es": "Pokémon Burburrana",
+  "it": "Pokémon Schiumorana",
+  "en": "Bubble Frog Pokémon",
+  "ja": "あわがえるポケモン",
+  "zh-hans": "泡蛙宝可梦",
+  "es-419": "Pokémon Burburrana"
+ },
+ "flavor": {
+  "ko": "섬세한 거품으로 몸을 감싸 피부를 보호한다. 태평한 척하면서 빈틈없이 주위를 살핀다.",
+  "en": "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings."
+ },
+ "varieties": [
+  {
+   "name": "froakie",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "339"
+}

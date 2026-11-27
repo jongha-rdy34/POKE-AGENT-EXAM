@@ -1,0 +1,31 @@
+{
+ "name": "thunder",
+ "names": {
+  "ja-hrkt": "かみなり",
+  "ko": "번개",
+  "zh-hant": "打雷",
+  "fr": "Fatal-Foudre",
+  "de": "Donner",
+  "es": "Trueno",
+  "it": "Tuono",
+  "en": "Thunder",
+  "ja": "かみなり",
+  "zh-hans": "打雷",
+  "es-419": "Trueno"
+ },
+ "type": "electric",
+ "category": "special",
+ "power": 110,
+ "accuracy": 70,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to paralyze the target."
+ },
+ "effect_chance": 30,
+ "flavor": {
+  "en": "A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.",
+  "ko": "강한 번개를 상대에게 떨어뜨려 공격한다. 마비 상태로 만들 때가 있다."
+ }
+}

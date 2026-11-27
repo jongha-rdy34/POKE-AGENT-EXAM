@@ -1,0 +1,20 @@
+{
+ "name": "flittle-down",
+ "names": {
+  "ja-hrkt": "ヒラヒナのうもう",
+  "ko": "하느라기의솜털",
+  "zh-hant": "飄飄雛的羽絨",
+  "fr": "Duvet de Flotillon",
+  "de": "Flattutu-Daune",
+  "es": "Plumón de Flittle",
+  "it": "Piuma di Flittle",
+  "en": "Flittle Down",
+  "ja": "ヒラヒナのうもう",
+  "zh-hans": "飘飘雏的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

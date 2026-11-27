@@ -1,0 +1,46 @@
+{
+ "id": 310,
+ "name": "manectric",
+ "names": {
+  "ja-hrkt": "ライボルト",
+  "ja-roma": "Livolt",
+  "ko": "썬더볼트",
+  "zh-hant": "雷電獸",
+  "fr": "Élecsprint",
+  "de": "Voltenso",
+  "es": "Manectric",
+  "it": "Manectric",
+  "en": "Manectric",
+  "ja": "ライボルト",
+  "zh-hans": "雷电兽",
+  "es-419": "Manectric"
+ },
+ "genus": {
+  "ja-hrkt": "ほうでんポケモン",
+  "ko": "방전포켓몬",
+  "zh-hant": "放電寶可夢",
+  "fr": "Pokémon Décharge",
+  "de": "Entladungs-Pokémon",
+  "es": "Pokémon Descarga",
+  "it": "Pokémon Scossa",
+  "en": "Discharge Pokémon",
+  "ja": "ほうでんポケモン",
+  "zh-hans": "放电宝可梦",
+  "es-419": "Pokémon Descarga"
+ },
+ "flavor": {
+  "en": "It rarely appears before people. It is said to nest where lightning has fallen.",
+  "ko": "좀처럼 사람 앞에 모습을 드러내지 않는다. 번개가 떨어진 곳에 보금자리가 있다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "manectric",
+   "is_default": true
+  },
+  {
+   "name": "manectric-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "153"
+}

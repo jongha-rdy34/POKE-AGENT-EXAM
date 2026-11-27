@@ -1,0 +1,42 @@
+{
+ "id": 129,
+ "name": "magikarp",
+ "names": {
+  "ja-hrkt": "コイキング",
+  "ja-roma": "Koiking",
+  "ko": "잉어킹",
+  "zh-hant": "鯉魚王",
+  "fr": "Magicarpe",
+  "de": "Karpador",
+  "es": "Magikarp",
+  "it": "Magikarp",
+  "en": "Magikarp",
+  "ja": "コイキング",
+  "zh-hans": "鲤鱼王",
+  "es-419": "Magikarp"
+ },
+ "genus": {
+  "ja-hrkt": "さかなポケモン",
+  "ko": "물고기포켓몬",
+  "zh-hant": "魚寶可夢",
+  "fr": "Pokémon Poisson",
+  "de": "Fisch-Pokémon",
+  "es": "Pokémon Pez",
+  "it": "Pokémon Pesce",
+  "en": "Fish Pokémon",
+  "ja": "さかなポケモン",
+  "zh-hans": "鱼宝可梦",
+  "es-419": "Pokémon Pez"
+ },
+ "flavor": {
+  "en": "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places.",
+  "ko": "유속이 빠른 곳에서는 그저 떠내려갈 뿐인 약하고 한심한 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "magikarp",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "64"
+}

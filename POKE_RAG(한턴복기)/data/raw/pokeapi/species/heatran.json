@@ -1,0 +1,46 @@
+{
+ "id": 485,
+ "name": "heatran",
+ "names": {
+  "ja-hrkt": "ヒードラン",
+  "ja-roma": "Heatran",
+  "ko": "히드런",
+  "zh-hant": "席多藍恩",
+  "fr": "Heatran",
+  "de": "Heatran",
+  "es": "Heatran",
+  "it": "Heatran",
+  "en": "Heatran",
+  "ja": "ヒードラン",
+  "zh-hans": "席多蓝恩",
+  "es-419": "Heatran"
+ },
+ "genus": {
+  "ja-hrkt": "かこうポケモン",
+  "ko": "화구포켓몬",
+  "zh-hant": "火山口寶可夢",
+  "fr": "Pokémon Caldeira",
+  "de": "Lavadom-Pokémon",
+  "es": "Pokémon Domo Lava",
+  "it": "Pokémon Cratere",
+  "en": "Lava Dome Pokémon",
+  "ja": "かこうポケモン",
+  "zh-hans": "火山口宝可梦",
+  "es-419": "Pokémon Domo Lava"
+ },
+ "flavor": {
+  "en": "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries.",
+  "ko": "마그마처럼 타오르는 혈액이 몸에서 흐르고 있다. 화산의 동굴에 서식한다."
+ },
+ "varieties": [
+  {
+   "name": "heatran",
+   "is_default": true
+  },
+  {
+   "name": "heatran-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "246"
+}

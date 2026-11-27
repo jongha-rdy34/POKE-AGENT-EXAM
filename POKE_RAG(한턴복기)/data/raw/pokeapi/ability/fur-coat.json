@@ -1,0 +1,23 @@
+{
+ "name": "fur-coat",
+ "names": {
+  "ja-hrkt": "ファーコート",
+  "ko": "퍼코트",
+  "zh-hant": "毛皮大衣",
+  "fr": "Toison Épaisse",
+  "de": "Fellkleid",
+  "es": "Pelaje Recio",
+  "it": "Foltopelo",
+  "en": "Fur Coat",
+  "ja": "ファーコート",
+  "zh-hans": "毛皮大衣",
+  "es-419": "Pelaje Recio"
+ },
+ "effect": {
+  "en": "Halves damage from physical attacks."
+ },
+ "flavor": {
+  "ko": "상대로부터 받는 물리 기술의 데미지가 절반이 된다.",
+  "en": "Halves the damage from physical moves."
+ }
+}

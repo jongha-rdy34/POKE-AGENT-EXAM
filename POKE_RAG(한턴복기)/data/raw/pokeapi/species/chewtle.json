@@ -1,0 +1,42 @@
+{
+ "id": 833,
+ "name": "chewtle",
+ "names": {
+  "ja-hrkt": "カムカメ",
+  "ja-roma": "Kamukame",
+  "ko": "깨물부기",
+  "zh-hant": "咬咬龜",
+  "fr": "Khélocrok",
+  "de": "Kamehaps",
+  "es": "Chewtle",
+  "it": "Chewtle",
+  "en": "Chewtle",
+  "ja": "カムカメ",
+  "zh-hans": "咬咬龟",
+  "es-419": "Chewtle"
+ },
+ "genus": {
+  "ja-hrkt": "くいつきポケモン",
+  "ko": "물고늘어지기포켓몬",
+  "zh-hant": "咬住寶可夢",
+  "fr": "Pokémon Mordillage",
+  "de": "Schnapp-Pokémon",
+  "es": "Pokémon Mordedura",
+  "it": "Pokémon Mordace",
+  "en": "Snapping Pokémon",
+  "ja": "くいつきポケモン",
+  "zh-hans": "咬住宝可梦",
+  "es-419": "Pokémon Mordedura"
+ },
+ "flavor": {
+  "ko": "머리 뿔은 바위처럼 단단하다. 뿔로 싸우다가 풀이 죽은 틈에 덥석 물고 놓지 않는다.",
+  "en": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go."
+ },
+ "varieties": [
+  {
+   "name": "chewtle",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "439"
+}

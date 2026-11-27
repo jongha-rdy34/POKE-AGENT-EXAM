@@ -1,0 +1,17 @@
+{
+ "name": "snorlax-gmax",
+ "form_name": "gmax",
+ "names": {
+  "fr": "Ronflex Gigamax",
+  "de": "Gigadynamax-Relaxo",
+  "en": "Gigantamax Snorlax"
+ },
+ "form_names": {
+  "ja-hrkt": "キョダイマックスのすがた",
+  "fr": "Forme Gigamax",
+  "de": "Gigadynamax-Form",
+  "en": "Gigantamax Form",
+  "ja": "キョダイマックスのすがた"
+ },
+ "is_mega": false
+}

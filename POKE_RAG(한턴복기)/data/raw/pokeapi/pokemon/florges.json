@@ -1,0 +1,77 @@
+{
+ "id": 671,
+ "name": "florges",
+ "species": "florges",
+ "is_default": true,
+ "types": [
+  "fairy"
+ ],
+ "stats": {
+  "hp": 78,
+  "attack": 65,
+  "defense": 68,
+  "special-attack": 112,
+  "special-defense": 154,
+  "speed": 75
+ },
+ "abilities": [
+  {
+   "name": "flower-veil",
+   "hidden": false
+  },
+  {
+   "name": "symbiosis",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 100,
+ "champions_moves": [
+  "alluring-voice",
+  "baton-pass",
+  "calm-mind",
+  "charm",
+  "chilling-water",
+  "copycat",
+  "dazzling-gleam",
+  "draining-kiss",
+  "endeavor",
+  "endure",
+  "energy-ball",
+  "facade",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "grassy-terrain",
+  "helping-hand",
+  "hyper-beam",
+  "light-screen",
+  "misty-explosion",
+  "misty-terrain",
+  "moonblast",
+  "petal-blizzard",
+  "petal-dance",
+  "pollen-puff",
+  "protect",
+  "psychic",
+  "psychic-noise",
+  "rain-dance",
+  "rest",
+  "round",
+  "safeguard",
+  "seed-bomb",
+  "skill-swap",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "stored-power",
+  "substitute",
+  "sunny-day",
+  "synthesis",
+  "tearful-look",
+  "trailblaze",
+  "trick",
+  "wish"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": 872,
+ "name": "snom",
+ "names": {
+  "ja-hrkt": "ユキハミ",
+  "ja-roma": "Yukihami",
+  "ko": "누니머기",
+  "zh-hant": "雪吞蟲",
+  "fr": "Frissonille",
+  "de": "Snomnom",
+  "es": "Snom",
+  "it": "Snom",
+  "en": "Snom",
+  "ja": "ユキハミ",
+  "zh-hans": "雪吞虫",
+  "es-419": "Snom"
+ },
+ "genus": {
+  "ja-hrkt": "いもむしポケモン",
+  "ko": "애벌레포켓몬",
+  "zh-hant": "蟲寶寶寶可夢",
+  "fr": "Pokémon Ver",
+  "de": "Wurm-Pokémon",
+  "es": "Pokémon Gusano",
+  "it": "Pokémon Baco",
+  "en": "Worm Pokémon",
+  "ja": "いもむしポケモン",
+  "zh-hans": "虫宝宝宝可梦",
+  "es-419": "Pokémon Gusano"
+ },
+ "flavor": {
+  "ko": "땅에 쌓인 눈을 먹는다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자란다.",
+  "en": "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow."
+ },
+ "varieties": [
+  {
+   "name": "snom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "455"
+}

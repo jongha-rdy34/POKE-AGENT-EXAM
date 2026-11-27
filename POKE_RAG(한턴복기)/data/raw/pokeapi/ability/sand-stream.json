@@ -1,0 +1,23 @@
+{
+ "name": "sand-stream",
+ "names": {
+  "ja-hrkt": "すなおこし",
+  "ko": "모래날림",
+  "zh-hant": "揚沙",
+  "fr": "Sable Volant",
+  "de": "Sandsturm",
+  "es": "Chorro Arena",
+  "it": "Sabbiafiume",
+  "en": "Sand Stream",
+  "ja": "すなおこし",
+  "zh-hans": "扬沙",
+  "es-419": "Chorro de Arena"
+ },
+ "effect": {
+  "en": "Summons a sandstorm that lasts indefinitely upon entering battle."
+ },
+ "flavor": {
+  "en": "The Pokémon summons a sandstorm when it enters a battle.",
+  "ko": "등장했을 때 날씨를 모래바람으로 만든다."
+ }
+}

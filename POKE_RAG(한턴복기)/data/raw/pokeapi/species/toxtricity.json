@@ -1,0 +1,54 @@
+{
+ "id": 849,
+ "name": "toxtricity",
+ "names": {
+  "ja-hrkt": "ストリンダー",
+  "ja-roma": "Strinder",
+  "ko": "스트린더",
+  "zh-hant": "顫弦蠑螈",
+  "fr": "Salarsen",
+  "de": "Riffex",
+  "es": "Toxtricity",
+  "it": "Toxtricity",
+  "en": "Toxtricity",
+  "ja": "ストリンダー",
+  "zh-hans": "颤弦蝾螈",
+  "es-419": "Toxtricity"
+ },
+ "genus": {
+  "ja-hrkt": "パンクポケモン",
+  "ko": "펑크포켓몬",
+  "zh-hant": "龐克寶可夢",
+  "fr": "Pokémon Punk",
+  "de": "Punk-Pokémon",
+  "es": "Pokémon Punki",
+  "it": "Pokémon Punk",
+  "en": "Punk Pokémon",
+  "ja": "パンクポケモン",
+  "zh-hans": "庞克宝可梦",
+  "es-419": "Pokémon Punki"
+ },
+ "flavor": {
+  "ko": "호전적이며 성미가 급하다. 고인 물을 벌컥벌컥 마셔서 물속의 독소를 흡수한다.",
+  "en": "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain."
+ },
+ "varieties": [
+  {
+   "name": "toxtricity-amped",
+   "is_default": true
+  },
+  {
+   "name": "toxtricity-low-key",
+   "is_default": false
+  },
+  {
+   "name": "toxtricity-amped-gmax",
+   "is_default": false
+  },
+  {
+   "name": "toxtricity-low-key-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "446"
+}

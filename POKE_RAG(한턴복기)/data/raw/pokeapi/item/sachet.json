@@ -1,0 +1,28 @@
+{
+ "name": "sachet",
+ "names": {
+  "ja-hrkt": "においぶくろ",
+  "ko": "향기주머니",
+  "zh-hant": "香袋",
+  "fr": "Sachet Senteur",
+  "de": "Duftbeutel",
+  "es": "Saquito Fragante",
+  "it": "Bustina aromi",
+  "en": "Sachet",
+  "ja": "においぶくろ",
+  "zh-hans": "香袋",
+  "es-419": "Saquito Fragante"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Échangé sur un Fluvetin: Le porteur évolue en Cocotine.",
+  "en": "Traded on a Spritzee: Holder evolves into Aromatisse."
+ },
+ "flavor": {
+  "ko": "살짝 강렬한 향기가 나는 향료를 채운 주머니. 어떤 포켓몬이 좋아하는 물건이다.",
+  "en": "A sachet filled with fragrant perfumes that are just slightly too overwhelming. Yet it’s loved by a certain Pokémon.",
+  "ja": "ちょっと きつめの 香りをだす 香料を 詰めた 袋。 ある ポケモンが 好んでいる。"
+ }
+}

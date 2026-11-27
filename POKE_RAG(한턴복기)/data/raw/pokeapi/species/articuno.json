@@ -1,0 +1,46 @@
+{
+ "id": 144,
+ "name": "articuno",
+ "names": {
+  "ja-hrkt": "フリーザー",
+  "ja-roma": "Freezer",
+  "ko": "프리져",
+  "zh-hant": "急凍鳥",
+  "fr": "Artikodin",
+  "de": "Arktos",
+  "es": "Articuno",
+  "it": "Articuno",
+  "en": "Articuno",
+  "ja": "フリーザー",
+  "zh-hans": "急冻鸟",
+  "es-419": "Articuno"
+ },
+ "genus": {
+  "ja-hrkt": "れいとうポケモン",
+  "ko": "냉동포켓몬",
+  "zh-hant": "冰凍寶可夢",
+  "fr": "Pokémon Glaciaire",
+  "de": "Eis-Pokémon",
+  "es": "Pokémon Congelar",
+  "it": "Pokémon Gelo",
+  "en": "Freeze Pokémon",
+  "ja": "れいとうポケモン",
+  "zh-hans": "冰冻宝可梦",
+  "es-419": "Pokémon Congelar"
+ },
+ "flavor": {
+  "en": "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost.",
+  "ko": "얼음을 자유자재로 조종하는 힘을 가졌다. 영구 동토의 설산에 살고 있다고 한다."
+ },
+ "varieties": [
+  {
+   "name": "articuno",
+   "is_default": true
+  },
+  {
+   "name": "articuno-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "73"
+}

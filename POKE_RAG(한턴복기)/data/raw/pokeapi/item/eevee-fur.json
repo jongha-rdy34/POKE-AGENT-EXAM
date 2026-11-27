@@ -1,0 +1,20 @@
+{
+ "name": "eevee-fur",
+ "names": {
+  "ja-hrkt": "イーブイのけ",
+  "ko": "이브이의털",
+  "zh-hant": "伊布的毛",
+  "fr": "Poils d’Évoli",
+  "de": "Evoli-Haar",
+  "es": "Pelo de Eevee",
+  "it": "Pelo di Eevee",
+  "en": "Eevee Fur",
+  "ja": "イーブイのけ",
+  "zh-hans": "伊布的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

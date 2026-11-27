@@ -1,0 +1,27 @@
+{
+ "id": 10316,
+ "name": "golisopod-mega",
+ "species": "golisopod",
+ "is_default": false,
+ "types": [
+  "bug",
+  "steel"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 150,
+  "defense": 175,
+  "special-attack": 70,
+  "special-defense": 120,
+  "speed": 40
+ },
+ "abilities": [
+  {
+   "name": "tough-claws",
+   "hidden": false
+  }
+ ],
+ "height": 23,
+ "weight": 1480,
+ "champions_moves": []
+}

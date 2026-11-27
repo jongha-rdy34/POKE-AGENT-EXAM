@@ -1,0 +1,20 @@
+{
+ "name": "chili-sauce",
+ "names": {
+  "ja-hrkt": "チリソース",
+  "ko": "칠리소스",
+  "zh-hant": "辣醬",
+  "fr": "Sauce Piquante",
+  "de": "Chilisoße",
+  "es": "Salsa Picante",
+  "it": "Salsa piccante",
+  "en": "Chili Sauce",
+  "ja": "チリソース",
+  "zh-hans": "辣酱"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

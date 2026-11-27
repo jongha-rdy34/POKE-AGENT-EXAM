@@ -1,0 +1,15 @@
+{
+ "name": "glimmora-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Floréclat",
+  "en": "Mega Glimmora"
+ },
+ "form_names": {
+  "ja-hrkt": "メガキラフロル",
+  "fr": "Méga-Floréclat",
+  "en": "Mega Glimmora",
+  "ja": "メガキラフロル"
+ },
+ "is_mega": true
+}

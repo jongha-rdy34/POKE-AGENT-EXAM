@@ -1,0 +1,28 @@
+{
+ "name": "sparkling-stone",
+ "names": {
+  "ja-hrkt": "かがやくいし",
+  "ko": "빛나는돌",
+  "zh-hant": "光輝石",
+  "fr": "Gemme Lumière",
+  "de": "Glitzerstein",
+  "es": "Piedra Brillante",
+  "it": "Pietra lucente",
+  "en": "Sparkling Stone",
+  "ja": "かがやくいし",
+  "zh-hans": "光辉石",
+  "es-419": "Piedra Brillante"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Requis pour obtenir un Bracelet Z.",
+  "en": "Required to obtain a Z-Ring."
+ },
+ "flavor": {
+  "ko": "알로라의 수호신으로 여겨지는 포켓몬으로부터 받은 돌. 빛에 비밀이 있다고 한다.",
+  "en": "A stone entrusted by a Pokémon that has been venerated as a guardian deity in the Alola region. There is said to be some secret in how it sparkles.",
+  "ja": "アローラの 守り神と される ポケモンから もらった 石。 かがやきに 秘密が あるという。"
+ }
+}

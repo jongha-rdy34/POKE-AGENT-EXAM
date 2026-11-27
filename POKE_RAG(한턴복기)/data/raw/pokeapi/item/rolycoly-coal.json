@@ -1,0 +1,20 @@
+{
+ "name": "rolycoly-coal",
+ "names": {
+  "ja-hrkt": "タンドンのせきたん",
+  "ko": "탄동의석탄",
+  "zh-hant": "小炭仔的煤炭",
+  "fr": "Charbon de Charbi",
+  "de": "Klonkett-Kohle",
+  "es": "Carbón de Rolycoly",
+  "it": "Carbone di Rolycoly",
+  "en": "Rolycoly Coal",
+  "ja": "タンドンのせきたん",
+  "zh-hans": "小炭仔的煤炭"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

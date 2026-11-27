@@ -1,0 +1,31 @@
+{
+ "id": 998,
+ "name": "baxcalibur",
+ "species": "baxcalibur",
+ "is_default": true,
+ "types": [
+  "dragon",
+  "ice"
+ ],
+ "stats": {
+  "hp": 115,
+  "attack": 145,
+  "defense": 92,
+  "special-attack": 75,
+  "special-defense": 86,
+  "speed": 87
+ },
+ "abilities": [
+  {
+   "name": "thermal-exchange",
+   "hidden": false
+  },
+  {
+   "name": "ice-body",
+   "hidden": true
+  }
+ ],
+ "height": 21,
+ "weight": 2100,
+ "champions_moves": []
+}

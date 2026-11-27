@@ -1,0 +1,31 @@
+{
+ "name": "quick-attack",
+ "names": {
+  "ja-hrkt": "でんこうせっか",
+  "ko": "전광석화",
+  "zh-hant": "電光一閃",
+  "fr": "Vive-Attaque",
+  "de": "Ruckzuckhieb",
+  "es": "Ataque Rápido",
+  "it": "Attacco Rapido",
+  "en": "Quick Attack",
+  "ja": "でんこうせっか",
+  "zh-hans": "电光一闪",
+  "es-419": "Ataque Rápido"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 40,
+ "accuracy": 100,
+ "pp": 30,
+ "priority": 1,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first.",
+  "ko": "눈에 보이지 않는 굉장한 속도로 상대에게 돌진한다. 반드시 선제공격할 수 있다."
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "id": 512,
+ "name": "simisage",
+ "species": "simisage",
+ "is_default": true,
+ "types": [
+  "grass"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 98,
+  "defense": 63,
+  "special-attack": 98,
+  "special-defense": 63,
+  "speed": 101
+ },
+ "abilities": [
+  {
+   "name": "gluttony",
+   "hidden": false
+  },
+  {
+   "name": "overgrow",
+   "hidden": true
+  }
+ ],
+ "height": 11,
+ "weight": 305,
+ "champions_moves": [
+  "acrobatics",
+  "attract",
+  "belch",
+  "bite",
+  "brick-break",
+  "bullet-seed",
+  "crunch",
+  "dig",
+  "endure",
+  "energy-ball",
+  "facade",
+  "fake-out",
+  "fling",
+  "focus-blast",
+  "giga-drain",
+  "giga-impact",
+  "grass-knot",
+  "grassy-glide",
+  "gunk-shot",
+  "helping-hand",
+  "hyper-beam",
+  "iron-tail",
+  "leaf-storm",
+  "leech-seed",
+  "low-kick",
+  "low-sweep",
+  "nasty-plot",
+  "payback",
+  "protect",
+  "recycle",
+  "rest",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "seed-bomb",
+  "shadow-claw",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "solar-blade",
+  "stuff-cheeks",
+  "substitute",
+  "sunny-day",
+  "superpower",
+  "taunt",
+  "thief",
+  "throat-chop",
+  "torment",
+  "trailblaze",
+  "uproar"
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "name": "emboar-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Roitiflam",
+  "en": "Mega Emboar"
+ },
+ "form_names": {
+  "ja-hrkt": "メガエンブオー",
+  "fr": "Méga-Roitiflam",
+  "en": "Mega Emboar",
+  "ja": "メガエンブオー"
+ },
+ "is_mega": true
+}

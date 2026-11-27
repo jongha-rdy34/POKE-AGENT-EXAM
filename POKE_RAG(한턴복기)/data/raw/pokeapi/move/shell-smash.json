@@ -1,0 +1,31 @@
+{
+ "name": "shell-smash",
+ "names": {
+  "ja-hrkt": "からをやぶる",
+  "ko": "껍질깨기",
+  "zh-hant": "破殼",
+  "fr": "Exuviation",
+  "de": "Hausbruch",
+  "es": "Rompecoraza",
+  "it": "Gettaguscio",
+  "en": "Shell Smash",
+  "ja": "からをやぶる",
+  "zh-hans": "破壳",
+  "es-419": "Rompecoraza"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 15,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "Raises user’s Attack, Special Attack, and Speed by two stages.  Lower user’s Defense and Special Defense by one stage."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user breaks its shell, which lowers its Defense and Sp. Def stats but sharply boosts its Attack, Sp. Atk, and Speed stats.",
+  "ko": "껍질을 깨서 자신의 방어와 특수방어를 떨어뜨리지만 공격과 특수공격, 스피드를 크게 올린다."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "magnemite-screw",
+ "names": {
+  "ja-hrkt": "コイルのねじ",
+  "ko": "코일의나사",
+  "zh-hant": "小磁怪的螺絲",
+  "fr": "Vis de Magnéti",
+  "de": "Magnetilo-Schraube",
+  "es": "Tornillo de Magnemite",
+  "it": "Vite di Magnemite",
+  "en": "Magnemite Screw",
+  "ja": "コイルのねじ",
+  "zh-hans": "小磁怪的螺丝"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

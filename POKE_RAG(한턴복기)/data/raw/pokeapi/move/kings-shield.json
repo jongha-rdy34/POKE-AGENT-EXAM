@@ -1,0 +1,31 @@
+{
+ "name": "kings-shield",
+ "names": {
+  "ja-hrkt": "キングシールド",
+  "ko": "킹실드",
+  "zh-hant": "王者盾牌",
+  "fr": "Bouclier Royal",
+  "de": "Königsschild",
+  "es": "Escudo Real",
+  "it": "Scudo Reale",
+  "en": "King’s Shield",
+  "ja": "キングシールド",
+  "zh-hans": "王者盾牌",
+  "es-419": "Escudo Real"
+ },
+ "type": "steel",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 4,
+ "target": "user",
+ "effect": {
+  "en": "Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact.  Switches Aegislash to Shield Forme."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대의 공격을 막음과 동시에 방어 태세를 갖춘다. 접촉한 상대의 공격을 떨어뜨린다.",
+  "en": "The user takes a defensive stance while it protects itself from damage. It also lowers the Attack stat of any attacker that makes direct contact."
+ }
+}

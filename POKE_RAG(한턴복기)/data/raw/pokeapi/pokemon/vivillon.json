@@ -1,0 +1,79 @@
+{
+ "id": 666,
+ "name": "vivillon",
+ "species": "vivillon",
+ "is_default": true,
+ "types": [
+  "bug",
+  "flying"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 52,
+  "defense": 50,
+  "special-attack": 90,
+  "special-defense": 50,
+  "speed": 89
+ },
+ "abilities": [
+  {
+   "name": "shield-dust",
+   "hidden": false
+  },
+  {
+   "name": "compound-eyes",
+   "hidden": false
+  },
+  {
+   "name": "friend-guard",
+   "hidden": true
+  }
+ ],
+ "height": 12,
+ "weight": 170,
+ "champions_moves": [
+  "acrobatics",
+  "air-cutter",
+  "air-slash",
+  "bug-bite",
+  "bug-buzz",
+  "calm-mind",
+  "confuse-ray",
+  "draining-kiss",
+  "endure",
+  "energy-ball",
+  "facade",
+  "giga-drain",
+  "giga-impact",
+  "hurricane",
+  "hyper-beam",
+  "iron-defense",
+  "light-screen",
+  "poison-powder",
+  "pollen-puff",
+  "pounce",
+  "protect",
+  "psychic",
+  "quiver-dance",
+  "rage-powder",
+  "rain-dance",
+  "rest",
+  "round",
+  "safeguard",
+  "skitter-smack",
+  "sleep-powder",
+  "sleep-talk",
+  "snore",
+  "solar-beam",
+  "string-shot",
+  "struggle-bug",
+  "stun-spore",
+  "substitute",
+  "sunny-day",
+  "tailwind",
+  "thief",
+  "u-turn",
+  "weather-ball",
+  "whirlwind"
+ ]
+}

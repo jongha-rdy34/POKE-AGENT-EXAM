@@ -1,0 +1,23 @@
+{
+ "name": "lightning-rod",
+ "names": {
+  "ja-hrkt": "ひらいしん",
+  "ko": "피뢰침",
+  "zh-hant": "避雷針",
+  "fr": "Paratonnerre",
+  "de": "Blitzfänger",
+  "es": "Pararrayos",
+  "it": "Parafulmine",
+  "en": "Lightning Rod",
+  "ja": "ひらいしん",
+  "zh-hans": "避雷针",
+  "es-419": "Pararrayos"
+ },
+ "effect": {
+  "en": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+ },
+ "flavor": {
+  "en": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.",
+  "ko": "전기타입의 기술을 자신에게 끌어모아 데미지를 받지 않고 특수공격을 올린다."
+ }
+}

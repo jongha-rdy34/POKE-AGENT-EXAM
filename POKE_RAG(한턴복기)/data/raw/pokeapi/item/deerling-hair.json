@@ -1,0 +1,20 @@
+{
+ "name": "deerling-hair",
+ "names": {
+  "ja-hrkt": "シキジカのけ",
+  "ko": "사철록의털",
+  "zh-hant": "四季鹿的毛",
+  "fr": "Poils de Vivaldaim",
+  "de": "Sesokitz-Haar",
+  "es": "Pelo de Deerling",
+  "it": "Pelo di Deerling",
+  "en": "Deerling Hair",
+  "ja": "シキジカのけ",
+  "zh-hans": "四季鹿的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

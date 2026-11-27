@@ -1,0 +1,20 @@
+{
+ "name": "plaid-tablecloth-b",
+ "names": {
+  "ja-hrkt": "あおチェッククロス",
+  "ko": "블루 체크 테이블보",
+  "zh-hant": "藍色格子桌巾",
+  "fr": "Nappe Tartan Bleue",
+  "de": "Blaukaro-Tischtuch",
+  "es": "Mantel Cuadros Azul",
+  "it": "Tovaglia a quadri viola",
+  "en": "Plaid Tablecloth (B)",
+  "ja": "あおチェッククロス",
+  "zh-hans": "蓝色格子桌巾"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

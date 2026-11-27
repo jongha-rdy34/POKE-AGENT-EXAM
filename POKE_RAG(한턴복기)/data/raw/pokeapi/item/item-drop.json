@@ -1,0 +1,28 @@
+{
+ "name": "item-drop",
+ "names": {
+  "ja-hrkt": "アイテムドロップ",
+  "ko": "아이템드롭",
+  "zh-hant": "？？？",
+  "fr": "Jette Objet",
+  "de": "Itemabwurf",
+  "es": "Tiraobjeto",
+  "it": "Lascioggetto",
+  "en": "Item Drop",
+  "ja": "アイテムドロップ",
+  "zh-hans": "？？？",
+  "es-419": "Tiraobjeto"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Force un Pokémon allié à lâcher son objet tenu.",
+  "en": "Forces a friendly Pokémon to drop its held item."
+ },
+ "flavor": {
+  "en": "When used, it causes an ally Pokémon to drop a held item.",
+  "ko": "사용하면 같은 편 포켓몬이 지니고 있는 도구를 잃어버린다.",
+  "ja": "使うと 味方の ポケモンが 持っている 道具を なくす。"
+ }
+}

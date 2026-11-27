@@ -1,0 +1,28 @@
+{
+ "name": "x-defense-6",
+ "names": {
+  "ja-hrkt": "ディフェンダー６",
+  "ko": "디펜드업6",
+  "zh-hant": "防禦強化６",
+  "fr": "Défense 6",
+  "de": "X-Verteidigung 6",
+  "es": "Defensa X 6",
+  "it": "Difesa X-6",
+  "en": "X Defense 6",
+  "ja": "ディフェンダー６",
+  "zh-hans": "防御强化６",
+  "es-419": "Defensa X 6"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Augmente la Défense de six niveaux au combat.  Shooter Miracle seulement.",
+  "en": "Raises Defense by six stages in battle.  Wonder Launcher only."
+ },
+ "flavor": {
+  "en": "It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.",
+  "ko": "배틀 중인 포켓몬의 방어를 엄청나게 올린다. 포켓몬을 볼에 넣어버리면 원래대로 되돌아간다.",
+  "ja": "戦闘中の ポケモンの 防御を ものすごく あげる。 ひっこめると 元に 戻る。"
+ }
+}

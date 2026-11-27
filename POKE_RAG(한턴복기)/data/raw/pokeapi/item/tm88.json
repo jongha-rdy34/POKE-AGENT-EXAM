@@ -1,0 +1,28 @@
+{
+ "name": "tm88",
+ "names": {
+  "ja-hrkt": "わざマシン８８",
+  "ko": "기술머신88",
+  "zh-hant": "招式學習器８８",
+  "fr": "CT88",
+  "de": "TM88",
+  "es": "MT88",
+  "it": "MT88",
+  "en": "TM88",
+  "ja": "わざマシン８８",
+  "zh-hans": "招式学习器８８",
+  "es-419": "MT88"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Picore à un Pokémon compatible.",
+  "en": "Teaches Pluck to a compatible Pokémon."
+ },
+ "flavor": {
+  "en": "The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves.",
+  "ko": "5턴 동안 그래스필드로 만든다. 땅에 있으면 매 턴 회복한다. 풀타입의 위력이 올라간다.",
+  "ja": "５ターンの 間 グラスフィールドにする。 地面にいると 毎ターン 回復する。 くさタイプの 威力が あがる。"
+ }
+}

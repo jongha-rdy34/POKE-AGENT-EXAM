@@ -1,0 +1,20 @@
+{
+ "name": "slowpoke-cup",
+ "names": {
+  "ja-hrkt": "ヤドンカップ",
+  "ko": "야돈 컵",
+  "zh-hant": "呆呆獸水杯",
+  "fr": "Tasse Ramoloss",
+  "de": "Flegmon-Tasse",
+  "es": "Taza Slowpoke",
+  "it": "Tazza Slowpoke",
+  "en": "Slowpoke Cup",
+  "ja": "ヤドンカップ",
+  "zh-hans": "呆呆兽水杯"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

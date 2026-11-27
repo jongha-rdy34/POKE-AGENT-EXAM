@@ -1,0 +1,42 @@
+{
+ "id": 482,
+ "name": "azelf",
+ "names": {
+  "ja-hrkt": "アグノム",
+  "ja-roma": "Agnome",
+  "ko": "아그놈",
+  "zh-hant": "亞克諾姆",
+  "fr": "Créfadet",
+  "de": "Tobutz",
+  "es": "Azelf",
+  "it": "Azelf",
+  "en": "Azelf",
+  "ja": "アグノム",
+  "zh-hans": "亚克诺姆",
+  "es-419": "Azelf"
+ },
+ "genus": {
+  "ja-hrkt": "いしポケモン",
+  "ko": "의지포켓몬",
+  "zh-hant": "意志寶可夢",
+  "fr": "Pokémon Volonté",
+  "de": "Willenskraft-Pokémon",
+  "es": "Pokémon Voluntad",
+  "it": "Pokémon Volontà",
+  "en": "Willpower Pokémon",
+  "ja": "いしポケモン",
+  "zh-hans": "意志宝可梦",
+  "es-419": "Pokémon Voluntad"
+ },
+ "flavor": {
+  "en": "The dreaded Being of Willpower. Legends tell of this Pokémon manipulating the will of its adversaries and turning them into puppets of its own.",
+  "ko": "유크시, 엠라이트, 아그놈은 같은 알에서 태어난 포켓몬이라 여겨지고 있다."
+ },
+ "varieties": [
+  {
+   "name": "azelf",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "243"
+}

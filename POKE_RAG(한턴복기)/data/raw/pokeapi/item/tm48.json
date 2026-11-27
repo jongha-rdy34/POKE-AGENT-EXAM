@@ -1,0 +1,28 @@
+{
+ "name": "tm48",
+ "names": {
+  "ja-hrkt": "わざマシン４８",
+  "ko": "기술머신48",
+  "zh-hant": "招式學習器４８",
+  "fr": "CT48",
+  "de": "TM48",
+  "es": "MT48",
+  "it": "MT48",
+  "en": "TM48",
+  "ja": "わざマシン４８",
+  "zh-hans": "招式学习器４８",
+  "es-419": "MT48"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Chant Canon à un Pokémon compatible. (Gén IV & III: Échange Gén II: Poing Feu Gén I: Éboulement)",
+  "en": "Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)"
+ },
+ "flavor": {
+  "en": "Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.",
+  "ko": "암석을 내던져서 공격한다. 상대의 움직임을 봉인함으로써 스피드를 떨어뜨린다.",
+  "ja": "岩石を 投げつけて 攻撃する。 相手の 動きを 封じることで 素早さを さげる。"
+ }
+}

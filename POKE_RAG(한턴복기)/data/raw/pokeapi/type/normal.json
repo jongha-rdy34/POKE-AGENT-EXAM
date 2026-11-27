@@ -1,0 +1,24 @@
+{
+ "name": "normal",
+ "names": {
+  "ja-hrkt": "ノーマル",
+  "ko": "노말",
+  "zh-hant": "一般",
+  "fr": "Normal",
+  "de": "Normal",
+  "es": "Normal",
+  "it": "Normale",
+  "en": "Normal",
+  "ja": "ノーマル",
+  "zh-hans": "一般",
+  "es-419": "Normal"
+ },
+ "double_to": [],
+ "half_to": [
+  "rock",
+  "steel"
+ ],
+ "zero_to": [
+  "ghost"
+ ]
+}

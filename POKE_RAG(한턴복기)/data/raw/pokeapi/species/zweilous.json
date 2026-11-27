@@ -1,0 +1,42 @@
+{
+ "id": 634,
+ "name": "zweilous",
+ "names": {
+  "ja-hrkt": "ジヘッド",
+  "ja-roma": "Dihead",
+  "ko": "디헤드",
+  "zh-hant": "雙首暴龍",
+  "fr": "Diamat",
+  "de": "Duodino",
+  "es": "Zweilous",
+  "it": "Zweilous",
+  "en": "Zweilous",
+  "ja": "ジヘッド",
+  "zh-hans": "双首暴龙",
+  "es-419": "Zweilous"
+ },
+ "genus": {
+  "ja-hrkt": "らんぼうポケモン",
+  "ko": "흉포포켓몬",
+  "zh-hant": "粗暴寶可夢",
+  "fr": "Pokémon Violent",
+  "de": "Grobheits-Pokémon",
+  "es": "Pokémon Violento",
+  "it": "Pokémon Irruenza",
+  "en": "Hostile Pokémon",
+  "ja": "らんぼうポケモン",
+  "zh-hans": "粗暴宝可梦",
+  "es-419": "Pokémon Violento"
+ },
+ "flavor": {
+  "en": "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.",
+  "ko": "1개의 먹이를 2개의 머리가 서로 뺏는다. 누구랑 싸운 것도 아닌데 언제나 상처투성이다."
+ },
+ "varieties": [
+  {
+   "name": "zweilous",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "323"
+}

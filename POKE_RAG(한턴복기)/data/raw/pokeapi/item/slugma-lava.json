@@ -1,0 +1,20 @@
+{
+ "name": "slugma-lava",
+ "names": {
+  "ja-hrkt": "マグマッグのようがん",
+  "ko": "마그마그의용암",
+  "zh-hant": "熔岩蟲的熔岩",
+  "fr": "Lave de Limagma",
+  "de": "Schneckmag-Lava",
+  "es": "Lava de Slugma",
+  "it": "Lava di Slugma",
+  "en": "Slugma Lava",
+  "ja": "マグマッグのようがん",
+  "zh-hans": "熔岩虫的熔岩"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

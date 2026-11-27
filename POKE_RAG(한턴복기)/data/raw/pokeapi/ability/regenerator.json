@@ -1,0 +1,23 @@
+{
+ "name": "regenerator",
+ "names": {
+  "ja-hrkt": "さいせいりょく",
+  "ko": "재생력",
+  "zh-hant": "再生力",
+  "fr": "Régé-Force",
+  "de": "Belebekraft",
+  "es": "Regeneración",
+  "it": "Rigenergia",
+  "en": "Regenerator",
+  "ja": "さいせいりょく",
+  "zh-hans": "再生力",
+  "es-419": "Regeneración"
+ },
+ "effect": {
+  "en": "Heals for 1/3 max HP upon switching out."
+ },
+ "flavor": {
+  "en": "The Pokémon has a little of its HP restored when withdrawn from battle.",
+  "ko": "지닌 포켓몬으로 돌아오면 HP를 조금 회복한다."
+ }
+}

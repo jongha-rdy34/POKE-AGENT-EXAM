@@ -1,0 +1,20 @@
+{
+ "name": "banana",
+ "names": {
+  "ja-hrkt": "バナナスライス",
+  "ko": "바나나슬라이스",
+  "zh-hant": "香蕉片",
+  "fr": "Banane",
+  "de": "Banane",
+  "es": "Plátano",
+  "it": "Banana",
+  "en": "Banana",
+  "ja": "バナナスライス",
+  "zh-hans": "香蕉片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

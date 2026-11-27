@@ -1,0 +1,32 @@
+{
+ "name": "iron-plate",
+ "names": {
+  "ja-hrkt": "こうてつプレート",
+  "ko": "강철플레이트",
+  "zh-hant": "鋼鐵石板",
+  "fr": "Plaque Fer",
+  "de": "Eisentafel",
+  "es": "Tabla Acero",
+  "it": "Lastraferro",
+  "en": "Iron Plate",
+  "ja": "こうてつプレート",
+  "zh-hans": "钢铁石板",
+  "es-419": "Tabla Acero"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Acier du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Acier.",
+  "en": "Held: Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Steel-type moves.",
+  "ko": "강철타입의 석판. 지니게 하면 강철타입 기술의 위력이 강해진다.",
+  "ja": "はがねの タイプの 石盤。 持たせると はがねタイプの 技の 威力が 強まる。"
+ }
+}

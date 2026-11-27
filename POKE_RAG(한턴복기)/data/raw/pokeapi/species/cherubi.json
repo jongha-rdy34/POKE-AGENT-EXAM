@@ -1,0 +1,42 @@
+{
+ "id": 420,
+ "name": "cherubi",
+ "names": {
+  "ja-hrkt": "チェリンボ",
+  "ja-roma": "Cherinbo",
+  "ko": "체리버",
+  "zh-hant": "櫻花寶",
+  "fr": "Ceribou",
+  "de": "Kikugi",
+  "es": "Cherubi",
+  "it": "Cherubi",
+  "en": "Cherubi",
+  "ja": "チェリンボ",
+  "zh-hans": "樱花宝",
+  "es-419": "Cherubi"
+ },
+ "genus": {
+  "ja-hrkt": "さくらんぼポケモン",
+  "ko": "버찌포켓몬",
+  "zh-hant": "櫻桃寶可夢",
+  "fr": "Pokémon Cerise",
+  "de": "Kirschen-Pokémon",
+  "es": "Pokémon Cereza",
+  "it": "Pokémon Ciliegia",
+  "en": "Cherry Pokémon",
+  "ja": "さくらんぼポケモン",
+  "zh-hans": "樱桃宝可梦",
+  "es-419": "Pokémon Cereza"
+ },
+ "flavor": {
+  "en": "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures.",
+  "ko": "몸이 빨간 체리버일수록 영양이 많고 구슬의 맛도 달고 맛있다."
+ },
+ "varieties": [
+  {
+   "name": "cherubi",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "217"
+}

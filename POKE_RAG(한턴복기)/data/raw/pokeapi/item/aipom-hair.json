@@ -1,0 +1,20 @@
+{
+ "name": "aipom-hair",
+ "names": {
+  "ja-hrkt": "エイパムのけ",
+  "ko": "에이팜의털",
+  "zh-hant": "長尾怪手的毛",
+  "fr": "Poils de Capumain",
+  "de": "Griffel-Haar",
+  "es": "Pelo de Aipom",
+  "it": "Pelo di Aipom",
+  "en": "Aipom Hair",
+  "ja": "エイパムのけ",
+  "zh-hans": "长尾怪手的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

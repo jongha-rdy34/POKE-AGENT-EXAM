@@ -1,0 +1,42 @@
+{
+ "id": 33,
+ "name": "nidorino",
+ "names": {
+  "ja-hrkt": "ニドリーノ",
+  "ja-roma": "Nidorino",
+  "ko": "니드리노",
+  "zh-hant": "尼多力諾",
+  "fr": "Nidorino",
+  "de": "Nidorino",
+  "es": "Nidorino",
+  "it": "Nidorino",
+  "en": "Nidorino",
+  "ja": "ニドリーノ",
+  "zh-hans": "尼多力诺",
+  "es-419": "Nidorino"
+ },
+ "genus": {
+  "ja-hrkt": "どくばりポケモン",
+  "ko": "독침포켓몬",
+  "zh-hant": "毒針寶可夢",
+  "fr": "Pokémon Vénépic",
+  "de": "Giftdorn-Pokémon",
+  "es": "Pokémon Pin Veneno",
+  "it": "Pokémon Velenago",
+  "en": "Poison Pin Pokémon",
+  "ja": "どくばりポケモン",
+  "zh-hans": "毒针宝可梦",
+  "es-419": "Pokémon Pin Veneno"
+ },
+ "flavor": {
+  "en": "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body.",
+  "ko": "신경질적이고 호전적이다. 체내의 아드레날린이 증가하면 독소의 농도도 높아진다."
+ },
+ "varieties": [
+  {
+   "name": "nidorino",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "13"
+}

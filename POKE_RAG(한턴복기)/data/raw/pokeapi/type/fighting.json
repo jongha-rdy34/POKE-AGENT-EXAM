@@ -1,0 +1,33 @@
+{
+ "name": "fighting",
+ "names": {
+  "ja-hrkt": "かくとう",
+  "ko": "격투",
+  "zh-hant": "格鬥",
+  "fr": "Combat",
+  "de": "Kampf",
+  "es": "Lucha",
+  "it": "Lotta",
+  "en": "Fighting",
+  "ja": "かくとう",
+  "zh-hans": "格斗",
+  "es-419": "Pelea"
+ },
+ "double_to": [
+  "normal",
+  "rock",
+  "steel",
+  "ice",
+  "dark"
+ ],
+ "half_to": [
+  "flying",
+  "poison",
+  "bug",
+  "psychic",
+  "fairy"
+ ],
+ "zero_to": [
+  "ghost"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-per1131",
+ "names": {
+  "ja-hrkt": "★Per1131",
+  "ko": "★Per1131",
+  "zh-hant": "★Per1131",
+  "fr": "★Per1131",
+  "de": "★Per1131",
+  "es": "★Per1131",
+  "it": "★Per1131",
+  "en": "★Per1131",
+  "ja": "★Per1131",
+  "zh-hans": "★Per1131",
+  "es-419": "★Per1131"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 501,
+ "name": "oshawott",
+ "names": {
+  "ja-hrkt": "ミジュマル",
+  "ja-roma": "Mijumaru",
+  "ko": "수댕이",
+  "zh-hant": "水水獺",
+  "fr": "Moustillon",
+  "de": "Ottaro",
+  "es": "Oshawott",
+  "it": "Oshawott",
+  "en": "Oshawott",
+  "ja": "ミジュマル",
+  "zh-hans": "水水獭",
+  "es-419": "Oshawott"
+ },
+ "genus": {
+  "ja-hrkt": "ラッコポケモン",
+  "ko": "해달포켓몬",
+  "zh-hant": "海獺寶可夢",
+  "fr": "Pokémon Loutre",
+  "de": "Otter",
+  "es": "Pokémon Nutria",
+  "it": "Pokémon Lontra",
+  "en": "Sea Otter Pokémon",
+  "ja": "ラッコポケモン",
+  "zh-hans": "海獭宝可梦",
+  "es-419": "Pokémon Nutria"
+ },
+ "flavor": {
+  "en": "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”.",
+  "ko": "배에 있는 가리비칼로 싸운다. 공격을 막고 그 즉시 베어 반격한다."
+ },
+ "varieties": [
+  {
+   "name": "oshawott",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "258"
+}

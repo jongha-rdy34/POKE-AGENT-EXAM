@@ -1,0 +1,20 @@
+{
+ "name": "hawlucha-down",
+ "names": {
+  "ja-hrkt": "ルチャブルのうもう",
+  "ko": "루차불의솜털",
+  "zh-hant": "摔角鷹人的羽絨",
+  "fr": "Duvet de Brutalibré",
+  "de": "Resladero-Daune",
+  "es": "Plumón de Hawlucha",
+  "it": "Piuma di Hawlucha",
+  "en": "Hawlucha Down",
+  "ja": "ルチャブルのうもう",
+  "zh-hans": "摔角鹰人的羽绒"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

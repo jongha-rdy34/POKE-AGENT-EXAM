@@ -1,0 +1,43 @@
+{
+ "id": 901,
+ "name": "ursaluna",
+ "names": {
+  "ja-hrkt": "ガチグマ",
+  "ja-roma": "Gachiguma",
+  "ko": "다투곰",
+  "zh-hant": "月月熊",
+  "fr": "Ursaking",
+  "de": "Ursaluna",
+  "es": "Ursaluna",
+  "it": "Ursaluna",
+  "en": "Ursaluna",
+  "ja": "ガチグマ",
+  "zh-hans": "月月熊",
+  "es-419": "Ursaluna"
+ },
+ "genus": {
+  "ja-hrkt": "でいたんポケモン",
+  "ko": "이탄포켓몬",
+  "zh-hant": "泥炭寶可夢",
+  "fr": "Pokémon Tourbe",
+  "de": "Torf-Pokémon",
+  "it": "Pokémon Torba",
+  "en": "Peat Pokémon",
+  "ja": "でいたんポケモン",
+  "zh-hans": "泥炭宝可梦"
+ },
+ "flavor": {
+  "en": "I believe it was Hisui's swampy terrain that gave Ursaluna its burly physique and newfound capacity to manipulate peat at will."
+ },
+ "varieties": [
+  {
+   "name": "ursaluna",
+   "is_default": true
+  },
+  {
+   "name": "ursaluna-bloodmoon",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "110"
+}

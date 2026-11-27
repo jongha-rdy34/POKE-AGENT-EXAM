@@ -1,0 +1,42 @@
+{
+ "id": 34,
+ "name": "nidoking",
+ "names": {
+  "ja-hrkt": "ニドキング",
+  "ja-roma": "Nidoking",
+  "ko": "니드킹",
+  "zh-hant": "尼多王",
+  "fr": "Nidoking",
+  "de": "Nidoking",
+  "es": "Nidoking",
+  "it": "Nidoking",
+  "en": "Nidoking",
+  "ja": "ニドキング",
+  "zh-hans": "尼多王",
+  "es-419": "Nidoking"
+ },
+ "genus": {
+  "ja-hrkt": "ドリルポケモン",
+  "ko": "드릴포켓몬",
+  "zh-hant": "鑽錐寶可夢",
+  "fr": "Pokémon Perceur",
+  "de": "Bohrer-Pokémon",
+  "es": "Pokémon Taladro",
+  "it": "Pokémon Trapano",
+  "en": "Drill Pokémon",
+  "ja": "ドリルポケモン",
+  "zh-hans": "钻锥宝可梦",
+  "es-419": "Pokémon Taladro"
+ },
+ "flavor": {
+  "en": "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn.",
+  "ko": "힘이 센 포켓몬이다. 굵은 꼬리와 다이아몬드도 부수는 뿔로 호쾌하게 싸운다."
+ },
+ "varieties": [
+  {
+   "name": "nidoking",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "13"
+}

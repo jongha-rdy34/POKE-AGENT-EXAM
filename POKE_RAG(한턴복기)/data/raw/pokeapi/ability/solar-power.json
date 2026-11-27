@@ -1,0 +1,23 @@
+{
+ "name": "solar-power",
+ "names": {
+  "ja-hrkt": "サンパワー",
+  "ko": "선파워",
+  "zh-hant": "太陽之力",
+  "fr": "Force Soleil",
+  "de": "Solarkraft",
+  "es": "Poder Solar",
+  "it": "Solarpotere",
+  "en": "Solar Power",
+  "ja": "サンパワー",
+  "zh-hans": "太阳之力",
+  "es-419": "Poder Solar"
+ },
+ "effect": {
+  "en": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+ },
+ "flavor": {
+  "en": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn.",
+  "ko": "날씨가 맑으면 특수공격이 올라가지만 매 턴 HP가 줄어든다."
+ }
+}

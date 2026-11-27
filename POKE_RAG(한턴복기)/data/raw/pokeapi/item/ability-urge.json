@@ -1,0 +1,28 @@
+{
+ "name": "ability-urge",
+ "names": {
+  "ja-hrkt": "スキルコール",
+  "ko": "스킬콜",
+  "zh-hant": "？？？",
+  "fr": "Appel Talent",
+  "de": "Fähigkeiten-Appell",
+  "es": "Habilitador",
+  "it": "Chiamabilità",
+  "en": "Ability Urge",
+  "ja": "スキルコール",
+  "zh-hans": "？？？",
+  "es-419": "Habilitador"
+ },
+ "category": "miracle-shooter",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Force l'activation du talent d'un Pokémon allié.",
+  "en": "Forcibly activates a friendly Pokémon’s ability."
+ },
+ "flavor": {
+  "en": "When used, it activates the Ability of an ally Pokémon.",
+  "ko": "사용하면 같은 편 포켓몬의 특성을 발동시킨다.",
+  "ja": "使うと 味方の ポケモンの 特性を 発動させる。"
+ }
+}

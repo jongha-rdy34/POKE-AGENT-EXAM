@@ -1,0 +1,42 @@
+{
+ "id": 895,
+ "name": "regidrago",
+ "names": {
+  "ja-hrkt": "レジドラゴ",
+  "ja-roma": "Regidorago",
+  "ko": "레지드래고",
+  "zh-hant": "雷吉鐸拉戈",
+  "fr": "Regidrago",
+  "de": "Regidrago",
+  "es": "Regidrago",
+  "it": "Regidrago",
+  "en": "Regidrago",
+  "ja": "レジドラゴ",
+  "zh-hans": "雷吉铎拉戈",
+  "es-419": "Regidrago"
+ },
+ "genus": {
+  "ja-hrkt": "りゅうぎょくポケモン",
+  "ko": "용옥포켓몬",
+  "zh-hant": "龍玉寶可夢",
+  "fr": "Pokémon Boule Dragon",
+  "de": "Drachenkugel-Pokémon",
+  "es": "Pokémon Dragosfera",
+  "it": "Pokémon Dracosfera",
+  "en": "Dragon Orb Pokémon",
+  "ja": "りゅうぎょくポケモン",
+  "zh-hans": "龙玉宝可梦",
+  "es-419": "Pokémon Dragosfera"
+ },
+ "flavor": {
+  "ko": "온몸이 드래곤 에너지의 결정체다. 모든 드래곤포켓몬의 힘을 가지고 있는 듯하다.",
+  "en": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon."
+ },
+ "varieties": [
+  {
+   "name": "regidrago",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "473"
+}

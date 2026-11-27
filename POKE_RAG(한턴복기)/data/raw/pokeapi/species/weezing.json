@@ -1,0 +1,46 @@
+{
+ "id": 110,
+ "name": "weezing",
+ "names": {
+  "ja-hrkt": "マタドガス",
+  "ja-roma": "Matadogas",
+  "ko": "또도가스",
+  "zh-hant": "雙彈瓦斯",
+  "fr": "Smogogo",
+  "de": "Smogmog",
+  "es": "Weezing",
+  "it": "Weezing",
+  "en": "Weezing",
+  "ja": "マタドガス",
+  "zh-hans": "双弹瓦斯",
+  "es-419": "Weezing"
+ },
+ "genus": {
+  "ja-hrkt": "どくガスポケモン",
+  "ko": "독가스포켓몬",
+  "zh-hant": "毒氣寶可夢",
+  "fr": "Pokémon Gaz Mortel",
+  "de": "Giftwolken-Pokémon",
+  "es": "Pokémon Gas Venenoso",
+  "it": "Pokémon Velenuvola",
+  "en": "Poison Gas Pokémon",
+  "ja": "どくガスポケモン",
+  "zh-hans": "毒气宝可梦",
+  "es-419": "Pokémon Gas Venenoso"
+ },
+ "flavor": {
+  "en": "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart.",
+  "ko": "가라르의 또도가스보다 공기를 흡입하는 힘은 조금 약하지만 내뿜는 독소는 강력하다."
+ },
+ "varieties": [
+  {
+   "name": "weezing",
+   "is_default": true
+  },
+  {
+   "name": "weezing-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "49"
+}

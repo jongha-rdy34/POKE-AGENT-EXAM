@@ -1,0 +1,20 @@
+{
+ "name": "shinx-fang",
+ "names": {
+  "ja-hrkt": "コリンクのキバ",
+  "ko": "꼬링크의이빨",
+  "zh-hant": "小貓怪的牙",
+  "fr": "Croc de Lixy",
+  "de": "Sheinux-Zahn",
+  "es": "Colmillo de Shinx",
+  "it": "Zanna di Shinx",
+  "en": "Shinx Fang",
+  "ja": "コリンクのキバ",
+  "zh-hans": "小猫怪的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

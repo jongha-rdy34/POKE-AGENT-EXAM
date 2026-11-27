@@ -1,0 +1,28 @@
+{
+ "name": "bottle-cap",
+ "names": {
+  "ja-hrkt": "ぎんのおうかん",
+  "ko": "은색병뚜껑",
+  "zh-hant": "銀色王冠",
+  "fr": "Capsule d’Argent",
+  "de": "Silberkronkorken",
+  "es": "Chapa Plateada",
+  "it": "Tappo d’argento",
+  "en": "Bottle Cap",
+  "ja": "ぎんのおうかん",
+  "zh-hans": "银色王冠",
+  "es-419": "Chapa Plateada"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "À échanger à Papi Ultime pour maximiser un IV d'un Pokémon.",
+  "en": "Trade to Mr. Hyper to maximize one of a Pokémon’s genes."
+ },
+ "flavor": {
+  "ko": "은색의 아름다운 왕관. 받으면 좋아하는 사람도 있다.",
+  "en": "A beautiful bottle cap that gives off a silver gleam. Some people are happy to receive one.",
+  "ja": "銀色の きれいな 王冠。 渡すと よろこぶ 人もいる。"
+ }
+}

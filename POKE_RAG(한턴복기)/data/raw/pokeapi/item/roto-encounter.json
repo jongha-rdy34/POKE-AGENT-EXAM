@@ -1,0 +1,28 @@
+{
+ "name": "roto-encounter",
+ "names": {
+  "ja-hrkt": "みっけポン",
+  "ko": "발견캡슐토이",
+  "zh-hant": "相遇碰碰",
+  "fr": "Moti-Appât",
+  "de": "Lockbon",
+  "es": "Cupón Reclamo",
+  "it": "Incontra’n’roll",
+  "en": "Roto Encounter",
+  "ja": "みっけポン",
+  "zh-hans": "相遇碰碰",
+  "es-419": "Cupón Reclamo"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-encounter",
+  "en": "XXX new effect for roto-encounter"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 일정 시간 레벨이 높은 야생 포켓몬과 만나기 쉬워진다.",
+  "en": "One of the Rotom Powers. It increases the chance of encountering high-level wild Pokémon a lot for a certain period of time.",
+  "ja": "ロトムパワーの ひとつ。 一定時間 レベルの 高い 野生ポケモンと 出会いやすくなる。"
+ }
+}

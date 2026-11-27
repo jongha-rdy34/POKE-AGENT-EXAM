@@ -1,0 +1,28 @@
+{
+ "name": "roto-friendship",
+ "names": {
+  "ja-hrkt": "なつきポン",
+  "ko": "친밀도캡슐토이",
+  "zh-hant": "親密碰碰",
+  "fr": "Moti-Cœur",
+  "de": "Freundschaftsbon",
+  "es": "Cupón Amistad",
+  "it": "Affetto’n’roll",
+  "en": "Roto Friendship",
+  "ja": "なつきポン",
+  "zh-hans": "亲密碰碰",
+  "es-419": "Cupón Amistad"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour roto-friendship",
+  "en": "XXX new effect for roto-friendship"
+ },
+ "flavor": {
+  "ko": "로토무파워 중 하나. 데리고 있는 포켓몬과 상당히 친밀해지기 쉬워진다.",
+  "en": "One of the Rotom Powers. It helps Pokémon in your party grow friendly faster.",
+  "ja": "ロトムパワーの ひとつ。 連れている ポケモンが かなり なかよく なりやすくなる。"
+ }
+}

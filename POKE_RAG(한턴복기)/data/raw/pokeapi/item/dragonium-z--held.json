@@ -1,0 +1,28 @@
+{
+ "name": "dragonium-z--held",
+ "names": {
+  "ja-hrkt": "ドラゴンＺ",
+  "ko": "드래곤Z",
+  "zh-hant": "龍Ｚ",
+  "fr": "Dracozélite",
+  "de": "Dracium Z",
+  "es": "Dracostal Z",
+  "it": "Draconium Z",
+  "en": "Dragonium Z",
+  "ja": "ドラゴンＺ",
+  "zh-hans": "龙Ｚ",
+  "es-419": "Dracostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Dragon.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 드래곤타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Dragon-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 ドラゴンタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

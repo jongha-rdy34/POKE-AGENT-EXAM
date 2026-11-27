@@ -1,0 +1,28 @@
+{
+ "name": "kowtow-cleave",
+ "names": {
+  "ja-hrkt": "ドゲザン",
+  "ko": "도각참",
+  "zh-hant": "仆斬",
+  "fr": "Génusection",
+  "de": "Kniefallspalter",
+  "es": "Genufendiente",
+  "it": "Genufendente",
+  "en": "Kowtow Cleave",
+  "ja": "ドゲザン",
+  "zh-hans": "仆刀",
+  "es-419": "Genufendiente"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 85,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+ }
+}

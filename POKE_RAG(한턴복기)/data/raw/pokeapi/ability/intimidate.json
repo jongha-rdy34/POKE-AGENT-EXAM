@@ -1,0 +1,23 @@
+{
+ "name": "intimidate",
+ "names": {
+  "ja-hrkt": "いかく",
+  "ko": "위협",
+  "zh-hant": "威嚇",
+  "fr": "Intimidation",
+  "de": "Bedroher",
+  "es": "Intimidación",
+  "it": "Prepotenza",
+  "en": "Intimidate",
+  "ja": "いかく",
+  "zh-hans": "威吓",
+  "es-419": "Intimidación"
+ },
+ "effect": {
+  "en": "Lowers opponents' Attack one stage upon entering battle."
+ },
+ "flavor": {
+  "en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.",
+  "ko": "등장했을 때 위협해서 상대를 위축시켜 상대의 공격을 떨어뜨린다."
+ }
+}

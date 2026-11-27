@@ -1,0 +1,28 @@
+{
+ "name": "lopunnite",
+ "names": {
+  "ja-hrkt": "ミミロップナイト",
+  "ko": "이어롭나이트",
+  "zh-hant": "長耳兔進化石",
+  "fr": "Lockpinite",
+  "de": "Schlapornit",
+  "es": "Lopunnita",
+  "it": "Lopunnite",
+  "en": "Lopunnite",
+  "ja": "ミミロップナイト",
+  "zh-hans": "长耳兔进化石",
+  "es-419": "Lopunnita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Lockpin de Méga-Évoluer en Méga-Lockpin.",
+  "en": "Held: Allows Lopunny to Mega Evolve into Mega Lopunny."
+ },
+ "flavor": {
+  "ko": "이어롭에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Lopunny hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ミミロップに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

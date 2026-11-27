@@ -1,0 +1,31 @@
+{
+ "name": "twisted-spoon",
+ "names": {
+  "ja-hrkt": "まがったスプーン",
+  "ko": "휘어진스푼",
+  "zh-hant": "彎曲的湯匙",
+  "fr": "Cuillère Tordue",
+  "de": "Krummlöffel",
+  "es": "Cuchara Torcida",
+  "it": "Cucchiaio Torto",
+  "en": "Twisted Spoon",
+  "ja": "まがったスプーン",
+  "zh-hans": "弯曲的汤匙",
+  "es-419": "Cuchara Torcida"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Psy du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Psychic-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This spoon is imbued with telekinetic power and boosts Psychic-type moves.",
+  "ko": "염동력을 담은 숟가락. 지니게 하면 에스퍼타입 기술의 위력이 올라간다.",
+  "ja": "念力を こめた スプーン。 持たせると エスパータイプの 技の 威力が あがる。"
+ }
+}

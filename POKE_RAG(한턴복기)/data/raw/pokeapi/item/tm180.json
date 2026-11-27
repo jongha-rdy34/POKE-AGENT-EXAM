@@ -1,0 +1,19 @@
+{
+ "name": "tm180",
+ "names": {
+  "ko": "기술머신180",
+  "zh-hant": "招式學習器１８０",
+  "fr": "CT180",
+  "de": "TM180",
+  "es": "MT180",
+  "it": "MT180",
+  "en": "TM180",
+  "ja": "わざマシン１８０",
+  "zh-hans": "招式学习器１８０"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,28 @@
+{
+ "name": "beast-ball",
+ "names": {
+  "ja-hrkt": "ウルトラボール",
+  "ko": "울트라볼",
+  "zh-hant": "究極球",
+  "fr": "Ultra Ball",
+  "de": "Ultraball",
+  "es": "Ente Ball",
+  "it": "UC Ball",
+  "en": "Beast Ball",
+  "ja": "ウルトラボール",
+  "zh-hans": "究极球",
+  "es-419": "Entebola"
+ },
+ "category": "special-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage.  Le taux de succès est 5× pour les Ultra-Chimères et 0.1× pour tous les autres Pokémon.",
+  "en": "Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon."
+ },
+ "flavor": {
+  "ko": "포켓몬을 잡기 어려운 조금 특이한 볼.",
+  "en": "A somewhat different Poké Ball that has a low success rate for catching a Pokémon.",
+  "ja": "ポケモンが 捕まえにくい ちょっと 変わった ボール。"
+ }
+}

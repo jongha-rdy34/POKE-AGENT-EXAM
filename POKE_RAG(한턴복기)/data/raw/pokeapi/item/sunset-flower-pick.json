@@ -1,0 +1,20 @@
+{
+ "name": "sunset-flower-pick",
+ "names": {
+  "ja-hrkt": "ゆうやけおはなピック",
+  "ko": "저녁노을 꽃 픽",
+  "zh-hant": "夕陽花三明治籤",
+  "fr": "Pique Fleur du Ponant",
+  "de": "Abendblumen-Pikser",
+  "es": "Palillo Flor Naranja",
+  "it": "Stecchino fiore arancio",
+  "en": "Sunset Flower Pick",
+  "ja": "ゆうやけおはなピック",
+  "zh-hans": "夕阳花三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

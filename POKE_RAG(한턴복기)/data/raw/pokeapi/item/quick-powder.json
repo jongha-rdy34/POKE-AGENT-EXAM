@@ -1,0 +1,30 @@
+{
+ "name": "quick-powder",
+ "names": {
+  "ja-hrkt": "スピードパウダー",
+  "ko": "스피드파우더",
+  "zh-hant": "速度粉",
+  "fr": "Poudre Vite",
+  "de": "Flottstaub",
+  "es": "Polvo Veloz",
+  "it": "Velopolvere",
+  "en": "Quick Powder",
+  "ja": "スピードパウダー",
+  "zh-hans": "速度粉",
+  "es-419": "Polvo Veloz"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Double la Vitesse de Métamorph quand porté. Le boost est perdu après la transformation.",
+  "en": "Doubles Ditto’s Speed when held. The boost is lost after transforming."
+ },
+ "flavor": {
+  "en": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat.",
+  "ko": "메타몽에게 지니게 하면 스피드가 올라가는 이상한 가루. 매우 잘고 단단하다.",
+  "ja": "メタモンに 持たせると 素早さが あがる 不思議な粉。 とても こまかくて 硬い。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 546,
+ "name": "cottonee",
+ "names": {
+  "ja-hrkt": "モンメン",
+  "ja-roma": "Monmen",
+  "ko": "소미안",
+  "zh-hant": "木棉球",
+  "fr": "Doudouvet",
+  "de": "Waumboll",
+  "es": "Cottonee",
+  "it": "Cottonee",
+  "en": "Cottonee",
+  "ja": "モンメン",
+  "zh-hans": "木棉球",
+  "es-419": "Cottonee"
+ },
+ "genus": {
+  "ja-hrkt": "わたたまポケモン",
+  "ko": "솜뭉치포켓몬",
+  "zh-hant": "棉球寶可夢",
+  "fr": "Pokémon Boule Coton",
+  "de": "Wattebausch-Pokémon",
+  "es": "Pokémon Bolalgodón",
+  "it": "Pokémon Cotonpalla",
+  "en": "Cotton Puff Pokémon",
+  "ja": "わたたまポケモン",
+  "zh-hans": "棉球宝可梦",
+  "es-419": "Pokémon Bolalgodón"
+ },
+ "flavor": {
+  "en": "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands.",
+  "ko": "소미안과 백솜모카의 솜을 섞어 짠 천은 아름다워서 고급 브랜드에 사용된다."
+ },
+ "varieties": [
+  {
+   "name": "cottonee",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "278"
+}

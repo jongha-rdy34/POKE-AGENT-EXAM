@@ -1,0 +1,28 @@
+{
+ "name": "poisonium-z--held",
+ "names": {
+  "ja-hrkt": "ドクＺ",
+  "ko": "독Z",
+  "zh-hant": "毒Ｚ",
+  "fr": "Toxizélite",
+  "de": "Toxium Z",
+  "es": "Toxistal Z",
+  "it": "Venenium Z",
+  "en": "Poisonium Z",
+  "ja": "ドクＺ",
+  "zh-hans": "毒Ｚ",
+  "es-419": "Toxistal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Poison.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 독타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Poison-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 どくタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "name": "great-ball",
+ "names": {
+  "ja-hrkt": "スーパーボール",
+  "ko": "슈퍼볼",
+  "zh-hant": "超級球",
+  "fr": "Super Ball",
+  "de": "Superball",
+  "es": "Super Ball",
+  "it": "Mega Ball",
+  "en": "Great Ball",
+  "ja": "スーパーボール",
+  "zh-hans": "超级球",
+  "es-419": "Superbola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Tente de capturer un Pokémon sauvage. Le taux de succès est 1.5x.",
+  "en": "Tries to catch a wild Pokémon.  Success rate is 1.5×."
+ },
+ "flavor": {
+  "en": "A good, high-performance Poké Ball that provides a higher success rate for catching Pokémon than a standard Poké Ball.",
+  "ko": "몬스터볼보다도 더욱 포켓몬을 잡기 쉬워진 약간 성능이 좋은 볼.",
+  "ja": "モンスターボールよりも さらに ポケモンを 捕まえやすくなった 少し 性能のいい ボール。"
+ }
+}

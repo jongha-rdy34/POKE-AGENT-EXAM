@@ -1,0 +1,19 @@
+{
+ "name": "tm200",
+ "names": {
+  "ko": "기술머신200",
+  "zh-hant": "招式學習器２００",
+  "fr": "CT200",
+  "de": "TM200",
+  "es": "MT200",
+  "it": "MT200",
+  "en": "TM200",
+  "ja": "わざマシン２００",
+  "zh-hans": "招式学习器２００"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

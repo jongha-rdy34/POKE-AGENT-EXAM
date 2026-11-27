@@ -1,0 +1,20 @@
+{
+ "name": "tm128",
+ "names": {
+  "ja-hrkt": "わざマシン１２８",
+  "ko": "기술머신128",
+  "zh-hant": "招式學習器１２８",
+  "fr": "CT128",
+  "de": "TM128",
+  "es": "MT128",
+  "it": "MT128",
+  "en": "TM128",
+  "ja": "わざマシン１２８",
+  "zh-hans": "招式学习器１２８"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

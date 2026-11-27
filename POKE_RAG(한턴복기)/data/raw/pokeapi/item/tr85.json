@@ -1,0 +1,25 @@
+{
+ "name": "tr85",
+ "names": {
+  "ja-hrkt": "わざレコード８５",
+  "ko": "기술레코드85",
+  "zh-hant": "招式紀錄８５",
+  "fr": "DT85",
+  "de": "TP85",
+  "es": "DT85",
+  "it": "DT85",
+  "en": "TR85",
+  "ja": "わざレコード８５",
+  "zh-hans": "招式记录８５",
+  "es-419": "DT85"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "스스로 분발해서 공격과 특수공격을 올린다.",
+  "en": "The user is roused, and its Attack and Sp. Atk stats increase.",
+  "ja": "自分を 奮いたてて 攻撃と 特攻を あげる。"
+ }
+}

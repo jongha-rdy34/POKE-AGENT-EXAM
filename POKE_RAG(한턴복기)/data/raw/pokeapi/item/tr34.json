@@ -1,0 +1,25 @@
+{
+ "name": "tr34",
+ "names": {
+  "ja-hrkt": "わざレコード３４",
+  "ko": "기술레코드34",
+  "zh-hant": "招式紀錄３４",
+  "fr": "DT34",
+  "de": "TP34",
+  "es": "DT34",
+  "it": "DT34",
+  "en": "TR34",
+  "ja": "わざレコード３４",
+  "zh-hans": "招式记录３４",
+  "es-419": "DT34"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "기술을 사용한 2턴 뒤에 상대에게 염동력의 덩어리를 보내어 공격한다.",
+  "en": "Two turns after this move is used, a hunk of psychic energy attacks the target.",
+  "ja": "技を 使った ２ターン後に 相手に 念力の 塊を 送って 攻撃する。"
+ }
+}

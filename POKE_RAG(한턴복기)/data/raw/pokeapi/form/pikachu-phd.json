@@ -1,0 +1,17 @@
+{
+ "name": "pikachu-phd",
+ "form_name": "phd",
+ "names": {
+  "fr": "Pikachu Docteur",
+  "de": "Dr. Pikachu",
+  "en": "Pikachu Ph.D."
+ },
+ "form_names": {
+  "ja-hrkt": "ドクター・ピカチュウ",
+  "fr": "Pikachu Docteur",
+  "de": "Cosplayform",
+  "en": "Pikachu Ph.D.",
+  "ja": "ドクター・ピカチュウ"
+ },
+ "is_mega": false
+}

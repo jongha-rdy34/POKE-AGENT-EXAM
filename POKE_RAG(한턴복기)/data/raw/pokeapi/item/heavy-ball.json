@@ -1,0 +1,28 @@
+{
+ "name": "heavy-ball",
+ "names": {
+  "ja-hrkt": "ヘビーボール",
+  "ko": "헤비볼",
+  "zh-hant": "沉重球",
+  "fr": "Masse Ball",
+  "de": "Schwerball",
+  "es": "Peso Ball",
+  "it": "Peso Ball",
+  "en": "Heavy Ball",
+  "ja": "ヘビーボール",
+  "zh-hans": "沉重球",
+  "es-419": "Pesabola"
+ },
+ "category": "apricorn-balls",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "A un bonus ou une pénalité fixe sur le taux de capture selon la classe de poids de la cible. Fait à partir de Noigrume Noi.",
+  "en": "Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn."
+ },
+ "flavor": {
+  "en": "A Poké Ball that is better than usual at catching very heavy Pokémon.",
+  "ko": "체중이 무거운 포켓몬이 잡기 쉬워지는 조금 특이한 볼.",
+  "ja": "体重の 重い ポケモンが 捕まえやすくなる ちょっと 変わった ボール。"
+ }
+}

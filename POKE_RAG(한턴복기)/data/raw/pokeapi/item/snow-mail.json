@@ -1,0 +1,22 @@
+{
+ "name": "snow-mail",
+ "names": {
+  "ja-hrkt": "ブリザードメール",
+  "fr": "Lettre Neige",
+  "de": "Schneebrief",
+  "es": "Carta Nieve",
+  "it": "Mess. Neve",
+  "en": "Snow Mail",
+  "es-419": "Carta Nieve"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring a print of a chilly, snow-covered world. Let a Pokémon hold it for delivery."
+ }
+}

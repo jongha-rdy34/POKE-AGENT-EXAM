@@ -1,0 +1,46 @@
+{
+ "id": 642,
+ "name": "thundurus",
+ "names": {
+  "ja-hrkt": "ボルトロス",
+  "ja-roma": "Voltolos",
+  "ko": "볼트로스",
+  "zh-hant": "雷電雲",
+  "fr": "Fulguris",
+  "de": "Voltolos",
+  "es": "Thundurus",
+  "it": "Thundurus",
+  "en": "Thundurus",
+  "ja": "ボルトロス",
+  "zh-hans": "雷电云",
+  "es-419": "Thundurus"
+ },
+ "genus": {
+  "ja-hrkt": "らいげきポケモン",
+  "ko": "뇌격포켓몬",
+  "zh-hant": "雷擊寶可夢",
+  "fr": "Pokémon Foudroyeur",
+  "de": "Torpedo-Pokémon",
+  "es": "Pokémon Centella",
+  "it": "Pokémon Fulminante",
+  "en": "Bolt Strike Pokémon",
+  "ja": "らいげきポケモン",
+  "zh-hans": "雷击宝可梦",
+  "es-419": "Pokémon Centella"
+ },
+ "flavor": {
+  "en": "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil.",
+  "ko": "넓은 하늘을 날아다니며 여기저기 번개를 떨어뜨려 산불을 내기 때문에 미움받는다."
+ },
+ "varieties": [
+  {
+   "name": "thundurus-incarnate",
+   "is_default": true
+  },
+  {
+   "name": "thundurus-therian",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "329"
+}

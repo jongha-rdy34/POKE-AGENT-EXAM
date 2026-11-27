@@ -1,0 +1,42 @@
+{
+ "id": 552,
+ "name": "krokorok",
+ "names": {
+  "ja-hrkt": "ワルビル",
+  "ja-roma": "Waruvile",
+  "ko": "악비르",
+  "zh-hant": "混混鱷",
+  "fr": "Escroco",
+  "de": "Rokkaiman",
+  "es": "Krokorok",
+  "it": "Krokorok",
+  "en": "Krokorok",
+  "ja": "ワルビル",
+  "zh-hans": "混混鳄",
+  "es-419": "Krokorok"
+ },
+ "genus": {
+  "ja-hrkt": "さばくワニポケモン",
+  "ko": "사막악어포켓몬",
+  "zh-hant": "沙漠鱷魚寶可夢",
+  "fr": "Pokémon Croco Sable",
+  "de": "Wüstenkroko-Pokémon",
+  "es": "Pokémon Desierdrilo",
+  "it": "Pokémon Sabbiadrillo",
+  "en": "Desert Croc Pokémon",
+  "ja": "さばくワニポケモン",
+  "zh-hans": "沙漠鳄鱼宝可梦",
+  "es-419": "Pokémon Desierdrilo"
+ },
+ "flavor": {
+  "en": "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset.",
+  "ko": "어둠 속에서도 볼 수 있는 특수한 눈을 가졌지만 사막의 밤은 춥기 때문에 잘 움직이지 않는다."
+ },
+ "varieties": [
+  {
+   "name": "krokorok",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "281"
+}

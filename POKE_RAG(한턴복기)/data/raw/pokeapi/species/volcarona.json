@@ -1,0 +1,42 @@
+{
+ "id": 637,
+ "name": "volcarona",
+ "names": {
+  "ja-hrkt": "ウルガモス",
+  "ja-roma": "Ulgamoth",
+  "ko": "불카모스",
+  "zh-hant": "火神蛾",
+  "fr": "Pyrax",
+  "de": "Ramoth",
+  "es": "Volcarona",
+  "it": "Volcarona",
+  "en": "Volcarona",
+  "ja": "ウルガモス",
+  "zh-hans": "火神蛾",
+  "es-419": "Volcarona"
+ },
+ "genus": {
+  "ja-hrkt": "たいようポケモン",
+  "ko": "태양포켓몬",
+  "zh-hant": "太陽寶可夢",
+  "fr": "Pokémon Soleil",
+  "de": "Sonnen-Pokémon",
+  "es": "Pokémon Sol",
+  "it": "Pokémon Sole",
+  "en": "Sun Pokémon",
+  "ja": "たいようポケモン",
+  "zh-hans": "太阳宝可梦",
+  "es-419": "Pokémon Sol"
+ },
+ "flavor": {
+  "en": "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire.",
+  "ko": "활활 타오르는 불의 고치에서 태어났다. 고대의 벽화에 불꽃의 신으로 그려져 있다."
+ },
+ "varieties": [
+  {
+   "name": "volcarona",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "324"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "endeavor",
+ "names": {
+  "ja-hrkt": "がむしゃら",
+  "ko": "죽기살기",
+  "zh-hant": "蠻幹",
+  "fr": "Effort",
+  "de": "Notsituation",
+  "es": "Esfuerzo",
+  "it": "Rimonta",
+  "en": "Endeavor",
+  "ja": "がむしゃら",
+  "zh-hans": "蛮干",
+  "es-419": "Esfuerzo"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s HP to equal the user’s."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user inflicts damage by cutting down the target's HP to roughly equal the user's HP.",
+  "ko": "상대의 HP가 자신의 HP와 같아지도록 데미지를 준다."
+ }
+}

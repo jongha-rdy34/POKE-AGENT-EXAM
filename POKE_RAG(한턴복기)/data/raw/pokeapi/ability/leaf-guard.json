@@ -1,0 +1,23 @@
+{
+ "name": "leaf-guard",
+ "names": {
+  "ja-hrkt": "リーフガード",
+  "ko": "리프가드",
+  "zh-hant": "葉子防守",
+  "fr": "Feuille Garde",
+  "de": "Floraschild",
+  "es": "Defensa Hoja",
+  "it": "Fogliamanto",
+  "en": "Leaf Guard",
+  "ja": "リーフガード",
+  "zh-hans": "叶子防守",
+  "es-419": "Defensa Hoja"
+ },
+ "effect": {
+  "en": "Protects against major status ailments during strong sunlight."
+ },
+ "flavor": {
+  "en": "Prevents status conditions in harsh sunlight.",
+  "ko": "날씨가 맑을 때는 상태 이상이 되지 않는다."
+ }
+}

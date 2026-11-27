@@ -1,0 +1,20 @@
+{
+ "name": "flabebe-pollen",
+ "names": {
+  "ja-hrkt": "フラベベのかふん",
+  "ko": "플라베베의꽃가루",
+  "zh-hant": "花蓓蓓的花粉",
+  "fr": "Pollen de Flabébé",
+  "de": "Flabébé-Pollen",
+  "es": "Polen de Flabébé",
+  "it": "Polline di Flabébé",
+  "en": "Flabébé Pollen",
+  "ja": "フラベベのかふん",
+  "zh-hans": "花蓓蓓的花粉"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

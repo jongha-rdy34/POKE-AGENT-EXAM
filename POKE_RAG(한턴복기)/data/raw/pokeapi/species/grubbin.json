@@ -1,0 +1,42 @@
+{
+ "id": 736,
+ "name": "grubbin",
+ "names": {
+  "ja-hrkt": "アゴジムシ",
+  "ja-roma": "Agojimushi",
+  "ko": "턱지충이",
+  "zh-hant": "強顎雞母蟲",
+  "fr": "Larvibule",
+  "de": "Mabula",
+  "es": "Grubbin",
+  "it": "Grubbin",
+  "en": "Grubbin",
+  "ja": "アゴジムシ",
+  "zh-hans": "强颚鸡母虫",
+  "es-419": "Grubbin"
+ },
+ "genus": {
+  "ja-hrkt": "ようちゅうポケモン",
+  "ko": "유충포켓몬",
+  "zh-hant": "幼蟲寶可夢",
+  "fr": "Pokémon Larve",
+  "de": "Larven-Pokémon",
+  "es": "Pokémon Pupa",
+  "it": "Pokémon Coleolarva",
+  "en": "Larva Pokémon",
+  "ja": "ようちゅうポケモン",
+  "zh-hans": "幼虫宝可梦",
+  "es-419": "Pokémon Pupa"
+ },
+ "flavor": {
+  "ko": "커다란 턱으로 숲에서 땅을 파고 굴을 만든다. 달콤한 수액을 매우 좋아한다.",
+  "en": "It uses its big jaws to dig nests into the forest floor, and it loves to feed on sweet tree sap."
+ },
+ "varieties": [
+  {
+   "name": "grubbin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "379"
+}

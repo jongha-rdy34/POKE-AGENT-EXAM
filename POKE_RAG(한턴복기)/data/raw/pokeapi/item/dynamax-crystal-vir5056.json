@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-vir5056",
+ "names": {
+  "ja-hrkt": "★Vir5056",
+  "ko": "★Vir5056",
+  "zh-hant": "★Vir5056",
+  "fr": "★Vir5056",
+  "de": "★Vir5056",
+  "es": "★Vir5056",
+  "it": "★Vir5056",
+  "en": "★Vir5056",
+  "ja": "★Vir5056",
+  "zh-hans": "★Vir5056",
+  "es-419": "★Vir5056"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

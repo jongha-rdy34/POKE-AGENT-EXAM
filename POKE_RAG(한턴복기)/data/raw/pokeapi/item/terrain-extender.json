@@ -1,0 +1,28 @@
+{
+ "name": "terrain-extender",
+ "names": {
+  "ja-hrkt": "グランドコート",
+  "ko": "그라운드코트",
+  "zh-hant": "大地膜",
+  "fr": "Champ’Duit",
+  "de": "Feldbeschichtung",
+  "es": "Cubresuelos",
+  "it": "Fissacampo",
+  "en": "Terrain Extender",
+  "ja": "グランドコート",
+  "zh-hans": "大地膜",
+  "es-419": "Cubresuelos"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Étend la durée des Champs du porteur à 8 tours.",
+  "en": "Held: Extends the holder’s Terrain effects to 8 turns."
+ },
+ "flavor": {
+  "ko": "지니게 한 포켓몬이 기술이나 특성으로 필드를 사용했을 때 여느 때보다 긴 시간 동안 지속된다.",
+  "en": "An item to be held by a Pokémon. It extends the duration of the terrain caused by the holder’s move or Ability.",
+  "ja": "持たせた ポケモンが 技や 特性で フィールドを 張ったとき いつもよりも 長く 残る。"
+ }
+}

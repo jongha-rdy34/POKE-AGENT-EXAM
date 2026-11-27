@@ -1,0 +1,23 @@
+{
+ "name": "corrosion",
+ "names": {
+  "ja-hrkt": "ふしょく",
+  "ko": "부식",
+  "zh-hant": "腐蝕",
+  "fr": "Corrosion",
+  "de": "Korrosion",
+  "es": "Corrosión",
+  "it": "Corrosione",
+  "en": "Corrosion",
+  "ja": "ふしょく",
+  "zh-hans": "腐蚀",
+  "es-419": "Corrosión"
+ },
+ "effect": {
+  "en": "This Pokémon can inflict poison on Poison and Steel Pokémon."
+ },
+ "flavor": {
+  "ko": "강철타입이나 독타입도 독 상태로 만들 수 있다.",
+  "en": "The Pokémon can poison the target even if it's a Steel or Poison type."
+ }
+}

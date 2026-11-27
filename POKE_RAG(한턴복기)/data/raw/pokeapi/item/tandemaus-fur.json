@@ -1,0 +1,20 @@
+{
+ "name": "tandemaus-fur",
+ "names": {
+  "ja-hrkt": "ワッカネズミのけ",
+  "ko": "두리쥐의털",
+  "zh-hant": "一對鼠的毛",
+  "fr": "Poils de Compagnol",
+  "de": "Zwieps-Haar",
+  "es": "Pelo de Tandemaus",
+  "it": "Pelo di Tandemaus",
+  "en": "Tandemaus Fur",
+  "ja": "ワッカネズミのけ",
+  "zh-hans": "一对鼠的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

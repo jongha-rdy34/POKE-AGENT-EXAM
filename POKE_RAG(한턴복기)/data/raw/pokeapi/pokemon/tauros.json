@@ -1,0 +1,92 @@
+{
+ "id": 128,
+ "name": "tauros",
+ "species": "tauros",
+ "is_default": true,
+ "types": [
+  "normal"
+ ],
+ "stats": {
+  "hp": 75,
+  "attack": 100,
+  "defense": 95,
+  "special-attack": 40,
+  "special-defense": 70,
+  "speed": 110
+ },
+ "abilities": [
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "anger-point",
+   "hidden": false
+  },
+  {
+   "name": "sheer-force",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 884,
+ "champions_moves": [
+  "assurance",
+  "blizzard",
+  "body-slam",
+  "bulldoze",
+  "close-combat",
+  "curse",
+  "dig",
+  "double-edge",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "fire-blast",
+  "flamethrower",
+  "giga-impact",
+  "helping-hand",
+  "high-horsepower",
+  "hyper-beam",
+  "ice-beam",
+  "icy-wind",
+  "iron-head",
+  "iron-tail",
+  "lash-out",
+  "megahorn",
+  "outrage",
+  "payback",
+  "protect",
+  "raging-bull",
+  "rain-dance",
+  "rest",
+  "reversal",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sandstorm",
+  "scary-face",
+  "shadow-ball",
+  "sleep-talk",
+  "smart-strike",
+  "snore",
+  "solar-beam",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "surf",
+  "swagger",
+  "thief",
+  "thrash",
+  "throat-chop",
+  "thunder",
+  "thunderbolt",
+  "trailblaze",
+  "uproar",
+  "whirlpool",
+  "wild-charge",
+  "zen-headbutt"
+ ]
+}

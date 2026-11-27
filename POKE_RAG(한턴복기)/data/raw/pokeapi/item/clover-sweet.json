@@ -1,0 +1,25 @@
+{
+ "name": "clover-sweet",
+ "names": {
+  "ja-hrkt": "よつばアメざいく",
+  "ko": "네잎사탕공예",
+  "zh-hant": "幸運草糖飾",
+  "fr": "Trèfle en Sucre",
+  "de": "Zucker-Kleeblatt",
+  "es": "Confite Trébol",
+  "it": "Bonbonfoglio",
+  "en": "Clover Sweet",
+  "ja": "よつばアメざいく",
+  "zh-hans": "幸运草糖饰",
+  "es-419": "Confite Trébol"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "네잎클로버 모양의 사탕공예. 마빌크에게 지니게 하면 빙빙 돌며 기뻐한다.",
+  "en": "A clover-shaped sweet. When a Milcery holds this, it spins around happily.",
+  "ja": "よつばの 形を した アメ細工。 マホミルに 持たせてあげると くるくる 回って 喜ぶ。"
+ }
+}

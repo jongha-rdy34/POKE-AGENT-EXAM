@@ -1,0 +1,31 @@
+{
+ "name": "speed-swap",
+ "names": {
+  "ja-hrkt": "スピードスワップ",
+  "ko": "스피드스왑",
+  "zh-hant": "速度互換",
+  "fr": "Permuvitesse",
+  "de": "Initiativetausch",
+  "es": "Cambiavelocidad",
+  "it": "Velociscambio",
+  "en": "Speed Swap",
+  "ja": "スピードスワップ",
+  "zh-hans": "速度互换",
+  "es-419": "Cambiavelocidad"
+ },
+ "type": "psychic",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Exchanges the user’s Speed with the target’s."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "상대의 스피드와 자신의 스피드를 교체한다.",
+  "en": "The user exchanges Speed stats with the target."
+ }
+}

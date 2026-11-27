@@ -1,0 +1,42 @@
+{
+ "id": 850,
+ "name": "sizzlipede",
+ "names": {
+  "ja-hrkt": "ヤクデ",
+  "ja-roma": "Yakude",
+  "ko": "태우지네",
+  "zh-hant": "燒火蚣",
+  "fr": "Grillepattes",
+  "de": "Thermopod",
+  "es": "Sizzlipede",
+  "it": "Sizzlipede",
+  "en": "Sizzlipede",
+  "ja": "ヤクデ",
+  "zh-hans": "烧火蚣",
+  "es-419": "Sizzlipede"
+ },
+ "genus": {
+  "ja-hrkt": "はつねつポケモン",
+  "ko": "발열포켓몬",
+  "zh-hant": "發熱寶可夢",
+  "fr": "Pokémon Calorifère",
+  "de": "Exotherm-Pokémon",
+  "es": "Pokémon Radiador",
+  "it": "Pokémon Termogeno",
+  "en": "Radiator Pokémon",
+  "ja": "はつねつポケモン",
+  "zh-hans": "发热宝可梦",
+  "es-419": "Pokémon Radiador"
+ },
+ "flavor": {
+  "ko": "발열된 몸으로 먹이를 세게 조른다. 알맞게 구워지면 우적우적 먹어버린다.",
+  "en": "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel."
+ },
+ "varieties": [
+  {
+   "name": "sizzlipede",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "447"
+}

@@ -1,0 +1,31 @@
+{
+ "name": "recycle",
+ "names": {
+  "ja-hrkt": "リサイクル",
+  "ko": "리사이클",
+  "zh-hant": "回收利用",
+  "fr": "Recyclage",
+  "de": "Aufbereitung",
+  "es": "Reciclaje",
+  "it": "Riciclo",
+  "en": "Recycle",
+  "ja": "リサイクル",
+  "zh-hans": "回收利用",
+  "es-419": "Reciclaje"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "user",
+ "effect": {
+  "en": "User recovers the item it last used up."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user recycles a held item that has been used in battle so it can be used again.",
+  "ko": "배틀 중에 사용하여 없어진 자신의 지닌 물건을 재생시켜 사용할 수 있게 한다."
+ }
+}

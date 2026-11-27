@@ -1,0 +1,19 @@
+{
+ "name": "tm221",
+ "names": {
+  "ko": "기술머신221",
+  "zh-hant": "招式學習器２２１",
+  "fr": "CT221",
+  "de": "TM221",
+  "es": "MT221",
+  "it": "MT221",
+  "en": "TM221",
+  "ja": "わざマシン２２１",
+  "zh-hans": "招式学习器２２１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

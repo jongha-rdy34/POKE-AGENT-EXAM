@@ -1,0 +1,42 @@
+{
+ "id": 286,
+ "name": "breloom",
+ "names": {
+  "ja-hrkt": "キノガッサ",
+  "ja-roma": "Kinogassa",
+  "ko": "버섯모",
+  "zh-hant": "斗笠菇",
+  "fr": "Chapignon",
+  "de": "Kapilz",
+  "es": "Breloom",
+  "it": "Breloom",
+  "en": "Breloom",
+  "ja": "キノガッサ",
+  "zh-hans": "斗笠菇",
+  "es-419": "Breloom"
+ },
+ "genus": {
+  "ja-hrkt": "きのこポケモン",
+  "ko": "버섯포켓몬",
+  "zh-hant": "蘑菇寶可夢",
+  "fr": "Pokémon Champignon",
+  "de": "Pilz",
+  "es": "Pokémon Hongo",
+  "it": "Pokémon Fungo",
+  "en": "Mushroom Pokémon",
+  "ja": "きのこポケモン",
+  "zh-hans": "蘑菇宝可梦",
+  "es-419": "Pokémon Hongo"
+ },
+ "flavor": {
+  "en": "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
+  "ko": "꼬리의 씨앗은 독 포자가 굳어져 생긴 것이라 먹으면 큰일 난다. 한 입만 먹어도 배 속에서 부글부글 소리가 난다."
+ },
+ "varieties": [
+  {
+   "name": "breloom",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "142"
+}

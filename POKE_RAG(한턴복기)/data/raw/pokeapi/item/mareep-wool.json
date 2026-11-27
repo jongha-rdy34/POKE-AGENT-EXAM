@@ -1,0 +1,20 @@
+{
+ "name": "mareep-wool",
+ "names": {
+  "ja-hrkt": "メリープのけだま",
+  "ko": "메리프의털뭉치",
+  "zh-hant": "咩利羊的毛球",
+  "fr": "Laine de Wattouat",
+  "de": "Voltilamm-Wolle",
+  "es": "Lana de Mareep",
+  "it": "Lana di Mareep",
+  "en": "Mareep Wool",
+  "ja": "メリープのけだま",
+  "zh-hans": "咩利羊的毛球"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

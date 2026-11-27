@@ -1,0 +1,34 @@
+{
+ "name": "paralyze-heal",
+ "names": {
+  "ja-hrkt": "まひなおし",
+  "ko": "마비치료제",
+  "zh-hant": "解麻藥",
+  "fr": "Anti-Para",
+  "de": "Para-Heiler",
+  "es": "Antiparalizador",
+  "it": "Antiparalisi",
+  "en": "Paralyze Heal",
+  "ja": "まひなおし",
+  "zh-hans": "解麻药",
+  "es-419": "Antiparalizador"
+ },
+ "category": "status-cures",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Soigne la paralysie.",
+  "en": "Cures paralysis."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating paralysis. It can be used to free a single Pokémon that has been paralyzed.",
+  "ko": "스프레이식의 약. 포켓몬 1마리의 마비 상태를 회복한다.",
+  "ja": "スプレー式の 薬。 ポケモン １匹の まひの 状態を 回復する。"
+ }
+}

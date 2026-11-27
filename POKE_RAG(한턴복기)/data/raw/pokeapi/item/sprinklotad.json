@@ -1,0 +1,28 @@
+{
+ "name": "sprinklotad",
+ "names": {
+  "ja-hrkt": "ハスボーじょうろ",
+  "ko": "연꽃몬물뿌리개",
+  "zh-hant": "蓮葉童子噴壺",
+  "fr": "Nénurrosoir",
+  "de": "Loturzelkanne",
+  "es": "Lotadgadera",
+  "it": "Irrigalotad",
+  "en": "Sprinklotad",
+  "ja": "ハスボーじょうろ",
+  "zh-hans": "莲叶童子喷壶",
+  "es-419": "Lotadgadera"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Arrose les plants de Baie.",
+  "en": "Waters Berry plants."
+ },
+ "flavor": {
+  "ko": "물을 주는 도구. 푹신푹신한 흙에 심은 나무열매를 쑥쑥 키운다.",
+  "en": "A watering can shaped like a Lotad. It helps promote the healthy growth of any Berries planted in good, soft soil.",
+  "ja": "水を かける 道具。 ふかふかのつちに 埋めた きのみを すくすく 育てる。"
+ }
+}

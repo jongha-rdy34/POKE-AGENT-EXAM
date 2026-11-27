@@ -1,0 +1,54 @@
+{
+ "id": 710,
+ "name": "pumpkaboo",
+ "names": {
+  "ja-hrkt": "バケッチャ",
+  "ja-roma": "Bakeccha",
+  "ko": "호바귀",
+  "zh-hant": "南瓜精",
+  "fr": "Pitrouille",
+  "de": "Irrbis",
+  "es": "Pumpkaboo",
+  "it": "Pumpkaboo",
+  "en": "Pumpkaboo",
+  "ja": "バケッチャ",
+  "zh-hans": "南瓜精",
+  "es-419": "Pumpkaboo"
+ },
+ "genus": {
+  "ja-hrkt": "かぼちゃポケモン",
+  "ko": "호박포켓몬",
+  "zh-hant": "南瓜寶可夢",
+  "fr": "Pokémon Citrouille",
+  "de": "Kürbis-Pokémon",
+  "es": "Pokémon Calabaza",
+  "it": "Pokémon Zucca",
+  "en": "Pumpkin Pokémon",
+  "ja": "かぼちゃポケモン",
+  "zh-hans": "南瓜宝可梦",
+  "es-419": "Pokémon Calabaza"
+ },
+ "flavor": {
+  "ko": "호박의 구멍에서 나오는 빛을 본 사람과 포켓몬을 최면상태로 만들어 조종한다.",
+  "en": "The light that streams out from the holes in the pumpkin can hypnotize and control the people and Pokémon that see it."
+ },
+ "varieties": [
+  {
+   "name": "pumpkaboo-average",
+   "is_default": true
+  },
+  {
+   "name": "pumpkaboo-small",
+   "is_default": false
+  },
+  {
+   "name": "pumpkaboo-large",
+   "is_default": false
+  },
+  {
+   "name": "pumpkaboo-super",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "365"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "sweet-herba-mystica",
+ "names": {
+  "ja-hrkt": "ひでん：あまスパイス",
+  "ko": "비전 달콤스파이스",
+  "zh-hant": "秘傳：甜味料",
+  "fr": "Épice Secrète Sucrée",
+  "de": "Süßes Geheimgewürz",
+  "es": "Especia Oculta Dulce",
+  "it": "Spezia nascosta dolce",
+  "en": "Sweet Herba Mystica",
+  "ja": "ひでん：あまスパイス",
+  "zh-hans": "秘传：甜味料"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

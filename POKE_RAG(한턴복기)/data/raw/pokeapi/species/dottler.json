@@ -1,0 +1,42 @@
+{
+ "id": 825,
+ "name": "dottler",
+ "names": {
+  "ja-hrkt": "レドームシ",
+  "ja-roma": "Redomushi",
+  "ko": "레돔벌레",
+  "zh-hant": "天罩蟲",
+  "fr": "Coléodôme",
+  "de": "Keradar",
+  "es": "Dottler",
+  "it": "Dottler",
+  "en": "Dottler",
+  "ja": "レドームシ",
+  "zh-hans": "天罩虫",
+  "es-419": "Dottler"
+ },
+ "genus": {
+  "ja-hrkt": "レドームポケモン",
+  "ko": "레이돔포켓몬",
+  "zh-hant": "天線罩寶可夢",
+  "fr": "Pokémon Radôme",
+  "de": "Radarkuppel-Pokémon",
+  "es": "Pokémon Radomo",
+  "it": "Pokémon Radome",
+  "en": "Radome Pokémon",
+  "ja": "レドームポケモン",
+  "zh-hans": "天线罩宝可梦",
+  "es-419": "Pokémon Radomo"
+ },
+ "flavor": {
+  "ko": "껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.",
+  "en": "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution."
+ },
+ "varieties": [
+  {
+   "name": "dottler",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "435"
+}

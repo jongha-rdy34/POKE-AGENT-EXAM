@@ -1,0 +1,31 @@
+{
+ "name": "beat-up",
+ "names": {
+  "ja-hrkt": "ふくろだたき",
+  "ko": "집단구타",
+  "zh-hant": "圍攻",
+  "fr": "Baston",
+  "de": "Prügler",
+  "es": "Paliza",
+  "it": "Picchiaduro",
+  "en": "Beat Up",
+  "ja": "ふくろだたき",
+  "zh-hans": "围攻",
+  "es-419": "Paliza"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits once for every conscious Pokémon the trainer has."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",
+  "ko": "같은 편 전원이 공격한다. 동료 포켓몬이 많을수록 기술의 공격 횟수가 증가한다."
+ }
+}

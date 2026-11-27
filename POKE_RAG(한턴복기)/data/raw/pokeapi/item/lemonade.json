@@ -1,0 +1,34 @@
+{
+ "name": "lemonade",
+ "names": {
+  "ja-hrkt": "ミックスオレ",
+  "ko": "후르츠밀크",
+  "zh-hant": "果汁牛奶",
+  "fr": "Limonade",
+  "de": "Limonade",
+  "es": "Limonada",
+  "it": "Lemonsucco",
+  "en": "Lemonade",
+  "ja": "ミックスオレ",
+  "zh-hans": "果汁牛奶",
+  "es-419": "Limonada"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure 80 PV.",
+  "en": "Restores 80 HP."
+ },
+ "flavor": {
+  "en": "A very sweet and refreshing drink. It can be used to restore 70 HP to a single Pokémon.",
+  "ko": "매우 달콤한 쥬스. 포켓몬 1마리의 HP를 70만큼 회복한다.",
+  "ja": "とても あまい ジュース。 ポケモン １匹の ＨＰを ７０だけ 回復する。"
+ }
+}

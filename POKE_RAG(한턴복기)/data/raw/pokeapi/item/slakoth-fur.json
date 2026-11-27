@@ -1,0 +1,20 @@
+{
+ "name": "slakoth-fur",
+ "names": {
+  "ja-hrkt": "ナマケロのけ",
+  "ko": "게을로의털",
+  "zh-hant": "懶人獺的毛",
+  "fr": "Poils de Parecool",
+  "de": "Bummelz-Haar",
+  "es": "Pelo de Slakoth",
+  "it": "Pelo di Slakoth",
+  "en": "Slakoth Fur",
+  "ja": "ナマケロのけ",
+  "zh-hans": "懒人獭的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

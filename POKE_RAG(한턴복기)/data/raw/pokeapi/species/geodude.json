@@ -1,0 +1,46 @@
+{
+ "id": 74,
+ "name": "geodude",
+ "names": {
+  "ja-hrkt": "イシツブテ",
+  "ja-roma": "Isitsubute",
+  "ko": "꼬마돌",
+  "zh-hant": "小拳石",
+  "fr": "Racaillou",
+  "de": "Kleinstein",
+  "es": "Geodude",
+  "it": "Geodude",
+  "en": "Geodude",
+  "ja": "イシツブテ",
+  "zh-hans": "小拳石",
+  "es-419": "Geodude"
+ },
+ "genus": {
+  "ja-hrkt": "がんせきポケモン",
+  "ko": "암석포켓몬",
+  "zh-hant": "岩石寶可夢",
+  "fr": "Pokémon Roche",
+  "de": "Gestein",
+  "es": "Pokémon Roca",
+  "it": "Pokémon Roccia",
+  "en": "Rock Pokémon",
+  "ja": "がんせきポケモン",
+  "zh-hans": "岩石宝可梦",
+  "es-419": "Pokémon Roca"
+ },
+ "flavor": {
+  "en": "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you.",
+  "ko": "산길 등에 많이 서식한다. 실수로 밟으면 화를 내므로 주의가 필요하다."
+ },
+ "varieties": [
+  {
+   "name": "geodude",
+   "is_default": true
+  },
+  {
+   "name": "geodude-alola",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "31"
+}

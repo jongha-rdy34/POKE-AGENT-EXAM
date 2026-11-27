@@ -1,0 +1,42 @@
+{
+ "id": 882,
+ "name": "dracovish",
+ "names": {
+  "ja-hrkt": "ウオノラゴン",
+  "ja-roma": "Uonoragon",
+  "ko": "어래곤",
+  "zh-hant": "鰓魚龍",
+  "fr": "Hydragon",
+  "de": "Pescragon",
+  "es": "Dracovish",
+  "it": "Dracovish",
+  "en": "Dracovish",
+  "ja": "ウオノラゴン",
+  "zh-hans": "鳃鱼龙",
+  "es-419": "Dracovish"
+ },
+ "genus": {
+  "ja-hrkt": "かせきポケモン",
+  "ko": "화석포켓몬",
+  "zh-hant": "化石寶可夢",
+  "fr": "Pokémon Fossile",
+  "de": "Fossil-Pokémon",
+  "es": "Pokémon Fósil",
+  "it": "Pokémon Fossile",
+  "en": "Fossil Pokémon",
+  "ja": "かせきポケモン",
+  "zh-hans": "化石宝可梦",
+  "es-419": "Pokémon Fósil"
+ },
+ "flavor": {
+  "ko": "특유의 다릿심으로 시속 60km 이상으로 달릴 수 있지만 물속에서만 호흡할 수 있다.",
+  "en": "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater."
+ },
+ "varieties": [
+  {
+   "name": "dracovish",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "463"
+}

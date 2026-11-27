@@ -1,0 +1,31 @@
+{
+ "name": "choice-band",
+ "names": {
+  "ja-hrkt": "こだわりハチマキ",
+  "ko": "구애머리띠",
+  "zh-hant": "講究頭帶",
+  "fr": "Bandeau Choix",
+  "de": "Wahlband",
+  "es": "Cinta Elección",
+  "it": "Bendascelta",
+  "en": "Choice Band",
+  "ja": "こだわりハチマキ",
+  "zh-hans": "讲究头带",
+  "es-419": "Cinta Elección"
+ },
+ "category": "choice",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Augmente l'Attaque de 50%, mais restreint le porteur à seulement une capacité.",
+  "en": "Held: Increases Attack by 50%, but restricts the holder to only one move."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This curious headband boosts Attack but only allows the use of one move.",
+  "ko": "기술을 구애받는 머리띠. 지니게 하면 공격은 올라가지만 똑같은 기술밖에 쓰지 못한다.",
+  "ja": "ちょっと こだわった ハチマキ。 持たせると 攻撃は あがるが 同じ 技しか だせなくなる。"
+ }
+}

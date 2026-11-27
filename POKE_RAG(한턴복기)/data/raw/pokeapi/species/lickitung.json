@@ -1,0 +1,42 @@
+{
+ "id": 108,
+ "name": "lickitung",
+ "names": {
+  "ja-hrkt": "ベロリンガ",
+  "ja-roma": "Beroringa",
+  "ko": "내루미",
+  "zh-hant": "大舌頭",
+  "fr": "Excelangue",
+  "de": "Schlurp",
+  "es": "Lickitung",
+  "it": "Lickitung",
+  "en": "Lickitung",
+  "ja": "ベロリンガ",
+  "zh-hans": "大舌头",
+  "es-419": "Lickitung"
+ },
+ "genus": {
+  "ja-hrkt": "なめまわしポケモン",
+  "ko": "핥기포켓몬",
+  "zh-hant": "舔舔寶可夢",
+  "fr": "Pokémon Lécheur",
+  "de": "Schlecker-Pokémon",
+  "es": "Pokémon Lametazo",
+  "it": "Pokémon Linguaccia",
+  "en": "Licking Pokémon",
+  "ja": "なめまわしポケモン",
+  "zh-hans": "舔舔宝可梦",
+  "es-419": "Pokémon Lametazo"
+ },
+ "flavor": {
+  "en": "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive.",
+  "ko": "벌레포켓몬이 주된 먹이다. 긴 혀로 상대를 핥아 마비시킨 후 통째로 삼킨다."
+ },
+ "varieties": [
+  {
+   "name": "lickitung",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "48"
+}

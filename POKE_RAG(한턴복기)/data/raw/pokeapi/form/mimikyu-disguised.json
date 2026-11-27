@@ -1,0 +1,23 @@
+{
+ "name": "mimikyu-disguised",
+ "form_name": "disguised",
+ "names": {
+  "fr": "Mimiqui Déguisé",
+  "de": "Mimigma (Getarnt)",
+  "en": "Disguised Mimikyu"
+ },
+ "form_names": {
+  "ja-hrkt": "ばけたすがた",
+  "ko": "둔갑한 모습",
+  "zh-hant": "化形的樣子",
+  "fr": "Forme Déguisée",
+  "de": "Verkleidete Form",
+  "es": "Forma Encubierta",
+  "it": "Forma Mascherata",
+  "en": "Disguised Form",
+  "ja": "ばけたすがた",
+  "zh-hans": "化形的样子",
+  "es-419": "Forma Encubierta"
+ },
+ "is_mega": false
+}

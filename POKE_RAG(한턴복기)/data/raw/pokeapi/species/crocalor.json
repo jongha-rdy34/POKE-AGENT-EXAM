@@ -1,0 +1,37 @@
+{
+ "id": 910,
+ "name": "crocalor",
+ "names": {
+  "ja-hrkt": "アチゲータ",
+  "ja-roma": "Achigator",
+  "ko": "악뜨거",
+  "zh-hant": "炙燙鱷",
+  "fr": "Crocogril",
+  "de": "Lokroko",
+  "es": "Crocalor",
+  "it": "Crocalor",
+  "en": "Crocalor",
+  "ja": "アチゲータ",
+  "zh-hans": "炙烫鳄",
+  "es-419": "Crocalor"
+ },
+ "genus": {
+  "ja-hrkt": "ほのおワニポケモン",
+  "ko": "불꽃악어포켓몬",
+  "zh-hant": "火鱷寶可夢",
+  "fr": "Croco Feu",
+  "de": "Feuerkroko",
+  "en": "Fire Croc Pokémon",
+  "zh-hans": "火鳄宝可梦"
+ },
+ "flavor": {
+  "en": "The valve in Crocalor’s flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way."
+ },
+ "varieties": [
+  {
+   "name": "crocalor",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "479"
+}

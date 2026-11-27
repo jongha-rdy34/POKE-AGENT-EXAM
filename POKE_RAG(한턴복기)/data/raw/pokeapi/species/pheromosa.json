@@ -1,0 +1,42 @@
+{
+ "id": 795,
+ "name": "pheromosa",
+ "names": {
+  "ja-hrkt": "フェローチェ",
+  "ja-roma": "Pheroache",
+  "ko": "페로코체",
+  "zh-hant": "費洛美螂",
+  "fr": "Cancrelove",
+  "de": "Schabelle",
+  "es": "Pheromosa",
+  "it": "Pheromosa",
+  "en": "Pheromosa",
+  "ja": "フェローチェ",
+  "zh-hans": "费洛美螂",
+  "es-419": "Pheromosa"
+ },
+ "genus": {
+  "ja-hrkt": "えんびポケモン",
+  "ko": "염미포켓몬",
+  "zh-hant": "美艷寶可夢",
+  "fr": "Pokémon Gracile",
+  "de": "Eleganz-Pokémon",
+  "es": "Pokémon Elegancia",
+  "it": "Pokémon Leggiadria",
+  "en": "Lissome Pokémon",
+  "ja": "えんびポケモン",
+  "zh-hans": "美艳宝可梦",
+  "es-419": "Pokémon Elegancia"
+ },
+ "flavor": {
+  "ko": "이 세계와는 성질이 다르고 위험하지만 원래 살던 세계에서는 흔히 볼 수 있는 생물인 듯하다.",
+  "en": "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives."
+ },
+ "varieties": [
+  {
+   "name": "pheromosa",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "416"
+}

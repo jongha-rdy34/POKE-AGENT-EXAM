@@ -1,0 +1,50 @@
+{
+ "id": 413,
+ "name": "wormadam",
+ "names": {
+  "ja-hrkt": "ミノマダム",
+  "ja-roma": "Minomadam",
+  "ko": "도롱마담",
+  "zh-hant": "結草貴婦",
+  "fr": "Cheniselle",
+  "de": "Burmadame",
+  "es": "Wormadam",
+  "it": "Wormadam",
+  "en": "Wormadam",
+  "ja": "ミノマダム",
+  "zh-hans": "结草贵妇",
+  "es-419": "Wormadam"
+ },
+ "genus": {
+  "ja-hrkt": "みのむしポケモン",
+  "ko": "도롱이벌레포켓몬",
+  "zh-hant": "蓑衣蟲寶可夢",
+  "fr": "Pokémon Ver Caché",
+  "de": "Beutelwurm",
+  "es": "Pokémon Larva",
+  "it": "Pokémon Larva",
+  "en": "Bagworm Pokémon",
+  "ja": "みのむしポケモン",
+  "zh-hans": "蓑衣虫宝可梦",
+  "es-419": "Pokémon Larva"
+ },
+ "flavor": {
+  "en": "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
+  "ko": "도롱충이로부터 진화할 때 도롱이가 몸의 일부가 되었다. 일생 도롱이를 벗는 일은 없다."
+ },
+ "varieties": [
+  {
+   "name": "wormadam-plant",
+   "is_default": true
+  },
+  {
+   "name": "wormadam-sandy",
+   "is_default": false
+  },
+  {
+   "name": "wormadam-trash",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "213"
+}

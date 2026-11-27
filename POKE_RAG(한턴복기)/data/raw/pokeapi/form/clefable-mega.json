@@ -1,0 +1,15 @@
+{
+ "name": "clefable-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Mélodelfe",
+  "en": "Mega Clefable"
+ },
+ "form_names": {
+  "ja-hrkt": "メガピクシー",
+  "fr": "Méga-Mélodelfe",
+  "en": "Mega Clefable",
+  "ja": "メガピクシー"
+ },
+ "is_mega": true
+}

@@ -1,0 +1,28 @@
+{
+ "name": "data-card-09",
+ "names": {
+  "ja-hrkt": "データカード０９",
+  "ko": "데이터카드09",
+  "zh-hant": "資料卡０９",
+  "fr": "Carte Mémo09",
+  "de": "Datenkarte09",
+  "es": "Tarjeta Datos 09",
+  "it": "Scheda Dati 09",
+  "en": "Data Card 09",
+  "ja": "データカード０９",
+  "zh-hans": "数据卡０９",
+  "es-419": "Tarjeta Datos 09"
+ },
+ "category": "data-cards",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Enregistre le nombre de fois que le dresseur a terminé premier de l'Attrap'Disques du Pokéathlon.",
+  "en": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch."
+ },
+ "flavor": {
+  "en": "It holds Pokéathlon records. It is a card that shows how many times you won the Pokéathlon’s Disc Catch.",
+  "ko": "포켓슬론의 기록이 들어 있다. 캐치소서 1위 횟수가 기록된 카드.",
+  "ja": "ポケスロンの 記録が はいっている。 キャッチソーサー １位 回数が 記録された カード。"
+ }
+}

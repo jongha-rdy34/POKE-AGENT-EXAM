@@ -1,0 +1,37 @@
+{
+ "id": 961,
+ "name": "wugtrio",
+ "names": {
+  "ja-hrkt": "ウミトリオ",
+  "ja-roma": "Umitrio",
+  "ko": "바닥트리오",
+  "zh-hant": "三海地鼠",
+  "fr": "Triopikeau",
+  "de": "Schligdri",
+  "es": "Wugtrio",
+  "it": "Wugtrio",
+  "en": "Wugtrio",
+  "ja": "ウミトリオ",
+  "zh-hans": "三海地鼠",
+  "es-419": "Wugtrio"
+ },
+ "genus": {
+  "ja-hrkt": "あなごポケモン",
+  "ko": "정원장어포켓몬",
+  "zh-hant": "糯鰻寶可夢",
+  "fr": "Congre",
+  "de": "Meeraal",
+  "en": "Garden Eel Pokémon",
+  "zh-hans": "糯鳗宝可梦"
+ },
+ "flavor": {
+  "en": "A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio."
+ },
+ "varieties": [
+  {
+   "name": "wugtrio",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "502"
+}

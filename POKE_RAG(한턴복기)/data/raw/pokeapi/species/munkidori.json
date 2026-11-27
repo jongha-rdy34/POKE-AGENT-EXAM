@@ -1,0 +1,33 @@
+{
+ "id": 1015,
+ "name": "munkidori",
+ "names": {
+  "ja-hrkt": "マシマシラ",
+  "ja-roma": "Mashimashira",
+  "ko": "이야후",
+  "zh-hant": "願增猿",
+  "fr": "Fortusimia",
+  "de": "Benesaru",
+  "es": "Munkidori",
+  "it": "Munkidori",
+  "en": "Munkidori",
+  "ja": "マシマシラ",
+  "zh-hans": "愿增猿",
+  "es-419": "Munkidori"
+ },
+ "genus": {
+  "ko": "수하포켓몬",
+  "fr": "Serviteur",
+  "en": "Retainer Pokémon"
+ },
+ "flavor": {
+  "en": "Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness."
+ },
+ "varieties": [
+  {
+   "name": "munkidori",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "541"
+}

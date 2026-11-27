@@ -1,0 +1,46 @@
+{
+ "id": 264,
+ "name": "linoone",
+ "names": {
+  "ja-hrkt": "マッスグマ",
+  "ja-roma": "Massuguma",
+  "ko": "직구리",
+  "zh-hant": "直衝熊",
+  "fr": "Linéon",
+  "de": "Geradaks",
+  "es": "Linoone",
+  "it": "Linoone",
+  "en": "Linoone",
+  "ja": "マッスグマ",
+  "zh-hans": "直冲熊",
+  "es-419": "Linoone"
+ },
+ "genus": {
+  "ja-hrkt": "とっしんポケモン",
+  "ko": "돌진포켓몬",
+  "zh-hant": "猛衝寶可夢",
+  "fr": "Pokémon Fonceur",
+  "de": "Sprinter-Pokémon",
+  "es": "Pokémon Lanzado",
+  "it": "Pokémon Sfrecciante",
+  "en": "Rushing Pokémon",
+  "ja": "とっしんポケモン",
+  "zh-hans": "猛冲宝可梦",
+  "es-419": "Pokémon Lanzado"
+ },
+ "flavor": {
+  "en": "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.",
+  "ko": "뛰어난 순발력과 예리한 발톱으로 먹이의 숨통을 끊는다. 굽은 길을 달리는 게 서툴다."
+ },
+ "varieties": [
+  {
+   "name": "linoone",
+   "is_default": true
+  },
+  {
+   "name": "linoone-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "134"
+}

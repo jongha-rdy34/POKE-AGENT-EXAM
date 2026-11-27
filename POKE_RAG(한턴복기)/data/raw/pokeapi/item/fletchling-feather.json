@@ -1,0 +1,20 @@
+{
+ "name": "fletchling-feather",
+ "names": {
+  "ja-hrkt": "ヤヤコマのはね",
+  "ko": "화살꼬빈의깃털",
+  "zh-hant": "小箭雀的羽毛",
+  "fr": "Plume de Passerouge",
+  "de": "Dartiri-Feder",
+  "es": "Pluma de Fletchling",
+  "it": "Penna di Fletchling",
+  "en": "Fletchling Feather",
+  "ja": "ヤヤコマのはね",
+  "zh-hans": "小箭雀的羽毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

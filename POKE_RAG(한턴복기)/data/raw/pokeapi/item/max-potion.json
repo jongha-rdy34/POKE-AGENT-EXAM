@@ -1,0 +1,34 @@
+{
+ "name": "max-potion",
+ "names": {
+  "ja-hrkt": "まんたんのくすり",
+  "ko": "풀회복약",
+  "zh-hant": "全滿藥",
+  "fr": "Potion Max",
+  "de": "Top-Trank",
+  "es": "Poción Máxima",
+  "it": "Pozione Max",
+  "en": "Max Potion",
+  "ja": "まんたんのくすり",
+  "zh-hans": "全满药",
+  "es-419": "Poción Máxima"
+ },
+ "category": "healing",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure les PV au maximum.",
+  "en": "Restores HP to full."
+ },
+ "flavor": {
+  "en": "A spray-type medicine for treating wounds. It can be used to completely restore the max HP of a single Pokémon.",
+  "ko": "스프레이식의 상처약. 포켓몬 1마리의 HP를 모두 회복한다.",
+  "ja": "スプレー式の キズぐすり。 ポケモン １匹の ＨＰを すべて 回復する。"
+ }
+}

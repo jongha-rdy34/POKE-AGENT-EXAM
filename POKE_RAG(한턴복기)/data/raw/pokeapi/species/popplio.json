@@ -1,0 +1,42 @@
+{
+ "id": 728,
+ "name": "popplio",
+ "names": {
+  "ja-hrkt": "アシマリ",
+  "ja-roma": "Ashimari",
+  "ko": "누리공",
+  "zh-hant": "球球海獅",
+  "fr": "Otaquin",
+  "de": "Robball",
+  "es": "Popplio",
+  "it": "Popplio",
+  "en": "Popplio",
+  "ja": "アシマリ",
+  "zh-hans": "球球海狮",
+  "es-419": "Popplio"
+ },
+ "genus": {
+  "ja-hrkt": "あしかポケモン",
+  "ko": "강치포켓몬",
+  "zh-hant": "海獅寶可夢",
+  "fr": "Pokémon Otarie",
+  "de": "Seehund-Pokémon",
+  "es": "Pokémon León Marino",
+  "it": "Pokémon Otaria",
+  "en": "Sea Lion Pokémon",
+  "ja": "あしかポケモン",
+  "zh-hans": "海狮宝可梦",
+  "es-419": "Pokémon León Marino"
+ },
+ "flavor": {
+  "ko": "매일 열심히 연습하면 결국에는 커다랗고 성능 좋은 벌룬을 만들 수 있게 된다.",
+  "en": "If Popplio want to create big, powerful balloons, they must be persistent. It takes daily practice for these Pokémon to develop their skills."
+ },
+ "varieties": [
+  {
+   "name": "popplio",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "376"
+}

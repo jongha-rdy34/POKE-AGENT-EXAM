@@ -1,0 +1,31 @@
+{
+ "name": "megahorn",
+ "names": {
+  "ja-hrkt": "メガホーン",
+  "ko": "메가혼",
+  "zh-hant": "超級角擊",
+  "fr": "Mégacorne",
+  "de": "Vielender",
+  "es": "Megacuerno",
+  "it": "Megacorno",
+  "en": "Megahorn",
+  "ja": "メガホーン",
+  "zh-hans": "超级角击",
+  "es-419": "Megacuerno"
+ },
+ "type": "bug",
+ "category": "physical",
+ "power": 120,
+ "accuracy": 85,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "Using its tough and impressive horn, the user rams into the target with no letup.",
+  "ko": "단단하고 훌륭한 뿔로 마음껏 상대를 꿰찔러서 공격한다."
+ }
+}

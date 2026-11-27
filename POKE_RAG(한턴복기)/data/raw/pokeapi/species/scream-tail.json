@@ -1,0 +1,37 @@
+{
+ "id": 985,
+ "name": "scream-tail",
+ "names": {
+  "ja-hrkt": "サケブシッポ",
+  "ja-roma": "Sakebushippo",
+  "ko": "우렁찬꼬리",
+  "zh-hant": "吼叫尾",
+  "fr": "Hurle-Queue",
+  "de": "Brüllschweif",
+  "es": "Colagrito",
+  "it": "Codaurlante",
+  "en": "Scream Tail",
+  "ja": "サケブシッポ",
+  "zh-hans": "吼叫尾",
+  "es-419": "Colagrito"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "It resembles a mysterious Pokémon described in a paranormal magazine as a Jigglypuff from one billion years ago."
+ },
+ "varieties": [
+  {
+   "name": "scream-tail",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "516"
+}

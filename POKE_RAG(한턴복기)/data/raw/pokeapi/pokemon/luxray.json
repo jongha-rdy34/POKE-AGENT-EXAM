@@ -1,0 +1,88 @@
+{
+ "id": 405,
+ "name": "luxray",
+ "species": "luxray",
+ "is_default": true,
+ "types": [
+  "electric"
+ ],
+ "stats": {
+  "hp": 80,
+  "attack": 120,
+  "defense": 79,
+  "special-attack": 95,
+  "special-defense": 79,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "rivalry",
+   "hidden": false
+  },
+  {
+   "name": "intimidate",
+   "hidden": false
+  },
+  {
+   "name": "guts",
+   "hidden": true
+  }
+ ],
+ "height": 14,
+ "weight": 420,
+ "champions_moves": [
+  "agility",
+  "baby-doll-eyes",
+  "bite",
+  "body-slam",
+  "charge",
+  "charge-beam",
+  "confuse-ray",
+  "crunch",
+  "discharge",
+  "double-edge",
+  "eerie-impulse",
+  "electric-terrain",
+  "electro-ball",
+  "electroweb",
+  "endure",
+  "facade",
+  "fake-tears",
+  "fire-fang",
+  "giga-impact",
+  "helping-hand",
+  "howl",
+  "hyper-beam",
+  "ice-fang",
+  "iron-tail",
+  "light-screen",
+  "night-slash",
+  "play-rough",
+  "protect",
+  "psychic-fangs",
+  "quick-attack",
+  "rain-dance",
+  "rest",
+  "rising-voltage",
+  "roar",
+  "round",
+  "scary-face",
+  "sleep-talk",
+  "snarl",
+  "snore",
+  "substitute",
+  "sunny-day",
+  "supercell-slam",
+  "superpower",
+  "swagger",
+  "thief",
+  "throat-chop",
+  "thunder",
+  "thunder-fang",
+  "thunder-wave",
+  "thunderbolt",
+  "trailblaze",
+  "volt-switch",
+  "wild-charge"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "name": "yellow-bell-pepper",
+ "names": {
+  "ja-hrkt": "きパプリカスライス",
+  "ko": "노란파프리카슬라이스",
+  "zh-hant": "黃椒片",
+  "fr": "Poivron Jaune",
+  "de": "Gelbe Paprika",
+  "es": "Pimiento Amarillo",
+  "it": "Peperone giallo",
+  "en": "Yellow Bell Pepper",
+  "ja": "きパプリカスライス",
+  "zh-hans": "黄椒片"
+ },
+ "category": "sandwich-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

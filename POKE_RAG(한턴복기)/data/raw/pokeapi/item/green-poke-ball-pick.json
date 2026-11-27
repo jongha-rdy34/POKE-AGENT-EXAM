@@ -1,0 +1,20 @@
+{
+ "name": "green-poke-ball-pick",
+ "names": {
+  "ja-hrkt": "みどりボールピック",
+  "ko": "초록 볼 픽",
+  "zh-hant": "綠珠珠三明治籤",
+  "fr": "Pique à Ball Verte",
+  "de": "Grünball-Pikser",
+  "es": "Palillo Ball Verde",
+  "it": "Stecchino Ball verde",
+  "en": "Green Poké Ball Pick",
+  "ja": "みどりボールピック",
+  "zh-hans": "绿珠珠三明治签"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,37 @@
+{
+ "id": 926,
+ "name": "fidough",
+ "names": {
+  "ja-hrkt": "パピモッチ",
+  "ja-roma": "Pupimocchi",
+  "ko": "쫀도기",
+  "zh-hant": "狗仔包",
+  "fr": "Pâtachiot",
+  "de": "Hefel",
+  "es": "Fidough",
+  "it": "Fidough",
+  "en": "Fidough",
+  "ja": "パピモッチ",
+  "zh-hans": "狗仔包",
+  "es-419": "Fidough"
+ },
+ "genus": {
+  "ja-hrkt": "こいぬポケモン",
+  "ko": "강아지포켓몬",
+  "zh-hant": "小狗寶可夢",
+  "fr": "Chiot",
+  "de": "Welpe",
+  "en": "Puppy Pokémon",
+  "zh-hans": "小狗宝可梦"
+ },
+ "flavor": {
+  "en": "The yeast in Fidough’s breath is useful for cooking, so this Pokémon has been protected by people since long ago."
+ },
+ "varieties": [
+  {
+   "name": "fidough",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "486"
+}

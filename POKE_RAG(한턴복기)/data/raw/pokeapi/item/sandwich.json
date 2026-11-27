@@ -1,0 +1,20 @@
+{
+ "name": "sandwich",
+ "names": {
+  "ja-hrkt": "サンドウィッチ",
+  "ko": "샌드위치",
+  "zh-hant": "三明治",
+  "fr": "Sandwich",
+  "de": "Sandwich",
+  "es": "Bocadillo",
+  "it": "Panino",
+  "en": "Sandwich",
+  "ja": "サンドウィッチ",
+  "zh-hans": "三明治"
+ },
+ "category": "event-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

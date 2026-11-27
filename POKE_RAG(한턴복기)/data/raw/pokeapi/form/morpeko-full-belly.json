@@ -1,0 +1,23 @@
+{
+ "name": "morpeko-full-belly",
+ "form_name": "full-belly",
+ "names": {
+  "fr": "Morpeko Rassasié",
+  "de": "Morpeko (Pappsattmuster)",
+  "en": "Full Belly Morpeko"
+ },
+ "form_names": {
+  "ja-hrkt": "まんぷくもよう",
+  "ko": "배부른 모양",
+  "zh-hant": "滿腹花紋",
+  "fr": "Mode Rassasié",
+  "de": "Pappsattmuster",
+  "es": "Forma Saciada",
+  "it": "Motivo Panciapiena",
+  "en": "Full Belly Mode",
+  "ja": "まんぷくもよう",
+  "zh-hans": "满腹花纹",
+  "es-419": "Forma Saciada"
+ },
+ "is_mega": false
+}

@@ -1,0 +1,34 @@
+{
+ "name": "iron",
+ "names": {
+  "ja-hrkt": "ブロムヘキシン",
+  "ko": "사포닌",
+  "zh-hant": "防禦增強劑",
+  "fr": "Fer",
+  "de": "Eisen",
+  "es": "Hierro",
+  "it": "Ferro",
+  "en": "Iron",
+  "ja": "ブロムヘキシン",
+  "zh-hans": "防御增强剂",
+  "es-419": "Hierro"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Augmente l'effort en Défense et le bonheur.",
+  "en": "Raises Defense effort and happiness."
+ },
+ "flavor": {
+  "en": "A nutritious drink for Pokémon. When consumed, it raises the Defense base points of a single Pokémon.",
+  "ko": "포켓몬의 영양 드링크. 포켓몬 1마리의 방어 기초 포인트를 올린다.",
+  "ja": "ポケモンの 栄養ドリンク。 ポケモン １匹の 防御の 基礎ポイントを あげる。"
+ }
+}

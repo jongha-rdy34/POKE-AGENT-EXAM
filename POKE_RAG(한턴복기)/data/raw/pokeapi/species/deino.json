@@ -1,0 +1,42 @@
+{
+ "id": 633,
+ "name": "deino",
+ "names": {
+  "ja-hrkt": "モノズ",
+  "ja-roma": "Monozu",
+  "ko": "모노두",
+  "zh-hant": "單首龍",
+  "fr": "Solochi",
+  "de": "Kapuno",
+  "es": "Deino",
+  "it": "Deino",
+  "en": "Deino",
+  "ja": "モノズ",
+  "zh-hans": "单首龙",
+  "es-419": "Deino"
+ },
+ "genus": {
+  "ja-hrkt": "そぼうポケモン",
+  "ko": "폭거포켓몬",
+  "zh-hant": "粗魯寶可夢",
+  "fr": "Pokémon Rude",
+  "de": "Haudrauf-Pokémon",
+  "es": "Pokémon Tosco",
+  "it": "Pokémon Impeto",
+  "en": "Irate Pokémon",
+  "ja": "そぼうポケモン",
+  "zh-hans": "粗鲁宝可梦",
+  "es-419": "Pokémon Tosco"
+ },
+ "flavor": {
+  "en": "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings.",
+  "ko": "눈이 보이지 않아 닥치는 대로 물면서 본인 주위의 상황을 파악한다."
+ },
+ "varieties": [
+  {
+   "name": "deino",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "323"
+}

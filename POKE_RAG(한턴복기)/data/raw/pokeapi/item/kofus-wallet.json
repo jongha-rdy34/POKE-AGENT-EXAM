@@ -1,0 +1,20 @@
+{
+ "name": "kofus-wallet",
+ "names": {
+  "ja-hrkt": "ハイダイのサイフ",
+  "ko": "곤포의 지갑",
+  "zh-hant": "海岱的錢包",
+  "fr": "Portefeuille de Kombu",
+  "de": "Kombus Geldbörse",
+  "es": "Cartera de Fuco",
+  "it": "Portafogli di Algaro",
+  "en": "Kofu’s Wallet",
+  "ja": "ハイダイのサイフ",
+  "zh-hans": "海岱的钱包"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

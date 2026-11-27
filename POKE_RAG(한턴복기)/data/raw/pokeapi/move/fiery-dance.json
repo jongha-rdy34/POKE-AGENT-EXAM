@@ -1,0 +1,31 @@
+{
+ "name": "fiery-dance",
+ "names": {
+  "ja-hrkt": "ほのおのまい",
+  "ko": "불꽃춤",
+  "zh-hant": "火之舞",
+  "fr": "Danse du Feu",
+  "de": "Feuerreigen",
+  "es": "Danza Llama",
+  "it": "Voldifuoco",
+  "en": "Fiery Dance",
+  "ja": "ほのおのまい",
+  "zh-hans": "火之舞",
+  "es-419": "Danza de Llamas"
+ },
+ "type": "fire",
+ "category": "special",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to raise the user’s Special Attack by one stage."
+ },
+ "effect_chance": 50,
+ "flavor": {
+  "en": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also boost the user's Sp. Atk stat.",
+  "ko": "불꽃을 두른 날개를 쳐서 공격한다. 자신의 특수공격이 오를 때가 있다."
+ }
+}

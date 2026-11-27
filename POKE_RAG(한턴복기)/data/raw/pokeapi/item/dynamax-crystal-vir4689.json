@@ -1,0 +1,25 @@
+{
+ "name": "dynamax-crystal-vir4689",
+ "names": {
+  "ja-hrkt": "★Vir4689",
+  "ko": "★Vir4689",
+  "zh-hant": "★Vir4689",
+  "fr": "★Vir4689",
+  "de": "★Vir4689",
+  "es": "★Vir4689",
+  "it": "★Vir4689",
+  "en": "★Vir4689",
+  "ja": "★Vir4689",
+  "zh-hans": "★Vir4689",
+  "es-419": "★Vir4689"
+ },
+ "category": "dynamax-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "사용한 당일에만 와일드에리어에 있는 감시탑의 다이맥스굴에서 [VAR (0000)][VAR (0003)] 나타난다.",
+  "en": "An item that causes [VAR (0000)] to appear from the Watchtower Lair in the Wild Area until the end of the day.",
+  "ja": "使った 日に ワイルドエリアの 見張り塔のダイ巣穴 から [VAR (0000)]が 現れる。"
+ }
+}

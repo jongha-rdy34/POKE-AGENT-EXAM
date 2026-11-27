@@ -1,0 +1,35 @@
+{
+ "id": 122,
+ "name": "mr-mime",
+ "species": "mr-mime",
+ "is_default": true,
+ "types": [
+  "psychic",
+  "fairy"
+ ],
+ "stats": {
+  "hp": 40,
+  "attack": 45,
+  "defense": 65,
+  "special-attack": 100,
+  "special-defense": 120,
+  "speed": 90
+ },
+ "abilities": [
+  {
+   "name": "soundproof",
+   "hidden": false
+  },
+  {
+   "name": "filter",
+   "hidden": false
+  },
+  {
+   "name": "technician",
+   "hidden": true
+  }
+ ],
+ "height": 13,
+ "weight": 545,
+ "champions_moves": []
+}

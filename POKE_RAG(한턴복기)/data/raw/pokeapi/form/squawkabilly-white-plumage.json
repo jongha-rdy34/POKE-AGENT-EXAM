@@ -1,0 +1,15 @@
+{
+ "name": "squawkabilly-white-plumage",
+ "form_name": "white-plumage",
+ "names": {
+  "fr": "Tapatoès Plumage Blanc",
+  "en": "White Plumage Squawkabilly"
+ },
+ "form_names": {
+  "ja-hrkt": "ホワイトフェザー",
+  "fr": "Plumage Blanc",
+  "en": "White Plumage",
+  "ja": "ホワイトフェザー"
+ },
+ "is_mega": false
+}

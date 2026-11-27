@@ -1,0 +1,25 @@
+{
+ "name": "bobs-food-tin",
+ "names": {
+  "ja-hrkt": "ボブのかんづめ",
+  "ko": "밥의통조림",
+  "zh-hant": "飽伯罐頭",
+  "fr": "Conserve de Bob",
+  "de": "Pauls Feinkost",
+  "es": "Lata de Darren",
+  "it": "Lattina Gustavo",
+  "en": "Bob’s Food Tin",
+  "ja": "ボブのかんづめ",
+  "zh-hans": "饱伯罐头",
+  "es-419": "Lata de Darren"
+ },
+ "category": "curry-ingredients",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "캠프 요리에 사용되는 식재료 중 하나. 밥이 파는 통조림은 어째선지 가라르에서 인기다.",
+  "en": "One of the many ingredients that can be used for cooking at your camp. The tinned food that Bob sells is curiously popular in Galar.",
+  "ja": "キャンプの 料理に 使う 食材の 一種。ボブが 売り出した 缶詰が なぜか ガラルで 人気だ。"
+ }
+}

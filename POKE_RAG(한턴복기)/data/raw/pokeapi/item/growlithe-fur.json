@@ -1,0 +1,20 @@
+{
+ "name": "growlithe-fur",
+ "names": {
+  "ja-hrkt": "ガーディのけ",
+  "ko": "가디의털",
+  "zh-hant": "卡蒂狗的毛",
+  "fr": "Poils de Caninos",
+  "de": "Fukano-Haar",
+  "es": "Pelo de Growlithe",
+  "it": "Pelo di Growlithe",
+  "en": "Growlithe Fur",
+  "ja": "ガーディのけ",
+  "zh-hans": "卡蒂狗的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

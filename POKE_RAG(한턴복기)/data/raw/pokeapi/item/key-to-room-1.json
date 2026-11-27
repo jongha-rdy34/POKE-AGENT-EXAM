@@ -1,0 +1,28 @@
+{
+ "name": "key-to-room-1",
+ "names": {
+  "ja-hrkt": "１ごうしつのカギ",
+  "ko": "1호실열쇠",
+  "zh-hant": "１號客房的鑰匙",
+  "fr": "Clé Salle 1",
+  "de": "R1-Schlüssel",
+  "es": "Ll. Habitación 1",
+  "it": "Chiave stanza 1",
+  "en": "Key to Room 1",
+  "ja": "１ごうしつのカギ",
+  "zh-hans": "１号客房的钥匙",
+  "es-419": "Ll. Habitación 1"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Débloque la porte de la Salle 1 du Lavandia Sea.",
+  "en": "Unlocks the door to Room 1 in Sea Mauville."
+ },
+ "flavor": {
+  "ko": "씨보라의 방으로 들어가기 위한 열쇠.",
+  "en": "A key that opens a door inside Sea Mauville.",
+  "ja": "シーキンセツの 部屋に 入るための カギ。"
+ }
+}

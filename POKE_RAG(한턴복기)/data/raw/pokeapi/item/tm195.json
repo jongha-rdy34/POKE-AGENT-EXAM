@@ -1,0 +1,19 @@
+{
+ "name": "tm195",
+ "names": {
+  "ko": "기술머신195",
+  "zh-hant": "招式學習器１９５",
+  "fr": "CT195",
+  "de": "TM195",
+  "es": "MT195",
+  "it": "MT195",
+  "en": "TM195",
+  "ja": "わざマシン１９５",
+  "zh-hans": "招式学习器１９５"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

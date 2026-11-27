@@ -1,0 +1,46 @@
+{
+ "id": 36,
+ "name": "clefable",
+ "names": {
+  "ja-hrkt": "ピクシー",
+  "ja-roma": "Pixy",
+  "ko": "픽시",
+  "zh-hant": "皮可西",
+  "fr": "Mélodelfe",
+  "de": "Pixi",
+  "es": "Clefable",
+  "it": "Clefable",
+  "en": "Clefable",
+  "ja": "ピクシー",
+  "zh-hans": "皮可西",
+  "es-419": "Clefable"
+ },
+ "genus": {
+  "ja-hrkt": "ようせいポケモン",
+  "ko": "요정포켓몬",
+  "zh-hant": "妖精寶可夢",
+  "fr": "Pokémon Fée",
+  "de": "Feen-Pokémon",
+  "es": "Pokémon Hada",
+  "it": "Pokémon Fata",
+  "en": "Fairy Pokémon",
+  "ja": "ようせいポケモン",
+  "zh-hans": "妖精宝可梦",
+  "es-419": "Pokémon Hada"
+ },
+ "flavor": {
+  "en": "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away.",
+  "ko": "1km 앞에 떨어진 바늘 소리가 들릴 정도로 귀가 좋아 평소에는 조용한 곳에서 지낸다."
+ },
+ "varieties": [
+  {
+   "name": "clefable",
+   "is_default": true
+  },
+  {
+   "name": "clefable-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "14"
+}

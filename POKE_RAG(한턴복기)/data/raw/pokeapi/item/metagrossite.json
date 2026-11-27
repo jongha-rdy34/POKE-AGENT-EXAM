@@ -1,0 +1,28 @@
+{
+ "name": "metagrossite",
+ "names": {
+  "ja-hrkt": "メタグロスナイト",
+  "ko": "메타그로스나이트",
+  "zh-hant": "巨金怪進化石",
+  "fr": "Métalossite",
+  "de": "Metagrossnit",
+  "es": "Metagrossita",
+  "it": "Metagrossite",
+  "en": "Metagrossite",
+  "ja": "メタグロスナイト",
+  "zh-hans": "巨金怪进化石",
+  "es-419": "Metagrossita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Métalosse de Méga-Évoluer en Méga-Métalosse.",
+  "en": "Held: Allows Metagross to Mega Evolve into Mega Metagross."
+ },
+ "flavor": {
+  "ko": "메타그로스에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Metagross hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "メタグロスに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

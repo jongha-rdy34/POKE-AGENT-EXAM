@@ -1,0 +1,46 @@
+{
+ "id": 254,
+ "name": "sceptile",
+ "names": {
+  "ja-hrkt": "ジュカイン",
+  "ja-roma": "Jukain",
+  "ko": "나무킹",
+  "zh-hant": "蜥蜴王",
+  "fr": "Jungko",
+  "de": "Gewaldro",
+  "es": "Sceptile",
+  "it": "Sceptile",
+  "en": "Sceptile",
+  "ja": "ジュカイン",
+  "zh-hans": "蜥蜴王",
+  "es-419": "Sceptile"
+ },
+ "genus": {
+  "ja-hrkt": "みつりんポケモン",
+  "ko": "밀림포켓몬",
+  "zh-hant": "密林寶可夢",
+  "fr": "Pokémon Forêt",
+  "de": "Dschungel-Pokémon",
+  "es": "Pokémon Monte",
+  "it": "Pokémon Foresta",
+  "en": "Forest Pokémon",
+  "ja": "みつりんポケモン",
+  "zh-hans": "密林宝可梦",
+  "es-419": "Pokémon Monte"
+ },
+ "flavor": {
+  "en": "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
+  "ko": "등의 씨앗에는 나무를 건강하게 만드는 영양이 많이 채워져 있다고 전해진다. 숲의 나무를 소중히 키우고 있는 포켓몬이다."
+ },
+ "varieties": [
+  {
+   "name": "sceptile",
+   "is_default": true
+  },
+  {
+   "name": "sceptile-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "130"
+}

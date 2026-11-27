@@ -1,0 +1,28 @@
+{
+ "name": "flower-trick",
+ "names": {
+  "ja-hrkt": "トリックフラワー",
+  "ko": "트릭플라워",
+  "zh-hant": "千變萬花",
+  "fr": "Magie Florale",
+  "de": "Blumentrick",
+  "es": "Truco Floral",
+  "it": "Prestigiafiore",
+  "en": "Flower Trick",
+  "ja": "トリックフラワー",
+  "zh-hans": "千变万花",
+  "es-419": "Truco Floral"
+ },
+ "type": "grass",
+ "category": "physical",
+ "power": 70,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {},
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "name": "acupressure",
+ "names": {
+  "ja-hrkt": "つぼをつく",
+  "ko": "경혈찌르기",
+  "zh-hant": "點穴",
+  "fr": "Acupression",
+  "de": "Akupressur",
+  "es": "Acupresión",
+  "it": "Acupressione",
+  "en": "Acupressure",
+  "ja": "つぼをつく",
+  "zh-hans": "点穴",
+  "es-419": "Acupresión"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 30,
+ "priority": 0,
+ "target": "user-or-ally",
+ "effect": {
+  "en": "Raises one of a friendly Pokémon’s stats at random by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user applies pressure to stress points, sharply boosting one of its or its allies' stats.",
+  "ko": "경혈을 눌러 몸을 활성화시킨다. 능력 중 하나를 크게 올린다."
+ }
+}

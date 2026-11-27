@@ -1,0 +1,46 @@
+{
+ "id": 706,
+ "name": "goodra",
+ "names": {
+  "ja-hrkt": "ヌメルゴン",
+  "ja-roma": "Numelgon",
+  "ko": "미끄래곤",
+  "zh-hant": "黏美龍",
+  "fr": "Muplodocus",
+  "de": "Viscogon",
+  "es": "Goodra",
+  "it": "Goodra",
+  "en": "Goodra",
+  "ja": "ヌメルゴン",
+  "zh-hans": "黏美龙",
+  "es-419": "Goodra"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "ko": "긴 뿔을 기세 좋게 늘여서 공격한다. 위력은 헤비급 복서 펀치의 100배다.",
+  "en": "Able to freely control the hardness of its metallic shell. It loathes solitude and is extremely clingy—it will fume and run riot if those dearest to it ever leave its side."
+ },
+ "varieties": [
+  {
+   "name": "goodra",
+   "is_default": true
+  },
+  {
+   "name": "goodra-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "362"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "tiny-bamboo-shoot",
+ "names": {
+  "ja-hrkt": "ちいさなタケノコ",
+  "ko": "작은죽순",
+  "zh-hant": "小竹筍",
+  "fr": "Petit Bambou",
+  "de": "Minibambusspross",
+  "es": "Bambú Pequeño",
+  "it": "Minibambù",
+  "en": "Tiny Bamboo Shoot",
+  "ja": "ちいさなタケノコ",
+  "zh-hans": "小竹笋"
+ },
+ "category": "loot",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

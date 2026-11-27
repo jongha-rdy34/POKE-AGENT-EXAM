@@ -1,0 +1,31 @@
+{
+ "name": "super-fang",
+ "names": {
+  "ja-hrkt": "いかりのまえば",
+  "ko": "분노의앞니",
+  "zh-hant": "憤怒門牙",
+  "fr": "Croc Fatal",
+  "de": "Superzahn",
+  "es": "Superdiente",
+  "it": "Superzanna",
+  "en": "Super Fang",
+  "ja": "いかりのまえば",
+  "zh-hans": "愤怒门牙",
+  "es-419": "Supercolmillo"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": null,
+ "accuracy": 90,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts damage equal to half the target’s HP."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half.",
+  "ko": "날카로운 앞니로 강하게 물어서 공격한다. 상대의 HP는 절반이 된다."
+ }
+}

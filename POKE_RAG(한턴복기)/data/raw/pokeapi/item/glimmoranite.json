@@ -1,0 +1,20 @@
+{
+ "name": "glimmoranite",
+ "names": {
+  "ko": "킬라플로르나이트",
+  "zh-hant": "晶光花進化石",
+  "fr": "Floréclatite",
+  "de": "Lumifloranit",
+  "es": "Glimmoranita",
+  "it": "Glimmorite",
+  "en": "Glimmoranite",
+  "ja": "キラフロルナイト",
+  "zh-hans": "晶光花进化石",
+  "es-419": "Glimmoranita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

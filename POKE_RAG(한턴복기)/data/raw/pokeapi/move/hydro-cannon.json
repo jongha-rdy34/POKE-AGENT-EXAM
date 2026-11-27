@@ -1,0 +1,31 @@
+{
+ "name": "hydro-cannon",
+ "names": {
+  "ja-hrkt": "ハイドロカノン",
+  "ko": "하이드로캐논",
+  "zh-hant": "加農水炮",
+  "fr": "Hydroblast",
+  "de": "Aquahaubitze",
+  "es": "Hidrocañón",
+  "it": "Idrocannone",
+  "en": "Hydro Cannon",
+  "ja": "ハイドロカノン",
+  "zh-hans": "加农水炮",
+  "es-419": "Hidrocañón"
+ },
+ "type": "water",
+ "category": "special",
+ "power": 150,
+ "accuracy": 90,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "User foregoes its next turn to recharge."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The target is hit with a watery blast. The user can't move on the next turn.",
+  "ko": "물의 대포를 상대에게 발사해서 공격한다. 다음 턴은 움직일 수 없다."
+ }
+}

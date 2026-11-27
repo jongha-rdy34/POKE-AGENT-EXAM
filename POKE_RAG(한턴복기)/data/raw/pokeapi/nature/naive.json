@@ -1,0 +1,18 @@
+{
+ "name": "naive",
+ "names": {
+  "ja-hrkt": "むじゃき",
+  "ko": "천진난만",
+  "zh-hant": "天真",
+  "fr": "Naïf",
+  "de": "Naiv",
+  "es": "Ingenua",
+  "it": "Ingenua",
+  "en": "Naive",
+  "ja": "むじゃき",
+  "zh-hans": "天真",
+  "es-419": "Ingenua"
+ },
+ "plus": "speed",
+ "minus": "special-defense"
+}

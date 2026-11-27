@@ -1,0 +1,31 @@
+{
+ "name": "psych-up",
+ "names": {
+  "ja-hrkt": "じこあんじ",
+  "ko": "자기암시",
+  "zh-hant": "自我暗示",
+  "fr": "Boost",
+  "de": "Psycho-Plus",
+  "es": "Autosugestión",
+  "it": "Psicamisù",
+  "en": "Psych Up",
+  "ja": "じこあんじ",
+  "zh-hans": "自我暗示",
+  "es-419": "Autosugestión"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Discards the user’s stat changes and copies the target’s."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user hypnotizes itself into copying any stat change made by the target.",
+  "ko": "자신에게 암시를 걸어서 능력 변화 상태를 상대와 똑같은 상태로 만든다."
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "name": "crabrawler-shell",
+ "names": {
+  "ja-hrkt": "マケンカニのから",
+  "ko": "오기지게의껍데기",
+  "zh-hant": "好勝蟹的殼",
+  "fr": "Carapace de Crabagarre",
+  "de": "Krabbox-Schale",
+  "es": "Cáscara de Crabrawler",
+  "it": "Carapace di Crabrawler",
+  "en": "Crabrawler Shell",
+  "ja": "マケンカニのから",
+  "zh-hans": "好胜蟹的壳"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

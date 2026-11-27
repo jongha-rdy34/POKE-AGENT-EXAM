@@ -1,0 +1,42 @@
+{
+ "id": 811,
+ "name": "thwackey",
+ "names": {
+  "ja-hrkt": "バチンキー",
+  "ja-roma": "Bachinkey",
+  "ko": "채키몽",
+  "zh-hant": "啪咚猴",
+  "fr": "Badabouin",
+  "de": "Chimstix",
+  "es": "Thwackey",
+  "it": "Thwackey",
+  "en": "Thwackey",
+  "ja": "バチンキー",
+  "zh-hans": "啪咚猴",
+  "es-419": "Thwackey"
+ },
+ "genus": {
+  "ja-hrkt": "ビートポケモン",
+  "ko": "비트포켓몬",
+  "zh-hant": "節拍寶可夢",
+  "fr": "Pokémon Percussions",
+  "de": "Beat-Pokémon",
+  "es": "Pokémon Ritmo",
+  "it": "Pokémon Ritmo",
+  "en": "Beat Pokémon",
+  "ja": "ビートポケモン",
+  "zh-hans": "节拍宝可梦",
+  "es-419": "Pokémon Ritmo"
+ },
+ "flavor": {
+  "ko": "격렬한 비트를 내는데 열중한 나머지 싸움에서 상대가 기절해도 모른다.",
+  "en": "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent."
+ },
+ "varieties": [
+  {
+   "name": "thwackey",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "430"
+}

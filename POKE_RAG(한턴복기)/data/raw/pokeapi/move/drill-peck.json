@@ -1,0 +1,31 @@
+{
+ "name": "drill-peck",
+ "names": {
+  "ja-hrkt": "ドリルくちばし",
+  "ko": "회전부리",
+  "zh-hant": "啄鑽",
+  "fr": "Bec Vrille",
+  "de": "Bohrschnabel",
+  "es": "Pico Taladro",
+  "it": "Perforbecco",
+  "en": "Drill Peck",
+  "ja": "ドリルくちばし",
+  "zh-hans": "啄钻",
+  "es-419": "Pico Taladro"
+ },
+ "type": "flying",
+ "category": "physical",
+ "power": 80,
+ "accuracy": 100,
+ "pp": 20,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts regular damage with no additional effect."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A corkscrewing attack that strikes the target with a sharp beak acting as a drill.",
+  "ko": "회전하면서 뾰족한 부리를 상대에게 꿰찔러 공격한다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "name": "professors-mask",
+ "names": {
+  "ja-hrkt": "はかせのふくめん",
+  "ko": "박사의복면",
+  "zh-hant": "博士的面罩",
+  "fr": "Masque du Prof",
+  "de": "Maske des Profs",
+  "es": "Máscara Profesor",
+  "it": "Maschera Prof.",
+  "en": "Professor’s Mask",
+  "ja": "はかせのふくめん",
+  "zh-hans": "博士的面罩",
+  "es-419": "Máscara Profesor"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Perdu par le Professeur Euphorbe.",
+  "en": "Lost by Professor Kukui."
+ },
+ "flavor": {
+  "ko": "로열마스크의 복면. 프로레슬러 스스로 재봉틀로 누빈 듯하다.",
+  "en": "The mask that belongs to The Masked Royal. This pro wrestler apparently sews his mask on a machine himself.",
+  "ja": "ロイヤルマスクの 覆面。 プロレスラー 自ら ミシンで 縫っているらしい。"
+ }
+}

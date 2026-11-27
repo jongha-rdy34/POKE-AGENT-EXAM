@@ -1,0 +1,28 @@
+{
+ "name": "swampertite",
+ "names": {
+  "ja-hrkt": "ラグラージナイト",
+  "ko": "대짱이나이트",
+  "zh-hant": "巨沼怪進化石",
+  "fr": "Laggronite",
+  "de": "Sumpexnit",
+  "es": "Swampertita",
+  "it": "Swampertite",
+  "en": "Swampertite",
+  "ja": "ラグラージナイト",
+  "zh-hans": "巨沼怪进化石",
+  "es-419": "Swampertita"
+ },
+ "category": "mega-stones",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à Laggron de Méga-Évoluer en Méga-Laggron.",
+  "en": "Held: Allows Swampert to Mega Evolve into Mega Swampert."
+ },
+ "flavor": {
+  "ko": "대짱이에게 지니게 하면 배틀할 때 메가진화할 수 있는 신비한 메가스톤의 일종.",
+  "en": "One of a variety of mysterious Mega Stones. Have Swampert hold it, and this stone will enable it to Mega Evolve during battle.",
+  "ja": "ラグラージに 持たせておくと 戦いのとき メガシンカが できる 不思議な メガストーンの 一種。"
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "id": 302,
+ "name": "sableye",
+ "names": {
+  "ja-hrkt": "ヤミラミ",
+  "ja-roma": "Yamirami",
+  "ko": "깜까미",
+  "zh-hant": "勾魂眼",
+  "fr": "Ténéfix",
+  "de": "Zobiris",
+  "es": "Sableye",
+  "it": "Sableye",
+  "en": "Sableye",
+  "ja": "ヤミラミ",
+  "zh-hans": "勾魂眼",
+  "es-419": "Sableye"
+ },
+ "genus": {
+  "ja-hrkt": "くらやみポケモン",
+  "ko": "어둠포켓몬",
+  "zh-hant": "黑暗寶可夢",
+  "fr": "Pokémon Obscurité",
+  "de": "Finsternis-Pokémon",
+  "es": "Pokémon Oscuridad",
+  "it": "Pokémon Oscurità",
+  "en": "Darkness Pokémon",
+  "ja": "くらやみポケモン",
+  "zh-hans": "黑暗宝可梦",
+  "es-419": "Pokémon Oscuridad"
+ },
+ "flavor": {
+  "en": "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels.",
+  "ko": "보석의 결정을 먹는다. 어둠 속에서는 두 눈이 보석의 빛을 낸다."
+ },
+ "varieties": [
+  {
+   "name": "sableye",
+   "is_default": true
+  },
+  {
+   "name": "sableye-mega",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "149"
+}

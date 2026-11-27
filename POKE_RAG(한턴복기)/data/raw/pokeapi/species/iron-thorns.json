@@ -1,0 +1,37 @@
+{
+ "id": 995,
+ "name": "iron-thorns",
+ "names": {
+  "ja-hrkt": "テツノイバラ",
+  "ja-roma": "Tetsunoibara",
+  "ko": "무쇠가시",
+  "zh-hant": "鐵荊棘",
+  "fr": "Épine-de-Fer",
+  "de": "Eisendorn",
+  "es": "Ferropúas",
+  "it": "Spineferree",
+  "en": "Iron Thorns",
+  "ja": "テツノイバラ",
+  "zh-hans": "铁荆棘",
+  "es-419": "Ferropúas"
+ },
+ "genus": {
+  "ja-hrkt": "パラドックスポケモン",
+  "ko": "패러독스포켓몬",
+  "zh-hant": "悖謬寶可夢",
+  "fr": "Paradoxe",
+  "de": "Paradox",
+  "en": "Paradox Pokémon",
+  "zh-hans": "悖谬宝可梦"
+ },
+ "flavor": {
+  "en": "Some of its notable features match those of an object named within a certain expedition journal as Iron Thorns."
+ },
+ "varieties": [
+  {
+   "name": "iron-thorns",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "526"
+}

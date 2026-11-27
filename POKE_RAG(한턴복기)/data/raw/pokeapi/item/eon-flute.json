@@ -1,0 +1,28 @@
+{
+ "name": "eon-flute",
+ "names": {
+  "ja-hrkt": "むげんのふえ",
+  "ko": "무한의피리",
+  "zh-hant": "無限之笛",
+  "fr": "Flûte Éon",
+  "de": "Äon-Flöte",
+  "es": "Flauta Eón",
+  "it": "Flauto Eone",
+  "en": "Eon Flute",
+  "ja": "むげんのふえ",
+  "zh-hans": "无限之笛",
+  "es-419": "Flauta Eón"
+ },
+ "category": "gameplay",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Invoque Latias ou Latios pour s'envoler sur son dos.",
+  "en": "Summons Latias or Latios for a ride."
+ },
+ "flavor": {
+  "ko": "어디에 있든지 라티오스나 라티아스를 부를 수 있는 피리.",
+  "en": "A flute that can be used to summon Latios or Latias no matter where you are.",
+  "ja": "どこに いても ラティオスや ラティアスを 呼び寄せることが できる 笛。"
+ }
+}

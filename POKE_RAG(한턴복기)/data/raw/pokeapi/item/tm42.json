@@ -1,0 +1,28 @@
+{
+ "name": "tm42",
+ "names": {
+  "ja-hrkt": "わざマシン４２",
+  "ko": "기술머신42",
+  "zh-hant": "招式學習器４２",
+  "fr": "CT42",
+  "de": "TM42",
+  "es": "MT42",
+  "it": "MT42",
+  "en": "TM42",
+  "ja": "わざマシン４２",
+  "zh-hans": "招式学习器４２",
+  "es-419": "MT42"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Façade à un Pokémon compatible. (Gén II & I: Dévorêve)",
+  "en": "Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)"
+ },
+ "flavor": {
+  "en": "This attack move’s power is doubled if the user has been hurt by the opponent in the same turn.",
+  "ko": "상대에게 기술을 받으면 그 상대에게 주는 데미지가 2배가 된다.",
+  "ja": "相手から 技を 受けていると その相手に 対して 与える ダメージが ２倍に なる。"
+ }
+}

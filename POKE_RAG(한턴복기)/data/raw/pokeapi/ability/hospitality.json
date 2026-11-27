@@ -1,0 +1,22 @@
+{
+ "name": "hospitality",
+ "names": {
+  "ja-hrkt": "おもてなし",
+  "ko": "대접",
+  "zh-hant": "款待",
+  "fr": "Aux Petits Soins",
+  "de": "Gastlichkeit",
+  "es": "Hospitalidad",
+  "it": "Ospitalità",
+  "en": "Hospitality",
+  "ja": "おもてなし",
+  "zh-hans": "款待",
+  "es-419": "Hospitalidad"
+ },
+ "effect": {
+  "en": "When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%."
+ },
+ "flavor": {
+  "en": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP"
+ }
+}

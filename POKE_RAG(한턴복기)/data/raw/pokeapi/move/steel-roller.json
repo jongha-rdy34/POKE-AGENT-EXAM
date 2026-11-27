@@ -1,0 +1,31 @@
+{
+ "name": "steel-roller",
+ "names": {
+  "ja-hrkt": "アイアンローラー",
+  "ko": "아이언롤러",
+  "zh-hant": "鐵滾輪",
+  "fr": "Métalliroue",
+  "de": "Eisenwalze",
+  "es": "Allanador Férreo",
+  "it": "Ferrorullo",
+  "en": "Steel Roller",
+  "ja": "アイアンローラー",
+  "zh-hans": "铁滚轮",
+  "es-419": "Ferroaplanadora"
+ },
+ "type": "steel",
+ "category": "physical",
+ "power": 130,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Ends the effect of Electric, Grassy, Misty, or Psychic Terrains. Fails if no Terrain is active. "
+ },
+ "effect_chance": 100,
+ "flavor": {
+  "ko": "필드를 파괴하면서 공격한다. 필드가 어떤 상태로든 변해 있지 않은 경우 기술은 실패한다.",
+  "en": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain."
+ }
+}

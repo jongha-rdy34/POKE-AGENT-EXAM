@@ -1,0 +1,20 @@
+{
+ "name": "tm131",
+ "names": {
+  "ja-hrkt": "わざマシン１３１",
+  "ko": "기술머신131",
+  "zh-hant": "招式學習器１３１",
+  "fr": "CT131",
+  "de": "TM131",
+  "es": "MT131",
+  "it": "MT131",
+  "en": "TM131",
+  "ja": "わざマシン１３１",
+  "zh-hans": "招式学习器１３１"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

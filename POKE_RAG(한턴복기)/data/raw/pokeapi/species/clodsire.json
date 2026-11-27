@@ -1,0 +1,37 @@
+{
+ "id": 980,
+ "name": "clodsire",
+ "names": {
+  "ja-hrkt": "ドオー",
+  "ja-roma": "Dooh",
+  "ko": "토오",
+  "zh-hant": "土王",
+  "fr": "Terraiste",
+  "de": "Suelord",
+  "es": "Clodsire",
+  "it": "Clodsire",
+  "en": "Clodsire",
+  "ja": "ドオー",
+  "zh-hans": "土王",
+  "es-419": "Clodsire"
+ },
+ "genus": {
+  "ja-hrkt": "とげうおポケモン",
+  "ko": "가시물고기포켓몬",
+  "zh-hant": "刺魚寶可夢",
+  "fr": "Poissépine",
+  "de": "Dornfisch",
+  "en": "Spiny Fish Pokémon",
+  "zh-hans": "刺鱼宝可梦"
+ },
+ "flavor": {
+  "en": "It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other."
+ },
+ "varieties": [
+  {
+   "name": "clodsire",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "96"
+}

@@ -1,0 +1,19 @@
+{
+ "name": "tm172",
+ "names": {
+  "ko": "기술머신172",
+  "zh-hant": "招式學習器１７２",
+  "fr": "CT172",
+  "de": "TM172",
+  "es": "MT172",
+  "it": "MT172",
+  "en": "TM172",
+  "ja": "わざマシン１７２",
+  "zh-hans": "招式学习器１７２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

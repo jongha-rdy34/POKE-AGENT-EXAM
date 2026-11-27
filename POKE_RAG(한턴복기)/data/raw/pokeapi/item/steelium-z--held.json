@@ -1,0 +1,28 @@
+{
+ "name": "steelium-z--held",
+ "names": {
+  "ja-hrkt": "ハガネＺ",
+  "ko": "강철Z",
+  "zh-hant": "鋼Ｚ",
+  "fr": "Métallozélite",
+  "de": "Metallium Z",
+  "es": "Metalostal Z",
+  "it": "Metallium Z",
+  "en": "Steelium Z",
+  "ja": "ハガネＺ",
+  "zh-hans": "钢Ｚ",
+  "es-419": "Metalostal Z"
+ },
+ "category": "z-crystals",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Tenu: Permet à un Pokémon d'utiliser les Capacités Z équivalentes à ses capacités Acier.",
+  "en": "Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves."
+ },
+ "flavor": {
+  "ko": "Z파워의 결정. 강철타입 기술을 Z기술로 업그레이드한다.",
+  "en": "This is a crystallized form of Z-Power. It upgrades Steel-type moves to Z-Moves.",
+  "ja": "Ｚパワーの 結晶。 はがねタイプの 技を Ｚワザに グレードアップする。"
+ }
+}

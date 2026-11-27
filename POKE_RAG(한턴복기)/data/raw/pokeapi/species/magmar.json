@@ -1,0 +1,42 @@
+{
+ "id": 126,
+ "name": "magmar",
+ "names": {
+  "ja-hrkt": "ブーバー",
+  "ja-roma": "Boober",
+  "ko": "마그마",
+  "zh-hant": "鴨嘴火獸",
+  "fr": "Magmar",
+  "de": "Magmar",
+  "es": "Magmar",
+  "it": "Magmar",
+  "en": "Magmar",
+  "ja": "ブーバー",
+  "zh-hans": "鸭嘴火兽",
+  "es-419": "Magmar"
+ },
+ "genus": {
+  "ja-hrkt": "ひふきポケモン",
+  "ko": "불뿜기포켓몬",
+  "zh-hant": "吐火寶可夢",
+  "fr": "Pokémon Crache-Feu",
+  "de": "Brenner-Pokémon",
+  "es": "Pokémon Escupefuego",
+  "it": "Pokémon Sputafuoco",
+  "en": "Spitfire Pokémon",
+  "ja": "ひふきポケモン",
+  "zh-hans": "吐火宝可梦",
+  "es-419": "Pokémon Escupefuego"
+ },
+ "flavor": {
+  "en": "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring.",
+  "ko": "온몸이 늘 불타고 있다. 화재를 일으키는 원인 중 하나로 두려움의 대상이 되고 있다."
+ },
+ "varieties": [
+  {
+   "name": "magmar",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "61"
+}

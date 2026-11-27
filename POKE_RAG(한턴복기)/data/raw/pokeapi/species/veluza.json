@@ -1,0 +1,37 @@
+{
+ "id": 976,
+ "name": "veluza",
+ "names": {
+  "ja-hrkt": "ミガルーサ",
+  "ja-roma": "Migalusa",
+  "ko": "가비루사",
+  "zh-hant": "輕身鱈",
+  "fr": "Délestin",
+  "de": "Agiluza",
+  "es": "Veluza",
+  "it": "Veluza",
+  "en": "Veluza",
+  "ja": "ミガルーサ",
+  "zh-hans": "轻身鳕",
+  "es-419": "Veluza"
+ },
+ "genus": {
+  "ja-hrkt": "きりはなしポケモン",
+  "ko": "분리포켓몬",
+  "zh-hant": "卸除寶可夢",
+  "fr": "Décharné",
+  "de": "Abtrennung",
+  "en": "Jettison Pokémon",
+  "zh-hans": "卸除宝可梦"
+ },
+ "flavor": {
+  "en": "Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey."
+ },
+ "varieties": [
+  {
+   "name": "veluza",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "512"
+}

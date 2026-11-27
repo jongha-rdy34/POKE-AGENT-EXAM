@@ -1,0 +1,33 @@
+{
+ "name": "master-ball",
+ "names": {
+  "ja-hrkt": "マスターボール",
+  "ko": "마스터볼",
+  "zh-hant": "大師球",
+  "fr": "Master Ball",
+  "de": "Meisterball",
+  "es": "Master Ball",
+  "it": "Master Ball",
+  "en": "Master Ball",
+  "ja": "マスターボール",
+  "zh-hans": "大师球",
+  "es-419": "Masterbola"
+ },
+ "category": "standard-balls",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Capture un Pokémon sauvage à chaque fois.",
+  "en": "Catches a wild Pokémon every time."
+ },
+ "flavor": {
+  "en": "The best Poké Ball with the ultimate level of performance. With it, you will catch any wild Pokémon without fail.",
+  "ko": "야생 포켓몬을 반드시 잡을 수 있는 최고 성능의 볼.",
+  "ja": "野生の ポケモンを 必ず 捕まえることが できる 最高 性能の ボール。"
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "name": "greninja-mega",
+ "form_name": "mega",
+ "names": {
+  "fr": "Méga-Amphinobi",
+  "en": "Mega Greninja"
+ },
+ "form_names": {
+  "ja-hrkt": "メガゲッコウガ",
+  "fr": "Méga-Amphinobi",
+  "en": "Mega Greninja",
+  "ja": "メガゲッコウガ"
+ },
+ "is_mega": true
+}

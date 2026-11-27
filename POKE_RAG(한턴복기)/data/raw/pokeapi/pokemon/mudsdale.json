@@ -1,0 +1,80 @@
+{
+ "id": 750,
+ "name": "mudsdale",
+ "species": "mudsdale",
+ "is_default": true,
+ "types": [
+  "ground"
+ ],
+ "stats": {
+  "hp": 100,
+  "attack": 125,
+  "defense": 100,
+  "special-attack": 55,
+  "special-defense": 85,
+  "speed": 35
+ },
+ "abilities": [
+  {
+   "name": "own-tempo",
+   "hidden": false
+  },
+  {
+   "name": "stamina",
+   "hidden": false
+  },
+  {
+   "name": "inner-focus",
+   "hidden": true
+  }
+ ],
+ "height": 25,
+ "weight": 9200,
+ "champions_moves": [
+  "body-press",
+  "body-slam",
+  "bulldoze",
+  "close-combat",
+  "counter",
+  "curse",
+  "double-edge",
+  "earth-power",
+  "earthquake",
+  "endeavor",
+  "endure",
+  "facade",
+  "fissure",
+  "focus-blast",
+  "giga-impact",
+  "heavy-slam",
+  "high-horsepower",
+  "hyper-beam",
+  "iron-defense",
+  "iron-head",
+  "lash-out",
+  "low-kick",
+  "low-sweep",
+  "mega-kick",
+  "mud-shot",
+  "mud-slap",
+  "payback",
+  "protect",
+  "rest",
+  "roar",
+  "rock-slide",
+  "rock-tomb",
+  "round",
+  "sand-tomb",
+  "sandstorm",
+  "scary-face",
+  "sleep-talk",
+  "smack-down",
+  "snore",
+  "stealth-rock",
+  "stomping-tantrum",
+  "stone-edge",
+  "substitute",
+  "sunny-day",
+  "superpower"
+ ]
+}

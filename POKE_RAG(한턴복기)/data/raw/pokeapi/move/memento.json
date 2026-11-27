@@ -1,0 +1,31 @@
+{
+ "name": "memento",
+ "names": {
+  "ja-hrkt": "おきみやげ",
+  "ko": "추억의선물",
+  "zh-hant": "臨別禮物",
+  "fr": "Souvenir",
+  "de": "Memento-Mori",
+  "es": "Legado",
+  "it": "Memento",
+  "en": "Memento",
+  "ja": "おきみやげ",
+  "zh-hans": "临别礼物",
+  "es-419": "Recuerdo"
+ },
+ "type": "dark",
+ "category": "status",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Attack and Special Attack by two stages.  User faints."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user faints. In return, the target's Attack and Sp. Atk stats are harshly lowered.",
+  "ko": "자신은 기절하게 되지만 그 대신 상대의 공격과 특수공격을 크게 떨어뜨린다."
+ }
+}

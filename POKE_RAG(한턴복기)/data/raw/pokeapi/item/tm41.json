@@ -1,0 +1,28 @@
+{
+ "name": "tm41",
+ "names": {
+  "ja-hrkt": "わざマシン４１",
+  "ko": "기술머신41",
+  "zh-hant": "招式學習器４１",
+  "fr": "CT41",
+  "de": "TM41",
+  "es": "MT41",
+  "it": "MT41",
+  "en": "TM41",
+  "ja": "わざマシン４１",
+  "zh-hans": "招式学习器４１",
+  "es-419": "MT41"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Tourmente à un Pokémon compatible. (Gén II: Poing Éclair Gén I: E-Coque)",
+  "en": "Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)"
+ },
+ "flavor": {
+  "en": "The user assists an ally by boosting the power of that ally’s attack.",
+  "ko": "동료를 돕는다. 도움받은 포켓몬이 쓰는 기술의 위력은 여느 때보다 커진다.",
+  "ja": "仲間を 助ける。 てだすけ された ポケモンの 技の 威力は いつもより 大きくなる。"
+ }
+}

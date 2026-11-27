@@ -1,0 +1,15 @@
+{
+ "name": "basculegion-male",
+ "form_name": "male",
+ "names": {
+  "fr": "Paragruel Mâle",
+  "en": "Male Basculegion"
+ },
+ "form_names": {
+  "ja-hrkt": "オスのすがた",
+  "fr": "Mâle",
+  "en": "Male",
+  "ja": "オスのすがた"
+ },
+ "is_mega": false
+}

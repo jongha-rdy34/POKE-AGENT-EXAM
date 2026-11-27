@@ -1,0 +1,31 @@
+{
+ "name": "black-belt",
+ "names": {
+  "ja-hrkt": "くろおび",
+  "ko": "검은띠",
+  "zh-hant": "黑帶",
+  "fr": "Ceinture Noire",
+  "de": "Schwarzgurt",
+  "es": "Cinturón Negro",
+  "it": "Cinturanera",
+  "en": "Black Belt",
+  "ja": "くろおび",
+  "zh-hans": "黑带",
+  "es-419": "Cinturón Negro"
+ },
+ "category": "type-enhancement",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Combat du porteur infligent 20% de dégâts supplémentaires.",
+  "en": "Held: Fighting-Type moves from holder do 20% more damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. This belt helps the wearer to focus and boosts the power of Fighting-type moves.",
+  "ko": "마음을 긴장시키는 띠. 지니게 하면 격투타입 기술의 위력이 올라간다.",
+  "ja": "気が ひきしまる 帯。 持たせると かくとうタイプの 技の 威力が あがる。"
+ }
+}

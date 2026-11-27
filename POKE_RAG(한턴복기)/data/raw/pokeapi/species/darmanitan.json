@@ -1,0 +1,54 @@
+{
+ "id": 555,
+ "name": "darmanitan",
+ "names": {
+  "ja-hrkt": "ヒヒダルマ",
+  "ja-roma": "Hihidaruma",
+  "ko": "불비달마",
+  "zh-hant": "達摩狒狒",
+  "fr": "Darumacho",
+  "de": "Flampivian",
+  "es": "Darmanitan",
+  "it": "Darmanitan",
+  "en": "Darmanitan",
+  "ja": "ヒヒダルマ",
+  "zh-hans": "达摩狒狒",
+  "es-419": "Darmanitan"
+ },
+ "genus": {
+  "ja-hrkt": "えんじょうポケモン",
+  "ko": "염상포켓몬",
+  "zh-hant": "爆燃寶可夢",
+  "fr": "Pokémon Enflammé",
+  "de": "Lichterloh-Pokémon",
+  "es": "Pokémon Candente",
+  "it": "Pokémon Altefiamme",
+  "en": "Blazing Pokémon",
+  "ja": "えんじょうポケモン",
+  "zh-hans": "爆燃宝可梦",
+  "es-419": "Pokémon Candente"
+ },
+ "flavor": {
+  "en": "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.",
+  "ko": "체내의 불꽃이 타오를수록 파워가 올라간다. 그 온도는 1400도를 넘기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "darmanitan-standard",
+   "is_default": true
+  },
+  {
+   "name": "darmanitan-zen",
+   "is_default": false
+  },
+  {
+   "name": "darmanitan-galar-standard",
+   "is_default": false
+  },
+  {
+   "name": "darmanitan-galar-zen",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "282"
+}

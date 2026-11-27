@@ -1,0 +1,20 @@
+{
+ "name": "scatterbug-powder",
+ "names": {
+  "ja-hrkt": "コフキムシのこな",
+  "ko": "분이벌레의가루",
+  "zh-hant": "粉蝶蟲的粉",
+  "fr": "Poudre de Lépidonille",
+  "de": "Purmel-Puder",
+  "es": "Polvo de Scatterbug",
+  "it": "Polvere di Scatterbug",
+  "en": "Scatterbug Powder",
+  "ja": "コフキムシのこな",
+  "zh-hans": "粉蝶虫的粉"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

@@ -1,0 +1,29 @@
+{
+ "name": "fire",
+ "names": {
+  "ja-hrkt": "ほのお",
+  "ko": "불꽃",
+  "zh-hant": "火",
+  "fr": "Feu",
+  "de": "Feuer",
+  "es": "Fuego",
+  "it": "Fuoco",
+  "en": "Fire",
+  "ja": "ほのお",
+  "zh-hans": "火",
+  "es-419": "Fuego"
+ },
+ "double_to": [
+  "bug",
+  "steel",
+  "grass",
+  "ice"
+ ],
+ "half_to": [
+  "rock",
+  "fire",
+  "water",
+  "dragon"
+ ],
+ "zero_to": []
+}

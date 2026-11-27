@@ -1,0 +1,42 @@
+{
+ "id": 446,
+ "name": "munchlax",
+ "names": {
+  "ja-hrkt": "ゴンベ",
+  "ja-roma": "Gonbe",
+  "ko": "먹고자",
+  "zh-hant": "小卡比獸",
+  "fr": "Goinfrex",
+  "de": "Mampfaxo",
+  "es": "Munchlax",
+  "it": "Munchlax",
+  "en": "Munchlax",
+  "ja": "ゴンベ",
+  "zh-hans": "小卡比兽",
+  "es-419": "Munchlax"
+ },
+ "genus": {
+  "ja-hrkt": "おおぐいポケモン",
+  "ko": "대식가포켓몬",
+  "zh-hant": "大胃王寶可夢",
+  "fr": "Pokémon Goinfre",
+  "de": "Nimmersatt-Pokémon",
+  "es": "Pokémon Comilón",
+  "it": "Pokémon Ghiottone",
+  "en": "Big Eater Pokémon",
+  "ja": "おおぐいポケモン",
+  "zh-hans": "大胃王宝可梦",
+  "es-419": "Pokémon Comilón"
+ },
+ "flavor": {
+  "en": "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost.",
+  "ko": "털 안에 먹이를 모은다. 신뢰하는 상대에게는 한 입 나눠주기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "munchlax",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "72"
+}

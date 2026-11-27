@@ -1,0 +1,28 @@
+{
+ "name": "moon-flute",
+ "names": {
+  "ja-hrkt": "つきのふえ",
+  "ko": "달의피리",
+  "zh-hant": "月亮之笛",
+  "fr": "Flûte de la Lune",
+  "de": "Mondflöte",
+  "es": "Flauta Lunar",
+  "it": "Flauto lunare",
+  "en": "Moon Flute",
+  "ja": "つきのふえ",
+  "zh-hans": "月亮之笛",
+  "es-419": "Flauta Lunar"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Fait évoluer Doudou en Lunala quand utilisé à l'Autel de la Lune.",
+  "en": "Evolves Nebby into Lunala when used at the Altar of the Moone."
+ },
+ "flavor": {
+  "ko": "달의 전설포켓몬에게 감사의 마음을 표현하기 위해 음색을 바쳤다고 한다.",
+  "en": "It is said that the tones it produces were offered up as an expression of gratitude to the Legendary Pokémon of the moon.",
+  "ja": "月の 伝説ポケモンに 感謝の 気持ちを 表すため 音色を 捧げていた という。"
+ }
+}

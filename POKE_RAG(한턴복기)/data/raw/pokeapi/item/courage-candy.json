@@ -1,0 +1,25 @@
+{
+ "name": "courage-candy",
+ "names": {
+  "ja-hrkt": "こころのアメ",
+  "ko": "마음의사탕",
+  "zh-hant": "心靈糖果",
+  "fr": "Bonbon Mental S",
+  "de": "Mentalbonbon",
+  "es": "Caramelo Mente",
+  "it": "Caramella intuito S",
+  "en": "Courage Candy",
+  "ja": "こころのアメ",
+  "zh-hans": "心灵糖果",
+  "es-419": "Caramelo Mente"
+ },
+ "category": "vitamins",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "에너지가 가득한 사탕. 포켓몬의 특수방어를 올린다.",
+  "en": "A candy that is packed with energy. When given to a Pokémon, it will increase that Pokémon’s Sp. Def stat.",
+  "ja": "エネルギーの つまった アメ。 ポケモンの とくぼうを 上げる。"
+ }
+}

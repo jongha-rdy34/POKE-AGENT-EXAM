@@ -1,0 +1,37 @@
+{
+ "id": 935,
+ "name": "charcadet",
+ "names": {
+  "ja-hrkt": "カルボウ",
+  "ja-roma": "Carbou",
+  "ko": "카르본",
+  "zh-hant": "炭小侍",
+  "fr": "Charbambin",
+  "de": "Knarbon",
+  "es": "Charcadet",
+  "it": "Charcadet",
+  "en": "Charcadet",
+  "ja": "カルボウ",
+  "zh-hans": "炭小侍",
+  "es-419": "Charcadet"
+ },
+ "genus": {
+  "ja-hrkt": "ひのこポケモン",
+  "ko": "불의아이포켓몬",
+  "zh-hant": "小火星寶可夢",
+  "fr": "Enfant Feu",
+  "de": "Feuerkind",
+  "en": "Fire Child Pokémon",
+  "zh-hans": "小火星宝可梦"
+ },
+ "flavor": {
+  "en": "Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat."
+ },
+ "varieties": [
+  {
+   "name": "charcadet",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "490"
+}

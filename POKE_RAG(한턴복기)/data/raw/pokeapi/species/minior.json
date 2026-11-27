@@ -1,0 +1,94 @@
+{
+ "id": 774,
+ "name": "minior",
+ "names": {
+  "ja-hrkt": "メテノ",
+  "ja-roma": "Meteno",
+  "ko": "메테노",
+  "zh-hant": "小隕星",
+  "fr": "Météno",
+  "de": "Meteno",
+  "es": "Minior",
+  "it": "Minior",
+  "en": "Minior",
+  "ja": "メテノ",
+  "zh-hans": "小陨星",
+  "es-419": "Minior"
+ },
+ "genus": {
+  "ja-hrkt": "ながれぼしポケモン",
+  "ko": "유성포켓몬",
+  "zh-hant": "流星寶可夢",
+  "fr": "Pokémon Météore",
+  "de": "Meteor",
+  "es": "Pokémon Meteoro",
+  "it": "Pokémon Meteora",
+  "en": "Meteor Pokémon",
+  "ja": "ながれぼしポケモン",
+  "zh-hans": "流星宝可梦",
+  "es-419": "Pokémon Meteoro"
+ },
+ "flavor": {
+  "ko": "겉껍질은 매우 튼튼하지만 지상에 낙하할 때의 충격으로 산산이 조각나 버린다.",
+  "en": "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens."
+ },
+ "varieties": [
+  {
+   "name": "minior-red-meteor",
+   "is_default": true
+  },
+  {
+   "name": "minior-orange-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-yellow-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-green-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-blue-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-indigo-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-violet-meteor",
+   "is_default": false
+  },
+  {
+   "name": "minior-red",
+   "is_default": false
+  },
+  {
+   "name": "minior-orange",
+   "is_default": false
+  },
+  {
+   "name": "minior-yellow",
+   "is_default": false
+  },
+  {
+   "name": "minior-green",
+   "is_default": false
+  },
+  {
+   "name": "minior-blue",
+   "is_default": false
+  },
+  {
+   "name": "minior-indigo",
+   "is_default": false
+  },
+  {
+   "name": "minior-violet",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "400"
+}

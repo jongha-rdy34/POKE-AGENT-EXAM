@@ -1,0 +1,31 @@
+{
+ "name": "final-gambit",
+ "names": {
+  "ja-hrkt": "いのちがけ",
+  "ko": "목숨걸기",
+  "zh-hant": "搏命",
+  "fr": "Tout ou Rien",
+  "de": "Wagemut",
+  "es": "Sacrificio",
+  "it": "Azzardo",
+  "en": "Final Gambit",
+  "ja": "いのちがけ",
+  "zh-hans": "搏命",
+  "es-419": "Sacrificio"
+ },
+ "type": "fighting",
+ "category": "special",
+ "power": null,
+ "accuracy": 100,
+ "pp": 5,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Inflicts damage equal to the user’s remaining HP.  User faints."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user risks everything to attack the target. The user faints but inflicts damage equal to its own HP.",
+  "ko": "목숨을 걸고 상대를 공격한다. 자신은 기절하게 되지만 상대에게 HP만큼의 데미지를 준다."
+ }
+}

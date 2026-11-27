@@ -1,0 +1,31 @@
+{
+ "name": "yawn",
+ "names": {
+  "ja-hrkt": "あくび",
+  "ko": "하품",
+  "zh-hant": "哈欠",
+  "fr": "Bâillement",
+  "de": "Gähner",
+  "es": "Bostezo",
+  "it": "Sbadiglio",
+  "en": "Yawn",
+  "ja": "あくび",
+  "zh-hans": "哈欠",
+  "es-419": "Bostezo"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Target sleeps at the end of the next turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.",
+  "ko": "큰 하품으로 졸음을 유도한다. 다음 턴에 상대를 잠듦 상태로 만든다."
+ }
+}

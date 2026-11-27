@@ -1,0 +1,42 @@
+{
+ "id": 395,
+ "name": "empoleon",
+ "names": {
+  "ja-hrkt": "エンペルト",
+  "ja-roma": "Emperte",
+  "ko": "엠페르트",
+  "zh-hant": "帝王拿波",
+  "fr": "Pingoléon",
+  "de": "Impoleon",
+  "es": "Empoleon",
+  "it": "Empoleon",
+  "en": "Empoleon",
+  "ja": "エンペルト",
+  "zh-hans": "帝王拿波",
+  "es-419": "Empoleon"
+ },
+ "genus": {
+  "ja-hrkt": "こうていポケモン",
+  "ko": "황제포켓몬",
+  "zh-hant": "皇帝寶可夢",
+  "fr": "Pokémon Empereur",
+  "de": "Kaiser",
+  "es": "Pokémon Emperador",
+  "it": "Pokémon Imperatore",
+  "en": "Emperor Pokémon",
+  "ja": "こうていポケモン",
+  "zh-hans": "皇帝宝可梦",
+  "es-419": "Pokémon Emperador"
+ },
+ "flavor": {
+  "en": "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades.",
+  "ko": "부리에서 늘어난 3개의 뿔은 강하다는 것을 증명한다. 리더의 뿔이 제일 크다."
+ },
+ "varieties": [
+  {
+   "name": "empoleon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "205"
+}

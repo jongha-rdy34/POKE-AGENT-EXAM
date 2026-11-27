@@ -1,0 +1,42 @@
+{
+ "id": 511,
+ "name": "pansage",
+ "names": {
+  "ja-hrkt": "ヤナップ",
+  "ja-roma": "Yanappu",
+  "ko": "야나프",
+  "zh-hant": "花椰猴",
+  "fr": "Feuillajou",
+  "de": "Vegimak",
+  "es": "Pansage",
+  "it": "Pansage",
+  "en": "Pansage",
+  "ja": "ヤナップ",
+  "zh-hans": "花椰猴",
+  "es-419": "Pansage"
+ },
+ "genus": {
+  "ja-hrkt": "くさざるポケモン",
+  "ko": "풀원숭이포켓몬",
+  "zh-hant": "草猴寶可夢",
+  "fr": "Pokémon Singe Herbe",
+  "de": "Grasaffe",
+  "es": "Pokémon Mono Hierba",
+  "it": "Pokémon Scimperba",
+  "en": "Grass Monkey Pokémon",
+  "ja": "くさざるポケモン",
+  "zh-hans": "草猴宝可梦",
+  "es-419": "Pokémon Mono Hierba"
+ },
+ "flavor": {
+  "en": "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
+  "ko": "나무열매를 잘 찾아 여기저기에서 모아 동료에게 나누어 주는 상냥함을 가졌다."
+ },
+ "varieties": [
+  {
+   "name": "pansage",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "262"
+}

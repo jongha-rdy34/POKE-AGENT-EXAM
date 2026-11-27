@@ -1,0 +1,28 @@
+{
+ "name": "tm55",
+ "names": {
+  "ja-hrkt": "わざマシン５５",
+  "ko": "기술머신55",
+  "zh-hant": "招式學習器５５",
+  "fr": "CT55",
+  "de": "TM55",
+  "es": "MT55",
+  "it": "MT55",
+  "en": "TM55",
+  "ja": "わざマシン５５",
+  "zh-hans": "招式学习器５５",
+  "es-419": "MT55"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Ébullition à un Pokémon compatible. (Gén IV: Saumure)",
+  "en": "Teaches Scald to a compatible Pokémon. (Gen IV: Brine)"
+ },
+ "flavor": {
+  "en": "If the target’s HP is half or less, this attack will hit with double the power.",
+  "ko": "상대가 HP의 절반 정도 상처를 입고 있으면 기술의 위력이 2배가 된다.",
+  "ja": "相手が ＨＰの 半分くらい きずを おっていると 技の 威力が ２倍に なる。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 509,
+ "name": "purrloin",
+ "names": {
+  "ja-hrkt": "チョロネコ",
+  "ja-roma": "Choroneko",
+  "ko": "쌔비냥",
+  "zh-hant": "扒手貓",
+  "fr": "Chacripan",
+  "de": "Felilou",
+  "es": "Purrloin",
+  "it": "Purrloin",
+  "en": "Purrloin",
+  "ja": "チョロネコ",
+  "zh-hans": "扒手猫",
+  "es-419": "Purrloin"
+ },
+ "genus": {
+  "ja-hrkt": "しょうわるポケモン",
+  "ko": "성악포켓몬",
+  "zh-hant": "壞心眼寶可夢",
+  "fr": "Pokémon Scélérat",
+  "de": "Schelm-Pokémon",
+  "es": "Pokémon Malicioso",
+  "it": "Pokémon Furbizia",
+  "en": "Devious Pokémon",
+  "ja": "しょうわるポケモン",
+  "zh-hans": "坏心眼宝可梦",
+  "es-419": "Pokémon Malicioso"
+ },
+ "flavor": {
+  "en": "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.",
+  "ko": "귀여운 동작으로 방심시키고 상대가 다가오면 갑자기 발톱으로 할퀴고는 웃는다."
+ },
+ "varieties": [
+  {
+   "name": "purrloin",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "261"
+}

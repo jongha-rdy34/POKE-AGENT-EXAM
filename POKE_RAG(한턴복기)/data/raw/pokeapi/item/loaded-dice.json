@@ -1,0 +1,20 @@
+{
+ "name": "loaded-dice",
+ "names": {
+  "ja-hrkt": "いかさまダイス",
+  "ko": "속임수주사위",
+  "zh-hant": "老千骰子",
+  "fr": "Dé Pipé",
+  "de": "Gezinkter Würfel",
+  "es": "Dado Trucado",
+  "it": "Dado truccato",
+  "en": "Loaded Dice",
+  "ja": "いかさまダイス",
+  "zh-hans": "机变骰子"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

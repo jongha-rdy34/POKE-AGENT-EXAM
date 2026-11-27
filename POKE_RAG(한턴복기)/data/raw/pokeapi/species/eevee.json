@@ -1,0 +1,50 @@
+{
+ "id": 133,
+ "name": "eevee",
+ "names": {
+  "ja-hrkt": "イーブイ",
+  "ja-roma": "Eievui",
+  "ko": "이브이",
+  "zh-hant": "伊布",
+  "fr": "Évoli",
+  "de": "Evoli",
+  "es": "Eevee",
+  "it": "Eevee",
+  "en": "Eevee",
+  "ja": "イーブイ",
+  "zh-hans": "伊布",
+  "es-419": "Eevee"
+ },
+ "genus": {
+  "ja-hrkt": "しんかポケモン",
+  "ko": "진화포켓몬",
+  "zh-hant": "進化寶可夢",
+  "fr": "Pokémon Évolutif",
+  "de": "Evolutions-Pokémon",
+  "es": "Pokémon Evolución",
+  "it": "Pokémon Evoluzione",
+  "en": "Evolution Pokémon",
+  "ja": "しんかポケモン",
+  "zh-hans": "进化宝可梦",
+  "es-419": "Pokémon Evolución"
+ },
+ "flavor": {
+  "en": "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pokémon evolution—I'm certain of it.",
+  "ko": "불안정한 유전자 덕분에 여러 가지 진화의 가능성을 가지고 있는 특수한 포켓몬."
+ },
+ "varieties": [
+  {
+   "name": "eevee",
+   "is_default": true
+  },
+  {
+   "name": "eevee-starter",
+   "is_default": false
+  },
+  {
+   "name": "eevee-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "67"
+}

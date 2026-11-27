@@ -1,0 +1,35 @@
+{
+ "id": 10216,
+ "name": "flapple-gmax",
+ "species": "flapple",
+ "is_default": false,
+ "types": [
+  "grass",
+  "dragon"
+ ],
+ "stats": {
+  "hp": 70,
+  "attack": 110,
+  "defense": 80,
+  "special-attack": 95,
+  "special-defense": 60,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "ripen",
+   "hidden": false
+  },
+  {
+   "name": "gluttony",
+   "hidden": false
+  },
+  {
+   "name": "hustle",
+   "hidden": true
+  }
+ ],
+ "height": 240,
+ "weight": 10000,
+ "champions_moves": []
+}

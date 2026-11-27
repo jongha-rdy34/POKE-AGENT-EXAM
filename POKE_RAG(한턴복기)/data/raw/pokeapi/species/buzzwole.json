@@ -1,0 +1,42 @@
+{
+ "id": 794,
+ "name": "buzzwole",
+ "names": {
+  "ja-hrkt": "マッシブーン",
+  "ja-roma": "Massivoon",
+  "ko": "매시붕",
+  "zh-hant": "爆肌蚊",
+  "fr": "Mouscoto",
+  "de": "Masskito",
+  "es": "Buzzwole",
+  "it": "Buzzwole",
+  "en": "Buzzwole",
+  "ja": "マッシブーン",
+  "zh-hans": "爆肌蚊",
+  "es-419": "Buzzwole"
+ },
+ "genus": {
+  "ja-hrkt": "ぼうちょうポケモン",
+  "ko": "팽창포켓몬",
+  "zh-hant": "膨脹寶可夢",
+  "fr": "Pokémon Enflé",
+  "de": "Ausdehnungs-Pokémon",
+  "es": "Pokémon Hinchado",
+  "it": "Pokémon Gonfiacorpo",
+  "en": "Swollen Pokémon",
+  "ja": "ぼうちょうポケモン",
+  "zh-hans": "膨胀宝可梦",
+  "es-419": "Pokémon Hinchado"
+ },
+ "flavor": {
+  "ko": "이상할 정도로 팽창하는 근육을 자랑한다. 울트라비스트의 일종.",
+  "en": "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast."
+ },
+ "varieties": [
+  {
+   "name": "buzzwole",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "415"
+}

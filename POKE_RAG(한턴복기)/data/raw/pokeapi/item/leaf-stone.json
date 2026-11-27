@@ -1,0 +1,30 @@
+{
+ "name": "leaf-stone",
+ "names": {
+  "ja-hrkt": "リーフのいし",
+  "ko": "리프의돌",
+  "zh-hant": "葉之石",
+  "fr": "Pierre Plante",
+  "de": "Blattstein",
+  "es": "Piedra Hoja",
+  "it": "Pietrafoglia",
+  "en": "Leaf Stone",
+  "ja": "リーフのいし",
+  "zh-hans": "叶之石",
+  "es-419": "Piedra Hoja"
+ },
+ "category": "evolution",
+ "cost": null,
+ "attributes": [
+  "underground"
+ ],
+ "effect": {
+  "fr": "Fait évoluer un Noeunoeuf en Noadkoko, un Ortide en Rafflesia, un Pifeuil en Tengalice, un Feuillajou en Feuiloutan, ou un Boustiflor en Empiflor.",
+  "en": "Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel."
+ },
+ "flavor": {
+  "en": "A peculiar stone that can make certain species of Pokémon evolve. It has an unmistakable leaf pattern.",
+  "ko": "어느 특정 포켓몬을 진화시키는 이상한 돌. 잎사귀 무늬가 있다.",
+  "ja": "ある 特定の ポケモンを 進化させる 不思議な 石。 はっぱの 模様が ある。"
+ }
+}

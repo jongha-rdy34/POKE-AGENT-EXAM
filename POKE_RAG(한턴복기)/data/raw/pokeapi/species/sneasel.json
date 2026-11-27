@@ -1,0 +1,46 @@
+{
+ "id": 215,
+ "name": "sneasel",
+ "names": {
+  "ja-hrkt": "ニューラ",
+  "ja-roma": "Nyula",
+  "ko": "포푸니",
+  "zh-hant": "狃拉",
+  "fr": "Farfuret",
+  "de": "Sniebel",
+  "es": "Sneasel",
+  "it": "Sneasel",
+  "en": "Sneasel",
+  "ja": "ニューラ",
+  "zh-hans": "狃拉",
+  "es-419": "Sneasel"
+ },
+ "genus": {
+  "ja-hrkt": "かぎづめポケモン",
+  "ko": "갈고리손톱포켓몬",
+  "zh-hant": "鉤爪寶可夢",
+  "fr": "Pokémon Grifacérée",
+  "de": "Stichklauen-Pokémon",
+  "es": "Pokémon Garra Filo",
+  "it": "Pokémon Lamartigli",
+  "en": "Sharp Claw Pokémon",
+  "ja": "かぎづめポケモン",
+  "zh-hans": "钩爪宝可梦",
+  "es-419": "Pokémon Garra Filo"
+ },
+ "flavor": {
+  "en": "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp.",
+  "ko": "교활하고 사나운 성질을 가졌다. 부모가 없는 틈에 둥지로 침입해서 알을 훔친다."
+ },
+ "varieties": [
+  {
+   "name": "sneasel",
+   "is_default": true
+  },
+  {
+   "name": "sneasel-hisui",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "109"
+}

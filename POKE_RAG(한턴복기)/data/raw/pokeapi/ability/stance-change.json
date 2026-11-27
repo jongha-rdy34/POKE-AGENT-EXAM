@@ -1,0 +1,23 @@
+{
+ "name": "stance-change",
+ "names": {
+  "ja-hrkt": "バトルスイッチ",
+  "ko": "배틀스위치",
+  "zh-hant": "戰鬥切換",
+  "fr": "Déclic Tactique",
+  "de": "Taktikwechsel",
+  "es": "Cambio Táctico",
+  "it": "Accendilotta",
+  "en": "Stance Change",
+  "ja": "バトルスイッチ",
+  "zh-hans": "战斗切换",
+  "es-419": "Cambio Táctico"
+ },
+ "effect": {
+  "en": "Changes Aegislash to Blade Forme before using a damaging move, or Shield Forme before using King’s Shield."
+ },
+ "flavor": {
+  "ko": "공격 기술을 쓰면 블레이드폼으로 기술 킹실드를 쓰면 실드폼으로 변한다.",
+  "en": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield."
+ }
+}

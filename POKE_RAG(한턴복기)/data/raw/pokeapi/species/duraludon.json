@@ -1,0 +1,46 @@
+{
+ "id": 884,
+ "name": "duraludon",
+ "names": {
+  "ja-hrkt": "ジュラルドン",
+  "ja-roma": "Duraludon",
+  "ko": "두랄루돈",
+  "zh-hant": "鋁鋼龍",
+  "fr": "Duralugon",
+  "de": "Duraludon",
+  "es": "Duraludon",
+  "it": "Duraludon",
+  "en": "Duraludon",
+  "ja": "ジュラルドン",
+  "zh-hans": "铝钢龙",
+  "es-419": "Duraludon"
+ },
+ "genus": {
+  "ja-hrkt": "ごうきんポケモン",
+  "ko": "합금포켓몬",
+  "zh-hant": "合金寶可夢",
+  "fr": "Pokémon Alliage",
+  "de": "Legierungs-Pokémon",
+  "es": "Pokémon Aleación",
+  "it": "Pokémon Metallolega",
+  "en": "Alloy Pokémon",
+  "ja": "ごうきんポケモン",
+  "zh-hans": "合金宝可梦",
+  "es-419": "Pokémon Aleación"
+ },
+ "flavor": {
+  "ko": "금속으로 된 특수한 몸은 가벼워서 몸놀림이 뛰어나다. 비를 싫어해 동굴에 산다.",
+  "en": "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain."
+ },
+ "varieties": [
+  {
+   "name": "duraludon",
+   "is_default": true
+  },
+  {
+   "name": "duraludon-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "465"
+}

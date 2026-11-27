@@ -1,0 +1,13 @@
+{
+ "name": "greninja-battle-bond",
+ "form_name": "battle-bond",
+ "names": {
+  "fr": "Amphinobi Synergie",
+  "de": "Battle Bond Quajutsu",
+  "en": "Battle Bond Greninja"
+ },
+ "form_names": {
+  "de": "Freundschaftsaktform"
+ },
+ "is_mega": false
+}

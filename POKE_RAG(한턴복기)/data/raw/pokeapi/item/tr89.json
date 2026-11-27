@@ -1,0 +1,25 @@
+{
+ "name": "tr89",
+ "names": {
+  "ja-hrkt": "わざレコード８９",
+  "ko": "기술레코드89",
+  "zh-hant": "招式紀錄８９",
+  "fr": "DT89",
+  "de": "TP89",
+  "es": "DT89",
+  "it": "DT89",
+  "en": "TR89",
+  "ja": "わざレコード８９",
+  "zh-hans": "招式记录８９",
+  "es-419": "DT89"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "강렬한 바람으로 상대를 둘러싸서 공격한다. 상대를 혼란시킬 때가 있다.",
+  "en": "The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.",
+  "ja": "強烈な 風で 相手を 包みこんで 攻撃する。 相手を 混乱させることが ある。"
+ }
+}

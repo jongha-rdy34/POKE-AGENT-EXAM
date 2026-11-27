@@ -1,0 +1,31 @@
+{
+ "name": "black-sludge",
+ "names": {
+  "ja-hrkt": "くろいヘドロ",
+  "ko": "검은오물",
+  "zh-hant": "黑色污泥",
+  "fr": "Boue Noire",
+  "de": "Giftschleim",
+  "es": "Lodo Negro",
+  "it": "Fangopece",
+  "en": "Black Sludge",
+  "ja": "くろいヘドロ",
+  "zh-hans": "黑色污泥",
+  "es-419": "Lodo Negro"
+ },
+ "category": "held-items",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active"
+ ],
+ "effect": {
+  "fr": "Tenu: Le porteur de type Poison regagne 1/16 (6.25%) de ses PV max à chaque tour. Les non-types Poison subissent 1/8 (12.5%) de PV max en dégâts.",
+  "en": "Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It gradually restores HP to Poison-type Pokémon. It damages any other type.",
+  "ko": "지니게 하면 독타입의 포켓몬은 조금씩 HP를 회복한다. 그 이외의 타입은 HP가 줄어 버린다.",
+  "ja": "持たせると どくタイプの ポケモンは 少しずつ ＨＰを 回復する。 それ以外は ＨＰが 減ってしまう。"
+ }
+}

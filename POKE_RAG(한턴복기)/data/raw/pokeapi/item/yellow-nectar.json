@@ -1,0 +1,28 @@
+{
+ "name": "yellow-nectar",
+ "names": {
+  "ja-hrkt": "やまぶきのミツ",
+  "ko": "진노랑꿀",
+  "zh-hant": "金黃色花蜜",
+  "fr": "Nectar Jaune",
+  "de": "Gelber Nektar",
+  "es": "Néctar Amarillo",
+  "it": "Nettare giallo",
+  "en": "Yellow Nectar",
+  "ja": "やまぶきのミツ",
+  "zh-hans": "金黄色花蜜",
+  "es-419": "Néctar Amarillo"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Change Plumeline en Style Pom-Pom.",
+  "en": "Changes Oricorio to Pom-Pom Style."
+ },
+ "flavor": {
+  "ko": "멜레멜레 화원에서 손에 넣은 꽃의 꿀. 특정 포켓몬의 모습을 바꾼다.",
+  "en": "A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.",
+  "ja": "メレメレの花園で 手に入れた 花のミツ。 特定の ポケモンの 姿を 変える。"
+ }
+}

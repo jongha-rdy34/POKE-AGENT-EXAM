@@ -1,0 +1,42 @@
+{
+ "id": 230,
+ "name": "kingdra",
+ "names": {
+  "ja-hrkt": "キングドラ",
+  "ja-roma": "Kingdra",
+  "ko": "킹드라",
+  "zh-hant": "刺龍王",
+  "fr": "Hyporoi",
+  "de": "Seedraking",
+  "es": "Kingdra",
+  "it": "Kingdra",
+  "en": "Kingdra",
+  "ja": "キングドラ",
+  "zh-hans": "刺龙王",
+  "es-419": "Kingdra"
+ },
+ "genus": {
+  "ja-hrkt": "ドラゴンポケモン",
+  "ko": "드래곤포켓몬",
+  "zh-hant": "龍寶可夢",
+  "fr": "Pokémon Dragon",
+  "de": "Drachen-Pokémon",
+  "es": "Pokémon Dragón",
+  "it": "Pokémon Drago",
+  "en": "Dragon Pokémon",
+  "ja": "ドラゴンポケモン",
+  "zh-hans": "龙宝可梦",
+  "es-419": "Pokémon Dragón"
+ },
+ "flavor": {
+  "en": "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts.",
+  "ko": "떨어진 비늘은 왕족에게 헌상될 정도의 최상품으로 심오한 빛을 띤다."
+ },
+ "varieties": [
+  {
+   "name": "kingdra",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "54"
+}

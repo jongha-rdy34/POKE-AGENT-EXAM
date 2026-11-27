@@ -1,0 +1,31 @@
+{
+ "name": "darkest-lariat",
+ "names": {
+  "ja-hrkt": "ＤＤラリアット",
+  "ko": "DD래리어트",
+  "zh-hant": "ＤＤ金勾臂",
+  "fr": "Dark Lariat",
+  "de": "Dark Lariat",
+  "es": "Lariat Oscuro",
+  "it": "Braccioteso",
+  "en": "Darkest Lariat",
+  "ja": "ＤＤラリアット",
+  "zh-hans": "ＤＤ金勾臂",
+  "es-419": "Lariat Oscuro"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": 85,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Ignores the target’s stat modifiers."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "ko": "양팔을 돌려 상대에게 부딪친다. 상대의 능력 변화에 상관없이 데미지를 준다.",
+  "en": "The user swings both arms and hits the target. The target's stat changes don't affect the damage inflicted by this move."
+ }
+}

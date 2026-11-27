@@ -1,0 +1,42 @@
+{
+ "id": 557,
+ "name": "dwebble",
+ "names": {
+  "ja-hrkt": "イシズマイ",
+  "ja-roma": "Ishizumai",
+  "ko": "돌살이",
+  "zh-hant": "石居蟹",
+  "fr": "Crabicoque",
+  "de": "Lithomith",
+  "es": "Dwebble",
+  "it": "Dwebble",
+  "en": "Dwebble",
+  "ja": "イシズマイ",
+  "zh-hans": "石居蟹",
+  "es-419": "Dwebble"
+ },
+ "genus": {
+  "ja-hrkt": "いしやどポケモン",
+  "ko": "돌집포켓몬",
+  "zh-hant": "石居寶可夢",
+  "fr": "Pokémon Lithicole",
+  "de": "Steinhaus-Pokémon",
+  "es": "Pokémon Casapiedra",
+  "it": "Pokémon Pietracasa",
+  "en": "Rock Inn Pokémon",
+  "ja": "いしやどポケモン",
+  "zh-hans": "石居宝可梦",
+  "es-419": "Pokémon Casapiedra"
+ },
+ "flavor": {
+  "en": "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon.",
+  "ko": "집으로 삼기 딱 좋은 돌멩이를 발견하지 못하면 하마돈의 구멍에 살기도 한다."
+ },
+ "varieties": [
+  {
+   "name": "dwebble",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "284"
+}

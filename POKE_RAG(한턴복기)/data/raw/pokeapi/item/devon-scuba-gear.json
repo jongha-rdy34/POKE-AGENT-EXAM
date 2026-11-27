@@ -1,0 +1,28 @@
+{
+ "name": "devon-scuba-gear",
+ "names": {
+  "ja-hrkt": "デボンボンベ",
+  "ko": "데봉봄베",
+  "zh-hant": "得文潛水裝備",
+  "fr": "Plongeur Devon",
+  "de": "Devon-Atemgerät",
+  "es": "Bombona Devon",
+  "it": "Maschera Devon",
+  "en": "Devon Scuba Gear",
+  "ja": "デボンボンベ",
+  "zh-hans": "得文潜水装备",
+  "es-419": "Bombona Devon"
+ },
+ "category": "plot-advancement",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Porté par le joueur lorsqu'il est sous l'eau.",
+  "en": "Worn by the player while underwater."
+ },
+ "flavor": {
+  "ko": "다이빙할 때 몸에 착용하는 산소 호흡용 마스크. 데봉에서 만들어졌다.",
+  "en": "A device made by Devon Corporation that provides oxygen to users during the use of Dive.",
+  "ja": "ダイビング中に 身につける 酸素補給用の マスク。 デボンで つくられた。"
+ }
+}

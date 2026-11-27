@@ -1,0 +1,77 @@
+{
+ "id": 855,
+ "name": "polteageist",
+ "species": "polteageist",
+ "is_default": true,
+ "types": [
+  "ghost"
+ ],
+ "stats": {
+  "hp": 60,
+  "attack": 65,
+  "defense": 65,
+  "special-attack": 134,
+  "special-defense": 114,
+  "speed": 70
+ },
+ "abilities": [
+  {
+   "name": "weak-armor",
+   "hidden": false
+  },
+  {
+   "name": "cursed-body",
+   "hidden": true
+  }
+ ],
+ "height": 2,
+ "weight": 4,
+ "champions_moves": [
+  "ally-switch",
+  "aromatic-mist",
+  "baton-pass",
+  "calm-mind",
+  "confuse-ray",
+  "curse",
+  "dark-pulse",
+  "endure",
+  "facade",
+  "foul-play",
+  "giga-drain",
+  "giga-impact",
+  "hex",
+  "hyper-beam",
+  "imprison",
+  "light-screen",
+  "memento",
+  "nasty-plot",
+  "night-shade",
+  "pain-split",
+  "payback",
+  "phantom-force",
+  "poltergeist",
+  "protect",
+  "psychic",
+  "psyshock",
+  "reflect",
+  "rest",
+  "round",
+  "self-destruct",
+  "shadow-ball",
+  "shell-smash",
+  "skill-swap",
+  "sleep-talk",
+  "snore",
+  "spite",
+  "stored-power",
+  "strength-sap",
+  "substitute",
+  "sucker-punch",
+  "sweet-scent",
+  "teatime",
+  "trick",
+  "trick-room",
+  "will-o-wisp",
+  "wonder-room"
+ ]
+}

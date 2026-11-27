@@ -1,0 +1,28 @@
+{
+ "name": "tm12",
+ "names": {
+  "ja-hrkt": "わざマシン１２",
+  "ko": "기술머신12",
+  "zh-hant": "招式學習器１２",
+  "fr": "CT12",
+  "de": "TM12",
+  "es": "MT12",
+  "it": "MT12",
+  "en": "TM12",
+  "ja": "わざマシン１２",
+  "zh-hans": "招式学习器１２",
+  "es-419": "MT12"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Provoc à un Pokémon compatible. (Gén II: Doux Parfum Gén I:  Pistolet à O)",
+  "en": "Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)"
+ },
+ "flavor": {
+  "en": "In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn.",
+  "ko": "1턴째에 빛을 가득 모아 2턴째에 그 힘을 검에 담아 공격한다.",
+  "ja": "１ターン目に 光を いっぱいに 集め ２ターン目に その 力を 剣に 込めて 攻撃する。"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": 352,
+ "name": "kecleon",
+ "names": {
+  "ja-hrkt": "カクレオン",
+  "ja-roma": "Kakureon",
+  "ko": "켈리몬",
+  "zh-hant": "變隱龍",
+  "fr": "Kecleon",
+  "de": "Kecleon",
+  "es": "Kecleon",
+  "it": "Kecleon",
+  "en": "Kecleon",
+  "ja": "カクレオン",
+  "zh-hans": "变隐龙",
+  "es-419": "Kecleon"
+ },
+ "genus": {
+  "ja-hrkt": "いろへんげポケモン",
+  "ko": "색변화포켓몬",
+  "zh-hant": "變色寶可夢",
+  "fr": "Pokémon Multicolor",
+  "de": "Farbenspiel",
+  "es": "Pokémon Camaleónico",
+  "it": "Pokémon Mutacolore",
+  "en": "Color Swap Pokémon",
+  "ja": "いろへんげポケモン",
+  "zh-hans": "变色宝可梦",
+  "es-419": "Pokémon Camaleónico"
+ },
+ "flavor": {
+  "en": "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+  "ko": "숨을 때 말고도 기분이나 컨디션에 따라 몸의 색이 바뀐다. 색이 진할수록 건강하다."
+ },
+ "varieties": [
+  {
+   "name": "kecleon",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "180"
+}

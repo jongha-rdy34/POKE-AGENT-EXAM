@@ -1,0 +1,31 @@
+{
+ "name": "tail-slap",
+ "names": {
+  "ja-hrkt": "スイープビンタ",
+  "ko": "스위프뺨치기",
+  "zh-hant": "掃尾拍打",
+  "fr": "Plumo-Queue",
+  "de": "Kehrschelle",
+  "es": "Plumerazo",
+  "it": "Spazzasberla",
+  "en": "Tail Slap",
+  "ja": "スイープビンタ",
+  "zh-hans": "扫尾拍打",
+  "es-419": "Golpe de Cola"
+ },
+ "type": "normal",
+ "category": "physical",
+ "power": 25,
+ "accuracy": 85,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Hits 2-5 times in one turn."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user attacks by striking the target with its hard tail. This move hits two to five times in a row.",
+  "ko": "단단한 꼬리로 상대를 때려서 공격한다. 2-5회 동안 연속으로 쓴다."
+ }
+}

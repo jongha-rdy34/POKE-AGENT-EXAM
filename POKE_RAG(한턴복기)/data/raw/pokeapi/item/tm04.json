@@ -1,0 +1,28 @@
+{
+ "name": "tm04",
+ "names": {
+  "ja-hrkt": "わざマシン０４",
+  "ko": "기술머신04",
+  "zh-hant": "招式學習器０４",
+  "fr": "CT04",
+  "de": "TM04",
+  "es": "MT04",
+  "it": "MT04",
+  "en": "TM04",
+  "ja": "わざマシン０４",
+  "zh-hans": "招式学习器０４",
+  "es-419": "MT04"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Plénitude à un Pokémon compatible. (Gén II: Roulade Gén I: Cyclone)",
+  "en": "Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)"
+ },
+ "flavor": {
+  "en": "The target is punched with an icy fist. This may also leave the target frozen.",
+  "ko": "냉기를 담은 펀치로 상대를 공격한다. 얼음 상태로 만들 때가 있다.",
+  "ja": "冷気を こめた パンチで 相手を 攻撃する。 こおり状態に することが ある。"
+ }
+}

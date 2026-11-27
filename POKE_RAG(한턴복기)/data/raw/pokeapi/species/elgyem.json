@@ -1,0 +1,42 @@
+{
+ "id": 605,
+ "name": "elgyem",
+ "names": {
+  "ja-hrkt": "リグレー",
+  "ja-roma": "Ligray",
+  "ko": "리그레",
+  "zh-hant": "小灰怪",
+  "fr": "Lewsor",
+  "de": "Pygraulon",
+  "es": "Elgyem",
+  "it": "Elgyem",
+  "en": "Elgyem",
+  "ja": "リグレー",
+  "zh-hans": "小灰怪",
+  "es-419": "Elgyem"
+ },
+ "genus": {
+  "ja-hrkt": "ブレインポケモン",
+  "ko": "브레인포켓몬",
+  "zh-hant": "腦寶可夢",
+  "fr": "Pokémon Cerveau",
+  "de": "Grips-Pokémon",
+  "es": "Pokémon Cerebro",
+  "it": "Pokémon Cervello",
+  "en": "Cerebral Pokémon",
+  "ja": "ブレインポケモン",
+  "zh-hans": "脑宝可梦",
+  "es-419": "Pokémon Cerebro"
+ },
+ "flavor": {
+  "en": "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers.",
+  "ko": "약 50년 전에 발견된 포켓몬이다. 크게 발달한 뇌로 사이코 파워를 조종한다."
+ },
+ "varieties": [
+  {
+   "name": "elgyem",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "307"
+}

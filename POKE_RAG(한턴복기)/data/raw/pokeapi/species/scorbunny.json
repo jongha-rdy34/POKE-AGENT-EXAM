@@ -1,0 +1,42 @@
+{
+ "id": 813,
+ "name": "scorbunny",
+ "names": {
+  "ja-hrkt": "ヒバニー",
+  "ja-roma": "Hibanny",
+  "ko": "염버니",
+  "zh-hant": "炎兔兒",
+  "fr": "Flambino",
+  "de": "Hopplo",
+  "es": "Scorbunny",
+  "it": "Scorbunny",
+  "en": "Scorbunny",
+  "ja": "ヒバニー",
+  "zh-hans": "炎兔儿",
+  "es-419": "Scorbunny"
+ },
+ "genus": {
+  "ja-hrkt": "うさぎポケモン",
+  "ko": "토끼포켓몬",
+  "zh-hant": "兔子寶可夢",
+  "fr": "Pokémon Lapin",
+  "de": "Hasen-Pokémon",
+  "es": "Pokémon Conejo",
+  "it": "Pokémon Coniglio",
+  "en": "Rabbit Pokémon",
+  "ja": "うさぎポケモン",
+  "zh-hans": "兔子宝可梦",
+  "es-419": "Pokémon Conejo"
+ },
+ "flavor": {
+  "ko": "싸울 준비가 되면 코끝과 발바닥의 볼록살에서 고열을 낸다.",
+  "en": "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat."
+ },
+ "varieties": [
+  {
+   "name": "scorbunny",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "431"
+}

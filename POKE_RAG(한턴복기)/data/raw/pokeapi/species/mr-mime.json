@@ -1,0 +1,46 @@
+{
+ "id": 122,
+ "name": "mr-mime",
+ "names": {
+  "ja-hrkt": "バリヤード",
+  "ja-roma": "Barrierd",
+  "ko": "마임맨",
+  "zh-hant": "魔牆人偶",
+  "fr": "M. Mime",
+  "de": "Pantimos",
+  "es": "Mr. Mime",
+  "it": "Mr. Mime",
+  "en": "Mr. Mime",
+  "ja": "バリヤード",
+  "zh-hans": "魔墙人偶",
+  "es-419": "Mr. Mime"
+ },
+ "genus": {
+  "ja-hrkt": "バリアーポケモン",
+  "ko": "배리어포켓몬",
+  "zh-hant": "屏障寶可夢",
+  "fr": "Pokémon Bloqueur",
+  "de": "Sperren-Pokémon",
+  "es": "Pokémon Barrera",
+  "it": "Pokémon Barriera",
+  "en": "Barrier Pokémon",
+  "ja": "バリアーポケモン",
+  "zh-hans": "屏障宝可梦",
+  "es-419": "Pokémon Barrera"
+ },
+ "flavor": {
+  "en": "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips.",
+  "ko": "팬터마임이 특기다. 손가락에서 내보내는 파동으로 벽을 만들어 갖은 공격으로부터 몸을 지킨다."
+ },
+ "varieties": [
+  {
+   "name": "mr-mime",
+   "is_default": true
+  },
+  {
+   "name": "mr-mime-galar",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "57"
+}

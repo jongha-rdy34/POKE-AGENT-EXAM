@@ -1,0 +1,20 @@
+{
+ "name": "tm119",
+ "names": {
+  "ja-hrkt": "わざマシン１１９",
+  "ko": "기술머신119",
+  "zh-hant": "招式學習器１１９",
+  "fr": "CT119",
+  "de": "TM119",
+  "es": "MT119",
+  "it": "MT119",
+  "en": "TM119",
+  "ja": "わざマシン１１９",
+  "zh-hans": "招式学习器１１９"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

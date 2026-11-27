@@ -1,0 +1,19 @@
+{
+ "name": "tm182",
+ "names": {
+  "ko": "기술머신182",
+  "zh-hant": "招式學習器１８２",
+  "fr": "CT182",
+  "de": "TM182",
+  "es": "MT182",
+  "it": "MT182",
+  "en": "TM182",
+  "ja": "わざマシン１８２",
+  "zh-hans": "招式学习器１８２"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

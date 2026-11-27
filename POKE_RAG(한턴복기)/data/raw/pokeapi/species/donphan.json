@@ -1,0 +1,42 @@
+{
+ "id": 232,
+ "name": "donphan",
+ "names": {
+  "ja-hrkt": "ドンファン",
+  "ja-roma": "Donfan",
+  "ko": "코리갑",
+  "zh-hant": "頓甲",
+  "fr": "Donphan",
+  "de": "Donphan",
+  "es": "Donphan",
+  "it": "Donphan",
+  "en": "Donphan",
+  "ja": "ドンファン",
+  "zh-hans": "顿甲",
+  "es-419": "Donphan"
+ },
+ "genus": {
+  "ja-hrkt": "よろいポケモン",
+  "ko": "갑옷포켓몬",
+  "zh-hant": "鎧甲寶可夢",
+  "fr": "Pokémon Armure",
+  "de": "Panzer",
+  "es": "Pokémon Coraza",
+  "it": "Pokémon Armatura",
+  "en": "Armor Pokémon",
+  "ja": "よろいポケモン",
+  "zh-hans": "铠甲宝可梦",
+  "es-419": "Pokémon Coraza"
+ },
+ "flavor": {
+  "en": "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
+  "ko": "단단한 몸으로 부딪치면 집도 부서진다. 그 힘을 이용해 산길을 막고 있는 토사를 치우는 일을 돕는다."
+ },
+ "varieties": [
+  {
+   "name": "donphan",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "119"
+}

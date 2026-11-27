@@ -1,0 +1,32 @@
+{
+ "name": "draco-plate",
+ "names": {
+  "ja-hrkt": "りゅうのプレート",
+  "ko": "용의플레이트",
+  "zh-hant": "龍之石板",
+  "fr": "Plaque Draco",
+  "de": "Dracotafel",
+  "es": "Tabla Draco",
+  "it": "Lastradrakon",
+  "en": "Draco Plate",
+  "ja": "りゅうのプレート",
+  "zh-hans": "龙之石板",
+  "es-419": "Tabla Draco"
+ },
+ "category": "plates",
+ "cost": null,
+ "attributes": [
+  "holdable",
+  "holdable-active",
+  "underground"
+ ],
+ "effect": {
+  "fr": "Tenu: Les capacités de type Dragon du porteur infligent 20% de dégâts supplémentaires. Change Arceus et le type de Jugement en Dragon.",
+  "en": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon."
+ },
+ "flavor": {
+  "en": "An item to be held by a Pokémon. It’s a stone tablet that boosts the power of Dragon-type moves.",
+  "ko": "드래곤타입의 석판. 지니게 하면 드래곤타입 기술의 위력이 강해진다.",
+  "ja": "ドラゴンの タイプの 石盤。 持たせると ドラゴンタイプの 技の 威力が 強まる。"
+ }
+}

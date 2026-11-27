@@ -1,0 +1,31 @@
+{
+ "name": "metal-sound",
+ "names": {
+  "ja-hrkt": "きんぞくおん",
+  "ko": "금속음",
+  "zh-hant": "金屬音",
+  "fr": "Strido-Son",
+  "de": "Metallsound",
+  "es": "Eco Metálico",
+  "it": "Ferrostrido",
+  "en": "Metal Sound",
+  "ja": "きんぞくおん",
+  "zh-hans": "金属音",
+  "es-419": "Sonido Metálico"
+ },
+ "type": "steel",
+ "category": "status",
+ "power": null,
+ "accuracy": 85,
+ "pp": 40,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Lowers the target’s Special Defense by two stages."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "A horrible sound like scraping metal harshly lowers the target's Sp. Def stat.",
+  "ko": "금속을 긁을 때 나는 듯한 싫은 소리를 들려준다. 상대의 특수방어를 크게 떨어뜨린다."
+ }
+}

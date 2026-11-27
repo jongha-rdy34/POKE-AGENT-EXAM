@@ -1,0 +1,28 @@
+{
+ "name": "tm43",
+ "names": {
+  "ja-hrkt": "わざマシン４３",
+  "ko": "기술머신43",
+  "zh-hant": "招式學習器４３",
+  "fr": "CT43",
+  "de": "TM43",
+  "es": "MT43",
+  "it": "MT43",
+  "en": "TM43",
+  "ja": "わざマシン４３",
+  "zh-hans": "招式学习器４３",
+  "es-419": "MT43"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Apprend Nitrocharge à un Pokémon compatible. (Gén IV & III: Force Cachée Gén II: Détection Gén I: Piqué)",
+  "en": "Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)"
+ },
+ "flavor": {
+  "en": "The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.",
+  "ko": "수도로 기세 좋게 내려쳐서 상대를 공격한다. 빛의장막이나 리플렉터 등도 파괴할 수 있다.",
+  "ja": "手刀を 勢いよく 振りおろして 相手を 攻撃する。 ひかりのかべや リフレクター なども 破壊できる。"
+ }
+}

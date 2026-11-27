@@ -1,0 +1,20 @@
+{
+ "name": "gothita-eyelash",
+ "names": {
+  "ja-hrkt": "ゴチムのまつげ",
+  "ko": "고디탱의속눈썹",
+  "zh-hant": "哥德寶寶的睫毛",
+  "fr": "Cils de Scrutella",
+  "de": "Mollimorba-Wimper",
+  "es": "Pestaña de Gothita",
+  "it": "Ciglia di Gothita",
+  "en": "Gothita Eyelash",
+  "ja": "ゴチムのまつげ",
+  "zh-hans": "哥德宝宝的睫毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

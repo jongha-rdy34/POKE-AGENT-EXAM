@@ -1,0 +1,46 @@
+{
+ "id": 826,
+ "name": "orbeetle",
+ "names": {
+  "ja-hrkt": "イオルブ",
+  "ja-roma": "Eolb",
+  "ko": "이올브",
+  "zh-hant": "以歐路普",
+  "fr": "Astronelle",
+  "de": "Maritellit",
+  "es": "Orbeetle",
+  "it": "Orbeetle",
+  "en": "Orbeetle",
+  "ja": "イオルブ",
+  "zh-hans": "以欧路普",
+  "es-419": "Orbeetle"
+ },
+ "genus": {
+  "ja-hrkt": "ななほしポケモン",
+  "ko": "칠성포켓몬",
+  "zh-hant": "七星寶可夢",
+  "fr": "Pokémon Sept Points",
+  "de": "Siebensterne-Pokémon",
+  "es": "Pokémon Siete Puntos",
+  "it": "Pokémon Settepunti",
+  "en": "Seven Spot Pokémon",
+  "ja": "ななほしポケモン",
+  "zh-hans": "七星宝可梦",
+  "es-419": "Pokémon Siete Puntos"
+ },
+ "flavor": {
+  "ko": "사이코 파워를 발산해 주위를 조사한다. 관측 범위는 주변 10km에 달한다.",
+  "en": "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away."
+ },
+ "varieties": [
+  {
+   "name": "orbeetle",
+   "is_default": true
+  },
+  {
+   "name": "orbeetle-gmax",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "435"
+}

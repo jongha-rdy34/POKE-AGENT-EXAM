@@ -1,0 +1,28 @@
+{
+ "name": "solganium-z--bag",
+ "names": {
+  "ja-hrkt": "ソルガレオＺ",
+  "ko": "솔가레오Z",
+  "zh-hant": "索爾迦雷歐Ｚ",
+  "fr": "Solgazélite",
+  "de": "Solgalium Z",
+  "es": "Solgaleostal Z",
+  "it": "Solgaleium Z",
+  "en": "Solganium Z",
+  "ja": "ソルガレオＺ",
+  "zh-hans": "索尔迦雷欧Ｚ",
+  "es-419": "Solgaleostal Z"
+ },
+ "category": "unused",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "XXX nouvel effet pour solganium-z--bag",
+  "en": "XXX new effect for solganium-z--bag"
+ },
+ "flavor": {
+  "ko": "솔가레오의 메테오드라이브를 Z기술로 업그레이드하는 Z파워의 결정을 만들어 낸다.",
+  "en": "It converts Z-Power into crystals that upgrade Solgaleo’s Sunsteel Strike to an exclusive Z-Move.",
+  "ja": "ソルガレオの メテオドライブを Ｚワザに グレードアップする Ｚパワーの 結晶を つくりだす。"
+ }
+}

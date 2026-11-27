@@ -1,0 +1,23 @@
+{
+ "name": "solid-rock",
+ "names": {
+  "ja-hrkt": "ハードロック",
+  "ko": "하드록",
+  "zh-hant": "堅硬岩石",
+  "fr": "Solide Roc",
+  "de": "Felskern",
+  "es": "Roca Sólida",
+  "it": "Solidroccia",
+  "en": "Solid Rock",
+  "ja": "ハードロック",
+  "zh-hans": "坚硬岩石",
+  "es-419": "Roca Sólida"
+ },
+ "effect": {
+  "en": "Decreases damage taken from super-effective moves by 1/4."
+ },
+ "flavor": {
+  "en": "Reduces the power of supereffective attacks that hit the Pokémon.",
+  "ko": "효과가 굉장한 공격의 위력을 약하게 만든다."
+ }
+}

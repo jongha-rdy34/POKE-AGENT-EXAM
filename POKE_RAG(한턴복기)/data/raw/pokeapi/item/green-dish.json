@@ -1,0 +1,20 @@
+{
+ "name": "green-dish",
+ "names": {
+  "ja-hrkt": "グリーンプレート",
+  "ko": "그린 플레이트",
+  "zh-hant": "綠色盤子",
+  "fr": "Assiette Verte",
+  "de": "Grüner Teller",
+  "es": "Plato Verde",
+  "it": "Piatto verde",
+  "en": "Green Dish",
+  "ja": "グリーンプレート",
+  "zh-hans": "绿色盘子"
+ },
+ "category": "picnic",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

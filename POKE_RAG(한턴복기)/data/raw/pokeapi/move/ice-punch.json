@@ -1,0 +1,31 @@
+{
+ "name": "ice-punch",
+ "names": {
+  "ja-hrkt": "れいとうパンチ",
+  "ko": "냉동펀치",
+  "zh-hant": "冰凍拳",
+  "fr": "Poing Glace",
+  "de": "Eishieb",
+  "es": "Puño Hielo",
+  "it": "Gelopugno",
+  "en": "Ice Punch",
+  "ja": "れいとうパンチ",
+  "zh-hans": "冰冻拳",
+  "es-419": "Puño Hielo"
+ },
+ "type": "ice",
+ "category": "physical",
+ "power": 75,
+ "accuracy": 100,
+ "pp": 15,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Has a chance to freeze the target."
+ },
+ "effect_chance": 10,
+ "flavor": {
+  "en": "The target is attacked with an icy punch. This may also leave the target frozen.",
+  "ko": "냉기를 담은 펀치로 상대를 공격한다. 얼음 상태로 만들 때가 있다."
+ }
+}

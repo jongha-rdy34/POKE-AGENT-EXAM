@@ -1,0 +1,20 @@
+{
+ "name": "azurill-fur",
+ "names": {
+  "ja-hrkt": "ルリリのけ",
+  "ko": "루리리의털",
+  "zh-hant": "露力麗的毛",
+  "fr": "Poils d'Azurill",
+  "de": "Azurill-Haar",
+  "es": "Pelo de Azurill",
+  "it": "Pelo di Azurill",
+  "en": "Azurill Fur",
+  "ja": "ルリリのけ",
+  "zh-hans": "露力丽的毛"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

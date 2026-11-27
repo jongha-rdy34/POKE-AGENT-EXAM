@@ -1,0 +1,42 @@
+{
+ "id": 166,
+ "name": "ledian",
+ "names": {
+  "ja-hrkt": "レディアン",
+  "ja-roma": "Redian",
+  "ko": "레디안",
+  "zh-hant": "安瓢蟲",
+  "fr": "Coxyclaque",
+  "de": "Ledian",
+  "es": "Ledian",
+  "it": "Ledian",
+  "en": "Ledian",
+  "ja": "レディアン",
+  "zh-hans": "安瓢虫",
+  "es-419": "Ledian"
+ },
+ "genus": {
+  "ja-hrkt": "いつつぼしポケモン",
+  "ko": "별다섯포켓몬",
+  "zh-hant": "五星寶可夢",
+  "fr": "Pokémon 5 Étoiles",
+  "de": "Fünf-Punkt",
+  "es": "Pokémon 5 Estrellas",
+  "it": "Pokémon Pentastra",
+  "en": "Five Star Pokémon",
+  "ja": "いつつぼしポケモン",
+  "zh-hans": "五星宝可梦",
+  "es-419": "Pokémon 5 Estrellas"
+ },
+ "flavor": {
+  "en": "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
+  "ko": "반짝이는 가루를 흩뿌리며 밤하늘을 난다. 가루가 몸에 붙으면 좋은 일이 생긴다고 전해진다."
+ },
+ "varieties": [
+  {
+   "name": "ledian",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "84"
+}

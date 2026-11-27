@@ -1,0 +1,23 @@
+{
+ "name": "ripen",
+ "names": {
+  "ja-hrkt": "じゅくせい",
+  "ko": "숙성",
+  "zh-hant": "熟成",
+  "fr": "Mûrissement",
+  "de": "Heranreifen",
+  "es": "Maduración",
+  "it": "Maturazione",
+  "en": "Ripen",
+  "ja": "じゅくせい",
+  "zh-hans": "熟成",
+  "es-419": "Maduración"
+ },
+ "effect": {
+  "en": "Doubles the effect of berries."
+ },
+ "flavor": {
+  "ko": "나무열매를 숙성시켜서 효과가 2배가 된다.",
+  "en": "Ripens Berries and doubles their effect."
+ }
+}

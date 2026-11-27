@@ -1,0 +1,42 @@
+{
+ "id": 630,
+ "name": "mandibuzz",
+ "names": {
+  "ja-hrkt": "バルジーナ",
+  "ja-roma": "Vulgina",
+  "ko": "버랜지나",
+  "zh-hant": "禿鷹娜",
+  "fr": "Vaututrice",
+  "de": "Grypheldis",
+  "es": "Mandibuzz",
+  "it": "Mandibuzz",
+  "en": "Mandibuzz",
+  "ja": "バルジーナ",
+  "zh-hans": "秃鹰娜",
+  "es-419": "Mandibuzz"
+ },
+ "genus": {
+  "ja-hrkt": "ほねわしポケモン",
+  "ko": "뼈독수리포켓몬",
+  "zh-hant": "骨鷹寶可夢",
+  "fr": "Pokémon Vostour",
+  "de": "Knochenadler-Pokémon",
+  "es": "Pokémon Buitre Hueso",
+  "it": "Pokémon Ossaquila",
+  "en": "Bone Vulture Pokémon",
+  "ja": "ほねわしポケモン",
+  "zh-hans": "骨鹰宝可梦",
+  "es-419": "Pokémon Buitre Hueso"
+ },
+ "flavor": {
+  "en": "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity.",
+  "ko": "주운 뼈로 몸을 장식한다. 몸에 두르는 뼈의 모양은 유행이 있는 듯하다."
+ },
+ "varieties": [
+  {
+   "name": "mandibuzz",
+   "is_default": true
+  }
+ ],
+ "evolution_chain": "320"
+}

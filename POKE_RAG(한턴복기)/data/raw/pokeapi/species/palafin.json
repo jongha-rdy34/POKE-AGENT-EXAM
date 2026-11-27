@@ -1,0 +1,41 @@
+{
+ "id": 964,
+ "name": "palafin",
+ "names": {
+  "ja-hrkt": "イルカマン",
+  "ja-roma": "Irukaman",
+  "ko": "돌핀맨",
+  "zh-hant": "海豚俠",
+  "fr": "Superdofin",
+  "de": "Delfinator",
+  "es": "Palafin",
+  "it": "Palafin",
+  "en": "Palafin",
+  "ja": "イルカマン",
+  "zh-hans": "海豚侠",
+  "es-419": "Palafin"
+ },
+ "genus": {
+  "ja-hrkt": "イルカポケモン",
+  "ko": "돌고래포켓몬",
+  "zh-hant": "海豚寶可夢",
+  "fr": "Dauphin/Super Héros",
+  "de": "Delfin",
+  "en": "Dolphin Pokémon",
+  "zh-hans": "海豚宝可梦"
+ },
+ "flavor": {
+  "en": "Its physical capabilities are no different than a Finizen’s, but when its allies are in danger, it transforms and powers itself up."
+ },
+ "varieties": [
+  {
+   "name": "palafin-zero",
+   "is_default": true
+  },
+  {
+   "name": "palafin-hero",
+   "is_default": false
+  }
+ ],
+ "evolution_chain": "504"
+}

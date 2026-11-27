@@ -1,0 +1,34 @@
+{
+ "name": "max-ether",
+ "names": {
+  "ja-hrkt": "ピーピーリカバー",
+  "ko": "PP회복",
+  "zh-hant": "ＰＰ單項全補劑",
+  "fr": "Huile Max",
+  "de": "Top-Äther",
+  "es": "Éter Máximo",
+  "it": "Etere Max",
+  "en": "Max Ether",
+  "ja": "ピーピーリカバー",
+  "zh-hans": "ＰＰ单项全补剂",
+  "es-419": "Éter Máximo"
+ },
+ "category": "pp-recovery",
+ "cost": null,
+ "attributes": [
+  "countable",
+  "consumable",
+  "usable-overworld",
+  "usable-in-battle",
+  "holdable"
+ ],
+ "effect": {
+  "fr": "Restaure les PP au maximum pour une capacité.",
+  "en": "Restores PP to full for one move."
+ },
+ "flavor": {
+  "en": "This medicine can be used to fully restore the PP of a single selected move that has been learned by a Pokémon.",
+  "ko": "포켓몬이 기억하고 있는 기술 중 1개의 PP를 모두 회복한다.",
+  "ja": "ポケモンが 覚えている 技のうち １つの ＰＰを すべて 回復する。"
+ }
+}

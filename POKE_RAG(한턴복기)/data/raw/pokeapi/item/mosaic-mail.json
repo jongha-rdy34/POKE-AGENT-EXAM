@@ -1,0 +1,22 @@
+{
+ "name": "mosaic-mail",
+ "names": {
+  "ja-hrkt": "モザイクメール",
+  "fr": "Lettremosaïk",
+  "de": "Mosaikbrief",
+  "es": "Car. Mosaico",
+  "it": "Mess. Iride",
+  "en": "Mosaic Mail",
+  "es-419": "Car. Mosaico"
+ },
+ "category": "all-mail",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Permet à un Dresseur d'écrire un message et de l'envoyer via un échange Pokémon.",
+  "en": "Lets a Trainer write a message and send it via Pokémon trade."
+ },
+ "flavor": {
+  "en": "Stationery featuring a print of a vivid rainbow pattern. Let a Pokémon hold it for delivery."
+ }
+}

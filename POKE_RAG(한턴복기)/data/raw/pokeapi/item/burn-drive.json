@@ -1,0 +1,28 @@
+{
+ "name": "burn-drive",
+ "names": {
+  "ja-hrkt": "ブレイズカセット",
+  "ko": "블레이즈카세트",
+  "zh-hant": "火焰卡帶",
+  "fr": "Module Pyro",
+  "de": "Flammenmodul",
+  "es": "PiroROM",
+  "it": "Piromodulo",
+  "en": "Burn Drive",
+  "ja": "ブレイズカセット",
+  "zh-hans": "火焰卡带",
+  "es-419": "PiroROM"
+ },
+ "category": "species-specific",
+ "cost": null,
+ "attributes": [],
+ "effect": {
+  "fr": "Donne à Genesect un Techno-Buster rouge, de type Feu.",
+  "en": "Grants Genesect a red, Fire-type Techno Blast."
+ },
+ "flavor": {
+  "en": "A cassette to be held by Genesect. It changes Genesect’s Techno Blast move so it becomes Fire type.",
+  "ko": "게노세크트에게 지니게 하면 테크노버스터라는 기술이 불꽃타입으로 바뀌는 카세트.",
+  "ja": "ゲノセクトに 持たせると テクノバスターという 技が ほのおタイプになる カセット。"
+ }
+}

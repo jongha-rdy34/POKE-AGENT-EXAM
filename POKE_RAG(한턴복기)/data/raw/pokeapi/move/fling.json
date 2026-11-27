@@ -1,0 +1,31 @@
+{
+ "name": "fling",
+ "names": {
+  "ja-hrkt": "なげつける",
+  "ko": "내던지기",
+  "zh-hant": "投擲",
+  "fr": "Dégommage",
+  "de": "Schleuder",
+  "es": "Lanzamiento",
+  "it": "Lancio",
+  "en": "Fling",
+  "ja": "なげつける",
+  "zh-hans": "投掷",
+  "es-419": "Lanzamiento"
+ },
+ "type": "dark",
+ "category": "physical",
+ "power": null,
+ "accuracy": 100,
+ "pp": 10,
+ "priority": 0,
+ "target": "selected-pokemon",
+ "effect": {
+  "en": "Throws held item at the target; power depends on the item."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user flings its held item at the target to attack. This move's power and effects depend on the item.",
+  "ko": "지니게 한 도구를 재빠르게 내던져서 공격한다. 도구에 따라 위력과 효과가 바뀐다."
+ }
+}

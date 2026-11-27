@@ -1,0 +1,20 @@
+{
+ "name": "seviper-fang",
+ "names": {
+  "ja-hrkt": "ハブネークのキバ",
+  "ko": "세비퍼의이빨",
+  "zh-hant": "飯匙蛇的牙",
+  "fr": "Croc de Séviper",
+  "de": "Vipitis-Zahn",
+  "es": "Colmillo de Seviper",
+  "it": "Zanna di Seviper",
+  "en": "Seviper Fang",
+  "ja": "ハブネークのキバ",
+  "zh-hans": "饭匙蛇的牙"
+ },
+ "category": "tm-materials",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {}
+}

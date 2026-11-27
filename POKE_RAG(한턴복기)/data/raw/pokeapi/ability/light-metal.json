@@ -1,0 +1,23 @@
+{
+ "name": "light-metal",
+ "names": {
+  "ja-hrkt": "ライトメタル",
+  "ko": "라이트메탈",
+  "zh-hant": "輕金屬",
+  "fr": "Light Metal",
+  "de": "Leichtmetall",
+  "es": "Metal Liviano",
+  "it": "Metalleggero",
+  "en": "Light Metal",
+  "ja": "ライトメタル",
+  "zh-hans": "轻金属",
+  "es-419": "Metal Liviano"
+ },
+ "effect": {
+  "en": "Halves the Pokémon's weight."
+ },
+ "flavor": {
+  "en": "Halves the Pokémon's weight.",
+  "ko": "자신의 무게가 절반이 된다."
+ }
+}

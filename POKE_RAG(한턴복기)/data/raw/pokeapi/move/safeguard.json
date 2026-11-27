@@ -1,0 +1,31 @@
+{
+ "name": "safeguard",
+ "names": {
+  "ja-hrkt": "しんぴのまもり",
+  "ko": "신비의부적",
+  "zh-hant": "神秘守護",
+  "fr": "Rune Protect",
+  "de": "Bodyguard",
+  "es": "Velo Sagrado",
+  "it": "Salvaguardia",
+  "en": "Safeguard",
+  "ja": "しんぴのまもり",
+  "zh-hans": "神秘守护",
+  "es-419": "Velo Sagrado"
+ },
+ "type": "normal",
+ "category": "status",
+ "power": null,
+ "accuracy": null,
+ "pp": 25,
+ "priority": 0,
+ "target": "users-field",
+ "effect": {
+  "en": "Protects the user’s field from major status ailments and confusion for five turns."
+ },
+ "effect_chance": null,
+ "flavor": {
+  "en": "The user creates a protective field that prevents status conditions for five turns.",
+  "ko": "5턴 동안 이상한 힘의 보호를 받아 상태 이상이 되지 않는다."
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "name": "tr77",
+ "names": {
+  "ja-hrkt": "わざレコード７７",
+  "ko": "기술레코드77",
+  "zh-hant": "招式紀錄７７",
+  "fr": "DT77",
+  "de": "TP77",
+  "es": "DT77",
+  "it": "DT77",
+  "en": "TR77",
+  "ja": "わざレコード７７",
+  "zh-hans": "招式记录７７",
+  "es-419": "DT77"
+ },
+ "category": "all-machines",
+ "cost": null,
+ "attributes": [],
+ "effect": {},
+ "flavor": {
+  "ko": "풀을 휘감아서 상대를 쓰러뜨린다. 상대가 무거울수록 위력이 올라간다.",
+  "en": "The user snares the target with grass and trips it. The heavier the target, the greater the move’s power.",
+  "ja": "草を からませて 相手を 転ばせる。相手が 重いほど 威力が あがる。"
+ }
+}
